@@ -1,0 +1,702 @@
+<?xml version="1.0"?>
+<project name="textractor-pubmed" default="medline-update" basedir="..">
+    <description>
+        This is the Ant build file for maintaining and using the
+        PubMed corpus with Textractor.
+    </description>
+
+    <property name="build" location="build"/>
+
+    <!-- Index file location -->
+    <property name="basename" value="index/pubmed-index"/>
+
+    <!-- Collect expansion defaults -->
+    <property name="direction" value="left"/>
+    <property name="template" value=" ( acronym ) "/>
+    <property name="rejection" value="reject.txt"/>
+    <property name="acronyms-input" value="data/acronyms.txt"/>
+    <property name="output" value="acronyms-expansion.xml"/>
+    <property name="ic" value="5"/>
+    <property name="ms" value="5"/>
+    <property name="threshold" value="5"/>
+    <property name="sample" value="-sample"/>
+    <property name="doc-store" value="-doc-store"/>
+
+    <!-- Java properties -->
+    <property name="debug" value="off"/>
+    <property name="fork" value="yes"/>
+    <property name="debug.jvm" value="-Ddummy=true"/>
+    <property name="debug.remote" value="-Ddummy=true"/>
+
+    <property name="classes" location="classes"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="src" location="src"/>
+    <property name="output" location="output"/>
+    <property name="bin" location="bin"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <property name="medline-baseline-dir" value="/home/icb/db/pubmed/09/medleasebaseline"/>
+    <property name="medline-update-dir" value="/home/icb/db/pubmed/09/medlease"/>
+    <property name="medline-publish-dir" value="/home/twease/medline/index"/>
+    <property name="medline-file-list" value="medline-files.txt"/>
+
+    <property name="pubmed-query-script" location="${bin}/get-pubmed-articles.pl"/>
+    <property name="pubmed-query-xml-publicid" value="-//NLM//DTD PubMedArticle, 1st January 2009//EN"/>
+    <property name="pubmed-query-xml-dtd" value="http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd"/>
+
+    <property name="cclastgoodbuildtimestamp" value="19700101000000"/>
+
+    <!-- Tomcat defaults - override these for your configuration -->
+    <property name="tomcat.home" location="${env.CATALINA_HOME}"/>
+    <property name="tomcat.server" value="localhost"/>
+    <property name="tomcat.port" value="8080"/>
+    <property name="tomcat.manager.url" value="http://${tomcat.server}:${tomcat.port}/manager"/>
+    <property name="tomcat.username" value="admin"/>
+    <property name="tomcat.password" value=""/>
+    <property name="max-memory" value="600m"/>
+    <property name="chunk-size" value="1000"/>
+
+    <!-- Tomcat task definitions -->
+    <taskdef file="${config}/ant/tomcat-tasks.properties" onerror="report">
+        <classpath>
+            <pathelement path="${tomcat.home}/server/lib/catalina-ant.jar"/>
+        </classpath>
+    </taskdef>
+
+    <tstamp>
+        <format property="cctimestamp" pattern="yyyyMMddHHmmss"/>
+    </tstamp>
+
+    <taskdef resource="net/sf/antcontrib/antlib.xml" onerror="fail">
+        <classpath>
+            <pathelement location="${lib}/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <path id="run.classpath">
+        <pathelement location="${config}"/>
+        <pathelement location="${classes}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+    </path>
+
+    <target name="init">
+        <mkdir dir="output"/>
+    </target>
+
+    <fileset id="medline-baseline" dir="${medline-baseline-dir}">
+        <include name="*.xml.gz"/>
+    </fileset>
+    <fileset id="medline-updates" dir="${medline-update-dir}">
+        <include name="*.xml.gz"/>
+    </fileset>
+
+
+    <!-- ==================== Index PubMed =========================== -->
+    <target name="index" description="Index PubMed.">
+        <echo level="info" message="Creating document index for PubMed."/>
+        <antcall target="build-document-index">
+            <param name="basename" value="${basename}"/>
+            <param name="otherOptions"
+                   value="-indexParentheses -chunk-size ${chunk-size} -batch-size 20Mi -skips -wordReader textractor.mg4j.io.TweaseWordReader2 -termProcessor textractor.mg4j.index.TweaseTermProcessor"/>
+        </antcall>
+
+        <antcall target="medline-dym"/>
+        <antcall target="build-case-insensitive-store"/>
+    </target>
+
+    <target name="build-document-index">
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="build-didyoumean-index">
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.didyoumean.DidYouMeanIndexer" maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions}"/>
+            <arg line="-threshold ${threshold}"/>
+            <arg line="-batch-size ${batch-size}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="build-case-insensitive-store" depends="init" description="Build Case Insensitive Store">
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.caseInsensitive.CaseInsensitiveBuilder"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="--basename ${basename}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="build-document-store" depends="init" description="Build Document Store">
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.docstore.BuildDocStore"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions} -chunk-size ${chunk-size} -optimize"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="tf-idf" depends="init" description="Build TF-IDF data structure">
+        <input message="Please enter the index filename (basename, eg: index/pubmed-index)"
+               addproperty="tfidf-basename"
+               defaultvalue="trec-2004-nostem/index"/>
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.docstore.DocStore2TfIdf"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${tfidf-basename} "/>
+            <!--arg line="-min-support 900"/-->
+            <arg line="-mindf 0.00001"/>
+            <arg line="-maxdf 0.2"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="combine-pubmed-batches" description="Combine batches for pubmed.">
+        <antcall target="combine-document-indexes">
+            <param name="basename" value="index/pubmed-index"/>
+            <param name="output-basename" value="index/combined-index"/>
+        </antcall>
+    </target>
+
+    <target name="combine-document-indexes" depends="init" description="Combines index batches.">
+        <echo level="verbose" message="basename: ${basename}"/>
+
+        <pathconvert property="input-basenames" pathsep=" " setonempty="false">
+            <path id="input.basenames.path">
+                <fileset dir="${basedir}">
+                    <include name="${basename}-text@*"/>
+                </fileset>
+            </path>
+            <mapper type="glob" from="${basename}-text*" to="${basename}-text*-foo"/>
+        </pathconvert>
+
+        <echo level="verbose" message="input-basenames: ${input-basenames}"/>
+
+        <java dir="${basedir}"
+              fork="true"
+              classname="it.unimi.dsi.mg4j.tool.Combine"
+              failonerror="true"
+              maxmemory="${max-memory">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg value="${output-basename}"/>
+            <arg value="${input-basenames}"/>
+        </java>
+    </target>
+
+    <!-- COLLECT EXPANSION TARGETS -->
+    <target name="collect-expansions-output"
+            description="Collect expansions for PubMed corpus, and output to location specified by user">
+        <antcall target="echo-collect-expansion-settings"/>
+
+        <input message="Please enter XML output filename (where expansions will be written)"
+               addproperty="output-filename"
+               defaultvalue="${output}"/>
+
+        <antcall target="perform-collect-expansions">
+            <param name="term-input-fileacronyms_input" value="${acronyms-input}"/>
+            <param name="acronyms_output" value="${output-filename}"/>
+            <param name="reject_output" value="${rejection}"/>
+            <param name="template" value="${template}"/>
+            <param name="direction" value="${direction}"/>
+            <param name="basename" value="${basename}"/>
+        </antcall>
+    </target>
+
+    <target name="collect-expansions" description="Collect expansions for PubMed corpus">
+        <antcall target="perform-collect-expansions">
+            <param name="acronyms_input" value="${acronyms-input}"/>
+            <param name="acronyms_output" value="${output}"/>
+            <param name="reject_output" value="${rejection}"/>
+            <param name="template" value="${template}"/>
+            <param name="direction" value="${direction}"/>
+            <param name="basename" value="${basename}"/>
+        </antcall>
+
+    </target>
+
+    <target name="collect-expansions-ask" description="Collect expansions based on user responses">
+        <input message="Please enter the index filename (basename, eg: index/pubmed-index)"
+               addproperty="basename"
+               defaultvalue="${basename}"/>
+        <input message="Please enter the input filename (one abbreviation per line, single term)"
+               addproperty="input-filename"
+               defaultvalue="${acronyms-input}"/>
+        <input message="Please enter output filename (where expansions will be written)"
+               addproperty="output-filename"
+               defaultvalue="${output}"/>
+        <input message="Please enter rejected-list filename (where expansions that cannot be expanded will be written)"
+               addproperty="rejection-filename"
+               defaultvalue="${rejection}"/>
+        <input message="Please enter the template (e.g., '( acronym )')"
+               addproperty="template"
+               defaultvalue="${template}"/>
+        <input message="Please enter the direction of expansion (i.e., left|right, default left')"
+               addproperty="direction" validargs="left,right"
+               defaultvalue="${direction}"/>
+
+        <antcall target="perform-collect-expansions">
+            <param name="acronyms_input" value="${input-filename}"/>
+            <param name="acronyms_output" value="${output-filename}"/>
+            <param name="reject_output" value="${rejection-filename}"/>
+            <param name="template" value="${template}"/>
+            <param name="direction" value="${direction}"/>
+            <param name="basename" value="${basename}"/>
+        </antcall>
+    </target>
+
+    <target name="perform-collect-expansions" description="Collection expansions for data/acronyms.txt">
+        <echo level="info" message="Processing ${acronyms_input} -> ${acronyms_output} / ${reject_output}"/>
+
+        <java dir="${basedir}"
+              fork="${fork}"
+              failonerror="true"
+              classname="textractor.tools.expansion.CollectExpansions"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+            <arg line="-i ${acronyms_input}"/>
+            <arg line="-o ${acronyms_output}"/>
+            <arg line="-reject-list ${reject_output}"/>
+            <arg line="-ic ${ic}"/>
+            <arg value="${doc-store}"/>
+            <arg line="-threshold ${threshold}"/>
+            <arg line="-ms ${ms}"/>
+            <arg value="${sample}"/>
+            <arg value="-${direction}"/>
+            <arg line="-basename ${basename}"/>
+            <arg line="-template '${template}'"/>
+        </java>
+    </target>
+    <target name="biostemmer-phase1" description="Performs phase1 of biostemmer model construction">
+        <input message="Please enter the index filename (basename, eg: index/pubmed-index)"
+               addproperty="medline-basename"/>
+        <parallel threadcount="4" threadsperprocessor="1">
+
+            <biostemmer-phaseI-one-file term-input-file="terms-3" basename="${medline-basename}"/>
+            <biostemmer-phaseI-one-file term-input-file="terms-2" basename="${medline-basename}"/>
+            <biostemmer-phaseI-one-file term-input-file="terms-1" basename="${medline-basename}"/>
+            <biostemmer-phaseI-one-file term-input-file="terms-4" basename="${medline-basename}"/>
+
+        </parallel>
+    </target>
+
+    <macrodef name="biostemmer-phaseI-one-file" description="Performs phase1 of biostemmer model construction">
+        <attribute name="basename"/>
+        <attribute name="term-input-file"/>
+        <sequential>
+
+            <echo level="info" message="Processing @{term-input-file}"/>
+
+            <java dir="${basedir}"
+                  fork="${fork}"
+                  failonerror="true"
+                  classname="textractor.tools.biostems.StemTermDictionary"
+                  maxmemory="${max-memory}">
+                <classpath refid="run.classpath"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+                <arg line="-biostemmer"/>
+                <arg line="-1 -ml 2"/>
+                <arg line="-i @{term-input-file}"/>
+                <arg line="-o stems-@{term-input-file}"/>
+                <arg line="-basename @{basename}"/>
+
+            </java>
+        </sequential>
+    </macrodef>
+    <target name="biostemmer-phase2" description="Performs phase 2 of biostemmer model construction">
+        <input message="Please enter the word-list filename (file that contains the words to parse into prefix/stem/suffix)"
+               addproperty="word-list"
+               defaultvalue="word-list"/>
+        <input message="Please enter the language model filename"
+               addproperty="language-model"
+               defaultvalue="all-terms-n2.lm"/>
+        <input message="Please enter the symbol filename"
+               addproperty="symbols"
+               defaultvalue="all-terms-symbols.txt"/>
+        <input message="FSM library path"
+               addproperty="fsm-lib-path"
+               defaultvalue="/home/campagne/bin"/>
+        <input message="Where should the output be written"
+               addproperty="output-file"
+               defaultvalue="biostemmer-phase2-output.txt"/>
+
+        <java classname="textractor.tools.biostems.FSMPrefixSuffix" fork="true">
+
+            <classpath refid="run.classpath"/>
+            <jvmarg line="-Dfsm.library.path=${fsm-lib-path}"/>
+            <arg line="-word-list ${word-list} -lm ${language-model} -symbols ${symbols}"/>
+            <redirector output="${output-file}"/>
+        </java>
+    </target>
+    <target name="echo-collect-expansion-settings">
+        <echo level="info" message="About to collect expansions with:"/>
+        <echo level="info" message="IC: ${ic}"/>
+        <echo level="info" message="MS: ${ms}"/>
+        <echo level="info" message="Threshold: ${threshold}"/>
+        <echo level="info" message="Sample: ${sample}"/>
+    </target>
+
+    <target name="medline-create-filelist" description="Create a list of medline files to process">
+        <delete file="${medline-file-list}" failonerror="false"/>
+        <!-- once the property "bad-checksum" is set, no more files will be added to the list -->
+        <for param="file" trim="yes">
+            <path>
+                <!-- note that the order matters here - we may need to sort at some point -->
+                <fileset refid="medline-baseline"/>
+                <fileset refid="medline-updates"/>
+            </path>
+            <sequential>
+                <if>
+                    <not>
+                        <isset property="bad-checksum"/>
+                    </not>
+                    <then>
+                        <!-- baseline md5 files are in the correct form "MD5 (filename) = md5sum" -->
+                        <checksum algorithm="md5" file="@{file}" verifyProperty="isMD5ok"/>
+                        <if>
+                            <isset property="isMD5ok"/>
+                            <then>
+                                <echo level="info" message="Adding @{file}"/>
+                                <echo file="${medline-file-list}" message="@{file}${line.separator}" append="true"/>
+                            </then>
+                            <else>
+                                <echo level="warning" message="Skipping @{file}"/>
+                            </else>
+                        </if>
+                    </then>
+                </if>
+            </sequential>
+        </for>
+
+        <!-- get articles that have not been added to medline directly from pubmed -->
+        <antcall target="add-non-medline-articles"/>
+    </target>
+
+    <target name="medline-update"
+            depends="clean, medline-create-filelist, medline-index, medline-docstore, medline-dym, build-case-insensitive-store, medline-tfidf"
+            description="Cruisecontrol target used to sync the database and index with new medline files"/>
+
+    <target name="medline-index" depends="compile"
+            description="Create index and document store for files already loaded into the database">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/medline/indexer.xml'"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+
+        <!--property name="tfidf-basename" value="${basename}"/>
+        <antcall target="tf-idf"/-->
+    </target>
+
+    <macrodef name="tf-idf">
+        <attribute name="basename"/>
+        <attribute name="min-document-frequency" default="0.00001"/>
+        <attribute name="max-document-frequency" default="0.2"/>
+        <attribute name="max-memory" default="1200m"/>
+        <attribute name="chunk-size" default="10000"/>
+        <sequential>
+
+            <java dir="${basedir}"
+                  fork="true"
+                  failonerror="true"
+                  classname="textractor.tools.docstore.DocStore2TfIdf"
+                  maxmemory="@{max-memory}">
+
+                <classpath refid="run.classpath"/>
+                <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+                <arg line="-basename @{basename}"/>
+                <!--arg line="-min-support 900"/-->
+                <arg line="-mindf @{min-document-frequency}"/>
+                <arg line="-maxdf @{max-document-frequency}"/>
+                <arg line="-min-support 50"/>
+                <arg line="-chunk-size @{chunk-size}"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <target name="medline-dym" depends="compile"
+            description="Create index and document store for files already loaded into the database">
+        <echo level="info" message="Creating did you mean index for PubMed."/>
+        <antcall target="build-didyoumean-index">
+            <param name="basename" value="${basename}"/>
+            <param name="threshold" value="5"/>
+            <param name="batch-size" value="2Mi"/>
+            <param name="otherOptions"
+                   value="-indexParentheses -skips -wordReader textractor.mg4j.io.TweaseWordReader2 -termProcessor textractor.mg4j.index.TweaseTermProcessor"/>
+        </antcall>
+    </target>
+    <target name="medline-tfidf" depends="compile"
+            description="Create index and document store for files already loaded into the database">
+        <echo level="info" message="Creating TfIdf info for PubMed."/>
+        <tf-idf max-document-frequency="0.8" basename="${basename}"/>
+    </target>
+
+
+    <target name="medline-docstore" depends="compile">
+        <!-- Load and build docstore using index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/medline/docstore.xml'"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="medline-title-sample" depends="compile">
+        <!-- Load and build docstore using index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/medline/sampler.xml'"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="medline-sentence-extractor" depends="compile">
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.util.SentenceExtractor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+            <arg value="--basename"/>
+            <arg value="/home/icb/textractor/medline-notitle/index/twease/pubmed-index"/>
+            <arg value="--file"/>
+            <arg value="../twease/data/medline/1k-titles.tsv"/>
+            <arg value="--number"/>
+            <arg value="3"/>
+            <arg value="--output"/>
+            <arg value="1k-sentences.tsv"/>
+        </java>
+    </target>
+
+    <target name="clean">
+        <ant antfile="${build}/build.xml" target="clean" inheritrefs="true"/>
+    </target>
+
+    <target name="compile">
+        <ant antfile="${build}/build.xml" target="compile" inheritrefs="true"/>
+    </target>
+
+    <!-- this target will be run after a good cruisecontol medline build -->
+    <target name="publish" description="Publishes results of medline builds">
+        <!-- delete older medline backups, save the latest 3 backup files -->
+        <timestampselector count="3" age="youngest" property="medline.files.to.keep">
+            <path>
+                <fileset dir="${medline-publish-dir}" includes="medline*.tgz"/>
+            </path>
+        </timestampselector>
+
+        <for param="medline.backup.file">
+            <fileset dir="${medline-publish-dir}" includes="medline*.tgz"/>
+            <sequential>
+                <if>
+                    <!-- if the file is not one of the more recent backups, delete it -->
+                    <contains substring="@{medline.backup.file}" string="${medline.files.to.keep}"/>
+                    <then>
+                        <echo level="verbose" message="keeping @{medline.backup.file}"/>
+                    </then>
+                    <else>
+                        <echo level="verbose" message="deleting @{medline.backup.file}"/>
+                        <delete file="@{medline.backup.file}" failonerror="false"/>
+                    </else>
+                </if>
+            </sequential>
+        </for>
+
+        <!-- compress any directories in the publish destination -->
+        <if>
+            <os name="Linux"/>
+            <then>
+                <for param="indexdir" parallel="true">
+                    <dirset dir="${medline-publish-dir}" includes="medline*"/>
+                    <sequential>
+                        <echo level="verbose" message="Backing up @{indexdir}"/>
+                        <!-- ant tar task can't handle really big files so we exec tar manually -->
+                        <!-- see http://issues.apache.org/bugzilla/show_bug.cgi?id=34241 -->
+                        <!-- <tar destfile="@{indexdir}.tgz" compression="gzip" basedir="@{indexdir}"/> -->
+                        <exec executable="/bin/tar" failonerror="true" os="Linux" dir="${medline-publish-dir}">
+                            <arg value="--create"/>
+                            <arg value="--gzip"/>
+                            <arg value="--verbose"/>
+                            <arg value="--directory"/>
+                            <arg value="@{indexdir}"/>
+                            <arg value="--file"/>
+                            <arg value="@{indexdir}.tgz"/>
+                            <arg value="@{indexdir}"/>
+                        </exec>
+                        <delete dir="@{indexdir}" failonerror="true"/>
+                    </sequential>
+                </for>
+            </then>
+            <else>
+                <echo level="warning" message="Existing index files not compressed"/>
+            </else>
+        </if>
+
+        <!-- copy the current index into the publish destination -->
+        <echo level="verbose" message="Copying index files to ${medline-publish-dir}/${label}"/>
+        <mkdir dir="${medline-publish-dir}/${label}"/>
+        <chmod file="${medline-publish-dir}/${label}" type="dir" perm="g+rx"/>
+        <copy overwrite="false" failonerror="true" preservelastmodified="true" todir="${medline-publish-dir}/${label}">
+            <fileset dir="index">
+                <exclude name="*@*"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="test-docstore-lookup">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.util.HTMLByteLocator"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <arg line="-l data/test/html"/>
+            <arg line="-batch data/test/batch.txt"/>
+        </java>
+    </target>
+
+    <macrodef name="load-index-medline" description="Index Medline file directly from files">
+        <attribute name="basename"/>
+        <attribute name="corpus-files-list"/>
+        <attribute name="options" default=""/>
+        <sequential>
+            <echo level="info" message="Processing @{corpus-files-list}"/>
+
+            <java dir="${basedir}"
+                  fork="${fork}"
+                  failonerror="true"
+                  classname="textractor.tools.BuildDocumentIndexFromPubmedArticles"
+                  maxmemory="${max-memory}">
+                <classpath refid="run.classpath"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+                <arg line="-list @{corpus-files-list}"/>
+                <arg line="-basename @{basename}"/>
+                <arg line="@{options}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <macrodef name="build-doc-store-medline" description="Build a document store directly from files">
+        <attribute name="basename"/>
+        <attribute name="corpus-files-list"/>
+        <attribute name="options" default=""/>
+        <sequential>
+            <echo level="info" message="Processing @{corpus-files-list}"/>
+
+            <java dir="${basedir}"
+                  fork="${fork}"
+                  failonerror="true"
+                  classname="textractor.tools.BuildDocStoreFromPubmedArticles"
+                  maxmemory="${max-memory}">
+                <classpath refid="run.classpath"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+                <arg line="-list @{corpus-files-list}"/>
+                <arg line="-basename @{basename}"/>
+                <arg line="@{options}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <target name="add-non-medline-articles" description="Get PubMed articles that have not been entered into Medline yet">
+        <tstamp>
+             <format property="query-date" pattern="yyyy/MM/dd"/>
+         </tstamp>
+
+        <!-- the pubmed web query term -->
+        <property name="pubmed-query-term"
+                  value="(${query-date}[Publication+Date]+:+3000[Publication+Date])+AND+in+process[Filter])+OR+ahead+of+print[Filter]"/>
+        <tempfile property="non-medline-dir" prefix="non-medline-files" deleteonexit="true"/>
+        <mkdir dir="${non-medline-dir}"/>
+        <exec dir="${non-medline-dir}" executable="${pubmed-query-script}" failifexecutionfails="false" failonerror="false">
+            <arg value="--verbose"/>
+            <arg value="--query"/>
+            <arg value="${pubmed-query-term}"/>
+        </exec>
+
+        <!-- add the pubmed results to the medline list of files but only if the xml -->
+        <for param="pubmed-file">
+            <path>
+                <fileset dir="${non-medline-dir}"/>
+            </path>
+            <sequential>
+                <trycatch>
+                    <try>
+                        <xmlvalidate file="@{pubmed-file}">
+                            <dtd publicid="${pubmed-query-xml-publicid}" location="${pubmed-query-xml-dtd}"/>
+                        </xmlvalidate>
+                        <echo level="info" message="Adding @{pubmed-file}"/>
+                        <echo file="${medline-file-list}" message="@{pubmed-file}${line.separator}" append="true"/>
+                    </try>
+                    <catch>
+                        <echo level="warning" message="Skipping @{pubmed-file}"/>
+                    </catch>
+                </trycatch>
+            </sequential>
+        </for>
+    </target>
+</project>

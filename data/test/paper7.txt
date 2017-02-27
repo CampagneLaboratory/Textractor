@@ -1,0 +1,442 @@
+         
+      Cell -- Hu et al                                                                      Cell                                                                                                                                                                                       New User                                                                  Register to receive email alerts and to purchase articles by pay per view                                                                  Register                                                                                                                                                   Sign InAccess your subscriptions and email alerts                                                   User Name                                                                                                      Password                                                                                                                                                                                 Forgotten Login                                                                                                                                                                                                      HomeSearchArchiveSubscribe            FeedbackHelp                     Access courtesy of Cornell University Medical Library         Copyright ©2002 Cell PressCell, Vol 111, 1041-1054, 27 December 2002Crystal Structure of a UBP-Family Deubiquitinating Enzyme in Isolation and in Complex with Ubiquitin AldehydeMin Hu 1, Pingwei Li 1, Muyang Li 2, Wenyu Li 1, Tingting Yao 3, Jia-Wei Wu 1, Wei Gu 2, Robert E Cohen 3, and Yigong Shi 1 1Department of Molecular Biology, Lewis Thomas Laboratory, Princeton University,  Princeton, NJ 08544  USA    A23P sentenceHasMutation 2Institute for Cancer Genetics Department of Pathology, Columbia University College of Physicians and Surgeons,  New York, NY 10032  USA 3Department of Biochemistry, University of Iowa, Bowen Science Building, 51 Newton Road,  Iowa City, IA 52242  USA Correspondence: Yigong Shi 609-258-6071 (phone) 609-258-6730 (fax)yshi@molbioprincetonedu Table of Contents Download as printable (PDF) file - 1055K Search Medline for articles by:Min Hu | Yigong Shi This article has been cited by:other online articles Download to Citation ManagerSummarySummaryIntroductionResultsDiscussionExperimental ProceduresReferences  The ubiquitin-specific processing protease (UBP) family of deubiquitinating enzymes plays an essential role in numerous cellular processes.
+ HAUSP, a representative UBP, specifically deubiquitinates and hence stabilizes the tumor suppressor protein p53.
+ Here, we report the crystal structures of the 40 kDa catalytic core domain of HAUSP in isolation and in complex with ubiquitin aldehyde.
+ These studies reveal that the UBP deubiquitinating enzymes exhibit a conserved three-domain architecture, comprising Fingers, Palm, and Thumb.
+ The leaving ubiquitin moiety is specifically coordinated by the Fingers, with its C terminus placed in the active site between the Palm and the Thumb.
+ Binding by ubiquitin aldehyde induces a drastic conformational change in the active site that realigns the catalytic triad residues for catalysis.
+ IntroductionSummaryIntroductionResultsDiscussionExperimental ProceduresReferencesIn eukaryotes, protein ubiquitination is an essential step in the physiological regulation of many cellular processes, such as elimination of damaged or misfolded proteins, cell cycle progression, and signal transduction (Conaway et al, 2002;
+ Glickman and Ciechanover, 2002;
+ Hershko et al, 2000;
+ Hochstrasser, 1996;
+ Laney and Hochstrasser, 1999;
+ Pickart, 2001).
+ Ubiquitin is a highly conserved 76 amino acid polypeptide.
+ Ubiquitin is joined to proteins by an isopeptide bond between the C-terminal carboxylate group of ubiquitin and the lysine ?-amino group of the acceptor protein.
+ This process depends on the action of three classes of enzymes known as ubiquitin-activating enzyme (E1), ubiquitin-conjugating enzymes (E2), and ubiquitin ligase (E3).
+ Conjugation by ubiquitin is critical for the control of many key regulatory proteins.
+ Accordingly, ubiquitination is itself tightly regulated, and aberrations in this pathway are known to lead to a variety of clinical disorders (Chung et al, 2001;
+ Schwartz and Ciechanover, 1999).
+ A major function of ubiquitination is to target proteins for degradation by the 26S proteasome.
+ However, ubiquitinated proteins are not always destroyed by the proteasome.
+ In recent years, protein deubiquitination has emerged as an important regulatory step in the ubiquitin-dependent pathways (Chung and Baek, 1999;
+ D'Andrea and Pellman, 1998;
+ Hochstrasser, 1996;
+ Wilkinson, 1997).
+ Deubiquitination is carried out by the deubiquitinating enzymes (DUBs), which comprise two major groups: the ubiquitin C-terminal hydrolase (UCH) family and the ubiquitin-specific processing protease (UBP) family.
+ Members of the UCH family are usually of small size (?20–30 kDa) and most preferentially cleave ubiquitin from small peptides and amino acids.
+ Unlike the UCHs, the much larger UBPs (60–300 kDa) generally appear to be specific for the proteins targeted for ubiquitination.
+ The human genome sequencing project led to the identification of more than 90 potential deubiquitinating enzymes, making them one of the largest classes of enzymes in the ubiquitin system.
+ Greater than 80% of these DUBs belong to the UBP class, which appears to regulate a diverse set of biological processes (Chung and Baek, 1999;
+ Hochstrasser, 1996;
+ Wilkinson, 1997).
+ Unlike the highly conserved UCHs, the UBPs contain highly divergent sequences and exhibit strong homology mainly in two regions that surround the catalytic Cys and His residues these are the so-called Cys Box (?19 amino acids) and the His Box (60–90 amino acids).
+ Although representative UCHs have been structurally characterized (Johnston et al, 1997;
+ Johnston et al, 1999), there is a lack of structural information on the UBPs.
+ Consequently, both the catalytic mechanism and the regulation of the UBP family of DUBs remain unclear.
+ The p53 tumor suppressor protein is a sequence-specific transcription factor that can respond to a wide variety of cellular stress signals (Levine, 1997;
+ Vogelstein et al, 2000).
+ In an affinity-based approach using GST-p53 as a bait, the cellular protein HAUSP (herpesvirus-associated ubiquitin-specific protease, also known as USP7) was recently identified as a novel p53-interacting protein (Li et al, 2002).
+ HAUSP specifically deubiquitinates the ubiquitinated p53 protein both in vitro and in vivo, and the expression of HAUSP was found to stabilize p53 in vivo and to promote p53-dependent cell growth arrest and apoptosis (Li et al, 2002).
+ These findings reveal an important and novel mechanism in which p53 degradation is prevented by direct deubiquitination and imply that HAUSP might function as a tumor suppressor in vivo through the stabilization of p53.
+ HAUSP is a mammalian UBP for which a specific substrate has been identified.
+ Here, we report the crystal structures of the 40 kDa catalytic domain of HAUSP in isolation and in a complex with ubiquitin aldehyde.
+ We discuss the structural insights into the catalytic mechanisms as well as the regulation of the UBP family of DUBs.
+ We also present biochemical evidence on how HAUSP recognizes p53.
+ ResultsSummaryIntroductionResultsDiscussionExperimental ProceduresReferences.
+ Structure of the Catalytic Core DomainThe full-length HAUSP protein (residues 1–1102) was expressed in baculovirus-infected insect cells and was purified to homogeneity (see Experimental Procedures).
+ HAUSP exists as a monomer in solution as judged by gel filtration and is functional as evidenced by its ability to recognize and deubiquitinate p53 (data not shown).
+ To define the domain boundaries in HAUSP, we employed an approach combining limited proteolysis by subtilisin, sequence alignment with other UBP family members, and binding and deubiquitination assays.
+ This characterization identified a 40 kDa fragment of HAUSP (residues 208–560) as the catalytic core domain, which mediates ubiquitin binding and deubiquitination of substrate.
+ To gain functional insights into the UBPs, we crystallized the catalytic core domain and determined its structure at 23 A? resolution using multi-wavelength anomalous dispersion (Table 1  and Figure 1A).
+ There are two molecules of HAUSP in each asymmetric unit they exhibit an identical set of structural features and can be superimposed with a root-mean-square deviation (rmsd) of 06 A? for all C? atoms.
+ Thus, we focus our discussion only on one HAUSP molecule (Figures 1B and 2)  Table 1 Summary of Crystallographic AnalysisView this table: [In this window] [In new window]Figure 1 Structure of the Catalytic Core Domain of HAUSP (A) A representative portion of the experimental electron density map in stereo view.
+ The map, contoured at 15 ? at 23 A? resolution, is shown around the active site region.
+ Some important residues are labeled (B) Overall structure of the 40 kDa catalytic core domain of HAUSP.
+ The structure comprises three domains, Fingers (colored green), Palm (blue), and Thumb (gold).
+ The active site, comprising the Cys Box (cyan) and the His Box (purple), is located between the Palm and the Thumb.
+ The surface, represented by electrostatic potential, is shown on the right.
+ A deep cleft runs through the Palm and the Thumb.
+ The predicted ubiquitin binding site is indicated by a black oval circle (C) A stereo view of the active site between the Palm and the Thumb.
+ Note that the catalytic residue Cys223 is nearly 10 A? away from His464, which was thought to activate Cys223 through deprotonation.
+ All figures were prepared using MOLSCRIPT (Kraulis, 1991) and GRASP (Nicholls et al, 1991)View larger version: [In this window] [In new window]Figure 2 Sequence Alignment of HAUSP with Six Representative UBP Family Proteins.
+ Conserved residues are shaded in yellow whereas the catalytic triad is highlighted in red.
+ Residues that are involved in direct inter-molecular hydrogen bond interactions using their side chains and main chains are marked with purple and green arrows, respectively.
+ Residues that are involved in van der Waals contact with Ubal are labeled with blue squares.
+ Residues that coordinate the oxyanion through hydrogen bonds are identified with blue triangles above the alignment.
+ The secondary structural elements above the sequences are indicated for the free HAUSP (lower) and the ubiquitin-bound HAUSP (upper), respectively.
+ The coloring scheme for the secondary structural elements of free HAUSP is the same as in Figure 1 Sequence alignment employed the programs ClustalW (Thompson et al, 1994) and Block Maker (Henikoff et al, 1995).
+ Based on structural similarity, relevant sequences of the UCH protein Yuh1 are also shown below the alignment.
+ Entries shown are from the SwissProt Database: HAUSP (Human;
+ SW:Q93009);
+ UBP15 (Saccharomyces cerevisiae;
+ SW:P50101);
+ UBP8 (S cerevisiae;
+ SW:P50102);
+ DOA4 (S cerevisiae;
+ SW:P32571);
+ FAF (Drosophila melanogaster;
+ SW:P55824);
+ UBP5 (Human;
+ SW:P45974);
+ USP14 (Human;
+ SW:P54578) and YUH1 (S cerevisiae;
+ SW:P35127)View larger version: [In this window] [In new window].
+ The HAUSP catalytic core domain, with a dimension of 75 A? × 45 A? × 40 A?, resembles an extended right hand comprised of three domains, Fingers, Palm, and Thumb (Figure 1B).
+ The Thumb consists of eight ? helices (?1–?6, ?9, and ?10), with the N-terminal Cys Box adopting an extended conformation.
+ The Palm contains eight central ? strands (?3, ?8–?14), which are buttressed by two ? helices (?7 and ?8) and several surface loops.
+ An anti-parallel ? sheet (?8, ?10–?14), formed by six of the eight ? strands from the Palm, intimately packs against the globular Thumb and gives rise to an inter-domain deep cleft.
+ The Cys Box and the His Box are positioned on the opposing sides of this cleft (Figure 1B).
+ The Fingers, comprised of four ? strands in the center (?1, ?2, ?4, and ?7) and two at the tip (?5 and ?6), reach out more than 30 A? from the Palm-Thumb scaffold.
+ The three-domain structure of HAUSP creates a prominent binding surface between the tip of the Fingers and the Palm-Thumb scaffold.
+ The size and shape of this binding pocket appear to be ideal for the 8 kDa protein ubiquitin (Figure 1B).
+ Moreover, an orientation for the C terminus of a bound ubiquitin is implied by the connection of this binding surface with the deep catalytic cleft between the Palm and the Thumb (Figure 1B, right image).
+ This region of the HAUSP surface is enriched with acidic amino acids.
+ To investigate whether the three-domain architecture (Fingers-Palm-Thumb) of HAUSP is conserved among other UBP members, we aligned the primary sequences of HAUSP and six representative UBP proteins (Figure 2).
+ The sequence alignment result was crossvalidated with structural information on HAUSP.
+ This analysis revealed that the secondary structural elements in the three domains are generally comprised of conserved residues (Figure 2).
+ For example, Lys391, on the ?7 strand of the Fingers, is invariant among all aligned UBPs.
+ More importantly, residues that contribute to the structural integrity of the Fingers, the Palm, and the Thumb are highly conserved.
+ Notably, the limited hydrophobic core at the tip of the Fingers is formed by the side chains of Tyr379 on strand ?5, Ile332 and Cys334 on strand ?1, and Leu373 on strand ?4.
+ Each of these four residues is preserved in at least four other UBP proteins and replaced by a compatible residue in the rest (Figure 2).
+ These observations strongly suggest that the Fingers-Palm-Thumb architecture of HAUSP is conserved among other UBP proteins.
+ Misaligned Active Site of HAUSPAll members of the UBP family of DUBs share strong homology in the Cys and His Boxes.
+ The Cys Box contains the catalytic cysteine residue, which is thought to undergo deprotonation and to unleash a nucleophilic attack on the carbonyl carbon atom of the ubiquitin Gly76 at the scissile peptide bond.
+ In analogy with other cysteine proteases, the deprotonation of this cysteine residue most likely is assisted by an adjacent His residue, which, in turn, is stabilized by a nearby side chain from an Asn or Asp residue.
+ Together, these three residues constitute the so-called catalytic triad.
+ Previous mutagenesis studies on several UBPs have provided evidence that these residues have critical roles in catalysis (eg, Baek et al, 2001;
+ Huang et al, 1995;
+ Gilchrist and Baker, 2000).
+ The highly conserved Cys and His Boxes are positioned on opposite sides of the catalytic cleft (Figure 1C).
+ Although Cys223 appears to be the nucleophile in HAUSP, the identities of the other two catalytic residues remain uncertain.
+ His464, a candidate catalytic residue, donates a hydrogen bond to Asp481 (Figure 1C) thus, this His-Asp pair likely constitutes two residues in the catalytic triad.
+ However, the closest distance from the side chain of His464 to that of Cys223 is 97 A?, too far away to allow any meaningful interactions.
+ Another invariant histidine residue in the sequence alignment (Figure 2), His456, is separated approximately 75 A? away from Cys223 by an intervening residue, Tyr465 (Figure 1C).
+ Moreover, the sulfur atom of Cys223 is not within a reasonable distance of any charged or polar side chain to allow direct interactions.
+ These structural observations indicate that the active site of the free HAUSP core domain exists in an unproductive conformation, and that substrate binding will likely trigger a conformational change that results in catalysis.
+ Overall Structure of a HAUSP-Ubal ComplexUbiquitin aldehyde (Ubal), a ubiquitin derivative in which the C-terminal carboxylate is replaced by an aldehyde, is a potent inhibitor of most DUBs as it forms a thiohemiacetal with the catalytic Cys, mimicking a reaction intermediate (Hershko and Rose, 1987;
+ Johnston et al, 1999).
+ To elucidate the catalytic mechanisms of the UBPs, we prepared Ubal and reconstituted a covalent complex between HAUSP and the inhibitor.
+ We crystallized this binary complex and solved its structure at 23 A? resolution by molecular replacement (Table 1).
+ Each asymmetric unit contains two HAUSP-Ubal complexes they are nearly identical with a rmsd of 053 A? for 419 C? atoms.
+ For simplicity, we focus our discussion on one such complex (Figure 3A)  Figure 3 Overall Structure of the HAUSP-Ubal Complex (A) Overall structure of the catalytic core domain of HAUSP (208–560, blue) covalently bound to b (green).
+ The previously disordered regions in the free HAUSP are highlighted in red.
+ The catalytic triad residues are shown as yellow sticks (B) Superposition of structures of HAUSP in isolation (purple) and in complex with Ubal (blue).
+ Red and gold arrows indicate regions that become ordered and that undergo drastic conformational changes upon binding to Ubal, respectively (C) Schematic diagram of how ubiquitin is bound by the HAUSP catalytic core domain.
+ After binding, interactions between ubiquitin and HAUSP occur primarily at the opposing ends of the Fingers, as indicated by red circles.
+ Color choices are: blue, the tip of the Fingers cyan, Cys box purple, His box yellow, Ubal C terminus and green, Ubal surface that interacts with the tip of the Fingers (D) Location of buried water molecules.
+ HAUSP is represented as a surface mesh while Ubal is shown as a green coil.
+ A total of 17 buried water molecules are sandwiched between the middle portion of the Fingers and the Ubal.
+ These water molecules mediate numerous hydrogen bonds between HAUSP and UbalView larger version: [In this window] [In new window].
+ As anticipated, Ubal binds to the putative substrate binding surface of HAUSP and makes extensive contacts with both the Fingers and the Palm-Thumb scaffold (Figure 3A).
+ The Ubal C terminus is bound in the deep catalytic cleft between the Palm and the Thumb, with a thiohemiacetal linkage formed between the aldehyde group and the side chain of Cys223.
+ Accompanying the complex formation, two previously flexible surface loops of HAUSP become ordered, with one of these directly contributing to the coordination of Ubal (Figure 3A).
+ Binding by Ubal induces several prominent conformational changes in the catalytic core domain, resulting in a rmsd of 13 A? for 320 aligned C? atoms between the free and Ubal-bound HAUSP structures (Figure 3B).
+ A23P sentenceHasMutation These changes are particularly dramatic in the immediate vicinity of the catalytic cleft, where the main chain loops between ?4 and ?5 and between ?10 and ?11 move 5–8 A? (Figure 3B, gold arrows).
+ Interestingly, Ubal binding also draws the tip of the Fingers (?5) and the edge of the Thumb (?5) closer by 2–3 A? (Figure 3B, black arrows) this is likely due to the fact that Ubal makes direct interactions primarily with the tip of the Fingers and the catalytic cleft between the Palm and the Thumb (Figure 3C).
+ The HAUSP-Ubal interactions result in the burial of 3600 A?2 exposed surface area (Figure 3C), of which 30% comes from the interface between Ubal and the tip of the Fingers.
+ The rest is derived from the interface between the C-terminal portion of Ubal and its surrounding HAUSP elements, particularly the catalytic cleft.
+ Intriguingly, although some basic residues of Ubal directly interact with the acidic surface of HAUSP, much of the buried surface area on Ubal is uncharged.
+ How can the uncharged Ubal surface interact with the predominantly acidic surface of HAUSP?
+ Examination of the structure reveals that a layer of ordered water molecules are sandwiched between Ubal and the middle portion of the Fingers (Figure 3D).
+ These water molecules form extensive networks of hydrogen bonds among themselves as well as to the side chain and main chain atoms of HAUSP and Ubal.
+ Thus, the binding of Ubal by HAUSP can be visualized as grabbing Ubal with the tip of the Fingers and the catalytic cleft between the Palm and the Thumb, with cushioning waters in between.
+ These trapped water molecules, absent in the structure of the free HAUSP, exhibit low temperature factors in the complex and might be expected to abate the affinity of HAUSP for ubiquitin and, as a consequence, may enhance the selectivity for ubiquitinated p53 over other ubiquitin conjugates.
+ In support of this analysis, ubiquitin does not form a stable complex with HAUSP as judged by gel filtration.
+ Furthermore, high Km values were observed in deubiquitination assays with three different substrates (Km ? 25 ?M for ubiquitin-AMC, and Km > 50 ?M for ubiquitin-OM or K48-linked diubiquitin data not shown).
+ These results are in marked contrast to the low micromolar and submicromolar Km values observed for several UCHs (Larsen et al, 1996;
+ Lam et al, 1997a;
+ Dang et al, 1998;
+ Johnston et al, 1999).
+ Realignment of the Active Site Is Induced by Ubiquitin BindingThe active site of free HAUSP exists in an unproductive conformation (Figure 1C).
+ Upon Ubal binding, structural elements surrounding the catalytic cleft undergo dramatic changes that realign the active site residues for productive catalysis (Figure 4A) .
+ Compared to the free HAUSP, Cys223 and His464 shift over a distance of 48 and 24 A?, respectively, toward the bound C terminus of Ubal (Figure 4A).
+ Consequently, the N?1 atom in the imidazole ring of His464 is now 36 A? away from the S? atom in the side chain of Cys223, close to a hydrogen bond distance.
+ The stabilizing hydrogen bond between His464 and Asp481 is preserved (Figure 4A).
+ Although the conformational switch involves a distance change of more than 8 A? for regions of the catalytic cleft, there is no disruption of the overall structure and all of the secondary structural elements are maintained in the Fingers, the Palm, and the Thumb (Figure 2).
+ This remarkable conformational flexibility may be essential to the specific deubiquitination activity of the UBPs.
+ Figure 4 Specific Interactions between HAUSP and Ubal (A) A large conformational change at the active site induced by Ubal binding.
+ The active sites of HAUSP in isolation (purple) and in complex with Ubal (blue) are superimposed and shown in stereo.
+ The C-terminal tail of Ubal is shown in green.
+ The catalytic triad residues and Asn218 are shown.
+ Note the dramatic conformational changes on all three catalytic residues, which realign these residues for productive catalysis.
+ Hydrogen bonds are represented by red dashed lines (B) A stereo view of the hydrogen bonds between HAUSP and the C terminus of Ubal.
+ A water molecule, marked by the letter w, likely plays an important role by hydrogen bonding to the oxyanion and two surrounding residues (Asn218 and Asp482) (C) A stereo view of the van der Waals interactions between HAUSP and the C terminus of Ubal.
+ The side chains of the Ubal C-terminal six residues as well as several critical HAUSP residues are shown (D) A stereo view of the interactions between the tip of the Fingers in HAUSP and Ubal.
+ All HAUSP residues shown in (A–D) are highly conserved among all members of UBPs (E) Deubiquitination activity of mutant HAUSP proteins.
+ The substrate used in this assay is Lys48-linked diubiquitin.
+ The role of the affected residue is briefly indicated.
+ HHAA represents the double mutation H456A/H464A.
+ Mutation of any catalytically important residue leads to complete abolishment of the deubiquitination activityView larger version: [In this window] [In new window].
+ Another catalytic feature is the formation of the oxyanion hole, which refers to the accommodation of the negative potential formed on the carbonyl oxygen atom at the scissile bond.
+ Typically, the oxyanion is stabilized by hydrogen bonds from the backbone amide group of the catalytic cysteine as well as from a neighboring Gln or Asn.
+ It was previously unclear how the oxyanion is coordinated in UBPs.
+ In the HAUSP-Ubal complex, the oxyanion that normally would form during catalysis is mimicked by the hydroxyl of the thiohemiacetal (ie, the oxygen from Ubal residue 76).
+ This group can accept two hydrogen bonds and is within hydrogen bond distance of three potential donors, the backbone amide of Cys223 and Thr222 and the side chain of Asn218 (Figure 4B).
+ In addition, a nearby water molecule, supported by two direct hydrogen bonds from Asp482 and Asn218, further neutralizes the negative potential of the oxyanion (Figure 4B).
+ This network of hydrogen bonds is further buttressed by an additional intra-molecular contact between the side chains of Asp482 and Asn226.
+ Significantly, residues that are involved in the coordination of the oxyanion are highly conserved among all members of the UBPs (Figure 2).
+ For example, Asn218 and Asp482 are invariant among the seven representative UBP proteins whereas Asn226 is present in six members and is replaced by Ser in UBP8 (Figure 2).
+ This analysis suggests a conserved mechanism for all UBPs in the formation of the oxyanion hole and catalysis.
+ The active site geometry of the Ubal-bound HAUSP closely resembles that of the papain family of cysteine proteases (Rawlings and Barrett, 1994).
+ Specific Interaction between HAUSP and UbalUbal primarily contacts two regions of HAUSP, the tip of the Fingers and the catalytic cleft region between the Palm and the Thumb (Figure 3C).
+ The C terminus of Ubal is primarily coordinated by a network of 12 hydrogen bonds between the main chain groups of Ubal and the main chain and side chain atoms of HAUSP (Figure 4B).
+ Notably, all backbone carbonyl carbon and amide nitrogen atoms in the C-terminal five residues of Ubal are involved in direct hydrogen bonds to neighboring residues in HAUSP (Figure 4B).
+ In addition to hydrogen bonds, inter-molecular van der Waals contacts also contribute to the specific recognition of the C terminus of Ubal.
+ The two hydrophobic residues in the C terminus of Ubal, Leu71 and Leu73, point into the catalytic cleft by making direct van der Waals contacts to the surrounding HAUSP residues (Phe409 and Tyr411 on the newly formed strand ?0, Lys420 on strand ?0?, and Tyr514 on strand ?14) (Figures 2 and 4C).
+ In contrast, the two positively charged residues in the C terminus of Ubal, Arg72 and Arg74, point up into the open space away from the cleft.
+ Only Arg72 hydrogen bonds to Glu298 of HAUSP.
+ The last two residues of Ubal, Gly75 and Gly76, fit in the narrowest region of the catalytic cleft between the Palm and the Thumb.
+ The space surrounding the backbone C? atoms of these two glycine residues is insufficient to accommodate any other side chain, consistent with the specific function of the UBPs.
+ On the other side of the HAUSP-Ubal interface, residues at the tip of the Fingers also make important contributions to the binding of Ubal.
+ These interactions, including 12 direct hydrogen bonds and one patch of van der Waals contacts (Figure 2), primarily involve the N-terminal residues of Ubal as well as a few amino acids in the middle stretch.
+ Gln2, Lys48, Glu64, and Thr66 make two hydrogen bonds each to the HAUSP residues Lys378 and Asp380, Asp305 and Glu308, Ser341 and Tyr379, and Glu345 and Lys391, respectively (Figures 2 and 4D).
+ In this interface, the only van der Waals interactions occur between Phe4 of Ubal and a hydrophobic pocket formed by Ile332, Leu373, Tyr379, and the aliphatic portion of the side chain of Lys391 in HAUSP (Figure 4D).
+ All of the important HAUSP residues responsible for binding to Ubal are conserved among the seven aligned UBP members (Figure 2).
+ Out of a total of 25 invariant residues among these proteins, 14 contribute directly to the specific recognition of ubiquitin.
+ For example, Asp295 and Glu298 on helix ?5, His456 on strand ?10, and Tyr465 on strand ?11, all invariant among the seven UBP proteins (Figure 2), make direct hydrogen bonds to coordinate the C terminus of Ubal.
+ Lys391, an invariant residue on strand ?7 of the Fingers, mediates both direct hydrogen bond (to Thr66) as well as van der Waals contacts (to Phe4 of Ubal).
+ The invariant Phe409 and highly conserved Arg408 form part of the hydrophobic pocket to hold Leu71 and Leu73 of Ubal.
+ This analysis solidifies the notion that all UBPs share conserved mechanisms of ubiquitin binding and catalysis.
+ In addition, these observations further support the generality of the observed Fingers-Palm-Thumb architecture of the UBPs.
+ Mutational AnalysisTo corroborate our structural studies, we assayed deubiquitination in vitro using Lys48-linked diubiquitin as the substrate.
+ Quantitative assays (see Experimental Procedures) with subsaturating substrate (ie, [S] << Km) established that the HAUSP catalytic domain and full-length HAUSP cleave diubiquitin with similar rates (kcat/Km = 13 and 18 min?1 mM?1, respectively).
+ To probe the functional significance of the residues in the catalytic cleft, we performed alanine-scanning mutagenesis on 29 amino acids in the Palm and the Thumb domains of the HAUSP catalytic domain.
+ All 29 mutant proteins were purified to homogeneity and were individually examined for their activity in a semiquantitative in vitro assay some relevant results are shown (Figure 4E).
+ As anticipated, whereas the wild-type enzyme was able to reduce the substrate to mono-ubiquitin, mutation of any of the catalytic triad residues (Cys223, His464, and Asp481) or residues that comprise the oxyanion hole (Asn218, Asn226, and Asp482) resulted in an undetectable level of catalytic activity (Figure 4E).
+ In addition, mutation of His456 or Asp295, which hydrogen bonds to the carbonyl of Arg74 or the amide of Leu73 of Ubal, respectively, also led to undetectable activity.
+ In contrast, mutation of any of the four solvent-exposed residues (Asp289, Gln293, Asp483, and Tyr514) had little effect on the deubiquitination activity of HAUSP (Figure 4E).
+ Two residues, Gln230 and Tyr224, contribute to the structural integrity of HAUSP by making contacts to surrounding residues their mutations also resulted in loss of activity (Figure 4E).
+ These results are in complete agreement with our structural analysis.
+ Structural Comparison with UCH and ULPTo reveal common features of catalysis and substrate binding, we superimposed the structure of the HAUSP-Ubal complex onto that of the Yuh1-Ubal complex (Johnston et al, 1999).
+ This alignment resulted in a rmsd of 187 A? for 96 similar backbone C? atoms of the deubiquitination domain, with 12% sequence identity (Figures 5A and 2) .
+ Both the topology and the overall structure of HAUSP are quite different from that of Yuh1, a member of the UCH family of DUBs.
+ Due to a different topology, sequences of the Yuh1 protein are permuted in this alignment (Figure 2).
+ Yuh1 lacks the Fingers domain.
+ In addition, the 8-? helix Thumb domain of HAUSP is reduced to a tight 5-helical bundle in Yuh1 (Figure 5A).
+ Although the Palm domain of HAUSP maintains the same overall fold as the corresponding regions in Yuh1, large deviations are apparent throughout the structure (Figure 5A).
+ Figure 5 Structural Comparison of HAUSP-Ubal with Yuh1-Ubal and Ulp-Smt3 Complexes (A) Superposition of the structure of the HAUSP-Ubal complex with that of Yuh1-Ubal.
+ These two structures are aligned on their deubiquitination domains.
+ HAUSP and Yuh1 are shown in blue and purple, respectively.
+ The HAUSP- and Yuh1-associated Ubal moieties are represented as transparent surfaces colored green and yellow, respectively.
+ Two perpendicular views are shown (B) Stereo comparison of the active sites of HAUSP (blue) and Yuh1 (purple).
+ The C-terminal tails of Ubal is shown in green and yellow for the HAUSP and Yuh1 complexes, respectively.
+ Catalytic triad residues and the oxyanion-coordinating residue are shown.
+ Hydrogen bonds are represented by red dashed lines.
+ The catalytic triad residues are superimposed with a rmsd of 023 A? (C) Stereo comparison of the active sites of HAUSP (blue) and Ulp1 (gold).
+ The C-terminal tails of Ubal and Smt3 (SUMO homolog in yeast) are shown in green and yellow, respectively.
+ Catalytic triad residues and the oxyanion-coordinating residue are shownView larger version: [In this window] [In new window].
+ Recognition of Ubal is also quite different between HAUSP and Yuh1.
+ Due to the lack of the Fingers, Yuh1 has only one contiguous interface that contacts Ubal.
+ Although the side chain of Arg74 anchors the C terminus of Ubal by making a total of six hydrogen bonds to Yuh1, the same group has no interaction with surrounding residues in HAUSP.
+ In contrast, although Ubal Leu71 contributes little to Ubal-Yuh1 interactions, this residue makes multiple van der Waals contacts to two aromatic residues in HAUSP, Phe409 and Tyr 411.
+ Despite divergent structures, HAUSP and Yuh1 exhibit a nearly identical geometry at the active site (Figure 5B).
+ The catalytic triad residues of HAUSP can be superimposed with those of Yuh1 with a rmsd of 023 A?.
+ The oxyanion is also partially stabilized by similar residues in the same general area, Asn218 in HAUSP and Gln84 in Yuh1.
+ This analysis indicates that hydrolysis of bound substrates by the UCHs and the UBPs is likely to employ the same mechanism.
+ However, important differences in the active site geometry exist prior to substrate binding.
+ For Yuh1, the active site residues are unlikely to undergo any significant conformational change during catalysis as the Ubal-bound conformation is nearly identical to that in the unliganded structure of another UCH member, UCH-L3 (Johnston et al, 1997).
+ In the case of HAUSP, a dramatic structural shift involving the active site residues takes place upon Ubal binding (Figure 4A).
+ The surprisingly large differences between the structures of the UBPs and the UCHs may be related to their functional differences in biology.
+ For example, the UCHs contain an active site crossover loop that does not allow passage of large substrates such as folded proteins (Johnston et al, 1999).
+ This structural feature indicates that, if unassisted, the UCHs are unlikely to deubiquitinate proteins.
+ On the other hand, the open-cleft structure of the HAUSP catalytic domain and the unique three-domain architecture are ideal for the deubiquitination of large substrates such as a polyubiquitin chain or ubiquitinated protein.
+ In addition to ubiquitination, conjugation of the small ubiquitin-related modifier (SUMO) to proteins also regulates numerous cellular processes (Hochstrasser, 1998).
+ The crystal structure of an ubiquitin-like protein specific protease (ULP), Ulp1, which catalyzes the deconjugation of SUMO (Smt3 in yeast) from target proteins, was reported in a covalent complex with Smt3 (Mossessova and Lima, 2000).
+ Although the overall structure of the Ulp1-Smt3 complex is quite different from the HAUSP-Ubal complex with 17 A? rmsd for 62 aligned C? atoms (data not shown), the active site conformation is highly conserved (Figure 5C).
+ Similar to Yuh1, the catalytic triad of Ulp1 can be superimposed with that of HAUSP with 021 A? rmsd.
+ In addition, the stabilization of the oxyanion involves a similar residue (Gln574) in a similar location in Ulp1 (Figure 5C).
+ These analyses indicate that the UBPs, the UCHs, and the ULPs all employ a highly conserved catalytic mechanism for the deconjugation of ubiquitin and SUMO from target proteins.
+ HAUSP Recognizes the C Terminus of p53p53 contains an N-terminal transactivation domain (15–30), a central DNA binding core domain (94–292), a tetramerization domain (326–355), and a C-terminal regulatory domain (356–393) (Levine, 1997).
+ It has been reported that the N-terminal domain (residues 1–248) of HAUSP was sufficient for binding to p53 (Li et al, 2002).
+ The N-terminal 52 residues of HAUSP are 75% hydrophilic and are likely to be flexible in solution as they are readily removed from the rest of the sequences by limited proteolysis.
+ To further define the domain boundary, we generated a series of deletion variants of HAUSP, expressed and purified these recombinant proteins, and examined their ability to interact with p53.
+ Using gel filtration, we found that a protease-resistant fragment (53–208) of HAUSP was both necessary and sufficient for stable interactions with p53 whereas neither the core domain (208–560) nor the C-terminal domain (560–1102) formed a stable complex with p53 (Figure 6A)  Figure 6 The N-Terminal Domain of HAUSP Recognizes the C-Terminal Peptide Sequences of p53 (A) Identification of the N-terminal domain of HAUSP as the primary p53 binding motif.
+ Various purified recombinant HAUSP fragments were individually incubated with a large p53 fragment (residues 94–393) and then subjected to a gel filtration analysis.
+ The results are summarized here (B) Mapping of a minimal p53 fragment that is both necessary and sufficient for the formation of a stable complex with HAUSP (C) A representative gel filtration run for the complex between HAUSP (53–208) and p53 (351–382).
+ Aliquots of the fractions were visualized by Coomassie staining following SDS-PAGE.
+ The p53 (351–382) peptide, which in isolation was eluted from gel filtration in fractions 38–39, was eluted in fraction 31–33 when complexed with HAUSP (53–208)View larger version: [In this window] [In new window].
+ To identify the minimal sequence requirement in p53, we generated a number of deletion variants and assayed their interaction with HAUSP (53–208) using gel filtration (Figure 6B).
+ Neither the DNA binding core domain nor the oligomerization domain of p53 was required for the formation of a stable complex with HAUSP.
+ Rather, a C-terminal 32-residue peptide of p53 (351–382) contained the determinants for the interaction with HAUSP (Figures 6B and 6C).
+ In particular, a short 11-residue peptide stretch (357–367) of p53 plays a critical role in binding to HAUSP as removal of this sequence to generate p53 (325–356) eliminated the interaction with HAUSP (Figure 6B).
+ These analyses demonstrate that the N-terminal domain (53–208) of HAUSP stably interacts with a minimal C-terminal peptide (357–382) of p53 (Figure 6B).
+ Supporting this conclusion, the N-terminal domain of HAUSP (residues 58–196) was found to share significant homology (up to 32% sequence identity) to the TRAF (TNF receptor associated factor) domain (Zapata et al, 2001), a known peptide binding motif (Chung et al, 2002).
+ DiscussionSummaryIntroductionResultsDiscussionExperimental ProceduresReferencesAlthough protein ubiquitination and subsequent proteasomal degradation have been studied extensively, protein deubiquitination and hence stabilization remain less well characterized (Chung and Baek, 1999;
+ D'Andrea and Pellman, 1998;
+ Wilkinson, 1997).
+ Many and possibly most of the UBPs function to deubiquitinate conjugates of specific proteins.
+ HAUSP is a UBP originally identified as a cellular protein that interacts with the immediate-early protein Vmw110 of the Herpes simplex virus (Everett et al, 1997).
+ Recently, HAUSP was found to modulate the stability and function of the tumor suppressor protein p53 via specific deubiquitination (Li et al, 2002).
+ In this study, we report the structure of a UBP catalytic core domain, which reveals a novel three-domain architecture comprised of the Fingers, Palm, and Thumb domains.
+ It is of particular note that this nomenclature should not be confused with that of the DNA polymerase, where Fingers, Palm, and Thumb refer to different entities (Steitz, 1999 and references therein).
+ We also report the structure of the catalytic core domain of HAUSP bound to ubiquitin aldehyde, which reveals a dramatic conformational change in the active site upon binding by Ubal.
+ The conformational state of HAUSP bound to Ubal is likely to resemble that of HAUSP bound to substrate.
+ In a search for structural homologs using the program DALI (Holm and Sander, 1993), the Ca2+-bound form of the ? calpain protease core (PDB code 1KXR) was found to exhibit the highest degree of similarity to HAUSP, with a rmsd of 21 A? for 87 aligned C? atoms (9% sequence identity).
+ Interestingly, Ca2+ binding to ? calpain also induces a large conformational switch in the active site, realigning a separated catalytic triad into a productive conformation (Moldoveanu et al, 2002).
+ The extent of this change upon Ca2+ binding is similar to that observed in the HAUSP catalytic core domain upon Ubal binding.
+ In contrast to the Ubal binding-regulated enzyme activity for HAUSP, the ? calpain protease is regulated by the local Ca2+ concentration and only acts upon surrounding proteins in response to elevated Ca2+.
+ Polyubiquitin conjugated to target proteins can be assembled through different lysine residues of ubiquitin, producing different outcomes (Pickart, 2000).
+ Polyubiquitin linked by Lys48 or, more rarely, Lys29 is thought to direct proteins to the 26S proteasome for degradation, whereas Lys63-linked polyubiquitin appears to signal other responses such as DNA repair and endocytosis.
+ Both Lys29 and Lys63 are largely solvent accessible in the ubiquitin moiety of the HAUSP-Ubal complex, but the Lys48 side chain is involved in hydrogen bonds to residues in helix ?5 of HAUSP and is only partially exposed to solvent.
+ Examination of the local structure indicates that the side chain of Lys48 can be linked to the C-terminal carboxylate of another ubiquitin without disruption of the HAUSP-Ubal interface.
+ Nevertheless, Lys48 is not as freely available as the other ubiquitin lysine residues.
+ Moreover, the HAUSP residues Asp305 and Glu308 that coordinate ubiquitin Lys48 are conserved as acidic amino acids in some other UBPs (eg, scUBP15 and dFAF in Figure 2).
+ A possible function of these residues is to promote binding of a ubiquitin moiety that contains a free Lys48 side chain.
+ Thus, cleavage by HAUSP might be biased toward the ubiquitin at the distal end of a K48-linked chain or toward conjugates with either monoubiquitin or non-K48-linked polyubiquitin.
+ At present, which ubiquitin lysine(s) is used in the MDM2-mediated polyubiquitination of p53 has not been established.
+ It also is unclear whether the p53 conjugates acted on by HAUSP contain one or more polyubiquitin chains or instead are monoubiquitinated at multiple sites.
+ Several lysines clustered near the C terminus function as ubiquitination sites on p53 (Nakamura et al, 2000;
+ Rodriguez et al, 2000), and simultaneous mutation of these lysine residues (lysine 370, 372, 373, 381, 382, and 386) interfered with MDM2-dependent ubiquitination and degradation of p53.
+ Surprisingly, ubiquitination of p53 by MDM2 in vitro was reported to yield conjugates that contained multiple mono-ubiquitin moieties (Lai et al, 2001).
+ Establishing the specificity of HAUSP and whether it can remove entire polyubiquitin chains or only monoubiquitins from p53 should give considerable insight into the nature of ubiquitin-p53 conjugates in vivo.
+ The presence of the p53 binding domain at the N-terminal portion of HAUSP argues strongly that it may prefer to cleave a conjugate at the proximal ubiquitin, ie, between p53 and the attached mono- or polyubiquitin chain.
+ In our in vitro assays, full-length HAUSP and the catalytic core domain were equally able to cleave diubiquitin into mono-ubiquitin (Figure 4E and data not shown), and the full-length HAUSP removed all of the ubiquitins from the p53 conjugates (Li et al, 2002 and data not shown).
+ However, this point, as well as an evaluation of HAUSP deubiquitination activity on monoubiquitin versus polyubiquitin p53 conjugates, awaits quantitative kinetic experiments with defined substrates.
+ In this study, we identified the C-terminal peptide sequences of p53 as necessary and sufficient for binding to the p53-recognition domain of HAUSP.
+ The minimal peptide (residues 357–382) comprises only 26 amino acids (Figure 6B) but contains five of the six putative ubiquitination sites.
+ The extensive overlap of these multiple ubiquitination sites with the HAUSP binding site imposes important structural constraints on HAUSP.
+ First, the HAUSP p53-recognition domain must be in close proximity to the active site cleft of the catalytic domain.
+ Second, to accommodate these multiple ubiquitin attachment sites, the connection between the HAUSP catalytic core domain and the p53 binding domain must be flexible in order to position each ubiquitin-p53 linkage within the active site for nucleophilic attack by Cys223.
+ This organization is likely to be critical for the efficient deubiquitination of p53 in vivo.
+ Experimental ProceduresSummaryIntroductionResultsDiscussionExperimental ProceduresReferences.
+ Protein PreparationAll constructs were generated using a standard PCR-based cloning strategy.
+ The catalytic core domain of HAUSP (208–560) and all mutants were cloned into the vector pGEX-2T (Pharmacia).
+ The full-length HAUSP protein was cloned into the BaculoGold virus (PharMingen) and expressed in insect cells.
+ All HAUSP proteins were purified using glutathione sepharose 4B resin as described (Chai et al, 2001).
+ The GST moiety was proteolytically removed by thrombin for all recombinant proteins in this study.
+ Seleno-Met-substituted HAUSP (208–560) was generated as described (Qin et al, 1999).
+ Generation of Ubiquitin Aldehyde (Ubal) and a HAUSP-Ubal ComplexUbal was prepared by carboxypeptidase Y-catalyzed exchange of 3-amino-1, 2-propanediol for ubiquitin Gly76 and the subsequent oxidation of the ubiquitin-diol product with NaIO4(Dunten and Cohen, 1989;
+ Lam et al, 1997b).
+ The Ubal thus obtained was incubated in 4-fold excess over HAUSP protein at pH 8 (25 mM Tris, 100 mM NaCl, and 5 mM DTT), and the HAUSP-Ubal complex was isolated by gel filtration (Superdex 200, 10 mM Tris, [pH 80], 100 mM NaCl, and 4 mM DTT).
+ Crystallization and Data Collection for HAUSPCrystals were grown by the hanging-drop method by mixing the HAUSP protein (residues 208–560) (?15 mg/ml) with an equal volume of reservoir solution containing 100 mM Tris, [pH 70], and 20% PEG1000 (w/v).
+ Small crystals appeared overnight and were used as seeds to generate larger crystals from Seleno-Met HAUSP protein.
+ The crystals belong to the spacegroup P21, with a = 7575 A?, b = 6874 A?, c = 7634 A?, and ? = 954°.
+ There are two molecules per asymmetric unit.
+ Crystals were equilibrated in a cryoprotectant buffer containing reservoir buffer plus 20% glycerol (v/v) and were flash frozen in a cold nitrogen stream at ?170°C.
+ The native and MAD date set was collected at NSLS beamlines X-25 and X-12C, respectively, and processed using the software Denzo and Scalepack (Otwinowski and Minor, 1997).
+ Structure DeterminationThe structure was determined by multiple anomalous dispersion (Table 1).
+ Data collected at three wavelengths were treated with SOLVE (Terwilliger and Berendzen, 1996) and 18 selenium atoms per asymmetric unit were located.
+ These selenium positions were further refined using MLPHARE (CCP4, 1994).
+ Initial MAD phases, with a mean figure of merit of 063 at 26 A? resolution, were extended to 23 A? and improved with solvent flattening and histogram matching using DM (CCP4, 1994).
+ A model was built using O (Jones et al, 1991) and refined at 23 A? resolution using CNS (Brunger et al, 1998).
+ The final refined model contains two molecules.
+ One molecule contains residues 208–410, 418–501, and 509–554.
+ The other molecule contains residues 208–410, 418–501, and 509–555.
+ Crystallization and Structure Determination of the HAUSP-Ubal ComplexCrystals were grown by the hanging-drop method by mixing the complex (?10 mg/ml) with an equal volume of reservoir solution containing 100 mM citrate, [pH 55], and 20% PEG3000.
+ The crystals belong to the spacegroup P212121, with a = 995 A?, b = 1012 A?, and c = 1413 A?.
+ The native date set was collected at NSLS X-25 and processed using the software Denzo and Scalepack (Otwinowski and Minor, 1997).
+ The structure was determined by molecular replacement, using the software AMoRe (Navaza, 1994).
+ The coordinates of HAUSP were used for rotational research against all reflections between 15 and 30 A? in the native data set.
+ The top 50 solutions from the rotational search were individually used for a subsequent translational search, which yielded two excellent solutions.
+ This model was examined with the program O (Jones et al, 1991).
+ Refinement by the program CNS (Brunger et al, 1998), against the 23 A? native data set, allowed visualization of an additional HAUSP fragment.
+ A model was built with the program O and refined further by simulated annealing.
+ The final atomic model contains two copies of the HAUSP-Ubal complex and an isolated HAUSP protein.
+ Both complexes contain HAUSP residues 208–554 and Ubal residues 1–76.
+ The isolated HAUSP protein contains residues 208–410 and 418–554.
+ In Vitro Deubiquitination AssaysThe following ubiquitin conjugates were used as substrates: ubiquitin-7-amido-4-methylcoumarin (ubiquitin-AMC from BostonBiochem) ubiquitin fused to the N terminus of unfolded and lucifer yellow (LY)-labeled chicken ovomucoid domain I (ubiquitin-OM;
+ Yao and Cohen, 2002);
+ K48-linked diubiquitin (Chen and Pickart, 1990), and ubiquitinated p53 (Li et al, 2002).
+ Quantitative assays were done by incubation of substrate with HAUSP at 37°C in 50 mM [pH 80] HEPES, 50 mM NaCl, 5 mM DTT, 1 mM EDTA, and 01 mg/ml ovalbumin.
+ Ubiquitin-AMC cleavage was monitored fluorometrically (Dang et al, 1998), and diubiquitin cleavage was determined by cation-exchange HPLC (Lam et al, 1997a).
+ The disassembly of fluorescent LY-labeled ubiquitin-OM was visualized and quantified with a cooled CCD camera system (BioChemi System, UVP BioImaging) after separation by SDS-PAGE.
+ To survey the effects of various mutations in HAUSP, an equal amount (05 ?g) of the wild-type or mutant HAUSP proteins (208–560) was incubated with 2 ?g of the diubiquitin substrate at 37°C in 30 ?l reaction buffer containing 25 mM Tris, [pH 80], 100 mM NaCl, 100 ?g/ml BSA, and 2 mM DTT.
+ The reaction was stopped by the addition of 25 ?l 2× SDS sample buffer and analyzed by SDS PAGE.
+ An Interaction Assay by Gel FiltrationGel filtration was employed to examine the interaction between p53 and HAUSP.
+ The details were as described (Wu et al, 2001)Acknowledgments.
+ We thank A Saxena at NSLS-X12C and M Becker at NSLS-X25 for help, and N Hunt for administrative assistance.
+ Accession NumbersAtomic coordinates have been deposited with the Protein Data Bank (accession number 1NB8 for HAUSP and 1NBF for the HAUSP-Ubal complex)ReferencesSummaryIntroductionResultsDiscussionExperimental ProceduresReferences Baek, K-H, Mondoux, MA, Jaster, R, Fire-Levin, E, and D'Andrea, AD (2001).
+ DUB-2A, a new member of the DUB subfamily of hematopoietic deubiquitinating enzymes  Blood 98, 636-642 [Medline]  Brunger, AT, Adams, PD, Clore, GM, Delano, WL, Gros, P, Grosse-Kunstleve, RW, Jiang, JS, Kuszewski, J, Nilges, M, and Pannu, NS et al (1998).
+ Crystallography and NMR system: a new software suite for macromolecular structure determination  Acta Crystallogr.
+ D 54, 905-921 [Medline]  Chai, J, Shiozaki, E, Srinivasula, SM, Wu, Q, Datta, P, Alnemri, ES, and Shi, Y (2001).
+ Structural basis of caspase-7 inhibiton by XIAP  Cell 104, 769-780 [Medline] [Summary] [Full Text]  Chen, Z and Pickart, CM (1990).
+ A 25-kilodalton ubiquitin carrier protein (E2) catalyzes multi-ubiquitin chain synthesis via lysine 48 of ubiquitin  J Biol.
+ Chem 265, 21835-21842 [Medline]  Chung, CH and Baek, SH (1999).
+ Deubiquitinating enzymes: their diversity and emerging roles  Biochem.
+ Biophys.
+ Res.
+ Commun 266, 633-640 [Medline]  Chung, JY, Park, YC, Ye, H, and Wu, H (2002).
+ All TRAFs are not created equal: common and distinct molecular mechanisms of TRAF-mediated signal transduction  J Cell Sci 115, 679-688 [Medline]  Chung, KK, Dawson, VL, and Dawson, TM (2001).
+ The role of the ubiquitin-proteasomal pathway in Parkinson's disease and other neurodegenerative disorders  Trends Neurosci 24, S7-S14 [Medline]  CCP4,  (1994).
+ Collaborative Computational Project 4) The CCP4 suite: programs for protein crystallography  Acta Crystallogr.
+ D 50, 760-763 [Medline]  Conaway, RC, Brower, CS, and Conaway, JW (2002).
+ Emerging roles of ubiquitin in transcription regulation  Science 296, 1254-1258 [Medline]  D'Andrea, A and Pellman, D (1998).
+ Deubiquitinating enzymes: a new class of biological regulators  Crit.
+ Rev.
+ Biochem.
+ Mol.
+ Biol 33, 337-352 [Medline]  Dang, LC, Melandri, FD, and Stein, RL (1998).
+ Kinetic and mechanistic studies on the hydrolysis of ubiquitin C-terminal 7-amino-4-methylcoumarin by deubiquitinating enzymes  Biochemistry 37, 1868-1879 [Medline]  Dunten, RL and Cohen, RE (1989).
+ Recognition of modified forms of ribonuclease A by the ubiquitin system  J Biol.
+ Chem 264, 16739-16747 [Medline]  Everett, RD, Meredith, M, Orr, A, Cross, A, Kathoria, M, and Parkinson, J (1997).
+ A novel ubiquitin-specific protease is dynamically associated with the PML nuclear domain and binds to a herpesvirus regulatory protein  EMBO J 16, 566-577 [Medline]  Gilchrist, CA and Baker, RT (2000).
+ Characterization of the ubiquitin-specific protease activity of the mouse/human Unp/Unph oncoprotein  Biochim.
+ Biophys.
+ Acta 1481, 297-309 [Medline]  Glickman, MH and Ciechanover, A (2002).
+ The ubiquitin-proteasome proteolytic pathway: destruction for the sake of construction  Physiol.
+ Rev 82, 373-428 [Medline]  Henikoff, S, Henikoff, JG, Alford, WJ, and Pietrokovski, S (1995).
+ Automated construction and graphical presentation of protein blocks from unaligned sequences  Gene 163, GC17-GC26 [Medline]  Hershko, A, Ciechanover, A, and Varshavsky, A (2000).
+ The ubiquitin system  Nat.
+ Med 6, 1073-1081 [Medline]  Hershko, A and Rose, IA (1987).
+ Ubiquitin-aldehyde: a general inhibitor of ubiquitin-recycling processes  Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA 84, 1829-1833 [Medline]  Hochstrasser, M (1996).
+ Ubiquitin-dependent protein degradation  Annu.
+ Rev.
+ Genet 30, 405-439 [Medline]  Hochstrasser, M (1998).
+ There's the rub: a novel ubiquitin-like modification linked to cell cycle regulation  Genes Dev 12, 901-907 [Medline]  Holm, L and Sander, C (1993).
+ Protein structure comparison by alignment of distance matrices  J Mol.
+ Biol 233, 123-138 [Medline]  Huang, Y, Baker, RT, and Fischer-Vize, JA (1995).
+ Control of cell fate by a deubiquitinating enzyme encoded by the fat facets gene  Science 270, 1828-1831 [Medline]  Johnston, SC, Larsen, CN, Cook, WJ, Wilkinson, KD, and Hill, CP (1997).
+ Crystal structure of a deubiquitinating enzyme (human UCH-L3) at 18 A? resolution  EMBO J 16, 3787-3796 [Medline]  Johnston, SC, Riddle, SM, Cohen, RE, and Hill, CP (1999).
+ Structural basis for the specificity of ubiquitin C-terminal hydrolysis  EMBO J 18, 3877-3887 [Medline]  Jones, TA, Zou, J-Y, Cowan, SW, and Kjeldgaard, M (1991).
+ Improved methods for building protein models in electron density maps and the location of errors in these models  Acta Crystallogr.
+ A 47, 110-119 [Medline]  Kraulis, PJ (1991).
+ Molscript: a program to produce both detailed and schematic plots of protein structures  J Appl.
+ Crystallogr 24, 946-950 [Medline]  Lai, Z, Ferry, KV, Diamond, MA, Wee, K, Kim, Y, Ma, J, Yang, T, Benfield, PA, Copeland, RA, and Auger, KR (2001).
+ Human mdm2 mediates multiple mono-ubiquitination of p53 by a mechanism requiring enzyme isomerization  J Biol.
+ Chem 276, 31357-31367 [Medline]  Lam, YA, DeMartino, GN, Pickart, CM, and Cohen, RE (1997).
+ Specificity of the ubiquitin isopeptidase in the PA700 regulatory complex of 26 S proteasomes  J Biol.
+ Chem 272, 28438-28446 [Medline]  Lam, YA, Xu, W, DeMartino, GN, and Cohen, RE (1997).
+ Editing of ubiquitin conjugates by an isopeptidase in the 26S proteasome  Nature 385, 737-740 [Medline]  Laney, JD and Hochstrasser, M (1999).
+ Substrate trageting in the ubiquitin system  Cell 97, 427-430 [Medline] [Full Text]  Larsen, CN, Price, JS, and Wilkinson, KD (1996).
+ Substrate binding and catalysis by ubiquitin C-terminal hydrolases: identification of two active site residues  Biochemistry 35, 6735-6744 [Medline]  Levine, AJ (1997) p53, the cellular gatekeeper for growth and division  Cell 88, 323-331 [Medline] [Full Text]  Li, M, Chen, D, Shiloh, A, Luo, J, Nikolaev, AY, and Gu, W (2002).
+ Deubiquitination of p53 by HAUSP is an important pathway for p53 stabilization  Nature 416, 638-653 [Medline]  Moldoveanu, T, Hosfield, CM, Lim, D, Elce, JS, Jia, Z, and Davies, PL (2002).
+ A Ca2+ switch aligns the active site of calpain  Cell 108, 649-660 [Medline] [Summary] [Full Text]  Mossessova, E and Lima, CD (2000).
+ Ulp1-SUMO crystal structure and genetic analysis reveal conserved interactions and a regulatory element essential for cell growth in yeast  Mol.
+ Cell 5, 865-876 [Medline] [Summary] [Full Text]  Nakamura, S, Roth, JA, and Mukhopadhyay, T (2000).
+ Multiple lysine mutations in the C-terminal domain of p53 interfere with MDM2-dependent protein degradation and ubiquitination  Mol.
+ Cell.
+ Biol 20, 9391-9398 [Medline]  Navaza, J (1994).
+ AMoRe and automated package for molecular replacement  Acta Crystallogr.
+ A 50, 157-163 [Medline]  Nicholls, A, Sharp, KA, and Honig, B (1991).
+ Protein folding and association: insights from the interfacial and thermodynamic properties of hydrocarbons  Proteins 11, 281-296 [Medline]  Otwinowski, Z and Minor, W (1997).
+ Processing of X-ray diffraction data collected in oscillation mode  Methods Enzymol 276, 307-326 [Medline]  Pickart, CM (2000).
+ Ubiquitin in chains  Trends Biochem.
+ Sci 25, 544-548 [Medline]  Pickart, CM (2001).
+ Mechanisms underlying ubiquitination  Annu.
+ Rev.
+ Biochem 70, 503-533 [Medline]  Qin, H, Srinivasula, SM, Wu, G, Fernandes-Alnemri, T, Alnemri, ES, and Shi, Y (1999).
+ Structural basis of procaspase-9 recruitment by the apoptotic protease-activating factor 1  Nature 399, 547-555 [Medline]  Rawlings, ND and Barrett, AJ (1994).
+ Families of cysteine peptidases  Methods Enzymol 244, 461-486 [Medline]  Rodriguez, MS, Desterro, JMP, Lain, S, Lane, DP, and Hay, R (2000).
+ Multiple C-terminal lysine residues target p53 for ubiquitin-proteasome-mediated degradation  Mol.
+ Cell.
+ Biol 20, 8458-8467 [Medline]  Schwartz, AL and Ciechanover, A (1999).
+ The ubiquitin-proteasome pathway and pathogenesis of human diseases  Annu.
+ Rev.
+ Med 50, 57-74 [Medline]  Steitz, TA (1999).
+ DNA polymerases: structural diversity and common mechanisms  J Biol.
+ Chem 274, 17395-17398 [Medline]  Terwilliger, TC and Berendzen, J (1996).
+ Correlated phasing of multiple isomorphous replacement data  Acta Crystallogr.
+ D 52, 749-757 [Medline]  Thompson, JD, Higgins, DG, and Gibson, TJ (1994).
+ Clustal w: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice  Nucleic Acids Res 22, 4673-4680 [Medline]  Vogelstein, B, Lane, D, and Levine, AJ (2000).
+ Surfing the p53 network  Nature 408, 307-310 [Medline]  Wilkinson, KD (1997).
+ Regulation of ubiquitin-dependent processes by deubiquitinating enzymes  FASEB J 11, 1245-1256 [Medline]  Wu, J-W, Fairman, R, Penry, J, and Shi, Y (2001).
+ Formation of a stable heterodimer between Smad2 and Smad4  J Biol.
+ Chem 276, 20688-20694 [Medline]  Yao, T and Cohen, RE (2002).
+ A cryptic protease couples deubiquitination and degradation by the proteassome  Nature 419, 403-407 [Medline]  Zapata, JM, Pawlowski, K, Haas, E, Ware, CF, Godzik, A, and Reed, JC (2001).
+ A diverse family of proteins containing tumor necrosis factor receptor-associated factor domains  J Biol.
+ Chem 276, 24242-24252 [Medline]Received: October 18, 2002Revised: November 21, 2002 Table of Contents Download as printable (PDF) file - 1055K Search Medline for articles by:Min Hu | Yigong Shi This article has been cited by:other online articles Download to Citation ManagerThis article has been cited by the following articles:Regulating UBP-Mediated Ubiquitin DeconjugationChristopher D LimaStructure, 2003, 11:1:3-4[Summary] [Full Text] [PDF]                Immunity OnlineNeuron OnlineMolecular Cell OnlineStructure OnlineCurrent Biology OnlineDevelopmental Cell OnlineCancer Cell OnlineChemistry & Biology Online                                                      Click here for more details                                                                                    Cell Content                        Archive                        Cell Press                        Current Issue                        Home                        Register                        Search                        Single Copy                        Subscribe                        Supplemental Data                        Top 20 ArticlesCopyright © 2003 by Cell Press                                                Click here for more details   

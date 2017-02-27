@@ -1,0 +1,9 @@
+
+1. export the >=2 gram names with more than 25 occurrence from last quarter of JBC 1999:  trainingJBC1999.term
+2.  categorize in namesSource with bin/grepTrainingName.sh
+    excute in data/trainingNames/namesSource directory
+3.  convert to final format and put in namesFinal with bin/convertTrainingName.pl
+    excute in data/trainingNames/namesSource directory
+4. cat|sort|uniq corresponding categories to Names1.*.all
+5. manually refine (to remove potential partial names) to final input file, e.g. Names1.1999.protein
+   try "diff Names1.1999protein Names1.1999protein.all" to see the difference

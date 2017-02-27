@@ -1,0 +1,185 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Market watch</title>
+      <id>info:doi/10.1038/440407b</id>
+      <link href='http://dx.doi.org/10.1038/440407b' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Colin Macilwain</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>407</prism:startingPage>
+      <prism:endingPage>407</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='3'>says</otmi:vector>
+              <otmi:vector count='3'>March</otmi:vector>
+              <otmi:vector count='3'>energy</otmi:vector>
+              <otmi:vector count='2'>fell</otmi:vector>
+              <otmi:vector count='2'>2005</otmi:vector>
+              <otmi:vector count='2'>partly</otmi:vector>
+              <otmi:vector count='2'>United</otmi:vector>
+              <otmi:vector count='2'>investment</otmi:vector>
+              <otmi:vector count='2'>&quot;In</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>States</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>company</otmi:vector>
+              <otmi:vector count='2'>clean-energy</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>back</otmi:vector>
+              <otmi:vector count='2'>Wilder</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>he</otmi:vector>
+              <otmi:vector count='2'>index</otmi:vector>
+              <otmi:vector count='2'>Bush&apos;s</otmi:vector>
+              <otmi:vector count='2'>Energy</otmi:vector>
+              <otmi:vector count='2'>January</otmi:vector>
+              <otmi:vector count='1'>125-million</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>thinks</otmi:vector>
+              <otmi:vector count='1'>go</otmi:vector>
+              <otmi:vector count='1'>somewhat</otmi:vector>
+              <otmi:vector count='1'>State</otmi:vector>
+              <otmi:vector count='1'>going</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>third</otmi:vector>
+              <otmi:vector count='1'>slip</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>Union</otmi:vector>
+              <otmi:vector count='1'>fundamentals</otmi:vector>
+              <otmi:vector count='1'>Robert</otmi:vector>
+              <otmi:vector count='1'>WilderHill</otmi:vector>
+              <otmi:vector count='1'>German</otmi:vector>
+              <otmi:vector count='1'>fivefold</otmi:vector>
+              <otmi:vector count='1'>Distributed</otmi:vector>
+              <otmi:vector count='1'>cashing</otmi:vector>
+              <otmi:vector count='1'>address</otmi:vector>
+              <otmi:vector count='1'>wholesaler</otmi:vector>
+              <otmi:vector count='1'>listed</otmi:vector>
+              <otmi:vector count='1'>clean</otmi:vector>
+              <otmi:vector count='1'>board</otmi:vector>
+              <otmi:vector count='1'>source</otmi:vector>
+              <otmi:vector count='1'>power</otmi:vector>
+              <otmi:vector count='1'>head</otmi:vector>
+              <otmi:vector count='1'>profits</otmi:vector>
+              <otmi:vector count='1'>companies</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>won</otmi:vector>
+              <otmi:vector count='1'>powerful</otmi:vector>
+              <otmi:vector count='1'>Shares</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>sector</otmi:vector>
+              <otmi:vector count='1'>slipping</otmi:vector>
+              <otmi:vector count='1'>W</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>issued</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>featured</otmi:vector>
+              <otmi:vector count='1'>member</otmi:vector>
+              <otmi:vector count='1'>financial</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>rose</otmi:vector>
+              <otmi:vector count='1'>compiles</otmi:vector>
+              <otmi:vector count='1'>enjoyed</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>whose</otmi:vector>
+              <otmi:vector count='1'>shares</otmi:vector>
+              <otmi:vector count='1'>month</otmi:vector>
+              <otmi:vector count='1'>Michael</otmi:vector>
+              <otmi:vector count='1'>firms</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>sector&apos;s</otmi:vector>
+              <otmi:vector count='1'>president</otmi:vector>
+              <otmi:vector count='1'>bullishly</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>slump</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>exemplified</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>2001</otmi:vector>
+              <otmi:vector count='1'>stock</otmi:vector>
+              <otmi:vector count='1'>Systems</otmi:vector>
+              <otmi:vector count='1'>earnings</otmi:vector>
+              <otmi:vector count='1'>highest</otmi:vector>
+              <otmi:vector count='1'>Finance</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>shareholders</otmi:vector>
+              <otmi:vector count='1'>quarter</otmi:vector>
+              <otmi:vector count='1'>strength.</otmi:vector>
+              <otmi:vector count='1'>contract</otmi:vector>
+              <otmi:vector count='1'>speech</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>unexpected</otmi:vector>
+              <otmi:vector count='1'>index&apos;s</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>firm</otmi:vector>
+              <otmi:vector count='1'>tracks</otmi:vector>
+              <otmi:vector count='1'>advisory</otmi:vector>
+              <otmi:vector count='1'>George</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>Liebrich</otmi:vector>
+              <otmi:vector count='1'>renewable</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>London-based</otmi:vector>
+              <otmi:vector count='1'>Massachusetts</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>Connecticut-based</otmi:vector>
+              <otmi:vector count='1'>endorsement</otmi:vector>
+              <otmi:vector count='1'>markets</otmi:vector>
+              <otmi:vector count='1'>integrates</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>forecast</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>grow</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>worldwide</otmi:vector>
+              <otmi:vector count='1'>US$44</otmi:vector>
+              <otmi:vector count='1'>sees</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>billion</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>Solar</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>Evergreen</otmi:vector>
+              <otmi:vector count='1'>solid</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>And although Wilder sees Bush&apos;s speech as significant, he says that solid financial progress — exemplified by the $125-million contract that Evergreen Solar of Massachusetts won from a German wholesaler on 15 March — is the source of the sector&apos;s strength.</otmi:snippet>
+              <otmi:snippet>Bush&apos;s State of the Union address, they then fell back somewhat</otmi:snippet>
+              <otmi:snippet>But Michael Liebrich, head of London-based New Energy Finance and a member of the index&apos;s advisory board, says the fundamentals of the sector remain powerful. &quot;In 2005, there was US$44 billion of investment in renewable energy worldwide — about 7% of all energy investment,&quot; he says bullishly. &quot;In which direction is that going to go?&quot; He thinks it can grow fivefold in ten years</otmi:snippet>
+              <otmi:snippet>But although shares in clean-energy companies reached their highest level since 2001 around the time of George W</otmi:snippet>
+              <otmi:snippet>January 2006 featured an unexpected endorsement of clean energy by the president of the United States</otmi:snippet>
+              <otmi:snippet>Robert Wilder, whose company compiles the index, said that the slip was due partly to shareholders cashing in their profits, and partly to a slump at Distributed Energy Systems, a company that integrates power from different sources</otmi:snippet>
+              <otmi:snippet>Shares in the Connecticut-based firm fell by a third on 8 March after it issued a weak earnings forecast</otmi:snippet>
+              <otmi:snippet>The WilderHill index, which tracks clean-energy firms that are listed on stock markets in the United States, enjoyed strong growth through 2005 and rose by more than a quarter in the month of January, before slipping back in early March</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

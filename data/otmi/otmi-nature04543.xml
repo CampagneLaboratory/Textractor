@@ -1,0 +1,1174 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>The prolyl isomerase Pin1 regulates amyloid precursor protein processing and amyloid-β production</title>
+      <id>info:doi/10.1038/nature04543</id>
+      <link href='http://dx.doi.org/10.1038/nature04543' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Lucia Pastorino</name>
+      </author>
+      <author>
+        <name>Anyang Sun</name>
+      </author>
+      <author>
+        <name>Pei-Jung Lu</name>
+      </author>
+      <author>
+        <name>Xiao Zhen Zhou</name>
+      </author>
+      <author>
+        <name>Martin Balastik</name>
+      </author>
+      <author>
+        <name>Greg Finn</name>
+      </author>
+      <author>
+        <name>Gerburg Wulf</name>
+      </author>
+      <author>
+        <name>Jormay Lim</name>
+      </author>
+      <author>
+        <name>Shi-Hua Li</name>
+      </author>
+      <author>
+        <name>Xiaojiang Li</name>
+      </author>
+      <author>
+        <name>Weiming Xia</name>
+      </author>
+      <author>
+        <name>Linda K. Nicholson</name>
+      </author>
+      <author>
+        <name>Kun Ping Lu</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>528</prism:startingPage>
+      <prism:endingPage>534</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Neuropathological hallmarks of Alzheimer&apos;s disease are neurofibrillary tangles composed of tau and neuritic plaques comprising amyloid-β peptides (Aβ) derived from amyloid precursor protein (APP), but their exact relationship remains elusive . Phosphorylation of tau and APP on certain serine or threonine residues preceding proline affects tangle formation and Aβ production in vitro . Phosphorylated Ser/Thr-Pro motifs in peptides can exist in cis or trans conformations, the conversion of which is catalysed by the Pin1 prolyl isomerase . Pin1 has been proposed to regulate protein function by accelerating conformational changes , but such activity has never been visualized and the biological and pathological significance of Pin1 substrate conformations is unknown . Notably, Pin1 is downregulated and/or inhibited by oxidation in Alzheimer&apos;s disease neurons, Pin1 knockout causes tauopathy and neurodegeneration , and Pin1 promoter polymorphisms appear to associate with reduced Pin1 levels and increased risk for late-onset Alzheimer&apos;s disease . However, the role of Pin1 in APP processing and Aβ production is unknown. Here we show that Pin1 has profound effects on APP processing and Aβ production. We find that Pin1 binds to the phosphorylated Thr 668-Pro motif in APP and accelerates its isomerization by over 1,000-fold, regulating the APP intracellular domain between two conformations, as visualized by NMR. Whereas Pin1 overexpression reduces Aβ secretion from cell cultures, knockout of Pin1 increases its secretion. Pin1 knockout alone or in combination with overexpression of mutant APP in mice increases amyloidogenic APP processing and selectively elevates insoluble Aβ42 (a major toxic species) in brains in an age-dependent manner, with Aβ42 being prominently localized to multivesicular bodies of neurons, as shown in Alzheimer&apos;s disease before plaque pathology . Thus, Pin1-catalysed prolyl isomerization is a novel mechanism to regulate APP processing and Aβ production, and its deregulation may link both tangle and plaque pathologies. These findings provide new insight into the pathogenesis and treatment of Alzheimer&apos;s disease.</otmi:rawtext>
+            <otmi:reducedtext>Neuropathological hallmarks Alzheimer&apos;s disease neurofibrillary tangles composed tau neuritic plaques comprising amyloid-β peptides (β) derived amyloid precursor protein (APP), but their exact relationship remains elusive . Phosphorylation tau APP certain serine threonine residues preceding proline affects tangle formation β production vitro . Phosphorylated Ser/Thr-Pro motifs peptides can exist cis trans conformations, conversion which catalysed Pin1 prolyl isomerase . Pin1 has been proposed regulate protein function accelerating conformational changes , but such activity has never been visualized biological pathological significance Pin1 substrate conformations unknown . Notably, Pin1 downregulated / inhibited oxidation Alzheimer&apos;s disease neurons, Pin1 knockout causes tauopathy neurodegeneration , Pin1 promoter polymorphisms appear associate reduced Pin1 levels increased risk late-onset Alzheimer&apos;s disease . However, role Pin1 APP processing β production unknown. Here show Pin1 has profound effects APP processing β production. find Pin1 binds phosphorylated Thr 668-Pro motif APP accelerates its isomerization over 1,000-fold, regulating APP intracellular domain between two conformations, visualized NMR. Whereas Pin1 overexpression reduces β secretion cell cultures, knockout Pin1 increases its secretion. Pin1 knockout alone combination overexpression mutant APP mice increases amyloidogenic APP processing selectively elevates insoluble β42 ( major toxic species) brains age-dependent manner, β42 being prominently localized multivesicular bodies neurons, shown Alzheimer&apos;s disease before plaque pathology . Thus, Pin1-catalysed prolyl isomerization novel mechanism regulate APP processing β production, its deregulation may link both tangle plaque pathologies. These findings provide new insight into pathogenesis treatment Alzheimer&apos;s disease.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='13'>Pin1</otmi:vector>
+              <otmi:vector count='9'>APP</otmi:vector>
+              <otmi:vector count='5'>Alzheimer&apos;s</otmi:vector>
+              <otmi:vector count='4'>disease</otmi:vector>
+              <otmi:vector count='4'>production</otmi:vector>
+              <otmi:vector count='4'>processing</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>knockout</otmi:vector>
+              <otmi:vector count='3'>conformations</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='2'>amyloid</otmi:vector>
+              <otmi:vector count='2'>protein</otmi:vector>
+              <otmi:vector count='2'>neurons</otmi:vector>
+              <otmi:vector count='2'>visualized</otmi:vector>
+              <otmi:vector count='2'>tau</otmi:vector>
+              <otmi:vector count='2'>prolyl</otmi:vector>
+              <otmi:vector count='2'>unknown</otmi:vector>
+              <otmi:vector count='2'>increases</otmi:vector>
+              <otmi:vector count='2'>Aβ42</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>peptides</otmi:vector>
+              <otmi:vector count='2'>isomerization</otmi:vector>
+              <otmi:vector count='2'>overexpression</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>regulate</otmi:vector>
+              <otmi:vector count='2'>secretion</otmi:vector>
+              <otmi:vector count='2'>tangle</otmi:vector>
+              <otmi:vector count='2'>plaque</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>accelerates</otmi:vector>
+              <otmi:vector count='1'>selectively</otmi:vector>
+              <otmi:vector count='1'>domain</otmi:vector>
+              <otmi:vector count='1'>substrate</otmi:vector>
+              <otmi:vector count='1'>precursor</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>pathology</otmi:vector>
+              <otmi:vector count='1'>affects</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>amyloidogenic</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>Phosphorylated</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>residues</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>associate</otmi:vector>
+              <otmi:vector count='1'>Phosphorylation</otmi:vector>
+              <otmi:vector count='1'>threonine</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>cultures</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>668-Pro</otmi:vector>
+              <otmi:vector count='1'>promoter</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>motifs</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>prominently</otmi:vector>
+              <otmi:vector count='1'>mutant</otmi:vector>
+              <otmi:vector count='1'>pathogenesis</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>exact</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>tauopathy</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>age-dependent</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>localized</otmi:vector>
+              <otmi:vector count='1'>late-onset</otmi:vector>
+              <otmi:vector count='1'>tangles</otmi:vector>
+              <otmi:vector count='1'>serine</otmi:vector>
+              <otmi:vector count='1'>insoluble</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>Thr-Pro</otmi:vector>
+              <otmi:vector count='1'>NMR</otmi:vector>
+              <otmi:vector count='1'>Ser</otmi:vector>
+              <otmi:vector count='1'>phosphorylated</otmi:vector>
+              <otmi:vector count='1'>conversion</otmi:vector>
+              <otmi:vector count='1'>downregulated</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>Thr</otmi:vector>
+              <otmi:vector count='1'>disease.</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>profound</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>cis</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>pathological</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>accelerating</otmi:vector>
+              <otmi:vector count='1'>neurodegeneration</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>Pin1-catalysed</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>neurofibrillary</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>oxidation</otmi:vector>
+              <otmi:vector count='1'>plaques</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>Neuropathological</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>inhibited</otmi:vector>
+              <otmi:vector count='1'>catalysed</otmi:vector>
+              <otmi:vector count='1'>trans</otmi:vector>
+              <otmi:vector count='1'>polymorphisms</otmi:vector>
+              <otmi:vector count='1'>comprising</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>pathologies</otmi:vector>
+              <otmi:vector count='1'>brains</otmi:vector>
+              <otmi:vector count='1'>intracellular</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>deregulation</otmi:vector>
+              <otmi:vector count='1'>findings</otmi:vector>
+              <otmi:vector count='1'>composed</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>multivesicular</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>elusive</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>risk</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>proline</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>elevates</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>neuritic</otmi:vector>
+              <otmi:vector count='1'>motif</otmi:vector>
+              <otmi:vector count='1'>conformational</otmi:vector>
+              <otmi:vector count='1'>binds</otmi:vector>
+              <otmi:vector count='1'>preceding</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>bodies</otmi:vector>
+              <otmi:vector count='1'>hallmarks</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>1,000-fold</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>isomerase</otmi:vector>
+              <otmi:vector count='1'>toxic</otmi:vector>
+              <otmi:vector count='1'>appear</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Here we show that Pin1 has profound effects on APP processing and Aβ production</otmi:snippet>
+              <otmi:snippet>However, the role of Pin1 in APP processing and Aβ production is unknown</otmi:snippet>
+              <otmi:snippet>Neuropathological hallmarks of Alzheimer&apos;s disease are neurofibrillary tangles composed of tau and neuritic plaques comprising amyloid-β peptides (Aβ) derived from amyloid precursor protein (APP), but their exact relationship remains elusive </otmi:snippet>
+              <otmi:snippet>Notably, Pin1 is downregulated and/or inhibited by oxidation in Alzheimer&apos;s disease neurons, Pin1 knockout causes tauopathy and neurodegeneration , and Pin1 promoter polymorphisms appear to associate with reduced Pin1 levels and increased risk for late-onset Alzheimer&apos;s disease </otmi:snippet>
+              <otmi:snippet>Phosphorylated Ser/Thr-Pro motifs in peptides can exist in cis or trans conformations, the conversion of which is catalysed by the Pin1 prolyl isomerase </otmi:snippet>
+              <otmi:snippet>Phosphorylation of tau and APP on certain serine or threonine residues preceding proline affects tangle formation and Aβ production in vitro </otmi:snippet>
+              <otmi:snippet>Pin1 has been proposed to regulate protein function by accelerating conformational changes , but such activity has never been visualized and the biological and pathological significance of Pin1 substrate conformations is unknown </otmi:snippet>
+              <otmi:snippet>Pin1 knockout alone or in combination with overexpression of mutant APP in mice increases amyloidogenic APP processing and selectively elevates insoluble Aβ42 (a major toxic species) in brains in an age-dependent manner, with Aβ42 being prominently localized to multivesicular bodies of neurons, as shown in Alzheimer&apos;s disease before plaque pathology </otmi:snippet>
+              <otmi:snippet>These findings provide new insight into the pathogenesis and treatment of Alzheimer&apos;s disease.</otmi:snippet>
+              <otmi:snippet>Thus, Pin1-catalysed prolyl isomerization is a novel mechanism to regulate APP processing and Aβ production, and its deregulation may link both tangle and plaque pathologies</otmi:snippet>
+              <otmi:snippet>We find that Pin1 binds to the phosphorylated Thr 668-Pro motif in APP and accelerates its isomerization by over 1,000-fold, regulating the APP intracellular domain between two conformations, as visualized by NMR</otmi:snippet>
+              <otmi:snippet>Whereas Pin1 overexpression reduces Aβ secretion from cell cultures, knockout of Pin1 increases its secretion</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>Pin1</otmi:vector>
+              <otmi:vector count='4'>described</otmi:vector>
+              <otmi:vector count='4'>APP</otmi:vector>
+              <otmi:vector count='3'>mice</otmi:vector>
+              <otmi:vector count='3'>mutant</otmi:vector>
+              <otmi:vector count='3'>determined</otmi:vector>
+              <otmi:vector count='3'>mM</otmi:vector>
+              <otmi:vector count='3'>Aβ42</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>15</otmi:vector>
+              <otmi:vector count='2'>peptide</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>K670N</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>microscopy</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>Swedish</otmi:vector>
+              <otmi:vector count='1'>incubated</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>N</otmi:vector>
+              <otmi:vector count='1'>60:1</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>equimolar</otmi:vector>
+              <otmi:vector count='1'>129</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>transgene</otmi:vector>
+              <otmi:vector count='1'>crossed</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>neuronal</otmi:vector>
+              <otmi:vector count='1'>ROESY</otmi:vector>
+              <otmi:vector count='1'>Tg2576</otmi:vector>
+              <otmi:vector count='1'>dissolved</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>HSQC</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>668-Pro</otmi:vector>
+              <otmi:vector count='1'>6.7</otmi:vector>
+              <otmi:vector count='1'>Sv</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>Briefly</otmi:vector>
+              <otmi:vector count='1'>Supplementary</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>anti-human</otmi:vector>
+              <otmi:vector count='1'>M671L</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>0.05</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>B6</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>Chemicon</otmi:vector>
+              <otmi:vector count='1'>localization</otmi:vector>
+              <otmi:vector count='1'>Subcellular</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>immunogold</otmi:vector>
+              <otmi:vector count='1'>K63A</otmi:vector>
+              <otmi:vector count='1'>buffer</otmi:vector>
+              <otmi:vector count='1'>ELISA</otmi:vector>
+              <otmi:vector count='1'>sandwich</otmi:vector>
+              <otmi:vector count='1'>processing</otmi:vector>
+              <otmi:vector count='1'>antibodies</otmi:vector>
+              <otmi:vector count='1'>overexpressing</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>adjusted</otmi:vector>
+              <otmi:vector count='1'>pH</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>polyclonal</otmi:vector>
+              <otmi:vector count='1'>co-localization</otmi:vector>
+              <otmi:vector count='1'>copy</otmi:vector>
+              <otmi:vector count='1'>Full</otmi:vector>
+              <otmi:vector count='1'>pThr</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>WW</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>N-E670-pT668</otmi:vector>
+              <otmi:vector count='1'>NMR</otmi:vector>
+              <otmi:vector count='1'>C57L</otmi:vector>
+              <otmi:vector count='1'>GST–Pin1</otmi:vector>
+              <otmi:vector count='1'>electron</otmi:vector>
+              <otmi:vector count='1'>Aβ40</otmi:vector>
+              <otmi:vector count='1'>H</otmi:vector>
+              <otmi:vector count='1'>molar</otmi:vector>
+              <otmi:vector count='1'>domain</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>ratio</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>inbred</otmi:vector>
+              <otmi:vector count='1'>0.2</otmi:vector>
+              <otmi:vector count='1'>Taconic</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>APP processing was determined, as described , while Aβ40 and Aβ42 levels were measured by sandwich ELISA, as described </otmi:snippet>
+              <otmi:snippet>Briefly, for ROESY experiments, peptide was analysed in the absence or presence of Pin1, GST–Pin1 or its K63A mutant at 60:1 molar ratio (3 mM pThr 668-Pro and 0.05 mM Pin1 or its mutant)</otmi:snippet>
+              <otmi:snippet>For 15 N- 1 H HSQC experiments, 15 N-E670-pT668 peptide was dissolved in the same buffer adjusted to pH 6.7 and incubated with an equimolar amount of WW domain (0.2 mM)</otmi:snippet>
+              <otmi:snippet>Full details of these methods are given in the Supplementary Information .</otmi:snippet>
+              <otmi:snippet>Methods The interaction and co-localization of Pin1 and APP were determined as described </otmi:snippet>
+              <otmi:snippet>NMR analysis was performed as reported </otmi:snippet>
+              <otmi:snippet>Pin1 -/- mice were inbred in mixed 129/Sv and C57L/B6 (ref. 11 ) mice, and crossed with Tg2576 mice overexpressing the human APP K670N/M671L (Swedish) mutant ( Taconic ) to generate a single copy of the APP transgene in the Pin1 +/+ and Pin1 -/- genetic background</otmi:snippet>
+              <otmi:snippet>Subcellular localization of neuronal Aβ42 was determined using immunogold electron microscopy with anti-human Aβ42 polyclonal antibodies ( Chemicon ), as described </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='72'>Pin1</otmi:vector>
+              <otmi:vector count='48'>APP</otmi:vector>
+              <otmi:vector count='44'>Fig</otmi:vector>
+              <otmi:vector count='21'>cis</otmi:vector>
+              <otmi:vector count='18'>trans</otmi:vector>
+              <otmi:vector count='17'>processing</otmi:vector>
+              <otmi:vector count='17'>Aβ42</otmi:vector>
+              <otmi:vector count='17'>at</otmi:vector>
+              <otmi:vector count='17'>cells</otmi:vector>
+              <otmi:vector count='16'>pThr</otmi:vector>
+              <otmi:vector count='15'>668-Pro</otmi:vector>
+              <otmi:vector count='15'>mice</otmi:vector>
+              <otmi:vector count='13'>Thr</otmi:vector>
+              <otmi:vector count='13'>Supplementary</otmi:vector>
+              <otmi:vector count='12'>also</otmi:vector>
+              <otmi:vector count='12'>motif</otmi:vector>
+              <otmi:vector count='12'>production</otmi:vector>
+              <otmi:vector count='11'>domain</otmi:vector>
+              <otmi:vector count='11'>months</otmi:vector>
+              <otmi:vector count='11'>knockout</otmi:vector>
+              <otmi:vector count='11'>WW</otmi:vector>
+              <otmi:vector count='11'>results</otmi:vector>
+              <otmi:vector count='11'>but</otmi:vector>
+              <otmi:vector count='10'>Alzheimer&apos;s</otmi:vector>
+              <otmi:vector count='10'>disease</otmi:vector>
+              <otmi:vector count='10'>isomerization</otmi:vector>
+              <otmi:vector count='10'>might</otmi:vector>
+              <otmi:vector count='10'>phosphorylation</otmi:vector>
+              <otmi:vector count='10'>binding</otmi:vector>
+              <otmi:vector count='9'>These</otmi:vector>
+              <otmi:vector count='9'>APPs</otmi:vector>
+              <otmi:vector count='9'>668</otmi:vector>
+              <otmi:vector count='8'>effects</otmi:vector>
+              <otmi:vector count='8'>AICD</otmi:vector>
+              <otmi:vector count='8'>secretion</otmi:vector>
+              <otmi:vector count='8'>levels</otmi:vector>
+              <otmi:vector count='8'>not</otmi:vector>
+              <otmi:vector count='7'>see</otmi:vector>
+              <otmi:vector count='6'>brains</otmi:vector>
+              <otmi:vector count='6'>amyloidogenic</otmi:vector>
+              <otmi:vector count='6'>peaks</otmi:vector>
+              <otmi:vector count='6'>examine</otmi:vector>
+              <otmi:vector count='6'>compared</otmi:vector>
+              <otmi:vector count='6'>age</otmi:vector>
+              <otmi:vector count='6'>cat</otmi:vector>
+              <otmi:vector count='6'>k</otmi:vector>
+              <otmi:vector count='6'>mitotic</otmi:vector>
+              <otmi:vector count='5'>exchange</otmi:vector>
+              <otmi:vector count='5'>isomers</otmi:vector>
+              <otmi:vector count='5'>non-amyloidogenic</otmi:vector>
+              <otmi:vector count='5'>its</otmi:vector>
+              <otmi:vector count='5'>whether</otmi:vector>
+              <otmi:vector count='5'>may</otmi:vector>
+              <otmi:vector count='5'>overexpression</otmi:vector>
+              <otmi:vector count='5'>conformation</otmi:vector>
+              <otmi:vector count='5'>Aβ40</otmi:vector>
+              <otmi:vector count='5'>Pin1-catalysed</otmi:vector>
+              <otmi:vector count='5'>when</otmi:vector>
+              <otmi:vector count='5'>indicate</otmi:vector>
+              <otmi:vector count='5'>15</otmi:vector>
+              <otmi:vector count='5'>increased</otmi:vector>
+              <otmi:vector count='5'>increases</otmi:vector>
+              <otmi:vector count='5'>Tg2576</otmi:vector>
+              <otmi:vector count='5'>conformational</otmi:vector>
+              <otmi:vector count='5'>cell</otmi:vector>
+              <otmi:vector count='4'>neurodegeneration</otmi:vector>
+              <otmi:vector count='4'>described</otmi:vector>
+              <otmi:vector count='4'>examined</otmi:vector>
+              <otmi:vector count='4'>important</otmi:vector>
+              <otmi:vector count='4'>phosphorylated</otmi:vector>
+              <otmi:vector count='4'>human</otmi:vector>
+              <otmi:vector count='4'>However</otmi:vector>
+              <otmi:vector count='4'>membrane</otmi:vector>
+              <otmi:vector count='4'>S</otmi:vector>
+              <otmi:vector count='4'>2</otmi:vector>
+              <otmi:vector count='4'>using</otmi:vector>
+              <otmi:vector count='4'>vesicles</otmi:vector>
+              <otmi:vector count='4'>Therefore</otmi:vector>
+              <otmi:vector count='4'>1</otmi:vector>
+              <otmi:vector count='4'>cancer</otmi:vector>
+              <otmi:vector count='4'>after</otmi:vector>
+              <otmi:vector count='4'>secretases</otmi:vector>
+              <otmi:vector count='4'>before</otmi:vector>
+              <otmi:vector count='4'>significantly</otmi:vector>
+              <otmi:vector count='4'>CTFs</otmi:vector>
+              <otmi:vector count='4'>shown</otmi:vector>
+              <otmi:vector count='4'>soluble</otmi:vector>
+              <otmi:vector count='4'>bound</otmi:vector>
+              <otmi:vector count='4'>N</otmi:vector>
+              <otmi:vector count='4'>peptide</otmi:vector>
+              <otmi:vector count='4'>dephosphorylation</otmi:vector>
+              <otmi:vector count='4'>other</otmi:vector>
+              <otmi:vector count='4'>followed</otmi:vector>
+              <otmi:vector count='4'>insoluble</otmi:vector>
+              <otmi:vector count='4'>T668A</otmi:vector>
+              <otmi:vector count='4'>both</otmi:vector>
+              <otmi:vector count='4'>plasma</otmi:vector>
+              <otmi:vector count='3'>asynchronous</otmi:vector>
+              <otmi:vector count='3'>populations</otmi:vector>
+              <otmi:vector count='3'>Because</otmi:vector>
+              <otmi:vector count='3'>b</otmi:vector>
+              <otmi:vector count='3'>t</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>rate</otmi:vector>
+              <otmi:vector count='3'>pull</otmi:vector>
+              <otmi:vector count='3'>further</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>question</otmi:vector>
+              <otmi:vector count='3'>absence</otmi:vector>
+              <otmi:vector count='3'>d</otmi:vector>
+              <otmi:vector count='3'>due</otmi:vector>
+              <otmi:vector count='3'>age-dependent</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>especially</otmi:vector>
+              <otmi:vector count='3'>littermates</otmi:vector>
+              <otmi:vector count='3'>total</otmi:vector>
+              <otmi:vector count='3'>these</otmi:vector>
+              <otmi:vector count='3'>peptides</otmi:vector>
+              <otmi:vector count='3'>multivesicular</otmi:vector>
+              <otmi:vector count='3'>vitro</otmi:vector>
+              <otmi:vector count='3'>reduced</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>comparable</otmi:vector>
+              <otmi:vector count='3'>increase</otmi:vector>
+              <otmi:vector count='3'>tau</otmi:vector>
+              <otmi:vector count='3'>diagonal</otmi:vector>
+              <otmi:vector count='3'>ct</otmi:vector>
+              <otmi:vector count='3'>motifs</otmi:vector>
+              <otmi:vector count='3'>known</otmi:vector>
+              <otmi:vector count='3'>peak</otmi:vector>
+              <otmi:vector count='3'>GST</otmi:vector>
+              <otmi:vector count='3'>indicating</otmi:vector>
+              <otmi:vector count='3'>CHO-APP</otmi:vector>
+              <otmi:vector count='3'>structures</otmi:vector>
+              <otmi:vector count='3'>vivo</otmi:vector>
+              <otmi:vector count='3'>substrates</otmi:vector>
+              <otmi:vector count='3'>endogenous</otmi:vector>
+              <otmi:vector count='3'>population</otmi:vector>
+              <otmi:vector count='3'>m</otmi:vector>
+              <otmi:vector count='3'>Given</otmi:vector>
+              <otmi:vector count='3'>cross</otmi:vector>
+              <otmi:vector count='3'>6</otmi:vector>
+              <otmi:vector count='3'>similar</otmi:vector>
+              <otmi:vector count='3'>binds</otmi:vector>
+              <otmi:vector count='3'>favour</otmi:vector>
+              <otmi:vector count='3'>mutant</otmi:vector>
+              <otmi:vector count='3'>2a</otmi:vector>
+              <otmi:vector count='3'>observed</otmi:vector>
+              <otmi:vector count='3'>where</otmi:vector>
+              <otmi:vector count='3'>tc</otmi:vector>
+              <otmi:vector count='3'>although</otmi:vector>
+              <otmi:vector count='3'>G1</otmi:vector>
+              <otmi:vector count='3'>expressed</otmi:vector>
+              <otmi:vector count='3'>FAD</otmi:vector>
+              <otmi:vector count='3'>more</otmi:vector>
+              <otmi:vector count='3'>mediated</otmi:vector>
+              <otmi:vector count='3'>down</otmi:vector>
+              <otmi:vector count='2'>231-Pro</otmi:vector>
+              <otmi:vector count='2'>lesser</otmi:vector>
+              <otmi:vector count='2'>E670-H</otmi:vector>
+              <otmi:vector count='2'>promote</otmi:vector>
+              <otmi:vector count='2'>mainly</otmi:vector>
+              <otmi:vector count='2'>corresponding</otmi:vector>
+              <otmi:vector count='2'>transgenic</otmi:vector>
+              <otmi:vector count='2'>bind</otmi:vector>
+              <otmi:vector count='2'>5g</otmi:vector>
+              <otmi:vector count='2'>absent</otmi:vector>
+              <otmi:vector count='2'>depend</otmi:vector>
+              <otmi:vector count='2'>possibility</otmi:vector>
+              <otmi:vector count='2'>E670</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>causes</otmi:vector>
+              <otmi:vector count='2'>direct</otmi:vector>
+              <otmi:vector count='2'>early</otmi:vector>
+              <otmi:vector count='2'>cellular</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>equilibrium</otmi:vector>
+              <otmi:vector count='2'>prolyl</otmi:vector>
+              <otmi:vector count='2'>regulation</otmi:vector>
+              <otmi:vector count='2'>specific</otmi:vector>
+              <otmi:vector count='2'>mitosis</otmi:vector>
+              <otmi:vector count='2'>mouse</otmi:vector>
+              <otmi:vector count='2'>Cdc2</otmi:vector>
+              <otmi:vector count='2'>endosomes</otmi:vector>
+              <otmi:vector count='2'>3-fold</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>construct</otmi:vector>
+              <otmi:vector count='2'>hypothesize</otmi:vector>
+              <otmi:vector count='2'>clathrin-coated</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>major</otmi:vector>
+              <otmi:vector count='2'>Notably</otmi:vector>
+              <otmi:vector count='2'>changes</otmi:vector>
+              <otmi:vector count='2'>development</otmi:vector>
+              <otmi:vector count='2'>prominently</otmi:vector>
+              <otmi:vector count='2'>intracellular</otmi:vector>
+              <otmi:vector count='2'>plaque</otmi:vector>
+              <otmi:vector count='2'>abolished</otmi:vector>
+              <otmi:vector count='2'>pathological</otmi:vector>
+              <otmi:vector count='2'>uncatalysed</otmi:vector>
+              <otmi:vector count='2'>c</otmi:vector>
+              <otmi:vector count='2'>identify</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>affinity</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>4a</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>2–6</otmi:vector>
+              <otmi:vector count='2'>H</otmi:vector>
+              <otmi:vector count='2'>pThr-Pro</otmi:vector>
+              <otmi:vector count='2'>S9a</otmi:vector>
+              <otmi:vector count='2'>CHO</otmi:vector>
+              <otmi:vector count='2'>bodies</otmi:vector>
+              <otmi:vector count='2'>pSer</otmi:vector>
+              <otmi:vector count='2'>addition</otmi:vector>
+              <otmi:vector count='2'>accelerated</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>free</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>against</otmi:vector>
+              <otmi:vector count='2'>intensities</otmi:vector>
+              <otmi:vector count='2'>act</otmi:vector>
+              <otmi:vector count='2'>21-residue</otmi:vector>
+              <otmi:vector count='2'>neurons</otmi:vector>
+              <otmi:vector count='2'>structural</otmi:vector>
+              <otmi:vector count='2'>regulate</otmi:vector>
+              <otmi:vector count='2'>biological</otmi:vector>
+              <otmi:vector count='2'>residues</otmi:vector>
+              <otmi:vector count='2'>rates</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>distinct</otmi:vector>
+              <otmi:vector count='2'>shifts</otmi:vector>
+              <otmi:vector count='2'>elevated</otmi:vector>
+              <otmi:vector count='2'>increasing</otmi:vector>
+              <otmi:vector count='2'>s</otmi:vector>
+              <otmi:vector count='2'>spectroscopy</otmi:vector>
+              <otmi:vector count='2'>lines</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>primarily</otmi:vector>
+              <otmi:vector count='2'>reduces</otmi:vector>
+              <otmi:vector count='2'>transfecting</otmi:vector>
+              <otmi:vector count='2'>derived</otmi:vector>
+              <otmi:vector count='2'>suggesting</otmi:vector>
+              <otmi:vector count='2'>did</otmi:vector>
+              <otmi:vector count='2'>affects</otmi:vector>
+              <otmi:vector count='2'>importance</otmi:vector>
+              <otmi:vector count='2'>sufferers</otmi:vector>
+              <otmi:vector count='2'>overexpressing</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>significance</otmi:vector>
+              <otmi:vector count='2'>arrows</otmi:vector>
+              <otmi:vector count='2'>versus</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>S2</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>studies</otmi:vector>
+              <otmi:vector count='2'>toxic</otmi:vector>
+              <otmi:vector count='2'>particles</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>fragments</otmi:vector>
+              <otmi:vector count='2'>2e</otmi:vector>
+              <otmi:vector count='2'>5a–f</otmi:vector>
+              <otmi:vector count='2'>3d</otmi:vector>
+              <otmi:vector count='2'>2c</otmi:vector>
+              <otmi:vector count='2'>APP751</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>carboxy-terminal</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>re-establish</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>3e</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>address</otmi:vector>
+              <otmi:vector count='1'>native</otmi:vector>
+              <otmi:vector count='1'>Interestingly</otmi:vector>
+              <otmi:vector count='1'>amino-terminal</otmi:vector>
+              <otmi:vector count='1'>rotating</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>40</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>alter</otmi:vector>
+              <otmi:vector count='1'>Similarly</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>old</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>Tg(APPSWE)2576Kha</otmi:vector>
+              <otmi:vector count='1'>K670N</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>selective</otmi:vector>
+              <otmi:vector count='1'>atomic-level</otmi:vector>
+              <otmi:vector count='1'>monoclonal</otmi:vector>
+              <otmi:vector count='1'>co-localize</otmi:vector>
+              <otmi:vector count='1'>co-localized</otmi:vector>
+              <otmi:vector count='1'>1–5</otmi:vector>
+              <otmi:vector count='1'>46</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>3b</otmi:vector>
+              <otmi:vector count='1'>decreases</otmi:vector>
+              <otmi:vector count='1'>antibody</otmi:vector>
+              <otmi:vector count='1'>inhibited</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>Addition</otmi:vector>
+              <otmi:vector count='1'>hereafter</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>non-equilibrium</otmi:vector>
+              <otmi:vector count='1'>resolved</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>documented</otmi:vector>
+              <otmi:vector count='1'>manipulate</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>glutathione</otmi:vector>
+              <otmi:vector count='1'>interacts</otmi:vector>
+              <otmi:vector count='1'>0</otmi:vector>
+              <otmi:vector count='1'>visualized</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>proteolysis</otmi:vector>
+              <otmi:vector count='1'>transfection</otmi:vector>
+              <otmi:vector count='1'>differ</otmi:vector>
+              <otmi:vector count='1'>GST–Pin1</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>substituted</otmi:vector>
+              <otmi:vector count='1'>phenotypes</otmi:vector>
+              <otmi:vector count='1'>lifetime</otmi:vector>
+              <otmi:vector count='1'>content</otmi:vector>
+              <otmi:vector count='1'>mediates</otmi:vector>
+              <otmi:vector count='1'>H4</otmi:vector>
+              <otmi:vector count='1'>B</otmi:vector>
+              <otmi:vector count='1'>extremely</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>breast</otmi:vector>
+              <otmi:vector count='1'>catalytic</otmi:vector>
+              <otmi:vector count='1'>tumour</otmi:vector>
+              <otmi:vector count='1'>immunosorbent</otmi:vector>
+              <otmi:vector count='1'>subsequent</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>mutants</otmi:vector>
+              <otmi:vector count='1'>Pin1-binding</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>atomic</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>inactive</otmi:vector>
+              <otmi:vector count='1'>proton</otmi:vector>
+              <otmi:vector count='1'>contributor</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>co-localizes</otmi:vector>
+              <otmi:vector count='1'>forward</otmi:vector>
+              <otmi:vector count='1'>668-containing</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>obviously</otmi:vector>
+              <otmi:vector count='1'>measuring</otmi:vector>
+              <otmi:vector count='1'>neurodegenerative</otmi:vector>
+              <otmi:vector count='1'>transferase</otmi:vector>
+              <otmi:vector count='1'>Cdc2-phosphorylated</otmi:vector>
+              <otmi:vector count='1'>effectively</otmi:vector>
+              <otmi:vector count='1'>NMR</otmi:vector>
+              <otmi:vector count='1'>enzyme-linked</otmi:vector>
+              <otmi:vector count='1'>depleted</otmi:vector>
+              <otmi:vector count='1'>microscopy</otmi:vector>
+              <otmi:vector count='1'>greatly</otmi:vector>
+              <otmi:vector count='1'>phosphopeptides</otmi:vector>
+              <otmi:vector count='1'>appears</otmi:vector>
+              <otmi:vector count='1'>accurately</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>help</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>1c</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>Chinese</otmi:vector>
+              <otmi:vector count='1'>secreted</otmi:vector>
+              <otmi:vector count='1'>demonstration</otmi:vector>
+              <otmi:vector count='1'>1d</otmi:vector>
+              <otmi:vector count='1'>Sequential</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>causing</otmi:vector>
+              <otmi:vector count='1'>cleaved</otmi:vector>
+              <otmi:vector count='1'>1e</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>1f</otmi:vector>
+              <otmi:vector count='1'>crossed</otmi:vector>
+              <otmi:vector count='1'>6E10</otmi:vector>
+              <otmi:vector count='1'>S-APP</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>1a–c</otmi:vector>
+              <otmi:vector count='1'>HA</otmi:vector>
+              <otmi:vector count='1'>elevates</otmi:vector>
+              <otmi:vector count='1'>membrane-anchored</otmi:vector>
+              <otmi:vector count='1'>resolution</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>calculated</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>promotes</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>frame</otmi:vector>
+              <otmi:vector count='1'>K63A</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>sequence-specific</otmi:vector>
+              <otmi:vector count='1'>exhibits</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>investigate</otmi:vector>
+              <otmi:vector count='1'>5h</otmi:vector>
+              <otmi:vector count='1'>backward</otmi:vector>
+              <otmi:vector count='1'>similar—13</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>Ser-Pro</otmi:vector>
+              <otmi:vector count='1'>affecting</otmi:vector>
+              <otmi:vector count='1'>Knockout</otmi:vector>
+              <otmi:vector count='1'>competed</otmi:vector>
+              <otmi:vector count='1'>phosphopeptide</otmi:vector>
+              <otmi:vector count='1'>volumes</otmi:vector>
+              <otmi:vector count='1'>isoform</otmi:vector>
+              <otmi:vector count='1'>rate-limiting</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>M671L</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>overproduction</otmi:vector>
+              <otmi:vector count='1'>CIP</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>isomer</otmi:vector>
+              <otmi:vector count='1'>Tg(APPSWE)2576Kahs</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>668-APP</otmi:vector>
+              <otmi:vector count='1'>extracts</otmi:vector>
+              <otmi:vector count='1'>deregulation</otmi:vector>
+              <otmi:vector count='1'>anti-HA</otmi:vector>
+              <otmi:vector count='1'>0.05</otmi:vector>
+              <otmi:vector count='1'>insure</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>neuronal</otmi:vector>
+              <otmi:vector count='1'>familial</otmi:vector>
+              <otmi:vector count='1'>protecting</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>site</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>suddenly</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>ROESY</otmi:vector>
+              <otmi:vector count='1'>module</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>S8a</otmi:vector>
+              <otmi:vector count='1'>mammary</otmi:vector>
+              <otmi:vector count='1'>red</otmi:vector>
+              <otmi:vector count='1'>arresting</otmi:vector>
+              <otmi:vector count='1'>controls</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>S8b</otmi:vector>
+              <otmi:vector count='1'>cultures</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>gold</otmi:vector>
+              <otmi:vector count='1'>fits</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>Thr-Pro-binding</otmi:vector>
+              <otmi:vector count='1'>isomerizes</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>note</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>0.5</otmi:vector>
+              <otmi:vector count='1'>partitions</otmi:vector>
+              <otmi:vector count='1'>accumulated</otmi:vector>
+              <otmi:vector count='1'>processed</otmi:vector>
+              <otmi:vector count='1'>states</otmi:vector>
+              <otmi:vector count='1'>measures</otmi:vector>
+              <otmi:vector count='1'>oxidation</otmi:vector>
+              <otmi:vector count='1'>electron</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>brain</otmi:vector>
+              <otmi:vector count='1'>hamster</otmi:vector>
+              <otmi:vector count='1'>Slow</otmi:vector>
+              <otmi:vector count='1'>ovary</otmi:vector>
+              <otmi:vector count='1'>two-state</otmi:vector>
+              <otmi:vector count='1'>catalytically</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>grew</otmi:vector>
+              <otmi:vector count='1'>42-residue</otmi:vector>
+              <otmi:vector count='1'>spectrum</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>kinase</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>detectable</otmi:vector>
+              <otmi:vector count='1'>reflects</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>G659–Q679</otmi:vector>
+              <otmi:vector count='1'>S9c</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>cyclin</otmi:vector>
+              <otmi:vector count='1'>yields</otmi:vector>
+              <otmi:vector count='1'>amyloid</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>markedly</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>4b</otmi:vector>
+              <otmi:vector count='1'>e</otmi:vector>
+              <otmi:vector count='1'>elucidate</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>f</otmi:vector>
+              <otmi:vector count='1'>4c</otmi:vector>
+              <otmi:vector count='1'>localized</otmi:vector>
+              <otmi:vector count='1'>outcome</otmi:vector>
+              <otmi:vector count='1'>exchanges</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>cell-cycle-regulated</otmi:vector>
+              <otmi:vector count='1'>explicitly</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>4e</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>demonstrating</otmi:vector>
+              <otmi:vector count='1'>prevent</otmi:vector>
+              <otmi:vector count='1'>dynamically</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>presenilin</otmi:vector>
+              <otmi:vector count='1'>great</otmi:vector>
+              <otmi:vector count='1'>tauopathy</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>S4–S6</otmi:vector>
+              <otmi:vector count='1'>biochemical</otmi:vector>
+              <otmi:vector count='1'>substrate</otmi:vector>
+              <otmi:vector count='1'>typical</otmi:vector>
+              <otmi:vector count='1'>incubated</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>hyperphosphorylation</otmi:vector>
+              <otmi:vector count='1'>ratios</otmi:vector>
+              <otmi:vector count='1'>Ratios</otmi:vector>
+              <otmi:vector count='1'>diminished</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>orders</otmi:vector>
+              <otmi:vector count='1'>Ala</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>recombinant</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>tenfold</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>dynamic</otmi:vector>
+              <otmi:vector count='1'>expressing</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>87</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>constraints</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>α-CTFs</otmi:vector>
+              <otmi:vector count='1'>virus</otmi:vector>
+              <otmi:vector count='1'>correlation</otmi:vector>
+              <otmi:vector count='1'>amide</otmi:vector>
+              <otmi:vector count='1'>black</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>preventing</otmi:vector>
+              <otmi:vector count='1'>7-fold</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>S1a</otmi:vector>
+              <otmi:vector count='1'>failed</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>S1b</otmi:vector>
+              <otmi:vector count='1'>constants</otmi:vector>
+              <otmi:vector count='1'>assays</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>S1c</otmi:vector>
+              <otmi:vector count='1'>Thr-Pro</otmi:vector>
+              <otmi:vector count='1'>curve</otmi:vector>
+              <otmi:vector count='1'>catalyse</otmi:vector>
+              <otmi:vector count='1'>Immunogold</otmi:vector>
+              <otmi:vector count='1'>cultured</otmi:vector>
+              <otmi:vector count='1'>bond</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>catalysing</otmi:vector>
+              <otmi:vector count='1'>ELISA</otmi:vector>
+              <otmi:vector count='1'>alterations</otmi:vector>
+              <otmi:vector count='1'>extent</otmi:vector>
+              <otmi:vector count='1'>tangle-specific</otmi:vector>
+              <otmi:vector count='1'>accumulation</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>switch</otmi:vector>
+              <otmi:vector count='1'>Levels</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>N18</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>relevant</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>35</otmi:vector>
+              <otmi:vector count='1'>upon</otmi:vector>
+              <otmi:vector count='1'>longer</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>body</otmi:vector>
+              <otmi:vector count='1'>isomeric</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>linking</otmi:vector>
+              <otmi:vector count='1'>clearance</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>pathology</otmi:vector>
+              <otmi:vector count='1'>MMTV)-Neu</otmi:vector>
+              <otmi:vector count='1'>accelerates</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>wild-type</otmi:vector>
+              <otmi:vector count='1'>Phosphorylation</otmi:vector>
+              <otmi:vector count='1'>co-immunoprecipitation</otmi:vector>
+              <otmi:vector count='1'>S3</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>stably</otmi:vector>
+              <otmi:vector count='1'>catalyst</otmi:vector>
+              <otmi:vector count='1'>downregulated</otmi:vector>
+              <otmi:vector count='1'>conversion</otmi:vector>
+              <otmi:vector count='1'>concentration</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>remained</otmi:vector>
+              <otmi:vector count='1'>incorporated</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>2b</otmi:vector>
+              <otmi:vector count='1'>recognition</otmi:vector>
+              <otmi:vector count='1'>therapies.</otmi:vector>
+              <otmi:vector count='1'>co-immunoprecipitated</otmi:vector>
+              <otmi:vector count='1'>S7</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>Overhauser</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A primary theory for the cause of Alzheimer&apos;s disease is overproduction and/or lack of clearance of Aβ peptides derived from APP, especially the more toxic Aβ42 (refs 1 , 2 )</otmi:snippet>
+              <otmi:snippet>APP is cleaved by α- or β-secretases to generate soluble amino-terminal fragments (α-APPs or β-APPs) and membrane-anchored carboxy-terminal fragments (α-CTFs or β-CTFs), respectively </otmi:snippet>
+              <otmi:snippet>APP is processed by non-amyloidogenic α-secretases mainly at the plasma membrane, and by amyloidogenic β- and γ-secretases at endosomes and other structures </otmi:snippet>
+              <otmi:snippet>Addition of the WW domain caused significant peak shifts for both cis and trans isomers ( Fig. 2e ), demonstrating direct binding between the WW domain and both pThr 668-Pro isomers</otmi:snippet>
+              <otmi:snippet>As shown , AICD, but not AICD T668A , was phosphorylated by Cdc2 ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Because Pin1 WW domain is shown to bind to other phosphopeptides in trans , these results further suggest that Pin1 WW binding to the cis conformation is highly sequence-specific</otmi:snippet>
+              <otmi:snippet>Because Thr 668 phosphorylation is known to be increased during mitosis , like many other Pin1 substrates , and Pin1 is important for protecting against tauopathy and neurodegeneration , we hypothesize that Pin1 might act on the pThr 668-Pro motif to regulate APP processing and Aβ production</otmi:snippet>
+              <otmi:snippet>Because the effects of Pin1 knockout on neurons in mice are age dependent , we compared Aβ levels at 2–6 months of age, when there is no detectable neuronal phenotypes, and at 15 months, when tau hyperphosphorylation and early neurodegeneration are observed </otmi:snippet>
+              <otmi:snippet>For Tg2576 mice, Pin1 knockout had no obvious effects on total APP, CTFs or their Thr 668 phosphorylation, but significantly affected levels of soluble APPs at 6 months but not at 2 months old ( Fig. 5a–f )</otmi:snippet>
+              <otmi:snippet>Given that Pin1 binds to the pThr 668-Pro motif in APP and greatly accelerates its isomerization, a critical question is whether Pin1 affects APP processing and Aβ production</otmi:snippet>
+              <otmi:snippet>Given that the Pin1 WW domain mediates substrate recognition ( Fig. 1 ), the question arises whether differences in WW domain affinity for the cis and trans isomers might alter their relative populations when Pin1 and pThr 668-APP concentrations are comparable</otmi:snippet>
+              <otmi:snippet>Given the dramatic effects of Pin1 on APP conformational dynamics in vitro and on APP processing and Aβ production in cell cultures and animals, we hypothesize that the cis pThr 668-Pro conformation may favour amyloidogenic APP processing, whereas the trans conformation may favour non-amyloidogenic APP processing, and by catalysing their conversion, Pin1 promotes non-amyloidogenic APP processing and reduces Aβ production ( Fig. 5g , h )</otmi:snippet>
+              <otmi:snippet>Here we used NMR spectroscopy to examine Pin1-catalysed isomerization of the pThr 668-Pro bond in a 21-residue phosphopeptide (G659–Q679) of APP, because this peptide accurately reflects the structural and dynamic features of the corresponding residues in the native AICD </otmi:snippet>
+              <otmi:snippet>However, as compared with Pin1 +/+ cells, Pin1 -/- cells secreted 3-fold less α-APPs ( Fig. 3d , e ), as detected by 6E10 specific for human α-APPs ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>However, if Pin1 function is absent as in Pin1 -/- mice or cells, or downregulated/inhibited by oxidation or genetic alterations as in Alzheimer&apos;s disease ( Fig. 5h ) , a higher concentration of the cis pThr 668-Pro motif would be present for a longer time due to the extremely slow uncatalysed isomerization rate, which might promote amyloidogenic APP processing</otmi:snippet>
+              <otmi:snippet>However, levels of insoluble Aβ42 were increased by 32% in the brains of Pin1 -/- mice at 15 months compared to Pin1 +/+ littermates ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>However, the population distribution remained similar—13% cis and 87% trans —after binding ( Fig. 2e ), indicating that the WW domain exhibits comparable affinity for cis and trans pThr 668-Pro motifs in APP</otmi:snippet>
+              <otmi:snippet>Immunogold electron microscopy studies showed that Aβ42 primarily accumulated in multivesicular bodies of neurons from Tg2576 littermates with or without Pin1 at 7 months of age, but more gold particles were observed in the absence than the presence of Pin1 ( Fig. 4e , f : 1–5 versus &gt;8 particles per multivesicular body)</otmi:snippet>
+              <otmi:snippet>In addition, Pin1 overexpression has an important role in cancer </otmi:snippet>
+              <otmi:snippet>In the ROESY (rotating frame Overhauser effect spectroscopy) spectrum, the intensities of exchange and diagonal peaks for a two-state isomerization reaction explicitly depend on the forward and backward rate constants ( Fig. 2b , k ct cat and k tc cat ), and on the mixing time ( t m )</otmi:snippet>
+              <otmi:snippet>In the absence of a catalyst, cis to trans isomerization may present a major rate-limiting step for biological processes because the distinct isomer structures probably interact with different cellular proteins</otmi:snippet>
+              <otmi:snippet>In the non-equilibrium cellular environment ( Fig. 5g ), Pin1-catalysed prolyl isomerization might prevent an increase in amyloidogenic APP processing and Aβ production by dynamically linking cis and trans populations and preventing the build up of cis </otmi:snippet>
+              <otmi:snippet>In this model, although APP is probably phosphorylated on the Thr 668-Pro motif in trans , this motif partitions into both trans and cis isomers due to local structural constraints after phosphorylation </otmi:snippet>
+              <otmi:snippet>Interestingly, Pin1 also binds to and isomerizes the pThr 231-Pro motif in tau and its knockout also causes an age-dependent accumulation of the pThr 231-Pro motif in the Alzheimer&apos;s disease tangle-specific conformation that is likely also in cis </otmi:snippet>
+              <otmi:snippet>Knockout of Pin1 did not obviously affect Aβ levels at 2 months of age, but significantly increased insoluble Aβ, especially Aβ42, by 46% compared with Pin1 +/+ littermates at 6 months without affecting soluble Aβ40 and Aβ42 or causing neurodegeneration ( Fig. 4c , d ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Levels of total APPs and β-APPs were increased by 3-fold, but levels of α-APPs were reduced by 50% in brains of Pin1 -/- mice as compared with Pin1 +/+ controls ( Fig. 5a–f )</otmi:snippet>
+              <otmi:snippet>Notably, Pin1 bound to Cdc2-phosphorylated AICD, but not AICD T668A , and the binding was abolished by dephosphorylation ( Fig. 1e )</otmi:snippet>
+              <otmi:snippet>Notably, after Thr 668 phosphorylation, a new population of the pThr 668-Pro motif appears in the cis conformation and exchanges very slowly with the trans form </otmi:snippet>
+              <otmi:snippet>Of note, similar increases in Aβ42 levels have been documented in transgenic mice overexpressing FAD presenilin mutants , or in FAD brains , indicating that small shifts in Aβ42 production may have an important impact on the development of Alzheimer&apos;s disease</otmi:snippet>
+              <otmi:snippet>Our results identify Pin1-catalysed prolyl isomerization as a novel mechanism to regulate APP processing and Aβ production relevant to Alzheimer&apos;s disease</otmi:snippet>
+              <otmi:snippet>Phosphorylation of APP on the Thr 668-Pro motif is elevated in the brains of Alzheimer&apos;s disease sufferers, and increases Aβ secretion in vitro , although its in vivo significance in regulating APP processing and Aβ production is unknown</otmi:snippet>
+              <otmi:snippet>Pin1 +/+ and Pin1 -/- cancer cell lines expressed comparable levels of endogenous APP, α-CTFs and β-CTFs ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Pin1 accelerated the pThr 668-Pro isomerization rate by several orders of magnitude over the typical uncatalysed isomerization rates for pThr-Pro peptides and markedly reduced the average lifetime of the cis (0.05 s) and trans (0.5 s) isomeric states ( Fig. 2c , d )</otmi:snippet>
+              <otmi:snippet>Pin1 bound to expressed and endogenous APP from mitotic cells ( Fig. 1a ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Pin1 bound to phosphorylated APP; the binding was abolished by dephosphorylation and mediated by the WW domain of Pin1 ( Fig. 1d ), a known pSer/Thr-Pro-binding module </otmi:snippet>
+              <otmi:snippet>Pin1 failed to bind to the APP T668A mutant when expressed in mitotic cells ( Fig. 1a , c ), indicating that the Thr 668-Pro motif is important for binding</otmi:snippet>
+              <otmi:snippet>Pin1 is shown to catalyse cis / trans isomerization of pSer/Thr-Pro motifs using biochemical assays , but such activity has never been visualized with atomic resolution</otmi:snippet>
+              <otmi:snippet>Pin1 knockout did not significantly change the levels of Aβ40 or Aβ42 at 2–6 months of age ( Fig. 4a , b ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Pin1 overexpression in CHO-APP and CHO cells significantly reduced Aβ secretion, especially from mitotic cells where Thr 668 phosphorylation was elevated ( Fig. 3b , c ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Pin1 would rapidly re-establish equilibrium if the trans (or cis ) population were suddenly depleted</otmi:snippet>
+              <otmi:snippet>Ratios of cross/diagonal peak intensities for cis and trans E670-H N were calculated ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>S1a ) and to a lesser extent from asynchronous or G1/S cells ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>S1b )</otmi:snippet>
+              <otmi:snippet>S1c ) and effectively competed by a pThr 668-containing APP peptide ( Fig. 1f )</otmi:snippet>
+              <otmi:snippet>S2 )</otmi:snippet>
+              <otmi:snippet>S2 ), as described , and curve fits of these ratios against t m provided independent and consistent measures of k ct cat and k tc cat ( Fig. 2c ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>S3 )</otmi:snippet>
+              <otmi:snippet>S7 )</otmi:snippet>
+              <otmi:snippet>S8a ) or human APP after transfection ( Fig. 3d )</otmi:snippet>
+              <otmi:snippet>S8b ), but 7-fold more Aβ ( Fig. 3e )</otmi:snippet>
+              <otmi:snippet>S9a, b )</otmi:snippet>
+              <otmi:snippet>S9a, b ), or soluble Aβ40, Aβ42 and insoluble Aβ40 at 15 months of age ( Fig. 4b ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>S9c, d ; data not shown)</otmi:snippet>
+              <otmi:snippet>Sequential proteolysis of APP by β- and γ-secretases generates mainly 40- and 42-residue Aβ peptides (Aβ40 and Aβ42), with Aβ42 being the major toxic species and key contributor to plaque formation in Alzheimer&apos;s disease </otmi:snippet>
+              <otmi:snippet>Similarly, anti-HA monoclonal antibody co-immunoprecipitated endogenous Pin1 from mitotic cells and to a lesser degree from asynchronous or G1/S cells ( Fig. 1c )</otmi:snippet>
+              <otmi:snippet>Slow exchange between pThr 668-Pro isomers yields two distinct sets of 1 H peaks for many residues in the peptide, with the E670 amide proton (E670-H N ) particularly well resolved ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>The above results indicate that Pin1 knockout increases Aβ42 production, suggesting that it might favour amyloidogenic APP processing</otmi:snippet>
+              <otmi:snippet>The k ct cat and k tc cat rates differ by tenfold, as expected based on the equilibrium populations of free cis and trans </otmi:snippet>
+              <otmi:snippet>The same exchange cross peaks were observed upon the addition of a catalytic amount of GST–Pin1 or Pin1; however, exchange cross peaks were absent when either no Pin1 or a catalytically inactive Pin1 K63A mutant was added ( Fig. 2a , black arrows)</otmi:snippet>
+              <otmi:snippet>Therefore, Pin1 co-localizes with APP primarily at the plasma membrane and clathrin-coated vesicles, suggesting that Pin1 might promote non-amyloidogenic APP processing and reduce Aβ production</otmi:snippet>
+              <otmi:snippet>Therefore, Pin1 deregulation might have similar conformational effects on specific pThr-Pro motifs in APP and tau, although they might lead to different pathological changes with a similar neurodegenerative outcome </otmi:snippet>
+              <otmi:snippet>Therefore, further studies on Pin1-catalysed conformational regulation and its biological and pathological significance should help elucidate the molecular events leading to Alzheimer&apos;s disease and cancer, and might also lead to the development of new therapies.</otmi:snippet>
+              <otmi:snippet>Therefore, it is of great importance to examine whether and where Pin1 and APP co-localize in the cell</otmi:snippet>
+              <otmi:snippet>These differences in Pin1 binding to APP correlated with cell-cycle-regulated Thr 668 phosphorylation ( Fig. 1a–c ) </otmi:snippet>
+              <otmi:snippet>These results demonstrate that the increased Aβ42 is prominently localized to multivesicular bodies, where Aβ42 is known to be in the brains of human Alzheimer&apos;s disease sufferers and in Tg2576 mouse brain before β-amyloid plaque pathology </otmi:snippet>
+              <otmi:snippet>These results indicate that Pin1 binds to the pThr 668-Pro motif in APP in vitro and in vivo and that the binding is mediated by the WW domain, as is the case for other Pin1 substrates </otmi:snippet>
+              <otmi:snippet>These results indicate that Pin1 knockout in cells decreases α-APPs secretion, but increases Aβ secretion</otmi:snippet>
+              <otmi:snippet>These results indicate that Pin1 knockout in mice causes an age-dependent and selective increase in insoluble Aβ42, which is accelerated by APP overexpression</otmi:snippet>
+              <otmi:snippet>These results indicate that Pin1 knockout increases amyloidogenic versus non-amyloidogenic APP processing and elevates Aβ42 in an age-dependent manner</otmi:snippet>
+              <otmi:snippet>These results provide a direct atomic-level demonstration of Pin1-catalysed conformational regulation of its substrates</otmi:snippet>
+              <otmi:snippet>These results show that overexpression of Pin1 reduces Aβ secretion and the effects might depend on Thr 668 phosphorylation</otmi:snippet>
+              <otmi:snippet>These vesicles were further identified to be clathrin-coated vesicles but not endosomes or subsequent structures ( Supplementary Figs S4–S6 )</otmi:snippet>
+              <otmi:snippet>This binding was mediated by the WW domain of Pin1 ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Thr 668-Pro phosphorylation may act as a conformational switch by increasing the cis content from 0% to 10% </otmi:snippet>
+              <otmi:snippet>To address this question, we compared 15 N- 1 H correlation peak volumes corresponding to free cis and trans and cis and trans bound to the isolated Pin1 WW domain using the 21-residue pThr 668 peptide with 15 N incorporated at E670</otmi:snippet>
+              <otmi:snippet>To confirm these results, we incubated recombinant AICD and AICD T668A with cyclin B/Cdc2 kinase, followed by dephosphorylation with CIP before GST pull down</otmi:snippet>
+              <otmi:snippet>To examine the importance of APP phosphorylation for Pin1 binding, 35 S-APP was synthesized and phosphorylated by mitotic extracts, followed by dephosphorylation before GST pull down </otmi:snippet>
+              <otmi:snippet>To examine this possibility, we first determined the effects of Pin1 overexpression on Aβ secretion in cultured cells by transfecting CHO-APP cells with a Pin1 construct or CHO cells with Pin1 and APP751 constructs, followed by measuring total Aβ secretion from asynchronous or mitotic cells</otmi:snippet>
+              <otmi:snippet>To examine whether Pin1 knockout affects APP processing and Aβ production in mice, we first examined Aβ production in the brains of Pin1 -/- mice using an enzyme-linked immunosorbent assay (ELISA), as described </otmi:snippet>
+              <otmi:snippet>To identify the Pin1-binding site in APP, we substituted Ala for Thr 668, the only Thr/Ser-Pro motif in the APP intracellular domain (AICD)</otmi:snippet>
+              <otmi:snippet>To insure that the Aβ42 increase is not due to early neurodegeneration in Pin1 -/- mice and to examine the effects of Pin1 knockout on APP processing in vivo , we crossed Pin1 -/- mice with Tg(APPSWE)2576Kha mice (also called Tg(APPSWE)2576Kahs ; hereafter called Tg2576 mice) overexpressing the familial Alzheimer&apos;s disease (FAD) APP K670N/M671L mutant </otmi:snippet>
+              <otmi:snippet>To investigate this possibility, we examined changes in APP processing in Tg2576 mice in the presence or absence of Pin1 at 2 and 6 months, as described </otmi:snippet>
+              <otmi:snippet>To test this hypothesis, we first examined whether Pin1 interacts with APP by transfecting N18 cells with a HA – APP construct, followed by arresting them at mitosis or G1/S to manipulate Thr 668 phosphorylation of APP before glutathione S -transferase (GST) pull down and co-immunoprecipitation </otmi:snippet>
+              <otmi:snippet>We found that Pin1 and APP co-localized prominently at the plasma membrane and in intracellular vesicles close to the plasma membrane both in CHO-APP (Chinese hamster ovary cell line stably expressing the wild-type human APP751 isoform) and H4 cells ( Fig. 3a ; see also Supplementary Fig</otmi:snippet>
+              <otmi:snippet>We next examined the effects of Pin1 knockout on APP processing and Aβ secretion using breast cancer cell lines derived from mouse mammary tumour virus (MMTV)-Neu transgenic mice in a Pin1 +/+ or Pin1 -/- background, as described </otmi:snippet>
+              <otmi:snippet>With increasing t m , diagonal peaks diminished and exchange peaks grew ( Fig. 2a , red arrows)</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Pin1 binds to the phosphorylated Thr 668-Pro motif in APP in vitro and in vivo .</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a – c , N18 neuroblastoma cells transfected with the HA – APP or HA – APP T668A construct were arrested at M or G1/S boundary or left asynchronized (Asyn.), followed by GST pull down and immunoblot for APP and pT668-APP ( a , b ), or by anti-HA monoclonal antibody immunoprecipitation and then immunoblot for Pin1, APP and pT668-APP ( c ). d , 35 S-APP was phosphorylated by Xenopus mitotic extracts (M) or first phosphorylated by mitotic extracts and then dephosphorylated with CIP (M + CIP), followed by GST pull down. e , AICD and AICD T668A phosphorylated by cyclin B/Cdc2 were subjected to GST pull down directly or after dephosphorylation with CIP, followed by immunoblot with anti-pT668-APP antibodies. f , 32 P-AICD was subjected to GST–WW pull down in the presence of increasing amounts of a pThr 668-containing APP phosphopeptide.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Pin1 catalyses isomerization of the pThr 668-Pro motif in APP as visualized by NMR spectroscopy.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Selected region of E670-H N two-dimensional ROESY spectra of a pThr 668-Pro-containing APP peptide at 3 mM in the presence or absence of 0.05 mM GST–Pin1 or its K63A mutant at t m = 50 or 100 ms. Negative (positive) intensity is denoted in red (black). E670-H N diagonal peaks for cis (cc) and trans (tt) display exchange peaks (ct and tc) only in the presence of active Pin1 (left two panels). b , Enzyme kinetics scheme for Pin1-catalysed isomerization of the pThr 668-Pro bond. c , Pin1-catalysed cis to trans ( k ct cat ) and trans to cis ( k tc cat ) isomerization rates from independent fitting of E670-H N cis and trans ROESY peak intensity ratios ( I ct / I cc and I tc / I tt , respectively, where I jk denotes intensity of peak jk = ct, cc, tc, tt), with the uncatalysed cis to trans isomerization rate ( k ct ) of a pThr-Pro peptide 21 for comparison. d , Pin1-catalysed isomerization between cis and trans conformations of the pThr 668-Pro peptide bond (red arrows). Structural models display local backbone conformations with associated hydrogen bonds. The size and direction of black arrows represent the catalysis reaction accelerated by Pin1. e , Regions extracted from the two-dimensional 15 N- 1 H HSQC spectrum of 0.2 mM 15 N-E670-pT668 peptide in the absence (red) and presence of equimolar amounts of WW domain (blue).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Pin1 co-localizes with APP and regulates APP processing and Aβ secretion in cells.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , CHO-APP cells were doubly immunostained for Pin1 and APP, followed by confocal microscopy. b , c , CHO-APP cells transfected with Pin1 construct or vector were left asynchronized or arrested at M, followed by immunoblot for Pin1, APP and pT668-APP ( b ) or ELISA measuring total Aβ secretion ( c ). d , e , After Pin1 +/+ and Pin1 -/- breast cancer cells were transfected with an APP construct, secreted α-APPs were assayed by immunoprecipitation and then immunoblot ( d ), followed by semi-quantification and total Aβ by ELISA ( e ). Error bars, s.d.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Pin1 knockout causes age-dependent and selective accumulation of insoluble Aβ42 at multivesicular bodies of neurons, which is accelerated by APP mutant overexpression.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a – d , Brain tissues were collected from different ages of Pin1 -/- and Pin1 +/+ littermates ( a , b ) or Pin1 -/- and Pin1 +/+ littermates in the presence of transgenic overexpression of a single copy of APP K670N/M671L ( Tg2576 ) ( c , d ). Soluble and insoluble Aβ peptides were extracted from brain tissues and Aβ40 and Aβ42 levels were measured by ELISA and are represented as means ± s.d. e , f , Tg2576 littermates in a Pin1 +/+ ( e ) or Pin1 -/- ( f ) background were perfused at 7 months old and processed for immunogold electron microscopy using anti-human Aβ42 antibodies. Immunogold particles of Aβ42 are primarily localized to multivesicular bodies (arrows) in dorsal medial cortical neurons. Scale bar, 500 nm.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Pin1 knockout affects APP processing in mice in an age-dependent manner, and a model.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a – c , Brain lysates ( a ) from 2- and 6-month-old Tg2576 mice in the Pin1 +/+ or Pin1 -/- background and non-transgenic controls were sub-fractionated into membrane fraction ( b ) and soluble fraction ( c ), followed by immunoblot with various specific antibodies. d – f , The changes of total APPs ( d ), α-APPs ( e ) and β-APPs ( f ) were semi-quantified with NIH Image and presented with Pin1 +/+ controls as 100% means = ± s.d. g , h , Although the pThr 668-Pro motif of APP tends to be in cis after phosphorylation, functional Pin1 would greatly accelerate cis to trans isomerization, which might favour non-amyloidogenic APP processing ( g ). Without proper Pin1 function, the cis pThr 668-Pro motif would not be isomerized to trans in a timely manner, which might favour amyloidogenic APP processing ( h ).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/nature02621</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1072994</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.neuro.24.1.1121</otmi:refid>
+          <otmi:refid>info:doi/10.1002/bies.10223</otmi:refid>
+          <otmi:refid>info:doi/10.1083/jcb.200301115</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.278.5345.1957</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.tibs.2004.02.002</otmi:refid>
+          <otmi:refid>info:doi/10.1038/21650</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(00)00085-X</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(01)00245-3</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01832</otmi:refid>
+          <otmi:refid>info:doi/10.1086/423393</otmi:refid>
+          <otmi:refid>info:doi/10.1006/jmbi.2001.4535</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi992580m</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.283.5406.1325</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi973060z</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M010327200</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600323</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.mcn.2003.12.013</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nm0896-864</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.274.5284.99</otmi:refid>
+          <otmi:refid>info:doi/10.1038/383710a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80230-5</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.26.4.1463-1479.2006</otmi:refid>
+          <otmi:refsnoid>6</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

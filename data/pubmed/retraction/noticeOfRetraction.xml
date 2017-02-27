@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2009//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>11439953</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>07</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-4793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>345</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Jul</Month>
+                        <Day>5</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New England journal of medicine</Title>
+                <ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Retraction: reconstitution of hematopoiesis after high-dose chemotherapy by autologous progenitor cells generated ex vivo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>64</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kanz</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brugger</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Retraction of Publication</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>N Engl J Med</MedlineTA>
+            <NlmUniqueID>0255562</NlmUniqueID>
+            <ISSNLinking>0028-4793</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="RetractionOf">
+                <RefSource>Brugger W, Heimfeld S, Berenson RJ, Mertelsmann R, Kanz L. N Engl J Med. 1995 Aug 3;333(5):283-7</RefSource>
+                <PMID>7541111</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11439953</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

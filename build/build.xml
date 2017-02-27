@@ -1,0 +1,1765 @@
+<?xml version="1.0"?>
+<project name="textractor" default="compile" basedir="..">
+    <property environment="env"/>
+    <property name="src" location="src"/>
+    <property name="classes" location="classes"/>
+    <property name="build" location="build"/>
+    <property name="config" location="config"/>
+    <property name="dist" location="dist" description="to store the class files before jared for distribution"/>
+    <property name="lib" location="lib"/>
+    <property name="javadocs" location="javadocs"/>
+    <property name="logs" location="logs"/>
+    <property name="schema" value="schemas"/>
+    <property name="textractor-jarfile" value="textractor.jar"/>
+
+    <property name="castorAcronymsXsd" location="${schema}/acronyms.xsd"/>
+    <property name="castorUniprotXsd" location="${schema}/uniprot.xsd"/>
+    <property name="castorPubmedXsd" location="${schema}/pubmed.xsd"/>
+    <property name="castorPubmedAbstractsXsd" location="${schema}/pubmed_041101.xsd"/>
+    <property name="castorAcronymClasses" location="${src}/textractor/acronyms/xml"/>
+    <property name="castorUniprotClasses" location="${src}/textractor/xml/uniprot/xml"/>
+    <property name="castorPubmedClasses" location="${src}/textractor/xml/pubmed/xml"/>
+    <property name="castorPubmedAbstractsClasses" location="${src}/textractor/xml/pubmedabstracts/xml"/>
+
+    <property name="windowSize" value="3"/>
+    <property name="exclusionDistance" value="10"/>
+
+    <property name="trainingSet" value="1999"/>
+    <property name="testSet" value="2000"/>
+
+    <property name="targetClass1" value="protein"/>
+    <property name="targetClass-1" value="cell"/>
+
+    <property name="toGetAll" value="0"/>
+    <property name="toGetMulti" value="1"/>
+    <property name="toGetCombined" value="2"/>
+
+    <property name="toExportAll" value="0"/>
+    <property name="exportCategory" value="${toExportAll}"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property name="bin" location="bin"/>
+    <property file="${config}/${propertyFilename}"/>
+    <property name="job_identifier" value="${journal}${year}"/>
+
+    <property name="multiclassTarget" value="svm.w${windowSize}.${job_identifier}"/>
+    <property name="pairwiseTarget" value="${multiclassTarget}.${targetClass1}-${targetClass-1}"/>
+
+    <property name="multiclassModel" value="svm.w${windowSize}.trainingJBC${trainingSet}"/>
+    <property name="pairwiseModel" value="${multiclassModel}.${targetClass1}-${targetClass-1}"/>
+
+    <property name="targetNumber" value="30"/>
+    <property name="dictionary" value="svm.w3.dictionary.10_2_2004"/>
+    <property name="java-cc-home" location="lib"/>
+    <!-- Where index files are kept -->
+    <property name="index" value="index"/>
+
+    <property name="max-memory" value="1200m"/>
+
+    <!-- compiler and javadoc settings -->
+    <property name="debug" value="on"/>
+    <property name="optimize" value="on"/>
+    <property name="deprecation" value="off"/>
+    <property name="ant.build.javac.source" value="1.5"/>
+    <property name="ant.build.javac.target" value="1.5"/>
+
+    <import file="${basedir}/testsupport/build.xml"/>
+
+    <condition property="nojdo">
+        <equals arg1="${textractor.JdoImplementation}"
+                arg2="nojdo" casesensitive="no"/>
+    </condition>
+    <!-- import jdo specific imlementations of database targets -->
+    <import file="${build}/${textractor.JdoImplementation}.xml"/>
+
+    <tstamp>
+        <!-- current time for buildstamp purposes -->
+        <format property="build-date" pattern="yyyyMMddHHmmss"/>
+    </tstamp>
+
+    <property name="buildstamp" value="${build-date}"/>
+
+    <target name="textractor-parser" unless="parserSrcPresent" depends="checkParserSrc"
+            description="Compiles the textractor language parser">
+        <javacc target="${src}/textractor/parsers/extractor/Textractor.jj" javacchome="${java-cc-home}"/>
+    </target>
+
+    <path id="compile.classpath">
+        <!--use this classpath only while compiling classes -->
+        <pathelement location="${classes}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+        </fileset>
+        <path refid="jdo.compile.classpath"/>
+    </path>
+
+    <path id="classpath">
+        <pathelement location="${basedir}"/>
+        <pathelement location="${classes}"/>
+        <pathelement location="${config}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="castor-1.0.5-srcgen-ant-task.jar"/>
+        </fileset>
+        <path refid="jdo.run.classpath"/>
+    </path>
+
+    <!-- Define other task definition. -->
+    <taskdef name="castor_source_generator" classpathref="compile.classpath"
+             classname="org.exolab.castor.tools.ant.taskdefs.CastorSourceGenTask"/>
+
+    <!-- ==================== Init Target =========================== -->
+    <target name="init" depends="testsupport.init">
+        <!--  Create the time stamp -->
+        <tstamp/>
+        <!--  Create the classes directory -->
+        <mkdir dir="${classes}"/>
+        <!--  Create the logs directory -->
+        <mkdir dir="${logs}"/>
+        <!-- Create directory for test results -->
+        <mkdir dir="index"/>
+        <mkdir dir="trash"/>
+        <mkdir dir="lookup_results"/>
+    </target>
+
+    <!-- ==================== Display Target =========================== -->
+    <target name="display" depends="init" description="Display Environment Variables">
+        <property name="classpath" refid="compile.classpath"/>
+        <echo level="info" message="Base Directory:  ${basedir}"/>
+        <echo level="info" message="Operating System:  ${os.name}"/>
+        <echo level="info" message="Java Version:  ${ant.java.version}"/>
+        <echo level="info" message="Java Library Path:  ${java.library.path}"/>
+        <echo level="info" message="ANT_HOME: ${env.ANT_HOME}"/>
+
+        <echo level="info" message="CLASSPATH is set to ${classpath}"/>
+        <echo level="info" message="JDO_IMPLEMENTATION: ${textractor.JdoImplementation}"/>
+    </target>
+
+    <target name="checkParserSrc" depends="init">
+        <dependset>
+            <srcfileset dir="${src}/textractor/parsers/extractor" includes="Textractor.jj"/>
+            <srcfileset dir="${config}" includes="textractor.properties"/>
+            <srcfileset dir="${build}" includes="*.xml"/>
+            <targetfileset dir="${src}/textractor/parsers/extractor">
+                <exclude name="Textractor.jj"/>
+                <exclude name="DocumentTokenManager.java"/>
+            </targetfileset>
+        </dependset>
+        <condition property="parserSrcPresent">
+            <and>
+                <available file="${src}/textractor/parsers/extractor/ExtractionEngine.java" type="file"/>
+                <available file="${src}/textractor/parsers/extractor/ExtractionEngineConstants.java" type="file"/>
+                <available file="${src}/textractor/parsers/extractor/ParseException.java" type="file"/>
+                <available file="${src}/textractor/parsers/extractor/Token.java" type="file"/>
+                <available file="${src}/textractor/parsers/extractor/TokenManager.java" type="file"/>
+                <available file="${src}/textractor/parsers/extractor/TokenMgrError.java" type="file"/>
+            </and>
+        </condition>
+    </target>
+
+    <target name="checkCastorSrc" depends="init">
+        <!--  Delete the classes if any meta/config data has been changed. -->
+        <dependset>
+            <srcfileset dir="${src}" includes="**/*.jdo"/>
+            <srcfileset dir="${config}" includes="textractor.properties"/>
+            <srcfileset dir="${build}" includes="*.xml"/>
+            <srcfileset dir="${schema}" includes="*.xsd"/>
+
+            <targetfileset dir="${classes}"/>
+            <targetfileset dir="${test-classes}"/>
+            <targetfileset dir="${castorAcronymClasses}"/>
+            <targetfileset dir="${castorUniprotClasses}"/>
+            <targetfileset dir="${castorPubmedClasses}"/>
+            <targetfileset dir="${castorPubmedAbstractsClasses}"/>
+        </dependset>
+
+        <condition property="castorSrcPresent">
+            <and>
+                <available file="${castorAcronymClasses}" type="dir"/>
+                <available file="${castorAcronymClasses}/Acronyms.java" type="file"/>
+                <available file="${castorUniprotClasses}" type="dir"/>
+                <available file="${castorUniprotClasses}/Uniprot.java" type="file"/>
+                <available file="${castorPubmedClasses}" type="dir"/>
+                <available file="${castorPubmedClasses}/PMID.java" type="file"/>
+                <available file="${castorPubmedAbstractsClasses}" type="dir"/>
+                <available file="${castorPubmedAbstractsClasses}/Article.java" type="file"/>
+            </and>
+        </condition>
+    </target>
+
+    <target name="genSrc" depends="genCastorSrc, textractor-parser"/>
+
+    <target name="genCastorSrc" unless="castorSrcPresent" depends="checkCastorSrc"
+            description="Creates castor xml files">
+        <!--
+         Run the Castor SourceGenerator tool. This will create the necessary castor files the schema schemas/*.xsd files.
+         -->
+        <echo level="info" message="Generating Castor Source Files"/>
+        <parallel>
+            <sequential>
+                <castor_source_generator package="textractor.acronyms.xml" file="${castorAcronymsXsd}" types="j2"
+                                         todir="${src}" warnings="true"/>
+            </sequential>
+
+            <sequential>
+                <castor_source_generator package="textractor.xml.uniprot.xml" file="${castorUniprotXsd}" types="j2"
+                                         todir="${src}" warnings="false"/>
+            </sequential>
+            <sequential>
+                <castor_source_generator package="textractor.xml.pubmed.xml" file="${castorPubmedXsd}" types="j2"
+                                         todir="${src}" warnings="true"/>
+            </sequential>
+            <sequential>
+                <castor_source_generator package="textractor.xml.pubmedabstracts.xml" file="${castorPubmedAbstractsXsd}"
+                                         types="j2" todir="${src}" warnings="true"/>
+            </sequential>
+        </parallel>
+    </target>
+
+    <target name="compile" depends="init, genSrc" description="Compile source code">
+        <!-- NOTE: do not define ${jdosrc}  in this file - it will be set in the imported jdo implementation file -->
+        <javac srcdir="${src}:${jdosrc}" destdir="${classes}" debug="${debug}" includes="textractor/**"
+               deprecation="${deprecation}" optimize="${optimize}">
+            <!--
+            <compilerarg value="-Xlint:unchecked"/>
+            -->
+            <classpath refid="compile.classpath"/>
+        </javac>
+        <copy file="${src}/textractor/stemming/stemrules-paice-husk.txt" todir="${classes}/textractor/stemming/"/>
+    </target>
+
+    <!-- ==================== textractor.jar Target =========================== -->
+    <target name="jar" description="creates tlookup.jar (non enhanced) and textractor.jar (enhanced)"
+            depends="jar_standalone, jar_locator, jar_textractor"/>
+
+    <target name="jar_standalone" description="creates tlookup.jar (non enhanced, no .jdo files) jar"
+            depends="clean,compile">
+        <copy file="${config}/log4j.standalone.properties" tofile="${classes}/log4j.properties" overwrite="true"
+              failonerror="true"/>
+        <jar jarfile="tlookup.jar">
+            <fileset dir="${classes}"/>
+            <fileset dir="${basedir}">
+                <include name="dictionary/${dictionary}.filtered.out_dic.out_org"/>
+            </fileset>
+            <zipgroupfileset dir="${lib}">
+                <include name="edu.mssm.crover.cli.jar"/>
+                <include name="fastutil-5.0.9.jar"/>
+                <include name="htmlparser.jar"/>
+                <include name="log4j-1.2.14.jar"/>
+                <include name="commons-collections-3.2.jar"/>
+                <include name="commons-configuration-1.4.jar"/>
+                <include name="commons-lang-2.3.jar"/>
+                <include name="commons-io-1.3.2.jar"/>
+                <include name="commons-logging-1.1.jar"/>
+                <include name="mg4j-2.0.1-icb.2.jar"/>
+                <include name="JSAP-2.1.jar"/>
+                <include name="colt.jar"/>
+            </zipgroupfileset>
+            <manifest>
+                <attribute name="Specification-Title" value="TLookup"/>
+                <attribute name="Specification-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+                <attribute name="Implementation-Version" value="${buildstamp}"/>
+                <attribute name="Implementation-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+                <attribute name="Main-Class" value="textractor.tools.lookup.LookupProteinnameStandalone"/>
+            </manifest>
+        </jar>
+        <delete file="${classes}/log4j.properties" failonerror="true"/>
+    </target>
+
+    <target name="jar_locator" description="creates TREC sentence locator jar (non enhanced, no .jdo files) jar"
+            depends="clean,compile">
+        <copy file="${config}/log4j.standalone.properties" tofile="${classes}/log4j.properties" overwrite="true"
+              failonerror="true"/>
+        <manifest file="MANIFEST.MF">
+            <attribute name="Specification-Title" value="TREC sentence locator"/>
+            <attribute name="Specification-Vendor"
+                       value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+            <attribute name="Implementation-Version" value="${buildstamp}"/>
+            <attribute name="Implementation-Vendor"
+                       value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+            <attribute name="Main-Class" value="textractor.util.HTMLByteLocator"/>
+        </manifest>
+        <java jar="${lib}/autojar/autojar.jar" dir="${basedir}" fork="true" failonerror="true">
+            <classpath>
+                <fileset dir="${lib}/autojar">
+                    <include name="*.jar"/>
+                </fileset>
+            </classpath>
+            <arg value="-v"/>
+            <arg value="-b"/>
+            <arg value="-c"/>
+            <arg pathref="classpath"/>
+            <arg value="-e"/>
+            <arg line="-o locator.jar"/>
+            <arg line="-m MANIFEST.MF"/>
+            <arg value="textractor/util/HTMLByteLocator.class"/>
+        </java>
+        <delete file="MANIFEST.MF" failonerror="true"/>
+        <delete file="${classes}/log4j.properties" failonerror="true"/>
+    </target>
+
+	<!-- This is based on creation of tlookup.jar and is not optimized -->
+    <target name="jar_locator_standalone" description="creates locator.jar but not using autojar"
+            depends="clean,compile">
+        <copy file="${config}/log4j.standalone.properties" tofile="${classes}/log4j.properties" overwrite="true"
+              failonerror="true"/>
+        <jar jarfile="locator.jar">
+            <fileset dir="${classes}"/>
+            <fileset dir="${basedir}">
+                <include name="dictionary/${dictionary}.filtered.out_dic.out_org"/>
+            </fileset>
+            <zipgroupfileset dir="${lib}">
+                <include name="edu.mssm.crover.cli.jar"/>
+                <include name="fastutil-5.0.9.jar"/>
+                <include name="htmlparser.jar"/>
+                <include name="log4j-1.2.14.jar"/>
+    			<include name="commons-cli-1.1.jar"/>
+                <include name="commons-collections-3.2.jar"/>
+                <include name="commons-configuration-1.4.jar"/>
+                <include name="commons-lang-2.3.jar"/>
+                <include name="commons-io-1.3.2.jar"/>
+                <include name="commons-logging-1.1.jar"/>
+                <include name="mg4j-2.0.1-icb.2.jar"/>
+                <include name="JSAP-2.1.jar"/>
+                <include name="colt.jar"/>
+            </zipgroupfileset>
+            <manifest>
+                <attribute name="Specification-Title" value="Locator-Not-Autojar"/>
+                <attribute name="Specification-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+                <attribute name="Implementation-Version" value="${buildstamp}"/>
+                <attribute name="Implementation-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+            	<attribute name="Main-Class" value="textractor.util.HTMLByteLocator"/>
+            </manifest>
+        </jar>
+        <delete file="${classes}/log4j.properties" failonerror="true"/>
+    </target>
+
+    <target name="jar_textractor" description="creates textractor.jar (enhanced and with .jdo files) jar"
+            depends="enhance">
+        <copy file="data/biostemmer/PrefixSuffixModel" tofile="classes/textractor/didyoumean/PrefixSuffixModel"/>
+        <copy file="data/biostemmer/prefix-medline.probs" tofile="classes/textractor/didyoumean/prefix-medline.probs"/>
+        <copy file="data/biostemmer/suffix-medline.probs" tofile="classes/textractor/didyoumean/suffix-medline.probs"/>
+        <jar jarfile="${textractor-jarfile}">
+            <fileset dir="${classes}"/>
+            <fileset dir="${src}">
+                <include name="**/*.jdo"/>
+                <include name="**/*.mapping"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="dictionary/${dictionary}.filtered.out_dic.out_org"/>
+            </fileset>
+
+            <manifest>
+                <attribute name="Specification-Title" value="Textractor framework"/>
+                <attribute name="Specification-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+                <attribute name="Implementation-Version" value="${label} (${buildstamp})"/>
+                <attribute name="Implementation-Vendor"
+                           value="Institute for Computational Biomedicine (ICB), Weill Medical College of Cornell University"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- ==================== Imports html articles into database =========================== -->
+    <target name="boot_interactionTraining" depends="compile, enhance, createdb"
+            description="Boots the JBC${trainingSet} database.">
+        <echo level="info" message="Loading analyzed articles in JBC${trainingSet}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <classpath refid="classpath"/>
+            <arg line="-d data/phosphorylateExamples/${trainingSet} -v "/>
+        </java>
+        <echo level="info" message="Creating document index."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="999m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename -chunk-size 500"/>
+        </java>
+        <echo level="info" message="Looking up protein names in the default index from a dictionary."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.LookupProteinname"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename"/>
+            <arg line="-dic data/phosphorylateExamples/TrueProteinNames${trainingSet}.txt"/>
+        </java>
+        <echo level="info" message="Looking up potential interactions from database."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.lookupInteractions"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename"/>
+            <arg line="-exclusionDistance ${exclusionDistance}"/>
+            <arg line="-i data/phosphorylateExamples/Interactions${trainingSet}.txt"/>
+            <arg line="-o interactionLookupResults.${trainingSet}.out"/>
+        </java>
+        <echo level="info" message="export interaction to svm."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ExportTrainingRecords"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-recordType phosphorylate -batch 1 -window ${windowSize} -o ../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.trainingJBC${trainingSet}.out"/>
+        </java>
+        <exec executable="ptxml" failonerror="true">
+            <arg line="-overwrite -export -class textractor.datamodel.FeatureCreationParameters -base ${com.fastobjects.database.name} -server ${com.fastobjects.database.server} -file parameters${trainingSet}.xml"/>
+        </exec>
+        <exec executable="svm_learn" failonerror="true">
+            <arg line="-t 2 -g 0.005 -x 1 ../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.trainingJBC${trainingSet}.out ../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.trainingJBC${trainingSet}.out.model"/>
+        </exec>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_interactionTest" depends="compile, enhance, createdb"
+            description="Boots the JBC${testSet} database.">
+        <echo level="info" message="Loading analyzed articles in JBC${testSet}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <classpath refid="classpath"/>
+            <arg line="-d data/phosphorylateExamples/${testSet} -v"/>
+        </java>
+        <echo level="info" message="Creating document index."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="999m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename -chunk-size 500"/>
+        </java>
+        <echo level="info" message="Looking up protein names in the default index from a dictionary."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.LookupProteinname"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename"/>
+            <arg line="-dic data/phosphorylateExamples/TrueProteinNames${testSet}.txt"/>
+        </java>
+        <echo level="info" message="Looking up potential interactions from database."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.lookupInteractions"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename"/>
+            <arg line="-exclusionDistance ${exclusionDistance}"/>
+            <arg line="-i data/phosphorylateExamples/Interactions${testSet}.txt"/>
+            <arg line="-o interactionLookupResults.${testSet}.out"/>
+        </java>
+        <echo level="info" message="import parameters."/>
+        <exec executable="ptxml" failonerror="true">
+            <arg line="-import -class textractor.datamodel.FeatureCreationParameters -base ${com.fastobjects.database.name} -server ${com.fastobjects.database.server} -file parameters${trainingSet}.xml"/>
+        </exec>
+        <echo level="info" message="export interaction to svm with parameters from JBC${trainingSet}."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ExportTrainingRecords"
+              maxmemory="600m">
+            <classpath refid="classpath"/>
+            <arg line="-recordType phosphorylate -batch 1 -parameter 0 -ot ../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.testJBC${testSet}.out"/>
+        </java>
+        <exec executable="svm_classify" failonerror="true">
+            <arg line="../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.testJBC${testSet}.out ../svm/phosphorylate.svm.w${windowSize}.e${exclusionDistance}.trainingJBC${trainingSet}.out.model"/>
+        </exec>
+    </target>
+
+    <target name="boot_forTest" depends="createdb" unless="nojdo"
+            description="Boots the database. Effecively creates a new database and loads sample data into it.">
+        <!-- load data into the jdo database -->
+        <echo level="info" message="Loading 7896799.html"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/testData/7896799.html -v -m "/>
+        </java>
+        <echo level="info" message="Loading 12507430.html."/>
+        <java dir="${basedir}"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/testData/12507430.html -v -m"/>
+        </java>
+        <echo level="info" message="Loading 10788455.html."/>
+        <java dir="${basedir}"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/testData/10788455.html -v -m"/>
+        </java>
+        <echo level="info" message="Loading 10982818.html."/>
+        <java dir="${basedir}"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/testData/10982818.html -v -m"/>
+        </java>
+        <echo level="info" message="Loading 10764781.html."/>
+        <java dir="${basedir}"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/testData/10764781.html -v -m"/>
+        </java>
+
+        <!-- build the index -->
+        <antcall target="index_forTest"/>
+
+        <antcall target="count_terms_byarticle">
+            <param name="job_identifier" value="test"/>
+            <param name="basename" value="index/junit-test-basename"/>
+        </antcall>
+
+        <echo level="info" message="Exporting mutations."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.ProteinMutation"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg value="-annotate"/>
+            <arg value="-o"/>
+            <arg value="${test-results}/mutations.txt"/>
+            <arg line="-basename index/junit-test-basename"/>
+        </java>
+        <echo level="info" message="Loading annotations for mutations."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.LoadAnnotations"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg value="-i"/>
+            <arg value="data/testData/annotations.out"/>
+            <!-- We import the hand-annotated version of the file we exported above. -->
+        </java>
+
+        <antcall target="build-document-store">
+            <param name="basename" value="index/junit-test-basename"/>
+            <param name="otherOptions" value="-term-doc-freqs"/>
+        </antcall>
+    </target>
+
+    <macrodef name="load-directory-html" description="Load HTML files in directory">
+        <attribute name="directory"/>
+        <attribute name="options"/>
+
+        <sequential>
+            <echo level="info" message="Loading @{directory}"/>
+            <java dir="${basedir}"
+                  failonerror="true"
+                  fork="true"
+                  classname="textractor.html.Html2Text2DB"
+                  maxmemory="60m">
+                <assertions>
+                    <enable/>
+                </assertions>
+                <classpath refid="classpath"/>
+                <arg line="-d @{directory} @{options} "/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <target name="boot_for_tfidf" depends="createdb"
+            description="Boot the database. Loads full text articles from data/test.">
+        <load-directory-html directory="data/test/BIOCHEMISTRY" options="-v -sentence-markup"/>
+        <load-directory-html directory="data/test/CELL" options="-v -sentence-markup"/>
+        <load-directory-html directory="data/test/EMBO" options="-v -sentence-markup"/>
+
+        <antcall target="build-document-index">
+            <param name="basename" value="dataset-tfidf-index/index"/>
+            <param name="otherOptions"
+                   value="-indexParentheses -skips -wordReader textractor.mg4j.io.TweaseWordReader "/>
+        </antcall>
+        <antcall target="build-document-store">
+            <param name="basename" value="dataset-tfidf-index/index"/>
+            <param name="otherOptions" value="-term-doc-freqs"/>
+        </antcall>
+    </target>
+
+    <target name="test-section-markup" depends="enhance"
+            description="Load test data, marking sentences by the section in which they appear in the article.">
+        <!-- load data into the jdo database -->
+        <echo level="info" message="Loading 7896799.html"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-d data/testData -v -s test-results\test-data-sentences.txt "/>
+        </java>
+    </target>
+
+    <target name="build-document-index">
+        <java dir="${basedir}" failonerror="true"
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="1300m">
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions}"/>
+            <arg line="-property ${propertyFilename}"/>
+        </java>
+    </target>
+
+    <target name="build-document-store" depends="init" description="Build Document Store">
+        <input message="Please enter the index basename " addproperty="basename"/>
+        <java dir="${basedir}" failonerror="true"
+              fork="true"
+              classname="textractor.tools.docstore.BuildDocStore"
+              maxmemory="999m">
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions} -optimize "/>
+        </java>
+    </target>
+
+    <target name="index_forTest" description="creates the document index for the tests">
+        <!-- index the collection with a null term processor -->
+        <echo level="info" message="Creating document index."/>
+        <antcall target="build-document-index">
+            <param name="basename" value="index/junit-test-basename"/>
+            <param name="otherOptions"
+                   value="-wordReader textractor.mg4j.io.ProteinWordSplitterReader -batch-size 1Mi -chunk-size 1000"/>
+        </antcall>
+
+        <echo level="info" message="Creating stemmed document index."/>
+        <antcall target="build-document-index">
+            <param name="basename" value="index/junit-test-stemmed-basename"/>
+            <param name="otherOptions" value="-stemming -wordReader textractor.mg4j.io.ProteinWordSplitterReader "/>
+        </antcall>
+    </target>
+
+    <target name="boot_multiterms" depends="compile, enhance, createdb"
+            description="Boots the database. Effecively creates a new database and loads sample data into it.">
+
+        <echo level="info" message="Loading 274_41_29433.html."/>
+        <java dir="${basedir}"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/274_41_29433.html -v "/>
+        </java>
+        <echo level="info" message="Creating document index."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="100m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename -chunk-size 1000 -batch-size 1Mi"/>
+        </java>
+
+        <echo level="info" message="Counting instances of terms in Articles."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.ArticleTermCount"
+              maxmemory="100m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-basename"/>
+            <arg value="index/junit-test-basename"/>
+            <arg line="-exclusion"/>
+            <arg value="exclusion-list"/>
+            <arg line="-terms"/>
+            <arg value="50"/>
+        </java>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_forTraining" depends="clean, createdb"
+            description="Boots the database. Effecively creates a new database and loads sample data from a whole directory (1420 Articles) into it.">
+        <antcall target="-load_articles">
+            <param name="article_directory" value="/home/icb/db/fulltext/PMC/JBC/training${trainingSet}"/>
+        </antcall>
+        <antcall target="build-index">
+            <param name="buildIndex" value="1"/>
+        </antcall>
+        <antcall target="count_terms_byarticle">
+            <param name="targetNumber" value="25"/>
+            <param name="job_identifier" value="training${journal}${year}"/>
+        </antcall>
+        <antcall target="-export_terms_byarticle">
+            <param name="targetTerm" value="1"/>
+        </antcall>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_forClassification" depends="clean, createdb"
+            description="Boots the database. Effecively creates a new database and loads sample data from a whole directory (1420 Articles) into it.">
+        <antcall target="-load_articles">
+            <param name="article_directory" value="/home/icb/db/fulltext/PMC/${journal}/${year}"/>
+        </antcall>
+        <antcall target="build-index"/>
+    </target>
+
+    <!-- ======= run Yapex lookup ===== -->
+    <target name="Yapex_lookup">
+        <ant dir="build" antfile="build_config.xml" target="config_unix_lei_lookup"/>
+        <antcall target="boot_forYapexLookup"/>
+    </target>
+
+    <!-- ======= run lookup ===== -->
+    <target name="PMC_lookup">
+        <ant dir="build" antfile="build_config.xml" target="config_unix_lei_lookup"/>
+        <antcall target="boot_forPMCLookup"/>
+    </target>
+
+    <!-- ======= run lookup ===== -->
+    <target name="NCB_lookup">
+        <ant dir="build" antfile="build_config.xml" target="config_unix_lei_lookup"/>
+        <antcall target="boot_forNCBLookup"/>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_forYapexLookup" depends="clean, createdb"
+            description="Boots the database. Effecively creates a new database and loads sample data from a whole directory (1420 Articles) into it.">
+        <echo level="info" message="Loading Yapex abstracts."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Yapex2Text2DB"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i ../Yapex/yapex_test_collection-processed.xml"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+        <antcall target="build-index">
+            <param name="buildIndex" value="1"/>
+        </antcall>
+        <antcall target="-lookup_proteinnames">
+            <param name="dic" value="${dictionary}.filtered.out_dic.out_org"/>
+            <param name="optional_keywords" value="-redundancySafe -subDirectory Yapex"/>
+        </antcall>
+    </target>
+
+    <target name="ClusterTool" depends="compile">
+	    <java dir="${basedir}" fork="true" failonerror="true"
+	          classname="textractor.tools.clustering.ClusterTool"
+	          maxmemory="999m">
+	        <assertions>
+	            <enable/>
+	        </assertions>
+	        <classpath refid="classpath"/>
+	        <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+	    	<!-- <arg line="-b /ambig-index/index"/> -->
+			<arg line="-b /medline-67/pubmed-index"/>
+			<arg line="-t C:/save/eclipse/workspace/twease/data/medline/10k-titles.tsv"/>
+	    </java>
+    </target>
+
+    <target name="display-case-insensitive-store" depends="init" description="Build Case Insensitive Store">
+        <input message="Please enter the index basename:"
+               addproperty="basename"/>
+        <input message="Number of to display or -1 for all:"
+               addproperty="maxrows"/>
+        <echo level="info" message="basename=${basename}"/>
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.caseInsensitive.CaseInsensitiveBuilder"
+              maxmemory="999m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="--dump"/>
+            <arg line="--basename ${basename}"/>
+            <arg line="--limit ${maxrows}"/>
+        </java>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_forPMCLookup" depends="clean, createdb" description="Boots the database.">
+        <antcall target="-load_articles">
+            <param name="article_directory" value="data/lookupExamples/PMC"/>
+            <param name="optional_keywords" value="-nlprot -exportText"/>
+        </antcall>
+        <antcall target="build-index">
+            <param name="buildIndex" value="1"/>
+        </antcall>
+        <antcall target="-lookup_proteinnames">
+            <param name="dic" value="${dictionary}.filtered.out_dic.out_org"/>
+            <param name="optional_keywords" value="-exportAnnotations -subDirectory PMC"/>
+        </antcall>
+        <antcall target="count_terms_byarticle"/>
+        <antcall target="classify">
+            <param name="pairwiseTarget" value="svm.w${windowSize}.PMC.${targetClass1}-${targetClass-1}"/>
+            <param name="pairwiseModel"
+                   value="svm.w${windowSize}.trainingJBC${trainingSet}.${targetClass1}-${targetClass-1}"/>
+        </antcall>
+        <antcall target="classify">
+            <param name="pairwiseTarget" value="svm.w${windowSize}.PMC.${targetClass1}-interaction"/>
+            <param name="pairwiseModel"
+                   value="svm.w${windowSize}.trainingJBC${trainingSet}.${targetClass1}-interaction"/>
+        </antcall>
+        <antcall target="classify">
+            <param name="pairwiseTarget" value="svm.w${windowSize}.PMC.${targetClass1}-process"/>
+            <param name="pairwiseModel" value="svm.w${windowSize}.trainingJBC${trainingSet}.${targetClass1}-process"/>
+        </antcall>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_forNCBLookup" depends="compile, enhance, createdb" description="Boots the database.">
+        <antcall target="-load_articles">
+            <param name="article_directory" value="data/lookupExamples/NCB"/>
+            <param name="optional_keywords" value="-nlprot -exportText"/>
+        </antcall>
+        <antcall target="build-index">
+            <param name="buildIndex" value="1"/>
+        </antcall>
+        <antcall target="-lookup_proteinnames">
+            <param name="dic" value="${dictionary}.filtered.out_dic.out_org"/>
+            <param name="optional_keywords" value="-subDirectory NCB"/>
+        </antcall>
+        <antcall target="count_terms_byarticle"/>
+        <antcall target="classify"/>
+        <antcall target="classify">
+            <param name="pairwiseTarget" value="svm.w${windowSize}.${job_identifier}.${targetClass1}-interaction"/>
+            <param name="pairwiseModel"
+                   value="svm.w${windowSize}.trainingJBC${trainingSet}.${targetClass1}-interaction"/>
+        </antcall>
+        <antcall target="classify">
+            <param name="pairwiseTarget" value="svm.w${windowSize}.${job_identifier}.${targetClass1}-process"/>
+            <param name="pairwiseModel" value="svm.w${windowSize}.trainingJBC${trainingSet}.${targetClass1}-process"/>
+        </antcall>
+    </target>
+    <!-- ==================== build the svm model =========================== -->
+    <target name="do_train" description="build the svm model">
+        <antcall target="-reset_parameters"/>
+        <antcall target="-get_terms_byclass">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="optional_keywords" value="
+            -positiveNames data/trainingNames/Names${toGetMulti}.${trainingSet}${targetClass1}
+            -negativeNames data/trainingNames/Names${toGetMulti}.${trainingSet}${targetClass-1}"/>
+        </antcall>
+        <antcall target="-export_trainingrecords">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="model" value="${pairwiseModel}"/>
+        </antcall>
+        <antcall target="-svm_learn">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="model" value="${pairwiseModel}"/>
+        </antcall>
+        <antcall target="-export_parameters">
+            <param name="model" value="${pairwiseModel}"/>
+        </antcall>
+    </target>
+    <!-- ==================== build the svm model =========================== -->
+    <target name="do_mtrain" description="build the svm model">
+        <property name="targetTerm" value="${toGetMulti}"/>
+
+        <antcall target="-reset_parameters"/>
+        <antcall target="-get_terms_byclass">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="optional_keywords" value="
+            -classesList data/trainingNames/Names${toGetMulti}.list"/>
+        </antcall>
+        <antcall target="-export_trainingrecords">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="model" value="${multiclassModel}"/>
+            <param name="optional_keywords" value="-recordType multiclass"/>
+        </antcall>
+        <antcall target="-svm_multiclass_learn">
+            <param name="targetTerm" value="${toGetMulti}"/>
+            <param name="model" value="${multiclassModel}"/>
+        </antcall>
+        <antcall target="-export_parameters">
+            <param name="model" value="${multiclassModel}"/>
+        </antcall>
+    </target>
+
+    <!-- ==================== high-throughput test =========================== -->
+    <target name="ht" depends="compile, enhance, createdb" description="Boots the database.">
+        <antcall target="boot_forClassification"/>
+        <antcall target="count_terms_byarticle"/>
+        <antcall target="classify"/>
+    </target>
+
+    <!-- ==================== high-throughput test =========================== -->
+    <target name="mht" depends="compile, enhance, createdb" description="Boots the database.">
+        <antcall target="boot_forClassification"/>
+        <antcall target="count_terms_byarticle"/>
+        <antcall target="mclassify"/>
+    </target>
+
+    <!-- ==================== load articles into database =========================== -->
+    <target name="-load_articles" depends="enhance, createdb">
+        <echo level="info" message="Loading articles from ${article_directory}."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-d ${article_directory}"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+
+    <!-- ==================== classify a term set =========================== -->
+    <target name="classify">
+        <antcall target="-reset_parameters"/>
+        <antcall target="-import_parameters">
+            <param name="model" value="${pairwiseModel}"/>
+        </antcall>
+        <antcall target="-export_records_byarticle">
+            <param name="exportCategory" value="${toExportAll}"/>
+            <param name="target" value="${pairwiseTarget}"/>
+        </antcall>
+        <antcall target="do_classify">
+            <param name="pairwiseModel" value="${pairwiseModel}"/>
+            <param name="pairwiseTarget" value="${pairwiseTarget}"/>
+        </antcall>
+    </target>
+    <!-- ================= svm_classify a term set =============== -->
+    <target name="do_classify">
+        <antcall target="-svm_classify">
+            <param name="model" value="${pairwiseModel}"/>
+            <param name="target" value="${pairwiseTarget}"/>
+        </antcall>
+        <antcall target="-import_SVMResults_byarticle">
+            <param name="exportCategory" value="${toExportAll}"/>
+            <param name="target" value="${pairwiseTarget}"/>
+        </antcall>
+    </target>
+    <!-- ==================== classify a term set =========================== -->
+    <target name="mclassify">
+        <antcall target="-reset_parameters"/>
+        <antcall target="-import_parameters">
+            <param name="model" value="${multiclassModel}"/>
+        </antcall>
+        <antcall target="-export_records_byarticle">
+            <param name="exportCategory" value="${toExportAll}"/>
+            <param name="target" value="${multiclassTarget}"/>
+        </antcall>
+        <antcall target="do_mclassify"/>
+    </target>
+    <!-- ================= svm_multiclass_classify a term set =============== -->
+    <target name="do_mclassify">
+        <antcall target="-svm_multiclass_classify">
+            <param name="model" value="${multiclassModel}"/>
+            <param name="target" value="${multiclassTarget}"/>
+        </antcall>
+        <antcall target="-import_SVMResults_byarticle">
+            <param name="exportCategory" value="${toExportAll}"/>
+            <param name="target" value="${multiclassTarget}"/>
+        </antcall>
+    </target>
+
+    <!-- ==================== Imports a directory of html articles into database =========================== -->
+    <target name="boot_pmc" depends="compile, enhance, createdb"
+            description="Creates a new database and load the PMC database.">
+        <echo level="info" message="Loading PMC small corpus articles from /home/icb/db/fulltext/PMC/PMC-small-corpus"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-d /home/icb/db/fulltext/PMC/PMC-small-corpus -v "/>
+        </java>
+        <echo level="info" message="Creating document index."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-basename index/junit-test-basename"/>
+        </java>
+    </target>
+
+    <target name="build-index" if="buildIndex" description="Creating document index.">
+        <!-- and index it -->
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="it.unimi.dsi.mg4j.tool.Index"
+              maxmemory="1300m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="--sequence ${documentSequence}"/>
+            <arg line="--term-processor ${termProcessor}"/>
+            <arg line="${optional_keywords}"/>
+            <arg line="${index}"/>
+        </java>
+    </target>
+
+    <target name="count_terms_byarticle" description="Counting instances of terms in Articles.">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.ArticleTermCount"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="-t ${targetNumber}"/>
+            <arg line="-trash trash/trash_${job_identifier}.txt"/>
+            <arg line="-basename ${basename}"/>
+        </java>
+    </target>
+
+    <target name="term-checker" depends="init,compile" description="Build Case Insensitive Store">
+        <input message="Please enter the index basename:"
+               addproperty="basename"/>
+        <echo level="info" message="basename=${basename}"/>
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.util.TermChecker"
+              maxmemory="999m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="--basename ${basename}"/>
+        </java>
+    </target>
+
+    <target name="-get_terms_byclass" description="Run getProteinNames with true and false protein names.">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.getTermsByClass"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/>-->
+            <classpath refid="classpath"/>
+            <arg line="-t ${targetTerm}
+            -write 0
+            -annotate"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+
+    </target>
+
+    <target name="-export_trainingrecords" description="Export training records">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ExportTrainingRecords"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <!-- batch -2 get the latest batch-->
+            <arg line="-batch -2
+            -t ${targetTerm}
+            -window ${windowSize}
+            -o svm_models/${model}.data"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+
+    <target name="-export_records_byarticle" description="Export source records">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ExportRecordsByArticle"
+              maxmemory="999m">
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/>-->
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="-exportCategory ${exportCategory}
+            -trueproteinnames data/Names1.${year}${targetClass1}
+            -falseproteinnames data/Names1.${year}${targetClass-1}
+            -t ${targetTerm}
+            -batch -2
+            -parameter 0
+            -o svm_data/${target}.out"/>
+        </java>
+    </target>
+
+    <target name="-export_terms_byarticle" description="Export most frequent terms from each article">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ExportTermsByArticle"
+              maxmemory="999m">
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/>-->
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="-t ${targetTerm} -o data/trainingJBC${trainingSet}.term"/>
+        </java>
+    </target>
+
+    <target name="-svm_learn">
+        <exec executable="svm_learn" failonerror="true">
+            <arg line="-t 2 -g 0.005
+            svm_models/${model}.data
+            svm_models/${model}.model"/>
+        </exec>
+    </target>
+    <target name="-svm_multiclass_learn">
+        <exec executable="svm_multiclass_learn" failonerror="true">
+            <arg line="
+            svm_models/${model}.data
+            svm_models/${model}.model"/>
+        </exec>
+    </target>
+    <target name="-svm_classify">
+        <echo level="info" message="classifying svm_data/${target}.out"/>
+        <exec executable="svm_classify" failonerror="true">
+            <arg line="svm_data/${target}.out
+            svm_models/${model}.model
+            svm_predictions/${target}.prediction"/>
+        </exec>
+    </target>
+    <target name="-svm_multiclass_classify">
+        <echo level="info" message="classifying svm_data/${target}.out"/>
+        <exec executable="svm_multiclass_classify" failonerror="true">
+            <arg line="svm_data/${target}.out
+            svm_models/${model}.model
+            svm_predictions/${target}.prediction"/>
+        </exec>
+    </target>
+    <target name="-import_SVMResults_byarticle" description="Export source records">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.io.ImportSVMResultsByArticle"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/> -->
+
+            <classpath refid="classpath"/>
+            <arg line="-property ${propertyFilename}"/>
+            <arg line="-exportCategory ${exportCategory}
+            -trueproteinnames data/Names1.${year}${targetClass1}
+            -falseproteinnames data/Names1.${year}${targetClass-1}
+            -t ${targetTerm}
+            -i svm_predictions/${target}.prediction
+            -o svm_predictions/${target}.statistics.txt"/>
+        </java>
+    </target>
+    <target name="-reset_parameters">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.util.ResetParameters"
+              maxmemory="60m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-property ${propertyFilename}"/>
+        </java>
+    </target>
+
+    <target name="-export_parameters">
+        <exec executable="ptxml" failonerror="true">
+            <arg line="-overwrite -export
+            -class textractor.datamodel.FeatureCreationParameters
+            -base ${com.fastobjects.database.name}
+            -server ${com.fastobjects.database.server}"/>
+            <arg line="-file parameters/${model}.parameters.xml"/>
+        </exec>
+    </target>
+
+    <target name="-import_parameters">
+        <exec executable="ptxml" failonerror="true">
+            <arg line="-import
+            -class textractor.datamodel.FeatureCreationParameters
+            -base ${com.fastobjects.database.name}
+            -server ${com.fastobjects.database.server}"/>
+            <arg line="-file parameters/${model}.parameters.xml"/>
+        </exec>
+    </target>
+
+    <!-- ==================== look up interactions =========================== -->
+    <target name="lookup_interaction" depends="compile" description="look up interactions and export.">
+        <antcall target="-lookup_proteinnames">
+            <param name="dic" value="data/phosphorylateExamples/TrueProteinNames1999.txt"/>
+            <param name="optional_keywords" value="-interaction"/>
+        </antcall>
+        <echo level="info" message="Looking up potential interactions from database."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.lookupInteractions"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-i data/phosphorylateExamples/Interactions1999.txt"/>
+        </java>
+    </target>
+
+    <!-- ==================== look up protein names =========================== -->
+    <target name="-lookup_proteinnames" depends="compile" description="look up protein names and export.">
+        <echo level="info" message="Looking up protein names in the default index from a dictionary."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.lookup.LookupProteinname"
+              maxmemory="600m">
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/>-->
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-dic ${dic}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+
+    <!-- ============== look up protein names without using database ======================== -->
+    <target name="standalone" depends="jar_standalone" description="look up protein names and export.">
+        <echo level="info" message="Looking up protein names in the default index from a dictionary."/>
+        <java jar="tlookup.jar"
+              failonerror="true"
+              fork="true"
+              maxmemory="600m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <!--<jvmarg line="-Xint -Xrunjprofiler:port=8849 -Xbootclasspath/a:lib/agent.jar"/>-->
+            <arg line="-dic dictionary/${dictionary}.filtered.out_dic.out_org"/>
+            <arg line="-d data/lookupExamples/NCB"/>
+            <arg line="-subDirectory standalone"/>
+        </java>
+
+    </target>
+
+    <target name="cruisecontrol"
+            depends="distclean, cobertura-setup, compile, findbugs, jar, test, test-tlookup, test-ambiguity, javadocs, pmd, cpd, cobertura-report"
+            description="Run CruiseControl Build and Tests ">
+    </target>
+
+    <target name="test" depends="compile-tests, cobertura-instrument, boot_forTest"
+            description="Run Master JUnit Test">
+        <junit dir="${basedir}" fork="true" printsummary="yes" haltonfailure="yes" haltonerror="yes" showoutput="yes">
+            <sysproperty key="net.sourceforge.cobertura.datafile"
+                         file="${basedir}/cobertura.ser"/>
+            <classpath refid="test.classpath"/>
+
+            <jvmarg line="-Xmx999m"/>
+            <assertions>
+                <enable/>
+            </assertions>
+            <batchtest haltonfailure="no" haltonerror="no" todir="${test-results}"
+                       failureproperty="test-failure" errorproperty="test-error">
+                <formatter type="plain" usefile="false"/>
+                <formatter type="xml"/>
+                <fileset dir="test-src">
+                    <include name="**/Test*"/>
+                    <exclude name="**/ambiguity/Test*.java"/>
+					<!-- temporarily removed by Kevin -->
+                    <exclude name="textractor/caseInsensitive/TestCaseInsensitiveStoreAmbiguity.java"/>
+                    <exclude name="textractor/tools/biostems/TestBioStemmer.java"/>
+                </fileset>
+            </batchtest>
+        </junit>
+        <junitreport todir="${logs}">
+            <fileset dir="${test-results}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${test-results}/html/junit"/>
+        </junitreport>
+        <condition property="tests-failed">
+            <or>
+                <isset property="test-error"/>
+                <isset property="test-failure"/>
+            </or>
+        </condition>
+        <fail message="One or more of the tests failed" if="tests-failed"/>
+    </target>
+
+    <target name="test-ambiguity" depends="compile-tests, cobertura-instrument, boot-ambiguity"
+            description="Run tests on the ambiguity data set">
+        <junit dir="${basedir}" fork="true" printsummary="yes" haltonfailure="yes" haltonerror="yes" showoutput="yes">
+            <sysproperty key="net.sourceforge.cobertura.datafile"
+                         file="${basedir}/cobertura.ser"/>
+            <classpath refid="test.classpath"/>
+            <jvmarg line="-Xmx999m"/>
+            <assertions>
+                <enable/>
+            </assertions>
+            <batchtest haltonfailure="no" haltonerror="no" todir="${test-results}"
+                       failureproperty="test-failure" errorproperty="test-error">
+                <formatter type="plain" usefile="false"/>
+                <formatter type="xml"/>
+                <fileset dir="test-src">
+                    <include name="**/ambiguity/Test*.java"/>
+                    <include name="textractor/caseInsensitive/TestCaseInsensitiveStoreAmbiguity.java"/>
+                    <include name="textractor/tools/biostems/TestBioStemmer.java"/>
+                    <!-- TODO: re-enable these -->
+                    <exclude name="textractor/ambiguity/TestAmbiguityAbbreviation.java"/>
+                    <exclude name="textractor/ambiguity/TestAmbiguityClipExpansions.java"/>
+                </fileset>
+            </batchtest>
+        </junit>
+        <junitreport todir="${logs}">
+            <fileset dir="${test-results}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${test-results}/html/junit"/>
+        </junitreport>
+        <condition property="tests-failed">
+            <or>
+                <isset property="test-error"/>
+                <isset property="test-failure"/>
+            </or>
+        </condition>
+        <fail message="One or more of the tests failed" if="tests-failed"/>
+    </target>
+
+    <target name="test-tlookup" depends="jar_standalone" description="Run test using the tlookup jar file">
+        <java fork="true" failonerror="true" jar="tlookup.jar">
+            <assertions>
+                <enable/>
+            </assertions>
+        </java>
+    </target>
+
+    <target name="javadocs" depends="genSrc" description="Run Javadoc on all source code files">
+        <!--  Create the Java doc directory -->
+        <mkdir dir="${javadocs}"/>
+        <javadoc packagenames="textractor.*"
+                 sourcepath="${src}" destdir="${javadocs}" encoding="UTF-8" use="true"
+                 author="true" version="true" windowtitle="Textractor API ${label} (${buildstamp})"
+                 header="Textractor API ${label} (${buildstamp})" maxmemory="990m">
+            <!-- TODO: add jdo extension source -->
+            <link href="http://java.sun.com/j2se/1.5.0/docs/api/"/>
+            <link href="http://java.sun.com/products/jdo/javadocs/"/>
+            <link href="http://castor.codehaus.org/javadoc/"/>
+            <link href="http://mg4j.dsi.unimi.it/docs/"/>
+            <link href="http://fastutil.dsi.unimi.it/docs/"/>
+            <link href="http://jakarta.apache.org/commons/beanutils/commons-beanutils-1.7.0/docs/api/"/>
+            <link href="http://jakarta.apache.org/commons/chain/apidocs/"/>
+            <link href="http://jakarta.apache.org/commons/cli/api-release/"/>
+            <link href="http://jakarta.apache.org/commons/collections/api-release/"/>
+            <link href="http://jakarta.apache.org/commons/configuration/apidocs/"/>
+            <link href="http://jakarta.apache.org/commons/io/api-release/"/>
+            <link href="http://jakarta.apache.org/commons/lang/api-release/"/>
+            <link href="http://jakarta.apache.org/commons/logging/apidocs/"/>
+            <link href="http://dsd.lbl.gov/~hoschek/colt/api/"/>
+            <link href="http://icbtools.med.cornell.edu/javadocs/qtclustering/"/>
+            <classpath refid="classpath"/>
+            <bottom>
+                <![CDATA[<i>Copyright &#169; 2003-2008 Institute for Computational Biomedicine, All Rights Reserved.</i>]]></bottom>
+        </javadoc>
+    </target>
+
+    <target name="clean-logs" description="Clean up log files">
+        <delete dir="${logs}" failonerror="no"/>
+        <delete failonerror="no">
+            <fileset dir="${basedir}" includes="*.log"/>
+        </delete>
+    </target>
+
+    <!-- ==================== Clean Target =========================== -->
+    <target name="clean" depends="testsupport.clean" description="Clean up directories">
+        <!--  Delete the classes Directory -->
+        <delete dir="${classes}"/>
+        <delete dir="${index}"/>
+        <!--  Delete the Javadocs Directory -->
+        <delete dir="${javadocs}"/>
+        <!-- delete the test results directory -->
+        <delete dir="lookup_results"/>
+        <delete dir="trash"/>
+
+        <!-- delete the generated jar files -->
+        <delete file="${textractor-jarfile}"/>
+        <delete file="tlookup.jar"/>
+        <delete file="locator.jar"/>
+
+        <!--  Delete the original castor generated files directory(if it exists)-->
+        <delete dir="${castorAcronymClasses}"/>
+        <delete dir="${castorUniprotClasses}"/>
+        <delete dir="${castorPubmedClasses}"/>
+        <delete dir="${castorPubmedAbstractsClasses}"/>
+        <delete>
+            <fileset dir="${src}/textractor/parsers/extractor">
+                <exclude name="Textractor.jj"/>
+                <exclude name="DocumentTokenManager.java"/>
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="clean-indices" description="removes mg4j generated files">
+        <delete dir="index" failonerror="false"/>
+        <delete dir="dataset-a-index" failonerror="false"/>
+        <delete dir="dataset-tfidf-index" failonerror="false"/>
+    </target>
+
+    <target name="clean-mapping" description="Clean the jdo/sql mapping files">
+        <delete>
+            <fileset dir="${src}" includes="**/*.mapping"/>
+            <fileset dir="${basedir}" includes="*.sql"/>
+        </delete>
+    </target>
+
+    <target name="distclean" depends="clean, clean-indices, clean-logs, clean-mapping"
+            description="Clean everything including logs, etc."/>
+
+    <target name="checkstyle" depends="init" description="Checks source against coding standards">
+        <checkstyle config="${checkstyle.basedir}/config/icb_checks.xml" failonviolation="false">
+            <fileset dir="${src}">
+                <include name="**/*.java"/>
+                <exclude name="**/package-info.java"/>
+                <exclude name="org/htmlparser/**"/>
+                <exclude name="org/tartarus/**"/>
+                <exclude name="ronaldTschalr/**"/>
+                <exclude name="textractor/acronyms/xml/**"/>
+                <exclude name="textractor/xml/uniprot/xml/**"/>
+                <exclude name="textractor/xml/pubmed/xml/**"/>
+                <exclude name="textractor/xml/pubmedabstracts/xml/**"/>
+                <exclude name="textractor/xml/yapex/xml/**"/>
+                <exclude name="textractor/parsers/extractor/**"/>
+                <include name="textractor/parsers/extractor/DocumentTokenManager.java"/>
+            </fileset>
+            <fileset dir="${jdosrc}"/>
+            <classpath refid="classpath"/>
+            <formatter type="xml" toFile="${test-results}/checkstyle_errors.xml"/>
+            <formatter type="plain"/>
+        </checkstyle>
+
+        <xslt in="${test-results}/checkstyle_errors.xml"
+              out="${test-results}/html/checkstyle/index.html"
+              style="${checkstyle.basedir}/config/checkstyle-noframes-sorted.xsl"/>
+    </target>
+
+    <target name="pmd" depends="init" description="Scan Java source code and look for potential problems">
+        <pmd targetjdk="1.5" failonerror="true" failurespropertyname="pmderrors" shortfilenames="true" encoding="utf-8">
+            <fileset dir="${src}">
+                <include name="textractor/**/*.java"/>
+                <exclude name="textractor/acronyms/xml/**"/>
+                <exclude name="textractor/xml/uniprot/xml/**"/>
+                <exclude name="textractor/xml/pubmed/xml/**"/>
+                <exclude name="textractor/xml/pubmedabstracts/xml/**"/>
+                <exclude name="textractor/xml/yapex/xml/**"/>
+                <exclude name="textractor/parsers/extractor/**"/>
+                <include name="textractor/parsers/extractor/DocumentTokenManager.java"/>
+            </fileset>
+            <ruleset>basic</ruleset>
+            <ruleset>braces</ruleset>
+            <ruleset>clone</ruleset>
+            <ruleset>finalizers</ruleset>
+            <ruleset>imports</ruleset>
+            <ruleset>logging-jakarta-commons</ruleset>
+            <ruleset>j2ee</ruleset>
+            <ruleset>migrating</ruleset>
+            <ruleset>optimizations</ruleset>
+            <ruleset>strictexception</ruleset>
+            <ruleset>strings</ruleset>
+            <ruleset>sunsecure</ruleset>
+            <ruleset>unusedcode</ruleset>
+            <!--
+                        <ruleset>codesize</ruleset>
+                        <ruleset>controversial</ruleset>
+                        <ruleset>coupling</ruleset>
+                        <ruleset>design</ruleset>
+                        <ruleset>javabeans</ruleset>
+                        <ruleset>junit</ruleset>
+                        <ruleset>naming</ruleset>
+            -->
+            <formatter type="xml" toFile="${test-results}/pmd-report.xml"/>
+        </pmd>
+        <xslt in="${test-results}/pmd-report.xml" style="${pmd.basedir}/config/pmd-report-per-class.xslt"
+              out="${test-results}/html/pmd/index.html"/>
+    </target>
+
+    <target name="cpd" depends="init" description="Scan Java source code and look for potential duplication">
+        <cpd minimumTokenCount="50" outputFile="${test-results}/cpd-report.xml" format="xml" encoding="utf-8">
+            <fileset dir="${src}">
+                <include name="textractor/**/*.java"/>
+                <exclude name="textractor/acronyms/xml/**"/>
+                <exclude name="textractor/xml/uniprot/xml/**"/>
+                <exclude name="textractor/xml/pubmed/xml/**"/>
+                <exclude name="textractor/xml/pubmedabstracts/xml/**"/>
+                <exclude name="textractor/xml/yapex/xml/**"/>
+                <exclude name="textractor/parsers/extractor/**"/>
+                <include name="textractor/parsers/extractor/DocumentTokenManager.java"/>
+            </fileset>
+        </cpd>
+        <xslt in="${test-results}/cpd-report.xml" style="${pmd.basedir}/config/cpdhtml.xslt"
+              out="${test-results}/html/cpd/index.html"/>
+    </target>
+
+    <target name="cobertura-report">
+        <cobertura-report format="html" destdir="${test-results}/html/cobertura">
+            <fileset dir="${src}"/>
+            <fileset dir="${jdosrc}"/>
+        </cobertura-report>
+    </target>
+
+    <!-- See http://findbugs.sourceforge.net/ -->
+    <target name="findbugs" depends="compile-tests" description="Run findbugs on source code">
+        <findbugs projectname="${ant.project.name}"
+                reportLevel="experimental" workHard="true" effort="max" adjustExperimental="true"
+                jvmargs="-Xmx999m" output="xml:withMessages"
+                outputfile="${test-results}/findbugs.xml"
+                excludeFilter="${config}/findbugs-exclude.xml"
+                home="${findbugs.basedir}">
+            <auxclasspath refid="findbugs.auxpath"/>
+            <sourcepath path="${src}"/>
+            <classpath refid="findbugs.path"/>
+            <class location="${classes}"/>
+        </findbugs>
+        <xslt in="${test-results}/findbugs.xml"
+              out="${test-results}/html/findbugs/index.html">
+            <style>
+                <zipentry zipfile="${findbugs.basedir}/lib/findbugs.jar" name="fancy.xsl"/>
+            </style>
+        </xslt>
+    </target>
+
+    <!-- ======= Import abstracts with example of ambiguous terms ========= -->
+    <target name="ambiguity-build-file-list">
+        <property file="config/textractor.properties"/>
+        <property name="dataset-a-path" value="${dataset.a.path}"/>
+
+        <property name="load-list" value="ambiguity-files.txt"/>
+        <echo file="${load-list}" append="false"
+              message="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml${line.separator}"/>
+        <echo file="${load-list}" append="true"
+              message="${dataset-a-path}/TnT_AND_trinitrotoluene.xml${line.separator}"/>
+        <echo file="${load-list}" append="true" message="${dataset-a-path}/APS.xml${line.separator}"/>
+        <echo file="${load-list}" append="true" message="${dataset-a-path}/APC.xml${line.separator}"/>
+    </target>
+
+    <target name="ambiguity-index" depends="compile, ambiguity-build-file-list"
+            description="Create index for the ambiguity dataset (dataset a)">
+        <echo level="info" message="Loading ambiguity abstracts."/>
+
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/ambiguity/indexer.xml'"/>
+        </java>
+    </target>
+
+    <target name="ambiguity-docstore" depends="compile, ambiguity-build-file-list"
+            description="Create index for the ambiguity dataset (dataset a)">
+        <echo level="info" message="Loading ambiguity abstracts."/>
+
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/ambiguity/docstore.xml'"/>
+        </java>
+    </target>
+
+    <target name="build-didyoumean-index">
+        <input message="Please enter the index basename:"
+               addproperty="basename"/>
+
+        <input message="Please enter the frequency threshold:"
+               addproperty="threshold"/>
+
+        <input message="Please enter the batch-size (default 2Mi):"
+               addproperty="batch-size" defaultvalue="2Mi"/>
+
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.didyoumean.DidYouMeanIndexer"
+              maxmemory="999m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <arg line="-basename ${basename}"/>
+            <arg line="-threshold ${threshold}"/>
+            <arg line="-skips"/>
+            <arg line="-batch-size ${batch-size}"/>
+        </java>
+    </target>
+
+    <target name="build-case-insensitive-store" depends="init" description="Build Case Insensitive Store">
+        <input message="Please enter the index basename:"
+               addproperty="basename"/>
+        <echo level="info" message="basename=${basename}"/>
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.caseInsensitive.CaseInsensitiveBuilder"
+              maxmemory="999m">
+            <assertions>
+                <enable/>
+            </assertions>
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="--basename ${basename}"/>
+        </java>
+    </target>
+
+    <macrodef name="tf-idf">
+        <attribute name="basename"/>
+        <attribute name="min-document-frequency" default="0.00001"/>
+        <attribute name="max-document-frequency" default="0.2"/>
+        <attribute name="max-memory" default="1200m"/>
+        <attribute name="chunk-size" default="10000"/>
+        <sequential>
+            <java dir="${basedir}"
+                  fork="true"
+                  failonerror="true"
+                  classname="textractor.tools.docstore.DocStore2TfIdf"
+                  maxmemory="@{max-memory}">
+
+                <classpath refid="classpath"/>
+                <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+                <arg line="-basename @{basename}"/>
+                <!--arg line="-min-support 900"/-->
+                <arg line="-mindf @{min-document-frequency}"/>
+                <arg line="-maxdf @{max-document-frequency}"/>
+                <arg line="-chunk-size @{chunk-size}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <!-- If you want to index ambuguitity, use this target!! -->
+    <target name="boot-ambiguity" description="full ambiguity dataset load"
+        depends="ambiguity-index, ambiguity-docstore">
+        <echo level="info" message="Creating ambiguity 'Did You Mean' indices."/>
+
+        <antcall target="build-didyoumean-index">
+            <param name="basename" value="dataset-a-index/index"/>
+            <param name="threshold" value="5"/>
+            <param name="batch-size" value="2Mi"/>
+        </antcall>
+
+        <echo level="info" message="Creating ambiguity 'CaseInsensitiveStore'."/>
+        <antcall target="build-case-insensitive-store">
+            <param name="basename" value="dataset-a-index/index"/>
+        </antcall>
+
+        <echo level="info" message="Creating ambiguity TfIdf info."/>
+        <tf-idf max-document-frequency="0.8" basename="dataset-a-index/index"/>
+    </target>
+
+    <target name="retrieve-omim-xml" description="Retrieve OMIM XML files" depends="compile">
+        <mkdir dir="/temp/omim"/>
+        <retrieve-omim output-dir="/temp/omim"/>
+    </target>
+
+    <macrodef name="retrieve-omim" description="Run textractor.util.RetrieveOmimXmlFiles">
+        <attribute name="omim-file" default="-"/>
+        <attribute name="output-dir" default="."/>
+        <attribute name="limit" default="-1"/>
+        <attribute name="delay-ms" default="3000"/>
+        <sequential>
+            <echo message="Running RetrieveOmimXmlFiles"/>
+            <java dir="${basedir}"
+                  fork="true"
+                  failonerror="true"
+                  classname="textractor.util.RetrieveOmimXmlFiles"
+                  maxmemory="${max-memory}">
+                <jvmarg line="-ea"/>
+                <classpath>
+                    <path refid="classpath"/>
+                </classpath>
+                <arg line="-omim-file @{omim-file}"/>
+                <arg line="-output-dir @{output-dir}"/>
+                <arg line="-limit @{limit}"/>
+                <arg line="-delay-ms @{delay-ms}"/>
+                <arg line="-safe-time-wait"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+</project>

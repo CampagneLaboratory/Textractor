@@ -1,0 +1,1790 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>The ABC protein turned chloride channel whose failure causes cystic fibrosis</title>
+      <id>info:doi/10.1038/nature04712</id>
+      <link href='http://dx.doi.org/10.1038/nature04712' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>David C. Gadsby</name>
+      </author>
+      <author>
+        <name>Paola Vergani</name>
+      </author>
+      <author>
+        <name>L´szló Csan´dy</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>477</prism:startingPage>
+      <prism:endingPage>483</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>CFTR chloride channels are encoded by the gene mutated in patients with cystic fibrosis. These channels belong to the superfamily of ABC transporter ATPases. ATP-driven conformational changes, which in other ABC proteins fuel uphill substrate transport across cellular membranes, in CFTR open and close a gate to allow transmembrane flow of anions down their electrochemical gradient. New structural and biochemical information from prokaryotic ABC proteins and functional information from CFTR channels has led to a unifying mechanism explaining those ATP-driven conformational changes.</otmi:rawtext>
+          <otmi:reducedtext>CFTR chloride channels encoded gene mutated patients cystic fibrosis. These channels belong superfamily ABC transporter ATPases. ATP-driven conformational changes, which other ABC proteins fuel uphill substrate transport across cellular membranes, CFTR open close gate allow transmembrane flow anions down their electrochemical gradient. New structural biochemical information prokaryotic ABC proteins functional information CFTR channels has led unifying mechanism explaining those ATP-driven conformational changes.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='3'>CFTR</otmi:vector>
+            <otmi:vector count='3'>channels</otmi:vector>
+            <otmi:vector count='3'>ABC</otmi:vector>
+            <otmi:vector count='2'>ATP-driven</otmi:vector>
+            <otmi:vector count='2'>information</otmi:vector>
+            <otmi:vector count='2'>conformational</otmi:vector>
+            <otmi:vector count='2'>proteins</otmi:vector>
+            <otmi:vector count='1'>chloride</otmi:vector>
+            <otmi:vector count='1'>explaining</otmi:vector>
+            <otmi:vector count='1'>unifying</otmi:vector>
+            <otmi:vector count='1'>down</otmi:vector>
+            <otmi:vector count='1'>allow</otmi:vector>
+            <otmi:vector count='1'>close</otmi:vector>
+            <otmi:vector count='1'>across</otmi:vector>
+            <otmi:vector count='1'>electrochemical</otmi:vector>
+            <otmi:vector count='1'>superfamily</otmi:vector>
+            <otmi:vector count='1'>functional</otmi:vector>
+            <otmi:vector count='1'>These</otmi:vector>
+            <otmi:vector count='1'>gene</otmi:vector>
+            <otmi:vector count='1'>changes.</otmi:vector>
+            <otmi:vector count='1'>has</otmi:vector>
+            <otmi:vector count='1'>gate</otmi:vector>
+            <otmi:vector count='1'>membranes</otmi:vector>
+            <otmi:vector count='1'>fuel</otmi:vector>
+            <otmi:vector count='1'>ATPases</otmi:vector>
+            <otmi:vector count='1'>transporter</otmi:vector>
+            <otmi:vector count='1'>mutated</otmi:vector>
+            <otmi:vector count='1'>which</otmi:vector>
+            <otmi:vector count='1'>gradient</otmi:vector>
+            <otmi:vector count='1'>substrate</otmi:vector>
+            <otmi:vector count='1'>fibrosis</otmi:vector>
+            <otmi:vector count='1'>those</otmi:vector>
+            <otmi:vector count='1'>anions</otmi:vector>
+            <otmi:vector count='1'>mechanism</otmi:vector>
+            <otmi:vector count='1'>flow</otmi:vector>
+            <otmi:vector count='1'>changes</otmi:vector>
+            <otmi:vector count='1'>patients</otmi:vector>
+            <otmi:vector count='1'>encoded</otmi:vector>
+            <otmi:vector count='1'>biochemical</otmi:vector>
+            <otmi:vector count='1'>their</otmi:vector>
+            <otmi:vector count='1'>prokaryotic</otmi:vector>
+            <otmi:vector count='1'>transmembrane</otmi:vector>
+            <otmi:vector count='1'>transport</otmi:vector>
+            <otmi:vector count='1'>New</otmi:vector>
+            <otmi:vector count='1'>other</otmi:vector>
+            <otmi:vector count='1'>structural</otmi:vector>
+            <otmi:vector count='1'>belong</otmi:vector>
+            <otmi:vector count='1'>led</otmi:vector>
+            <otmi:vector count='1'>open</otmi:vector>
+            <otmi:vector count='1'>cellular</otmi:vector>
+            <otmi:vector count='1'>uphill</otmi:vector>
+            <otmi:vector count='1'>cystic</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>ATP-driven conformational changes, which in other ABC proteins fuel uphill substrate transport across cellular membranes, in CFTR open and close a gate to allow transmembrane flow of anions down their electrochemical gradient</otmi:snippet>
+            <otmi:snippet>CFTR chloride channels are encoded by the gene mutated in patients with cystic fibrosis</otmi:snippet>
+            <otmi:snippet>New structural and biochemical information from prokaryotic ABC proteins and functional information from CFTR channels has led to a unifying mechanism explaining those ATP-driven conformational changes.</otmi:snippet>
+            <otmi:snippet>These channels belong to the superfamily of ABC transporter ATPases</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='82'>CFTR</otmi:vector>
+              <otmi:vector count='45'>ATP</otmi:vector>
+              <otmi:vector count='42'>channel</otmi:vector>
+              <otmi:vector count='39'>Fig</otmi:vector>
+              <otmi:vector count='39'>at</otmi:vector>
+              <otmi:vector count='36'>channels</otmi:vector>
+              <otmi:vector count='25'>ABC</otmi:vector>
+              <otmi:vector count='25'>domain</otmi:vector>
+              <otmi:vector count='22'>NBD1</otmi:vector>
+              <otmi:vector count='21'>other</otmi:vector>
+              <otmi:vector count='21'>NBD2</otmi:vector>
+              <otmi:vector count='20'>not</otmi:vector>
+              <otmi:vector count='20'>NBDs</otmi:vector>
+              <otmi:vector count='19'>pore</otmi:vector>
+              <otmi:vector count='19'>R</otmi:vector>
+              <otmi:vector count='18'>two</otmi:vector>
+              <otmi:vector count='17'>proteins</otmi:vector>
+              <otmi:vector count='17'>residues</otmi:vector>
+              <otmi:vector count='16'>phosphorylation</otmi:vector>
+              <otmi:vector count='16'>NBD</otmi:vector>
+              <otmi:vector count='16'>can</otmi:vector>
+              <otmi:vector count='16'>open</otmi:vector>
+              <otmi:vector count='15'>site</otmi:vector>
+              <otmi:vector count='15'>have</otmi:vector>
+              <otmi:vector count='14'>chloride</otmi:vector>
+              <otmi:vector count='14'>protein</otmi:vector>
+              <otmi:vector count='14'>but</otmi:vector>
+              <otmi:vector count='13'>NBD1–NBD2</otmi:vector>
+              <otmi:vector count='13'>CFTR&apos;s</otmi:vector>
+              <otmi:vector count='13'>which</otmi:vector>
+              <otmi:vector count='13'>bacterial</otmi:vector>
+              <otmi:vector count='12'>one</otmi:vector>
+              <otmi:vector count='12'>hydrolysis</otmi:vector>
+              <otmi:vector count='12'>interaction</otmi:vector>
+              <otmi:vector count='12'>sequence</otmi:vector>
+              <otmi:vector count='12'>composite</otmi:vector>
+              <otmi:vector count='12'>gating</otmi:vector>
+              <otmi:vector count='12'>opening</otmi:vector>
+              <otmi:vector count='12'>Walker</otmi:vector>
+              <otmi:vector count='11'>gate</otmi:vector>
+              <otmi:vector count='11'>only</otmi:vector>
+              <otmi:vector count='11'>PKA</otmi:vector>
+              <otmi:vector count='11'>2</otmi:vector>
+              <otmi:vector count='11'>transmembrane</otmi:vector>
+              <otmi:vector count='11'>its</otmi:vector>
+              <otmi:vector count='11'>also</otmi:vector>
+              <otmi:vector count='10'>flow</otmi:vector>
+              <otmi:vector count='10'>binding</otmi:vector>
+              <otmi:vector count='10'>function</otmi:vector>
+              <otmi:vector count='10'>between</otmi:vector>
+              <otmi:vector count='10'>CF</otmi:vector>
+              <otmi:vector count='9'>through</otmi:vector>
+              <otmi:vector count='9'>motifs</otmi:vector>
+              <otmi:vector count='9'>domains</otmi:vector>
+              <otmi:vector count='9'>anion</otmi:vector>
+              <otmi:vector count='9'>when</otmi:vector>
+              <otmi:vector count='8'>catalytic</otmi:vector>
+              <otmi:vector count='8'>concentrations</otmi:vector>
+              <otmi:vector count='8'>phosphorylated</otmi:vector>
+              <otmi:vector count='8'>than</otmi:vector>
+              <otmi:vector count='8'>before</otmi:vector>
+              <otmi:vector count='8'>each</otmi:vector>
+              <otmi:vector count='8'>ions</otmi:vector>
+              <otmi:vector count='8'>activity</otmi:vector>
+              <otmi:vector count='8'>these</otmi:vector>
+              <otmi:vector count='8'>all</otmi:vector>
+              <otmi:vector count='8'>But</otmi:vector>
+              <otmi:vector count='8'>found</otmi:vector>
+              <otmi:vector count='8'>would</otmi:vector>
+              <otmi:vector count='8'>how</otmi:vector>
+              <otmi:vector count='8'>structures</otmi:vector>
+              <otmi:vector count='8'>R-domain</otmi:vector>
+              <otmi:vector count='7'>both</otmi:vector>
+              <otmi:vector count='7'>cytoplasmic</otmi:vector>
+              <otmi:vector count='7'>helix</otmi:vector>
+              <otmi:vector count='7'>sites</otmi:vector>
+              <otmi:vector count='7'>closed</otmi:vector>
+              <otmi:vector count='7'>ATP-bound</otmi:vector>
+              <otmi:vector count='7'>more</otmi:vector>
+              <otmi:vector count='7'>closing</otmi:vector>
+              <otmi:vector count='7'>such</otmi:vector>
+              <otmi:vector count='7'>structural</otmi:vector>
+              <otmi:vector count='7'>nucleotide</otmi:vector>
+              <otmi:vector count='7'>most</otmi:vector>
+              <otmi:vector count='7'>1</otmi:vector>
+              <otmi:vector count='7'>been</otmi:vector>
+              <otmi:vector count='7'>structure</otmi:vector>
+              <otmi:vector count='7'>Although</otmi:vector>
+              <otmi:vector count='7'>saturating</otmi:vector>
+              <otmi:vector count='7'>1b</otmi:vector>
+              <otmi:vector count='7'>phosphate</otmi:vector>
+              <otmi:vector count='7'>see</otmi:vector>
+              <otmi:vector count='6'>into</otmi:vector>
+              <otmi:vector count='6'>therefore</otmi:vector>
+              <otmi:vector count='6'>events</otmi:vector>
+              <otmi:vector count='6'>could</otmi:vector>
+              <otmi:vector count='6'>anions</otmi:vector>
+              <otmi:vector count='6'>So</otmi:vector>
+              <otmi:vector count='6'>example</otmi:vector>
+              <otmi:vector count='6'>mutations</otmi:vector>
+              <otmi:vector count='6'>2a</otmi:vector>
+              <otmi:vector count='6'>including</otmi:vector>
+              <otmi:vector count='6'>their</otmi:vector>
+              <otmi:vector count='6'>equivalent</otmi:vector>
+              <otmi:vector count='6'>so</otmi:vector>
+              <otmi:vector count='6'>TMDs</otmi:vector>
+              <otmi:vector count='6'>might</otmi:vector>
+              <otmi:vector count='6'>These</otmi:vector>
+              <otmi:vector count='6'>interface</otmi:vector>
+              <otmi:vector count='6'>signature</otmi:vector>
+              <otmi:vector count='6'>CFTR-channel</otmi:vector>
+              <otmi:vector count='6'>ref</otmi:vector>
+              <otmi:vector count='6'>prokaryotic</otmi:vector>
+              <otmi:vector count='6'>wild-type</otmi:vector>
+              <otmi:vector count='5'>over</otmi:vector>
+              <otmi:vector count='5'>single</otmi:vector>
+              <otmi:vector count='5'>potassium</otmi:vector>
+              <otmi:vector count='5'>airway</otmi:vector>
+              <otmi:vector count='5'>mutation</otmi:vector>
+              <otmi:vector count='5'>suggests</otmi:vector>
+              <otmi:vector count='5'>conserved</otmi:vector>
+              <otmi:vector count='5'>consensus</otmi:vector>
+              <otmi:vector count='5'>step</otmi:vector>
+              <otmi:vector count='5'>30</otmi:vector>
+              <otmi:vector count='5'>helices</otmi:vector>
+              <otmi:vector count='5'>yet</otmi:vector>
+              <otmi:vector count='5'>small</otmi:vector>
+              <otmi:vector count='5'>disease</otmi:vector>
+              <otmi:vector count='5'>epithelia</otmi:vector>
+              <otmi:vector count='5'>measurements</otmi:vector>
+              <otmi:vector count='5'>bound</otmi:vector>
+              <otmi:vector count='5'>activation</otmi:vector>
+              <otmi:vector count='5'>conformation</otmi:vector>
+              <otmi:vector count='5'>normal</otmi:vector>
+              <otmi:vector count='5'>8-azido-ATP</otmi:vector>
+              <otmi:vector count='5'>either</otmi:vector>
+              <otmi:vector count='5'>2b</otmi:vector>
+              <otmi:vector count='5'>transporter</otmi:vector>
+              <otmi:vector count='5'>MsbA</otmi:vector>
+              <otmi:vector count='5'>cycle</otmi:vector>
+              <otmi:vector count='5'>C</otmi:vector>
+              <otmi:vector count='5'>homodimeric</otmi:vector>
+              <otmi:vector count='5'>hydrogen</otmi:vector>
+              <otmi:vector count='5'>closure</otmi:vector>
+              <otmi:vector count='5'>after</otmi:vector>
+              <otmi:vector count='5'>where</otmi:vector>
+              <otmi:vector count='5'>unphosphorylated</otmi:vector>
+              <otmi:vector count='5'>8-azido</otmi:vector>
+              <otmi:vector count='5'>bond</otmi:vector>
+              <otmi:vector count='5'>even</otmi:vector>
+              <otmi:vector count='4'>slow</otmi:vector>
+              <otmi:vector count='4'>disruption</otmi:vector>
+              <otmi:vector count='4'>dimerization</otmi:vector>
+              <otmi:vector count='4'>Arg</otmi:vector>
+              <otmi:vector count='4'>conservation</otmi:vector>
+              <otmi:vector count='4'>5a</otmi:vector>
+              <otmi:vector count='4'>least</otmi:vector>
+              <otmi:vector count='4'>seem</otmi:vector>
+              <otmi:vector count='4'>analysis</otmi:vector>
+              <otmi:vector count='4'>positions</otmi:vector>
+              <otmi:vector count='4'>side</otmi:vector>
+              <otmi:vector count='4'>functional</otmi:vector>
+              <otmi:vector count='4'>remains</otmi:vector>
+              <otmi:vector count='4'>Figs</otmi:vector>
+              <otmi:vector count='4'>dimer</otmi:vector>
+              <otmi:vector count='4'>fibrosis</otmi:vector>
+              <otmi:vector count='4'>seen</otmi:vector>
+              <otmi:vector count='4'>state</otmi:vector>
+              <otmi:vector count='4'>them</otmi:vector>
+              <otmi:vector count='4'>loss</otmi:vector>
+              <otmi:vector count='4'>ATPs</otmi:vector>
+              <otmi:vector count='4'>rate</otmi:vector>
+              <otmi:vector count='4'>during</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>mutant</otmi:vector>
+              <otmi:vector count='4'>opened</otmi:vector>
+              <otmi:vector count='4'>homologous</otmi:vector>
+              <otmi:vector count='4'>controls</otmi:vector>
+              <otmi:vector count='4'>needed</otmi:vector>
+              <otmi:vector count='4'>any</otmi:vector>
+              <otmi:vector count='4'>membrane-spanning</otmi:vector>
+              <otmi:vector count='4'>thought</otmi:vector>
+              <otmi:vector count='4'>chloride-ion</otmi:vector>
+              <otmi:vector count='4'>cells</otmi:vector>
+              <otmi:vector count='4'>serines</otmi:vector>
+              <otmi:vector count='4'>introduced</otmi:vector>
+              <otmi:vector count='4'>temperature</otmi:vector>
+              <otmi:vector count='4'>contains</otmi:vector>
+              <otmi:vector count='4'>may</otmi:vector>
+              <otmi:vector count='4'>normally</otmi:vector>
+              <otmi:vector count='4'>conductance</otmi:vector>
+              <otmi:vector count='4'>studies</otmi:vector>
+              <otmi:vector count='4'>homodimers</otmi:vector>
+              <otmi:vector count='4'>Lys</otmi:vector>
+              <otmi:vector count='4'>maximal</otmi:vector>
+              <otmi:vector count='4'>they</otmi:vector>
+              <otmi:vector count='4'>B</otmi:vector>
+              <otmi:vector count='4'>changes</otmi:vector>
+              <otmi:vector count='4'>F508</otmi:vector>
+              <otmi:vector count='4'>because</otmi:vector>
+              <otmi:vector count='4'>encode</otmi:vector>
+              <otmi:vector count='4'>biochemical</otmi:vector>
+              <otmi:vector count='4'>whether</otmi:vector>
+              <otmi:vector count='4'>although</otmi:vector>
+              <otmi:vector count='4'>half</otmi:vector>
+              <otmi:vector count='4'>heterodimeric</otmi:vector>
+              <otmi:vector count='4'>no</otmi:vector>
+              <otmi:vector count='4'>1a</otmi:vector>
+              <otmi:vector count='4'>crystal</otmi:vector>
+              <otmi:vector count='3'>some</otmi:vector>
+              <otmi:vector count='3'>though</otmi:vector>
+              <otmi:vector count='3'>reviewed</otmi:vector>
+              <otmi:vector count='3'>conformational</otmi:vector>
+              <otmi:vector count='3'>AMP-PNP</otmi:vector>
+              <otmi:vector count='3'>signal</otmi:vector>
+              <otmi:vector count='3'>32</otmi:vector>
+              <otmi:vector count='3'>expected</otmi:vector>
+              <otmi:vector count='3'>near</otmi:vector>
+              <otmi:vector count='3'>around</otmi:vector>
+              <otmi:vector count='3'>water</otmi:vector>
+              <otmi:vector count='3'>suggested</otmi:vector>
+              <otmi:vector count='3'>genes</otmi:vector>
+              <otmi:vector count='3'>members</otmi:vector>
+              <otmi:vector count='3'>probability</otmi:vector>
+              <otmi:vector count='3'>ABC-C</otmi:vector>
+              <otmi:vector count='3'>formation</otmi:vector>
+              <otmi:vector count='3'>negative</otmi:vector>
+              <otmi:vector count='3'>functions</otmi:vector>
+              <otmi:vector count='3'>relative</otmi:vector>
+              <otmi:vector count='3'>T1246</otmi:vector>
+              <otmi:vector count='3'>required</otmi:vector>
+              <otmi:vector count='3'>contact</otmi:vector>
+              <otmi:vector count='3'>regulated</otmi:vector>
+              <otmi:vector count='3'>being</otmi:vector>
+              <otmi:vector count='3'>pairs</otmi:vector>
+              <otmi:vector count='3'>crystals</otmi:vector>
+              <otmi:vector count='3'>concentration</otmi:vector>
+              <otmi:vector count='3'>nucleotide-binding</otmi:vector>
+              <otmi:vector count='3'>DNA</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='3'>homology</otmi:vector>
+              <otmi:vector count='3'>shown</otmi:vector>
+              <otmi:vector count='3'>interfacial</otmi:vector>
+              <otmi:vector count='3'>target</otmi:vector>
+              <otmi:vector count='3'>4b</otmi:vector>
+              <otmi:vector count='3'>architecture</otmi:vector>
+              <otmi:vector count='3'>does</otmi:vector>
+              <otmi:vector count='3'>ADP</otmi:vector>
+              <otmi:vector count='3'>characteristics</otmi:vector>
+              <otmi:vector count='3'>form</otmi:vector>
+              <otmi:vector count='3'>time</otmi:vector>
+              <otmi:vector count='3'>highly</otmi:vector>
+              <otmi:vector count='3'>six</otmi:vector>
+              <otmi:vector count='3'>compare</otmi:vector>
+              <otmi:vector count='3'>binds</otmi:vector>
+              <otmi:vector count='3'>kinase</otmi:vector>
+              <otmi:vector count='3'>full-length</otmi:vector>
+              <otmi:vector count='3'>low</otmi:vector>
+              <otmi:vector count='3'>linking</otmi:vector>
+              <otmi:vector count='3'>sequences</otmi:vector>
+              <otmi:vector count='3'>about</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>up</otmi:vector>
+              <otmi:vector count='3'>will</otmi:vector>
+              <otmi:vector count='3'>Mg</otmi:vector>
+              <otmi:vector count='3'>cystic</otmi:vector>
+              <otmi:vector count='3'>there</otmi:vector>
+              <otmi:vector count='3'>occurs</otmi:vector>
+              <otmi:vector count='3'>together</otmi:vector>
+              <otmi:vector count='3'>cell</otmi:vector>
+              <otmi:vector count='3'>R555</otmi:vector>
+              <otmi:vector count='3'>larger</otmi:vector>
+              <otmi:vector count='3'>patients</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>instead</otmi:vector>
+              <otmi:vector count='3'>Much</otmi:vector>
+              <otmi:vector count='3'>poorly</otmi:vector>
+              <otmi:vector count='3'>close</otmi:vector>
+              <otmi:vector count='3'>Glu</otmi:vector>
+              <otmi:vector count='3'>ATP-driven</otmi:vector>
+              <otmi:vector count='3'>BtuCD</otmi:vector>
+              <otmi:vector count='3'>like</otmi:vector>
+              <otmi:vector count='3'>molecules</otmi:vector>
+              <otmi:vector count='3'>upon</otmi:vector>
+              <otmi:vector count='3'>efforts</otmi:vector>
+              <otmi:vector count='3'>opens</otmi:vector>
+              <otmi:vector count='3'>inhibition</otmi:vector>
+              <otmi:vector count='3'>linked</otmi:vector>
+              <otmi:vector count='3'>easily</otmi:vector>
+              <otmi:vector count='3'>still</otmi:vector>
+              <otmi:vector count='3'>stable</otmi:vector>
+              <otmi:vector count='3'>presence</otmi:vector>
+              <otmi:vector count='3'>means</otmi:vector>
+              <otmi:vector count='3'>transporters</otmi:vector>
+              <otmi:vector count='3'>refs</otmi:vector>
+              <otmi:vector count='3'>coupling</otmi:vector>
+              <otmi:vector count='3'>rapid</otmi:vector>
+              <otmi:vector count='3'>lacking</otmi:vector>
+              <otmi:vector count='3'>2d</otmi:vector>
+              <otmi:vector count='3'>helical</otmi:vector>
+              <otmi:vector count='3'>charge</otmi:vector>
+              <otmi:vector count='3'>location</otmi:vector>
+              <otmi:vector count='3'>dimers</otmi:vector>
+              <otmi:vector count='3'>7</otmi:vector>
+              <otmi:vector count='3'>until</otmi:vector>
+              <otmi:vector count='2'>6</otmi:vector>
+              <otmi:vector count='2'>His</otmi:vector>
+              <otmi:vector count='2'>mutated</otmi:vector>
+              <otmi:vector count='2'>8</otmi:vector>
+              <otmi:vector count='2'>5</otmi:vector>
+              <otmi:vector count='2'>once</otmi:vector>
+              <otmi:vector count='2'>anion-selective</otmi:vector>
+              <otmi:vector count='2'>5b</otmi:vector>
+              <otmi:vector count='2'>transmission</otmi:vector>
+              <otmi:vector count='2'>tight</otmi:vector>
+              <otmi:vector count='2'>complex</otmi:vector>
+              <otmi:vector count='2'>mucus</otmi:vector>
+              <otmi:vector count='2'>modular</otmi:vector>
+              <otmi:vector count='2'>models</otmi:vector>
+              <otmi:vector count='2'>initially</otmi:vector>
+              <otmi:vector count='2'>supported</otmi:vector>
+              <otmi:vector count='2'>allows</otmi:vector>
+              <otmi:vector count='2'>green</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>follow</otmi:vector>
+              <otmi:vector count='2'>conduction</otmi:vector>
+              <otmi:vector count='2'>loop</otmi:vector>
+              <otmi:vector count='2'>attention</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>shows</otmi:vector>
+              <otmi:vector count='2'>marked</otmi:vector>
+              <otmi:vector count='2'>energetically</otmi:vector>
+              <otmi:vector count='2'>leads</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>implies</otmi:vector>
+              <otmi:vector count='2'>longer</otmi:vector>
+              <otmi:vector count='2'>includes</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>High-resolution</otmi:vector>
+              <otmi:vector count='2'>learned</otmi:vector>
+              <otmi:vector count='2'>inferred</otmi:vector>
+              <otmi:vector count='2'>account</otmi:vector>
+              <otmi:vector count='2'>withdrawal</otmi:vector>
+              <otmi:vector count='2'>transmitted</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>face</otmi:vector>
+              <otmi:vector count='2'>covalent</otmi:vector>
+              <otmi:vector count='2'>intestinal</otmi:vector>
+              <otmi:vector count='2'>LSGGQ</otmi:vector>
+              <otmi:vector count='2'>washes</otmi:vector>
+              <otmi:vector count='2'>347</otmi:vector>
+              <otmi:vector count='2'>studied</otmi:vector>
+              <otmi:vector count='2'>relieved</otmi:vector>
+              <otmi:vector count='2'>amino-acid</otmi:vector>
+              <otmi:vector count='2'>ABC-specific</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>Ser</otmi:vector>
+              <otmi:vector count='2'>analogue</otmi:vector>
+              <otmi:vector count='2'>paired</otmi:vector>
+              <otmi:vector count='2'>Asp</otmi:vector>
+              <otmi:vector count='2'>partly</otmi:vector>
+              <otmi:vector count='2'>finding</otmi:vector>
+              <otmi:vector count='2'>likely</otmi:vector>
+              <otmi:vector count='2'>enthalpy</otmi:vector>
+              <otmi:vector count='2'>head-to-tail</otmi:vector>
+              <otmi:vector count='2'>showed</otmi:vector>
+              <otmi:vector count='2'>AMP-PCP</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>10</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>several</otmi:vector>
+              <otmi:vector count='2'>PKC</otmi:vector>
+              <otmi:vector count='2'>led</otmi:vector>
+              <otmi:vector count='2'>activated</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>ABC-protein</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>caused</otmi:vector>
+              <otmi:vector count='2'>increase</otmi:vector>
+              <otmi:vector count='2'>distributions</otmi:vector>
+              <otmi:vector count='2'>acceptor</otmi:vector>
+              <otmi:vector count='2'>disposition</otmi:vector>
+              <otmi:vector count='2'>low-resolution</otmi:vector>
+              <otmi:vector count='2'>name</otmi:vector>
+              <otmi:vector count='2'>photolabelled</otmi:vector>
+              <otmi:vector count='2'>limits</otmi:vector>
+              <otmi:vector count='2'>alter</otmi:vector>
+              <otmi:vector count='2'>purified</otmi:vector>
+              <otmi:vector count='2'>uncertain</otmi:vector>
+              <otmi:vector count='2'>ATP-binding</otmi:vector>
+              <otmi:vector count='2'>entire</otmi:vector>
+              <otmi:vector count='2'>shape</otmi:vector>
+              <otmi:vector count='2'>possible</otmi:vector>
+              <otmi:vector count='2'>delivery</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>Where</otmi:vector>
+              <otmi:vector count='2'>surface</otmi:vector>
+              <otmi:vector count='2'>comprises</otmi:vector>
+              <otmi:vector count='2'>mechanisms</otmi:vector>
+              <otmi:vector count='2'>basic</otmi:vector>
+              <otmi:vector count='2'>335</otmi:vector>
+              <otmi:vector count='2'>cases</otmi:vector>
+              <otmi:vector count='2'>508</otmi:vector>
+              <otmi:vector count='2'>334</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>TMD2</otmi:vector>
+              <otmi:vector count='2'>photolabelling</otmi:vector>
+              <otmi:vector count='2'>similarly</otmi:vector>
+              <otmi:vector count='2'>Once</otmi:vector>
+              <otmi:vector count='2'>TMD1</otmi:vector>
+              <otmi:vector count='2'>dynamic</otmi:vector>
+              <otmi:vector count='2'>Loss</otmi:vector>
+              <otmi:vector count='2'>SUR</otmi:vector>
+              <otmi:vector count='2'>genome</otmi:vector>
+              <otmi:vector count='2'>sheet</otmi:vector>
+              <otmi:vector count='2'>70</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>regulatory</otmi:vector>
+              <otmi:vector count='2'>base</otmi:vector>
+              <otmi:vector count='2'>disrupts</otmi:vector>
+              <otmi:vector count='2'>arrangement</otmi:vector>
+              <otmi:vector count='2'>connects</otmi:vector>
+              <otmi:vector count='2'>N</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>chain</otmi:vector>
+              <otmi:vector count='2'>cryo-electron</otmi:vector>
+              <otmi:vector count='2'>asymmetric</otmi:vector>
+              <otmi:vector count='2'>proposed</otmi:vector>
+              <otmi:vector count='2'>pathway</otmi:vector>
+              <otmi:vector count='2'>approach</otmi:vector>
+              <otmi:vector count='2'>attributed</otmi:vector>
+              <otmi:vector count='2'>made</otmi:vector>
+              <otmi:vector count='2'>kJ</otmi:vector>
+              <otmi:vector count='2'>itself</otmi:vector>
+              <otmi:vector count='2'>light</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>phosphorylate</otmi:vector>
+              <otmi:vector count='2'>2c</otmi:vector>
+              <otmi:vector count='2'>increasing</otmi:vector>
+              <otmi:vector count='2'>donor</otmi:vector>
+              <otmi:vector count='2'>energy</otmi:vector>
+              <otmi:vector count='2'>contrast</otmi:vector>
+              <otmi:vector count='2'>absence</otmi:vector>
+              <otmi:vector count='2'>lung</otmi:vector>
+              <otmi:vector count='2'>cut</otmi:vector>
+              <otmi:vector count='2'>addressed</otmi:vector>
+              <otmi:vector count='2'>cysteine</otmi:vector>
+              <otmi:vector count='2'>end</otmi:vector>
+              <otmi:vector count='2'>readily</otmi:vector>
+              <otmi:vector count='2'>Because</otmi:vector>
+              <otmi:vector count='2'>mol</otmi:vector>
+              <otmi:vector count='2'>comes</otmi:vector>
+              <otmi:vector count='2'>consistent</otmi:vector>
+              <otmi:vector count='2'>remain</otmi:vector>
+              <otmi:vector count='2'>broad</otmi:vector>
+              <otmi:vector count='2'>motif</otmi:vector>
+              <otmi:vector count='2'>action</otmi:vector>
+              <otmi:vector count='2'>unknown</otmi:vector>
+              <otmi:vector count='2'>ATP-γS</otmi:vector>
+              <otmi:vector count='2'>plus</otmi:vector>
+              <otmi:vector count='2'>lower</otmi:vector>
+              <otmi:vector count='2'>ducts</otmi:vector>
+              <otmi:vector count='2'>interact</otmi:vector>
+              <otmi:vector count='2'>hydrolysable</otmi:vector>
+              <otmi:vector count='2'>product</otmi:vector>
+              <otmi:vector count='2'>irradiation</otmi:vector>
+              <otmi:vector count='2'>essentially</otmi:vector>
+              <otmi:vector count='2'>contribute</otmi:vector>
+              <otmi:vector count='2'>complement</otmi:vector>
+              <otmi:vector count='2'>eight</otmi:vector>
+              <otmi:vector count='2'>tract</otmi:vector>
+              <otmi:vector count='2'>evolutionary</otmi:vector>
+              <otmi:vector count='2'>introduction</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='2'>parallel</otmi:vector>
+              <otmi:vector count='2'>dependent</otmi:vector>
+              <otmi:vector count='2'>MRP</otmi:vector>
+              <otmi:vector count='2'>influence</otmi:vector>
+              <otmi:vector count='2'>dead</otmi:vector>
+              <otmi:vector count='2'>confirm</otmi:vector>
+              <otmi:vector count='2'>issue</otmi:vector>
+              <otmi:vector count='2'>known</otmi:vector>
+              <otmi:vector count='2'>illustrated</otmi:vector>
+              <otmi:vector count='2'>second</otmi:vector>
+              <otmi:vector count='2'>terminating</otmi:vector>
+              <otmi:vector count='2'>fully</otmi:vector>
+              <otmi:vector count='2'>question</otmi:vector>
+              <otmi:vector count='2'>Among</otmi:vector>
+              <otmi:vector count='2'>against</otmi:vector>
+              <otmi:vector count='2'>trigger</otmi:vector>
+              <otmi:vector count='2'>Even</otmi:vector>
+              <otmi:vector count='2'>makes</otmi:vector>
+              <otmi:vector count='2'>charged</otmi:vector>
+              <otmi:vector count='2'>residue</otmi:vector>
+              <otmi:vector count='2'>UV</otmi:vector>
+              <otmi:vector count='2'>modest</otmi:vector>
+              <otmi:vector count='2'>movement</otmi:vector>
+              <otmi:vector count='2'>sets</otmi:vector>
+              <otmi:vector count='2'>must</otmi:vector>
+              <otmi:vector count='2'>red</otmi:vector>
+              <otmi:vector count='2'>similar</otmi:vector>
+              <otmi:vector count='2'>polypeptide</otmi:vector>
+              <otmi:vector count='2'>dimerized</otmi:vector>
+              <otmi:vector count='2'>another</otmi:vector>
+              <otmi:vector count='2'>p</otmi:vector>
+              <otmi:vector count='2'>pS</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>states</otmi:vector>
+              <otmi:vector count='2'>associate</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>separation</otmi:vector>
+              <otmi:vector count='2'>sensitive</otmi:vector>
+              <otmi:vector count='2'>monovalent</otmi:vector>
+              <otmi:vector count='2'>whose</otmi:vector>
+              <otmi:vector count='2'>Phe</otmi:vector>
+              <otmi:vector count='2'>markedly</otmi:vector>
+              <otmi:vector count='2'>timing</otmi:vector>
+              <otmi:vector count='2'>Opening</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>thousands</otmi:vector>
+              <otmi:vector count='2'>reveal</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>increases</otmi:vector>
+              <otmi:vector count='2'>SURs</otmi:vector>
+              <otmi:vector count='2'>key</otmi:vector>
+              <otmi:vector count='2'>review</otmi:vector>
+              <otmi:vector count='2'>http:</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>switch</otmi:vector>
+              <otmi:vector count='2'>Statistical</otmi:vector>
+              <otmi:vector count='2'>MRPs</otmi:vector>
+              <otmi:vector count='2'>b</otmi:vector>
+              <otmi:vector count='2'>among</otmi:vector>
+              <otmi:vector count='2'>crystallography</otmi:vector>
+              <otmi:vector count='2'>delayed</otmi:vector>
+              <otmi:vector count='2'>maturation</otmi:vector>
+              <otmi:vector count='2'>c</otmi:vector>
+              <otmi:vector count='2'>2D</otmi:vector>
+              <otmi:vector count='2'>dependence</otmi:vector>
+              <otmi:vector count='2'>subsequent</otmi:vector>
+              <otmi:vector count='2'>bicarbonate</otmi:vector>
+              <otmi:vector count='2'>terminus</otmi:vector>
+              <otmi:vector count='2'>P]ATP</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='2'>seems</otmi:vector>
+              <otmi:vector count='2'>view</otmi:vector>
+              <otmi:vector count='2'>takes</otmi:vector>
+              <otmi:vector count='2'>family</otmi:vector>
+              <otmi:vector count='2'>ion</otmi:vector>
+              <otmi:vector count='2'>cysteines</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>spacefill</otmi:vector>
+              <otmi:vector count='2'>magnitude</otmi:vector>
+              <otmi:vector count='2'>obtained</otmi:vector>
+              <otmi:vector count='2'>association</otmi:vector>
+              <otmi:vector count='2'>unique</otmi:vector>
+              <otmi:vector count='2'>monomer</otmi:vector>
+              <otmi:vector count='2'>eukaryotic</otmi:vector>
+              <otmi:vector count='2'>symmetric</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>ΔF508-CFTR</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>epithelium</otmi:vector>
+              <otmi:vector count='1'>hydrogen-bond</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+              <otmi:vector count='1'>standing</otmi:vector>
+              <otmi:vector count='1'>Gating</otmi:vector>
+              <otmi:vector count='1'>nucleotide-sensitive</otmi:vector>
+              <otmi:vector count='1'>selects</otmi:vector>
+              <otmi:vector count='1'>Any</otmi:vector>
+              <otmi:vector count='1'>millimolar</otmi:vector>
+              <otmi:vector count='1'>adenylate</otmi:vector>
+              <otmi:vector count='1'>free</otmi:vector>
+              <otmi:vector count='1'>controlled</otmi:vector>
+              <otmi:vector count='1'>strings</otmi:vector>
+              <otmi:vector count='1'>d</otmi:vector>
+              <otmi:vector count='1'>serine-containing</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>logged</otmi:vector>
+              <otmi:vector count='1'>liposome</otmi:vector>
+              <otmi:vector count='1'>assertion</otmi:vector>
+              <otmi:vector count='1'>acts</otmi:vector>
+              <otmi:vector count='1'>unwieldy</otmi:vector>
+              <otmi:vector count='1'>impairment</otmi:vector>
+              <otmi:vector count='1'>cure</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>harness</otmi:vector>
+              <otmi:vector count='1'>surprisingly</otmi:vector>
+              <otmi:vector count='1'>Just</otmi:vector>
+              <otmi:vector count='1'>echoing</otmi:vector>
+              <otmi:vector count='1'>pink</otmi:vector>
+              <otmi:vector count='1'>nanoparticle</otmi:vector>
+              <otmi:vector count='1'>Determination</otmi:vector>
+              <otmi:vector count='1'>E1371</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>offer</otmi:vector>
+              <otmi:vector count='1'>all-too-common</otmi:vector>
+              <otmi:vector count='1'>turnover</otmi:vector>
+              <otmi:vector count='1'>48</otmi:vector>
+              <otmi:vector count='1'>hence</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>analogues</otmi:vector>
+              <otmi:vector count='1'>spaces</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>retaining</otmi:vector>
+              <otmi:vector count='1'>Analysis</otmi:vector>
+              <otmi:vector count='1'>chronic</otmi:vector>
+              <otmi:vector count='1'>rarely</otmi:vector>
+              <otmi:vector count='1'>rotationally</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>stimulatory</otmi:vector>
+              <otmi:vector count='1'>extension</otmi:vector>
+              <otmi:vector count='1'>seven</otmi:vector>
+              <otmi:vector count='1'>functionally</otmi:vector>
+              <otmi:vector count='1'>ATP-mediated</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>s</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>directed</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>co-expression</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>frequently</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>prevents</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>Present</otmi:vector>
+              <otmi:vector count='1'>Other</otmi:vector>
+              <otmi:vector count='1'>glands</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>inflammation</otmi:vector>
+              <otmi:vector count='1'>shorter</otmi:vector>
+              <otmi:vector count='1'>fails</otmi:vector>
+              <otmi:vector count='1'>P]-ATP</otmi:vector>
+              <otmi:vector count='1'>reflects</otmi:vector>
+              <otmi:vector count='1'>avidity</otmi:vector>
+              <otmi:vector count='1'>tail</otmi:vector>
+              <otmi:vector count='1'>homologue</otmi:vector>
+              <otmi:vector count='1'>specified</otmi:vector>
+              <otmi:vector count='1'>latest</otmi:vector>
+              <otmi:vector count='1'>statistical</otmi:vector>
+              <otmi:vector count='1'>backbone</otmi:vector>
+              <otmi:vector count='1'>Miller</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>ATP-interacting</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>orthovanadate</otmi:vector>
+              <otmi:vector count='1'>100-fold</otmi:vector>
+              <otmi:vector count='1'>nucleotide-bound</otmi:vector>
+              <otmi:vector count='1'>distinguishing</otmi:vector>
+              <otmi:vector count='1'>UTP</otmi:vector>
+              <otmi:vector count='1'>excision</otmi:vector>
+              <otmi:vector count='1'>disease-causing</otmi:vector>
+              <otmi:vector count='1'>P-gp</otmi:vector>
+              <otmi:vector count='1'>NBD2-site</otmi:vector>
+              <otmi:vector count='1'>confirmed</otmi:vector>
+              <otmi:vector count='1'>Results</otmi:vector>
+              <otmi:vector count='1'>construction</otmi:vector>
+              <otmi:vector count='1'>cytoplasmic-linking</otmi:vector>
+              <otmi:vector count='1'>conforms</otmi:vector>
+              <otmi:vector count='1'>inward</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>locations</otmi:vector>
+              <otmi:vector count='1'>truncated</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>closed-to-open</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>treatments</otmi:vector>
+              <otmi:vector count='1'>phosphorylating</otmi:vector>
+              <otmi:vector count='1'>GTP</otmi:vector>
+              <otmi:vector count='1'>somehow</otmi:vector>
+              <otmi:vector count='1'>goings</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>heterodimerized</otmi:vector>
+              <otmi:vector count='1'>membrane</otmi:vector>
+              <otmi:vector count='1'>contributor</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>27</otmi:vector>
+              <otmi:vector count='1'>sweat</otmi:vector>
+              <otmi:vector count='1'>Few</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>Phosphorylation</otmi:vector>
+              <otmi:vector count='1'>fairly</otmi:vector>
+              <otmi:vector count='1'>stacks</otmi:vector>
+              <otmi:vector count='1'>Nichols</otmi:vector>
+              <otmi:vector count='1'>deadly</otmi:vector>
+              <otmi:vector count='1'>pancreas</otmi:vector>
+              <otmi:vector count='1'>PDZ-domain-binding</otmi:vector>
+              <otmi:vector count='1'>sulphate</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>gold</otmi:vector>
+              <otmi:vector count='1'>dichroism</otmi:vector>
+              <otmi:vector count='1'>catalytically</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>wild</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>65</otmi:vector>
+              <otmi:vector count='1'>impair</otmi:vector>
+              <otmi:vector count='1'>undoubted</otmi:vector>
+              <otmi:vector count='1'>inefficiently</otmi:vector>
+              <otmi:vector count='1'>handful</otmi:vector>
+              <otmi:vector count='1'>polypeptides</otmi:vector>
+              <otmi:vector count='1'>began</otmi:vector>
+              <otmi:vector count='1'>versa</otmi:vector>
+              <otmi:vector count='1'>energetics</otmi:vector>
+              <otmi:vector count='1'>Also</otmi:vector>
+              <otmi:vector count='1'>orders</otmi:vector>
+              <otmi:vector count='1'>inhibitor</otmi:vector>
+              <otmi:vector count='1'>young</otmi:vector>
+              <otmi:vector count='1'>links</otmi:vector>
+              <otmi:vector count='1'>1,000-fold</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>fluid</otmi:vector>
+              <otmi:vector count='1'>outer</otmi:vector>
+              <otmi:vector count='1'>NBD–NBD</otmi:vector>
+              <otmi:vector count='1'>trials</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>genomes</otmi:vector>
+              <otmi:vector count='1'>www.sanger.ac.uk</otmi:vector>
+              <otmi:vector count='1'>67</otmi:vector>
+              <otmi:vector count='1'>blue-green</otmi:vector>
+              <otmi:vector count='1'>adjacent</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>ATP-induced</otmi:vector>
+              <otmi:vector count='1'>triphosphates</otmi:vector>
+              <otmi:vector count='1'>depending</otmi:vector>
+              <otmi:vector count='1'>Upon</otmi:vector>
+              <otmi:vector count='1'>impaired</otmi:vector>
+              <otmi:vector count='1'>pair</otmi:vector>
+              <otmi:vector count='1'>giving</otmi:vector>
+              <otmi:vector count='1'>69</otmi:vector>
+              <otmi:vector count='1'>carbonyl</otmi:vector>
+              <otmi:vector count='1'>regulates</otmi:vector>
+              <otmi:vector count='1'>trafficking</otmi:vector>
+              <otmi:vector count='1'>blue</otmi:vector>
+              <otmi:vector count='1'>200</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>side-chain</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>dissociation</otmi:vector>
+              <otmi:vector count='1'>properly</otmi:vector>
+              <otmi:vector count='1'>M</otmi:vector>
+              <otmi:vector count='1'>CF-disease-associated</otmi:vector>
+              <otmi:vector count='1'>preventing</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>getacc?PF00005</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>record</otmi:vector>
+              <otmi:vector count='1'>embrace</otmi:vector>
+              <otmi:vector count='1'>chaperone</otmi:vector>
+              <otmi:vector count='1'>overcome</otmi:vector>
+              <otmi:vector count='1'>restructuring</otmi:vector>
+              <otmi:vector count='1'>prolonged</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>competition</otmi:vector>
+              <otmi:vector count='1'>immediately</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>&quot;open</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>structureless</otmi:vector>
+              <otmi:vector count='1'>monomers</otmi:vector>
+              <otmi:vector count='1'>nucleo-tide</otmi:vector>
+              <otmi:vector count='1'>1989</otmi:vector>
+              <otmi:vector count='1'>labelled</otmi:vector>
+              <otmi:vector count='1'>prerequisite</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>so-called</otmi:vector>
+              <otmi:vector count='1'>unaltered</otmi:vector>
+              <otmi:vector count='1'>excessive</otmi:vector>
+              <otmi:vector count='1'>mediates</otmi:vector>
+              <otmi:vector count='1'>instance</otmi:vector>
+              <otmi:vector count='1'>receptors</otmi:vector>
+              <otmi:vector count='1'>demonstration</otmi:vector>
+              <otmi:vector count='1'>470</otmi:vector>
+              <otmi:vector count='1'>F</otmi:vector>
+              <otmi:vector count='1'>entry</otmi:vector>
+              <otmi:vector count='1'>curve</otmi:vector>
+              <otmi:vector count='1'>Pfam</otmi:vector>
+              <otmi:vector count='1'>seconds</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>TMD1–NBD1–R–TMD2–NBD2</otmi:vector>
+              <otmi:vector count='1'>epithelial</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>Direct</otmi:vector>
+              <otmi:vector count='1'>78</otmi:vector>
+              <otmi:vector count='1'>machinery</otmi:vector>
+              <otmi:vector count='1'>stabilized</otmi:vector>
+              <otmi:vector count='1'>Its</otmi:vector>
+              <otmi:vector count='1'>exocrine</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>head</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>continuous</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>seemed</otmi:vector>
+              <otmi:vector count='1'>Anion</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>atoms</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>solved</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>stay</otmi:vector>
+              <otmi:vector count='1'>nucleoside</otmi:vector>
+              <otmi:vector count='1'>cftr</otmi:vector>
+              <otmi:vector count='1'>introduce</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>potentiates</otmi:vector>
+              <otmi:vector count='1'>salt</otmi:vector>
+              <otmi:vector count='1'>spectra</otmi:vector>
+              <otmi:vector count='1'>pathophysiology</otmi:vector>
+              <otmi:vector count='1'>washing</otmi:vector>
+              <otmi:vector count='1'>Phosphorylated</otmi:vector>
+              <otmi:vector count='1'>slows</otmi:vector>
+              <otmi:vector count='1'>potassium-ion</otmi:vector>
+              <otmi:vector count='1'>pleiotropic</otmi:vector>
+              <otmi:vector count='1'>permeating</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>affecting</otmi:vector>
+              <otmi:vector count='1'>P-loop</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>electrophysiological</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>4a</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>infection</otmi:vector>
+              <otmi:vector count='1'>Sequence</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>tagged</otmi:vector>
+              <otmi:vector count='1'>attempted</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>puzzle</otmi:vector>
+              <otmi:vector count='1'>scheme</otmi:vector>
+              <otmi:vector count='1'>life</otmi:vector>
+              <otmi:vector count='1'>prevent</otmi:vector>
+              <otmi:vector count='1'>conformations</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>viral</otmi:vector>
+              <otmi:vector count='1'>CFTR-encoding</otmi:vector>
+              <otmi:vector count='1'>bonus</otmi:vector>
+              <otmi:vector count='1'>minutes</otmi:vector>
+              <otmi:vector count='1'>incrementally</otmi:vector>
+              <otmi:vector count='1'>Overview</otmi:vector>
+              <otmi:vector count='1'>pumps</otmi:vector>
+              <otmi:vector count='1'>Thermodynamic</otmi:vector>
+              <otmi:vector count='1'>energetic</otmi:vector>
+              <otmi:vector count='1'>Therapeutic</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>putative</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>Individual</otmi:vector>
+              <otmi:vector count='1'>comprise</otmi:vector>
+              <otmi:vector count='1'>befits</otmi:vector>
+              <otmi:vector count='1'>fused</otmi:vector>
+              <otmi:vector count='1'>hydrolysis-impairing</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>cgi-bin</otmi:vector>
+              <otmi:vector count='1'>Physical</otmi:vector>
+              <otmi:vector count='1'>C-terminal</otmi:vector>
+              <otmi:vector count='1'>484</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>clarified</otmi:vector>
+              <otmi:vector count='1'>behaved</otmi:vector>
+              <otmi:vector count='1'>comings</otmi:vector>
+              <otmi:vector count='1'>spans</otmi:vector>
+              <otmi:vector count='1'>Recent</otmi:vector>
+              <otmi:vector count='1'>relatives</otmi:vector>
+              <otmi:vector count='1'>keeps</otmi:vector>
+              <otmi:vector count='1'>rate-limiting</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>closer</otmi:vector>
+              <otmi:vector count='1'>physiological</otmi:vector>
+              <otmi:vector count='1'>inserted</otmi:vector>
+              <otmi:vector count='1'>organization</otmi:vector>
+              <otmi:vector count='1'>closes</otmi:vector>
+              <otmi:vector count='1'>selectivity</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>restoring</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>Without</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>liposomes</otmi:vector>
+              <otmi:vector count='1'>DNase</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>stimulated</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>TMD–TMD</otmi:vector>
+              <otmi:vector count='1'>extensive</otmi:vector>
+              <otmi:vector count='1'>nucleotide-dependent</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>two-fold</otmi:vector>
+              <otmi:vector count='1'>rectifier</otmi:vector>
+              <otmi:vector count='1'>interacting</otmi:vector>
+              <otmi:vector count='1'>survive</otmi:vector>
+              <otmi:vector count='1'>Evolutionary</otmi:vector>
+              <otmi:vector count='1'>pseudohalide</otmi:vector>
+              <otmi:vector count='1'>Ca</otmi:vector>
+              <otmi:vector count='1'>attached</otmi:vector>
+              <otmi:vector count='1'>cyclophilin</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>distinct</otmi:vector>
+              <otmi:vector count='1'>rescue</otmi:vector>
+              <otmi:vector count='1'>equally</otmi:vector>
+              <otmi:vector count='1'>advance</otmi:vector>
+              <otmi:vector count='1'>Their</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>decade</otmi:vector>
+              <otmi:vector count='1'>loops</otmi:vector>
+              <otmi:vector count='1'>spend</otmi:vector>
+              <otmi:vector count='1'>apace</otmi:vector>
+              <otmi:vector count='1'>mutational</otmi:vector>
+              <otmi:vector count='1'>surprises</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>identifying</otmi:vector>
+              <otmi:vector count='1'>lethal</otmi:vector>
+              <otmi:vector count='1'>chloride-transport</otmi:vector>
+              <otmi:vector count='1'>asymmetry</otmi:vector>
+              <otmi:vector count='1'>conform</otmi:vector>
+              <otmi:vector count='1'>apply</otmi:vector>
+              <otmi:vector count='1'>closest</otmi:vector>
+              <otmi:vector count='1'>ABC-transporter</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>abolish</otmi:vector>
+              <otmi:vector count='1'>transitions</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>lot</otmi:vector>
+              <otmi:vector count='1'>modification</otmi:vector>
+              <otmi:vector count='1'>sequenced</otmi:vector>
+              <otmi:vector count='1'>variety</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>prolines</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>K1250</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>cradled</otmi:vector>
+              <otmi:vector count='1'>ATPase</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>severing</otmi:vector>
+              <otmi:vector count='1'>vitiated</otmi:vector>
+              <otmi:vector count='1'>Before</otmi:vector>
+              <otmi:vector count='1'>0</otmi:vector>
+              <otmi:vector count='1'>extent</otmi:vector>
+              <otmi:vector count='1'>Mutagenesis</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>behaves</otmi:vector>
+              <otmi:vector count='1'>2–3-fold</otmi:vector>
+              <otmi:vector count='1'>competent</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>retain</otmi:vector>
+              <otmi:vector count='1'>Nor</otmi:vector>
+              <otmi:vector count='1'>Two</otmi:vector>
+              <otmi:vector count='1'>signals</otmi:vector>
+              <otmi:vector count='1'>Hydrolysis</otmi:vector>
+              <otmi:vector count='1'>notions</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>segments</otmi:vector>
+              <otmi:vector count='1'>omitted</otmi:vector>
+              <otmi:vector count='1'>waits</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>enclosed</otmi:vector>
+              <otmi:vector count='1'>sodium</otmi:vector>
+              <otmi:vector count='1'>Not</otmi:vector>
+              <otmi:vector count='1'>hold</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>bifunctional</otmi:vector>
+              <otmi:vector count='1'>thiol-specific</otmi:vector>
+              <otmi:vector count='1'>concert</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>rearrangements</otmi:vector>
+              <otmi:vector count='1'>rings</otmi:vector>
+              <otmi:vector count='1'>multidrug</otmi:vector>
+              <otmi:vector count='1'>look</otmi:vector>
+              <otmi:vector count='1'>ATPases</otmi:vector>
+              <otmi:vector count='1'>Like</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>inhibit</otmi:vector>
+              <otmi:vector count='1'>exerts</otmi:vector>
+              <otmi:vector count='1'>distant</otmi:vector>
+              <otmi:vector count='1'>ATPase-like</otmi:vector>
+              <otmi:vector count='1'>efflux</otmi:vector>
+              <otmi:vector count='1'>segment</otmi:vector>
+              <otmi:vector count='1'>testifies</otmi:vector>
+              <otmi:vector count='1'>member</otmi:vector>
+              <otmi:vector count='1'>sustained</otmi:vector>
+              <otmi:vector count='1'>viewed</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>heterodimer-like</otmi:vector>
+              <otmi:vector count='1'>severely</otmi:vector>
+              <otmi:vector count='1'>comprising</otmi:vector>
+              <otmi:vector count='1'>grey</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>Morbidity</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>testes</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>chains</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>diagrams</otmi:vector>
+              <otmi:vector count='1'>continues</otmi:vector>
+              <otmi:vector count='1'>shut</otmi:vector>
+              <otmi:vector count='1'>distinction</otmi:vector>
+              <otmi:vector count='1'>mutants</otmi:vector>
+              <otmi:vector count='1'>glutamate</otmi:vector>
+              <otmi:vector count='1'>occupy</otmi:vector>
+              <otmi:vector count='1'>underpinnings</otmi:vector>
+              <otmi:vector count='1'>window</otmi:vector>
+              <otmi:vector count='1'>simpler</otmi:vector>
+              <otmi:vector count='1'>initiated</otmi:vector>
+              <otmi:vector count='1'>functioning</otmi:vector>
+              <otmi:vector count='1'>sufficiently</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>Halide</otmi:vector>
+              <otmi:vector count='1'>Kinase-mediated</otmi:vector>
+              <otmi:vector count='1'>occupies</otmi:vector>
+              <otmi:vector count='1'>co-evolved</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>stabilization</otmi:vector>
+              <otmi:vector count='1'>halves</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>sulphonylurea</otmi:vector>
+              <otmi:vector count='1'>pull</otmi:vector>
+              <otmi:vector count='1'>collects</otmi:vector>
+              <otmi:vector count='1'>liberated</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>frequency</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>Assuming</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>D1370</otmi:vector>
+              <otmi:vector count='1'>cyclic</otmi:vector>
+              <otmi:vector count='1'>identical</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>high-throughput</otmi:vector>
+              <otmi:vector count='1'>restored</otmi:vector>
+              <otmi:vector count='1'>lowered</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>received</otmi:vector>
+              <otmi:vector count='1'>escape</otmi:vector>
+              <otmi:vector count='1'>examined</otmi:vector>
+              <otmi:vector count='1'>20,000</otmi:vector>
+              <otmi:vector count='1'>clue</otmi:vector>
+              <otmi:vector count='1'>predominantly</otmi:vector>
+              <otmi:vector count='1'>sized</otmi:vector>
+              <otmi:vector count='1'>corresponds</otmi:vector>
+              <otmi:vector count='1'>substituting</otmi:vector>
+              <otmi:vector count='1'>filter</otmi:vector>
+              <otmi:vector count='1'>two-thirds</otmi:vector>
+              <otmi:vector count='1'>gradually</otmi:vector>
+              <otmi:vector count='1'>conduct</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>allosteric</otmi:vector>
+              <otmi:vector count='1'>speculative</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>failure</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>reagents</otmi:vector>
+              <otmi:vector count='1'>relevant</otmi:vector>
+              <otmi:vector count='1'>principal</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>cloning</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>mortality</otmi:vector>
+              <otmi:vector count='1'>examination</otmi:vector>
+              <otmi:vector count='1'>difficulties</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>fosters</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>middle</otmi:vector>
+              <otmi:vector count='1'>aromatic</otmi:vector>
+              <otmi:vector count='1'>modulated</otmi:vector>
+              <otmi:vector count='1'>K1250A</otmi:vector>
+              <otmi:vector count='1'>impairs</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>room</otmi:vector>
+              <otmi:vector count='1'>www.genet.sickkids.on.ca</otmi:vector>
+              <otmi:vector count='1'>Gene</otmi:vector>
+              <otmi:vector count='1'>say</otmi:vector>
+              <otmi:vector count='1'>Inhaled</otmi:vector>
+              <otmi:vector count='1'>up-to-the-minute</otmi:vector>
+              <otmi:vector count='1'>negligibly</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>dehydrated</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>puzzling</otmi:vector>
+              <otmi:vector count='1'>two-dimensional</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>charges</otmi:vector>
+              <otmi:vector count='1'>comparable</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>gleaned</otmi:vector>
+              <otmi:vector count='1'>pincer-like</otmi:vector>
+              <otmi:vector count='1'>consequence</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>identity</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>sudden</otmi:vector>
+              <otmi:vector count='1'>insertion</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>inorganic</otmi:vector>
+              <otmi:vector count='1'>E1371Q</otmi:vector>
+              <otmi:vector count='1'>crystallization</otmi:vector>
+              <otmi:vector count='1'>intimate</otmi:vector>
+              <otmi:vector count='1'>identities</otmi:vector>
+              <otmi:vector count='1'>Development</otmi:vector>
+              <otmi:vector count='1'>Channel</otmi:vector>
+              <otmi:vector count='1'>focus</otmi:vector>
+              <otmi:vector count='1'>impermeable</otmi:vector>
+              <otmi:vector count='1'>centred</otmi:vector>
+              <otmi:vector count='1'>1,000</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>common</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>mimic</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>prolyl-isomerase</otmi:vector>
+              <otmi:vector count='1'>acidic</otmi:vector>
+              <otmi:vector count='1'>travellers</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>isoforms</otmi:vector>
+              <otmi:vector count='1'>Michaelis</otmi:vector>
+              <otmi:vector count='1'>multidrug-resistance-related</otmi:vector>
+              <otmi:vector count='1'>individually</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>negatively</otmi:vector>
+              <otmi:vector count='1'>positively</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>non-phosphorylated</otmi:vector>
+              <otmi:vector count='1'>hydrolysis-induced</otmi:vector>
+              <otmi:vector count='1'>hybrid</otmi:vector>
+              <otmi:vector count='1'>glue</otmi:vector>
+              <otmi:vector count='1'>refocusing</otmi:vector>
+              <otmi:vector count='1'>enhance</otmi:vector>
+              <otmi:vector count='1'>nucleotide-induced</otmi:vector>
+              <otmi:vector count='1'>circular</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>assigned</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>analogous</otmi:vector>
+              <otmi:vector count='1'>redundancy</otmi:vector>
+              <otmi:vector count='1'>non-viral</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>nucleotide-free</otmi:vector>
+              <otmi:vector count='1'>greatly</otmi:vector>
+              <otmi:vector count='1'>sandwiching</otmi:vector>
+              <otmi:vector count='1'>1,480-amino-acid</otmi:vector>
+              <otmi:vector count='1'>subject</otmi:vector>
+              <otmi:vector count='1'>Thr338</otmi:vector>
+              <otmi:vector count='1'>Rd</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>arising</otmi:vector>
+              <otmi:vector count='1'>degradation</otmi:vector>
+              <otmi:vector count='1'>transduction</otmi:vector>
+              <otmi:vector count='1'>diarrhoea.</otmi:vector>
+              <otmi:vector count='1'>carboxy-terminal</otmi:vector>
+              <otmi:vector count='1'>subfamily</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>triggers</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>Outlook</otmi:vector>
+              <otmi:vector count='1'>pathways</otmi:vector>
+              <otmi:vector count='1'>anti-parallel</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>coin</otmi:vector>
+              <otmi:vector count='1'>CTP</otmi:vector>
+              <otmi:vector count='1'>imbues</otmi:vector>
+              <otmi:vector count='1'>0.003</otmi:vector>
+              <otmi:vector count='1'>comparably</otmi:vector>
+              <otmi:vector count='1'>vice</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>Photolabelling</otmi:vector>
+              <otmi:vector count='1'>regulate</otmi:vector>
+              <otmi:vector count='1'>turns</otmi:vector>
+              <otmi:vector count='1'>fold</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>aggregated</otmi:vector>
+              <otmi:vector count='1'>LSHGH</otmi:vector>
+              <otmi:vector count='1'>CF-causing</otmi:vector>
+              <otmi:vector count='1'>thickening</otmi:vector>
+              <otmi:vector count='1'>extracellular</otmi:vector>
+              <otmi:vector count='1'>contrasts</otmi:vector>
+              <otmi:vector count='1'>symptomatic</otmi:vector>
+              <otmi:vector count='1'>revealed</otmi:vector>
+              <otmi:vector count='1'>drawing</otmi:vector>
+              <otmi:vector count='1'>limiting</otmi:vector>
+              <otmi:vector count='1'>mechanistic</otmi:vector>
+              <otmi:vector count='1'>characteristic</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>subfamilies</otmi:vector>
+              <otmi:vector count='1'>symmetry</otmi:vector>
+              <otmi:vector count='1'>hurdles</otmi:vector>
+              <otmi:vector count='1'>vestibule</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>pancreatic-duct</otmi:vector>
+              <otmi:vector count='1'>neutralization</otmi:vector>
+              <otmi:vector count='1'>incubation</otmi:vector>
+              <otmi:vector count='1'>probable</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>interior</otmi:vector>
+              <otmi:vector count='1'>molecule</otmi:vector>
+              <otmi:vector count='1'>interacts</otmi:vector>
+              <otmi:vector count='1'>imperfectly</otmi:vector>
+              <otmi:vector count='1'>story</otmi:vector>
+              <otmi:vector count='1'>NBD2-containing</otmi:vector>
+              <otmi:vector count='1'>favourable</otmi:vector>
+              <otmi:vector count='1'>driven</otmi:vector>
+              <otmi:vector count='1'>discernible</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>Nucleotide-binding</otmi:vector>
+              <otmi:vector count='1'>map</otmi:vector>
+              <otmi:vector count='1'>positioning</otmi:vector>
+              <otmi:vector count='1'>therapy</otmi:vector>
+              <otmi:vector count='1'>enhancing</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>graded</otmi:vector>
+              <otmi:vector count='1'>Glu-to-Gln</otmi:vector>
+              <otmi:vector count='1'>promoted</otmi:vector>
+              <otmi:vector count='1'>kinases</otmi:vector>
+              <otmi:vector count='1'>Evident</otmi:vector>
+              <otmi:vector count='1'>closed-state</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>cytoplasm</otmi:vector>
+              <otmi:vector count='1'>implication</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>positioned</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>usually</otmi:vector>
+              <otmi:vector count='1'>tipped</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>ITP</otmi:vector>
+              <otmi:vector count='1'>Cystic</otmi:vector>
+              <otmi:vector count='1'>drives</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>numerous</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>mature</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>canonical</otmi:vector>
+              <otmi:vector count='1'>attachment</otmi:vector>
+              <otmi:vector count='1'>cassette</otmi:vector>
+              <otmi:vector count='1'>bridge</otmi:vector>
+              <otmi:vector count='1'>triggered</otmi:vector>
+              <otmi:vector count='1'>positional</otmi:vector>
+              <otmi:vector count='1'>superfamily</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>regulator</otmi:vector>
+              <otmi:vector count='1'>phosphoserines</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>precisely</otmi:vector>
+              <otmi:vector count='1'>hydrolysed</otmi:vector>
+              <otmi:vector count='1'>NBD-sequence</otmi:vector>
+              <otmi:vector count='1'>contributes</otmi:vector>
+              <otmi:vector count='1'>crosslinking</otmi:vector>
+              <otmi:vector count='1'>sixth</otmi:vector>
+              <otmi:vector count='1'>cysteine-modification</otmi:vector>
+              <otmi:vector count='1'>channel-opening</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>accumulate</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>ameliorate</otmi:vector>
+              <otmi:vector count='1'>systematic</otmi:vector>
+              <otmi:vector count='1'>strict</otmi:vector>
+              <otmi:vector count='1'>orange</otmi:vector>
+              <otmi:vector count='1'>non-canonical</otmi:vector>
+              <otmi:vector count='1'>deletion</otmi:vector>
+              <otmi:vector count='1'>Vast</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>faces</otmi:vector>
+              <otmi:vector count='1'>transition</otmi:vector>
+              <otmi:vector count='1'>intramolecular</otmi:vector>
+              <otmi:vector count='1'>sign</otmi:vector>
+              <otmi:vector count='1'>non-conserved</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>allowed</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>turn</otmi:vector>
+              <otmi:vector count='1'>concur</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>fostered</otmi:vector>
+              <otmi:vector count='1'>twofold</otmi:vector>
+              <otmi:vector count='1'>nucleotide-interacting</otmi:vector>
+              <otmi:vector count='1'>23–27</otmi:vector>
+              <otmi:vector count='1'>TMD–NBD</otmi:vector>
+              <otmi:vector count='1'>shell</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>underlying</otmi:vector>
+              <otmi:vector count='1'>Similar</otmi:vector>
+              <otmi:vector count='1'>cycles</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>channel-gating</otmi:vector>
+              <otmi:vector count='1'>despite</otmi:vector>
+              <otmi:vector count='1'>mutant-cycle</otmi:vector>
+              <otmi:vector count='1'>agents</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>inhibitors</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>alignments</otmi:vector>
+              <otmi:vector count='1'>shed</otmi:vector>
+              <otmi:vector count='1'>N-terminal</otmi:vector>
+              <otmi:vector count='1'>severity</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>-dependent</otmi:vector>
+              <otmi:vector count='1'>entering</otmi:vector>
+              <otmi:vector count='1'>selected</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>blood</otmi:vector>
+              <otmi:vector count='1'>corresponding</otmi:vector>
+              <otmi:vector count='1'>three-quarters</otmi:vector>
+              <otmi:vector count='1'>mere</otmi:vector>
+              <otmi:vector count='1'>kinds</otmi:vector>
+              <otmi:vector count='1'>step-like</otmi:vector>
+              <otmi:vector count='1'>short</otmi:vector>
+              <otmi:vector count='1'>AMP-CPP</otmi:vector>
+              <otmi:vector count='1'>accumulated</otmi:vector>
+              <otmi:vector count='1'>deleting</otmi:vector>
+              <otmi:vector count='1'>detail</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>aspartate</otmi:vector>
+              <otmi:vector count='1'>inhibitory</otmi:vector>
+              <otmi:vector count='1'>passing</otmi:vector>
+              <otmi:vector count='1'>expectancy</otmi:vector>
+              <otmi:vector count='1'>unsettled</otmi:vector>
+              <otmi:vector count='1'>pumping</otmi:vector>
+              <otmi:vector count='1'>expectation</otmi:vector>
+              <otmi:vector count='1'>tend</otmi:vector>
+              <otmi:vector count='1'>simplest</otmi:vector>
+              <otmi:vector count='1'>oxygens</otmi:vector>
+              <otmi:vector count='1'>promote</otmi:vector>
+              <otmi:vector count='1'>symmetrical</otmi:vector>
+              <otmi:vector count='1'>C2</otmi:vector>
+              <otmi:vector count='1'>featureless</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>fragments</otmi:vector>
+              <otmi:vector count='1'>pressure</otmi:vector>
+              <otmi:vector count='1'>C1</otmi:vector>
+              <otmi:vector count='1'>airways</otmi:vector>
+              <otmi:vector count='1'>characterized</otmi:vector>
+              <otmi:vector count='1'>contributed</otmi:vector>
+              <otmi:vector count='1'>changed</otmi:vector>
+              <otmi:vector count='1'>debated</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>clogs</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>precise</otmi:vector>
+              <otmi:vector count='1'>infections</otmi:vector>
+              <otmi:vector count='1'>repetition</otmi:vector>
+              <otmi:vector count='1'>holds</otmi:vector>
+              <otmi:vector count='1'>subsequently</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>ease</otmi:vector>
+              <otmi:vector count='1'>illustrate</otmi:vector>
+              <otmi:vector count='1'>combat</otmi:vector>
+              <otmi:vector count='1'>abrogate</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>advances</otmi:vector>
+              <otmi:vector count='1'>crosslinked</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>cAMP-dependent</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A bonus of the large complement of ABC-protein genes in prokaryotic genomes is that over 20,000 NBD sequences are available ( http://www.sanger.ac.uk/cgi-bin/Pfam/getacc?PF00005 )</otmi:snippet>
+              <otmi:snippet>A common assertion, rarely tested, is that a functional ABC protein contains two TMDs and two NBDs, as found in crystal structures of the bacterial ABC transporters MsbA and BtuCD and in a low-resolution structure of the multidrug transporter P-gp from two-dimensional (2D) cryo-electron crystallography </otmi:snippet>
+              <otmi:snippet>A key distinction between homodimeric interactions seen so far in crystal structures of bacterial ABC proteins and the proposed NBD1–NBD2 interaction in CFTR is the asymmetry of the two expected interfacial nucleotide-binding sites, echoing the mere 27% identity between CFTR&apos;s NBD1 and NBD2</otmi:snippet>
+              <otmi:snippet>A number of approaches have led to the conclusion that the positive charges at Arg 334 and Lys 335 promote entry of anions into an outer vestibule, and that the side chain of Thr338, one helical turn in, faces the pore</otmi:snippet>
+              <otmi:snippet>A simple scheme linking these events to the pore gate ( Fig. 1b ) can account for most of the experimental evidence, although many details remain to be clarified</otmi:snippet>
+              <otmi:snippet>ATP binding and hydrolysis Where does this rate-limiting binding of ATP occur? Mutagenesis experiments ( Fig. 3 ) to alter the Walker motifs that contact the bound ATP in NBD crystals ( Fig. 2a ) confirm that, as expected, the ATP acts at CFTR&apos;s NBDs</otmi:snippet>
+              <otmi:snippet>Also, a role for a conformational change of the R domain is suggested by the finding that the prolyl-isomerase cyclophilin A stimulated wild-type CFTR channel activity, but not that of mutants lacking three conserved R-domain prolines </otmi:snippet>
+              <otmi:snippet>Although CFTR phosphorylation by PKC itself causes only modest channel activation , it potentiates , and might even be a prerequisite for , subsequent channel activation by PKA</otmi:snippet>
+              <otmi:snippet>Although direct introduction of negative charge by substituting aspartate or glutamate for six to eight serines does result in partly active channels, their maximal activity is 2–3-fold lower than that of phosphorylated wild-type CFTR</otmi:snippet>
+              <otmi:snippet>Although initially proposed to face the pore , Arg 347 was subsequently shown to form a salt bridge to an Asp in transmembrane helix 8</otmi:snippet>
+              <otmi:snippet>Although the symmetrical arrangement of membrane-spanning helices in the paired TMDs of homodimeric ABC proteins, such as MsbA and BtuCD, imbues CFTR models based on them with comparable two-fold symmetry (see Fig. 2b ), a lot more work is needed before the true disposition of transmembrane helices around CFTR&apos;s anion-selective pore can be specified</otmi:snippet>
+              <otmi:snippet>Although the underlying pathophysiology of CF is still debated , the simplest hypothesis is that impaired anion movement is the primary cause</otmi:snippet>
+              <otmi:snippet>Although two-thirds of all CF disease cases can be attributed to a single mutation in CFTR, deletion of Phe 508 in NBD1, over 1,000 CF-disease-associated mutations of this 1,480-amino-acid protein have been logged ( http://www.genet.sickkids.on.ca/cftr/ ). ΔF508-CFTR protein fails to mature properly and is tagged for degradation </otmi:snippet>
+              <otmi:snippet>Among other kinases, both Ca 2+ -dependent and independent isoforms of protein kinase C (PKC) can phosphorylate R-domain sites </otmi:snippet>
+              <otmi:snippet>Among the thousands of ABC family members, only CFTR is an ion channel</otmi:snippet>
+              <otmi:snippet>Analysis of the distributions of potential hydrogen-bond donor (R555 equivalent) and acceptor (T1246 equivalent) side chains shows that the two positions have changed in concert so that a shorter acceptor is more frequently paired with a longer donor and vice versa </otmi:snippet>
+              <otmi:snippet>And circular dichroism spectra of the purified R domain indicated that the introduced acidic residues imperfectly mimic phosphoserines </otmi:snippet>
+              <otmi:snippet>And recent structural and biochemical advances in the study of bacterial ABC proteins have shed light on how opening and closing of the CFTR chloride channel are regulated</otmi:snippet>
+              <otmi:snippet>Anion flow through this channel is needed for normal function of epithelia such as those that line airways and the intestinal tract and ducts in the pancreas, testes and sweat glands</otmi:snippet>
+              <otmi:snippet>Any additional stimulatory effect of the phosphorylated R domain is therefore probably small (less than twofold)</otmi:snippet>
+              <otmi:snippet>As befits a contributor to an anion-selective pore, transmembrane helix 6 is predicted to contain at least three basic residues, Arg 334 and Lys 335 (blue-green spacefill, Fig. 2b ) towards the extracellular end and Arg 347 four helical turns closer to the cytoplasm</otmi:snippet>
+              <otmi:snippet>As biochemical measurements confirm that homologous mutations abrogate ATP hydrolysis in other ABC proteins (reviewed in refs 69 , 70 ), and mutation K1250A has been shown to abolish ATPase activity of CFTR , the implication is that hydrolysis of the ATP bound at the NBD2 composite catalytic site occurs before normal rapid channel closure </otmi:snippet>
+              <otmi:snippet>As loss of 8-azido-ATP from NBD1 at 30 °C before photolabelling takes minutes, but opening and closing of CFTR channels in ATP takes seconds ( Fig. 1a ; also in 8-azido-ATP ), nucleotide-dependent gating would seem to be controlled predominantly by events at the NBD2 composite catalytic site </otmi:snippet>
+              <otmi:snippet>Assuming that NBD1 and NBD2 in CFTR approach each other in the way that bacterial NBDs do in the homodimeric crystals (as illustrated in Fig. 2c, d ) allows construction of speculative homology models of CFTR ( Fig. 2a, b ), based on the structures of prokaryotic NBD dimers and of MsbA</otmi:snippet>
+              <otmi:snippet>At saturating concentrations of ATP, a channel waits in the closed state for a second or so (depending on the temperature) before opening</otmi:snippet>
+              <otmi:snippet>Because of the continuous turnover of epithelia, repetition of all these treatments will be required</otmi:snippet>
+              <otmi:snippet>Because of the many hurdles to be overcome, parallel efforts to harness high-throughput methods to find small molecules that would allow maturation of ΔF508 CFTR or enhance activity of other mutant CFTR channels are important</otmi:snippet>
+              <otmi:snippet>Before events at CFTR&apos;s NBDs can trigger gating of the pore, the R domain must be phosphorylated by PKA ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>But cell incubation at room, rather than blood, temperature leads to maturation, trafficking and insertion of ΔF508 CFTR into the surface membrane, where it functions nearly as well as wild type</otmi:snippet>
+              <otmi:snippet>But how are nucleotide comings and goings at the NBD2 composite site linked to channel opening and closing? The principal consequence of mutations at the key catalytic NBD2 Walker A Lys and Walker B Asp and Glu residues (K1250, D1370 and E1371 in Fig. 2d ), at saturating concentrations of ATP, is a marked increase in the time for which channels remain open ( Fig. 4b )</otmi:snippet>
+              <otmi:snippet>But only 8-azido nucleotide at NBD1 could survive washes at 0 °C before crosslinking the nucleotide with UV irradiation </otmi:snippet>
+              <otmi:snippet>But the machinery attached to the strings that pull the gate open and closed has recently come into view</otmi:snippet>
+              <otmi:snippet>But there were more surprises</otmi:snippet>
+              <otmi:snippet>But these residues do not interact when the channels are closed, either before or after (states C1 and C2, Fig. 1b ) binding the second ATP, which is thought to trigger channel opening </otmi:snippet>
+              <otmi:snippet>But they are opened only inefficiently by millimolar concentrations of poorly hydrolysable analogues such as AMP-PNP, AMP-PCP or ATP-γS , and not at all by ADP </otmi:snippet>
+              <otmi:snippet>But this is unlikely to be the whole story</otmi:snippet>
+              <otmi:snippet>By contrast, simply severing CFTR where the R domain connects to TMD2 partly disrupts inhibition of gating in unphosphorylated channels </otmi:snippet>
+              <otmi:snippet>CF is a pleiotropic disease affecting all exocrine epithelia</otmi:snippet>
+              <otmi:snippet>CFTR channel activity increases at least 100-fold upon phosphorylation (from an open probability of &lt;0.003 for non-phosphorylated CFTR channels in saturating [ATP])</otmi:snippet>
+              <otmi:snippet>CFTR channel gating by ATP The location of the gate that prevents ion flow through closed CFTR channels is not known</otmi:snippet>
+              <otmi:snippet>CFTR itself was shown to be a chloride channel, directly activated by phosphorylation by PKA ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>CFTR-channel activity changes gradually as increasing numbers of target serines are mutated or as increasing PKA concentrations incrementally phosphorylate wild-type CFTR </otmi:snippet>
+              <otmi:snippet>Channel closing would follow hydrolysis of the ATP at the NBD2 composite site, loss of the liberated phosphate and subsequent disruption of the heterodimeric NBD1–NBD2 interaction, as illustrated in Fig. 1b </otmi:snippet>
+              <otmi:snippet>Cystic fibrosis and CFTR In 1989, when the gene mutated in CF patients was identified by positional cloning , the expectation was that it would encode a chloride-ion channel</otmi:snippet>
+              <otmi:snippet>Determination of the structure of any comparably asymmetric ABC protein would greatly advance our understanding of how the ABC-C proteins CFTR, MRP and SUR work</otmi:snippet>
+              <otmi:snippet>Development of procedures for delivery of wild-type CFTR-encoding DNA using viral and non-viral (such as liposome or nanoparticle) agents or of functional CFTR protein (by means of liposomes) to affected cells continues apace </otmi:snippet>
+              <otmi:snippet>Direct evidence for a head-to-tail NBD1–NBD2 interaction in functioning CFTR channels comes from two sources</otmi:snippet>
+              <otmi:snippet>Even so, important differences between NBD1 and NBD2 in CFTR seem to have evolved to allow only one of the bound ATPs to be hydrolysed while the other remains unaltered during numerous gating cycles</otmi:snippet>
+              <otmi:snippet>Even with that hydrolysis-impairing mutation, stable dimers were not obtained with ADP , which is consistent with a cycle of ATP-induced NBD dimerization and hydrolysis-induced dimer disruption </otmi:snippet>
+              <otmi:snippet>Evident lack of nucleotide interaction with the conserved &quot;ABC signature&quot; sequence (consensus LSGGQ; pink, Fig. 2 ), some 15 Å distant in the so-called α-helical domain (also containing Phe 508; Fig. 2b ), was initially puzzling</otmi:snippet>
+              <otmi:snippet>Evolutionary conservation of structural components of the NBD1–NBD2 interface makes it probable that a similar cycle of ATP binding and hydrolysis drives function in most ABC family members</otmi:snippet>
+              <otmi:snippet>First, target cysteines introduced in pairs, one in NBD1 and the other in NBD2, can be crosslinked by short bifunctional thiol-specific reagents only when, for example, one cysteine is in a Walker motif and the other is in a signature sequence, and not when both are in Walker motifs or both are in signature sequences </otmi:snippet>
+              <otmi:snippet>For CFTR, this means a single polypeptide, and functional measurements have addressed this question</otmi:snippet>
+              <otmi:snippet>For instance, purified R-domain protein undergoes discernible conformational changes upon phosphorylation </otmi:snippet>
+              <otmi:snippet>Gene therapy trials to introduce CFTR DNA into airway epithelial cells began over a decade ago, but difficulties with gene delivery and expression have led to refocusing of efforts to rescue ΔF508 CFTR</otmi:snippet>
+              <otmi:snippet>Halide and pseudohalide anions larger than chloride, which escape their water shell more easily, also enter the channel more easily than chloride </otmi:snippet>
+              <otmi:snippet>Here we bring together the latest information on CFTR-channel function and on prokaryotic ABC-transporter structure to provide an up-to-the-minute view of what CFTR channels normally do, what a CFTR channel might look like and how its anion pathway is opened and closed</otmi:snippet>
+              <otmi:snippet>High-resolution electrophysiological studies of single CFTR channels therefore offer a unique window into mechanisms of ABC transporter function</otmi:snippet>
+              <otmi:snippet>How, and even whether, the function of these and other channels and transporters is modulated by interaction with CFTR is still unsettled </otmi:snippet>
+              <otmi:snippet>However, co-expression of two kinds of CFTR channels with distinct functional characteristics produced no hybrid channels , and cysteine-modification tests showed that a single introduced cysteine contributed only once to a CFTR pore </otmi:snippet>
+              <otmi:snippet>However, the regulated channels previously studied in airway epithelia conducted chloride ions rapidly (conductance ≥30 pS) and preferentially into the cell, and so were not CFTR channels</otmi:snippet>
+              <otmi:snippet>Hydrolysis of one of the ATPs disrupts the NBD1–NBD2 interaction and closes the channel gate, terminating anion flow</otmi:snippet>
+              <otmi:snippet>In addition, two of the most readily phosphorylated serines inhibit channel activity when phosphorylated, despite undoubted introduction of negative charge </otmi:snippet>
+              <otmi:snippet>In an ATP-bound NBD monomer , the phosphate chain of the nucleo-tide is cradled by a canonical P-loop, or Walker A sequence (red, Fig. 2 )</otmi:snippet>
+              <otmi:snippet>In contrast to the two essentially identical catalytic sites found in bacterial NBD homodimers , each with its full complement of conserved consensus residues ( Fig. 2c ), the expected NBD1–NBD2 &quot;heterodimeric&quot; arrangement comprises only one consensus catalytic site ( Fig. 2d )</otmi:snippet>
+              <otmi:snippet>In the case of CFTR, a unique regulatory (R) domain, the target of PKA phosphorylation, links two homologous halves, giving the overall domain organization TMD1–NBD1–R–TMD2–NBD2 (ref. 2 )</otmi:snippet>
+              <otmi:snippet>In the handful of cases examined, severity of disease seemed related to impairment of channel function</otmi:snippet>
+              <otmi:snippet>Individual bacterial genes often encode single domains or fused pairs of domains (TMD–TMD, NBD–NBD or TMD–NBD), but three-quarters of the 48 human ABC genes (assigned to seven subfamilies) encode full-length ABC proteins </otmi:snippet>
+              <otmi:snippet>Inhaled DNase can ameliorate thickening of airway mucus by aggregated DNA from dead cells</otmi:snippet>
+              <otmi:snippet>It is also supported by the finding that closure is markedly delayed in the presence of ATP plus the poorly hydrolysable analogue AMP-PNP or of ATP plus the inorganic phosphate analogue orthovanadate , which forms a stable complex with the hydrolysis product ADP after dissociation of the γ-phosphate (for example, see ref. 78 )</otmi:snippet>
+              <otmi:snippet>It may be possible to follow how energetic coupling between side-chain pairs changes, both as a function of their location in the protein and as a function of time during CFTR&apos;s channel-gating cycle</otmi:snippet>
+              <otmi:snippet>It seems that negatively charged ions, such as chloride, accumulate near positively charged regions at each end of the pore in CFTR&apos;s transmembrane domain and flow through the pore after the opening of its gate by events initiated by ATP binding to the cytoplasmic NBDs ( Figs 1 , 2 ; N-terminal NBD1, green; C-terminal NBD2, blue)</otmi:snippet>
+              <otmi:snippet>It would also be good to know how graded R-domain phosphorylation controls communication between the NBDs and the gate</otmi:snippet>
+              <otmi:snippet>Its shape and location in the CFTR channel are therefore unknown</otmi:snippet>
+              <otmi:snippet>Just how R-domain phosphorylation controls channel gating is not clear</otmi:snippet>
+              <otmi:snippet>Kinase-mediated phosphorylation of a cytoplasmic regulatory domain in CFTR is needed for successful transmission of NBD events to the channel gate</otmi:snippet>
+              <otmi:snippet>Like most other chloride channels (see the review in this issue by Miller, p. 484 ), CFTR selects relatively poorly among small monovalent anions</otmi:snippet>
+              <otmi:snippet>Loss of regulated conduction of bicarbonate by CFTR channels may contribute to both airway and pancreatic-duct disease in CF</otmi:snippet>
+              <otmi:snippet>Loss of the signal allows the channel gate to close, terminating anion flow until ATP again binds to the NBDs</otmi:snippet>
+              <otmi:snippet>Morbidity and mortality are largely due to chronic bacterial infection and inflammation in the lung</otmi:snippet>
+              <otmi:snippet>Most disease-causing mutations have yet to be functionally characterized</otmi:snippet>
+              <otmi:snippet>Much also remains to be learned about the physiological roles and functions of CFTR — for example, the identities of other proteins with which CFTR interacts (reviewed in refs 7 , 8 ), whether CFTR functions as an ATP-driven transporter and whether, and under what conditions, CFTR behaves like an adenylate kinase </otmi:snippet>
+              <otmi:snippet>Much effort is therefore being directed to identifying small molecules that might chaperone ΔF508 to the cell surface in CF patients</otmi:snippet>
+              <otmi:snippet>Much remains uncertain, however, including the precise structure of the TMDs, where homology between MsbA and CFTR is low</otmi:snippet>
+              <otmi:snippet>NBD dimerization So if hydrolysis of the NBD2-site ATP controls the timing of channel closing, what normally triggers its opening? The slow step that limits the speed of channel opening at saturating nucleotide concentration is sensitive to the structure around the γ-phosphate and, for AMP-PNP, AMP-PCP or ATP-γS, that step occurs at 4% of the maximal rate seen with ATP </otmi:snippet>
+              <otmi:snippet>NBD1 was photolabelled to a similar extent with 8-azido-[α- 32 P]-ATP or 8-azido-[γ- 32 P]ATP , even after prolonged washes at 30° C before UV irradiation , whereas, even without washing, NBD2 could never be photolabelled with 8-azido-[γ 32 P]ATP </otmi:snippet>
+              <otmi:snippet>No other ABC protein contains an R domain, and its sequence, though conserved across species , shows no homology to other proteins</otmi:snippet>
+              <otmi:snippet>Nor can inhibition of gating in the unphosphorylated channel be attributed to the serine-containing non-conserved structural elements in and around CFTR&apos;s NBD1 , say by preventing NBD1–NBD2 interaction</otmi:snippet>
+              <otmi:snippet>Not surprisingly, as we will see below, evidence suggests that only the NBD2 composite site is catalytically competent</otmi:snippet>
+              <otmi:snippet>Nucleotide-binding domains High-resolution structures are not yet available for any full-length eukaryotic ABC protein but have been obtained not only for the prokaryotic MsbA and BtuCD entire transporters but also for several NBDs (for example, see refs 23–27 )</otmi:snippet>
+              <otmi:snippet>On the other side of that helix, an extended loop arising from the middle of an ABC-specific anti-parallel β-region contains an aromatic residue against which the nucleotide base stacks</otmi:snippet>
+              <otmi:snippet>On the other side of the coin, small molecule inhibitors will be used in the near future against CFTR channels in the intestinal tract to combat excessive fluid loss, not least in travellers&apos; diarrhoea.</otmi:snippet>
+              <otmi:snippet>Once ATP binds to homologous nucleotide-interacting motifs in the two NBDs, these domains are thought to approach each other closely, sandwiching two ATPs in the NBD1–NBD2 interface</otmi:snippet>
+              <otmi:snippet>Once phosphorylated, CFTR channels need ATP to open normally; they close within 1 s of ATP withdrawal ( Fig. 1a ) and tend to stay shut until ATP is restored</otmi:snippet>
+              <otmi:snippet>One clue that the CFTR-channel open state corresponds to the heterodimerized NBD1–NBD2 conformation comes from the 1,000-fold stabilization of the open state ( Fig. 4b ) caused by the mutation E1371Q of the Walker B Glu (the possible catalytic base )</otmi:snippet>
+              <otmi:snippet>Opening and closing of the CFTR pore are now believed to be linked to formation and disruption of a tight NBD1–NBD2 complex, driven by ATP binding and hydrolysis events ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>Opening of a CFTR channel can then be viewed as being triggered by a pincer-like drawing together of ATP-bound NBD1 and ATP-bound NBD2, as inferred from the relative positions of dimerized bacterial NBDs in the presence and absence of ATP ( Fig. 5a, b )</otmi:snippet>
+              <otmi:snippet>Other CF-causing mutations lead to truncated protein or to full-length channels with reduced chloride-transport capacity because they either spend a smaller fraction of time open, or when open, conduct chloride ions more slowly than normal</otmi:snippet>
+              <otmi:snippet>Outlook Although progress is being made, much remains to be learned about CFTR, including the structures and locations of the anion pore in the transmembrane domain, of its gate and of the R domain</otmi:snippet>
+              <otmi:snippet>Overview of CFTR structure and function As ABC proteins occupy up to 5% of each prokaryotic genome sequenced, there are thousands of examples of them, although few have been studied in any depth</otmi:snippet>
+              <otmi:snippet>Phosphorylated CFTR channels can be opened by a broad range of nucleoside triphosphates, including ATP, GTP, ITP, UTP, CTP, AMP-CPP and 8-azido-ATP </otmi:snippet>
+              <otmi:snippet>Phosphorylation of the R domain Gating of the CFTR channel is strictly dependent on R-domain phosphorylation by PKA</otmi:snippet>
+              <otmi:snippet>Photolabelling of CFTR with 8-azido nucleotide, followed by separation of NBD1- and NBD2-containing fragments, confirmed binding to both NBD1 and NBD2</otmi:snippet>
+              <otmi:snippet>Physical association of the R domain with CFTR&apos;s N terminus might be required for channel activation by PKA and might be promoted by R-domain phosphorylation </otmi:snippet>
+              <otmi:snippet>Present treatment of cystic fibrosis is essentially symptomatic, and although average life expectancy for CF patients is now just over 30 years, there is as yet no cure</otmi:snippet>
+              <otmi:snippet>Recent crystal structures of NBD1 of CFTR show that it, too, conforms to the established NBD architecture, although its ABC-specific β-sheet includes a long, inserted loop, not found in other NBDs, and whose shape and position are still unclear</otmi:snippet>
+              <otmi:snippet>Results like these have fostered notions of redundancy among serines in a structureless R domain, and of action by accumulated negative charge </otmi:snippet>
+              <otmi:snippet>Second, measurements of the energetics of channel gating revealed that a residue near the NBD1 signature sequence and another in the NBD2 Walker A motif make an energetically favourable interaction when the channels are open, or in the transition state ( Fig. 1b ) between closed and open states</otmi:snippet>
+              <otmi:snippet>Sequence analysis suggests that CFTR&apos;s asymmetric catalytic interface, with one active and one dead composite site, may be characteristic of all ABC-C subfamily members (CFTR, MRPs and SURs) but not of ABC proteins in general</otmi:snippet>
+              <otmi:snippet>Similar differences in the NBDs are found in CFTR&apos;s closest relatives in the human genome</otmi:snippet>
+              <otmi:snippet>So each CFTR channel seems to be constructed from just one CFTR polypeptide</otmi:snippet>
+              <otmi:snippet>So loss of inhibition by the unphosphorylated R domain can account for over half of the more than two orders of magnitude increase in open probability of intact wild-type CFTR channels upon phosphorylation </otmi:snippet>
+              <otmi:snippet>So mechanisms inferred for CFTR are likely to apply also to MRP and SUR</otmi:snippet>
+              <otmi:snippet>So the closed conformation of the pore might be stabilized (relative to the open conformation) by an action on the TMDs of the unphosphorylated R domain that requires its covalent attachment to transmembrane helix 7? That interaction could be relieved by R-domain phosphorylation — perhaps through its association with some other part of the channel — and the free energy difference between open- and closed-state conformations thereby lowered sufficiently to enable ATP-mediated closed-to-open transitions</otmi:snippet>
+              <otmi:snippet>So when the mutant gene was found to encode an ABC transporter homologue, with several consensus sites for phosphorylation by PKA, its product was suggested to regulate chloride channels by pumping out a cytoplasmic inhibitor: hence the name, CFTR </otmi:snippet>
+              <otmi:snippet>Statistical analysis of sequence alignments may reveal sets of positions at which amino-acid distributions are correlated</otmi:snippet>
+              <otmi:snippet>Statistical analysis of these sequences suggests that the two residues that hydrogen bond across the ATP-bound NBD dimer interface (that is, the &quot;R555 equivalent&quot; and &quot;T1246 equivalent&quot; residues) were subject to evolutionary pressure as a pair, rather than individually</otmi:snippet>
+              <otmi:snippet>That channel-opening signal would be sustained until hydrolysis of one of the ATPs leads to disruption of the NBD1–NBD2 interface and separation of the NBDs</otmi:snippet>
+              <otmi:snippet>The CFTR pore Where is the pore in CFTR? Few systematic mutational studies have been attempted, making the residues that contribute to CFTR&apos;s anion pore uncertain</otmi:snippet>
+              <otmi:snippet>The NBD structures all reveal the same basic fold, with highly conserved sequence motifs positioned to interact with bound ATP ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>The R domain comprises the 200 residues linking NBD1 to TMD2 and contains multiple consensus sites for phosphorylation by PKA; up to six have been found phosphorylated in cells and up to eight in isolated CFTR </otmi:snippet>
+              <otmi:snippet>The R domain does not seem to prevent ATP from binding at the NBDs or hydrolysis, because phosphorylation is reported not to alter photolabelling by 8-azido-ATP </otmi:snippet>
+              <otmi:snippet>The all-too-common deadly disease of young people, cystic fibrosis (CF), is caused by failure of a chloride-ion channel with the unwieldy name of CFTR, standing for cystic fibrosis transmembrane conductance regulator</otmi:snippet>
+              <otmi:snippet>The amino-acid sequence of CFTR immediately identified it as a member of the superfamily of ATP-binding cassette (ABC) transporter ATPases</otmi:snippet>
+              <otmi:snippet>The broad conservation of NBD-sequence motifs throughout prokaryotic and eukaryotic ABC proteins, and specific conservation of the structural underpinnings of the hydrogen bond found to undergo dynamic changes during the gating cycle of CFTR channels, implies that such NBD dimerization is crucial to the function of most ABC proteins</otmi:snippet>
+              <otmi:snippet>The corresponding two residues (labelled &quot;R555 equivalent&quot; and &quot;T1246 equivalent&quot; in Fig. 5b ) in bacterial NBD homodimers are indeed linked by a hydrogen bond in the ATP-bound, tightly dimerized conformation ( Fig. 5a ) but not in the nucleotide-free, &quot;open dimer&quot; conformation ( Fig. 5b )</otmi:snippet>
+              <otmi:snippet>The fact that neutralization of the Walker A Lys at either the NBD1 or the NBD2 composite site severely impairs channel opening at low ATP concentrations ( Fig. 3 , but compare it with ref. 65 ) implies that ATP binding at either site can be made rate limiting</otmi:snippet>
+              <otmi:snippet>The focus of most attention has been the sixth putative membrane-spanning helix in TMD1 (gold helix, Fig. 2b ), whose cytoplasmic extension connects TMD1 to NBD1</otmi:snippet>
+              <otmi:snippet>The frequency of CFTR-channel opening increases with ATP concentration along a Michaelis curve and is half maximal at about 50 µM ATP ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>The gate that regulates chloride-ion flow through the membrane-spanning pore in CFTR is thought to be opened when ATP binds to CFTR&apos;s two cytoplasmic nucleotide-binding domains (NBD1 and NBD2) and, acting as molecular glue, holds them together</otmi:snippet>
+              <otmi:snippet>The homologous Glu-to-Gln mutation in bacterial NBDs was required to produce the highly stable ATP-bound homodimers needed for crystallization </otmi:snippet>
+              <otmi:snippet>The idea that ATP hydrolysis sets the timing of normal CFTR-channel closure is further supported by the strong dependence of channel closing rate on Mg 2+ concentration and on temperature (activation enthalpy, 70 kJ mol -1 ) </otmi:snippet>
+              <otmi:snippet>The other interfacial site, the &quot;NBD1 composite&quot; site, includes non-canonical residues from NBD1 Walker B (Ser instead of Glu) and switch (Ser instead of His) motifs, as well as from the NBD2 signature sequence (LSHGH instead of LSGGQ)</otmi:snippet>
+              <otmi:snippet>The puzzle was solved by biochemical demonstration of nucleotide-induced dimerization of bacterial NBDs , and by crystal structures that showed rotationally symmetric &quot;head-to-tail&quot; NBD homodimers (compare with Fig. 2a )</otmi:snippet>
+              <otmi:snippet>The sign and magnitude of that coupling energy are consistent with formation of a hydrogen bond between these interacting residues as the channel opens</otmi:snippet>
+              <otmi:snippet>The slow opening step is also highly temperature sensitive (activation enthalpy ≥100 kJ mol -1 ) </otmi:snippet>
+              <otmi:snippet>The step is also dependent on Mg 2+ and, at saturating ATP concentrations, in the absence of Mg 2+ ions, occurs at only &lt;2% of the maximal rate seen in their presence </otmi:snippet>
+              <otmi:snippet>The structural and mechanistic detail relevant to ABC-C proteins that can be gleaned from studies of symmetric, homodimeric ABC proteins is therefore limited</otmi:snippet>
+              <otmi:snippet>The structure and disposition of the R domain, lacking in other ABC proteins, is completely unknown and so is omitted from Fig. 2b (it must somehow connect the red spacefill residues, marked Rd)</otmi:snippet>
+              <otmi:snippet>The transduction pathway by which conformational rearrangements at the NBDs are transmitted through the protein to the transmembrane domains is not known for any ABC protein</otmi:snippet>
+              <otmi:snippet>The unphosphorylated R domain exerts an inhibitory influence on CFTR channel gating that can be relieved by phosphorylating it, or deleting it </otmi:snippet>
+              <otmi:snippet>Their lower avidity for water also keeps larger anions in the pore longer, allowing them to impair chloride-ion flow by competition </otmi:snippet>
+              <otmi:snippet>Therapeutic efforts are therefore centred on restoring the activity of mutant CFTR or enhancing alternative pathways for anion flow</otmi:snippet>
+              <otmi:snippet>Thermodynamic mutant-cycle analysis in CFTR could then be used to test whether statistical coupling reflects conservation of a network of energetically coupled residues that mediates transmission of allosteric signals</otmi:snippet>
+              <otmi:snippet>These are the multidrug-resistance-related proteins (MRPs), which are ATP-driven efflux pumps, and the sulphonylurea receptors (SURs), which associate with inward rectifier potassium-ion channels to form nucleotide-sensitive potassium conductance (see the review in this issue by Nichols, p. 470 )</otmi:snippet>
+              <otmi:snippet>These characteristics imply a fairly featureless interior of the CFTR pore where no region makes very intimate contact with permeating chloride ions </otmi:snippet>
+              <otmi:snippet>These characteristics suggested that the process that usually opens CFTR channels is likely to be formation of an ATP-driven tight NBD1–NBD2 heterodimeric interaction ( Figs 1b and 2d ), which is analogous to the homodimeric interaction ( Figs 2a, c , 5a ) found in biochemical and structural studies of bacterial NBDs </otmi:snippet>
+              <otmi:snippet>These include measurements of the ease of entering the pore and of passing through it, for a variety of monovalent anions, and measurements of the influence of covalent modification of introduced cysteines (reviewed in ref. 20 )</otmi:snippet>
+              <otmi:snippet>These nucleotide-bound NBD dimers enclosed two ATP molecules in interfacial composite sites, each comprising ATP-interacting motifs from the &quot;head&quot; of one monomer and signature sequence residues from the &quot;tail&quot; of the other ( Fig. 2a, c )</otmi:snippet>
+              <otmi:snippet>These structural diagrams serve to illustrate the relative positioning of the transmembrane domains, cytoplasmic linking segments and NBDs, and concur with a low-resolution map from cryo-electron crystallography of 2D crystals of CFTR</otmi:snippet>
+              <otmi:snippet>They conform to a modular architecture, thought to comprise two transmembrane domains (TMDs), with typically six membrane-spanning α-helices each, and two cytoplasmic NBDs</otmi:snippet>
+              <otmi:snippet>They seem to have co-evolved to retain the ability to form a hydrogen bond that precisely spaces their α-carbon atoms in the dimer (as in Fig. 5a )</otmi:snippet>
+              <otmi:snippet>This all suggests that hydrolysis of 8-azido-ATP is rapid at the NBD2 composite catalytic site but negligibly slow at the NBD1 composite site, even at 30 °C </otmi:snippet>
+              <otmi:snippet>This channel allowed chloride ions to flow equally readily in either direction, though at modest rates (conductance ≤10 pS; for example, see ref. 6 )</otmi:snippet>
+              <otmi:snippet>This contrasts with the close embrace of potassium ions by rings of backbone carbonyl oxygens in the selectivity filter of potassium channels</otmi:snippet>
+              <otmi:snippet>This is because excision of neither segment vitiated the strict dependence of channel gating on phosphorylation by PKA </otmi:snippet>
+              <otmi:snippet>This is most easily seen from the markedly delayed step-like closure of individual mutant channels after sudden withdrawal of ATP ( Fig. 4b ) compared with the rapid closure of wild-type CFTR channels ( Figs 1a , 4a )</otmi:snippet>
+              <otmi:snippet>This lies at the N terminus of a helix adjacent to a parallel β-sheet tipped by loops (one including the Walker B sequence (orange, Fig. 2 ), another including a &quot;switch&quot; His (light green, Fig. 2 )) that contact the γ phosphate of ATP in an F 1 -ATPase-like ATP-binding core</otmi:snippet>
+              <otmi:snippet>This means that binding of ATP limits channel opening at low concentrations, but at saturating ATP concentrations some other slow step controls how quickly the channel can open once ATP has bound</otmi:snippet>
+              <otmi:snippet>This question could be addressed by further examination of the extensive evolutionary record for ABC proteins</otmi:snippet>
+              <otmi:snippet>This strongly supports a cyclic, dynamic restructuring of the NBD1–NBD2 heterodimeric interface during the CFTR-channel gating cycle</otmi:snippet>
+              <otmi:snippet>This suggests that ATP normally occupies both sites before a channel opens (but compare with ref. 67 )</otmi:snippet>
+              <otmi:snippet>This was because CF epithelia behaved as though they were impermeable to chloride , and chloride channels could be activated by cAMP-dependent protein kinase (PKA) in normal but not in CF airway epithelium </otmi:snippet>
+              <otmi:snippet>Thus, at saturating [ATP], the open probability of CFTR channels cut in half and lacking the R domain is 60% of that of fully phosphorylated CFTR channels similarly cut in half but retaining the entire CFTR sequence, including the R domain (which all testifies to the nature of CFTR&apos;s modular ABC-protein architecture)</otmi:snippet>
+              <otmi:snippet>Two CFTR polypeptides can associate , at least through their carboxy-terminal PDZ-domain-binding motifs </otmi:snippet>
+              <otmi:snippet>Upon this intramolecular heterodimer-like interaction, a signal would be transmitted through cytoplasmic-linking domains to open the gate in the transmembrane domain ( Fig. 1b , grey)</otmi:snippet>
+              <otmi:snippet>Vast spans of the TMDs have not yet received attention (for example, helices 7 to 10), and effects on anion conduction of mutations at selected positions in helices 1 to 5 and 11 are not yet fully understood </otmi:snippet>
+              <otmi:snippet>We call that site the &quot;NBD2 composite&quot; site, as NBD2 contributes its nucleotide-binding residues of the Walker motifs, the residues that hold ATP in ATP-bound NBD monomers</otmi:snippet>
+              <otmi:snippet>Whereas potassium channels need to discriminate between similarly sized sodium and potassium ions, CFTR channels face the simpler task of distinguishing chloride (and probably bicarbonate) from larger anions such as phosphate and sulphate</otmi:snippet>
+              <otmi:snippet>Without anion flow, water movement slows, and dehydrated mucus clogs ducts and collects in the lung where it fosters ultimately lethal bacterial infections</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Opening and closing of CFTR channels.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , CFTR&apos;s regulatory (R) domain must be phosphorylated by PKA before ATP is able to support channel opening. The recording shows chloride current flow through individual CFTR channels upon opening. Endogenous membrane-attached phosphatases partly dephosphorylate the R domain on PKA withdrawal, reducing the probability of finding a channel open. But channels do not stop opening until ATP is removed; numbers of simultaneously open channels are indicated at the right. b , Present structural interpretation of ATP-dependent gating cycle of phosphorylated CFTR channels. The R domain is omitted. ATP (yellow) remains tightly bound to NBD1 (green) Walker motifs for several minutes, during which time many closed–open–closed gating cycles occur. ATP binding to NBD2 (blue) is followed by a slow channel opening step (C 2 -to-Open) that proceeds through a transition state (square brackets) in which the intramolecular NBD1–NBD2 tight heterodimer is formed but the transmembrane pore (grey rectangles) has not yet opened. The relatively stable open state becomes destabilized by hydrolysis of the ATP bound at the NBD2 composite catalytic site and loss of the hydrolysis product, inorganic phosphate (Pi). The ensuing disruption of the tight dimer interface leads to channel closure.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Possible structure and organization of domains in CFTR.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Homology model of CFTR NBD heterodimer (NBD1 in green, NBD2 in blue) based on several ATP (yellow) bound NBD crystals, including human CFTR NBD1 F508A and dimeric MJ0796 , MalK and HlyB . b , Highly speculative homology model of CFTR including its two TMDs (grey) modelled on bacterial MsbA structures . Each TMD comprises cytoplasmic segments that link membrane-embedded α-helices (one directly) to the NBDs (colour-coded as in a ). Membrane-spanning helix 6 (gold) has been implicated in forming part of the anion-permeation pathway, and positively charged residues (blue-green) in it are thought to recruit anions into an outer vestibule. In CF patients, deletion of Phe 508 (purple), at the interface between NBD1 and TMD1 causes post-translational misfolding and degradation . c , d , Illustrations contrasting NBD-homodimer ( c ; for example, MJo796 and MalK ) consensus catalytic site residues (for example, MJ0796 aand MalK) and expected CFTR NBD1–NBD2 heterodimer ( d ) with only one consensus catalytic site.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>The conserved Walker A lysine is critical for ATP binding in each NBD.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Dependence on cytoplasmic-surface ATP concentration of rate of channel opening for wild-type CFTR (WT) and for CFTR channels with a single mutation of the NBD1 (K464) or NBD2 (K1250) Walker A lysine. Either mutation lowers the apparent affinity for ATP-dependent channel opening, implying that ATP normally binds at both sites before a channel opens. b , Diagram illustrating the simplest interpretation of results in a . At lower [ATP], channel opening is limited by low success rate of ATP binding to the composite site that harbours the mutation (red star) of the conserved lysine. ATP first binds to the non-mutant site, that is to the NBD2 site (blue) in K464A channels (upper row), but to the NDB1 site (green) in K1250A channels (lower row). When at higher concentrations, ATP also occupies the mutant site, the NBDs dimerize and the channel opens.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>ATP hydrolysis prompts channel closure.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Comparison of speed of closing of wild-type CFTR ( a ) and of mutant CFTR bearing the single mutation E1371Q ( b ), of the conserved Walker B glutamate. This glutamate is required for ATP hydrolysis, but not for binding of ATP . The greatly delayed closing of all four E1371Q channels ( b ), compared with the four WT CFTR channels ( a ), after removal of ATP supports the conclusion that ATP hydrolysis at the NBD2 composite catalytic site controls normal channel closing , and that the channel open-burst state corresponds to NBD dimerization .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Structures of the MalK homodimer.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The MalK homodimer was crystallized with ( a ) and without ( b ) ATP (yellow). The structures illustrate pincer-like motion of MalK that closes the catalytic interface upon binding of two ATP molecules . The residues corresponding to CFTR R555 (blue) and T1246 (red) form a hydrogen bond ( a , dotted line) linking Walker A of one subunit with the signature sequence of the other, only in the ATP-bound crystal ( a ).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/301421a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/330752a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/331358a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(92)90155-6</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0955-0674(03)00084-X</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.pharmthera.2005.04.004</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nsmb882</otmi:refid>
+          <otmi:refid>info:doi/10.1101/gr.GR-1649R</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1107733</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1071142</otmi:refid>
+          <otmi:refid>info:doi/10.1042/BJ20030683</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.031538898</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s00232-001-0174-2</otmi:refid>
+          <otmi:refid>info:doi/10.1038/352628a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/25393</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)80890-9</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(02)00576-2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.molcel.2003.08.004</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600657</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.C200228200</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600040</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nsmb881</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M407434200</otmi:refid>
+          <otmi:refid>info:doi/10.1038/366079a0</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.274.9.5429</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(91)90446-6</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.272.8.4978</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2002.035790</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.116.3.477</otmi:refid>
+          <otmi:refid>info:doi/10.1038/38514</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.100588797</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi00179a036</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1469-7793.2000.00259.x</otmi:refid>
+          <otmi:refid>info:doi/10.1006/bbrc.1995.1029</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M111713200</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308798</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi962174s</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.286.5439.544</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600747</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(91)90072-7</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.20028673</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2001.013162</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0408575102</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200409228</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.274.18.12209</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.biochem.73.011303.073626</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nsmb836</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi982243y</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(95)90310-0</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.270.4.1711</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.20028594</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s002329900370</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0896-6273(94)90206-2</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.270.33.19383</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0014-5793(98)00713-3</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03313</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M404689200</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.286.5438.295</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/cdg194</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.R500009200</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200409059</otmi:refid>
+          <otmi:refsnoid>26</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

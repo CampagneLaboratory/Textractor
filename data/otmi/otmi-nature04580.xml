@@ -1,0 +1,864 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Significant primordial star formation at redshifts z ≈ 3–4</title>
+      <id>info:doi/10.1038/nature04580</id>
+      <link href='http://dx.doi.org/10.1038/nature04580' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Raul Jimenez</name>
+      </author>
+      <author>
+        <name>Zoltan Haiman</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>501</prism:startingPage>
+      <prism:endingPage>504</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Four recent observational results have challenged our understanding of high-redshift galaxies, as they require the presence of far more ultraviolet photons than should be emitted by normal stellar populations. First, there is significant ultraviolet emission from Lyman break galaxies (LBGs) at wavelengths shorter than 912 Å. Second, there is strong Lyman α emission from extended ‘blobs’ with little or no associated apparent ionizing continuum. Third, there is a population of galaxies with unusually strong Lyman α emission lines . And fourth, there is a strong He ii (1,640 Å) emission line in a composite of LBGs. The proposed explanations for the first three observations are internally inconsistent, and the fourth puzzle has remained hitherto unexplained. Here we show that all four problems are resolved simultaneously if 10–30 per cent of the stars in many galaxies at z ≈ 3–4 are mainly primordial—unenriched by elements heavier than helium (‘metals’). Most models of hierarchical galaxy formation assume efficient intragalactic metal mixing, and therefore do not predict metal-free star formation at redshifts significantly below z ≈ 5. Our results imply that micromixing of metals within galaxies is inefficient on an approximately gigayear timescale, a conclusion that can be verified with higher-resolution simulations, and future observations of the He ii emission line.</otmi:rawtext>
+            <otmi:reducedtext>Four recent observational results have challenged our understanding high-redshift galaxies, they require presence far more ultraviolet photons than should emitted normal stellar populations. First, there significant ultraviolet emission Lyman break galaxies (LBGs) at wavelengths shorter than 912 Å. Second, there strong Lyman α emission extended ‘blobs’  little no associated apparent ionizing continuum. Third, there population galaxies unusually strong Lyman α emission lines . fourth, there strong He ii (1,640 Å) emission line composite LBGs. proposed explanations first three observations internally inconsistent, fourth puzzle has remained hitherto unexplained. Here show all four problems resolved simultaneously if 10–30 per cent stars many galaxies at z ≈ 3–4 mainly primordial—unenriched elements heavier than helium (‘metals’). Most models hierarchical galaxy formation assume efficient intragalactic metal mixing, therefore do not predict metal-free star formation at redshifts significantly below z ≈ 5. Our results imply micromixing metals within galaxies inefficient approximately gigayear timescale, conclusion can verified higher-resolution simulations, future observations He ii emission line.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>emission</otmi:vector>
+              <otmi:vector count='5'>galaxies</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='3'>strong</otmi:vector>
+              <otmi:vector count='3'>Lyman</otmi:vector>
+              <otmi:vector count='3'>than</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='2'>metals</otmi:vector>
+              <otmi:vector count='2'>fourth</otmi:vector>
+              <otmi:vector count='2'>z</otmi:vector>
+              <otmi:vector count='2'>observations</otmi:vector>
+              <otmi:vector count='2'>ultraviolet</otmi:vector>
+              <otmi:vector count='2'>He</otmi:vector>
+              <otmi:vector count='2'>formation</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>ii</otmi:vector>
+              <otmi:vector count='2'>LBGs</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>assume</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>challenged</otmi:vector>
+              <otmi:vector count='1'>higher-resolution</otmi:vector>
+              <otmi:vector count='1'>line.</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>unusually</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>apparent</otmi:vector>
+              <otmi:vector count='1'>hitherto</otmi:vector>
+              <otmi:vector count='1'>3–4</otmi:vector>
+              <otmi:vector count='1'>metal</otmi:vector>
+              <otmi:vector count='1'>ionizing</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>heavier</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>primordial—unenriched</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>observational</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>emitted</otmi:vector>
+              <otmi:vector count='1'>stellar</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>912</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>composite</otmi:vector>
+              <otmi:vector count='1'>cent</otmi:vector>
+              <otmi:vector count='1'>shorter</otmi:vector>
+              <otmi:vector count='1'>metal-free</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>micromixing</otmi:vector>
+              <otmi:vector count='1'>internally</otmi:vector>
+              <otmi:vector count='1'>inefficient</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>approximately</otmi:vector>
+              <otmi:vector count='1'>population</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>Third</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>stars</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>simultaneously</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>Four</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>break</otmi:vector>
+              <otmi:vector count='1'>wavelengths</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>star</otmi:vector>
+              <otmi:vector count='1'>gigayear</otmi:vector>
+              <otmi:vector count='1'>blobs</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>verified</otmi:vector>
+              <otmi:vector count='1'>remained</otmi:vector>
+              <otmi:vector count='1'>unexplained</otmi:vector>
+              <otmi:vector count='1'>continuum</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>high-redshift</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>resolved</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>photons</otmi:vector>
+              <otmi:vector count='1'>populations</otmi:vector>
+              <otmi:vector count='1'>efficient</otmi:vector>
+              <otmi:vector count='1'>1,640</otmi:vector>
+              <otmi:vector count='1'>puzzle</otmi:vector>
+              <otmi:vector count='1'>intragalactic</otmi:vector>
+              <otmi:vector count='1'>helium</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>redshifts</otmi:vector>
+              <otmi:vector count='1'>inconsistent</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>hierarchical</otmi:vector>
+              <otmi:vector count='1'>explanations</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>galaxy</otmi:vector>
+              <otmi:vector count='1'>10–30</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>And fourth, there is a strong He ii (1,640 Å) emission line in a composite of LBGs</otmi:snippet>
+              <otmi:snippet>First, there is significant ultraviolet emission from Lyman break galaxies (LBGs) at wavelengths shorter than 912 Å</otmi:snippet>
+              <otmi:snippet>Four recent observational results have challenged our understanding of high-redshift galaxies, as they require the presence of far more ultraviolet photons than should be emitted by normal stellar populations</otmi:snippet>
+              <otmi:snippet>Here we show that all four problems are resolved simultaneously if 10–30 per cent of the stars in many galaxies at z ≈ 3–4 are mainly primordial—unenriched by elements heavier than helium (‘metals’)</otmi:snippet>
+              <otmi:snippet>Most models of hierarchical galaxy formation assume efficient intragalactic metal mixing, and therefore do not predict metal-free star formation at redshifts significantly below z ≈ 5</otmi:snippet>
+              <otmi:snippet>Our results imply that micromixing of metals within galaxies is inefficient on an approximately gigayear timescale, a conclusion that can be verified with higher-resolution simulations, and future observations of the He ii emission line.</otmi:snippet>
+              <otmi:snippet>Second, there is strong Lyman α emission from extended ‘blobs’ with little or no associated apparent ionizing continuum</otmi:snippet>
+              <otmi:snippet>The proposed explanations for the first three observations are internally inconsistent, and the fourth puzzle has remained hitherto unexplained</otmi:snippet>
+              <otmi:snippet>Third, there is a population of galaxies with unusually strong Lyman α emission lines </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='36'>stars</otmi:vector>
+              <otmi:vector count='21'>metal-free</otmi:vector>
+              <otmi:vector count='18'>observed</otmi:vector>
+              <otmi:vector count='18'>Z</otmi:vector>
+              <otmi:vector count='17'>at</otmi:vector>
+              <otmi:vector count='17'>LBGs</otmi:vector>
+              <otmi:vector count='15'>population</otmi:vector>
+              <otmi:vector count='15'>ref</otmi:vector>
+              <otmi:vector count='15'>stellar</otmi:vector>
+              <otmi:vector count='14'>equivalent</otmi:vector>
+              <otmi:vector count='14'>have</otmi:vector>
+              <otmi:vector count='13'>line</otmi:vector>
+              <otmi:vector count='12'>photons</otmi:vector>
+              <otmi:vector count='12'>flux</otmi:vector>
+              <otmi:vector count='11'>10</otmi:vector>
+              <otmi:vector count='11'>formation</otmi:vector>
+              <otmi:vector count='11'>C</otmi:vector>
+              <otmi:vector count='11'>not</otmi:vector>
+              <otmi:vector count='10'>Ly</otmi:vector>
+              <otmi:vector count='10'>star</otmi:vector>
+              <otmi:vector count='10'>III</otmi:vector>
+              <otmi:vector count='10'>spectrum</otmi:vector>
+              <otmi:vector count='9'>about</otmi:vector>
+              <otmi:vector count='9'>than</otmi:vector>
+              <otmi:vector count='9'>ii</otmi:vector>
+              <otmi:vector count='9'>absorption</otmi:vector>
+              <otmi:vector count='9'>widths</otmi:vector>
+              <otmi:vector count='9'>He</otmi:vector>
+              <otmi:vector count='9'>emission</otmi:vector>
+              <otmi:vector count='8'>model</otmi:vector>
+              <otmi:vector count='8'>F</otmi:vector>
+              <otmi:vector count='8'>iv</otmi:vector>
+              <otmi:vector count='8'>models</otmi:vector>
+              <otmi:vector count='8'>ionizing</otmi:vector>
+              <otmi:vector count='8'>1,500</otmi:vector>
+              <otmi:vector count='8'>can</otmi:vector>
+              <otmi:vector count='7'>been</otmi:vector>
+              <otmi:vector count='7'>significantly</otmi:vector>
+              <otmi:vector count='7'>continuum</otmi:vector>
+              <otmi:vector count='7'>IMF</otmi:vector>
+              <otmi:vector count='7'>1,640</otmi:vector>
+              <otmi:vector count='7'>z</otmi:vector>
+              <otmi:vector count='7'>3</otmi:vector>
+              <otmi:vector count='7'>massive</otmi:vector>
+              <otmi:vector count='7'>composite</otmi:vector>
+              <otmi:vector count='6'>large</otmi:vector>
+              <otmi:vector count='6'>spectra</otmi:vector>
+              <otmi:vector count='6'>value</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='6'>normal</otmi:vector>
+              <otmi:vector count='6'>found</otmi:vector>
+              <otmi:vector count='6'>galaxy</otmi:vector>
+              <otmi:vector count='6'>galaxies</otmi:vector>
+              <otmi:vector count='5'>see</otmi:vector>
+              <otmi:vector count='5'>escape</otmi:vector>
+              <otmi:vector count='5'>populations</otmi:vector>
+              <otmi:vector count='5'>our</otmi:vector>
+              <otmi:vector count='5'>blobs</otmi:vector>
+              <otmi:vector count='5'>width</otmi:vector>
+              <otmi:vector count='5'>number</otmi:vector>
+              <otmi:vector count='5'>therefore</otmi:vector>
+              <otmi:vector count='5'>case</otmi:vector>
+              <otmi:vector count='5'>B</otmi:vector>
+              <otmi:vector count='5'>should</otmi:vector>
+              <otmi:vector count='5'>M</otmi:vector>
+              <otmi:vector count='5'>30</otmi:vector>
+              <otmi:vector count='4'>However</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>f</otmi:vector>
+              <otmi:vector count='4'>predict</otmi:vector>
+              <otmi:vector count='4'>912</otmi:vector>
+              <otmi:vector count='4'>any</otmi:vector>
+              <otmi:vector count='4'>100</otmi:vector>
+              <otmi:vector count='4'>do</otmi:vector>
+              <otmi:vector count='4'>would</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>bluest</otmi:vector>
+              <otmi:vector count='4'>refs</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>winds</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='4'>metallicity</otmi:vector>
+              <otmi:vector count='4'>observations</otmi:vector>
+              <otmi:vector count='4'>sample</otmi:vector>
+              <otmi:vector count='4'>fraction</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>trend</otmi:vector>
+              <otmi:vector count='4'>Our</otmi:vector>
+              <otmi:vector count='4'>will</otmi:vector>
+              <otmi:vector count='4'>colours</otmi:vector>
+              <otmi:vector count='4'>5</otmi:vector>
+              <otmi:vector count='4'>which</otmi:vector>
+              <otmi:vector count='4'>implies</otmi:vector>
+              <otmi:vector count='4'>strength</otmi:vector>
+              <otmi:vector count='4'>range</otmi:vector>
+              <otmi:vector count='3'>use</otmi:vector>
+              <otmi:vector count='3'>three</otmi:vector>
+              <otmi:vector count='3'>fact</otmi:vector>
+              <otmi:vector count='3'>2</otmi:vector>
+              <otmi:vector count='3'>because</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>presence</otmi:vector>
+              <otmi:vector count='3'>significant</otmi:vector>
+              <otmi:vector count='3'>constant</otmi:vector>
+              <otmi:vector count='3'>Salpeter</otmi:vector>
+              <otmi:vector count='3'>mean</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>cannot</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>consistent</otmi:vector>
+              <otmi:vector count='3'>Fe</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>broad</otmi:vector>
+              <otmi:vector count='3'>emitters</otmi:vector>
+              <otmi:vector count='3'>continuous</otmi:vector>
+              <otmi:vector count='3'>Although</otmi:vector>
+              <otmi:vector count='3'>account</otmi:vector>
+              <otmi:vector count='3'>Lyman</otmi:vector>
+              <otmi:vector count='3'>distribution</otmi:vector>
+              <otmi:vector count='3'>mass</otmi:vector>
+              <otmi:vector count='3'>radiation</otmi:vector>
+              <otmi:vector count='3'>17</otmi:vector>
+              <otmi:vector count='3'>above</otmi:vector>
+              <otmi:vector count='3'>individual</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>find</otmi:vector>
+              <otmi:vector count='3'>shows</otmi:vector>
+              <otmi:vector count='3'>component</otmi:vector>
+              <otmi:vector count='3'>esc</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='2'>fits</otmi:vector>
+              <otmi:vector count='2'>22</otmi:vector>
+              <otmi:vector count='2'>produced</otmi:vector>
+              <otmi:vector count='2'>910</otmi:vector>
+              <otmi:vector count='2'>detectable</otmi:vector>
+              <otmi:vector count='2'>300</otmi:vector>
+              <otmi:vector count='2'>ultraviolet</otmi:vector>
+              <otmi:vector count='2'>low-mass</otmi:vector>
+              <otmi:vector count='2'>while</otmi:vector>
+              <otmi:vector count='2'>produce</otmi:vector>
+              <otmi:vector count='2'>surprisingly</otmi:vector>
+              <otmi:vector count='2'>50</otmi:vector>
+              <otmi:vector count='2'>pockets</otmi:vector>
+              <otmi:vector count='2'>larger</otmi:vector>
+              <otmi:vector count='2'>imply</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>13</otmi:vector>
+              <otmi:vector count='2'>Wolf-Rayet</otmi:vector>
+              <otmi:vector count='2'>20</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>He-ionizing</otmi:vector>
+              <otmi:vector count='2'>authors</otmi:vector>
+              <otmi:vector count='2'>yr</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>required</otmi:vector>
+              <otmi:vector count='2'>age</otmi:vector>
+              <otmi:vector count='2'>LBG</otmi:vector>
+              <otmi:vector count='2'>require</otmi:vector>
+              <otmi:vector count='2'>I</otmi:vector>
+              <otmi:vector count='2'>increase</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>wavelengths</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>initial</otmi:vector>
+              <otmi:vector count='2'>dust</otmi:vector>
+              <otmi:vector count='2'>one-third</otmi:vector>
+              <otmi:vector count='2'>0.01</otmi:vector>
+              <otmi:vector count='2'>face</otmi:vector>
+              <otmi:vector count='2'>shown</otmi:vector>
+              <otmi:vector count='2'>H</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>similar</otmi:vector>
+              <otmi:vector count='2'>extended</otmi:vector>
+              <otmi:vector count='2'>bias</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>spread</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>does</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>4.5</otmi:vector>
+              <otmi:vector count='2'>amount</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>metal</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>predicts</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>intrinsic</otmi:vector>
+              <otmi:vector count='2'>0.5</otmi:vector>
+              <otmi:vector count='2'>future</otmi:vector>
+              <otmi:vector count='2'>Using</otmi:vector>
+              <otmi:vector count='2'>fewer</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>rest-frame</otmi:vector>
+              <otmi:vector count='2'>metals</otmi:vector>
+              <otmi:vector count='2'>gas</otmi:vector>
+              <otmi:vector count='2'>880</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>narrow</otmi:vector>
+              <otmi:vector count='2'>interstellar</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>when</otmi:vector>
+              <otmi:vector count='2'>total</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>0</otmi:vector>
+              <otmi:vector count='2'>table</otmi:vector>
+              <otmi:vector count='2'>ratio</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>35</otmi:vector>
+              <otmi:vector count='2'>explained</otmi:vector>
+              <otmi:vector count='2'>fit</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>clear</otmi:vector>
+              <otmi:vector count='2'>detailed</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>7</otmi:vector>
+              <otmi:vector count='2'>conclusions</otmi:vector>
+              <otmi:vector count='2'>level</otmi:vector>
+              <otmi:vector count='2'>producing</otmi:vector>
+              <otmi:vector count='2'>40</otmi:vector>
+              <otmi:vector count='2'>anti-correlation</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>note</otmi:vector>
+              <otmi:vector count='2'>opacity</otmi:vector>
+              <otmi:vector count='2'>assume</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>weaker</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>greater</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>adopt</otmi:vector>
+              <otmi:vector count='1'>Note</otmi:vector>
+              <otmi:vector count='1'>survey</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>1.0</otmi:vector>
+              <otmi:vector count='1'>overproduce</otmi:vector>
+              <otmi:vector count='1'>hierarchical</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>metal-enriched</otmi:vector>
+              <otmi:vector count='1'>5–9</otmi:vector>
+              <otmi:vector count='1'>caught</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>emerging</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>upper</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>surrounding</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>tight</otmi:vector>
+              <otmi:vector count='1'>intragalactic</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>plausibly</otmi:vector>
+              <otmi:vector count='1'>Supplementary</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>http:</otmi:vector>
+              <otmi:vector count='1'>5,000</otmi:vector>
+              <otmi:vector count='1'>decreasing</otmi:vector>
+              <otmi:vector count='1'>characterize</otmi:vector>
+              <otmi:vector count='1'>Sun</otmi:vector>
+              <otmi:vector count='1'>2.35</otmi:vector>
+              <otmi:vector count='1'>affects</otmi:vector>
+              <otmi:vector count='1'>resolved</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>modify</otmi:vector>
+              <otmi:vector count='1'>apply</otmi:vector>
+              <otmi:vector count='1'>puzzling</otmi:vector>
+              <otmi:vector count='1'>Recently</otmi:vector>
+              <otmi:vector count='1'>concern</otmi:vector>
+              <otmi:vector count='1'>superposition</otmi:vector>
+              <otmi:vector count='1'>gigayear</otmi:vector>
+              <otmi:vector count='1'>inspection</otmi:vector>
+              <otmi:vector count='1'>frequency</otmi:vector>
+              <otmi:vector count='1'>wavelength</otmi:vector>
+              <otmi:vector count='1'>compare</otmi:vector>
+              <otmi:vector count='1'>suggestion</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>450</otmi:vector>
+              <otmi:vector count='1'>slope</otmi:vector>
+              <otmi:vector count='1'>Detailed</otmi:vector>
+              <otmi:vector count='1'>1,000</otmi:vector>
+              <otmi:vector count='1'>240</otmi:vector>
+              <otmi:vector count='1'>optically</otmi:vector>
+              <otmi:vector count='1'>quoted</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>star-forming</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>section</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>ionising</otmi:vector>
+              <otmi:vector count='1'>profile</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>efficient</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>appears</otmi:vector>
+              <otmi:vector count='1'>presumably</otmi:vector>
+              <otmi:vector count='1'>nebular</otmi:vector>
+              <otmi:vector count='1'>lose</otmi:vector>
+              <otmi:vector count='1'>included</otmi:vector>
+              <otmi:vector count='1'>reddest</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>6.33</otmi:vector>
+              <otmi:vector count='1'>non-detections</otmi:vector>
+              <otmi:vector count='1'>Way</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>warn</otmi:vector>
+              <otmi:vector count='1'>100–500</otmi:vector>
+              <otmi:vector count='1'>6–7</otmi:vector>
+              <otmi:vector count='1'>reliable</otmi:vector>
+              <otmi:vector count='1'>sub-sample</otmi:vector>
+              <otmi:vector count='1'>cumulative</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>star-formation</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>limits</otmi:vector>
+              <otmi:vector count='1'>21</otmi:vector>
+              <otmi:vector count='1'>stacked</otmi:vector>
+              <otmi:vector count='1'>science</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>According</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>stages</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>composed</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>5.3</otmi:vector>
+              <otmi:vector count='1'>-5</otmi:vector>
+              <otmi:vector count='1'>earliest</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>fainter</otmi:vector>
+              <otmi:vector count='1'>Strong</otmi:vector>
+              <otmi:vector count='1'>amounts</otmi:vector>
+              <otmi:vector count='1'>150</otmi:vector>
+              <otmi:vector count='1'>N</otmi:vector>
+              <otmi:vector count='1'>23</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>stellar-wind</otmi:vector>
+              <otmi:vector count='1'>O</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>declines</otmi:vector>
+              <otmi:vector count='1'>paper</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>adding</otmi:vector>
+              <otmi:vector count='1'>14</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>assumed</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>naturally</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>blue</otmi:vector>
+              <otmi:vector count='1'>350</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>Taken</otmi:vector>
+              <otmi:vector count='1'>26</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>purely</otmi:vector>
+              <otmi:vector count='1'>bursts</otmi:vector>
+              <otmi:vector count='1'>agree</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>hundred</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>intergalactic</otmi:vector>
+              <otmi:vector count='1'>normal-only</otmi:vector>
+              <otmi:vector count='1'>0.02</otmi:vector>
+              <otmi:vector count='1'>0.013</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>compute</otmi:vector>
+              <otmi:vector count='1'>starburst99</otmi:vector>
+              <otmi:vector count='1'>29</otmi:vector>
+              <otmi:vector count='1'>overproduction</otmi:vector>
+              <otmi:vector count='1'>very-low-metallicity</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>1–100</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>emitted</otmi:vector>
+              <otmi:vector count='1'>half-maximum</otmi:vector>
+              <otmi:vector count='1'>panel</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>processed</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>chemical</otmi:vector>
+              <otmi:vector count='1'>measures</otmi:vector>
+              <otmi:vector count='1'>0.064</otmi:vector>
+              <otmi:vector count='1'>Gyr</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>puzzles</otmi:vector>
+              <otmi:vector count='1'>depend</otmi:vector>
+              <otmi:vector count='1'>wide</otmi:vector>
+              <otmi:vector count='1'>inefficient</otmi:vector>
+              <otmi:vector count='1'>(Subscript</otmi:vector>
+              <otmi:vector count='1'>3–5.</otmi:vector>
+              <otmi:vector count='1'>powering</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>consider</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>metallicities</otmi:vector>
+              <otmi:vector count='1'>0.4</otmi:vector>
+              <otmi:vector count='1'>Milky</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>explains</otmi:vector>
+              <otmi:vector count='1'>verified</otmi:vector>
+              <otmi:vector count='1'>neutral</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>threshold</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>0.8</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>temperature</otmi:vector>
+              <otmi:vector count='1'>atmospheres</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>modelled</otmi:vector>
+              <otmi:vector count='1'>20–30</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>masses</otmi:vector>
+              <otmi:vector count='1'>regarding</otmi:vector>
+              <otmi:vector count='1'>enrichment</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>Lyman-continuum</otmi:vector>
+              <otmi:vector count='1'>-3.5</otmi:vector>
+              <otmi:vector count='1'>normal-metallicity</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>km</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>emitter</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>requisite</otmi:vector>
+              <otmi:vector count='1'>mixture</otmi:vector>
+              <otmi:vector count='1'>bluer</otmi:vector>
+              <otmi:vector count='1'>rest</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>About</otmi:vector>
+              <otmi:vector count='1'>metal-poor</otmi:vector>
+              <otmi:vector count='1'>refers</otmi:vector>
+              <otmi:vector count='1'>unchanged</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>3.1</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>electronic</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>reports</otmi:vector>
+              <otmi:vector count='1'>numerical</otmi:vector>
+              <otmi:vector count='1'>aided</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>progenitors</otmi:vector>
+              <otmi:vector count='1'>900</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>3.4</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>micro-mixing</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>energetic</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>Long-integration</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>Alpha</otmi:vector>
+              <otmi:vector count='1'>0.023</otmi:vector>
+              <otmi:vector count='1'>output</otmi:vector>
+              <otmi:vector count='1'>reprocessing</otmi:vector>
+              <otmi:vector count='1'>rotation</otmi:vector>
+              <otmi:vector count='1'>subtraction</otmi:vector>
+              <otmi:vector count='1'>capable</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>70–100</otmi:vector>
+              <otmi:vector count='1'>steady</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>galactic</otmi:vector>
+              <otmi:vector count='1'>intervening</otmi:vector>
+              <otmi:vector count='1'>defined</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>supported</otmi:vector>
+              <otmi:vector count='1'>Area</otmi:vector>
+              <otmi:vector count='1'>outflows</otmi:vector>
+              <otmi:vector count='1'>thick</otmi:vector>
+              <otmi:vector count='1'>s</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>200</otmi:vector>
+              <otmi:vector count='1'>discussed</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>spectral</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>reproduce</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>Figure</otmi:vector>
+              <otmi:vector count='1'>reprocessed</otmi:vector>
+              <otmi:vector count='1'>www.stsci.edu</otmi:vector>
+              <otmi:vector count='1'>0.048</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>sensitive</otmi:vector>
+              <otmi:vector count='1'>redshift</otmi:vector>
+              <otmi:vector count='1'>necessarily</otmi:vector>
+              <otmi:vector count='1'>violate</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>assembly</otmi:vector>
+              <otmi:vector count='1'>shortward</otmi:vector>
+              <otmi:vector count='1'>broadband</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>full-width</otmi:vector>
+              <otmi:vector count='1'>longer</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>popIII</otmi:vector>
+              <otmi:vector count='1'>decrement</otmi:vector>
+              <otmi:vector count='1'>reveals</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>Large</otmi:vector>
+              <otmi:vector count='1'>possibly</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>median</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>Recent</otmi:vector>
+              <otmi:vector count='1'>sum</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>accounted</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>ages</otmi:vector>
+              <otmi:vector count='1'>figure</otmi:vector>
+              <otmi:vector count='1'>simulate</otmi:vector>
+              <otmi:vector count='1'>sky</otmi:vector>
+              <otmi:vector count='1'>high-resolution</otmi:vector>
+              <otmi:vector count='1'>ranges</otmi:vector>
+              <otmi:vector count='1'>template</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>drive</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>About one-third of the blobs have equivalent widths larger than 100 Å and therefore require metal-free stars</otmi:snippet>
+              <otmi:snippet>According to our prediction, the bluest LBGs should have weaker C iv absorption than the reddest LBGs, because population III stars are metal-free and therefore contribute significantly fewer metals</otmi:snippet>
+              <otmi:snippet>Although such low-mass stars (≲0.8 M ) are not included in our model, they reveal the details of the earliest stages of chemical enrichment, and suggest an initial overproduction of carbon</otmi:snippet>
+              <otmi:snippet>Although the authors of ref. 1 warn that sky background subtraction at the low observed flux level is a concern, we consider that, when taken at face value, their result implies that a surprisingly large fraction of ionizing photons can typically escape from these galaxies</otmi:snippet>
+              <otmi:snippet>Although this cannot be explained by stars without winds, it has been shown (see refs 20 , 21 ) that, aided by rotation, metal-free stars can lose significant amounts of mass and drive strong winds, similar to normal-metallicity stars</otmi:snippet>
+              <otmi:snippet>As discussed in ref. 4 , normal Wolf-Rayet stars cannot explain the He ii line observed in the composite LBG sample, because the requisite number of Wolf-Rayet stars will overproduce the stellar C iv emission</otmi:snippet>
+              <otmi:snippet>As shown in ref. 22 , there is a clear anti-correlation between the strength of the He ii 1,640 line and the C iv line (see figure 13 in ref. 22 for the case of Z = 0.01 and 10 -4 Z )</otmi:snippet>
+              <otmi:snippet>As the top panel in Fig. 1 shows, in the 880 Å ≤ λ ≤ 910 Å range, the mean observed flux is quite high, F ν / F 1,500 = 0.064 ± 0.013; while the normal-only star-formation model predicts a much lower value of F ν / F 1,500 = 0.023 ± 0.01 (here F ν and F 1,500 represent flux at frequency ν and wavelength 1,500 Å, respectively)</otmi:snippet>
+              <otmi:snippet>But the He-ionizing flux, and the He ii 1,640 equivalent width is reduced by about a factor of 6–7</otmi:snippet>
+              <otmi:snippet>Detailed inspection of table 3 of ref. 3 shows that the weaker strength of the C iv line requires an abundance of 50% population III stars in the bluest LBGs</otmi:snippet>
+              <otmi:snippet>Figure 2 shows that about 20–30% of the blobs also have continuum colours consistent with the stars that produce the ionizing Lyα photons being metal-free</otmi:snippet>
+              <otmi:snippet>For about one-third of the blobs, the number of photons provided by a normal stellar population that fits the observed spectrum at wavelengths longer than 912 Å is not capable of producing the required number of ionizing photons to explain the observed Ly α flux</otmi:snippet>
+              <otmi:snippet>For metal-free stars the equivalent width of the He ii 1,640 line for a continuous star-forming (1 M yr -1 ) model of metal-free stars at age 0.1 Gyr is 30 Å, significantly larger than observed</otmi:snippet>
+              <otmi:snippet>For models with constant star formation and Z &gt; 10 -5 Z the equivalent widths are 70–100 Å</otmi:snippet>
+              <otmi:snippet>For stars with [Fe/H] &lt; -3.5, 40% have [C/Fe] &gt; 1.0 (ref. 26 ) and the trend increases to 100% for stars with [Fe/H] &lt; -5</otmi:snippet>
+              <otmi:snippet>For the ‘metal-free’ component, we use the models of ref. 17 , and adopt the same Salpeter IMF, but limited to massive stars in the 100–500 M range , and with Z = 0</otmi:snippet>
+              <otmi:snippet>However, metal-free massive stars with winds do not have this problem</otmi:snippet>
+              <otmi:snippet>However, the equivalent width of the He ii 1,640 line is very sensitive to the metallicity</otmi:snippet>
+              <otmi:snippet>However, the equivalent widths are spread over a wide range: from 10 to 5,000 Å</otmi:snippet>
+              <otmi:snippet>However, the presence of significant pockets of metal-free star formation explains four puzzling observations, and this hypothesis does not violate any other existing observations</otmi:snippet>
+              <otmi:snippet>If we assume case B (two Ly α photons are produced for every three ionising photons from the stars) then a stellar population with Z = 10 -2 Z would produce at least 35% fewer photons than those necessary to account for the observed Ly α flux</otmi:snippet>
+              <otmi:snippet>If we use Z = 10 -7 Z (instead of Z = 0), then the 912 Å decrement does not change, so our conclusions above about the ultraviolet radiation from LBGs and the Ly α blobs remain unchanged</otmi:snippet>
+              <otmi:snippet>In particular, we predict that there should be a clear anti-correlation between He ii 1,640 and C iv line strength and this should be a reliable test of the amount of metal-free stars at z ≈ 3–5.</otmi:snippet>
+              <otmi:snippet>In the absence of such a bias in the IMF, the continuum flux emerging just below 912 Å will be dominated by low-mass stars and will be significantly fainter than observed</otmi:snippet>
+              <otmi:snippet>In this case, the He-ionizing photons from the massive population III stars will be reprocessed in the optically thick stellar outflows surrounding the star, making the line broad </otmi:snippet>
+              <otmi:snippet>Long-integration observations of these individual galaxies in the future could be used to characterize their spectra, and to confirm the presence of metal-free stellar populations</otmi:snippet>
+              <otmi:snippet>Lyman-continuum flux has been detected in the composite spectrum of 29 LBGs at a mean redshift of z ≈ 3.4</otmi:snippet>
+              <otmi:snippet>No continuum emission was found in 30% of the emitters</otmi:snippet>
+              <otmi:snippet>Note that massive stars with &gt;100 M have similar spectra, and our results should not depend significantly on the distribution of population III stellar masses above this threshold value</otmi:snippet>
+              <otmi:snippet>Our conclusions regarding the LBGs apply to the bluest sub-sample</otmi:snippet>
+              <otmi:snippet>Our models predict that in some of the LBGs there should be a detectable continuum shortward of 912 Å and a detectable individual He ii line</otmi:snippet>
+              <otmi:snippet>Our models predict that the trend of decreasing C iv strength in the bluest galaxies is present in the narrow interstellar absorption and any broad stellar component (which measures the total cumulative C output of all stars), but not necessarily in any of the other components</otmi:snippet>
+              <otmi:snippet>Our results imply that micro-mixing of metals within galaxies is inefficient on a gigayear timescale, a conclusion that may be surprising, as current models of hierarchical galaxy formation assume efficient intragalactic metal mixing, and therefore do not predict metal-free star formation significantly below z ≈ 5 (refs 5–9 )</otmi:snippet>
+              <otmi:snippet>Recent non-detections of the He ii 1,640 line in a composite spectrum of 17 galaxies at z = 4.5 (ref. 23 ), as well as from an individual Ly α emitter at z = 6.33 (ref. 24 ) have provided tight upper limits, but still allow for a significant mass fraction (50%) in population III stars</otmi:snippet>
+              <otmi:snippet>Recently, two stars with metallicity Z &lt; 10 -5 Z have been found in the Milky Way </otmi:snippet>
+              <otmi:snippet>So for this sample, the required amount of metal-free stars is only 10%</otmi:snippet>
+              <otmi:snippet>Strong He ii (1,640 Å) emission line from a composite of LBGs has been observed </otmi:snippet>
+              <otmi:snippet>Taken at face value, the data reveals an ionizing flux about three times higher than this model predicts, even if we do not include any continuum absorption by neutral gas in the galaxy</otmi:snippet>
+              <otmi:snippet>The Large Area Lyman Alpha survey reports large Ly α equivalent widths for a sample of 150 emitters at z ≈ 4.5</otmi:snippet>
+              <otmi:snippet>The continuum emission from LBGs can be explained by adding the continuous formation of massive stars to the standard initial mass function (IMF)</otmi:snippet>
+              <otmi:snippet>The data and the model do not agree at the &gt;3 σ  level</otmi:snippet>
+              <otmi:snippet>The fact that metal lines are observed in all LBGs indicates that LBGs are not composed purely of population III stars, but that there is a mixture in each galaxy of population III and normal stars</otmi:snippet>
+              <otmi:snippet>The fact that the stellar populations powering the extended emission are metal-poor is consistent with the fact that these sources are extended, and are presumably more likely to have been caught in the process of their assembly, when they are less metal-enriched overall</otmi:snippet>
+              <otmi:snippet>The first suggestion that these large equivalent widths can be produced by very-low-metallicity stars is found in ref. 30 </otmi:snippet>
+              <otmi:snippet>The intrinsic emission of the galaxies is modelled as the sum of ‘normal’ star formation (stellar populations with metallicity ratio &gt;10 -3 Z / Z ; refs 14 , 15 ), and metal-free, massive population III star formation. (Subscript refers to the Sun.) For the ‘normal’ component of the intrinsic stellar emission, we use the spectral synthesis models of ref. 16 (see http://www.stsci.edu/science/starburst99/ for electronic data) for a Salpeter IMF (with a slope α = 2.35) between 1–100 M and a metallicity of Z = 0.4 Z , and compute the spectrum for continuous star formation for 10 8 yr, which is the age at which a steady state has been reached</otmi:snippet>
+              <otmi:snippet>The large escape fraction of ionizing radiation would be consistent with the value observed in the composite of LBG spectra</otmi:snippet>
+              <otmi:snippet>The median value of the distribution is 450 Å and 60% have equivalent widths above 240 Å</otmi:snippet>
+              <otmi:snippet>The model with population III star formation with f popIII = 0.5 almost generates the observed ionizing flux in the 880 Å ≤ λ ≤ 910 Å range; producing a mean F ν / F 1,500 = 0.048 ± 0.02</otmi:snippet>
+              <otmi:snippet>The other three puzzles require a substantial increase in the total number of energetic ionizing photons, and we find that this cannot be resolved by a bias of the IMF alone</otmi:snippet>
+              <otmi:snippet>The presence of metal-free gas pockets can be verified in future high-resolution numerical simulations, and by observation</otmi:snippet>
+              <otmi:snippet>The rest-frame equivalent width for Ly α ranges from 20 to 350 Å</otmi:snippet>
+              <otmi:snippet>There have been recent observations of a population of 35 Ly α blobs at z = 3.1 in narrow and broadband spectra </otmi:snippet>
+              <otmi:snippet>Therefore ‘normal’ stellar populations can account for as much as 40% of the Ly α emitters, while the rest need to be accounted for by metal-free stellar populations</otmi:snippet>
+              <otmi:snippet>These authors found f esc ≳0.5, where f esc is defined as the ratio of 900 Å photons that escape the galaxy and the 1,500 Å photons that escape the galaxy (the wavelengths are quoted in the rest-frame of the LBGs)</otmi:snippet>
+              <otmi:snippet>They could plausibly be identified, therefore, as the progenitors of LBGs</otmi:snippet>
+              <otmi:snippet>They report equivalent widths for a sample of several hundred LBGs of about 2 Å</otmi:snippet>
+              <otmi:snippet>This implies a population of 30% metal-free stars</otmi:snippet>
+              <otmi:snippet>This implies that no single type of stellar population can account for the large spread of equivalent widths</otmi:snippet>
+              <otmi:snippet>This is further supported by the analysis of the C iv absorption line associated with the stellar winds in massive stars that is observed in the spectra of LBGs</otmi:snippet>
+              <otmi:snippet>This is in agreement with what is found for the colours</otmi:snippet>
+              <otmi:snippet>This is the case for metal-free (‘population III’) stars, which have significantly reduced opacity owing to the lack of elements C, N and O</otmi:snippet>
+              <otmi:snippet>This line is also very broad, with a full-width at half-maximum of about 1,500 km s -1 </otmi:snippet>
+              <otmi:snippet>This trend can naturally arise in our model </otmi:snippet>
+              <otmi:snippet>This trend is indeed what is observed (see table 3 and section 5.3 in ref. 3 )</otmi:snippet>
+              <otmi:snippet>To increase the number of ultraviolet photons further the temperature in the atmospheres of the stars must be increased</otmi:snippet>
+              <otmi:snippet>To reproduce the observed flux, about 30% of the stars would need to be metal-free</otmi:snippet>
+              <otmi:snippet>To simulate the observed, processed composite spectrum, we modify the emitted stellar template spectrum by including the effects of dust absorption, as well as the opacity of the intervening intergalactic medium (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>Using models for metallicities Z &gt; 10 -5 Z we find that bursts of ages greater than 10 7 years have equivalent widths as large as 300 Å, whereas constant star formation models have about 200 Å</otmi:snippet>
+              <otmi:snippet>Using more detailed fits of the observed spectrum, refs 12 and 13 found that the spectrum appears surprisingly blue, even if no additional Lyman continuum absorption is assumed to take place in the galaxy (beyond the dust absorption that also affects the spectrum at 1,500 Å)</otmi:snippet>
+              <otmi:snippet>We compare the stacked composite spectrum of LBGs in ref. 1 with model galactic spectra, including metal-free stars</otmi:snippet>
+              <otmi:snippet>We find that for metal-free stars and constant star formation, the equivalent width is 1,000 Å for the IMF used in this paper and declines to 300 Å for a Salpeter IMF (ref. 17 )</otmi:snippet>
+              <otmi:snippet>We note that the C iv profile in LBGs is a complex superposition of interstellar absorption, stellar-wind emission and absorption, and possibly nebular emission</otmi:snippet>
+              <otmi:snippet>We note that the good fit to the B - I colours, without including (case B) reprocessing of ionizing radiation into Lyman α , implies that f esc is of the order of 100%, because a smaller escape fraction would imply more flux on B and therefore significantly bluer B - I colours than those observed</otmi:snippet>
+              <otmi:snippet>We performed a more detailed fit to the distribution in ref. 3 </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Lyman break galaxies stacked observed spectrum and best-fit population synthesis models.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The dotted curve corresponds to continuous normal star formation for 10 8 years, and the dashed curve corresponds to a mixed model in which 50% of the stars (by mass) are massive, metal-free stars in the 100–500 M range. The solid curves show the composite spectrum in ref. 1. All fluxes are normalized to the flux at the emitted wavelength of 1,500 Å. For reference, in the bottom panel, we show the optical depths τ  assumed for the dust and the IGM. In the top panel, the horizontal dashed line shows the mean observed flux in the interval 880 Å ≤ λ ≤ 910 Å. The inference is that the spectrum requires a significant contribution from metal-free star formation, with a mass fraction of f popIII ≈ 0.5. As discussed in ref. 12, changing the assumed metallicity of the normal stars does not significantly increase the predicted ionizing fluxes. The ultraviolet fluxes of OB stars can be increased by the presence of stellar winds (not included in the stellar models we adopted). Although winds can increase the He ii -ionizing flux by orders of magnitude, the corresponding increase for the H-ionizing flux in O stars has been found to be small 27 . The increase can be more significant for cooler B stars 28 , but these stars do not dominate the ionizing photon budget in the continuous star-formation models, in which O stars are continuously replenished. Furthermore, the hydrostatic stellar models typically reproduce the properties of galactic H ii regions 16 , so that an increase by the required factor of about two would make it more difficult to reconcile the models with these observations.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Colour distributions of the Ly α blobs.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The different lines correspond to stellar population models with continuous star formation at an age of 10 8 yr for Z = 0.2 Z and Z = 0.01 Z (dashed and dotted lines respectively; both computed using the models from ref. 29) and Z = 0 (solid line, assuming an IMF and mass range 100–500 M as in our analysis of LBG spectra). We have included the effect of the opacity of the intervening intergalactic medium. The shaded ranges indicate the range of expected colours as various properties of the metal-free population are varied, such as their age (between 10 5 –10 8 yr), the IMF (for the three models given in ref. 17), and star-formation history (between a burst and continuous star formation at a constant rate). All three colour histograms suggest that about 20% of the blobs need to be made of purely population III stars.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1086/318323</otmi:refid>
+          <otmi:refid>info:doi/10.1086/338980</otmi:refid>
+          <otmi:refid>info:doi/10.1086/373922</otmi:refid>
+          <otmi:refid>info:doi/10.1086/321474</otmi:refid>
+          <otmi:refid>info:doi/10.1086/374412</otmi:refid>
+          <otmi:refid>info:doi/10.1086/382045</otmi:refid>
+          <otmi:refid>info:doi/10.1086/382499</otmi:refid>
+          <otmi:refid>info:doi/10.1086/312432</otmi:refid>
+          <otmi:refid>info:doi/10.1086/320549</otmi:refid>
+          <otmi:refid>info:doi/10.1086/324401</otmi:refid>
+          <otmi:refid>info:doi/10.1086/319170</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-8711.2001.04915.x</otmi:refid>
+          <otmi:refid>info:doi/10.1086/339917</otmi:refid>
+          <otmi:refid>info:doi/10.1086/313233</otmi:refid>
+          <otmi:refid>info:doi/10.1051/0004-6361:20021525</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1063991</otmi:refid>
+          <otmi:refid>info:doi/10.1086/323947</otmi:refid>
+          <otmi:refid>info:doi/10.1051/0004-6361:20021756</otmi:refid>
+          <otmi:refid>info:doi/10.1086/342178</otmi:refid>
+          <otmi:refid>info:doi/10.1086/425572</otmi:refid>
+          <otmi:refid>info:doi/10.1086/497135</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01142</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.astro.42.053102.134057</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1365-2966.2004.07492.x</otmi:refid>
+          <otmi:refid>info:doi/10.1086/308925</otmi:refid>
+          <otmi:refsnoid>5</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

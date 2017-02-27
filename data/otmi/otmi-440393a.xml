@@ -1,0 +1,688 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Tide of censure for African dams</title>
+      <id>info:doi/10.1038/440393a</id>
+      <link href='http://dx.doi.org/10.1038/440393a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Jim Giles</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>393</prism:startingPage>
+      <prism:endingPage>394</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='16'>will</otmi:vector>
+              <otmi:vector count='15'>dam</otmi:vector>
+              <otmi:vector count='13'>at</otmi:vector>
+              <otmi:vector count='13'>says</otmi:vector>
+              <otmi:vector count='11'>projects</otmi:vector>
+              <otmi:vector count='11'>have</otmi:vector>
+              <otmi:vector count='9'>environmental</otmi:vector>
+              <otmi:vector count='9'>say</otmi:vector>
+              <otmi:vector count='8'>water</otmi:vector>
+              <otmi:vector count='8'>which</otmi:vector>
+              <otmi:vector count='8'>Merowe</otmi:vector>
+              <otmi:vector count='8'>But</otmi:vector>
+              <otmi:vector count='7'>other</otmi:vector>
+              <otmi:vector count='7'>has</otmi:vector>
+              <otmi:vector count='7'>not</otmi:vector>
+              <otmi:vector count='7'>China</otmi:vector>
+              <otmi:vector count='7'>assessment</otmi:vector>
+              <otmi:vector count='6'>project</otmi:vector>
+              <otmi:vector count='5'>who</otmi:vector>
+              <otmi:vector count='5'>Lahmeyer</otmi:vector>
+              <otmi:vector count='5'>Chinese</otmi:vector>
+              <otmi:vector count='5'>Teodoru</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='5'>electricity</otmi:vector>
+              <otmi:vector count='5'>such</otmi:vector>
+              <otmi:vector count='5'>some</otmi:vector>
+              <otmi:vector count='5'>Africa</otmi:vector>
+              <otmi:vector count='4'>also</otmi:vector>
+              <otmi:vector count='4'>social</otmi:vector>
+              <otmi:vector count='4'>can</otmi:vector>
+              <otmi:vector count='4'>African</otmi:vector>
+              <otmi:vector count='4'>out</otmi:vector>
+              <otmi:vector count='4'>new</otmi:vector>
+              <otmi:vector count='4'>downstream</otmi:vector>
+              <otmi:vector count='4'>could</otmi:vector>
+              <otmi:vector count='4'>just</otmi:vector>
+              <otmi:vector count='4'>He</otmi:vector>
+              <otmi:vector count='4'>group</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>resettlement</otmi:vector>
+              <otmi:vector count='4'>people</otmi:vector>
+              <otmi:vector count='4'>hydropower</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>dams</otmi:vector>
+              <otmi:vector count='4'>Collier</otmi:vector>
+              <otmi:vector count='4'>year</otmi:vector>
+              <otmi:vector count='3'>local</otmi:vector>
+              <otmi:vector count='3'>North</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>resettled</otmi:vector>
+              <otmi:vector count='3'>sediment</otmi:vector>
+              <otmi:vector count='3'>published</otmi:vector>
+              <otmi:vector count='3'>involved</otmi:vector>
+              <otmi:vector count='3'>company</otmi:vector>
+              <otmi:vector count='3'>America</otmi:vector>
+              <otmi:vector count='3'>poor</otmi:vector>
+              <otmi:vector count='3'>problems</otmi:vector>
+              <otmi:vector count='3'>firms</otmi:vector>
+              <otmi:vector count='3'>experts</otmi:vector>
+              <otmi:vector count='3'>before</otmi:vector>
+              <otmi:vector count='3'>being</otmi:vector>
+              <otmi:vector count='3'>construction</otmi:vector>
+              <otmi:vector count='3'>metres</otmi:vector>
+              <otmi:vector count='3'>way</otmi:vector>
+              <otmi:vector count='3'>Sudan</otmi:vector>
+              <otmi:vector count='3'>third</otmi:vector>
+              <otmi:vector count='3'>issue</otmi:vector>
+              <otmi:vector count='3'>levels</otmi:vector>
+              <otmi:vector count='3'>governments</otmi:vector>
+              <otmi:vector count='3'>Swiss</otmi:vector>
+              <otmi:vector count='3'>them</otmi:vector>
+              <otmi:vector count='3'>below</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>independent</otmi:vector>
+              <otmi:vector count='3'>review</otmi:vector>
+              <otmi:vector count='3'>many</otmi:vector>
+              <otmi:vector count='3'>low</otmi:vector>
+              <otmi:vector count='3'>anoxic</otmi:vector>
+              <otmi:vector count='3'>design</otmi:vector>
+              <otmi:vector count='3'>example</otmi:vector>
+              <otmi:vector count='3'>Failer</otmi:vector>
+              <otmi:vector count='3'>Institute</otmi:vector>
+              <otmi:vector count='3'>report</otmi:vector>
+              <otmi:vector count='2'>responsibility</otmi:vector>
+              <otmi:vector count='2'>Nature</otmi:vector>
+              <otmi:vector count='2'>&quot;But</otmi:vector>
+              <otmi:vector count='2'>hundreds</otmi:vector>
+              <otmi:vector count='2'>Water</otmi:vector>
+              <otmi:vector count='2'>schemes</otmi:vector>
+              <otmi:vector count='2'>Salim</otmi:vector>
+              <otmi:vector count='2'>big</otmi:vector>
+              <otmi:vector count='2'>ignore</otmi:vector>
+              <otmi:vector count='2'>director</otmi:vector>
+              <otmi:vector count='2'>operate</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>California</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>around</otmi:vector>
+              <otmi:vector count='2'>harm</otmi:vector>
+              <otmi:vector count='2'>previous</otmi:vector>
+              <otmi:vector count='2'>least</otmi:vector>
+              <otmi:vector count='2'>surface</otmi:vector>
+              <otmi:vector count='2'>prevent</otmi:vector>
+              <otmi:vector count='2'>assertions</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>government</otmi:vector>
+              <otmi:vector count='2'>ecosystems</otmi:vector>
+              <otmi:vector count='2'>Technology</otmi:vector>
+              <otmi:vector count='2'>quality</otmi:vector>
+              <otmi:vector count='2'>life</otmi:vector>
+              <otmi:vector count='2'>required</otmi:vector>
+              <otmi:vector count='2'>she</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>turbines</otmi:vector>
+              <otmi:vector count='2'>standards</otmi:vector>
+              <otmi:vector count='2'>spent</otmi:vector>
+              <otmi:vector count='2'>Khartoum</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>Dam</otmi:vector>
+              <otmi:vector count='2'>short</otmi:vector>
+              <otmi:vector count='2'>affected</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>already</otmi:vector>
+              <otmi:vector count='2'>funders</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>12</otmi:vector>
+              <otmi:vector count='2'>began</otmi:vector>
+              <otmi:vector count='2'>Europe</otmi:vector>
+              <otmi:vector count='2'>set</otmi:vector>
+              <otmi:vector count='2'>impact</otmi:vector>
+              <otmi:vector count='2'>2002</otmi:vector>
+              <otmi:vector count='2'>caused</otmi:vector>
+              <otmi:vector count='2'>families</otmi:vector>
+              <otmi:vector count='2'>oxygen</otmi:vector>
+              <otmi:vector count='2'>seen</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='2'>10,000</otmi:vector>
+              <otmi:vector count='2'>countries</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>final</otmi:vector>
+              <otmi:vector count='2'>scale</otmi:vector>
+              <otmi:vector count='2'>during</otmi:vector>
+              <otmi:vector count='2'>access</otmi:vector>
+              <otmi:vector count='2'>affect</otmi:vector>
+              <otmi:vector count='2'>million</otmi:vector>
+              <otmi:vector count='2'>points</otmi:vector>
+              <otmi:vector count='2'>adds</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>good</otmi:vector>
+              <otmi:vector count='2'>March</otmi:vector>
+              <otmi:vector count='2'>study</otmi:vector>
+              <otmi:vector count='2'>minimize</otmi:vector>
+              <otmi:vector count='2'>researchers</otmi:vector>
+              <otmi:vector count='2'>International</otmi:vector>
+              <otmi:vector count='2'>turbine</otmi:vector>
+              <otmi:vector count='2'>World</otmi:vector>
+              <otmi:vector count='2'>never</otmi:vector>
+              <otmi:vector count='2'>country</otmi:vector>
+              <otmi:vector count='2'>Bank</otmi:vector>
+              <otmi:vector count='2'>necessary</otmi:vector>
+              <otmi:vector count='2'>given</otmi:vector>
+              <otmi:vector count='2'>commercial</otmi:vector>
+              <otmi:vector count='2'>through</otmi:vector>
+              <otmi:vector count='2'>issues</otmi:vector>
+              <otmi:vector count='2'>often</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>Western</otmi:vector>
+              <otmi:vector count='2'>groups</otmi:vector>
+              <otmi:vector count='2'>dozen</otmi:vector>
+              <otmi:vector count='2'>fails</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>scientists</otmi:vector>
+              <otmi:vector count='2'>floods</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>suffer</otmi:vector>
+              <otmi:vector count='2'>political</otmi:vector>
+              <otmi:vector count='2'>companies</otmi:vector>
+              <otmi:vector count='2'>these</otmi:vector>
+              <otmi:vector count='1'>livelihoods</otmi:vector>
+              <otmi:vector count='1'>formally</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>Press</otmi:vector>
+              <otmi:vector count='1'>money</otmi:vector>
+              <otmi:vector count='1'>Lessons</otmi:vector>
+              <otmi:vector count='1'>Aquatic</otmi:vector>
+              <otmi:vector count='1'>Thayer</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>India</otmi:vector>
+              <otmi:vector count='1'>resettling</otmi:vector>
+              <otmi:vector count='1'>aside</otmi:vector>
+              <otmi:vector count='1'>confidentiality</otmi:vector>
+              <otmi:vector count='1'>engineering</otmi:vector>
+              <otmi:vector count='1'>mistake</otmi:vector>
+              <otmi:vector count='1'>implemented</otmi:vector>
+              <otmi:vector count='1'>Oxfam</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>Arab</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>flush</otmi:vector>
+              <otmi:vector count='1'>Failer&apos;s</otmi:vector>
+              <otmi:vector count='1'>considering</otmi:vector>
+              <otmi:vector count='1'>Hydrologists</otmi:vector>
+              <otmi:vector count='1'>behind</otmi:vector>
+              <otmi:vector count='1'>centre</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>oil</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>document</otmi:vector>
+              <otmi:vector count='1'>7-kilometre-long</otmi:vector>
+              <otmi:vector count='1'>clinics</otmi:vector>
+              <otmi:vector count='1'>designs</otmi:vector>
+              <otmi:vector count='1'>price</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>Egon</otmi:vector>
+              <otmi:vector count='1'>him</otmi:vector>
+              <otmi:vector count='1'>Bad</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>parties</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>care</otmi:vector>
+              <otmi:vector count='1'>comment</otmi:vector>
+              <otmi:vector count='1'>denied</otmi:vector>
+              <otmi:vector count='1'>cubic</otmi:vector>
+              <otmi:vector count='1'>programmes</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>consultants</otmi:vector>
+              <otmi:vector count='1'>repeat</otmi:vector>
+              <otmi:vector count='1'>investment</otmi:vector>
+              <otmi:vector count='1'>publish</otmi:vector>
+              <otmi:vector count='1'>rivals</otmi:vector>
+              <otmi:vector count='1'>country&apos;s</otmi:vector>
+              <otmi:vector count='1'>return</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>responsibly</otmi:vector>
+              <otmi:vector count='1'>Ute</otmi:vector>
+              <otmi:vector count='1'>involvement</otmi:vector>
+              <otmi:vector count='1'>senior</otmi:vector>
+              <otmi:vector count='1'>executive</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>his</otmi:vector>
+              <otmi:vector count='1'>released</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>unchecked</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>land</otmi:vector>
+              <otmi:vector count='1'>backs</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>tackle</otmi:vector>
+              <otmi:vector count='1'>talking</otmi:vector>
+              <otmi:vector count='1'>Kastanienbaum</otmi:vector>
+              <otmi:vector count='1'>communities</otmi:vector>
+              <otmi:vector count='1'>plains</otmi:vector>
+              <otmi:vector count='1'>Local</otmi:vector>
+              <otmi:vector count='1'>begin</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>didn&apos;t</otmi:vector>
+              <otmi:vector count='1'>catalogued</otmi:vector>
+              <otmi:vector count='1'>adviser</otmi:vector>
+              <otmi:vector count='1'>media</otmi:vector>
+              <otmi:vector count='1'>Sediment</otmi:vector>
+              <otmi:vector count='1'>Canada</otmi:vector>
+              <otmi:vector count='1'>fluctuate</otmi:vector>
+              <otmi:vector count='1'>acknowledged</otmi:vector>
+              <otmi:vector count='1'>accumulating</otmi:vector>
+              <otmi:vector count='1'>February</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>business</otmi:vector>
+              <otmi:vector count='1'>resettle</otmi:vector>
+              <otmi:vector count='1'>pointing</otmi:vector>
+              <otmi:vector count='1'>towns</otmi:vector>
+              <otmi:vector count='1'>nutrients</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>host</otmi:vector>
+              <otmi:vector count='1'>Abdalla</otmi:vector>
+              <otmi:vector count='1'>addresses</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>flooding</otmi:vector>
+              <otmi:vector count='1'>international</otmi:vector>
+              <otmi:vector count='1'>expertise</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>contributing</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>investments</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>Projects</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>commentators</otmi:vector>
+              <otmi:vector count='1'>US$700</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>Elsewhere</otmi:vector>
+              <otmi:vector count='1'>human-rights</otmi:vector>
+              <otmi:vector count='1'>Musa</otmi:vector>
+              <otmi:vector count='1'>sign</otmi:vector>
+              <otmi:vector count='1'>Hydropower</otmi:vector>
+              <otmi:vector count='1'>soil</otmi:vector>
+              <otmi:vector count='1'>acknowledge</otmi:vector>
+              <otmi:vector count='1'>serious</otmi:vector>
+              <otmi:vector count='1'>denies</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>don&apos;t</otmi:vector>
+              <otmi:vector count='1'>go</otmi:vector>
+              <otmi:vector count='1'>European</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>suffered</otmi:vector>
+              <otmi:vector count='1'>Hydro-Québec</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>ensure</otmi:vector>
+              <otmi:vector count='1'>Federal</otmi:vector>
+              <otmi:vector count='1'>charities</otmi:vector>
+              <otmi:vector count='1'>repeating</otmi:vector>
+              <otmi:vector count='1'>record</otmi:vector>
+              <otmi:vector count='1'>learn</otmi:vector>
+              <otmi:vector count='1'>inlet</otmi:vector>
+              <otmi:vector count='1'>concerned</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>billion-dollar</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>layers</otmi:vector>
+              <otmi:vector count='1'>copy</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>ideas</otmi:vector>
+              <otmi:vector count='1'>sent</otmi:vector>
+              <otmi:vector count='1'>fields</otmi:vector>
+              <otmi:vector count='1'>comes</otmi:vector>
+              <otmi:vector count='1'>association</otmi:vector>
+              <otmi:vector count='1'>safeguards</otmi:vector>
+              <otmi:vector count='1'>places</otmi:vector>
+              <otmi:vector count='1'>Mutaz</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>Jia</otmi:vector>
+              <otmi:vector count='1'>environmentalists</otmi:vector>
+              <otmi:vector count='1'>Beijing</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>learned</otmi:vector>
+              <otmi:vector count='1'>country.&quot;</otmi:vector>
+              <otmi:vector count='1'>expert</otmi:vector>
+              <otmi:vector count='1'>arid</otmi:vector>
+              <otmi:vector count='1'>According</otmi:vector>
+              <otmi:vector count='1'>cramped</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>consequences</otmi:vector>
+              <otmi:vector count='1'>&quot;If</otmi:vector>
+              <otmi:vector count='1'>&quot;Companies</otmi:vector>
+              <otmi:vector count='1'>Godalming</otmi:vector>
+              <otmi:vector count='1'>Chinese-built</otmi:vector>
+              <otmi:vector count='1'>severe</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>front</otmi:vector>
+              <otmi:vector count='1'>Pressure</otmi:vector>
+              <otmi:vector count='1'>continent</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>rural</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>23</otmi:vector>
+              <otmi:vector count='1'>equipment</otmi:vector>
+              <otmi:vector count='1'>&quot;It&apos;s</otmi:vector>
+              <otmi:vector count='1'>continent&apos;s</otmi:vector>
+              <otmi:vector count='1'>stations</otmi:vector>
+              <otmi:vector count='1'>deeply</otmi:vector>
+              <otmi:vector count='1'>they&apos;re</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>staff</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>anthropologist</otmi:vector>
+              <otmi:vector count='1'>scheduled</otmi:vector>
+              <otmi:vector count='1'>reservations</otmi:vector>
+              <otmi:vector count='1'>belonging</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>France</otmi:vector>
+              <otmi:vector count='1'>nation</otmi:vector>
+              <otmi:vector count='1'>surge</otmi:vector>
+              <otmi:vector count='1'>Inaccessible</otmi:vector>
+              <otmi:vector count='1'>institute</otmi:vector>
+              <otmi:vector count='1'>Implementation</otmi:vector>
+              <otmi:vector count='1'>implementing</otmi:vector>
+              <otmi:vector count='1'>defends</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>rests</otmi:vector>
+              <otmi:vector count='1'>company&apos;s</otmi:vector>
+              <otmi:vector count='1'>infrastructure</otmi:vector>
+              <otmi:vector count='1'>engineers</otmi:vector>
+              <otmi:vector count='1'>aquatic</otmi:vector>
+              <otmi:vector count='1'>Unit</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>gates</otmi:vector>
+              <otmi:vector count='1'>thousands</otmi:vector>
+              <otmi:vector count='1'>contracts</otmi:vector>
+              <otmi:vector count='1'>winning</otmi:vector>
+              <otmi:vector count='1'>Research</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>impacts</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>mentioned</otmi:vector>
+              <otmi:vector count='1'>Resources</otmi:vector>
+              <otmi:vector count='1'>banks</otmi:vector>
+              <otmi:vector count='1'>willing</otmi:vector>
+              <otmi:vector count='1'>dire</otmi:vector>
+              <otmi:vector count='1'>confirms</otmi:vector>
+              <otmi:vector count='1'>&quot;Maybe</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>July</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>areas</otmi:vector>
+              <otmi:vector count='1'>Those</otmi:vector>
+              <otmi:vector count='1'>Pasadena</otmi:vector>
+              <otmi:vector count='1'>She</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>deep</otmi:vector>
+              <otmi:vector count='1'>majority</otmi:vector>
+              <otmi:vector count='1'>convinced</otmi:vector>
+              <otmi:vector count='1'>smoothly</otmi:vector>
+              <otmi:vector count='1'>go-ahead</otmi:vector>
+              <otmi:vector count='1'>facilities</otmi:vector>
+              <otmi:vector count='1'>looks</otmi:vector>
+              <otmi:vector count='1'>huge</otmi:vector>
+              <otmi:vector count='1'>German</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>financing</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>Rivers</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>annual</otmi:vector>
+              <otmi:vector count='1'>inadequate</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>studying</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>Contrary</otmi:vector>
+              <otmi:vector count='1'>arrive</otmi:vector>
+              <otmi:vector count='1'>tie</otmi:vector>
+              <otmi:vector count='1'>Experts</otmi:vector>
+              <otmi:vector count='1'>thorough</otmi:vector>
+              <otmi:vector count='1'>falls</otmi:vector>
+              <otmi:vector count='1'>Zambia</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>saying</otmi:vector>
+              <otmi:vector count='1'>well-funded</otmi:vector>
+              <otmi:vector count='1'>part-funded</otmi:vector>
+              <otmi:vector count='1'>leave</otmi:vector>
+              <otmi:vector count='1'>taking</otmi:vector>
+              <otmi:vector count='1'>&quot;Chinese</otmi:vector>
+              <otmi:vector count='1'>fertilize</otmi:vector>
+              <otmi:vector count='1'>Science</otmi:vector>
+              <otmi:vector count='1'>visited</otmi:vector>
+              <otmi:vector count='1'>Cristian</otmi:vector>
+              <otmi:vector count='1'>finish</otmi:vector>
+              <otmi:vector count='1'>WaterAid</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>trap</otmi:vector>
+              <otmi:vector count='1'>hard</otmi:vector>
+              <otmi:vector count='1'>Project</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>undercut</otmi:vector>
+              <otmi:vector count='1'>Land</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>Vilbel</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>lessons</otmi:vector>
+              <otmi:vector count='1'>South</otmi:vector>
+              <otmi:vector count='1'>vice-president</otmi:vector>
+              <otmi:vector count='1'>built</otmi:vector>
+              <otmi:vector count='1'>devices</otmi:vector>
+              <otmi:vector count='1'>1960s</otmi:vector>
+              <otmi:vector count='1'>suit</otmi:vector>
+              <otmi:vector count='1'>Alstom</otmi:vector>
+              <otmi:vector count='1'>sells</otmi:vector>
+              <otmi:vector count='1'>secure</otmi:vector>
+              <otmi:vector count='1'>worry</otmi:vector>
+              <otmi:vector count='1'>domestic</otmi:vector>
+              <otmi:vector count='1'>reports</otmi:vector>
+              <otmi:vector count='1'>adhered</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>praise</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>decline</otmi:vector>
+              <otmi:vector count='1'>resources</otmi:vector>
+              <otmi:vector count='1'>Critics</otmi:vector>
+              <otmi:vector count='1'>homes</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>unusual</otmi:vector>
+              <otmi:vector count='1'>Scudder</otmi:vector>
+              <otmi:vector count='1'>Montreal</otmi:vector>
+              <otmi:vector count='1'>extract</otmi:vector>
+              <otmi:vector count='1'>supplying</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>wall</otmi:vector>
+              <otmi:vector count='1'>agreed</otmi:vector>
+              <otmi:vector count='1'>London</otmi:vector>
+              <otmi:vector count='1'>he</otmi:vector>
+              <otmi:vector count='1'>farmers</otmi:vector>
+              <otmi:vector count='1'>earned</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>incorporate</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>building</otmi:vector>
+              <otmi:vector count='1'>WWF</otmi:vector>
+              <otmi:vector count='1'>JinSheng</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>stir</otmi:vector>
+              <otmi:vector count='1'>&quot;This</otmi:vector>
+              <otmi:vector count='1'>early-stage</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>requests</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>pay</otmi:vector>
+              <otmi:vector count='1'>Karin</otmi:vector>
+              <otmi:vector count='1'>angrily</otmi:vector>
+              <otmi:vector count='1'>environmental-impact</otmi:vector>
+              <otmi:vector count='1'>dangerously</otmi:vector>
+              <otmi:vector count='1'>allege</otmi:vector>
+              <otmi:vector count='1'>50,000</otmi:vector>
+              <otmi:vector count='1'>sub</otmi:vector>
+              <otmi:vector count='1'>ABB</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>twice</otmi:vector>
+              <otmi:vector count='1'>opened</otmi:vector>
+              <otmi:vector count='1'>forming</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>agriculture</otmi:vector>
+              <otmi:vector count='1'>sanitation</otmi:vector>
+              <otmi:vector count='1'>gets</otmi:vector>
+              <otmi:vector count='1'>ill-equipped</otmi:vector>
+              <otmi:vector count='1'>removal</otmi:vector>
+              <otmi:vector count='1'>plans</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>erosion</otmi:vector>
+              <otmi:vector count='1'>surround</otmi:vector>
+              <otmi:vector count='1'>doubtful</otmi:vector>
+              <otmi:vector count='1'>put</otmi:vector>
+              <otmi:vector count='1'>north</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>national</otmi:vector>
+              <otmi:vector count='1'>I&apos;m</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>pushing</otmi:vector>
+              <otmi:vector count='1'>tribe</otmi:vector>
+              <otmi:vector count='1'>completed</otmi:vector>
+              <otmi:vector count='1'>precautions</otmi:vector>
+              <otmi:vector count='1'>extent</otmi:vector>
+              <otmi:vector count='1'>impossible</otmi:vector>
+              <otmi:vector count='1'>home</otmi:vector>
+              <otmi:vector count='1'>35</otmi:vector>
+              <otmi:vector count='1'>geologist</otmi:vector>
+              <otmi:vector count='1'>owners</otmi:vector>
+              <otmi:vector count='1'>mistakes</otmi:vector>
+              <otmi:vector count='1'>kilometres</otmi:vector>
+              <otmi:vector count='1'>shrift</otmi:vector>
+              <otmi:vector count='1'>happy</otmi:vector>
+              <otmi:vector count='1'>65-metre-high</otmi:vector>
+              <otmi:vector count='1'>depths</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>officials</otmi:vector>
+              <otmi:vector count='1'>reservoir</otmi:vector>
+              <otmi:vector count='1'>Seelos</otmi:vector>
+              <otmi:vector count='1'>assessments</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>generators</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>Berkeley</otmi:vector>
+              <otmi:vector count='1'>Large</otmi:vector>
+              <otmi:vector count='1'>UK</otmi:vector>
+              <otmi:vector count='1'>plan</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>double</otmi:vector>
+              <otmi:vector count='1'>agreements</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>rely</otmi:vector>
+              <otmi:vector count='1'>Network</otmi:vector>
+              <otmi:vector count='1'>Nile</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>column</otmi:vector>
+              <otmi:vector count='1'>mix</otmi:vector>
+              <otmi:vector count='1'>started</otmi:vector>
+              <otmi:vector count='1'>square</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>corrupt</otmi:vector>
+              <otmi:vector count='1'>prospects</otmi:vector>
+              <otmi:vector count='1'>Shaigiya</otmi:vector>
+              <otmi:vector count='1'>base</otmi:vector>
+              <otmi:vector count='1'>records</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A project of this scale in Europe or North America would have required years of independent study before being given the go-ahead, say dam experts</otmi:snippet>
+              <otmi:snippet>According to the first independent review of the dam plans, a copy of which has been seen by Nature , inadequate thought has been given to the environmental and social consequences of flooding hundreds of square kilometres of land</otmi:snippet>
+              <otmi:snippet>As well as Lahmeyer, two other European firms are involved in Merowe: the Swiss company ABB, which sells equipment for electricity sub- stations, and Alstom in France, which is supplying turbines and generators. &quot;Companies should operate in the same way as they do at home,&quot; says Collier. &quot;But that is often not the case.&quot; On the issue of resettlement, for example, Lahmeyer seems to have set aside its own reservations about the project</otmi:snippet>
+              <otmi:snippet>At Merowe, for example, where commercial electricity production is scheduled to begin next year, a 7-kilometre-long, 65-metre-high wall will trap more than 10 million cubic metres of water</otmi:snippet>
+              <otmi:snippet>But Collier says that some Western companies seem happy to work on such projects</otmi:snippet>
+              <otmi:snippet>But Jia JinSheng, vice-president of the China Institute of Water Resources and Hydropower Research in Beijing, confirms that his country is winning contracts in the region</otmi:snippet>
+              <otmi:snippet>But scientists and environmentalists who have studied the dam say that poor local people will suffer because necessary precautions are not being taken</otmi:snippet>
+              <otmi:snippet>But she says that only a few African countries, such as Zambia and South Africa, have the political will and infrastructure to ensure that hydropower is implemented responsibly</otmi:snippet>
+              <otmi:snippet>But the first environmental-impact assessment was completed in 2002, just a year before construction began</otmi:snippet>
+              <otmi:snippet>But when staff at the International Rivers Network, an environmental group in Berkeley, California, which part-funded the Swiss study, visited the resettlement sites in February 2005, they catalogued many problems</otmi:snippet>
+              <otmi:snippet>Chinese government officials did not return requests for comment on their country&apos;s involvement with Merowe or other African dams</otmi:snippet>
+              <otmi:snippet>Collier published a report on hydropower in Africa on 6 March in association with UK charities WaterAid and Oxfam</otmi:snippet>
+              <otmi:snippet>Contrary to rules for dam projects adhered to by other big funders such as the World Bank, the assessment was conducted, not by independent experts, but by Lahmeyer International, the German company acting as engineering consultants for the project</otmi:snippet>
+              <otmi:snippet>Critics of Merowe say the project also looks set to repeat perhaps the most severe social mistake of previous dam schemes, which have seen the livelihoods of hundreds of thousands of resettled people suffer</otmi:snippet>
+              <otmi:snippet>Dam gates will, for example, be opened to flush out sediment in July when the floods arrive and stir up water in the reservoir</otmi:snippet>
+              <otmi:snippet>Egon Failer, an executive director at Lahmeyer in Bad Vilbel, defends the report, saying that it was an early-stage document and that the final design addresses some of the problems that Teodoru identified</otmi:snippet>
+              <otmi:snippet>Elsewhere, she says, funders with low environmental standards, such as China, or the Arab banks that are also contributing to the Merowe project, can operate almost unchecked</otmi:snippet>
+              <otmi:snippet>Experts are concerned that the problems identified at Merowe will affect other Chinese-built dams</otmi:snippet>
+              <otmi:snippet>He adds that environmental and social issues have become more important in China in the past five years, but that ultimately responsibility rests with the host nation: &quot;It&apos;s the business of the owners and local government,&quot; he says</otmi:snippet>
+              <otmi:snippet>He adds that the centre of the turbine inlet is just 12 metres below the dam surface, so that oxygen levels will be high enough not to harm downstream ecosystems</otmi:snippet>
+              <otmi:snippet>He points out that 35% of the 10,000 affected families have been resettled and US$700 million will eventually be spent on new homes, clinics and other facilities</otmi:snippet>
+              <otmi:snippet>He says Chinese firms can undercut rivals in Europe and North America by around a third, and finish construction more quickly</otmi:snippet>
+              <otmi:snippet>Hydrologists say that thorough assessments of the impact, good design and well-funded resettlement programmes can minimize the impact of new dams</otmi:snippet>
+              <otmi:snippet>I&apos;m deeply convinced this is good for the country.&quot;</otmi:snippet>
+              <otmi:snippet>Inaccessible But details of the final design have never been published, and scientists working for Lahmeyer were required to sign confidentiality agreements that prevent them from talking to the media, making it impossible for researchers and environmental groups to assess Failer&apos;s assertions</otmi:snippet>
+              <otmi:snippet>It falls well short of international standards, say researchers at the Swiss Federal Institute of Aquatic Science and Technology in Kastanienbaum, who will publish their review of the assessment on 23 March</otmi:snippet>
+              <otmi:snippet>Land belonging to 10,000 families will be affected, and four resettlement schemes are under way</otmi:snippet>
+              <otmi:snippet>Large scale But although several national governments and the World Bank have earned praise for implementing some of these ideas, experts say China has not followed suit</otmi:snippet>
+              <otmi:snippet>Local responsibility Those parties are often ill-equipped to provide the necessary safeguards, says Ute Collier, an expert on dams at the WWF in Godalming, near London</otmi:snippet>
+              <otmi:snippet>Many modern projects minimize the problem of anoxic water by using designs that extract water from different depths, or incorporate devices that mix the water to prevent anoxic areas forming, says Karin Seelos, a senior environmental adviser at Hydro-Québec, an energy company in Montreal, Canada</otmi:snippet>
+              <otmi:snippet>Mutaz Musa Abdalla Salim, director of financing at the Merowe Dam Project Implementation Unit in Khartoum, denies this</otmi:snippet>
+              <otmi:snippet>On the arid plains that surround the Nile north of Khartoum in Sudan, a huge dam is slowly taking shape</otmi:snippet>
+              <otmi:snippet>Press reports suggest that China is considering, or has already started work on, at least a dozen dam projects in Africa</otmi:snippet>
+              <otmi:snippet>Pressure could potentially come from the third group involved in dam building: the commercial firms that run the projects</otmi:snippet>
+              <otmi:snippet>Projects in China, India, North America and elsewhere caused serious downstream erosion through the removal of sediment, and the majority of resettled people suffered a decline in quality of life (see &quot;Lessons to learn&quot; )</otmi:snippet>
+              <otmi:snippet>Salim angrily denied these assertions when Nature put them to him</otmi:snippet>
+              <otmi:snippet>Sediment accumulating behind the dam is one such issue, says Cristian Teodoru, a geologist at the institute who produced the review</otmi:snippet>
+              <otmi:snippet>She backs the potential of hydropower, pointing out that around a third of the continent has no access to electricity</otmi:snippet>
+              <otmi:snippet>Teodoru points out that even 12 metres below the surface oxygen levels could be dangerously low</otmi:snippet>
+              <otmi:snippet>Teodoru says that the water column at the front of the dam will contain layers of anoxic water, which, if sent through the turbines and released, could harm aquatic life below the dam — another point the assessment fails to acknowledge</otmi:snippet>
+              <otmi:snippet>That is far from unusual when it comes to Chinese investment in Africa, environmental groups allege</otmi:snippet>
+              <otmi:snippet>The assessment, which was never formally published in Sudan, also fails to tackle key issues</otmi:snippet>
+              <otmi:snippet>The billion-dollar Merowe project will more than double the amount of electricity that Sudan can produce, and is just one of a dozen new dam projects being built across Africa using Chinese money and expertise</otmi:snippet>
+              <otmi:snippet>The company&apos;s 2002 assessment acknowledged that, with just over a year to go before construction, there was no agreed plan on how to resettle the 50,000 people involved and that prospects of &quot;smoothly&quot; resettling at least one group — members of the Shaigiya tribe — were &quot;doubtful&quot;. &quot;Maybe the assessment should have been done earlier,&quot; says Failer. &quot;But the country didn&apos;t have the time</otmi:snippet>
+              <otmi:snippet>The future of downstream ecosystems gets similarly short shrift</otmi:snippet>
+              <otmi:snippet>The group say sanitation was already poor owing to cramped conditions in the new towns, and that soil quality was in some places too low to support agriculture</otmi:snippet>
+              <otmi:snippet>The water is there and they&apos;re pushing for it</otmi:snippet>
+              <otmi:snippet>These projects tie in with investments in many other African projects, some in countries with poor human-rights records, in a strategy that Western political commentators say is designed to secure access to the continent&apos;s oil and other natural resources</otmi:snippet>
+              <otmi:snippet>They need electricity</otmi:snippet>
+              <otmi:snippet>They say that China, which has a dire domestic environmental record, is repeating the mistakes of previous big dam projects, and that rural African communities will pay the price. &quot;Chinese companies will ignore social and environmental impacts to the extent that local governments are willing to ignore them,&quot; says Thayer Scudder, an anthropologist at the California Institute of Technology in Pasadena, who has spent decades studying hydropower projects. &quot;If governments don&apos;t care, or are corrupt, why will the Chinese engineers worry?&quot; The surge of large dam projects that began in the 1960s caused many lessons to be learned the hard way</otmi:snippet>
+              <otmi:snippet>This will affect farmers downstream who rely on nutrients in the sediment to fertilize their fields during the annual floods. &quot;This issue is not even mentioned in the report,&quot; says Teodoru</otmi:snippet>
+              <otmi:snippet>Water levels will also fluctuate during the year, and could leave the base of the turbine twice as deep as Failer indicated</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

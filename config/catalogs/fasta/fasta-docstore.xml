@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<catalog>    
+      <chain name="FastaLoader" className="textractor.chain.loader.FastaFileLoader"
+           file="../ref-sequence-data/Homo_sapiens.NCBI36.42.pep.fasta">
+        <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 termProcessorClass="it.unimi.dsi.mg4j.index.NullTermProcessor"
+                 wordReaderClass="textractor.mg4j.io.BioSequenceWordReader"
+                 basename="../indices/ensembl-human/index"
+                 DOI="true"
+                 chunkSize="100000" optimize="true"/>
+
+    </chain>
+</catalog>

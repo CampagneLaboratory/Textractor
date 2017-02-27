@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<project name="textractor-nojdo" default="enhance" basedir="..">
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="classes" location="classes"/>
+    <property name="src" location="src"/>
+    <property name="jdosrc" location=""/>
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <!-- dummy definitions for jdo -->
+    <path id="jdo.compile.classpath">
+        <fileset dir="${lib}/jdo"/>
+    </path>
+
+    <path id="jdo.run.classpath">
+        <fileset dir="${lib}/jdo"/>
+    </path>
+
+    <!-- define basic targets to be overridden in the main build file(s) -->
+    <target name="init"/>      <!-- nothing to be done here -->
+    <target name="compile"/>   <!-- nothing to be done here -->
+
+    <target name="enhance" depends="init,compile" description="Run the enhancer"/>
+
+    <target name="createdb" depends="enhance" description="Create the database"/>
+
+    <target name="drop" description="Drop the database"/>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<catalog>
+    <!-- load files and build docstore once the index is finished -->
+    <chain name="BuildOtmiDocumentStore" className="textractor.chain.loader.OtmiArticleLoader"
+           directory="/home/icb/db/otmi" appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary " recursive="true">
+        <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 basename="index/otmi-index" writeDoiValues="true"
+                 chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

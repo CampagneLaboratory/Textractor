@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2005 beta 1 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 4, Installed for 10 users (with SMP from 2004-10-13 to 2006-10-14) (Weill Cornell Medical College) -->
+<!-- edited with XMLSPY v2004 rel. 4 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 4, Installed for 10 users (with SMP from 2004-10-13 to 2006-10-14) (Weill Cornell Medical College) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="acronyms">
+		<xs:annotation>
+			<xs:documentation>List of acronym/expansion pairs</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence maxOccurs="unbounded">
+				<xs:element name="acronym">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="short-form">
+								<xs:complexType>
+									<xs:simpleContent>
+										<xs:extension base="xs:string">
+											<xs:attribute name="frequency" type="xs:int"/>
+										</xs:extension>
+									</xs:simpleContent>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="expansions">
+								<xs:complexType>
+									<xs:sequence maxOccurs="unbounded">
+										<xs:element name="expansion">
+											<xs:complexType>
+												<xs:simpleContent>
+													<xs:extension base="xs:string">
+														<xs:attribute name="frequency" type="xs:int"/>
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

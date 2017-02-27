@@ -1,0 +1,1422 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Human chromosome 11 DNA sequence and analysis including novel gene identification</title>
+      <id>info:doi/10.1038/nature04632</id>
+      <link href='http://dx.doi.org/10.1038/nature04632' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Todd D. Taylor</name>
+      </author>
+      <author>
+        <name>Hideki Noguchi</name>
+      </author>
+      <author>
+        <name>Yasushi Totoki</name>
+      </author>
+      <author>
+        <name>Atsushi Toyoda</name>
+      </author>
+      <author>
+        <name>Yoko Kuroki</name>
+      </author>
+      <author>
+        <name>Ken Dewar</name>
+      </author>
+      <author>
+        <name>Christine Lloyd</name>
+      </author>
+      <author>
+        <name>Takehiko Itoh</name>
+      </author>
+      <author>
+        <name>Tadayuki Takeda</name>
+      </author>
+      <author>
+        <name>Dae-Won Kim</name>
+      </author>
+      <author>
+        <name>Xinwei She</name>
+      </author>
+      <author>
+        <name>Karen F. Barlow</name>
+      </author>
+      <author>
+        <name>Toby Bloom</name>
+      </author>
+      <author>
+        <name>Elspeth Bruford</name>
+      </author>
+      <author>
+        <name>Jean L. Chang</name>
+      </author>
+      <author>
+        <name>Christina A. Cuomo</name>
+      </author>
+      <author>
+        <name>Evan Eichler</name>
+      </author>
+      <author>
+        <name>Michael G. FitzGerald</name>
+      </author>
+      <author>
+        <name>David B. Jaffe</name>
+      </author>
+      <author>
+        <name>Kurt LaButti</name>
+      </author>
+      <author>
+        <name>Robert Nicol</name>
+      </author>
+      <author>
+        <name>Hong-Seog Park</name>
+      </author>
+      <author>
+        <name>Christopher Seaman</name>
+      </author>
+      <author>
+        <name>Carrie Sougnez</name>
+      </author>
+      <author>
+        <name>Xiaoping Yang</name>
+      </author>
+      <author>
+        <name>Andrew R. Zimmer</name>
+      </author>
+      <author>
+        <name>Michael C. Zody</name>
+      </author>
+      <author>
+        <name>Bruce W. Birren</name>
+      </author>
+      <author>
+        <name>Chad Nusbaum</name>
+      </author>
+      <author>
+        <name>Asao Fujiyama</name>
+      </author>
+      <author>
+        <name>Masahira Hattori</name>
+      </author>
+      <author>
+        <name>Jane Rogers</name>
+      </author>
+      <author>
+        <name>Eric S. Lander</name>
+      </author>
+      <author>
+        <name>Yoshiyuki Sakaki</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>497</prism:startingPage>
+      <prism:endingPage>500</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>Chromosome 11, although average in size, is one of the most gene- and disease-rich chromosomes in the human genome. Initial gene annotation indicates an average gene density of 11.6 genes per megabase, including 1,524 protein-coding genes, some of which were identified using novel methods, and 765 pseudogenes. One-quarter of the protein-coding genes shows overlap with other genes. Of the 856 olfactory receptor genes in the human genome, more than 40% are located in 28 single- and multi-gene clusters along this chromosome. Out of the 171 disorders currently attributed to the chromosome, 86 remain for which the underlying molecular basis is not yet known, including several mendelian traits, cancer and susceptibility loci. The high-quality data presented here—nearly 134.5 million base pairs representing 99.8% coverage of the euchromatic sequence—provide scientists with a solid foundation for understanding the genetic basis of these disorders and other biological phenomena.</otmi:rawtext>
+          <otmi:reducedtext>Chromosome 11, although average size, one most gene- disease-rich chromosomes human genome. Initial gene annotation indicates average gene density 11.6 genes per megabase, including 1,524 protein-coding genes, some which identified using novel methods, 765 pseudogenes. One-quarter protein-coding genes shows overlap other genes. 856 olfactory receptor genes human genome, more than 40% located 28 single- multi-gene clusters along chromosome. Out 171 disorders currently attributed chromosome, 86 remain which underlying molecular basis not yet known, including several mendelian traits, cancer susceptibility loci. high-quality data presented here—nearly 134.5 million base pairs representing 99.8% coverage euchromatic sequence—provide scientists solid foundation understanding genetic basis these disorders other biological phenomena.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='5'>genes</otmi:vector>
+            <otmi:vector count='3'>gene</otmi:vector>
+            <otmi:vector count='2'>basis</otmi:vector>
+            <otmi:vector count='2'>which</otmi:vector>
+            <otmi:vector count='2'>average</otmi:vector>
+            <otmi:vector count='2'>chromosome</otmi:vector>
+            <otmi:vector count='2'>protein-coding</otmi:vector>
+            <otmi:vector count='2'>human</otmi:vector>
+            <otmi:vector count='2'>genome</otmi:vector>
+            <otmi:vector count='2'>disorders</otmi:vector>
+            <otmi:vector count='2'>other</otmi:vector>
+            <otmi:vector count='2'>including</otmi:vector>
+            <otmi:vector count='1'>susceptibility</otmi:vector>
+            <otmi:vector count='1'>underlying</otmi:vector>
+            <otmi:vector count='1'>phenomena.</otmi:vector>
+            <otmi:vector count='1'>high-quality</otmi:vector>
+            <otmi:vector count='1'>receptor</otmi:vector>
+            <otmi:vector count='1'>molecular</otmi:vector>
+            <otmi:vector count='1'>along</otmi:vector>
+            <otmi:vector count='1'>here—nearly</otmi:vector>
+            <otmi:vector count='1'>presented</otmi:vector>
+            <otmi:vector count='1'>novel</otmi:vector>
+            <otmi:vector count='1'>more</otmi:vector>
+            <otmi:vector count='1'>olfactory</otmi:vector>
+            <otmi:vector count='1'>attributed</otmi:vector>
+            <otmi:vector count='1'>171</otmi:vector>
+            <otmi:vector count='1'>several</otmi:vector>
+            <otmi:vector count='1'>11.6</otmi:vector>
+            <otmi:vector count='1'>86</otmi:vector>
+            <otmi:vector count='1'>than</otmi:vector>
+            <otmi:vector count='1'>765</otmi:vector>
+            <otmi:vector count='1'>base</otmi:vector>
+            <otmi:vector count='1'>annotation</otmi:vector>
+            <otmi:vector count='1'>Initial</otmi:vector>
+            <otmi:vector count='1'>single</otmi:vector>
+            <otmi:vector count='1'>size</otmi:vector>
+            <otmi:vector count='1'>loci</otmi:vector>
+            <otmi:vector count='1'>one</otmi:vector>
+            <otmi:vector count='1'>sequence—provide</otmi:vector>
+            <otmi:vector count='1'>indicates</otmi:vector>
+            <otmi:vector count='1'>using</otmi:vector>
+            <otmi:vector count='1'>density</otmi:vector>
+            <otmi:vector count='1'>understanding</otmi:vector>
+            <otmi:vector count='1'>euchromatic</otmi:vector>
+            <otmi:vector count='1'>some</otmi:vector>
+            <otmi:vector count='1'>yet</otmi:vector>
+            <otmi:vector count='1'>although</otmi:vector>
+            <otmi:vector count='1'>currently</otmi:vector>
+            <otmi:vector count='1'>40</otmi:vector>
+            <otmi:vector count='1'>megabase</otmi:vector>
+            <otmi:vector count='1'>remain</otmi:vector>
+            <otmi:vector count='1'>most</otmi:vector>
+            <otmi:vector count='1'>disease-rich</otmi:vector>
+            <otmi:vector count='1'>foundation</otmi:vector>
+            <otmi:vector count='1'>pairs</otmi:vector>
+            <otmi:vector count='1'>not</otmi:vector>
+            <otmi:vector count='1'>28</otmi:vector>
+            <otmi:vector count='1'>shows</otmi:vector>
+            <otmi:vector count='1'>clusters</otmi:vector>
+            <otmi:vector count='1'>99.8</otmi:vector>
+            <otmi:vector count='1'>methods</otmi:vector>
+            <otmi:vector count='1'>these</otmi:vector>
+            <otmi:vector count='1'>chromosomes</otmi:vector>
+            <otmi:vector count='1'>scientists</otmi:vector>
+            <otmi:vector count='1'>overlap</otmi:vector>
+            <otmi:vector count='1'>representing</otmi:vector>
+            <otmi:vector count='1'>identified</otmi:vector>
+            <otmi:vector count='1'>multi-gene</otmi:vector>
+            <otmi:vector count='1'>Chromosome</otmi:vector>
+            <otmi:vector count='1'>One-quarter</otmi:vector>
+            <otmi:vector count='1'>mendelian</otmi:vector>
+            <otmi:vector count='1'>traits</otmi:vector>
+            <otmi:vector count='1'>pseudogenes</otmi:vector>
+            <otmi:vector count='1'>Out</otmi:vector>
+            <otmi:vector count='1'>11</otmi:vector>
+            <otmi:vector count='1'>cancer</otmi:vector>
+            <otmi:vector count='1'>biological</otmi:vector>
+            <otmi:vector count='1'>genetic</otmi:vector>
+            <otmi:vector count='1'>million</otmi:vector>
+            <otmi:vector count='1'>known</otmi:vector>
+            <otmi:vector count='1'>solid</otmi:vector>
+            <otmi:vector count='1'>134.5</otmi:vector>
+            <otmi:vector count='1'>per</otmi:vector>
+            <otmi:vector count='1'>coverage</otmi:vector>
+            <otmi:vector count='1'>data</otmi:vector>
+            <otmi:vector count='1'>located</otmi:vector>
+            <otmi:vector count='1'>1,524</otmi:vector>
+            <otmi:vector count='1'>856</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>Chromosome 11, although average in size, is one of the most gene- and disease-rich chromosomes in the human genome</otmi:snippet>
+            <otmi:snippet>Initial gene annotation indicates an average gene density of 11.6 genes per megabase, including 1,524 protein-coding genes, some of which were identified using novel methods, and 765 pseudogenes</otmi:snippet>
+            <otmi:snippet>Of the 856 olfactory receptor genes in the human genome, more than 40% are located in 28 single- and multi-gene clusters along this chromosome</otmi:snippet>
+            <otmi:snippet>One-quarter of the protein-coding genes shows overlap with other genes</otmi:snippet>
+            <otmi:snippet>Out of the 171 disorders currently attributed to the chromosome, 86 remain for which the underlying molecular basis is not yet known, including several mendelian traits, cancer and susceptibility loci</otmi:snippet>
+            <otmi:snippet>The high-quality data presented here—nearly 134.5 million base pairs representing 99.8% coverage of the euchromatic sequence—provide scientists with a solid foundation for understanding the genetic basis of these disorders and other biological phenomena.</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>libraries</otmi:vector>
+              <otmi:vector count='5'>initio</otmi:vector>
+              <otmi:vector count='5'>library</otmi:vector>
+              <otmi:vector count='5'>gene-finders</otmi:vector>
+              <otmi:vector count='5'>ab</otmi:vector>
+              <otmi:vector count='4'>genes</otmi:vector>
+              <otmi:vector count='4'>clone</otmi:vector>
+              <otmi:vector count='4'>using</otmi:vector>
+              <otmi:vector count='4'>chromosome</otmi:vector>
+              <otmi:vector count='4'>human</otmi:vector>
+              <otmi:vector count='4'>BAC</otmi:vector>
+              <otmi:vector count='3'>PCR</otmi:vector>
+              <otmi:vector count='3'>predicted</otmi:vector>
+              <otmi:vector count='3'>clones</otmi:vector>
+              <otmi:vector count='3'>RT–PCR</otmi:vector>
+              <otmi:vector count='3'>DIGIT</otmi:vector>
+              <otmi:vector count='3'>used</otmi:vector>
+              <otmi:vector count='3'>prepared</otmi:vector>
+              <otmi:vector count='3'>path</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='2'>whole-genome</otmi:vector>
+              <otmi:vector count='2'>CMB9</otmi:vector>
+              <otmi:vector count='2'>tiling</otmi:vector>
+              <otmi:vector count='2'>RPCI-11</otmi:vector>
+              <otmi:vector count='2'>described</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>prediction</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>exhaustive</otmi:vector>
+              <otmi:vector count='2'>these</otmi:vector>
+              <otmi:vector count='2'>Supplementary</otmi:vector>
+              <otmi:vector count='2'>cDNA</otmi:vector>
+              <otmi:vector count='2'>primer</otmi:vector>
+              <otmi:vector count='2'>product</otmi:vector>
+              <otmi:vector count='2'>gene-finder</otmi:vector>
+              <otmi:vector count='2'>false-positive</otmi:vector>
+              <otmi:vector count='2'>construction</otmi:vector>
+              <otmi:vector count='2'>artificial</otmi:vector>
+              <otmi:vector count='2'>sets</otmi:vector>
+              <otmi:vector count='2'>chromosome-specific</otmi:vector>
+              <otmi:vector count='2'>according</otmi:vector>
+              <otmi:vector count='2'>DNA</otmi:vector>
+              <otmi:vector count='2'>chromosomes</otmi:vector>
+              <otmi:vector count='2'>remarkable</otmi:vector>
+              <otmi:vector count='2'>CMF9</otmi:vector>
+              <otmi:vector count='2'>derived</otmi:vector>
+              <otmi:vector count='2'>sensitivity</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>sequences</otmi:vector>
+              <otmi:vector count='2'>methods</otmi:vector>
+              <otmi:vector count='2'>especially</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>rare</otmi:vector>
+              <otmi:vector count='2'>chromosomal</otmi:vector>
+              <otmi:vector count='2'>round</otmi:vector>
+              <otmi:vector count='2'>gaps</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>sequence</otmi:vector>
+              <otmi:vector count='2'>Methods</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>PAC</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>fragments</otmi:vector>
+              <otmi:vector count='1'>locations</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>lengths</otmi:vector>
+              <otmi:vector count='1'>re-screening</otmi:vector>
+              <otmi:vector count='1'>Construction</otmi:vector>
+              <otmi:vector count='1'>screened</otmi:vector>
+              <otmi:vector count='1'>centromeric</otmi:vector>
+              <otmi:vector count='1'>HMMgene</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>location.</otmi:vector>
+              <otmi:vector count='1'>GENSCAN</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>map</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>enzyme</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>Transformation</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>seed</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>successfully</otmi:vector>
+              <otmi:vector count='1'>coli</otmi:vector>
+              <otmi:vector count='1'>exon</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>specificity</otmi:vector>
+              <otmi:vector count='1'>gap-filling</otmi:vector>
+              <otmi:vector count='1'>Initial</otmi:vector>
+              <otmi:vector count='1'>vector</otmi:vector>
+              <otmi:vector count='1'>nested</otmi:vector>
+              <otmi:vector count='1'>sequencing</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Clone</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>construct</otmi:vector>
+              <otmi:vector count='1'>9–12</otmi:vector>
+              <otmi:vector count='1'>efficient</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>located</otmi:vector>
+              <otmi:vector count='1'>identifying</otmi:vector>
+              <otmi:vector count='1'>markers</otmi:vector>
+              <otmi:vector count='1'>tissues</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>diluted</otmi:vector>
+              <otmi:vector count='1'>finds</otmi:vector>
+              <otmi:vector count='1'>digest</otmi:vector>
+              <otmi:vector count='1'>digested</otmi:vector>
+              <otmi:vector count='1'>genome</otmi:vector>
+              <otmi:vector count='1'>verification</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>allowed</otmi:vector>
+              <otmi:vector count='1'>fingerprint</otmi:vector>
+              <otmi:vector count='1'>predictions</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>genomic</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>electroporation</otmi:vector>
+              <otmi:vector count='1'>bacterial</otmi:vector>
+              <otmi:vector count='1'>STS</otmi:vector>
+              <otmi:vector count='1'>DH10B</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>partially</otmi:vector>
+              <otmi:vector count='1'>remaining</otmi:vector>
+              <otmi:vector count='1'>S2</otmi:vector>
+              <otmi:vector count='1'>fibre-FISH</otmi:vector>
+              <otmi:vector count='1'>amplified</otmi:vector>
+              <otmi:vector count='1'>HSA11p</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>Conversely</otmi:vector>
+              <otmi:vector count='1'>nucleotide</otmi:vector>
+              <otmi:vector count='1'>FISH</otmi:vector>
+              <otmi:vector count='1'>HSA11q</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>cultured</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>yields</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>improvements</otmi:vector>
+              <otmi:vector count='1'>spaced</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>similarity</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>discards</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>Prediction</otmi:vector>
+              <otmi:vector count='1'>ligated</otmi:vector>
+              <otmi:vector count='1'>fragment</otmi:vector>
+              <otmi:vector count='1'>Table</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>evenly</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>accuracies</otmi:vector>
+              <otmi:vector count='1'>single-strand</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>Sac</otmi:vector>
+              <otmi:vector count='1'>filled</otmi:vector>
+              <otmi:vector count='1'>cells</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>P1-derived</otmi:vector>
+              <otmi:vector count='1'>walking</otmi:vector>
+              <otmi:vector count='1'>insert</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>exons</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>flow-sorted</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>cytometry</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>project</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>lowering</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>pKS145</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>FGENESH</otmi:vector>
+              <otmi:vector count='1'>stage</otmi:vector>
+              <otmi:vector count='1'>proved</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>sorted</otmi:vector>
+              <otmi:vector count='1'>confirmed</otmi:vector>
+              <otmi:vector count='1'>Escherichia</otmi:vector>
+              <otmi:vector count='1'>lymphoblastoid</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>combining</otmi:vector>
+              <otmi:vector count='1'>WUGSC</otmi:vector>
+              <otmi:vector count='1'>selected</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>screening</otmi:vector>
+              <otmi:vector count='1'>fosmid</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>restriction</otmi:vector>
+              <otmi:vector count='1'>MIT</otmi:vector>
+              <otmi:vector count='1'>telomeric</otmi:vector>
+              <otmi:vector count='1'>large-insert</otmi:vector>
+              <otmi:vector count='1'>carried</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>highly-integrated</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Clone path construction Initial seed clones were selected by using the restriction enzyme digest fingerprint data of WUGSC and MIT for HSA11p, and by screening the RPCI-11 BAC library with evenly spaced markers taken from a highly-integrated STS map of the whole human genome for HSA11q</otmi:snippet>
+              <otmi:snippet>Conversely, ab initio gene-finders also predict many false-positive genes</otmi:snippet>
+              <otmi:snippet>DIGIT successfully discards many false-positive exons predicted by the individual gene-finders and yields remarkable improvements in specificity without lowering sensitivity as compared with the best accuracies achieved by any single gene-finder</otmi:snippet>
+              <otmi:snippet>For construction of the CMB9 library, sorted DNA derived from cultured lymphoblastoid cells was partially digested by Sac I and the fragments were ligated into the pKS145 vector</otmi:snippet>
+              <otmi:snippet>For experimental verification of the candidate genes, RT–PCR was performed using primer sets designed from the predicted exon sequences with a single-strand cDNA library prepared from various human tissues</otmi:snippet>
+              <otmi:snippet>If, in the first round of RT–PCR, a product could not be detected, a second round of PCR using nested PCR primer sets with the diluted RT–PCR products was conducted</otmi:snippet>
+              <otmi:snippet>Methods Construction of the chromosome 11 large insert libraries We prepared chromosome-specific bacterial artificial chromosome (BAC; CMB9) and fosmid (CMF9) libraries by using flow-sorted chromosomal DNA derived from human chromosomes 9–12 (these chromosomes cannot be separated by flow cytometry due to their similar size)</otmi:snippet>
+              <otmi:snippet>Prediction of novel human genes For exhaustive and efficient rare gene prediction we used DIGIT , an ab initio gene-finder that finds genes by combining gene predictions from multiple ab initio gene-finders such as FGENESH , GENSCAN and HMMgene </otmi:snippet>
+              <otmi:snippet>The CMF9 library was prepared according to previously described methods </otmi:snippet>
+              <otmi:snippet>The chromosomal locations for some clones in the minimum tiling path were confirmed by FISH analysis, and the lengths of the clone gaps were estimated by fibre-FISH according to previous methods </otmi:snippet>
+              <otmi:snippet>The chromosome-specific libraries proved especially useful during the gap-filling stage of the project and for identifying clones near the complex centromeric and telomeric regions</otmi:snippet>
+              <otmi:snippet>The most remarkable feature of ab initio gene-finders is their high sensitivity, especially at the nucleotide level</otmi:snippet>
+              <otmi:snippet>The procedures for large-insert clone sequencing are described in Supplementary Methods </otmi:snippet>
+              <otmi:snippet>The reason we used DIGIT is that ab initio gene-finders, which do not use sequence similarity, have the potential for exhaustive rare gene prediction</otmi:snippet>
+              <otmi:snippet>The remaining gaps were filled by walking from clone end sequences and by re-screening of the clone libraries</otmi:snippet>
+              <otmi:snippet>These approaches allowed us to construct quickly a tiling path across most of the chromosome</otmi:snippet>
+              <otmi:snippet>Transformation was carried out by electroporation into Escherichia coli DH10B</otmi:snippet>
+              <otmi:snippet>We screened these two libraries, the RPCI-11 whole-genome BAC library, and a few other BAC and P1-derived artificial chromosome (PAC) whole-genome libraries ( Supplementary Table S2 )</otmi:snippet>
+              <otmi:snippet>When a PCR product was amplified, sequence analysis was used to confirm that the cDNA fragment was located at the predicted genomic location.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='conclusions'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='7'>genes</otmi:vector>
+              <otmi:vector count='4'>chromosome</otmi:vector>
+              <otmi:vector count='3'>Supplementary</otmi:vector>
+              <otmi:vector count='3'>human</otmi:vector>
+              <otmi:vector count='3'>11</otmi:vector>
+              <otmi:vector count='2'>CpG</otmi:vector>
+              <otmi:vector count='2'>islands</otmi:vector>
+              <otmi:vector count='2'>number</otmi:vector>
+              <otmi:vector count='2'>loci</otmi:vector>
+              <otmi:vector count='2'>disease</otmi:vector>
+              <otmi:vector count='2'>significant</otmi:vector>
+              <otmi:vector count='2'>gene</otmi:vector>
+              <otmi:vector count='1'>initio</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>describes</otmi:vector>
+              <otmi:vector count='1'>psychiatric</otmi:vector>
+              <otmi:vector count='1'>family</otmi:vector>
+              <otmi:vector count='1'>sharing</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>369</otmi:vector>
+              <otmi:vector count='1'>necessarily</otmi:vector>
+              <otmi:vector count='1'>scientists</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>rich</otmi:vector>
+              <otmi:vector count='1'>Conclusions</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>overlapping</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>identifying</otmi:vector>
+              <otmi:vector count='1'>elucidated</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>genome</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>disorder</otmi:vector>
+              <otmi:vector count='1'>S2</otmi:vector>
+              <otmi:vector count='1'>behavioural</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>genomic</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>emphasize</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>medically</otmi:vector>
+              <otmi:vector count='1'>solid</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>holds.</otmi:vector>
+              <otmi:vector count='1'>S16</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>Table</otmi:vector>
+              <otmi:vector count='1'>availability</otmi:vector>
+              <otmi:vector count='1'>uniform</otmi:vector>
+              <otmi:vector count='1'>implicated</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>initially</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>susceptibility</otmi:vector>
+              <otmi:vector count='1'>foundation</otmi:vector>
+              <otmi:vector count='1'>variants</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>annotation</otmi:vector>
+              <otmi:vector count='1'>ab</otmi:vector>
+              <otmi:vector count='1'>stand</otmi:vector>
+              <otmi:vector count='1'>splice</otmi:vector>
+              <otmi:vector count='1'>clustered</otmi:vector>
+              <otmi:vector count='1'>findings</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>variation</otmi:vector>
+              <otmi:vector count='1'>correlation</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>cancers</otmi:vector>
+              <otmi:vector count='1'>families</otmi:vector>
+              <otmi:vector count='1'>olfactory</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>high-quality</otmi:vector>
+              <otmi:vector count='1'>phenomena</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Although these phenomena may not necessarily be specific to chromosome 11, they do emphasize the need for further uniform analyses and annotation across the entire human genome</otmi:snippet>
+              <otmi:snippet>Conclusions This work describes just a few of the interesting features of human chromosome 11</otmi:snippet>
+              <otmi:snippet>It contains many clustered gene families, the most significant being 369 members of the olfactory receptor gene family</otmi:snippet>
+              <otmi:snippet>Many medically important loci are associated with chromosome 11 for which the genetic cause of the disorder has yet to be elucidated ( Supplementary Table S16 )</otmi:snippet>
+              <otmi:snippet>Notably, the chromosome is very rich in genes overall and disease genes in general ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>S2 )</otmi:snippet>
+              <otmi:snippet>Some findings that stand out in our analysis include a significant correlation between the presence of CpG islands and the number of splice variants, a large number of overlapping genes ( Supplementary Information ) and genes sharing CpG islands, and genes that were only initially identified through ab initio methods</otmi:snippet>
+              <otmi:snippet>This includes various cancers, susceptibility genes and loci implicated in behavioural and psychiatric disease variation</otmi:snippet>
+              <otmi:snippet>With the availability of the high-quality human genomic sequence as presented here, scientists have a solid foundation for identifying and understanding all of the genes and functional elements it holds.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='54'>genes</otmi:vector>
+              <otmi:vector count='19'>human</otmi:vector>
+              <otmi:vector count='19'>gene</otmi:vector>
+              <otmi:vector count='18'>Supplementary</otmi:vector>
+              <otmi:vector count='17'>HSA11</otmi:vector>
+              <otmi:vector count='16'>receptor</otmi:vector>
+              <otmi:vector count='15'>olfactory</otmi:vector>
+              <otmi:vector count='13'>have</otmi:vector>
+              <otmi:vector count='13'>sequence</otmi:vector>
+              <otmi:vector count='11'>Table</otmi:vector>
+              <otmi:vector count='10'>cluster</otmi:vector>
+              <otmi:vector count='10'>average</otmi:vector>
+              <otmi:vector count='10'>chromosome</otmi:vector>
+              <otmi:vector count='9'>variants</otmi:vector>
+              <otmi:vector count='9'>one</otmi:vector>
+              <otmi:vector count='9'>which</otmi:vector>
+              <otmi:vector count='9'>these</otmi:vector>
+              <otmi:vector count='9'>genome</otmi:vector>
+              <otmi:vector count='9'>at</otmi:vector>
+              <otmi:vector count='9'>novel</otmi:vector>
+              <otmi:vector count='8'>two</otmi:vector>
+              <otmi:vector count='8'>transcripts</otmi:vector>
+              <otmi:vector count='8'>Mb</otmi:vector>
+              <otmi:vector count='7'>found</otmi:vector>
+              <otmi:vector count='7'>protein-coding</otmi:vector>
+              <otmi:vector count='7'>kb</otmi:vector>
+              <otmi:vector count='6'>all</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='6'>ref</otmi:vector>
+              <otmi:vector count='6'>chromosomes</otmi:vector>
+              <otmi:vector count='6'>many</otmi:vector>
+              <otmi:vector count='6'>finished</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='6'>only</otmi:vector>
+              <otmi:vector count='6'>clusters</otmi:vector>
+              <otmi:vector count='5'>total</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>few</otmi:vector>
+              <otmi:vector count='5'>pseudogenes</otmi:vector>
+              <otmi:vector count='5'>they</otmi:vector>
+              <otmi:vector count='5'>per</otmi:vector>
+              <otmi:vector count='5'>first</otmi:vector>
+              <otmi:vector count='5'>identified</otmi:vector>
+              <otmi:vector count='5'>genome-wide</otmi:vector>
+              <otmi:vector count='5'>least</otmi:vector>
+              <otmi:vector count='5'>largest</otmi:vector>
+              <otmi:vector count='5'>Methods</otmi:vector>
+              <otmi:vector count='5'>but</otmi:vector>
+              <otmi:vector count='5'>34</otmi:vector>
+              <otmi:vector count='5'>including</otmi:vector>
+              <otmi:vector count='4'>CDSs</otmi:vector>
+              <otmi:vector count='4'>experimental</otmi:vector>
+              <otmi:vector count='4'>class</otmi:vector>
+              <otmi:vector count='4'>protein</otmi:vector>
+              <otmi:vector count='4'>CpG</otmi:vector>
+              <otmi:vector count='4'>map</otmi:vector>
+              <otmi:vector count='4'>2</otmi:vector>
+              <otmi:vector count='4'>region</otmi:vector>
+              <otmi:vector count='4'>known</otmi:vector>
+              <otmi:vector count='4'>different</otmi:vector>
+              <otmi:vector count='4'>gaps</otmi:vector>
+              <otmi:vector count='4'>program</otmi:vector>
+              <otmi:vector count='4'>splice</otmi:vector>
+              <otmi:vector count='4'>located</otmi:vector>
+              <otmi:vector count='4'>also</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>I</otmi:vector>
+              <otmi:vector count='4'>expressed</otmi:vector>
+              <otmi:vector count='4'>physical</otmi:vector>
+              <otmi:vector count='4'>families</otmi:vector>
+              <otmi:vector count='4'>RNAs</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>no</otmi:vector>
+              <otmi:vector count='4'>genetic</otmi:vector>
+              <otmi:vector count='4'>predicted</otmi:vector>
+              <otmi:vector count='4'>repeats</otmi:vector>
+              <otmi:vector count='3'>should</otmi:vector>
+              <otmi:vector count='3'>read-through</otmi:vector>
+              <otmi:vector count='3'>II</otmi:vector>
+              <otmi:vector count='3'>remaining</otmi:vector>
+              <otmi:vector count='3'>regions</otmi:vector>
+              <otmi:vector count='3'>four</otmi:vector>
+              <otmi:vector count='3'>centromere</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>any</otmi:vector>
+              <otmi:vector count='3'>sequencing</otmi:vector>
+              <otmi:vector count='3'>Olfactory</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>17</otmi:vector>
+              <otmi:vector count='3'>11</otmi:vector>
+              <otmi:vector count='3'>support</otmi:vector>
+              <otmi:vector count='3'>examples</otmi:vector>
+              <otmi:vector count='3'>putative</otmi:vector>
+              <otmi:vector count='3'>catalogue</otmi:vector>
+              <otmi:vector count='3'>loci</otmi:vector>
+              <otmi:vector count='3'>out</otmi:vector>
+              <otmi:vector count='3'>These</otmi:vector>
+              <otmi:vector count='3'>1,524</otmi:vector>
+              <otmi:vector count='3'>receptors</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>distance</otmi:vector>
+              <otmi:vector count='3'>number</otmi:vector>
+              <otmi:vector count='3'>maps</otmi:vector>
+              <otmi:vector count='3'>clone</otmi:vector>
+              <otmi:vector count='3'>structure</otmi:vector>
+              <otmi:vector count='3'>close</otmi:vector>
+              <otmi:vector count='3'>initio</otmi:vector>
+              <otmi:vector count='3'>cases</otmi:vector>
+              <otmi:vector count='3'>belong</otmi:vector>
+              <otmi:vector count='3'>All</otmi:vector>
+              <otmi:vector count='3'>significant</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>members</otmi:vector>
+              <otmi:vector count='3'>consisting</otmi:vector>
+              <otmi:vector count='3'>islands</otmi:vector>
+              <otmi:vector count='3'>ab</otmi:vector>
+              <otmi:vector count='3'>orthologous</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>encoding</otmi:vector>
+              <otmi:vector count='2'>shows</otmi:vector>
+              <otmi:vector count='2'>heterochromatic</otmi:vector>
+              <otmi:vector count='2'>DIGIT</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>10</otmi:vector>
+              <otmi:vector count='2'>deCODE</otmi:vector>
+              <otmi:vector count='2'>genomes</otmi:vector>
+              <otmi:vector count='2'>six</otmi:vector>
+              <otmi:vector count='2'>described</otmi:vector>
+              <otmi:vector count='2'>166</otmi:vector>
+              <otmi:vector count='2'>functions</otmi:vector>
+              <otmi:vector count='2'>whether</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>EST</otmi:vector>
+              <otmi:vector count='2'>annotated</otmi:vector>
+              <otmi:vector count='2'>11p-cen</otmi:vector>
+              <otmi:vector count='2'>100</otmi:vector>
+              <otmi:vector count='2'>compared</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>G</otmi:vector>
+              <otmi:vector count='2'>similar</otmi:vector>
+              <otmi:vector count='2'>currently</otmi:vector>
+              <otmi:vector count='2'>12</otmi:vector>
+              <otmi:vector count='2'>appear</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>spaced</otmi:vector>
+              <otmi:vector count='2'>full-length</otmi:vector>
+              <otmi:vector count='2'>acids</otmi:vector>
+              <otmi:vector count='2'>Tables</otmi:vector>
+              <otmi:vector count='2'>recombination</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>Ensembl</otmi:vector>
+              <otmi:vector count='2'>369</otmi:vector>
+              <otmi:vector count='2'>include</otmi:vector>
+              <otmi:vector count='2'>length</otmi:vector>
+              <otmi:vector count='2'>contains</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>contain</otmi:vector>
+              <otmi:vector count='2'>large</otmi:vector>
+              <otmi:vector count='2'>identify</otmi:vector>
+              <otmi:vector count='2'>comprise</otmi:vector>
+              <otmi:vector count='2'>Center</otmi:vector>
+              <otmi:vector count='2'>50</otmi:vector>
+              <otmi:vector count='2'>approximately</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>family</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>sequences</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>correlation</otmi:vector>
+              <otmi:vector count='2'>single-exon</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>possible</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>18</otmi:vector>
+              <otmi:vector count='2'>related</otmi:vector>
+              <otmi:vector count='2'>respectively</otmi:vector>
+              <otmi:vector count='2'>previously</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>classified</otmi:vector>
+              <otmi:vector count='2'>annotation</otmi:vector>
+              <otmi:vector count='2'>36</otmi:vector>
+              <otmi:vector count='2'>rich</otmi:vector>
+              <otmi:vector count='2'>765</otmi:vector>
+              <otmi:vector count='2'>order</otmi:vector>
+              <otmi:vector count='2'>repeat</otmi:vector>
+              <otmi:vector count='2'>40</otmi:vector>
+              <otmi:vector count='2'>203</otmi:vector>
+              <otmi:vector count='2'>mammalian</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>Information</otmi:vector>
+              <otmi:vector count='2'>common</otmi:vector>
+              <otmi:vector count='2'>transcription</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>landscape</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>long</otmi:vector>
+              <otmi:vector count='2'>disease</otmi:vector>
+              <otmi:vector count='2'>amino</otmi:vector>
+              <otmi:vector count='2'>content</otmi:vector>
+              <otmi:vector count='2'>spliced</otmi:vector>
+              <otmi:vector count='2'>complete</otmi:vector>
+              <otmi:vector count='2'>density</otmi:vector>
+              <otmi:vector count='2'>Institute</otmi:vector>
+              <otmi:vector count='2'>do</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>megabases</otmi:vector>
+              <otmi:vector count='1'>male</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>overlap</otmi:vector>
+              <otmi:vector count='1'>131,130,853</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>internally</otmi:vector>
+              <otmi:vector count='1'>multi-gene</otmi:vector>
+              <otmi:vector count='1'>locus</otmi:vector>
+              <otmi:vector count='1'>ESTs</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>contigs</otmi:vector>
+              <otmi:vector count='1'>nested</otmi:vector>
+              <otmi:vector count='1'>0.0001</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>lineages</otmi:vector>
+              <otmi:vector count='1'>externally</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>roughly</otmi:vector>
+              <otmi:vector count='1'>80.53</otmi:vector>
+              <otmi:vector count='1'>weakly</otmi:vector>
+              <otmi:vector count='1'>size-estimated</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>mRNA</otmi:vector>
+              <otmi:vector count='1'>hybridization</otmi:vector>
+              <otmi:vector count='1'>exons</otmi:vector>
+              <otmi:vector count='1'>highest</otmi:vector>
+              <otmi:vector count='1'>beta</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>open-reading</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>1.53</otmi:vector>
+              <otmi:vector count='1'>solved</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>mapped</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>best-studied</otmi:vector>
+              <otmi:vector count='1'>Eponine</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>reliable</otmi:vector>
+              <otmi:vector count='1'>averages</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>statistics</otmi:vector>
+              <otmi:vector count='1'>starts</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>subtelomeric</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>May</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>meiotic</otmi:vector>
+              <otmi:vector count='1'>frames</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>centromeric</otmi:vector>
+              <otmi:vector count='1'>Marshfield</otmi:vector>
+              <otmi:vector count='1'>sickle</otmi:vector>
+              <otmi:vector count='1'>MIT</otmi:vector>
+              <otmi:vector count='1'>variant</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>43</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>Interestingly</otmi:vector>
+              <otmi:vector count='1'>survey</otmi:vector>
+              <otmi:vector count='1'>19</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>overview</otmi:vector>
+              <otmi:vector count='1'>TRIM34</otmi:vector>
+              <otmi:vector count='1'>154</otmi:vector>
+              <otmi:vector count='1'>Class</otmi:vector>
+              <otmi:vector count='1'>identity</otmi:vector>
+              <otmi:vector count='1'>1.5</otmi:vector>
+              <otmi:vector count='1'>52.8</otmi:vector>
+              <otmi:vector count='1'>distal</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>45</otmi:vector>
+              <otmi:vector count='1'>9</otmi:vector>
+              <otmi:vector count='1'>linear</otmi:vector>
+              <otmi:vector count='1'>Alu</otmi:vector>
+              <otmi:vector count='1'>euchromatic</otmi:vector>
+              <otmi:vector count='1'>latest</otmi:vector>
+              <otmi:vector count='1'>Broad</otmi:vector>
+              <otmi:vector count='1'>FISH</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>Approximately</otmi:vector>
+              <otmi:vector count='1'>65</otmi:vector>
+              <otmi:vector count='1'>104</otmi:vector>
+              <otmi:vector count='1'>Washington</otmi:vector>
+              <otmi:vector count='1'>47</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>investigated</otmi:vector>
+              <otmi:vector count='1'>fully-sequenced</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>gap</otmi:vector>
+              <otmi:vector count='1'>incompletely</otmi:vector>
+              <otmi:vector count='1'>attempted</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>48</otmi:vector>
+              <otmi:vector count='1'>genetics</otmi:vector>
+              <otmi:vector count='1'>RIKEN</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>97</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>Eight</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>Functional</otmi:vector>
+              <otmi:vector count='1'>103</otmi:vector>
+              <otmi:vector count='1'>microsatellite-based</otmi:vector>
+              <otmi:vector count='1'>later</otmi:vector>
+              <otmi:vector count='1'>corresponding</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>fibre-fluorescence</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>imprinting</otmi:vector>
+              <otmi:vector count='1'>kilobases</otmi:vector>
+              <otmi:vector count='1'>S10</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>freedom</otmi:vector>
+              <otmi:vector count='1'>artefacts</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>S11</otmi:vector>
+              <otmi:vector count='1'>bp</otmi:vector>
+              <otmi:vector count='1'>rat</otmi:vector>
+              <otmi:vector count='1'>Trust</otmi:vector>
+              <otmi:vector count='1'>9.39</otmi:vector>
+              <otmi:vector count='1'>64.5</otmi:vector>
+              <otmi:vector count='1'>S12</otmi:vector>
+              <otmi:vector count='1'>4.1</otmi:vector>
+              <otmi:vector count='1'>high-quality</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>RT–PCR</otmi:vector>
+              <otmi:vector count='1'>S13</otmi:vector>
+              <otmi:vector count='1'>14</otmi:vector>
+              <otmi:vector count='1'>S14</otmi:vector>
+              <otmi:vector count='1'>extremely</otmi:vector>
+              <otmi:vector count='1'>island</otmi:vector>
+              <otmi:vector count='1'>portion</otmi:vector>
+              <otmi:vector count='1'>fourth</otmi:vector>
+              <otmi:vector count='1'>HSA20</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>13</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>S15</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>syndrome</otmi:vector>
+              <otmi:vector count='1'>shotgun</otmi:vector>
+              <otmi:vector count='1'>ensure</otmi:vector>
+              <otmi:vector count='1'>4.4</otmi:vector>
+              <otmi:vector count='1'>apart</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>structures</otmi:vector>
+              <otmi:vector count='1'>predictions</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>haemoglobin</otmi:vector>
+              <otmi:vector count='1'>2004</otmi:vector>
+              <otmi:vector count='1'>99.8</otmi:vector>
+              <otmi:vector count='1'>junctions</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>24.6</otmi:vector>
+              <otmi:vector count='1'>626</otmi:vector>
+              <otmi:vector count='1'>ones</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>unique</otmi:vector>
+              <otmi:vector count='1'>Where</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>checks</otmi:vector>
+              <otmi:vector count='1'>crystal</otmi:vector>
+              <otmi:vector count='1'>fish-like</otmi:vector>
+              <otmi:vector count='1'>gene-finder</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>Supplemental</otmi:vector>
+              <otmi:vector count='1'>multi-exon</otmi:vector>
+              <otmi:vector count='1'>insulin</otmi:vector>
+              <otmi:vector count='1'>856</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>296</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>According</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>Sciences</otmi:vector>
+              <otmi:vector count='1'>anaemia</otmi:vector>
+              <otmi:vector count='1'>belonged</otmi:vector>
+              <otmi:vector count='1'>HSAY</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>Medicine</otmi:vector>
+              <otmi:vector count='1'>characteristics</otmi:vector>
+              <otmi:vector count='1'>clone-by-clone</otmi:vector>
+              <otmi:vector count='1'>tags</otmi:vector>
+              <otmi:vector count='1'>22</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>explored</otmi:vector>
+              <otmi:vector count='1'>instances</otmi:vector>
+              <otmi:vector count='1'>telomeric</otmi:vector>
+              <otmi:vector count='1'>mentioned</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>nearby</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>P</otmi:vector>
+              <otmi:vector count='1'>GenBank</otmi:vector>
+              <otmi:vector count='1'>cDNA</otmi:vector>
+              <otmi:vector count='1'>47.98</otmi:vector>
+              <otmi:vector count='1'>805</otmi:vector>
+              <otmi:vector count='1'>cM</otmi:vector>
+              <otmi:vector count='1'>7.3</otmi:vector>
+              <otmi:vector count='1'>26</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>rodents</otmi:vector>
+              <otmi:vector count='1'>incorrectly</otmi:vector>
+              <otmi:vector count='1'>lists</otmi:vector>
+              <otmi:vector count='1'>Harvard</otmi:vector>
+              <otmi:vector count='1'>11p-tel</otmi:vector>
+              <otmi:vector count='1'>Three</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>Whether</otmi:vector>
+              <otmi:vector count='1'>landmark</otmi:vector>
+              <otmi:vector count='1'>49.6</otmi:vector>
+              <otmi:vector count='1'>11p15.5</otmi:vector>
+              <otmi:vector count='1'>higher-order</otmi:vector>
+              <otmi:vector count='1'>28</otmi:vector>
+              <otmi:vector count='1'>3.73</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>beginning</otmi:vector>
+              <otmi:vector count='1'>extensions</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>separate</otmi:vector>
+              <otmi:vector count='1'>internal</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>beta-globin</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>134.5</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>fusion</otmi:vector>
+              <otmi:vector count='1'>plus</otmi:vector>
+              <otmi:vector count='1'>location</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>Chromosome</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>degrees</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>domain</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>738</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>alpha</otmi:vector>
+              <otmi:vector count='1'>230</otmi:vector>
+              <otmi:vector count='1'>168</otmi:vector>
+              <otmi:vector count='1'>11q</otmi:vector>
+              <otmi:vector count='1'>Généthon</otmi:vector>
+              <otmi:vector count='1'>mRNAs</otmi:vector>
+              <otmi:vector count='1'>HNRPUL2</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>reverse</otmi:vector>
+              <otmi:vector count='1'>mammals</otmi:vector>
+              <otmi:vector count='1'>4,000</otmi:vector>
+              <otmi:vector count='1'>lie</otmi:vector>
+              <otmi:vector count='1'>identifies</otmi:vector>
+              <otmi:vector count='1'>sequenced</otmi:vector>
+              <otmi:vector count='1'>Out</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>unprocessed</otmi:vector>
+              <otmi:vector count='1'>approach.</otmi:vector>
+              <otmi:vector count='1'>mouse</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>221</otmi:vector>
+              <otmi:vector count='1'>41.57</otmi:vector>
+              <otmi:vector count='1'>L1</otmi:vector>
+              <otmi:vector count='1'>School</otmi:vector>
+              <otmi:vector count='1'>11p</otmi:vector>
+              <otmi:vector count='1'>interrupted</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>Recombination</otmi:vector>
+              <otmi:vector count='1'>water-soluble</otmi:vector>
+              <otmi:vector count='1'>650</otmi:vector>
+              <otmi:vector count='1'>178</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>duplication</otmi:vector>
+              <otmi:vector count='1'>BSCL2</otmi:vector>
+              <otmi:vector count='1'>totalling</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>manual</otmi:vector>
+              <otmi:vector count='1'>Further</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>coverage</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>S1–S3</otmi:vector>
+              <otmi:vector count='1'>detectable</otmi:vector>
+              <otmi:vector count='1'>CTNND1</otmi:vector>
+              <otmi:vector count='1'>genomic</otmi:vector>
+              <otmi:vector count='1'>messenger</otmi:vector>
+              <otmi:vector count='1'>11.6</otmi:vector>
+              <otmi:vector count='1'>especially</otmi:vector>
+              <otmi:vector count='1'>ideally</otmi:vector>
+              <otmi:vector count='1'>method</otmi:vector>
+              <otmi:vector count='1'>894</otmi:vector>
+              <otmi:vector count='1'>3,723</otmi:vector>
+              <otmi:vector count='1'>quality</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>1.19</otmi:vector>
+              <otmi:vector count='1'>1,228</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>definitive</otmi:vector>
+              <otmi:vector count='1'>Genomic</otmi:vector>
+              <otmi:vector count='1'>suggests</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>52</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>Co-transcribed</otmi:vector>
+              <otmi:vector count='1'>situ</otmi:vector>
+              <otmi:vector count='1'>366</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>poor</otmi:vector>
+              <otmi:vector count='1'>metazoans</otmi:vector>
+              <otmi:vector count='1'>53</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>ligands</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>polymerase</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>browser</otmi:vector>
+              <otmi:vector count='1'>86</otmi:vector>
+              <otmi:vector count='1'>supporting</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>Beckwith–Wiedemann</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>142</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>Identification</otmi:vector>
+              <otmi:vector count='1'>conserved</otmi:vector>
+              <otmi:vector count='1'>55</otmi:vector>
+              <otmi:vector count='1'>undertaken</otmi:vector>
+              <otmi:vector count='1'>224.29</otmi:vector>
+              <otmi:vector count='1'>NCBI</otmi:vector>
+              <otmi:vector count='1'>comprised</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>intrachromosomal</otmi:vector>
+              <otmi:vector count='1'>sequence-tagged</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>Gene</otmi:vector>
+              <otmi:vector count='1'>minimal</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>structural</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>InterProScan</otmi:vector>
+              <otmi:vector count='1'>58</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>AC126345</otmi:vector>
+              <otmi:vector count='1'>sex-averaged</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>obtain</otmi:vector>
+              <otmi:vector count='1'>TRIM</otmi:vector>
+              <otmi:vector count='1'>37</otmi:vector>
+              <otmi:vector count='1'>concordance</otmi:vector>
+              <otmi:vector count='1'>product</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>35</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>expanded</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>Besides</otmi:vector>
+              <otmi:vector count='1'>supported</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>coding</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>scattered</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>Wellcome</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>0.85</otmi:vector>
+              <otmi:vector count='1'>mistakes</otmi:vector>
+              <otmi:vector count='1'>versus</otmi:vector>
+              <otmi:vector count='1'>Figure</otmi:vector>
+              <otmi:vector count='1'>1,195</otmi:vector>
+              <otmi:vector count='1'>uniform</otmi:vector>
+              <otmi:vector count='1'>ancestral</otmi:vector>
+              <otmi:vector count='1'>6.2</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>PCR</otmi:vector>
+              <otmi:vector count='1'>81</otmi:vector>
+              <otmi:vector count='1'>classes</otmi:vector>
+              <otmi:vector count='1'>assembly</otmi:vector>
+              <otmi:vector count='1'>Sequencing</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>dog</otmi:vector>
+              <otmi:vector count='1'>(54</otmi:vector>
+              <otmi:vector count='1'>intensely</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>S1</otmi:vector>
+              <otmi:vector count='1'>verification</otmi:vector>
+              <otmi:vector count='1'>divided</otmi:vector>
+              <otmi:vector count='1'>evenly</otmi:vector>
+              <otmi:vector count='1'>high-throughput</otmi:vector>
+              <otmi:vector count='1'>Sanger</otmi:vector>
+              <otmi:vector count='1'>estimate</otmi:vector>
+              <otmi:vector count='1'>Human</otmi:vector>
+              <otmi:vector count='1'>S9</otmi:vector>
+              <otmi:vector count='1'>reading</otmi:vector>
+              <otmi:vector count='1'>active</otmi:vector>
+              <otmi:vector count='1'>seven</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>carried</otmi:vector>
+              <otmi:vector count='1'>207</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>Genome</otmi:vector>
+              <otmi:vector count='1'>correctly</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>2,347</otmi:vector>
+              <otmi:vector count='1'>pairs</otmi:vector>
+              <otmi:vector count='1'>S4</otmi:vector>
+              <otmi:vector count='1'>10.6</otmi:vector>
+              <otmi:vector count='1'>phenomenon</otmi:vector>
+              <otmi:vector count='1'>RefSeq</otmi:vector>
+              <otmi:vector count='1'>female</otmi:vector>
+              <otmi:vector count='1'>satellite</otmi:vector>
+              <otmi:vector count='1'>S5</otmi:vector>
+              <otmi:vector count='1'>TRIM6</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>insertion</otmi:vector>
+              <otmi:vector count='1'>richest</otmi:vector>
+              <otmi:vector count='1'>usually</otmi:vector>
+              <otmi:vector count='1'>clustered</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>S6</otmi:vector>
+              <otmi:vector count='1'>S8</otmi:vector>
+              <otmi:vector count='1'>non-coding</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>S7</otmi:vector>
+              <otmi:vector count='1'>base</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>According to a recent survey of the Ensembl genome browser , HSA11 contains the fourth highest number of genes in the human genome, after human chromosomes 1, 2 (ref. 9 ) and 19 (ref. 10 ), respectively</otmi:snippet>
+              <otmi:snippet>All but 10 of the olfactory receptor genes on HSA11 lie within 18 clusters, separated by at least 100 kb (Figs 1 and 2 ; see also Supplementary Table S10 )</otmi:snippet>
+              <otmi:snippet>All human chromosomes except HSA20 (ref. 16 ) and HSAY (ref. 17 ) contain olfactory receptor genes, but HSA11 is by far the richest</otmi:snippet>
+              <otmi:snippet>All sequence-tagged sites from the Généthon microsatellite-based genetic map , the deCODE map and the Marshfield genetic maps are present in the HSA11 sequence ( Supplemental Methods )</otmi:snippet>
+              <otmi:snippet>Approximately 50% (54 out of 103) of these genes are intact in human, which is close to the genome-wide average for all olfactory receptors</otmi:snippet>
+              <otmi:snippet>Because the supporting evidence for such read-through transcripts is usually minimal, additional experiments should first be carried out to determine whether or not they are real, or just represent cellular mistakes or artefacts</otmi:snippet>
+              <otmi:snippet>Besides these examples, we found only a few other examples on chromosomes 17 and 22 (ref. 15 ) ( Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>Both the repeat density (47.98%; Supplementary Table S5 and Supplementary Information ) and G + C content (41.57%) are close to genome-wide averages</otmi:snippet>
+              <otmi:snippet>By contrast, of the 626 genes with no CpG islands, only 154 (24.6%) have two or more variants</otmi:snippet>
+              <otmi:snippet>Class I olfactory receptor genes are known as fish-like olfactory receptors and are believed to be receptors for water-soluble ligands</otmi:snippet>
+              <otmi:snippet>Co-transcribed or read-through genes do not appear to be a very common phenomenon in the human genome, but this could be due to the current lack of uniform genome-wide gene annotation</otmi:snippet>
+              <otmi:snippet>Despite the structural changes, and although some members of the cluster are on different chromosomes in rodents, analysis of conserved order of orthologous sequences suggests that they belonged to one large cluster in their last common ancestral genome</otmi:snippet>
+              <otmi:snippet>Eight of the 34 genes may simply be extensions of nearby human genes</otmi:snippet>
+              <otmi:snippet>For the protein-coding genes, we attempted to identify all possible splice variants using currently available mRNA data (and, in a few cases, EST information)</otmi:snippet>
+              <otmi:snippet>Functional olfactory receptor genes are evenly distributed within the clusters</otmi:snippet>
+              <otmi:snippet>Further experimental evidence to support the expression of these genes and to identify their full-length structures is necessary</otmi:snippet>
+              <otmi:snippet>Gene catalogue We annotated a total of 2,347 gene loci consisting of 1,524 potentially active protein-coding genes, 765 pseudogenes and 58 RNAs ( Supplementary Table S6 and Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>HSA11 is very gene rich and there are many clustered gene families located on the chromosome</otmi:snippet>
+              <otmi:snippet>Human chromosome 11 (HSA11), which represents approximately 4.4% of the human genome , has had a significant role in the history of molecular genetics, beginning long before its complete sequencing was undertaken</otmi:snippet>
+              <otmi:snippet>Identification of weakly expressed novel genes As mentioned above, we applied DIGIT (Methods), an ab initio gene-finder, to HSA11</otmi:snippet>
+              <otmi:snippet>In addition to the olfactory receptor gene clusters described later, we identified 142 genes in 37 clusters that belong to gene families with at least two members on HSA11 ( Supplementary Table S7 )</otmi:snippet>
+              <otmi:snippet>In fact, manual annotation of the chromosome identifies a slightly higher gene density of 11.6 genes per Mb, with genes spaced an average of 86 kb apart</otmi:snippet>
+              <otmi:snippet>In human there are 856 olfactory receptor genes, 369 (43%) of which are located on HSA11 (ref. 18 )</otmi:snippet>
+              <otmi:snippet>In order to obtain a more complete catalogue of all protein-coding genes in the human genome, this type of analysis should ideally be extended to include all chromosomes, especially as some genes were only identified by this ‘ ab initio plus experimental verification’ approach.</otmi:snippet>
+              <otmi:snippet>In the human genome, all of the class I olfactory receptor genes are found in three closely spaced clusters on the subtelomeric region of 11p, from 4.1 to 6.2 Mb</otmi:snippet>
+              <otmi:snippet>In total, we annotated 230 previously unknown genes (that is, no RefSeq or Ensembl location, Supplementary Methods ) consisting of 48 novel CDSs, 178 novel transcripts and four putative genes</otmi:snippet>
+              <otmi:snippet>In total, we finished 131,130,853 base pairs (bp) and estimate the total size of the chromosome, including the gaps and centromere, to be approximately 134.5 Mb (May 2004, NCBI build 35)</otmi:snippet>
+              <otmi:snippet>In total, we identified 3,723 variants for the 1,524 expressed genes</otmi:snippet>
+              <otmi:snippet>Interestingly, we found a significant correlation ( χ  2 = 224.29, P &lt; 0.0001, 6 degrees of freedom)</otmi:snippet>
+              <otmi:snippet>It is also the cause of sickle cell anaemia, the first human genetic disease for which a molecular basis was demonstrated </otmi:snippet>
+              <otmi:snippet>Many of the 34 genes are predicted by the InterProScan program to contain a functional domain ( Supplementary Table S15 )</otmi:snippet>
+              <otmi:snippet>Most (26 out of 34) of these genes appear to be expressed at an extremely low level (detectable only by nested PCR), which might explain why they had not been previously detected by any high-throughput EST or full-length cDNA sequencing strategy</otmi:snippet>
+              <otmi:snippet>Notably, the human cluster has a significantly different structure from that of other mammals: the human cluster is divided by insertion of the centromere, a heterochromatic region and an intrachromosomal duplication</otmi:snippet>
+              <otmi:snippet>Of the 34 genes with experimental support ( Supplementary Table S14 ), 12 were identified only through this method because they have no orthologous sequence in any currently available genome (six also have no related human sequence, whereas six have related human sequence)</otmi:snippet>
+              <otmi:snippet>Of the 369 loci on HSA11, 166 (45%) are protein-coding and the other 203 (55%) are pseudogenes; this is close to the genome-wide average (47% versus 53%)</otmi:snippet>
+              <otmi:snippet>Of the finished sequence, 60% was generated by RIKEN Genomic Sciences Center, 36% by the Broad Institute of MIT and Harvard, 3% by the Wellcome Trust Sanger Institute, and 1% by the Washington University School of Medicine Genome Sequencing Center</otmi:snippet>
+              <otmi:snippet>Of these nearly 4,000 splice variants, there are many instances where the transcripts splice correctly but do not have definitive or long (&gt; 100 amino acids) open reading frames and may be examples of incompletely spliced RNAs, incorrectly spliced RNAs or non-coding RNAs</otmi:snippet>
+              <otmi:snippet>Of these, only two were found that probably result in a protein fusion product, TRIM6 - TRIM34 and BSCL2 - HNRPUL2 </otmi:snippet>
+              <otmi:snippet>Olfactory receptor genes Olfactory receptor genes comprise the largest multi-gene family in metazoans</otmi:snippet>
+              <otmi:snippet>Olfactory receptor genes are roughly classified into two classes: I and II</otmi:snippet>
+              <otmi:snippet>On 11q, we reached both the telomeric repeats and the centromeric alpha satellite repeats, and higher-order repeat structure was observed in clone AC126345 at 11p-cen</otmi:snippet>
+              <otmi:snippet>Out of the 894 genes with CpG islands, 650 (70%) have two or more variants</otmi:snippet>
+              <otmi:snippet>Recombination statistics for HSA11 are similar to other human chromosomes, showing a relatively linear relationship between recombination rate and physical distance</otmi:snippet>
+              <otmi:snippet>S1 )</otmi:snippet>
+              <otmi:snippet>Some of these genes were identified by our ab initio gene prediction program DIGIT , as described below</otmi:snippet>
+              <otmi:snippet>Table 1 lists various features of the chromosome</otmi:snippet>
+              <otmi:snippet>The 1,524 protein-coding genes comprise 1,195 known genes (including 166 olfactory receptor genes), 104 novel coding sequences (CDSs), 221 novel transcripts and four putative genes</otmi:snippet>
+              <otmi:snippet>The 765 pseudogenes include at least three unprocessed pseudogenes and 203 olfactory receptor pseudogenes</otmi:snippet>
+              <otmi:snippet>The CTNND1 gene showed the largest number of variants with 28</otmi:snippet>
+              <otmi:snippet>The average distance between genes within a cluster is about 17 kb</otmi:snippet>
+              <otmi:snippet>The chromosome landscape Figure 1 shows an overview of the chromosome 11 landscape</otmi:snippet>
+              <otmi:snippet>The class I region is interrupted by a few genes including the beta-globin gene cluster and a TRIM gene cluster</otmi:snippet>
+              <otmi:snippet>The clone map and finished sequence Chromosome 11 was sequenced using a clone-by-clone shotgun sequencing approach</otmi:snippet>
+              <otmi:snippet>The corresponding clusters for the mouse , rat and dog genomes are also the largest ones, and are comprised of many families of class II olfactory receptor genes</otmi:snippet>
+              <otmi:snippet>The coverage of the euchromatic portion of the chromosome is an estimated 99.8%</otmi:snippet>
+              <otmi:snippet>The finished sequence of HSA11 shows strong concordance with existing physical and genetic maps</otmi:snippet>
+              <otmi:snippet>The genes with at least two variants have an average of 3.73 variants per locus</otmi:snippet>
+              <otmi:snippet>The haemoglobin beta gene, encoding one of the best-studied proteins, was one of the first genes mapped to the human genome (11p15.5) and was the first protein to have its crystal structure solved </otmi:snippet>
+              <otmi:snippet>The largest cluster contains 97 genes over a range of 1.5 Mb</otmi:snippet>
+              <otmi:snippet>The most significant class II cluster is located around the centromere of HSA11</otmi:snippet>
+              <otmi:snippet>The olfactory receptor genes on HSA11 are classified into 13 different families (having &gt;40% protein identity), containing from as few as one to as many as 81 members</otmi:snippet>
+              <otmi:snippet>The olfactory receptor regions on HSA11 generally are rich in L1 repeats, poor in Alu repeats, CpG islands ( Supplementary Table S11 and Supplementary Information ) and predicted transcription starts (based on the Eponine program ), and have a G + C content of 40% or lower</otmi:snippet>
+              <otmi:snippet>The physical map, high-quality finished sequence and gene catalogue presented here are but the latest landmark in an effort to understand the unique characteristics and functions of this chromosome</otmi:snippet>
+              <otmi:snippet>The program predicted 65 novel protein-coding gene loci, with an average open-reading length of 366 amino acids, the genomic regions of which did not overlap at the time with human mRNAs from GenBank</otmi:snippet>
+              <otmi:snippet>The remaining 1,228 multi-exon genes (80.53%) have an average of 9.39 exons per gene</otmi:snippet>
+              <otmi:snippet>The remaining 14 genes either have orthologous sequence in other species or are highly similar to known human genes</otmi:snippet>
+              <otmi:snippet>The sequence is in eight finished contigs ( Supplementary Tables S1–S3 ), the largest being 49.6 Mb, with seven gaps remaining, including one at 11p-tel (50 kilobases (kb)), one heterochromatic gap (207 kb) near 11p-cen and five small internal clone gaps (totalling 64.5 kb)</otmi:snippet>
+              <otmi:snippet>There are 296 single-exon genes, of which 168 belong to the olfactory receptor gene family</otmi:snippet>
+              <otmi:snippet>These are mostly single-exon genes, with an average length of about 1 kb</otmi:snippet>
+              <otmi:snippet>These data show 10.6 protein-coding genes per Mb on HSA11, as compared to the genome-wide average of 7.3</otmi:snippet>
+              <otmi:snippet>These novel genes are scattered throughout the chromosome, with many located in potential disease candidate regions</otmi:snippet>
+              <otmi:snippet>They have expanded in mammalian lineages ( Fig. 2 ) and many belong to one large cluster in mammalian genomes</otmi:snippet>
+              <otmi:snippet>Three megabases (Mb) distal lies the insulin gene, encoding the first fully-sequenced protein , and the intensely studied imprinting region responsible for Beckwith–Wiedemann syndrome </otmi:snippet>
+              <otmi:snippet>To ensure production of the most reliable data, sequence quality control checks were performed both internally ( Supplementary Table S4 ) and externally </otmi:snippet>
+              <otmi:snippet>We compared recombination rates in the deCODE female, male and sex-averaged meiotic maps (which average 1.53, 0.85 and 1.19 cM per Mb, respectively) with the physical distance as determined from the sequence assembly ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>We explored whether there was any correlation between the presence of a CpG island and the number of variant transcripts for a gene ( Supplementary Table S9 )</otmi:snippet>
+              <otmi:snippet>We found 12 cases on HSA11 ( Supplementary Table S8 ), which are each supported by just one messenger RNA (and in a few cases by expressed sequence tags (ESTs))</otmi:snippet>
+              <otmi:snippet>We found experimental support for 34 (52%) of these predictions, based on reverse transcription polymerase chain reaction (RT–PCR) experiments that show evidence of the predicted splice junctions (including four full CDSs) ( Supplementary Tables S12 and S13 )</otmi:snippet>
+              <otmi:snippet>We found that 805 (52.8%) of the genes have at least two or more variants, consisting of 738 known genes, 36 novel CDSs, 30 novel transcripts and one putative gene</otmi:snippet>
+              <otmi:snippet>Where possible, all of the gaps were size-estimated by fibre-fluorescence in situ hybridization (FISH) analysis</otmi:snippet>
+              <otmi:snippet>Whether or not these read-through transcripts should be considered as alternative transcripts or separate genes, with functions different from the two genes they connect, remains to be investigated</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Chromosome 11 landscape.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>To view a larger version of this image download the pdf (2,828KB). The following sections appear in order from top to bottom. (1) Cytogenetic banding pattern. (2) Non-olfactory receptor (OR) expressed genes. Genes are colour coded according to category type (known genes, red; novel CDS, green; novel transcript, blue; putative, orange) and are shown according to their orientation on the chromosome (upper, forward orientation; lower, reverse orientation: note that this applies to sections 2–6, which means that these sections appear twice (with sections 7–9 sandwiched between them), once for forward and once for reverse orientation). (3) Non-olfactory receptor clustered gene families. (4) Non-olfactory receptor pseudogenes. (5) Miscellaneous RNAs including tRNAs, microRNAs and snoRNAs. (6) Eponine TSS predicted transcription start sites. (7) CpG islands. (8) Exofish evolutionarily conserved regions (ECRs). (9) Gene deserts larger than 650 kb. (10) Olfactory receptor genes. The olfactory receptor genes are coloured coded (connecting line, see key on left) according to family and whether a coding sequence (blue symbol name) or pseudogene (grey symbol name). Upper, forward orientation on chromosome; lower, reverse orientation on chromosome. (11) G + C content. This was calculated using a sliding window of 100 kb. (12) Short interspersed element (SINE)/Alu (blue) and long interspersed element (LINE)/L1 (red) repeat densities. This was also calculated using a sliding window of 100 kb. (13) Interspersed repeat elements as reported by RepeatMasker (SINEs, LINEs, long terminal repeat (LTR) elements, DNA elements, unclassified repeats, simple repeats, low-complexity regions, RNAs and satellite repeats). Also included in this region are tandem repeats as predicted by the Tandem Repeat Finder program. (14) Interchromosomal duplications (red) and intrachromosomal duplications (blue). (15) Gene disorders (mapped only). Forty-one disorders that have been mapped to HSA11 are shown as coloured horizontal bars, which represent the possible genetic location of the disorder according to OMIM (Online Mendelian Inheritance in Man). Clone gaps (including the centromere) are indicated by the vertical grey blocks.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Conservation and expansion of olfactory receptor clusters.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Structure of the class I olfactory receptor genes and neighbouring class II genes (HSA11 4.1–8.0 Mb). The basic structure of the class I cluster is highly conserved. The beta-globin gene cluster was inserted after the divergence of fish and other vertebrates. The TRIM cluster was inserted in the placental mammal lineage. b , The olfactory receptor 4 (OR4) superfamily cluster (HSA11 48.1–55.2 Mb) was divided into four pieces by insertion of the centromere, a heterochromatic region and an intrachromosomal duplication. Overall, the olfactory receptor gene clusters in mouse were expanded. HSA11, human chromosome 11; MMU2, MMU7 and MMU19, mouse chromosomes 2, 7 and 19; CFA18 and CFA21, dog chromosomes 18 and 21; MDO, opossum; GGA1, chicken chromosome 1; DRE12 and DRE15, zebrafish chromosomes 12 and 15.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/35057062</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03001</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02390</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03466</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02399</otmi:refid>
+          <otmi:refid>info:doi/10.1038/380152a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng917</otmi:refid>
+          <otmi:refid>info:doi/10.1086/302011</otmi:refid>
+          <otmi:refid>info:doi/10.1038/990031</otmi:refid>
+          <otmi:refid>info:doi/10.1038/414865a</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01722</otmi:refid>
+          <otmi:refid>info:doi/10.1101/GR.216102</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01262</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02426</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature04338</otmi:refid>
+          <otmi:refid>info:doi/10.1093/nar/gki442</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0014-5793(00)01632-X</otmi:refid>
+          <otmi:refid>info:doi/10.1006/geno.1996.0202</otmi:refid>
+          <otmi:refid>info:doi/10.1101/gr.10.4.516</otmi:refid>
+          <otmi:refid>info:doi/10.1006/jmbi.1997.0951</otmi:refid>
+          <otmi:refsnoid>8</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

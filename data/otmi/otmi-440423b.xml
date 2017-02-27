@@ -1,0 +1,360 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Summing up physics</title>
+      <id>info:doi/10.1038/440423b</id>
+      <link href='http://dx.doi.org/10.1038/440423b' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>423</prism:startingPage>
+      <prism:endingPage>424</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='12'>equations</otmi:vector>
+              <otmi:vector count='10'>book</otmi:vector>
+              <otmi:vector count='7'>I</otmi:vector>
+              <otmi:vector count='5'>these</otmi:vector>
+              <otmi:vector count='4'>would</otmi:vector>
+              <otmi:vector count='4'>reader</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>have</otmi:vector>
+              <otmi:vector count='4'>do</otmi:vector>
+              <otmi:vector count='4'>they</otmi:vector>
+              <otmi:vector count='4'>public</otmi:vector>
+              <otmi:vector count='4'>their</otmi:vector>
+              <otmi:vector count='3'>he</otmi:vector>
+              <otmi:vector count='3'>understand</otmi:vector>
+              <otmi:vector count='3'>how</otmi:vector>
+              <otmi:vector count='3'>lecture</otmi:vector>
+              <otmi:vector count='3'>about</otmi:vector>
+              <otmi:vector count='3'>all</otmi:vector>
+              <otmi:vector count='3'>Bais&apos;s</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>mathematical</otmi:vector>
+              <otmi:vector count='3'>who</otmi:vector>
+              <otmi:vector count='3'>icons</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>which</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>mathematics</otmi:vector>
+              <otmi:vector count='2'>simply</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>exposition</otmi:vector>
+              <otmi:vector count='2'>value</otmi:vector>
+              <otmi:vector count='2'>equation</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>scientists</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>physical</otmi:vector>
+              <otmi:vector count='2'>become</otmi:vector>
+              <otmi:vector count='2'>regard</otmi:vector>
+              <otmi:vector count='2'>quantum</otmi:vector>
+              <otmi:vector count='2'>world</otmi:vector>
+              <otmi:vector count='2'>natural</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>physics</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>thinking</otmi:vector>
+              <otmi:vector count='2'>reading</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>knowledge</otmi:vector>
+              <otmi:vector count='2'>form</otmi:vector>
+              <otmi:vector count='2'>maths</otmi:vector>
+              <otmi:vector count='2'>relativity</otmi:vector>
+              <otmi:vector count='2'>why</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>forms</otmi:vector>
+              <otmi:vector count='2'>final</otmi:vector>
+              <otmi:vector count='2'>beauty</otmi:vector>
+              <otmi:vector count='2'>real</otmi:vector>
+              <otmi:vector count='2'>pages</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>challenge</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>debatable</otmi:vector>
+              <otmi:vector count='1'>field</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>compact</otmi:vector>
+              <otmi:vector count='1'>included</otmi:vector>
+              <otmi:vector count='1'>target</otmi:vector>
+              <otmi:vector count='1'>turbulence</otmi:vector>
+              <otmi:vector count='1'>encouraged</otmi:vector>
+              <otmi:vector count='1'>special</otmi:vector>
+              <otmi:vector count='1'>complexities</otmi:vector>
+              <otmi:vector count='1'>this.</otmi:vector>
+              <otmi:vector count='1'>mathematically</otmi:vector>
+              <otmi:vector count='1'>century</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>electromagnetic</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>interested</otmi:vector>
+              <otmi:vector count='1'>Who</otmi:vector>
+              <otmi:vector count='1'>careers</otmi:vector>
+              <otmi:vector count='1'>operations</otmi:vector>
+              <otmi:vector count='1'>someone</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>discusses</otmi:vector>
+              <otmi:vector count='1'>spin</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>enlivened</otmi:vector>
+              <otmi:vector count='1'>mechanics</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>genius</otmi:vector>
+              <otmi:vector count='1'>helps</otmi:vector>
+              <otmi:vector count='1'>wants</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>language</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>adept</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>presenting</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>disappeared</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>me</otmi:vector>
+              <otmi:vector count='1'>presents</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>continuity</otmi:vector>
+              <otmi:vector count='1'>superstring</otmi:vector>
+              <otmi:vector count='1'>Sander</otmi:vector>
+              <otmi:vector count='1'>simultaneity</otmi:vector>
+              <otmi:vector count='1'>risked</otmi:vector>
+              <otmi:vector count='1'>audiences</otmi:vector>
+              <otmi:vector count='1'>business</otmi:vector>
+              <otmi:vector count='1'>Perhaps</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>fault</otmi:vector>
+              <otmi:vector count='1'>chromodynamics</otmi:vector>
+              <otmi:vector count='1'>inspiring</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>workings</otmi:vector>
+              <otmi:vector count='1'>review</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>kept</otmi:vector>
+              <otmi:vector count='1'>lives</otmi:vector>
+              <otmi:vector count='1'>contributions</otmi:vector>
+              <otmi:vector count='1'>tensors</otmi:vector>
+              <otmi:vector count='1'>common</otmi:vector>
+              <otmi:vector count='1'>solutions</otmi:vector>
+              <otmi:vector count='1'>aspire</otmi:vector>
+              <otmi:vector count='1'>suspicion</otmi:vector>
+              <otmi:vector count='1'>characters</otmi:vector>
+              <otmi:vector count='1'>&quot;I</otmi:vector>
+              <otmi:vector count='1'>his</otmi:vector>
+              <otmi:vector count='1'>insights</otmi:vector>
+              <otmi:vector count='1'>Equations</otmi:vector>
+              <otmi:vector count='1'>birthday</otmi:vector>
+              <otmi:vector count='1'>enjoyed</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>author</otmi:vector>
+              <otmi:vector count='1'>perspective</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>connection</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>Navier–Stokes</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>sketches</otmi:vector>
+              <otmi:vector count='1'>ways</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>electroweak</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>grown</otmi:vector>
+              <otmi:vector count='1'>arts</otmi:vector>
+              <otmi:vector count='1'>introduction</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>meanings</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>definitive</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>Bais</otmi:vector>
+              <otmi:vector count='1'>proportion</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>Galileo&apos;s</otmi:vector>
+              <otmi:vector count='1'>twentieth</otmi:vector>
+              <otmi:vector count='1'>Dirac</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>audience</otmi:vector>
+              <otmi:vector count='1'>imaginative</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>hard</otmi:vector>
+              <otmi:vector count='1'>Maxwell</otmi:vector>
+              <otmi:vector count='1'>professionals</otmi:vector>
+              <otmi:vector count='1'>lightning</otmi:vector>
+              <otmi:vector count='1'>players</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>wish</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>scope</otmi:vector>
+              <otmi:vector count='1'>dip</otmi:vector>
+              <otmi:vector count='1'>actually</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>refers</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>simpler</otmi:vector>
+              <otmi:vector count='1'>mean</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>richness</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>writes</otmi:vector>
+              <otmi:vector count='1'>view</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>Where</otmi:vector>
+              <otmi:vector count='1'>lagrangians</otmi:vector>
+              <otmi:vector count='1'>couldn&apos;t</otmi:vector>
+              <otmi:vector count='1'>comment</otmi:vector>
+              <otmi:vector count='1'>enormous</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>oriented</otmi:vector>
+              <otmi:vector count='1'>My</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>elegant</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>teaching</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>encounter</otmi:vector>
+              <otmi:vector count='1'>discussion</otmi:vector>
+              <otmi:vector count='1'>commented</otmi:vector>
+              <otmi:vector count='1'>describing</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>pivotal</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>principal</otmi:vector>
+              <otmi:vector count='1'>agenda</otmi:vector>
+              <otmi:vector count='1'>motion</otmi:vector>
+              <otmi:vector count='1'>delivering</otmi:vector>
+              <otmi:vector count='1'>&quot;The</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>brief</otmi:vector>
+              <otmi:vector count='1'>text</otmi:vector>
+              <otmi:vector count='1'>Clerk</otmi:vector>
+              <otmi:vector count='1'>really</otmi:vector>
+              <otmi:vector count='1'>pity</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>art</otmi:vector>
+              <otmi:vector count='1'>James</otmi:vector>
+              <otmi:vector count='1'>Einstein</otmi:vector>
+              <otmi:vector count='1'>concise</otmi:vector>
+              <otmi:vector count='1'>co-presenter</otmi:vector>
+              <otmi:vector count='1'>phenomena</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>receive</otmi:vector>
+              <otmi:vector count='1'>laws</otmi:vector>
+              <otmi:vector count='1'>sheer</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>&quot;If</otmi:vector>
+              <otmi:vector count='1'>horrendous</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>came</otmi:vector>
+              <otmi:vector count='1'>difficulty</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>extend</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>Newton&apos;s</otmi:vector>
+              <otmi:vector count='1'>elementary</otmi:vector>
+              <otmi:vector count='1'>written</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>reminded</otmi:vector>
+              <otmi:vector count='1'>got</otmi:vector>
+              <otmi:vector count='1'>founder</otmi:vector>
+              <otmi:vector count='1'>trust</otmi:vector>
+              <otmi:vector count='1'>gift</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>matrices</otmi:vector>
+              <otmi:vector count='1'>Nature</otmi:vector>
+              <otmi:vector count='1'>get</otmi:vector>
+              <otmi:vector count='1'>students</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>tackles</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>pedagogical</otmi:vector>
+              <otmi:vector count='1'>practice</otmi:vector>
+              <otmi:vector count='1'>96</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>fair</otmi:vector>
+              <otmi:vector count='1'>says</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>lovely</otmi:vector>
+              <otmi:vector count='1'>power</otmi:vector>
+              <otmi:vector count='1'>Still</otmi:vector>
+              <otmi:vector count='1'>aspect</otmi:vector>
+              <otmi:vector count='1'>subtitle</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>greatest</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>gain</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>young</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As the equations progress through the Dirac equation, quantum chromodynamics and electroweak theory to the superstring action, Bais simply writes down the equations in their most compact and elegant form and discusses what the solutions mean</otmi:snippet>
+              <otmi:snippet>At a recent public lecture on Einstein and the arts in the first decades of the twentieth century, my co-presenter from the perspective of art history commented on the sheer physical beauty of the equations that I risked presenting to the audience</otmi:snippet>
+              <otmi:snippet>But when reading the book, I kept thinking: &quot;If only he had said...&quot; For example, why are complex numbers the natural language of quantum mechanics? Where do the horrendous complexities of turbulence come from in the Navier–Stokes equations? What was the step of genius that led James Clerk Maxwell to the final form of his equations for the electromagnetic field? If the key concept of the relativity of simultaneity had been introduced, so many of the problems of special relativity would have disappeared</otmi:snippet>
+              <otmi:snippet>For me, these would have added to the insight and value of the exposition</otmi:snippet>
+              <otmi:snippet>However, this is not really what the book is about — it is much more a concise exposition of what the equations can do, and the reader has to trust that the author has got it right</otmi:snippet>
+              <otmi:snippet>I only wish he had included Galileo&apos;s pivotal contributions as the founder of the whole business: &quot;The book of Nature is written in mathematical characters.&quot; Who will gain most from reading this book? It has to be someone who wants an introduction to the power of mathematics in describing natural phenomena without actually having to do the maths</otmi:snippet>
+              <otmi:snippet>In a book of only 96 pages, it is a real challenge to do much more than indicate to the reader the enormous richness of these equations and the imaginative ways they can be used to extend our understanding of the workings of nature at all levels</otmi:snippet>
+              <otmi:snippet>In addition to its pedagogical value, Bais&apos;s book presents these icons of our physical world in all their beauty</otmi:snippet>
+              <otmi:snippet>In the first few pages there is a lightning review of elementary mathematical operations, and this helps the reader understand the simpler equations, such as Newton&apos;s laws of motion and the continuity equation</otmi:snippet>
+              <otmi:snippet>Indeed I cannot fault what he says about the meanings of the equations, and the main text is enlivened by brief sketches of the lives of some of the principal players</otmi:snippet>
+              <otmi:snippet>It is debatable, however, whether these insights enable the reader to understand the importance of lagrangians, tensors, spin matrices and so on</otmi:snippet>
+              <otmi:snippet>It is very good to be reminded of this.</otmi:snippet>
+              <otmi:snippet>It would be a lovely birthday gift for them</otmi:snippet>
+              <otmi:snippet>My suspicion is that the most important target audiences are young people who aspire to become mathematically oriented scientists and who will find the scope of the book inspiring</otmi:snippet>
+              <otmi:snippet>Perhaps the most common comment I receive after delivering a public lecture is: &quot;I enjoyed the lecture, but I couldn&apos;t understand the maths.&quot; This difficulty doesn&apos;t just affect the public but is one that students and scientists encounter throughout their careers: how does one connect the behaviour of the real world with the mathematics used to describe it? After years of practice and hard thinking, professionals become adept at making this connection, which I regard as perhaps the greatest challenge in teaching mathematical physics</otmi:snippet>
+              <otmi:snippet>Sander Bais&apos;s little book The Equations tackles this problem from the point of view of 17 of the basic sets of physics equations, which the subtitle refers to as &quot;icons of knowledge&quot;</otmi:snippet>
+              <otmi:snippet>Still, if it were, the book would have grown out of all proportion</otmi:snippet>
+              <otmi:snippet>The average interested public should be encouraged to dip into the book and see how they get on</otmi:snippet>
+              <otmi:snippet>The equations are presented in their final definitive forms without any discussion of how they came about or why they have these forms</otmi:snippet>
+              <otmi:snippet>This is fair enough if we are to regard the equations simply as icons of knowledge</otmi:snippet>
+              <otmi:snippet>This latter aspect is not part of Bais&apos;s agenda, which is a pity</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

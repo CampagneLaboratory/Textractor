@@ -1,0 +1,577 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Earthquakes A movement in four parts?</title>
+      <id>info:doi/10.1038/440430a</id>
+      <link href='http://dx.doi.org/10.1038/440430a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Joanne Bourgeois</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>430</prism:startingPage>
+      <prism:endingPage>431</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='21'>subsidence</otmi:vector>
+              <otmi:vector count='12'>earthquakes</otmi:vector>
+              <otmi:vector count='10'>earthquake</otmi:vector>
+              <otmi:vector count='9'>Cascadia</otmi:vector>
+              <otmi:vector count='9'>been</otmi:vector>
+              <otmi:vector count='8'>Alaska</otmi:vector>
+              <otmi:vector count='8'>have</otmi:vector>
+              <otmi:vector count='8'>these</otmi:vector>
+              <otmi:vector count='8'>at</otmi:vector>
+              <otmi:vector count='7'>some</otmi:vector>
+              <otmi:vector count='7'>co-seismic</otmi:vector>
+              <otmi:vector count='7'>other</otmi:vector>
+              <otmi:vector count='6'>during</otmi:vector>
+              <otmi:vector count='6'>coastal</otmi:vector>
+              <otmi:vector count='6'>subduction</otmi:vector>
+              <otmi:vector count='5'>great</otmi:vector>
+              <otmi:vector count='5'>cases</otmi:vector>
+              <otmi:vector count='5'>events</otmi:vector>
+              <otmi:vector count='5'>uplift</otmi:vector>
+              <otmi:vector count='5'>has</otmi:vector>
+              <otmi:vector count='5'>years</otmi:vector>
+              <otmi:vector count='5'>more</otmi:vector>
+              <otmi:vector count='5'>Shennan</otmi:vector>
+              <otmi:vector count='5'>before</otmi:vector>
+              <otmi:vector count='5'>also</otmi:vector>
+              <otmi:vector count='5'>cycle</otmi:vector>
+              <otmi:vector count='4'>records</otmi:vector>
+              <otmi:vector count='4'>zone</otmi:vector>
+              <otmi:vector count='4'>along</otmi:vector>
+              <otmi:vector count='4'>out</otmi:vector>
+              <otmi:vector count='4'>authors</otmi:vector>
+              <otmi:vector count='4'>several</otmi:vector>
+              <otmi:vector count='4'>But</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>if</otmi:vector>
+              <otmi:vector count='4'>areas</otmi:vector>
+              <otmi:vector count='4'>change</otmi:vector>
+              <otmi:vector count='3'>occurs</otmi:vector>
+              <otmi:vector count='3'>part</otmi:vector>
+              <otmi:vector count='3'>phase</otmi:vector>
+              <otmi:vector count='3'>moment</otmi:vector>
+              <otmi:vector count='3'>precursor</otmi:vector>
+              <otmi:vector count='3'>amount</otmi:vector>
+              <otmi:vector count='3'>example</otmi:vector>
+              <otmi:vector count='3'>record</otmi:vector>
+              <otmi:vector count='3'>deformation</otmi:vector>
+              <otmi:vector count='3'>subtle</otmi:vector>
+              <otmi:vector count='3'>slow</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>pre-seismic</otmi:vector>
+              <otmi:vector count='3'>about</otmi:vector>
+              <otmi:vector count='3'>decade</otmi:vector>
+              <otmi:vector count='3'>occur</otmi:vector>
+              <otmi:vector count='3'>microfossil</otmi:vector>
+              <otmi:vector count='3'>zones</otmi:vector>
+              <otmi:vector count='3'>all</otmi:vector>
+              <otmi:vector count='3'>rapid</otmi:vector>
+              <otmi:vector count='3'>hypothesis</otmi:vector>
+              <otmi:vector count='3'>microfossils</otmi:vector>
+              <otmi:vector count='3'>interseismic</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>magnitude</otmi:vector>
+              <otmi:vector count='3'>past</otmi:vector>
+              <otmi:vector count='3'>analyses</otmi:vector>
+              <otmi:vector count='3'>period</otmi:vector>
+              <otmi:vector count='3'>sea</otmi:vector>
+              <otmi:vector count='3'>region</otmi:vector>
+              <otmi:vector count='2'>changes</otmi:vector>
+              <otmi:vector count='2'>observation</otmi:vector>
+              <otmi:vector count='2'>coastlines</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>1964</otmi:vector>
+              <otmi:vector count='2'>continued</otmi:vector>
+              <otmi:vector count='2'>26</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>causes</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>glacier</otmi:vector>
+              <otmi:vector count='2'>level</otmi:vector>
+              <otmi:vector count='2'>2004</otmi:vector>
+              <otmi:vector count='2'>support</otmi:vector>
+              <otmi:vector count='2'>offshore</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>occurrence</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>al</otmi:vector>
+              <otmi:vector count='2'>enough</otmi:vector>
+              <otmi:vector count='2'>deposits</otmi:vector>
+              <otmi:vector count='2'>patterns</otmi:vector>
+              <otmi:vector count='2'>sedimentary</otmi:vector>
+              <otmi:vector count='2'>caused</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>subsides</otmi:vector>
+              <otmi:vector count='2'>et</otmi:vector>
+              <otmi:vector count='2'>effects</otmi:vector>
+              <otmi:vector count='2'>does</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>tsunami</otmi:vector>
+              <otmi:vector count='2'>transient</otmi:vector>
+              <otmi:vector count='2'>fault</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>episodes</otmi:vector>
+              <otmi:vector count='2'>1–2</otmi:vector>
+              <otmi:vector count='2'>few</otmi:vector>
+              <otmi:vector count='2'>vertical</otmi:vector>
+              <otmi:vector count='2'>beneath</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>data</otmi:vector>
+              <otmi:vector count='2'>storm</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>Hamilton</otmi:vector>
+              <otmi:vector count='2'>m</otmi:vector>
+              <otmi:vector count='2'>marsh</otmi:vector>
+              <otmi:vector count='2'>tectonic</otmi:vector>
+              <otmi:vector count='2'>elevation</otmi:vector>
+              <otmi:vector count='2'>December</otmi:vector>
+              <otmi:vector count='2'>occurred</otmi:vector>
+              <otmi:vector count='2'>GPS</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>typically</otmi:vector>
+              <otmi:vector count='2'>cm</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>seen</otmi:vector>
+              <otmi:vector count='2'>produced</otmi:vector>
+              <otmi:vector count='2'>groups</otmi:vector>
+              <otmi:vector count='2'>subduction-zone</otmi:vector>
+              <otmi:vector count='2'>four-part</otmi:vector>
+              <otmi:vector count='1'>accumulates</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>mathematical</otmi:vector>
+              <otmi:vector count='1'>caesium-137</otmi:vector>
+              <otmi:vector count='1'>crustal</otmi:vector>
+              <otmi:vector count='1'>Over</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>installed</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>8.7–9.2</otmi:vector>
+              <otmi:vector count='1'>14</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>10–15</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>cycles</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>Cook</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>began</otmi:vector>
+              <otmi:vector count='1'>Based</otmi:vector>
+              <otmi:vector count='1'>helping</otmi:vector>
+              <otmi:vector count='1'>regularly</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>Evidence</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>apparent</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>quantify</otmi:vector>
+              <otmi:vector count='1'>detect</otmi:vector>
+              <otmi:vector count='1'>distinguish</otmi:vector>
+              <otmi:vector count='1'>comes</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>world</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>decimetres</otmi:vector>
+              <otmi:vector count='1'>recorded</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>coastline</otmi:vector>
+              <otmi:vector count='1'>initial</otmi:vector>
+              <otmi:vector count='1'>Ian</otmi:vector>
+              <otmi:vector count='1'>mid-1990s</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>plate</otmi:vector>
+              <otmi:vector count='1'>motions</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>interpretations</otmi:vector>
+              <otmi:vector count='1'>diagnosing</otmi:vector>
+              <otmi:vector count='1'>instrumented</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>Sumatra</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>laid</otmi:vector>
+              <otmi:vector count='1'>shallow</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>uplifted</otmi:vector>
+              <otmi:vector count='1'>source</otmi:vector>
+              <otmi:vector count='1'>his</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>reliably</otmi:vector>
+              <otmi:vector count='1'>brackish</otmi:vector>
+              <otmi:vector count='1'>stress</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>land</otmi:vector>
+              <otmi:vector count='1'>River</otmi:vector>
+              <otmi:vector count='1'>arrays</otmi:vector>
+              <otmi:vector count='1'>geodetic</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>caught</otmi:vector>
+              <otmi:vector count='1'>colleagues</otmi:vector>
+              <otmi:vector count='1'>isotope</otmi:vector>
+              <otmi:vector count='1'>slip</otmi:vector>
+              <otmi:vector count='1'>marker</otmi:vector>
+              <otmi:vector count='1'>9</otmi:vector>
+              <otmi:vector count='1'>Local</otmi:vector>
+              <otmi:vector count='1'>well-documented</otmi:vector>
+              <otmi:vector count='1'>localities</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>implication</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>Washington</otmi:vector>
+              <otmi:vector count='1'>tease</otmi:vector>
+              <otmi:vector count='1'>aim</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>Inlet</otmi:vector>
+              <otmi:vector count='1'>magnitude-9.2</otmi:vector>
+              <otmi:vector count='1'>Anchorage</otmi:vector>
+              <otmi:vector count='1'>intensively</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>scale</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>non-precursor</otmi:vector>
+              <otmi:vector count='1'>5,000</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>documented</otmi:vector>
+              <otmi:vector count='1'>bomb</otmi:vector>
+              <otmi:vector count='1'>soaked</otmi:vector>
+              <otmi:vector count='1'>water</otmi:vector>
+              <otmi:vector count='1'>length</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>retreat</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>fresh</otmi:vector>
+              <otmi:vector count='1'>Only</otmi:vector>
+              <otmi:vector count='1'>challenge</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>intertidal</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>rises</otmi:vector>
+              <otmi:vector count='1'>changing</otmi:vector>
+              <otmi:vector count='1'>appear</otmi:vector>
+              <otmi:vector count='1'>locations</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>strain</otmi:vector>
+              <otmi:vector count='1'>Bay</otmi:vector>
+              <otmi:vector count='1'>co-workers</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>repeating</otmi:vector>
+              <otmi:vector count='1'>peat</otmi:vector>
+              <otmi:vector count='1'>Can</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>evident</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>stratigraphy</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>System</otmi:vector>
+              <otmi:vector count='1'>km</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>measuring</otmi:vector>
+              <otmi:vector count='1'>rupture</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>seismic–interseismic</otmi:vector>
+              <otmi:vector count='1'>association</otmi:vector>
+              <otmi:vector count='1'>imminent</otmi:vector>
+              <otmi:vector count='1'>800</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>short</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>locked</otmi:vector>
+              <otmi:vector count='1'>doing</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>parts</otmi:vector>
+              <otmi:vector count='1'>monitored</otmi:vector>
+              <otmi:vector count='1'>testing</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>loading</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>difficult</otmi:vector>
+              <otmi:vector count='1'>Sumatra–Andaman</otmi:vector>
+              <otmi:vector count='1'>America</otmi:vector>
+              <otmi:vector count='1'>adding</otmi:vector>
+              <otmi:vector count='1'>rule</otmi:vector>
+              <otmi:vector count='1'>duration</otmi:vector>
+              <otmi:vector count='1'>claim</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>10–20</otmi:vector>
+              <otmi:vector count='1'>continuous</otmi:vector>
+              <otmi:vector count='1'>Whether</otmi:vector>
+              <otmi:vector count='1'>coverage</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>Positioning</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>ruptures</otmi:vector>
+              <otmi:vector count='1'>mid-1980s</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>mud</otmi:vector>
+              <otmi:vector count='1'>habitat</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>Third</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>de-formation</otmi:vector>
+              <otmi:vector count='1'>pre-earthquake</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>shores</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>sediment</otmi:vector>
+              <otmi:vector count='1'>recovered</otmi:vector>
+              <otmi:vector count='1'>Netarts</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>massive</otmi:vector>
+              <otmi:vector count='1'>signal</otmi:vector>
+              <otmi:vector count='1'>North</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>Shennan&apos;s</otmi:vector>
+              <otmi:vector count='1'>micropalaeontologists</otmi:vector>
+              <otmi:vector count='1'>slight</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>huge</otmi:vector>
+              <otmi:vector count='1'>look</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>variability</otmi:vector>
+              <otmi:vector count='1'>hundreds</otmi:vector>
+              <otmi:vector count='1'>sharp</otmi:vector>
+              <otmi:vector count='1'>accompanied</otmi:vector>
+              <otmi:vector count='1'>happen</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>millennia</otmi:vector>
+              <otmi:vector count='1'>three-part</otmi:vector>
+              <otmi:vector count='1'>Their</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>deeper</otmi:vector>
+              <otmi:vector count='1'>focused</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>Johns</otmi:vector>
+              <otmi:vector count='1'>eliminated</otmi:vector>
+              <otmi:vector count='1'>predictably</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>1700</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>attribute</otmi:vector>
+              <otmi:vector count='1'>dense</otmi:vector>
+              <otmi:vector count='1'>precise</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>Oregon</otmi:vector>
+              <otmi:vector count='1'>dives</otmi:vector>
+              <otmi:vector count='1'>question.</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>sedimentation</otmi:vector>
+              <otmi:vector count='1'>detectable</otmi:vector>
+              <otmi:vector count='1'>longer-term</otmi:vector>
+              <otmi:vector count='1'>Hawkes</otmi:vector>
+              <otmi:vector count='1'>instance</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>wonderful</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>cite</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>1992</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>aseismic</otmi:vector>
+              <otmi:vector count='1'>10–30</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>explanations</otmi:vector>
+              <otmi:vector count='1'>3,000</otmi:vector>
+              <otmi:vector count='1'>post-seismic</otmi:vector>
+              <otmi:vector count='1'>warning</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>northwestern</otmi:vector>
+              <otmi:vector count='1'>preserves</otmi:vector>
+              <otmi:vector count='1'>9.2</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>equivocal</otmi:vector>
+              <otmi:vector count='1'>signs</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>networks</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>recurs</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>drop</otmi:vector>
+              <otmi:vector count='1'>net</otmi:vector>
+              <otmi:vector count='1'>hindsight</otmi:vector>
+              <otmi:vector count='1'>going</otmi:vector>
+              <otmi:vector count='1'>shifts</otmi:vector>
+              <otmi:vector count='1'>Girdwood</otmi:vector>
+              <otmi:vector count='1'>superimposed</otmi:vector>
+              <otmi:vector count='1'>1990s</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>Beginning</otmi:vector>
+              <otmi:vector count='1'>tide</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>motion</otmi:vector>
+              <otmi:vector count='1'>quantifying</otmi:vector>
+              <otmi:vector count='1'>commodity</otmi:vector>
+              <otmi:vector count='1'>Alaskan</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>glacial</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>mechanics</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>Flats</otmi:vector>
+              <otmi:vector count='1'>decimetre-scale</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>team</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>salt</otmi:vector>
+              <otmi:vector count='1'>centimetres</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>earthquake-generated</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>conflict</otmi:vector>
+              <otmi:vector count='1'>ruled</otmi:vector>
+              <otmi:vector count='1'>fluctuations</otmi:vector>
+              <otmi:vector count='1'>Global</otmi:vector>
+              <otmi:vector count='1'>mechanisms</otmi:vector>
+              <otmi:vector count='1'>load</otmi:vector>
+              <otmi:vector count='1'>global</otmi:vector>
+              <otmi:vector count='1'>Have</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>storminess</otmi:vector>
+              <otmi:vector count='1'>coincidence</otmi:vector>
+              <otmi:vector count='1'>kinds</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A good test of the idea might have been possible if the Sumatra region had been intensively monitored in the decade before the massive earthquake that occurred on 26 December 2004 — but hindsight is a wonderful commodity</otmi:snippet>
+              <otmi:snippet>A subduction zone is where one tectonic plate dives beneath another, and in Alaska and Cascadia tectonic shifts have given rise to earthquakes of moment magnitude 9 or more (for comparison, the Sumatra–Andaman earthquake that led to the tsunami of 26 December 2004 was moment magnitude 9.2)</otmi:snippet>
+              <otmi:snippet>And in other cases again, the evidence was equivocal (Netarts Bay, Oregon)</otmi:snippet>
+              <otmi:snippet>Another source of data is the 1700 Cascadia earthquake, which was probably in the range 8.7–9.2 and produced similar effects, as recorded in coastal marsh stratigraphy</otmi:snippet>
+              <otmi:snippet>As work continued, they found several additional cases of apparent pre-seismic subsidence of the order of 10–30 cm ± 10–20 cm</otmi:snippet>
+              <otmi:snippet>Based on some of these analyses, Shennan et al . proposed a four-part deformation cycle, adding this short period of decimetre-scale subsidence before the main event ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Beginning in the mid-1990s, Ian Shennan and colleagues , among others, began to look at microfossils in these sedimentary records in Alaska and Cascadia (different microfossils reveal different habitat, be it sediment soaked in salt, brackish or fresh water)</otmi:snippet>
+              <otmi:snippet>But few areas in the world yet have precise and dense enough coverage with geodetic arrays to detect slow earthquakes; measuring vertical motions is even more of a challenge</otmi:snippet>
+              <otmi:snippet>But if this subsidence does indeed occur, the implication is that warning signs are detectable for some time before one of these huge earthquakes occurs</otmi:snippet>
+              <otmi:snippet>But theory has not predicted and observation has not documented subsidence at coastal locations from these slow earthquakes</otmi:snippet>
+              <otmi:snippet>Evidence of subsidence during great earthquakes has been well-documented, but the record between these events is more difficult to tease out</otmi:snippet>
+              <otmi:snippet>First, between earthquakes the shallow part of the subduction zone is locked, strain accumulates on the fault and the coastline rises (with subsidence offshore)</otmi:snippet>
+              <otmi:snippet>For these and other subduction-zone coastlines, a three-part seismic–interseismic de-formation cycle has been considered standard ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>In Alaska, at least five previous earthquakes have been studied, going back about 3,000 years; for Cascadia, eight or more events in the past 5,000 years have been identified</otmi:snippet>
+              <otmi:snippet>In contrast, for the precursor events, the authors argue that their position directly below co-seismic events, at several localities, and over some millennia of record, rules out other transient causes such as increased storminess and subsidence beneath the load of a glacier</otmi:snippet>
+              <otmi:snippet>In doing so, Shennan and his co-workers also found subtle evidence of other effects</otmi:snippet>
+              <otmi:snippet>In other cases, however, there was a small amount of pre-seismic subsidence (Girdwood Flats, Alaska)</otmi:snippet>
+              <otmi:snippet>In some cases, as seen at Johns River in Washington state, the expected uplift continued until the co-seismic subsidence</otmi:snippet>
+              <otmi:snippet>In the mid-1980s and the 1990s, initial studies of the subduction-zone deformation cycle in coastal sedimentary records focused on dramatic changes in environment associated with co-seismic subsidence — for example, the sharp elevation drop evident in a change from marsh peat laid down above high tide to mud deposits from the intertidal zone</otmi:snippet>
+              <otmi:snippet>Indeed, if the authors&apos; hypothesis is correct, it would predict an imminent great earthquake in Cascadia</otmi:snippet>
+              <otmi:snippet>Local changes in sea level will also occur, on a timescale of years or decades, caused for example by storm cycles, by glacial &quot;loading&quot;, by global fluctuations in sea level, and by variability in local patterns of crustal stress</otmi:snippet>
+              <otmi:snippet>Moreover, in Cascadia these &quot;earthquakes&quot; have occurred since the Global Positioning System (GPS) network was installed in 1992, and they appear to happen regularly </otmi:snippet>
+              <otmi:snippet>Nonetheless, those systems that are in place are helping us to understand the fundamental mechanics of subduction zones</otmi:snippet>
+              <otmi:snippet>Only for the 1964 case in Alaska has the duration of this signal been estimated — about a decade, determined from concentrations of caesium-137, an isotope produced by bomb testing </otmi:snippet>
+              <otmi:snippet>Over the past year, two groups of micropalaeontologists have presented evidence that coastal land subsides not only during a great earthquake but also in the decade or so before such events</otmi:snippet>
+              <otmi:snippet>Second, during the earthquake (the co-seismic phase), the uplifted region quickly subsides, while the offshore region undergoes rapid uplift; this rapid motion generates a tsunami</otmi:snippet>
+              <otmi:snippet>Shennan and Hamilton attribute these &quot;non-precursor&quot; episodes to changing sea levels caused by glacier growth and retreat</otmi:snippet>
+              <otmi:snippet>Shennan&apos;s team identified key species of microfossils for diagnosing the magnitude of subsidence, and developed methods for quantifying the amount of elevation change using a mathematical approach involving transfer functions</otmi:snippet>
+              <otmi:snippet>Some parts of coastal areas along subduction zones have been instrumented with networks of continuous GPS sites in the past 10–15 years</otmi:snippet>
+              <otmi:snippet>Such slip recurs about every 14 months at Cascadia </otmi:snippet>
+              <otmi:snippet>The Alaskan microfossil records also imply the occurrence of several episodes of slight uplift and subsidence that lack obvious association with earthquakes</otmi:snippet>
+              <otmi:snippet>The aim was to quantify the amount of co-seismic subsidence (typically 1–2 m) that occurs, and also to distinguish earthquake-generated change from other causes as seen, for instance, along aseismic coastlines</otmi:snippet>
+              <otmi:snippet>The authors cite several other kinds of observation that both support and conflict with their hypothesis of precursor subsidence</otmi:snippet>
+              <otmi:snippet>The most complete set of data comes from the shores of Cook Inlet, near Anchorage, Alaska</otmi:snippet>
+              <otmi:snippet>The new work by Shennan and Hamilton , as well as analyses by Hawkes et al . that include some new microfossil types, support the four-part cycle for many but not all cases of great earthquakes in Alaska and Cascadia</otmi:snippet>
+              <otmi:snippet>The observations and interpretations of pre-earthquake subsidence are complex and subtle</otmi:snippet>
+              <otmi:snippet>The records are subtle — can centimetres to decimetres of vertical change be reliably detected? Can mixing of the microfossil record be ruled out, as the authors claim? Have all alternative explanations been eliminated, for example the possibility that rapid sedimentation following co-seismic subsidence better preserves the last few storm deposits before the earthquake? Are there enough analyses to rule out coincidence; that is, do all areas undergo both transient uplift and subsidence on this scale, during the interseismic period, and some are just caught at the time when a significant marker (a large earthquake) occurs? But if pre-seismic subsidence does occur, what might be the mechanisms? A hypothesis suggested by both groups is the occurrence of &quot;slow earthquakes&quot; along a deeper part of the subduction zone than the part that ruptures during great earthquakes</otmi:snippet>
+              <otmi:snippet>Their study areas are the Alaska and Cascadia subduction zones in northwestern North America</otmi:snippet>
+              <otmi:snippet>There and elsewhere along a fault rupture 800 km in length, a moment magnitude-9.2 earthquake in 1964 was accompanied by 1–2 m of co-seismic subsidence</otmi:snippet>
+              <otmi:snippet>Third, during the interseismic period the earthquake deformation is recovered at first rapidly (the post-seismic phase), and then more slowly (the interseismic phase)</otmi:snippet>
+              <otmi:snippet>This cycle, typically repeating over some hundreds of years, may be superimposed on longer-term patterns of net uplift or subsidence</otmi:snippet>
+              <otmi:snippet>Whether this behaviour predictably includes precursor coastal subsidence remains an open question.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>An idealized seismic cycle for a coastal area that subsides during great earthquakes.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The red line shows the accepted cycle of the rise and fall of land; the blue line shows the small-scale subsidence that is postulated to precede great earthquakes; and the dashed green line shows net subsidence over time. The period between the earthquakes is on the order of centuries, with the end of the series showing the present elevation of the Alaska coast following the 1964 subduction-zone earthquake.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/j.quascirev.2005.09.002</otmi:refid>
+          <otmi:refid>info:doi/10.1130/B25455.1</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0277-3791(97)00055-3</otmi:refid>
+          <otmi:refid>info:doi/10.1191/0959683603hl590rp</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1060152</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1071193</otmi:refid>
+          <otmi:refsnoid>2</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

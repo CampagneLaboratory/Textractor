@@ -1,0 +1,19 @@
+<!-- Bibliography
+<h2>References</h2><p>
+<A NAME="References">
+<a name = "ref">
+<A NAME="BIBL">
+<EM>References</EM>
+<BBGR>
+REFERENCES</FONT><BR>
+4C53>References</FONT>
+4C53>REFERENCES</FONT>
+<STRONG>REFERENCES</STRONG></FONT>
+<STRONG>References</STRONG></FONT>
+REFERENCES</FONT></TH>
+<FONT COLOR=464c53>References</FONT><BR>
+<FONT COLOR=464c53>REFERENCES</FONT>
+>References</A></H3>
+<A HREF="#References"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 SRC="/icons/toc/uarrow.gif">REFERENCES</A>
+References</FONT>
+Literature Cited</FONT><BR>

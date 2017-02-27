@@ -1,0 +1,4151 @@
+E:\j2sdk1.4.0_01\bin\javaw.exe -enableassertions -classpath E:\IntelliJ-IDEA-3.0.4\lib\junit.jar;E:\textractor\build\classes;E:\textractor\lib\edu.mssm.crover.cli.jar;E:\j2sdk1.4.0_01\jre\lib\charsets.jar;E:\j2sdk1.4.0_01\jre\lib\jaws.jar;E:\j2sdk1.4.0_01\jre\lib\jce.jar;E:\j2sdk1.4.0_01\jre\lib\jsse.jar;E:\j2sdk1.4.0_01\jre\lib\rt.jar;E:\j2sdk1.4.0_01\jre\lib\sunrsasign.jar;E:\j2sdk1.4.0_01\jre\lib\ext\dnsns.jar;E:\j2sdk1.4.0_01\jre\lib\ext\ldapsec.jar;E:\j2sdk1.4.0_01\jre\lib\ext\localedata.jar;E:\j2sdk1.4.0_01\jre\lib\ext\sunjce_provider.jar;E:\textractor\lib\jaxb-api.jar;E:\textractor\lib\jaxb-libs.jar;E:\textractor\lib\jaxb-ri.jar;E:\textractor\lib\jaxb-xjc.jar;E:\textractor\lib\junit.jar;E:\IntelliJ-IDEA-3.0.4\lib\idea_rt.jar com.intellij.rt.execution.junit.ui.SwingTestRunner textractor.tests.AllTests
+New Term: ba from ta.co=6(before.before().size():2 after.after().size(): 3) >= 1 before: b after: a
+New Term: aa from ta.co=9(before.before().size():3 after.after().size(): 3) >= 1 before: a after: a
+New Term:  a from ta.co=6(before.before().size():2 after.after().size(): 3) >= 1 before:   after: a
+New Term: a  from ta.co=6(before.before().size():3 after.after().size(): 2) >= 1 before: a after:  
+New Term: b  from ta.co=4(before.before().size():2 after.after().size(): 2) >= 1 before: b after:  
+New Term:  b from ta.co=4(before.before().size():2 after.after().size(): 2) >= 1 before:   after: b
+New Term: ab from ta.co=6(before.before().size():3 after.after().size(): 2) >= 1 before: a after: b
+Associating previous term: H to term e
+Associating previous term: e to term r
+Associating previous term: r to term  
+Associating previous term:   to term f
+Associating previous term: f to term i
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term: i to term r
+Associating previous term: r to term s
+Associating previous term: s to term t
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: t to term  
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term:   to term i
+Associating previous term: i to term d
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: d to term e
+Associating previous term: e to term a
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: a to term  
+Associating previous term:   to term w
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: w to term a
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term: a to term s
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: s to term  
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term:   to term t
+Associating previous term: t to term h
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: h to term a
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: a to term t
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: t to term  
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term:   to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: s to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: e to term  
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:   to term h
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: h to term a
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: a to term d
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: d to term  
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term:   to term s
+Associating previous term: s to term o
+Associating previous term: o to term m
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: m to term e
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: e to term h
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: h to term o
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: o to term w
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: w to term  
+Character: f | returning 1 matching terms: {
+ matching: term-24 f
+}
+Associating previous term:   to term f
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: f to term a
+Associating previous term: a to term l
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: l to term l
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: l to term e
+Associating previous term: e to term n
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: n to term  
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term:   to term i
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: i to term n
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: n to term t
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: t to term o
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: o to term  
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term:   to term t
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: t to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: e to term  
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term:   to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: s to term e
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: e to term a
+Associating previous term: a to term ,
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: , to term  
+Associating previous term:   to term '
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: ' to term a
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: a to term n
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: n to term d
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: d to term  
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term:   to term i
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: i to term n
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: n to term  
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term:   to term t
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: t to term h
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: h to term a
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: a to term t
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: t to term  
+Associating previous term:   to term c
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: c to term a
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term: a to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: s to term e
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: e to term  
+Associating previous term:   to term I
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: I to term  
+Character: c | returning 1 matching terms: {
+ matching: term-38 c
+}
+Associating previous term:   to term c
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: c to term a
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: a to term n
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: n to term  
+Associating previous term:   to term g
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: g to term o
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: o to term  
+Associating previous term:   to term b
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: b to term a
+Character: c | returning 1 matching terms: {
+ matching: term-38 c
+}
+Associating previous term: a to term c
+Associating previous term: c to term k
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: k to term  
+Character: b | returning 1 matching terms: {
+ matching: term-41 b
+}
+Associating previous term:   to term b
+Associating previous term: b to term y
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: y to term  
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term:   to term r
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: r to term a
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term: a to term i
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: i to term l
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: l to term w
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: w to term a
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term: a to term y
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: y to term ,
+Character: ' | returning 1 matching terms: {
+ matching: term-37 '
+}
+Associating previous term: , to term '
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: ' to term  
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term:   to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: s to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: e to term  
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term:   to term s
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: s to term a
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term: a to term i
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: i to term d
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: d to term  
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term:   to term t
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: t to term o
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: o to term  
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:   to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term: e to term r
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term: r to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: s to term e
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: e to term l
+Character: f | returning 1 matching terms: {
+ matching: term-24 f
+}
+Associating previous term: l to term f
+Associating previous term: f to term .
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: . to term  
+New Term:  r from ta.co=45(before.before().size():15 after.after().size(): 3) >= 30 before:   after: r
+New Term: d  from ta.co=36(before.before().size():3 after.after().size(): 12) >= 30 before: d after:  
+New Term: n  from ta.co=36(before.before().size():3 after.after().size(): 12) >= 30 before: n after:  
+New Term: o  from ta.co=48(before.before().size():4 after.after().size(): 12) >= 30 before: o after:  
+New Term: a  from ta.co=108(before.before().size():9 after.after().size(): 12) >= 30 before: a after:  
+New Term: s  from ta.co=36(before.before().size():3 after.after().size(): 12) >= 30 before: s after:  
+New Term: w  from ta.co=36(before.before().size():3 after.after().size(): 12) >= 30 before: w after:  
+New Term: e  from ta.co=72(before.before().size():6 after.after().size(): 12) >= 30 before: e after:  
+New Term: t  from ta.co=48(before.before().size():4 after.after().size(): 12) >= 30 before: t after:  
+New Term: r  from ta.co=36(before.before().size():3 after.after().size(): 12) >= 30 before: r after:  
+New Term:  f from ta.co=45(before.before().size():15 after.after().size(): 3) >= 30 before:   after: f
+New Term:  i from ta.co=60(before.before().size():15 after.after().size(): 4) >= 30 before:   after: i
+New Term: ai from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: a after: i
+New Term:  s from ta.co=90(before.before().size():15 after.after().size(): 6) >= 30 before:   after: s
+New Term: as from ta.co=54(before.before().size():9 after.after().size(): 6) >= 30 before: a after: s
+New Term:  t from ta.co=45(before.before().size():15 after.after().size(): 3) >= 30 before:   after: t
+New Term: sa from ta.co=30(before.before().size():3 after.after().size(): 10) >= 30 before: s after: a
+New Term: ra from ta.co=30(before.before().size():3 after.after().size(): 10) >= 30 before: r after: a
+New Term: ha from ta.co=40(before.before().size():4 after.after().size(): 10) >= 30 before: h after: a
+New Term: ea from ta.co=60(before.before().size():6 after.after().size(): 10) >= 30 before: e after: a
+New Term: wa from ta.co=30(before.before().size():3 after.after().size(): 10) >= 30 before: w after: a
+New Term:  w from ta.co=30(before.before().size():15 after.after().size(): 2) >= 30 before:   after: w
+New Term:  h from ta.co=45(before.before().size():15 after.after().size(): 3) >= 30 before:   after: h
+New Term: al from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: a after: l
+New Term:  ' from ta.co=30(before.before().size():15 after.after().size(): 2) >= 30 before:   after: '
+New Term:  c from ta.co=30(before.before().size():15 after.after().size(): 2) >= 30 before:   after: c
+New Term:  b from ta.co=30(before.before().size():15 after.after().size(): 2) >= 30 before:   after: b
+Character: H | returning 1 matching terms: {
+ matching: term-20 H
+}
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: H to term e
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term: e to term r
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-54 r 
+}
+Associating previous term: r to term  
+Associating previous term: e to term r 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: r to term  f
+Associating previous term:   to term f
+Associating previous term: r  to term f
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term:  f to term i
+Associating previous term: f to term i
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term: i to term r
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term: r to term s
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: s to term t
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: s to term t 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: t  to term i
+Associating previous term: t to term  i
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: i to term d
+Associating previous term:  i to term d
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: d to term e
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term: d to term ea
+Associating previous term: e to term a
+Character:   | returning 2 matching terms: {
+ matching: term-49 a 
+ matching: term-23  
+}
+Associating previous term: e to term a 
+Associating previous term: ea to term  
+Associating previous term: a to term  
+Character: w | returning 2 matching terms: {
+ matching: term-66  w
+ matching: term-30 w
+}
+Associating previous term: ea to term  w
+Associating previous term: a to term  w
+Associating previous term: a  to term w
+Associating previous term:   to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: a  to term wa
+Associating previous term:   to term wa
+Associating previous term:  w to term a
+Associating previous term: w to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term:  w to term as
+Associating previous term: w to term as
+Associating previous term: wa to term s
+Associating previous term: a to term s
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-50 s 
+}
+Associating previous term: as to term  
+Associating previous term: s to term  
+Associating previous term: wa to term s 
+Associating previous term: a to term s 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: s  to term t
+Associating previous term: as to term  t
+Associating previous term: s to term  t
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: t to term  s
+Associating previous term:   to term s
+Associating previous term: t  to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: e to term  h
+Associating previous term:   to term h
+Associating previous term: e  to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term:   to term ha
+Associating previous term: e  to term ha
+Associating previous term:  h to term a
+Associating previous term: h to term a
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: ha to term d
+Associating previous term: a to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: ha to term d 
+Associating previous term: a to term d 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: d to term  s
+Associating previous term:   to term s
+Associating previous term: d  to term s
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term:  s to term o
+Associating previous term: s to term o
+Character: m | returning 1 matching terms: {
+ matching: term-33 m
+}
+Associating previous term: o to term m
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: m to term e
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: e to term h
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: h to term o
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: o to term w
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-51 w 
+}
+Associating previous term: w to term  
+Associating previous term: o to term w 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: w to term  f
+Associating previous term:   to term f
+Associating previous term: w  to term f
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term:  f to term a
+Associating previous term: f to term a
+Character: l | returning 2 matching terms: {
+ matching: term-68 al
+ matching: term-34 l
+}
+Associating previous term:  f to term al
+Associating previous term: f to term al
+Associating previous term: a to term l
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: al to term l
+Associating previous term: l to term l
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: l to term e
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: e to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: n to term  
+Associating previous term: e to term n 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: n  to term i
+Associating previous term: n to term  i
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: n to term t
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term: t to term o 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: o  to term t
+Associating previous term: o to term  t
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term:  s to term e
+Associating previous term: s to term e
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term:  s to term ea
+Associating previous term: s to term ea
+Associating previous term: e to term a
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: ea to term ,
+Associating previous term: a to term ,
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: , to term  
+Character: ' | returning 2 matching terms: {
+ matching: term-69  '
+ matching: term-37 '
+}
+Associating previous term: , to term  '
+Associating previous term:   to term '
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term:  ' to term a
+Associating previous term: ' to term a
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: a to term n
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: n to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: n to term d 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: d  to term i
+Associating previous term: d to term  i
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: n to term  
+Associating previous term: i to term n 
+Associating previous term:  i to term n 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: n  to term t
+Associating previous term: n to term  t
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Character: t | returning 1 matching terms: {
+ matching: term-27 t
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: t  to term c
+Associating previous term: t to term  c
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term: c to term as
+Associating previous term:  c to term as
+Associating previous term: a to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: as to term e
+Associating previous term: s to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: e to term  
+Associating previous term: as to term e 
+Associating previous term: s to term e 
+Character: I | returning 1 matching terms: {
+ matching: term-39 I
+}
+Associating previous term:   to term I
+Associating previous term: e  to term I
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: I to term  
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: I to term  c
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: n | returning 1 matching terms: {
+ matching: term-35 n
+}
+Associating previous term: a to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: n to term  
+Associating previous term: a to term n 
+Character: g | returning 1 matching terms: {
+ matching: term-40 g
+}
+Associating previous term:   to term g
+Associating previous term: n  to term g
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: g to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term: g to term o 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: o to term  b
+Associating previous term:   to term b
+Associating previous term: o  to term b
+Character: a | returning 1 matching terms: {
+ matching: term-29 a
+}
+Associating previous term:  b to term a
+Associating previous term: b to term a
+Character: c | returning 1 matching terms: {
+ matching: term-38 c
+}
+Associating previous term: a to term c
+Character: k | returning 1 matching terms: {
+ matching: term-42 k
+}
+Associating previous term: c to term k
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: k to term  
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: k to term  b
+Associating previous term:   to term b
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term:  b to term y
+Associating previous term: b to term y
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: y to term  
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-45  r
+}
+Associating previous term:   to term r
+Associating previous term: y to term  r
+Character: a | returning 2 matching terms: {
+ matching: term-62 ra
+ matching: term-29 a
+}
+Associating previous term:   to term ra
+Associating previous term: r to term a
+Associating previous term:  r to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: ra to term i
+Associating previous term: a to term i
+Associating previous term: r to term ai
+Associating previous term:  r to term ai
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: i to term l
+Associating previous term: ai to term l
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: l to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: l to term wa
+Associating previous term: w to term a
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term: wa to term y
+Associating previous term: a to term y
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: y to term ,
+Character: ' | returning 1 matching terms: {
+ matching: term-37 '
+}
+Associating previous term: , to term '
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: ' to term  
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: ' to term  s
+Associating previous term:   to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: h to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: a | returning 2 matching terms: {
+ matching: term-61 sa
+ matching: term-29 a
+}
+Associating previous term:   to term sa
+Associating previous term: e  to term sa
+Associating previous term:  s to term a
+Associating previous term: s to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: sa to term i
+Associating previous term: a to term i
+Associating previous term:  s to term ai
+Associating previous term: s to term ai
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: i to term d
+Associating previous term: ai to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: i to term d 
+Associating previous term: ai to term d 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: d  to term t
+Associating previous term: d to term  t
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term: t to term o
+Associating previous term:  t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term: t to term o 
+Associating previous term:  t to term o 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: o to term  h
+Associating previous term:   to term h
+Associating previous term: o  to term h
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term:  h to term e
+Associating previous term: h to term e
+Character: r | returning 1 matching terms: {
+ matching: term-22 r
+}
+Associating previous term: e to term r
+Character: s | returning 1 matching terms: {
+ matching: term-26 s
+}
+Associating previous term: r to term s
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: s to term e
+Character: l | returning 1 matching terms: {
+ matching: term-34 l
+}
+Associating previous term: e to term l
+Character: f | returning 1 matching terms: {
+ matching: term-24 f
+}
+Associating previous term: l to term f
+Character: . | returning 1 matching terms: {
+ matching: term-44 .
+}
+Associating previous term: f to term .
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: . to term  
+New Term: le from ta.co=66(before.before().size():6 after.after().size(): 11) >= 30 before: l after: e
+New Term: he from ta.co=88(before.before().size():8 after.after().size(): 11) >= 30 before: h after: e
+New Term:  se from ta.co=44(before.before().size():4 after.after().size(): 11) >= 30 before:  s after: e
+New Term: se from ta.co=77(before.before().size():7 after.after().size(): 11) >= 30 before: s after: e
+New Term: de from ta.co=66(before.before().size():6 after.after().size(): 11) >= 30 before: d after: e
+New Term: ase from ta.co=44(before.before().size():4 after.after().size(): 11) >= 30 before: as after: e
+New Term: ir from ta.co=45(before.before().size():9 after.after().size(): 5) >= 30 before: i after: r
+New Term: er from ta.co=45(before.before().size():9 after.after().size(): 5) >= 30 before: e after: r
+New Term: ea  from ta.co=48(before.before().size():3 after.after().size(): 16) >= 30 before: ea after:  
+New Term: '  from ta.co=32(before.before().size():2 after.after().size(): 16) >= 30 before: ' after:  
+New Term: as  from ta.co=64(before.before().size():4 after.after().size(): 16) >= 30 before: as after:  
+New Term: I  from ta.co=32(before.before().size():2 after.after().size(): 16) >= 30 before: I after:  
+New Term: y  from ta.co=64(before.before().size():4 after.after().size(): 16) >= 30 before: y after:  
+New Term: ,  from ta.co=48(before.before().size():3 after.after().size(): 16) >= 30 before: , after:  
+New Term: d i from ta.co=30(before.before().size():5 after.after().size(): 6) >= 30 before: d  after: i
+New Term: was from ta.co=33(before.before().size():3 after.after().size(): 11) >= 30 before: wa after: s
+New Term: e s from ta.co=33(before.before().size():3 after.after().size(): 11) >= 30 before: e  after: s
+New Term: d s from ta.co=55(before.before().size():5 after.after().size(): 11) >= 30 before: d  after: s
+New Term: t s from ta.co=33(before.before().size():3 after.after().size(): 11) >= 30 before: t  after: s
+New Term: rs from ta.co=33(before.before().size():3 after.after().size(): 11) >= 30 before: r after: s
+New Term: d t from ta.co=40(before.before().size():5 after.after().size(): 8) >= 30 before: d  after: t
+New Term: hat from ta.co=32(before.before().size():4 after.after().size(): 8) >= 30 before: ha after: t
+New Term: at from ta.co=136(before.before().size():17 after.after().size(): 8) >= 30 before: a after: t
+New Term: nt from ta.co=32(before.before().size():4 after.after().size(): 8) >= 30 before: n after: t
+New Term: n t from ta.co=32(before.before().size():4 after.after().size(): 8) >= 30 before: n  after: t
+New Term: st from ta.co=56(before.before().size():7 after.after().size(): 8) >= 30 before: s after: t
+New Term: ad from ta.co=102(before.before().size():17 after.after().size(): 6) >= 30 before: a after: d
+New Term: id from ta.co=54(before.before().size():9 after.after().size(): 6) >= 30 before: i after: d
+New Term:  sa from ta.co=60(before.before().size():4 after.after().size(): 15) >= 30 before:  s after: a
+New Term: ca from ta.co=45(before.before().size():3 after.after().size(): 15) >= 30 before: c after: a
+New Term:  ba from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before:  b after: a
+New Term:  ha from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before:  h after: a
+New Term:  fa from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before:  f after: a
+New Term:  ca from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before:  c after: a
+New Term: 'a from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before: ' after: a
+New Term:  wa from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before:  w after: a
+New Term: ba from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before: b after: a
+New Term: fa from ta.co=60(before.before().size():4 after.after().size(): 15) >= 30 before: f after: a
+New Term: eh from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: e after: h
+New Term: th from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: t after: h
+New Term: so from ta.co=49(before.before().size():7 after.after().size(): 7) >= 30 before: s after: o
+New Term:  to from ta.co=35(before.before().size():5 after.after().size(): 7) >= 30 before:  t after: o
+New Term: ho from ta.co=56(before.before().size():8 after.after().size(): 7) >= 30 before: h after: o
+New Term: to from ta.co=63(before.before().size():9 after.after().size(): 7) >= 30 before: t after: o
+New Term: el from ta.co=45(before.before().size():9 after.after().size(): 5) >= 30 before: e after: l
+New Term: il from ta.co=45(before.before().size():9 after.after().size(): 5) >= 30 before: i after: l
+New Term: ll from ta.co=30(before.before().size():6 after.after().size(): 5) >= 30 before: l after: l
+New Term: an from ta.co=102(before.before().size():17 after.after().size(): 6) >= 30 before: a after: n
+New Term: en from ta.co=54(before.before().size():9 after.after().size(): 6) >= 30 before: e after: n
+New Term: in from ta.co=54(before.before().size():9 after.after().size(): 6) >= 30 before: i after: n
+New Term: a, from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: ,
+New Term: ac from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: c
+New Term:  I from ta.co=34(before.before().size():17 after.after().size(): 2) >= 30 before:   after: I
+New Term:  g from ta.co=34(before.before().size():17 after.after().size(): 2) >= 30 before:   after: g
+New Term: ay from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: y
+New Term: ad  from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: d 
+New Term: an  from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: n 
+New Term: he  from ta.co=40(before.before().size():8 after.after().size(): 5) >= 30 before: h after: e 
+New Term: se  from ta.co=35(before.before().size():7 after.after().size(): 5) >= 30 before: s after: e 
+New Term: at  from ta.co=51(before.before().size():17 after.after().size(): 3) >= 30 before: a after: t 
+New Term: tha from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: t after: ha
+New Term: a w from ta.co=34(before.before().size():17 after.after().size(): 2) >= 30 before: a after:  w
+Character: H | returning 1 matching terms: {
+ matching: term-20 H
+}
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: H to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term: H to term er
+Associating previous term: e to term r
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-54 r 
+}
+Associating previous term: er to term  
+Associating previous term: r to term  
+Associating previous term: e to term r 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: er to term  f
+Associating previous term: r to term  f
+Associating previous term:   to term f
+Associating previous term: r  to term f
+Character: i | returning 1 matching terms: {
+ matching: term-25 i
+}
+Associating previous term:  f to term i
+Associating previous term: f to term i
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-78 ir
+}
+Associating previous term: i to term r
+Associating previous term:  f to term ir
+Associating previous term: f to term ir
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: i to term rs
+Associating previous term: r to term s
+Associating previous term: ir to term s
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-97 st
+}
+Associating previous term: rs to term t
+Associating previous term: s to term t
+Associating previous term: r to term st
+Associating previous term: ir to term st
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: st to term  
+Associating previous term: rs to term t 
+Associating previous term: s to term t 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: t  to term i
+Associating previous term: t to term  i
+Associating previous term: st to term  i
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term:   to term id
+Associating previous term: t  to term id
+Associating previous term: i to term d
+Associating previous term:  i to term d
+Character: e | returning 2 matching terms: {
+ matching: term-21 e
+ matching: term-76 de
+}
+Associating previous term: id to term e
+Associating previous term: d to term e
+Associating previous term: i to term de
+Associating previous term:  i to term de
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term: id to term ea
+Associating previous term: d to term ea
+Associating previous term: e to term a
+Associating previous term: de to term a
+Character:   | returning 2 matching terms: {
+ matching: term-49 a 
+ matching: term-23  
+}
+Associating previous term: e to term a 
+Associating previous term: de to term a 
+Associating previous term: ea to term  
+Associating previous term: a to term  
+Character: w | returning 2 matching terms: {
+ matching: term-66  w
+ matching: term-30 w
+}
+Associating previous term: ea to term  w
+Associating previous term: a to term  w
+Associating previous term: a  to term w
+Associating previous term:   to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term: a  to term wa
+Associating previous term:   to term wa
+Associating previous term:  w to term a
+Associating previous term: w to term a
+Associating previous term:  w to term as
+Associating previous term: w to term as
+Associating previous term: wa to term s
+Associating previous term: a to term s
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-50 s 
+}
+Associating previous term: as to term  
+Associating previous term: s to term  
+Associating previous term: wa to term s 
+Associating previous term: a to term s 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: s  to term t
+Associating previous term: as to term  t
+Associating previous term: s to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: s  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: t to term  s
+Associating previous term: at to term  s
+Associating previous term:   to term s
+Associating previous term: t  to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: he to term  h
+Associating previous term: e to term  h
+Associating previous term:   to term h
+Associating previous term: e  to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term:   to term ha
+Associating previous term: e  to term ha
+Associating previous term:  h to term a
+Associating previous term: h to term a
+Character: d | returning 2 matching terms: {
+ matching: term-28 d
+ matching: term-98 ad
+}
+Associating previous term: ha to term d
+Associating previous term: a to term d
+Associating previous term:  h to term ad
+Associating previous term: h to term ad
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: ad to term  
+Associating previous term: ha to term d 
+Associating previous term: a to term d 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: d to term  s
+Associating previous term: ad to term  s
+Associating previous term:   to term s
+Associating previous term: d  to term s
+Character: o | returning 2 matching terms: {
+ matching: term-112 so
+ matching: term-32 o
+}
+Associating previous term:   to term so
+Associating previous term: d  to term so
+Associating previous term:  s to term o
+Associating previous term: s to term o
+Character: m | returning 1 matching terms: {
+ matching: term-33 m
+}
+Associating previous term: so to term m
+Associating previous term: o to term m
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: m to term e
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-110 eh
+}
+Associating previous term: e to term h
+Associating previous term: m to term eh
+Character: o | returning 2 matching terms: {
+ matching: term-114 ho
+ matching: term-32 o
+}
+Associating previous term: e to term ho
+Associating previous term: h to term o
+Associating previous term: eh to term o
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: ho to term w
+Associating previous term: o to term w
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-51 w 
+}
+Associating previous term: w to term  
+Associating previous term: ho to term w 
+Associating previous term: o to term w 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: w to term  f
+Associating previous term:   to term f
+Associating previous term: w  to term f
+Character: a | returning 2 matching terms: {
+ matching: term-109 fa
+ matching: term-29 a
+}
+Associating previous term:   to term fa
+Associating previous term: w  to term fa
+Associating previous term:  f to term a
+Associating previous term: f to term a
+Character: l | returning 2 matching terms: {
+ matching: term-68 al
+ matching: term-34 l
+}
+Associating previous term:  f to term al
+Associating previous term: f to term al
+Associating previous term: fa to term l
+Associating previous term: a to term l
+Character: l | returning 2 matching terms: {
+ matching: term-118 ll
+ matching: term-34 l
+}
+Associating previous term: fa to term ll
+Associating previous term: a to term ll
+Associating previous term: al to term l
+Associating previous term: l to term l
+Character: e | returning 2 matching terms: {
+ matching: term-72 le
+ matching: term-21 e
+}
+Associating previous term: al to term le
+Associating previous term: l to term le
+Associating previous term: ll to term e
+Associating previous term: l to term e
+Character: n | returning 2 matching terms: {
+ matching: term-120 en
+ matching: term-35 n
+}
+Associating previous term: ll to term en
+Associating previous term: l to term en
+Associating previous term: le to term n
+Associating previous term: e to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: en to term  
+Associating previous term: n to term  
+Associating previous term: le to term n 
+Associating previous term: e to term n 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: n  to term i
+Associating previous term: en to term  i
+Associating previous term: n to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: n  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character: t | returning 2 matching terms: {
+ matching: term-95 nt
+ matching: term-27 t
+}
+Associating previous term: i to term nt
+Associating previous term:  i to term nt
+Associating previous term: in to term t
+Associating previous term: n to term t
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Associating previous term: in to term to
+Associating previous term: n to term to
+Associating previous term: nt to term o
+Associating previous term: t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: to to term  
+Associating previous term: o to term  
+Associating previous term: nt to term o 
+Associating previous term: t to term o 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: o  to term t
+Associating previous term: to to term  t
+Associating previous term: o to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: o  to term th
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term: t to term he
+Associating previous term:  t to term he
+Associating previous term: h to term e
+Associating previous term: th to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: th to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term:   to term se
+Associating previous term: e  to term se
+Associating previous term:  s to term e
+Associating previous term: s to term e
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term:  s to term ea
+Associating previous term: s to term ea
+Associating previous term: se to term a
+Associating previous term: e to term a
+Character: , | returning 2 matching terms: {
+ matching: term-36 ,
+ matching: term-122 a,
+}
+Associating previous term: ea to term ,
+Associating previous term: a to term ,
+Associating previous term: se to term a,
+Associating previous term: e to term a,
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-85 , 
+}
+Associating previous term: , to term  
+Associating previous term: a, to term  
+Associating previous term: ea to term , 
+Associating previous term: a to term , 
+Character: ' | returning 2 matching terms: {
+ matching: term-69  '
+ matching: term-37 '
+}
+Associating previous term: , to term  '
+Associating previous term: a, to term  '
+Associating previous term:   to term '
+Associating previous term: ,  to term '
+Character: a | returning 2 matching terms: {
+ matching: term-106 'a
+ matching: term-29 a
+}
+Associating previous term:   to term 'a
+Associating previous term: ,  to term 'a
+Associating previous term:  ' to term a
+Associating previous term: ' to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term:  ' to term an
+Associating previous term: ' to term an
+Associating previous term: 'a to term n
+Associating previous term: a to term n
+Character: d | returning 1 matching terms: {
+ matching: term-28 d
+}
+Associating previous term: an to term d
+Associating previous term: n to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: an to term d 
+Associating previous term: n to term d 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: d  to term i
+Associating previous term: d to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: d  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: in to term  
+Associating previous term: n to term  
+Associating previous term: i to term n 
+Associating previous term:  i to term n 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: n  to term t
+Associating previous term: in to term  t
+Associating previous term: n to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: n  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: t  to term c
+Associating previous term: t to term  c
+Associating previous term: at to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: t  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term: c to term as
+Associating previous term:  c to term as
+Associating previous term: ca to term s
+Associating previous term: a to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: ca to term se
+Associating previous term: a to term se
+Associating previous term: as to term e
+Associating previous term: s to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: se to term  
+Associating previous term: e to term  
+Associating previous term: as to term e 
+Associating previous term: s to term e 
+Character: I | returning 2 matching terms: {
+ matching: term-124  I
+ matching: term-39 I
+}
+Associating previous term: se to term  I
+Associating previous term: e to term  I
+Associating previous term:   to term I
+Associating previous term: e  to term I
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-83 I 
+}
+Associating previous term:  I to term  
+Associating previous term: I to term  
+Associating previous term:   to term I 
+Associating previous term: e  to term I 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: I  to term c
+Associating previous term:  I to term  c
+Associating previous term: I to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: I  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term: c to term an
+Associating previous term:  c to term an
+Associating previous term: ca to term n
+Associating previous term: a to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: an to term  
+Associating previous term: n to term  
+Associating previous term: ca to term n 
+Associating previous term: a to term n 
+Character: g | returning 2 matching terms: {
+ matching: term-125  g
+ matching: term-40 g
+}
+Associating previous term: an to term  g
+Associating previous term: n to term  g
+Associating previous term:   to term g
+Associating previous term: n  to term g
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term:  g to term o
+Associating previous term: g to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term:  g to term o 
+Associating previous term: g to term o 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: o to term  b
+Associating previous term:   to term b
+Associating previous term: o  to term b
+Character: a | returning 2 matching terms: {
+ matching: term-29 a
+ matching: term-108 ba
+}
+Associating previous term:  b to term a
+Associating previous term: b to term a
+Associating previous term:   to term ba
+Associating previous term: o  to term ba
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-123 ac
+}
+Associating previous term: a to term c
+Associating previous term: ba to term c
+Associating previous term:  b to term ac
+Associating previous term: b to term ac
+Character: k | returning 1 matching terms: {
+ matching: term-42 k
+}
+Associating previous term: c to term k
+Associating previous term: ac to term k
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: k to term  
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: k to term  b
+Associating previous term:   to term b
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term:  b to term y
+Associating previous term: b to term y
+Character:   | returning 2 matching terms: {
+ matching: term-84 y 
+ matching: term-23  
+}
+Associating previous term:  b to term y 
+Associating previous term: b to term y 
+Associating previous term: y to term  
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-45  r
+}
+Associating previous term: y  to term r
+Associating previous term:   to term r
+Associating previous term: y to term  r
+Character: a | returning 2 matching terms: {
+ matching: term-62 ra
+ matching: term-29 a
+}
+Associating previous term: y  to term ra
+Associating previous term:   to term ra
+Associating previous term: r to term a
+Associating previous term:  r to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: ra to term i
+Associating previous term: a to term i
+Associating previous term: r to term ai
+Associating previous term:  r to term ai
+Character: l | returning 2 matching terms: {
+ matching: term-34 l
+ matching: term-117 il
+}
+Associating previous term: i to term l
+Associating previous term: ai to term l
+Associating previous term: ra to term il
+Associating previous term: a to term il
+Character: w | returning 1 matching terms: {
+ matching: term-30 w
+}
+Associating previous term: l to term w
+Associating previous term: il to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: l to term wa
+Associating previous term: il to term wa
+Associating previous term: w to term a
+Character: y | returning 2 matching terms: {
+ matching: term-43 y
+ matching: term-126 ay
+}
+Associating previous term: wa to term y
+Associating previous term: a to term y
+Associating previous term: w to term ay
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: y to term ,
+Associating previous term: ay to term ,
+Character: ' | returning 1 matching terms: {
+ matching: term-37 '
+}
+Associating previous term: , to term '
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-81 ' 
+}
+Associating previous term: ' to term  
+Associating previous term: , to term ' 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: ' to term  s
+Associating previous term:   to term s
+Associating previous term: '  to term s
+Character: h | returning 1 matching terms: {
+ matching: term-31 h
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: a | returning 2 matching terms: {
+ matching: term-61 sa
+ matching: term-29 a
+}
+Associating previous term:   to term sa
+Associating previous term: e  to term sa
+Associating previous term:  s to term a
+Associating previous term: s to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: sa to term i
+Associating previous term: a to term i
+Associating previous term:  s to term ai
+Associating previous term: s to term ai
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term: sa to term id
+Associating previous term: a to term id
+Associating previous term: i to term d
+Associating previous term: ai to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: id to term  
+Associating previous term: d to term  
+Associating previous term: i to term d 
+Associating previous term: ai to term d 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: d  to term t
+Associating previous term: id to term  t
+Associating previous term: d to term  t
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Associating previous term:   to term to
+Associating previous term: d  to term to
+Associating previous term: t to term o
+Associating previous term:  t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: to to term  
+Associating previous term: o to term  
+Associating previous term: t to term o 
+Associating previous term:  t to term o 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: to to term  h
+Associating previous term: o to term  h
+Associating previous term:   to term h
+Associating previous term: o  to term h
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:   to term he
+Associating previous term: o  to term he
+Associating previous term:  h to term e
+Associating previous term: h to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term:  h to term er
+Associating previous term: h to term er
+Associating previous term: he to term r
+Associating previous term: e to term r
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: he to term rs
+Associating previous term: e to term rs
+Associating previous term: er to term s
+Associating previous term: r to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: er to term se
+Associating previous term: r to term se
+Associating previous term: rs to term e
+Associating previous term: s to term e
+Character: l | returning 2 matching terms: {
+ matching: term-116 el
+ matching: term-34 l
+}
+Associating previous term: rs to term el
+Associating previous term: s to term el
+Associating previous term: se to term l
+Associating previous term: e to term l
+Character: f | returning 1 matching terms: {
+ matching: term-24 f
+}
+Associating previous term: el to term f
+Associating previous term: l to term f
+Character: . | returning 1 matching terms: {
+ matching: term-44 .
+}
+Associating previous term: f to term .
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: . to term  
+New Term:  he from ta.co=60(before.before().size():4 after.after().size(): 15) >= 30 before:  h after: e
+New Term: rse from ta.co=45(before.before().size():3 after.after().size(): 15) >= 30 before: rs after: e
+New Term: lle from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before: ll after: e
+New Term: ide from ta.co=60(before.before().size():4 after.after().size(): 15) >= 30 before: id after: e
+New Term: me from ta.co=30(before.before().size():2 after.after().size(): 15) >= 30 before: m after: e
+New Term: the from ta.co=60(before.before().size():4 after.after().size(): 15) >= 30 before: th after: e
+New Term: her from ta.co=42(before.before().size():6 after.after().size(): 7) >= 30 before: he after: r
+New Term: to  from ta.co=112(before.before().size():4 after.after().size(): 28) >= 30 before: to after:  
+New Term: k  from ta.co=56(before.before().size():2 after.after().size(): 28) >= 30 before: k after:  
+New Term:  I  from ta.co=56(before.before().size():2 after.after().size(): 28) >= 30 before:  I after:  
+New Term: st  from ta.co=56(before.before().size():2 after.after().size(): 28) >= 30 before: st after:  
+New Term: a,  from ta.co=56(before.before().size():2 after.after().size(): 28) >= 30 before: a, after:  
+New Term: in  from ta.co=84(before.before().size():3 after.after().size(): 28) >= 30 before: in after:  
+New Term: en  from ta.co=56(before.before().size():2 after.after().size(): 28) >= 30 before: en after:  
+New Term: er  from ta.co=84(before.before().size():3 after.after().size(): 28) >= 30 before: er after:  
+New Term: id  from ta.co=112(before.before().size():4 after.after().size(): 28) >= 30 before: id after:  
+New Term: lf from ta.co=40(before.before().size():8 after.after().size(): 5) >= 30 before: l after: f
+New Term: t i from ta.co=36(before.before().size():4 after.after().size(): 9) >= 30 before: t  after: i
+New Term: fi from ta.co=45(before.before().size():5 after.after().size(): 9) >= 30 before: f after: i
+New Term: n i from ta.co=54(before.before().size():6 after.after().size(): 9) >= 30 before: n  after: i
+New Term: cas from ta.co=39(before.before().size():3 after.after().size(): 13) >= 30 before: ca after: s
+New Term: ers from ta.co=39(before.before().size():3 after.after().size(): 13) >= 30 before: er after: s
+New Term: o t from ta.co=45(before.before().size():5 after.after().size(): 9) >= 30 before: o  after: t
+New Term: nd from ta.co=42(before.before().size():7 after.after().size(): 6) >= 30 before: n after: d
+New Term:  id from ta.co=30(before.before().size():5 after.after().size(): 6) >= 30 before:  i after: d
+New Term: dea from ta.co=40(before.before().size():2 after.after().size(): 20) >= 30 before: de after: a
+New Term:  'a from ta.co=40(before.before().size():2 after.after().size(): 20) >= 30 before:  ' after: a
+New Term: sea from ta.co=120(before.before().size():6 after.after().size(): 20) >= 30 before: se after: a
+New Term: ow from ta.co=45(before.before().size():9 after.after().size(): 5) >= 30 before: o after: w
+New Term: lw from ta.co=40(before.before().size():8 after.after().size(): 5) >= 30 before: l after: w
+New Term:  sh from ta.co=49(before.before().size():7 after.after().size(): 7) >= 30 before:  s after: h
+New Term: o h from ta.co=35(before.before().size():5 after.after().size(): 7) >= 30 before: o  after: h
+New Term: sh from ta.co=77(before.before().size():11 after.after().size(): 7) >= 30 before: s after: h
+New Term:  th from ta.co=56(before.before().size():8 after.after().size(): 7) >= 30 before:  t after: h
+New Term:  so from ta.co=49(before.before().size():7 after.after().size(): 7) >= 30 before:  s after: o
+New Term: sel from ta.co=42(before.before().size():6 after.after().size(): 7) >= 30 before: se after: l
+New Term:  in from ta.co=40(before.before().size():5 after.after().size(): 8) >= 30 before:  i after: n
+New Term: nd  from ta.co=42(before.before().size():7 after.after().size(): 6) >= 30 before: n after: d 
+New Term:  to  from ta.co=48(before.before().size():8 after.after().size(): 6) >= 30 before:  t after: o 
+New Term: sai from ta.co=33(before.before().size():11 after.after().size(): 3) >= 30 before: s after: ai
+New Term: he s from ta.co=42(before.before().size():6 after.after().size(): 7) >= 30 before: he after:  s
+New Term: s t from ta.co=55(before.before().size():11 after.after().size(): 5) >= 30 before: s after:  t
+New Term:  ra from ta.co=60(before.before().size():30 after.after().size(): 2) >= 30 before:   after: ra
+New Term:  tha from ta.co=32(before.before().size():8 after.after().size(): 4) >= 30 before:  t after: ha
+New Term: e h from ta.co=52(before.before().size():13 after.after().size(): 4) >= 30 before: e after:  h
+New Term: t c from ta.co=33(before.before().size():11 after.after().size(): 3) >= 30 before: t after:  c
+New Term: o b from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: o after:  b
+New Term:  the from ta.co=40(before.before().size():8 after.after().size(): 5) >= 30 before:  t after: he
+New Term:  she from ta.co=35(before.before().size():7 after.after().size(): 5) >= 30 before:  s after: he
+New Term: she from ta.co=55(before.before().size():11 after.after().size(): 5) >= 30 before: s after: he
+New Term: irs from ta.co=36(before.before().size():9 after.after().size(): 4) >= 30 before: i after: rs
+New Term: aid from ta.co=80(before.before().size():20 after.after().size(): 4) >= 30 before: a after: id
+New Term: ail from ta.co=40(before.before().size():20 after.after().size(): 2) >= 30 before: a after: il
+New Term: all from ta.co=40(before.before().size():20 after.after().size(): 2) >= 30 before: a after: ll
+Character: H | returning 1 matching terms: {
+ matching: term-20 H
+}
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: H to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term: H to term er
+Associating previous term: e to term r
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-54 r 
+}
+Associating previous term: er to term  
+Associating previous term: r to term  
+Associating previous term: e to term r 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: er to term  f
+Associating previous term: r to term  f
+Associating previous term:   to term f
+Associating previous term: r  to term f
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-152 fi
+}
+Associating previous term:  f to term i
+Associating previous term: f to term i
+Associating previous term:   to term fi
+Associating previous term: r  to term fi
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-78 ir
+}
+Associating previous term: i to term r
+Associating previous term: fi to term r
+Associating previous term:  f to term ir
+Associating previous term: f to term ir
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: i to term rs
+Associating previous term: fi to term rs
+Associating previous term: r to term s
+Associating previous term: ir to term s
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-97 st
+}
+Associating previous term: rs to term t
+Associating previous term: s to term t
+Associating previous term: r to term st
+Associating previous term: ir to term st
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: st to term  
+Associating previous term: rs to term t 
+Associating previous term: s to term t 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: t  to term i
+Associating previous term: t to term  i
+Associating previous term: st to term  i
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term:   to term id
+Associating previous term: t  to term id
+Associating previous term: i to term d
+Associating previous term:  i to term d
+Character: e | returning 2 matching terms: {
+ matching: term-21 e
+ matching: term-76 de
+}
+Associating previous term: id to term e
+Associating previous term: d to term e
+Associating previous term: i to term de
+Associating previous term:  i to term de
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term: id to term ea
+Associating previous term: d to term ea
+Associating previous term: e to term a
+Associating previous term: de to term a
+Character:   | returning 2 matching terms: {
+ matching: term-49 a 
+ matching: term-23  
+}
+Associating previous term: e to term a 
+Associating previous term: de to term a 
+Associating previous term: ea to term  
+Associating previous term: a to term  
+Character: w | returning 2 matching terms: {
+ matching: term-66  w
+ matching: term-30 w
+}
+Associating previous term: ea to term  w
+Associating previous term: a to term  w
+Associating previous term: a  to term w
+Associating previous term:   to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: a  to term wa
+Associating previous term:   to term wa
+Associating previous term:  w to term a
+Associating previous term: w to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term:  w to term as
+Associating previous term: w to term as
+Associating previous term: wa to term s
+Associating previous term: a to term s
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-50 s 
+}
+Associating previous term: as to term  
+Associating previous term: s to term  
+Associating previous term: wa to term s 
+Associating previous term: a to term s 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: s  to term t
+Associating previous term: as to term  t
+Associating previous term: s to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: s  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: t to term  s
+Associating previous term: at to term  s
+Associating previous term:   to term s
+Associating previous term: t  to term s
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-166 sh
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Associating previous term:   to term sh
+Associating previous term: t  to term sh
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Associating previous term: sh to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: sh to term e 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: he to term  h
+Associating previous term: e to term  h
+Associating previous term:   to term h
+Associating previous term: e  to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term:   to term ha
+Associating previous term: e  to term ha
+Associating previous term:  h to term a
+Associating previous term: h to term a
+Character: d | returning 2 matching terms: {
+ matching: term-28 d
+ matching: term-98 ad
+}
+Associating previous term: ha to term d
+Associating previous term: a to term d
+Associating previous term:  h to term ad
+Associating previous term: h to term ad
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: ad to term  
+Associating previous term: ha to term d 
+Associating previous term: a to term d 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: d to term  s
+Associating previous term: ad to term  s
+Associating previous term:   to term s
+Associating previous term: d  to term s
+Character: o | returning 2 matching terms: {
+ matching: term-112 so
+ matching: term-32 o
+}
+Associating previous term:   to term so
+Associating previous term: d  to term so
+Associating previous term:  s to term o
+Associating previous term: s to term o
+Character: m | returning 1 matching terms: {
+ matching: term-33 m
+}
+Associating previous term: so to term m
+Associating previous term: o to term m
+Character: e | returning 2 matching terms: {
+ matching: term-138 me
+ matching: term-21 e
+}
+Associating previous term: so to term me
+Associating previous term: o to term me
+Associating previous term: m to term e
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-110 eh
+}
+Associating previous term: me to term h
+Associating previous term: e to term h
+Associating previous term: m to term eh
+Character: o | returning 2 matching terms: {
+ matching: term-114 ho
+ matching: term-32 o
+}
+Associating previous term: me to term ho
+Associating previous term: e to term ho
+Associating previous term: h to term o
+Associating previous term: eh to term o
+Character: w | returning 2 matching terms: {
+ matching: term-30 w
+ matching: term-162 ow
+}
+Associating previous term: ho to term w
+Associating previous term: o to term w
+Associating previous term: h to term ow
+Associating previous term: eh to term ow
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-51 w 
+}
+Associating previous term: w to term  
+Associating previous term: ow to term  
+Associating previous term: ho to term w 
+Associating previous term: o to term w 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: w to term  f
+Associating previous term: ow to term  f
+Associating previous term:   to term f
+Associating previous term: w  to term f
+Character: a | returning 2 matching terms: {
+ matching: term-109 fa
+ matching: term-29 a
+}
+Associating previous term:   to term fa
+Associating previous term: w  to term fa
+Associating previous term:  f to term a
+Associating previous term: f to term a
+Character: l | returning 2 matching terms: {
+ matching: term-68 al
+ matching: term-34 l
+}
+Associating previous term:  f to term al
+Associating previous term: f to term al
+Associating previous term: fa to term l
+Associating previous term: a to term l
+Character: l | returning 2 matching terms: {
+ matching: term-118 ll
+ matching: term-34 l
+}
+Associating previous term: fa to term ll
+Associating previous term: a to term ll
+Associating previous term: al to term l
+Associating previous term: l to term l
+Character: e | returning 2 matching terms: {
+ matching: term-72 le
+ matching: term-21 e
+}
+Associating previous term: al to term le
+Associating previous term: l to term le
+Associating previous term: ll to term e
+Associating previous term: l to term e
+Character: n | returning 2 matching terms: {
+ matching: term-120 en
+ matching: term-35 n
+}
+Associating previous term: ll to term en
+Associating previous term: l to term en
+Associating previous term: le to term n
+Associating previous term: e to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: en to term  
+Associating previous term: n to term  
+Associating previous term: le to term n 
+Associating previous term: e to term n 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: n  to term i
+Associating previous term: en to term  i
+Associating previous term: n to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: n  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character: t | returning 2 matching terms: {
+ matching: term-95 nt
+ matching: term-27 t
+}
+Associating previous term: i to term nt
+Associating previous term:  i to term nt
+Associating previous term: in to term t
+Associating previous term: n to term t
+Associating previous term: in to term to
+Associating previous term: n to term to
+Associating previous term: nt to term o
+Associating previous term: t to term o
+Associating previous term: to to term  
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term: nt to term o 
+Associating previous term: t to term o 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: o  to term t
+Associating previous term: to to term  t
+Associating previous term: o to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: o  to term th
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term: t to term he
+Associating previous term:  t to term he
+Associating previous term: h to term e
+Associating previous term: th to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: th to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term:   to term se
+Associating previous term: e  to term se
+Associating previous term:  s to term e
+Associating previous term: s to term e
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term:  s to term ea
+Associating previous term: s to term ea
+Associating previous term: se to term a
+Associating previous term: e to term a
+Character: , | returning 2 matching terms: {
+ matching: term-36 ,
+ matching: term-122 a,
+}
+Associating previous term: ea to term ,
+Associating previous term: a to term ,
+Associating previous term: se to term a,
+Associating previous term: e to term a,
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-85 , 
+}
+Associating previous term: , to term  
+Associating previous term: a, to term  
+Associating previous term: ea to term , 
+Associating previous term: a to term , 
+Character: ' | returning 2 matching terms: {
+ matching: term-69  '
+ matching: term-37 '
+}
+Associating previous term: , to term  '
+Associating previous term: a, to term  '
+Associating previous term:   to term '
+Associating previous term: ,  to term '
+Character: a | returning 2 matching terms: {
+ matching: term-106 'a
+ matching: term-29 a
+}
+Associating previous term:   to term 'a
+Associating previous term: ,  to term 'a
+Associating previous term:  ' to term a
+Associating previous term: ' to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term:  ' to term an
+Associating previous term: ' to term an
+Associating previous term: 'a to term n
+Associating previous term: a to term n
+Character: d | returning 2 matching terms: {
+ matching: term-28 d
+ matching: term-157 nd
+}
+Associating previous term: an to term d
+Associating previous term: n to term d
+Associating previous term: 'a to term nd
+Associating previous term: a to term nd
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: nd to term  
+Associating previous term: an to term d 
+Associating previous term: n to term d 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: d  to term i
+Associating previous term: d to term  i
+Associating previous term: nd to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: d  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: in to term  
+Associating previous term: n to term  
+Associating previous term: i to term n 
+Associating previous term:  i to term n 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: n  to term t
+Associating previous term: in to term  t
+Associating previous term: n to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: n  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: t  to term c
+Associating previous term: t to term  c
+Associating previous term: at to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: t  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term: c to term as
+Associating previous term:  c to term as
+Associating previous term: ca to term s
+Associating previous term: a to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: ca to term se
+Associating previous term: a to term se
+Associating previous term: as to term e
+Associating previous term: s to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: se to term  
+Associating previous term: e to term  
+Associating previous term: as to term e 
+Associating previous term: s to term e 
+Character: I | returning 2 matching terms: {
+ matching: term-124  I
+ matching: term-39 I
+}
+Associating previous term: se to term  I
+Associating previous term: e to term  I
+Associating previous term:   to term I
+Associating previous term: e  to term I
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-83 I 
+}
+Associating previous term:  I to term  
+Associating previous term: I to term  
+Associating previous term:   to term I 
+Associating previous term: e  to term I 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: I  to term c
+Associating previous term:  I to term  c
+Associating previous term: I to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: I  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term: c to term an
+Associating previous term:  c to term an
+Associating previous term: ca to term n
+Associating previous term: a to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: an to term  
+Associating previous term: n to term  
+Associating previous term: ca to term n 
+Associating previous term: a to term n 
+Character: g | returning 2 matching terms: {
+ matching: term-125  g
+ matching: term-40 g
+}
+Associating previous term: an to term  g
+Associating previous term: n to term  g
+Associating previous term:   to term g
+Associating previous term: n  to term g
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term:  g to term o
+Associating previous term: g to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term:  g to term o 
+Associating previous term: g to term o 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: o to term  b
+Associating previous term:   to term b
+Associating previous term: o  to term b
+Character: a | returning 2 matching terms: {
+ matching: term-29 a
+ matching: term-108 ba
+}
+Associating previous term:  b to term a
+Associating previous term: b to term a
+Associating previous term:   to term ba
+Associating previous term: o  to term ba
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-123 ac
+}
+Associating previous term: a to term c
+Associating previous term: ba to term c
+Associating previous term:  b to term ac
+Associating previous term: b to term ac
+Character: k | returning 1 matching terms: {
+ matching: term-42 k
+}
+Associating previous term: c to term k
+Associating previous term: ac to term k
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-142 k 
+}
+Associating previous term: k to term  
+Associating previous term: c to term k 
+Associating previous term: ac to term k 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: k to term  b
+Associating previous term:   to term b
+Associating previous term: k  to term b
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term:  b to term y
+Associating previous term: b to term y
+Character:   | returning 2 matching terms: {
+ matching: term-84 y 
+ matching: term-23  
+}
+Associating previous term:  b to term y 
+Associating previous term: b to term y 
+Associating previous term: y to term  
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-45  r
+}
+Associating previous term: y  to term r
+Associating previous term:   to term r
+Associating previous term: y to term  r
+Character: a | returning 2 matching terms: {
+ matching: term-62 ra
+ matching: term-29 a
+}
+Associating previous term: y  to term ra
+Associating previous term:   to term ra
+Associating previous term: r to term a
+Associating previous term:  r to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: ra to term i
+Associating previous term: a to term i
+Associating previous term: r to term ai
+Associating previous term:  r to term ai
+Character: l | returning 2 matching terms: {
+ matching: term-34 l
+ matching: term-117 il
+}
+Associating previous term: i to term l
+Associating previous term: ai to term l
+Associating previous term: ra to term il
+Associating previous term: a to term il
+Character: w | returning 2 matching terms: {
+ matching: term-163 lw
+ matching: term-30 w
+}
+Associating previous term: i to term lw
+Associating previous term: ai to term lw
+Associating previous term: l to term w
+Associating previous term: il to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: l to term wa
+Associating previous term: il to term wa
+Associating previous term: lw to term a
+Associating previous term: w to term a
+Character: y | returning 2 matching terms: {
+ matching: term-43 y
+ matching: term-126 ay
+}
+Associating previous term: wa to term y
+Associating previous term: a to term y
+Associating previous term: lw to term ay
+Associating previous term: w to term ay
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: y to term ,
+Associating previous term: ay to term ,
+Character: ' | returning 1 matching terms: {
+ matching: term-37 '
+}
+Associating previous term: , to term '
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-81 ' 
+}
+Associating previous term: ' to term  
+Associating previous term: , to term ' 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: ' to term  s
+Associating previous term:   to term s
+Associating previous term: '  to term s
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-166 sh
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Associating previous term:   to term sh
+Associating previous term: '  to term sh
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Associating previous term: sh to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: sh to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: a | returning 2 matching terms: {
+ matching: term-61 sa
+ matching: term-29 a
+}
+Associating previous term:   to term sa
+Associating previous term: e  to term sa
+Associating previous term:  s to term a
+Associating previous term: s to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: sa to term i
+Associating previous term: a to term i
+Associating previous term:  s to term ai
+Associating previous term: s to term ai
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term: sa to term id
+Associating previous term: a to term id
+Associating previous term: i to term d
+Associating previous term: ai to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: id to term  
+Associating previous term: d to term  
+Associating previous term: i to term d 
+Associating previous term: ai to term d 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: d  to term t
+Associating previous term: id to term  t
+Associating previous term: d to term  t
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Associating previous term:   to term to
+Associating previous term: d  to term to
+Associating previous term: t to term o
+Associating previous term:  t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: to to term  
+Associating previous term: o to term  
+Associating previous term: t to term o 
+Associating previous term:  t to term o 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: to to term  h
+Associating previous term: o to term  h
+Associating previous term:   to term h
+Associating previous term: o  to term h
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:   to term he
+Associating previous term: o  to term he
+Associating previous term:  h to term e
+Associating previous term: h to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term:  h to term er
+Associating previous term: h to term er
+Associating previous term: he to term r
+Associating previous term: e to term r
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: he to term rs
+Associating previous term: e to term rs
+Associating previous term: er to term s
+Associating previous term: r to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: er to term se
+Associating previous term: r to term se
+Associating previous term: rs to term e
+Associating previous term: s to term e
+Character: l | returning 2 matching terms: {
+ matching: term-116 el
+ matching: term-34 l
+}
+Associating previous term: rs to term el
+Associating previous term: s to term el
+Associating previous term: se to term l
+Associating previous term: e to term l
+Character: f | returning 2 matching terms: {
+ matching: term-150 lf
+ matching: term-24 f
+}
+Associating previous term: se to term lf
+Associating previous term: e to term lf
+Associating previous term: el to term f
+Associating previous term: l to term f
+Character: . | returning 1 matching terms: {
+ matching: term-44 .
+}
+Associating previous term: lf to term .
+Associating previous term: f to term .
+Character:   | returning 1 matching terms: {
+ matching: term-23  
+}
+Associating previous term: . to term  
+New Term: .  from ta.co=60(before.before().size():2 after.after().size(): 30) >= 30 before: . after:  
+New Term: ow  from ta.co=60(before.before().size():2 after.after().size(): 30) >= 30 before: ow after:  
+New Term:  fi from ta.co=40(before.before().size():4 after.after().size(): 10) >= 30 before:  f after: i
+New Term: rst from ta.co=36(before.before().size():4 after.after().size(): 9) >= 30 before: rs after: t
+New Term: lwa from ta.co=42(before.before().size():2 after.after().size(): 21) >= 30 before: lw after: a
+New Term:  in  from ta.co=30(before.before().size():6 after.after().size(): 5) >= 30 before:  i after: n 
+New Term: e se from ta.co=30(before.before().size():5 after.after().size(): 6) >= 30 before: e  after: se
+New Term: and from ta.co=42(before.before().size():21 after.after().size(): 2) >= 30 before: a after: nd
+Character: H | returning 1 matching terms: {
+ matching: term-20 H
+}
+Character: e | returning 1 matching terms: {
+ matching: term-21 e
+}
+Associating previous term: H to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term: H to term er
+Associating previous term: e to term r
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-54 r 
+}
+Associating previous term: er to term  
+Associating previous term: r to term  
+Associating previous term: e to term r 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: er to term  f
+Associating previous term: r to term  f
+Associating previous term:   to term f
+Associating previous term: r  to term f
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-152 fi
+}
+Associating previous term:  f to term i
+Associating previous term: f to term i
+Associating previous term:   to term fi
+Associating previous term: r  to term fi
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-78 ir
+}
+Associating previous term: i to term r
+Associating previous term: fi to term r
+Associating previous term:  f to term ir
+Associating previous term: f to term ir
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: i to term rs
+Associating previous term: fi to term rs
+Associating previous term: r to term s
+Associating previous term: ir to term s
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-97 st
+}
+Associating previous term: rs to term t
+Associating previous term: s to term t
+Associating previous term: r to term st
+Associating previous term: ir to term st
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: st to term  
+Associating previous term: rs to term t 
+Associating previous term: s to term t 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: t  to term i
+Associating previous term: t to term  i
+Associating previous term: st to term  i
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term:   to term id
+Associating previous term: t  to term id
+Associating previous term: i to term d
+Associating previous term:  i to term d
+Character: e | returning 2 matching terms: {
+ matching: term-21 e
+ matching: term-76 de
+}
+Associating previous term: id to term e
+Associating previous term: d to term e
+Associating previous term: i to term de
+Associating previous term:  i to term de
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term: id to term ea
+Associating previous term: d to term ea
+Associating previous term: e to term a
+Associating previous term: de to term a
+Character:   | returning 2 matching terms: {
+ matching: term-49 a 
+ matching: term-23  
+}
+Associating previous term: e to term a 
+Associating previous term: de to term a 
+Associating previous term: ea to term  
+Associating previous term: a to term  
+Character: w | returning 2 matching terms: {
+ matching: term-66  w
+ matching: term-30 w
+}
+Associating previous term: ea to term  w
+Associating previous term: a to term  w
+Associating previous term: a  to term w
+Associating previous term:   to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: a  to term wa
+Associating previous term:   to term wa
+Associating previous term:  w to term a
+Associating previous term: w to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term:  w to term as
+Associating previous term: w to term as
+Associating previous term: wa to term s
+Associating previous term: a to term s
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-50 s 
+}
+Associating previous term: as to term  
+Associating previous term: s to term  
+Associating previous term: wa to term s 
+Associating previous term: a to term s 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: s  to term t
+Associating previous term: as to term  t
+Associating previous term: s to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: s  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: t to term  s
+Associating previous term: at to term  s
+Associating previous term:   to term s
+Associating previous term: t  to term s
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-166 sh
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Associating previous term:   to term sh
+Associating previous term: t  to term sh
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Associating previous term: sh to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: sh to term e 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: he to term  h
+Associating previous term: e to term  h
+Associating previous term:   to term h
+Associating previous term: e  to term h
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term:   to term ha
+Associating previous term: e  to term ha
+Associating previous term:  h to term a
+Associating previous term: h to term a
+Character: d | returning 2 matching terms: {
+ matching: term-28 d
+ matching: term-98 ad
+}
+Associating previous term: ha to term d
+Associating previous term: a to term d
+Associating previous term:  h to term ad
+Associating previous term: h to term ad
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: ad to term  
+Associating previous term: ha to term d 
+Associating previous term: a to term d 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: d to term  s
+Associating previous term: ad to term  s
+Associating previous term:   to term s
+Associating previous term: d  to term s
+Character: o | returning 2 matching terms: {
+ matching: term-112 so
+ matching: term-32 o
+}
+Associating previous term:   to term so
+Associating previous term: d  to term so
+Associating previous term:  s to term o
+Associating previous term: s to term o
+Character: m | returning 1 matching terms: {
+ matching: term-33 m
+}
+Associating previous term: so to term m
+Associating previous term: o to term m
+Character: e | returning 2 matching terms: {
+ matching: term-138 me
+ matching: term-21 e
+}
+Associating previous term: so to term me
+Associating previous term: o to term me
+Associating previous term: m to term e
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-110 eh
+}
+Associating previous term: me to term h
+Associating previous term: e to term h
+Associating previous term: m to term eh
+Character: o | returning 2 matching terms: {
+ matching: term-114 ho
+ matching: term-32 o
+}
+Associating previous term: me to term ho
+Associating previous term: e to term ho
+Associating previous term: h to term o
+Associating previous term: eh to term o
+Character: w | returning 2 matching terms: {
+ matching: term-30 w
+ matching: term-162 ow
+}
+Associating previous term: ho to term w
+Associating previous term: o to term w
+Associating previous term: h to term ow
+Associating previous term: eh to term ow
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-51 w 
+}
+Associating previous term: w to term  
+Associating previous term: ow to term  
+Associating previous term: ho to term w 
+Associating previous term: o to term w 
+Character: f | returning 2 matching terms: {
+ matching: term-55  f
+ matching: term-24 f
+}
+Associating previous term: w to term  f
+Associating previous term: ow to term  f
+Associating previous term:   to term f
+Associating previous term: w  to term f
+Character: a | returning 2 matching terms: {
+ matching: term-109 fa
+ matching: term-29 a
+}
+Associating previous term:   to term fa
+Associating previous term: w  to term fa
+Associating previous term:  f to term a
+Associating previous term: f to term a
+Character: l | returning 2 matching terms: {
+ matching: term-68 al
+ matching: term-34 l
+}
+Associating previous term:  f to term al
+Associating previous term: f to term al
+Associating previous term: fa to term l
+Associating previous term: a to term l
+Character: l | returning 2 matching terms: {
+ matching: term-118 ll
+ matching: term-34 l
+}
+Associating previous term: fa to term ll
+Associating previous term: a to term ll
+Associating previous term: al to term l
+Associating previous term: l to term l
+Character: e | returning 2 matching terms: {
+ matching: term-72 le
+ matching: term-21 e
+}
+Associating previous term: al to term le
+Associating previous term: l to term le
+Associating previous term: ll to term e
+Associating previous term: l to term e
+Character: n | returning 2 matching terms: {
+ matching: term-120 en
+ matching: term-35 n
+}
+Associating previous term: ll to term en
+Associating previous term: l to term en
+Associating previous term: le to term n
+Associating previous term: e to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: en to term  
+Associating previous term: n to term  
+Associating previous term: le to term n 
+Associating previous term: e to term n 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: n  to term i
+Associating previous term: en to term  i
+Associating previous term: n to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: n  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character: t | returning 2 matching terms: {
+ matching: term-95 nt
+ matching: term-27 t
+}
+Associating previous term: i to term nt
+Associating previous term:  i to term nt
+Associating previous term: in to term t
+Associating previous term: n to term t
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: in to term to
+Associating previous term: n to term to
+Associating previous term: nt to term o
+Associating previous term: t to term o
+Associating previous term: to to term  
+Associating previous term: o to term  
+Associating previous term: nt to term o 
+Associating previous term: t to term o 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: o  to term t
+Associating previous term: to to term  t
+Associating previous term: o to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: o  to term th
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term: t to term he
+Associating previous term:  t to term he
+Associating previous term: h to term e
+Associating previous term: th to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: th to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term:   to term se
+Associating previous term: e  to term se
+Associating previous term:  s to term e
+Associating previous term: s to term e
+Character: a | returning 2 matching terms: {
+ matching: term-64 ea
+ matching: term-29 a
+}
+Associating previous term:  s to term ea
+Associating previous term: s to term ea
+Associating previous term: se to term a
+Associating previous term: e to term a
+Character: , | returning 2 matching terms: {
+ matching: term-36 ,
+ matching: term-122 a,
+}
+Associating previous term: ea to term ,
+Associating previous term: a to term ,
+Associating previous term: se to term a,
+Associating previous term: e to term a,
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-85 , 
+}
+Associating previous term: , to term  
+Associating previous term: a, to term  
+Associating previous term: ea to term , 
+Associating previous term: a to term , 
+Character: ' | returning 2 matching terms: {
+ matching: term-69  '
+ matching: term-37 '
+}
+Associating previous term: , to term  '
+Associating previous term: a, to term  '
+Associating previous term:   to term '
+Associating previous term: ,  to term '
+Character: a | returning 2 matching terms: {
+ matching: term-106 'a
+ matching: term-29 a
+}
+Associating previous term:   to term 'a
+Associating previous term: ,  to term 'a
+Associating previous term:  ' to term a
+Associating previous term: ' to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term:  ' to term an
+Associating previous term: ' to term an
+Associating previous term: 'a to term n
+Associating previous term: a to term n
+Character: d | returning 2 matching terms: {
+ matching: term-28 d
+ matching: term-157 nd
+}
+Associating previous term: an to term d
+Associating previous term: n to term d
+Associating previous term: 'a to term nd
+Associating previous term: a to term nd
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: d to term  
+Associating previous term: nd to term  
+Associating previous term: an to term d 
+Associating previous term: n to term d 
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-56  i
+}
+Associating previous term:   to term i
+Associating previous term: d  to term i
+Associating previous term: d to term  i
+Associating previous term: nd to term  i
+Character: n | returning 2 matching terms: {
+ matching: term-121 in
+ matching: term-35 n
+}
+Associating previous term:   to term in
+Associating previous term: d  to term in
+Associating previous term: i to term n
+Associating previous term:  i to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: in to term  
+Associating previous term: n to term  
+Associating previous term: i to term n 
+Associating previous term:  i to term n 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: n  to term t
+Associating previous term: in to term  t
+Associating previous term: n to term  t
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-111 th
+}
+Associating previous term: t to term h
+Associating previous term:  t to term h
+Associating previous term:   to term th
+Associating previous term: n  to term th
+Character: a | returning 2 matching terms: {
+ matching: term-63 ha
+ matching: term-29 a
+}
+Associating previous term: t to term ha
+Associating previous term:  t to term ha
+Associating previous term: h to term a
+Associating previous term: th to term a
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-94 at
+}
+Associating previous term: ha to term t
+Associating previous term: a to term t
+Associating previous term: h to term at
+Associating previous term: th to term at
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-53 t 
+}
+Associating previous term: t to term  
+Associating previous term: at to term  
+Associating previous term: ha to term t 
+Associating previous term: a to term t 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: t  to term c
+Associating previous term: t to term  c
+Associating previous term: at to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: t  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: s | returning 2 matching terms: {
+ matching: term-59 as
+ matching: term-26 s
+}
+Associating previous term: c to term as
+Associating previous term:  c to term as
+Associating previous term: ca to term s
+Associating previous term: a to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: ca to term se
+Associating previous term: a to term se
+Associating previous term: as to term e
+Associating previous term: s to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: se to term  
+Associating previous term: e to term  
+Associating previous term: as to term e 
+Associating previous term: s to term e 
+Character: I | returning 2 matching terms: {
+ matching: term-124  I
+ matching: term-39 I
+}
+Associating previous term: se to term  I
+Associating previous term: e to term  I
+Associating previous term:   to term I
+Associating previous term: e  to term I
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-83 I 
+}
+Associating previous term:  I to term  
+Associating previous term: I to term  
+Associating previous term:   to term I 
+Associating previous term: e  to term I 
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-70  c
+}
+Associating previous term:   to term c
+Associating previous term: I  to term c
+Associating previous term:  I to term  c
+Associating previous term: I to term  c
+Character: a | returning 2 matching terms: {
+ matching: term-101 ca
+ matching: term-29 a
+}
+Associating previous term:   to term ca
+Associating previous term: I  to term ca
+Associating previous term: c to term a
+Associating previous term:  c to term a
+Character: n | returning 2 matching terms: {
+ matching: term-119 an
+ matching: term-35 n
+}
+Associating previous term: c to term an
+Associating previous term:  c to term an
+Associating previous term: ca to term n
+Associating previous term: a to term n
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-47 n 
+}
+Associating previous term: an to term  
+Associating previous term: n to term  
+Associating previous term: ca to term n 
+Associating previous term: a to term n 
+Character: g | returning 2 matching terms: {
+ matching: term-125  g
+ matching: term-40 g
+}
+Associating previous term: an to term  g
+Associating previous term: n to term  g
+Associating previous term:   to term g
+Associating previous term: n  to term g
+Character: o | returning 1 matching terms: {
+ matching: term-32 o
+}
+Associating previous term:  g to term o
+Associating previous term: g to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: o to term  
+Associating previous term:  g to term o 
+Associating previous term: g to term o 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: o to term  b
+Associating previous term:   to term b
+Associating previous term: o  to term b
+Character: a | returning 2 matching terms: {
+ matching: term-29 a
+ matching: term-108 ba
+}
+Associating previous term:  b to term a
+Associating previous term: b to term a
+Associating previous term:   to term ba
+Associating previous term: o  to term ba
+Character: c | returning 2 matching terms: {
+ matching: term-38 c
+ matching: term-123 ac
+}
+Associating previous term: a to term c
+Associating previous term: ba to term c
+Associating previous term:  b to term ac
+Associating previous term: b to term ac
+Character: k | returning 1 matching terms: {
+ matching: term-42 k
+}
+Associating previous term: c to term k
+Associating previous term: ac to term k
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-142 k 
+}
+Associating previous term: k to term  
+Associating previous term: c to term k 
+Associating previous term: ac to term k 
+Character: b | returning 2 matching terms: {
+ matching: term-71  b
+ matching: term-41 b
+}
+Associating previous term: k to term  b
+Associating previous term:   to term b
+Associating previous term: k  to term b
+Character: y | returning 1 matching terms: {
+ matching: term-43 y
+}
+Associating previous term:  b to term y
+Associating previous term: b to term y
+Character:   | returning 2 matching terms: {
+ matching: term-84 y 
+ matching: term-23  
+}
+Associating previous term:  b to term y 
+Associating previous term: b to term y 
+Associating previous term: y to term  
+Character: r | returning 2 matching terms: {
+ matching: term-22 r
+ matching: term-45  r
+}
+Associating previous term: y  to term r
+Associating previous term:   to term r
+Associating previous term: y to term  r
+Character: a | returning 2 matching terms: {
+ matching: term-62 ra
+ matching: term-29 a
+}
+Associating previous term: y  to term ra
+Associating previous term:   to term ra
+Associating previous term: r to term a
+Associating previous term:  r to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: ra to term i
+Associating previous term: a to term i
+Associating previous term: r to term ai
+Associating previous term:  r to term ai
+Character: l | returning 2 matching terms: {
+ matching: term-34 l
+ matching: term-117 il
+}
+Associating previous term: i to term l
+Associating previous term: ai to term l
+Associating previous term: ra to term il
+Associating previous term: a to term il
+Character: w | returning 2 matching terms: {
+ matching: term-163 lw
+ matching: term-30 w
+}
+Associating previous term: i to term lw
+Associating previous term: ai to term lw
+Associating previous term: l to term w
+Associating previous term: il to term w
+Character: a | returning 2 matching terms: {
+ matching: term-65 wa
+ matching: term-29 a
+}
+Associating previous term: l to term wa
+Associating previous term: il to term wa
+Associating previous term: lw to term a
+Associating previous term: w to term a
+Character: y | returning 2 matching terms: {
+ matching: term-43 y
+ matching: term-126 ay
+}
+Associating previous term: wa to term y
+Associating previous term: a to term y
+Associating previous term: lw to term ay
+Associating previous term: w to term ay
+Character: , | returning 1 matching terms: {
+ matching: term-36 ,
+}
+Associating previous term: y to term ,
+Associating previous term: ay to term ,
+Character: ' | returning 1 matching terms: {
+ matching: term-37 '
+}
+Associating previous term: , to term '
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-81 ' 
+}
+Associating previous term: ' to term  
+Associating previous term: , to term ' 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: ' to term  s
+Associating previous term:   to term s
+Associating previous term: '  to term s
+Character: h | returning 2 matching terms: {
+ matching: term-31 h
+ matching: term-166 sh
+}
+Associating previous term:  s to term h
+Associating previous term: s to term h
+Associating previous term:   to term sh
+Associating previous term: '  to term sh
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:  s to term he
+Associating previous term: s to term he
+Associating previous term: h to term e
+Associating previous term: sh to term e
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-52 e 
+}
+Associating previous term: he to term  
+Associating previous term: e to term  
+Associating previous term: h to term e 
+Associating previous term: sh to term e 
+Character: s | returning 2 matching terms: {
+ matching: term-58  s
+ matching: term-26 s
+}
+Associating previous term: he to term  s
+Associating previous term: e to term  s
+Associating previous term:   to term s
+Associating previous term: e  to term s
+Character: a | returning 2 matching terms: {
+ matching: term-61 sa
+ matching: term-29 a
+}
+Associating previous term:   to term sa
+Associating previous term: e  to term sa
+Associating previous term:  s to term a
+Associating previous term: s to term a
+Character: i | returning 2 matching terms: {
+ matching: term-25 i
+ matching: term-57 ai
+}
+Associating previous term: sa to term i
+Associating previous term: a to term i
+Associating previous term:  s to term ai
+Associating previous term: s to term ai
+Character: d | returning 2 matching terms: {
+ matching: term-99 id
+ matching: term-28 d
+}
+Associating previous term: sa to term id
+Associating previous term: a to term id
+Associating previous term: i to term d
+Associating previous term: ai to term d
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-46 d 
+}
+Associating previous term: id to term  
+Associating previous term: d to term  
+Associating previous term: i to term d 
+Associating previous term: ai to term d 
+Character: t | returning 2 matching terms: {
+ matching: term-27 t
+ matching: term-60  t
+}
+Associating previous term:   to term t
+Associating previous term: d  to term t
+Associating previous term: id to term  t
+Associating previous term: d to term  t
+Character: o | returning 2 matching terms: {
+ matching: term-115 to
+ matching: term-32 o
+}
+Associating previous term:   to term to
+Associating previous term: d  to term to
+Associating previous term: t to term o
+Associating previous term:  t to term o
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-48 o 
+}
+Associating previous term: to to term  
+Associating previous term: o to term  
+Associating previous term: t to term o 
+Associating previous term:  t to term o 
+Character: h | returning 2 matching terms: {
+ matching: term-67  h
+ matching: term-31 h
+}
+Associating previous term: to to term  h
+Associating previous term: o to term  h
+Associating previous term:   to term h
+Associating previous term: o  to term h
+Character: e | returning 2 matching terms: {
+ matching: term-73 he
+ matching: term-21 e
+}
+Associating previous term:   to term he
+Associating previous term: o  to term he
+Associating previous term:  h to term e
+Associating previous term: h to term e
+Character: r | returning 2 matching terms: {
+ matching: term-79 er
+ matching: term-22 r
+}
+Associating previous term:  h to term er
+Associating previous term: h to term er
+Associating previous term: he to term r
+Associating previous term: e to term r
+Character: s | returning 2 matching terms: {
+ matching: term-91 rs
+ matching: term-26 s
+}
+Associating previous term: he to term rs
+Associating previous term: e to term rs
+Associating previous term: er to term s
+Associating previous term: r to term s
+Character: e | returning 2 matching terms: {
+ matching: term-75 se
+ matching: term-21 e
+}
+Associating previous term: er to term se
+Associating previous term: r to term se
+Associating previous term: rs to term e
+Associating previous term: s to term e
+Character: l | returning 2 matching terms: {
+ matching: term-116 el
+ matching: term-34 l
+}
+Associating previous term: rs to term el
+Associating previous term: s to term el
+Associating previous term: se to term l
+Associating previous term: e to term l
+Character: f | returning 2 matching terms: {
+ matching: term-150 lf
+ matching: term-24 f
+}
+Associating previous term: se to term lf
+Associating previous term: e to term lf
+Associating previous term: el to term f
+Associating previous term: l to term f
+Character: . | returning 1 matching terms: {
+ matching: term-44 .
+}
+Associating previous term: lf to term .
+Associating previous term: f to term .
+Character:   | returning 2 matching terms: {
+ matching: term-23  
+ matching: term-188 . 
+}
+Associating previous term: . to term  
+Associating previous term: lf to term . 
+Associating previous term: f to term . 

@@ -1,0 +1,576 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>When computers take over</title>
+      <id>info:doi/10.1038/440421a</id>
+      <link href='http://dx.doi.org/10.1038/440421a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>421</prism:startingPage>
+      <prism:endingPage>422</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='10'>Kurzweil</otmi:vector>
+              <otmi:vector count='8'>will</otmi:vector>
+              <otmi:vector count='8'>which</otmi:vector>
+              <otmi:vector count='6'>processing</otmi:vector>
+              <otmi:vector count='6'>information</otmi:vector>
+              <otmi:vector count='6'>growth</otmi:vector>
+              <otmi:vector count='5'>your</otmi:vector>
+              <otmi:vector count='5'>speed</otmi:vector>
+              <otmi:vector count='5'>if</otmi:vector>
+              <otmi:vector count='5'>not</otmi:vector>
+              <otmi:vector count='5'>his</otmi:vector>
+              <otmi:vector count='5'>power</otmi:vector>
+              <otmi:vector count='5'>all</otmi:vector>
+              <otmi:vector count='5'>light</otmi:vector>
+              <otmi:vector count='5'>at</otmi:vector>
+              <otmi:vector count='5'>into</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>would</otmi:vector>
+              <otmi:vector count='4'>rate</otmi:vector>
+              <otmi:vector count='4'>exponential</otmi:vector>
+              <otmi:vector count='4'>physics</otmi:vector>
+              <otmi:vector count='4'>law</otmi:vector>
+              <otmi:vector count='4'>technologies</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>even</otmi:vector>
+              <otmi:vector count='3'>years</otmi:vector>
+              <otmi:vector count='3'>constant</otmi:vector>
+              <otmi:vector count='3'>taken</otmi:vector>
+              <otmi:vector count='3'>few</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>so</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>computation</otmi:vector>
+              <otmi:vector count='3'>fine-structure</otmi:vector>
+              <otmi:vector count='3'>them</otmi:vector>
+              <otmi:vector count='3'>these</otmi:vector>
+              <otmi:vector count='3'>about</otmi:vector>
+              <otmi:vector count='3'>comes</otmi:vector>
+              <otmi:vector count='3'>just</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>predictions</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>point</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>rise</otmi:vector>
+              <otmi:vector count='2'>accelerating</otmi:vector>
+              <otmi:vector count='2'>bookshelves</otmi:vector>
+              <otmi:vector count='2'>Universe</otmi:vector>
+              <otmi:vector count='2'>nanobots</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>huge</otmi:vector>
+              <otmi:vector count='2'>technical</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>singularity</otmi:vector>
+              <otmi:vector count='2'>read</otmi:vector>
+              <otmi:vector count='2'>entire</otmi:vector>
+              <otmi:vector count='2'>journals</otmi:vector>
+              <otmi:vector count='2'>life</otmi:vector>
+              <otmi:vector count='2'>information-processing</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>fun</otmi:vector>
+              <otmi:vector count='2'>term</otmi:vector>
+              <otmi:vector count='2'>here</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>when</otmi:vector>
+              <otmi:vector count='2'>nature</otmi:vector>
+              <otmi:vector count='2'>sort</otmi:vector>
+              <otmi:vector count='2'>expansion</otmi:vector>
+              <otmi:vector count='2'>double</otmi:vector>
+              <otmi:vector count='2'>whether</otmi:vector>
+              <otmi:vector count='2'>soon</otmi:vector>
+              <otmi:vector count='2'>laws</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>body</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='1'>illustration</otmi:vector>
+              <otmi:vector count='1'>self-defeating</otmi:vector>
+              <otmi:vector count='1'>fast</otmi:vector>
+              <otmi:vector count='1'>cheaper</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>pretty</otmi:vector>
+              <otmi:vector count='1'>billion</otmi:vector>
+              <otmi:vector count='1'>logic</otmi:vector>
+              <otmi:vector count='1'>Unfortunately</otmi:vector>
+              <otmi:vector count='1'>availability</otmi:vector>
+              <otmi:vector count='1'>Let</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>culmination</otmi:vector>
+              <otmi:vector count='1'>invokes</otmi:vector>
+              <otmi:vector count='1'>isn&apos;t</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>Moore&apos;s</otmi:vector>
+              <otmi:vector count='1'>Like</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>Wales</otmi:vector>
+              <otmi:vector count='1'>grow</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>leaving</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>wrest</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>technology</otmi:vector>
+              <otmi:vector count='1'>ideas</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>bit</otmi:vector>
+              <otmi:vector count='1'>expedition</otmi:vector>
+              <otmi:vector count='1'>galaxy</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>stopped</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>broken</otmi:vector>
+              <otmi:vector count='1'>co-founder</otmi:vector>
+              <otmi:vector count='1'>maintain</otmi:vector>
+              <otmi:vector count='1'>manipulation</otmi:vector>
+              <otmi:vector count='1'>claims</otmi:vector>
+              <otmi:vector count='1'>armies</otmi:vector>
+              <otmi:vector count='1'>transcends</otmi:vector>
+              <otmi:vector count='1'>War</otmi:vector>
+              <otmi:vector count='1'>runaway</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>ready</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>familiar</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>immortality</otmi:vector>
+              <otmi:vector count='1'>realm</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>18</otmi:vector>
+              <otmi:vector count='1'>bases</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>prove</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>argument</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>gravity</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>innards</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>Arthur</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>robotics</otmi:vector>
+              <otmi:vector count='1'>doubt</otmi:vector>
+              <otmi:vector count='1'>vision</otmi:vector>
+              <otmi:vector count='1'>Gabon</otmi:vector>
+              <otmi:vector count='1'>Jupiter</otmi:vector>
+              <otmi:vector count='1'>expanding</otmi:vector>
+              <otmi:vector count='1'>treatise</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>dose</otmi:vector>
+              <otmi:vector count='1'>bit-churning</otmi:vector>
+              <otmi:vector count='1'>&quot;All</otmi:vector>
+              <otmi:vector count='1'>stall</otmi:vector>
+              <otmi:vector count='1'>hard</otmi:vector>
+              <otmi:vector count='1'>extrapolates</otmi:vector>
+              <otmi:vector count='1'>Oklo</otmi:vector>
+              <otmi:vector count='1'>landing</otmi:vector>
+              <otmi:vector count='1'>sensors</otmi:vector>
+              <otmi:vector count='1'>burgeoning</otmi:vector>
+              <otmi:vector count='1'>processor</otmi:vector>
+              <otmi:vector count='1'>met</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>imagination</otmi:vector>
+              <otmi:vector count='1'>expresses</otmi:vector>
+              <otmi:vector count='1'>concerns</otmi:vector>
+              <otmi:vector count='1'>generic</otmi:vector>
+              <otmi:vector count='1'>unbounded</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>thereafter</otmi:vector>
+              <otmi:vector count='1'>recall</otmi:vector>
+              <otmi:vector count='1'>slid</otmi:vector>
+              <otmi:vector count='1'>apt</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>supervise</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>information-garnering</otmi:vector>
+              <otmi:vector count='1'>Moore</otmi:vector>
+              <otmi:vector count='1'>book</otmi:vector>
+              <otmi:vector count='1'>great</otmi:vector>
+              <otmi:vector count='1'>harness</otmi:vector>
+              <otmi:vector count='1'>someone</otmi:vector>
+              <otmi:vector count='1'>romp</otmi:vector>
+              <otmi:vector count='1'>prospect</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>boils</otmi:vector>
+              <otmi:vector count='1'>World</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>lunar</otmi:vector>
+              <otmi:vector count='1'>tidal</otmi:vector>
+              <otmi:vector count='1'>widely</otmi:vector>
+              <otmi:vector count='1'>nanotechnology</otmi:vector>
+              <otmi:vector count='1'>happens</otmi:vector>
+              <otmi:vector count='1'>wild</otmi:vector>
+              <otmi:vector count='1'>outer</otmi:vector>
+              <otmi:vector count='1'>succumb</otmi:vector>
+              <otmi:vector count='1'>continued</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>unrestrained</otmi:vector>
+              <otmi:vector count='1'>Rather</otmi:vector>
+              <otmi:vector count='1'>library</otmi:vector>
+              <otmi:vector count='1'>absurdity</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>tacit</otmi:vector>
+              <otmi:vector count='1'>mathematician&apos;s</otmi:vector>
+              <otmi:vector count='1'>(&quot;We</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>eat</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>destined</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>can&apos;t</otmi:vector>
+              <otmi:vector count='1'>transforms</otmi:vector>
+              <otmi:vector count='1'>send</otmi:vector>
+              <otmi:vector count='1'>Simulate</otmi:vector>
+              <otmi:vector count='1'>not-so-distant</otmi:vector>
+              <otmi:vector count='1'>Control</otmi:vector>
+              <otmi:vector count='1'>peculiar</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>sky&apos;s</otmi:vector>
+              <otmi:vector count='1'>desires</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>industry</otmi:vector>
+              <otmi:vector count='1'>vexed</otmi:vector>
+              <otmi:vector count='1'>nutrients</otmi:vector>
+              <otmi:vector count='1'>Concerned</otmi:vector>
+              <otmi:vector count='1'>biggest</otmi:vector>
+              <otmi:vector count='1'>else</otmi:vector>
+              <otmi:vector count='1'>spreading</otmi:vector>
+              <otmi:vector count='1'>space</otmi:vector>
+              <otmi:vector count='1'>flooding</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>alacrity</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>superconductors</otmi:vector>
+              <otmi:vector count='1'>fuel</otmi:vector>
+              <otmi:vector count='1'>reactor</otmi:vector>
+              <otmi:vector count='1'>Examples</otmi:vector>
+              <otmi:vector count='1'>&quot;upload</otmi:vector>
+              <otmi:vector count='1'>failing</otmi:vector>
+              <otmi:vector count='1'>smart</otmi:vector>
+              <otmi:vector count='1'>analogous</otmi:vector>
+              <otmi:vector count='1'>Just</otmi:vector>
+              <otmi:vector count='1'>dying</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>futuristic</otmi:vector>
+              <otmi:vector count='1'>stuck</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>irritating</otmi:vector>
+              <otmi:vector count='1'>collaborators</otmi:vector>
+              <otmi:vector count='1'>assumption</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>strictures</otmi:vector>
+              <otmi:vector count='1'>2001</otmi:vector>
+              <otmi:vector count='1'>answer</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>hyper-exponential</otmi:vector>
+              <otmi:vector count='1'>servants</otmi:vector>
+              <otmi:vector count='1'>grasp</otmi:vector>
+              <otmi:vector count='1'>Clarke</otmi:vector>
+              <otmi:vector count='1'>atomic</otmi:vector>
+              <otmi:vector count='1'>statistic</otmi:vector>
+              <otmi:vector count='1'>barrier</otmi:vector>
+              <otmi:vector count='1'>centuries</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>strength</otmi:vector>
+              <otmi:vector count='1'>seriously</otmi:vector>
+              <otmi:vector count='1'>speed-of-light</otmi:vector>
+              <otmi:vector count='1'>sobering</otmi:vector>
+              <otmi:vector count='1'>converted</otmi:vector>
+              <otmi:vector count='1'>rapid</otmi:vector>
+              <otmi:vector count='1'>System</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>singularitarian</otmi:vector>
+              <otmi:vector count='1'>technological</otmi:vector>
+              <otmi:vector count='1'>exhilarating</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>stars</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>Gordon</otmi:vector>
+              <otmi:vector count='1'>everything</otmi:vector>
+              <otmi:vector count='1'>became</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>biosystems</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>stops</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>scientific</otmi:vector>
+              <otmi:vector count='1'>underpins</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>giddy</otmi:vector>
+              <otmi:vector count='1'>involve</otmi:vector>
+              <otmi:vector count='1'>vague</otmi:vector>
+              <otmi:vector count='1'>power-generation</otmi:vector>
+              <otmi:vector count='1'>surface</otmi:vector>
+              <otmi:vector count='1'>computer</otmi:vector>
+              <otmi:vector count='1'>omniscient</otmi:vector>
+              <otmi:vector count='1'>somewhat</otmi:vector>
+              <otmi:vector count='1'>electromagnetic</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>1969</otmi:vector>
+              <otmi:vector count='1'>hits</otmi:vector>
+              <otmi:vector count='1'>29</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>increasing</otmi:vector>
+              <otmi:vector count='1'>create</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>touted</otmi:vector>
+              <otmi:vector count='1'>returns</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>spectral</otmi:vector>
+              <otmi:vector count='1'>cyberspace</otmi:vector>
+              <otmi:vector count='1'>founded</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>dazzled</otmi:vector>
+              <otmi:vector count='1'>century</otmi:vector>
+              <otmi:vector count='1'>superintelligence</otmi:vector>
+              <otmi:vector count='1'>hiccups</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>premise</otmi:vector>
+              <otmi:vector count='1'>wireless</otmi:vector>
+              <otmi:vector count='1'>invoking</otmi:vector>
+              <otmi:vector count='1'>futurologist</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>opened</otmi:vector>
+              <otmi:vector count='1'>startling</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>cites</otmi:vector>
+              <otmi:vector count='1'>high-temperature</otmi:vector>
+              <otmi:vector count='1'>swarm</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>personal</otmi:vector>
+              <otmi:vector count='1'>&quot;will</otmi:vector>
+              <otmi:vector count='1'>concomitant</otmi:vector>
+              <otmi:vector count='1'>nuclear</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>somehow</otmi:vector>
+              <otmi:vector count='1'>loosely</otmi:vector>
+              <otmi:vector count='1'>toys</otmi:vector>
+              <otmi:vector count='1'>patrol</otmi:vector>
+              <otmi:vector count='1'>states</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>lacuna</otmi:vector>
+              <otmi:vector count='1'>expand</otmi:vector>
+              <otmi:vector count='1'>Hang</otmi:vector>
+              <otmi:vector count='1'>singularitarians</otmi:vector>
+              <otmi:vector count='1'>breathless</otmi:vector>
+              <otmi:vector count='1'>deciding</otmi:vector>
+              <otmi:vector count='1'>phase</otmi:vector>
+              <otmi:vector count='1'>coins</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>curtail</otmi:vector>
+              <otmi:vector count='1'>Create</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>twentieth</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>manipulating</otmi:vector>
+              <otmi:vector count='1'>John</otmi:vector>
+              <otmi:vector count='1'>Moon</otmi:vector>
+              <otmi:vector count='1'>Ray</otmi:vector>
+              <otmi:vector count='1'>horrible</otmi:vector>
+              <otmi:vector count='1'>Technology</otmi:vector>
+              <otmi:vector count='1'>cyborg</otmi:vector>
+              <otmi:vector count='1'>headlong</otmi:vector>
+              <otmi:vector count='1'>South</otmi:vector>
+              <otmi:vector count='1'>quasar</otmi:vector>
+              <otmi:vector count='1'>student</otmi:vector>
+              <otmi:vector count='1'>exponential-growth</otmi:vector>
+              <otmi:vector count='1'>refers</otmi:vector>
+              <otmi:vector count='1'>unchanged</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>word</otmi:vector>
+              <otmi:vector count='1'>there.</otmi:vector>
+              <otmi:vector count='1'>essentially</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>manufacturing</otmi:vector>
+              <otmi:vector count='1'>famously</otmi:vector>
+              <otmi:vector count='1'>monitor</otmi:vector>
+              <otmi:vector count='1'>wave</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>legion</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>beings</otmi:vector>
+              <otmi:vector count='1'>applications</otmi:vector>
+              <otmi:vector count='1'>Earth&apos;s</otmi:vector>
+              <otmi:vector count='1'>machines</otmi:vector>
+              <otmi:vector count='1'>Intel</otmi:vector>
+              <otmi:vector count='1'>suspend</otmi:vector>
+              <otmi:vector count='1'>resources</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>misinformed</otmi:vector>
+              <otmi:vector count='1'>perpetual-motion</otmi:vector>
+              <otmi:vector count='1'>mind</otmi:vector>
+              <otmi:vector count='1'>achieve</otmi:vector>
+              <otmi:vector count='1'>fallacy</otmi:vector>
+              <otmi:vector count='1'>lasts</otmi:vector>
+              <otmi:vector count='1'>stupendous</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>backwards</otmi:vector>
+              <otmi:vector count='1'>cosmic</otmi:vector>
+              <otmi:vector count='1'>embraces</otmi:vector>
+              <otmi:vector count='1'>Webb</otmi:vector>
+              <otmi:vector count='1'>Tired</otmi:vector>
+              <otmi:vector count='1'>discussing</otmi:vector>
+              <otmi:vector count='1'>infinite</otmi:vector>
+              <otmi:vector count='1'>implied</otmi:vector>
+              <otmi:vector count='1'>Solar</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>cells</otmi:vector>
+              <otmi:vector count='1'>demands</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>escapes</otmi:vector>
+              <otmi:vector count='1'>uptake</otmi:vector>
+              <otmi:vector count='1'>bend</otmi:vector>
+              <otmi:vector count='1'>resource-hungry</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>opens</otmi:vector>
+              <otmi:vector count='1'>obliterated</otmi:vector>
+              <otmi:vector count='1'>force</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>liberate</otmi:vector>
+              <otmi:vector count='1'>accommodate</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>sentient</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>superdupercomputers</otmi:vector>
+              <otmi:vector count='1'>exponentiation</otmi:vector>
+              <otmi:vector count='1'>predicting</otmi:vector>
+              <otmi:vector count='1'>Then</otmi:vector>
+              <otmi:vector count='1'>otherwise</otmi:vector>
+              <otmi:vector count='1'>needs</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>reaches</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>computing</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>consciousness</otmi:vector>
+              <otmi:vector count='1'>escalator</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>gigantic</otmi:vector>
+              <otmi:vector count='1'>temporary</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>dictate</otmi:vector>
+              <otmi:vector count='1'>android</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>reading</otmi:vector>
+              <otmi:vector count='1'>salt</otmi:vector>
+              <otmi:vector count='1'>automatically</otmi:vector>
+              <otmi:vector count='1'>remorseless</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>untrammelled</otmi:vector>
+              <otmi:vector count='1'>Kurzweil&apos;s</otmi:vector>
+              <otmi:vector count='1'>author</otmi:vector>
+              <otmi:vector count='1'>physical</otmi:vector>
+              <otmi:vector count='1'>quantity</otmi:vector>
+              <otmi:vector count='1'>limit</otmi:vector>
+              <otmi:vector count='1'>speculation</otmi:vector>
+              <otmi:vector count='1'>rampant</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>culture</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>And if these run into technical problems, well, just send in the nanobots to sort them out. &quot;All technologies,&quot; claims Kurzweil, &quot;will essentially become information technologies, including energy.&quot; On the vexed issue of the speed of light, Kurzweil cites evidence that the fine-structure constant, which expresses the strength of the electromagnetic force and contains the speed of light as a factor, may have increased very slightly over the past 6 billion years</otmi:snippet>
+              <otmi:snippet>But this sobering fact has not stopped futurologist and author Ray Kurzweil from invoking exponential, and even hyper-exponential, growth in the realm of information processing</otmi:snippet>
+              <otmi:snippet>Clarke predicting huge lunar bases and a Jupiter expedition by 2001</otmi:snippet>
+              <otmi:snippet>Concerned about dying? Then achieve immortality by flooding your body with smart nanobots to monitor and maintain your failing biosystems</otmi:snippet>
+              <otmi:snippet>Control the Solar System? Just double the bit rate a few times and it will be within our grasp</otmi:snippet>
+              <otmi:snippet>Create life? Simulate consciousness? It all boils down to making a cheaper, faster processor</otmi:snippet>
+              <otmi:snippet>Examples drawn from technology are legion</otmi:snippet>
+              <otmi:snippet>Furthermore, even if the observations opened the way to manipulating the value of the fine-structure constant, that is not the same as increasing the speed of light and leaving everything else unchanged</otmi:snippet>
+              <otmi:snippet>Gordon Moore, co-founder of Intel, famously predicted about 30 years ago that computer processing power would double every 18 months, and so far his prediction has come true</otmi:snippet>
+              <otmi:snippet>Hang in there.</otmi:snippet>
+              <otmi:snippet>He refers to his culmination point, at which familiar human culture is obliterated by a tidal wave of unrestrained computation, as the &quot;singularity&quot;</otmi:snippet>
+              <otmi:snippet>I recall reading a statistic from my student days to the effect that if physics journals continued to grow at the same rate, then by the end of the twentieth century, library bookshelves would have to expand at the speed of light to accommodate them</otmi:snippet>
+              <otmi:snippet>If Kurzweil is to be believed, we will all be singularitarians in just 29 years&apos; time</otmi:snippet>
+              <otmi:snippet>If the sky&apos;s the limit when it comes to processing information, it isn&apos;t hard to think of startling applications</otmi:snippet>
+              <otmi:snippet>In the event, these technologies became stuck or even slid backwards</otmi:snippet>
+              <otmi:snippet>Indeed, the manipulation would involve a reduction of the fine-structure constant, which would slow the rate of information processing at the atomic level, and so prove self-defeating</otmi:snippet>
+              <otmi:snippet>Kurzweil coins the horrible term &quot;singularitarian&quot; for someone who embraces his vision with alacrity</otmi:snippet>
+              <otmi:snippet>Kurzweil invokes &quot;Moore&apos;s law&quot; as if it were a law of nature, and extrapolates from it into a not-so-distant future in which burgeoning information processing transforms and transcends life as we know it</otmi:snippet>
+              <otmi:snippet>Like the physics journals on the bookshelves, exponential growth stops here</otmi:snippet>
+              <otmi:snippet>No amount of information processing will suspend the law of gravity or create perpetual-motion machines</otmi:snippet>
+              <otmi:snippet>One obvious reason why accelerating growth in computation might stall concerns the availability of resources</otmi:snippet>
+              <otmi:snippet>Or better yet, &quot;upload&quot; your mind into cyberspace, where you can have more fun, untrammelled by a material body</otmi:snippet>
+              <otmi:snippet>Or does it? Kurzweil toys with the idea that the speed-of-light barrier is there to be broken, which opens up the giddy prospect of the entire Universe being taken over by an omniscient superintelligence within just a few centuries</otmi:snippet>
+              <otmi:snippet>Rather, it is a futuristic and somewhat breathless romp across the outer reaches of technological possibility, limited only by human imagination</otmi:snippet>
+              <otmi:snippet>Such exhilarating speculation is great fun to read, but needs to be taken with a huge dose of salt</otmi:snippet>
+              <otmi:snippet>Technology can harness physical laws but it can&apos;t bend them</otmi:snippet>
+              <otmi:snippet>The Moon landing in 1969 was widely touted as the first small step on an escalator to the stars, with Arthur C</otmi:snippet>
+              <otmi:snippet>The biggest lacuna in Kurzweil&apos;s argument is the tacit assumption that if we liberate enough information-processing power, then nature will succumb to all our desires</otmi:snippet>
+              <otmi:snippet>The conditions for runaway expansion are always peculiar and temporary (with the possible exception of the expanding Universe)</otmi:snippet>
+              <otmi:snippet>The key point about exponential growth is that it never lasts</otmi:snippet>
+              <otmi:snippet>The primary evidence comes from an analysis of quasar spectral lines by John Webb of the University of New South Wales in Australia and his collaborators, not from a study of the Oklo natural nuclear reactor in Gabon, as Kurzweil states</otmi:snippet>
+              <otmi:snippet>The question is not whether these wild ideas should be taken seriously, but whether the premise on which they are founded — unbounded exponential growth in information-processing power — somehow escapes the strictures that eventually curtail all other cases of headlong expansion</otmi:snippet>
+              <otmi:snippet>The rapid uptake of robotics in the manufacturing industry after the Second World War led to predictions of cyborg servants and android armies within a few decades</otmi:snippet>
+              <otmi:snippet>The sentient beings that will soon wrest control from humans, and which are destined to supervise the cosmic phase of development, will be some sort of superdupercomputers.) But by the remorseless logic of exponentiation, pretty soon thereafter the resource-hungry system will find itself spreading across the galaxy so fast it hits the speed of light</otmi:snippet>
+              <otmi:snippet>The stupendous power demands implied by the rampant growth in computation and nanotechnology will be met by a concomitant &quot;law of accelerating returns&quot; in power-generation technologies, such as fuel cells and high-temperature superconductors</otmi:snippet>
+              <otmi:snippet>The word is loosely analogous to the mathematician&apos;s singularity, at which the rate of change of a quantity becomes infinite</otmi:snippet>
+              <otmi:snippet>There is no doubt that the rise and rise in computing power has dazzled us all</otmi:snippet>
+              <otmi:snippet>These technical hiccups are irritating, but the book should not be read as a scientific treatise</otmi:snippet>
+              <otmi:snippet>This absurdity is an illustration of what one might call the exponential-growth fallacy</otmi:snippet>
+              <otmi:snippet>Tired of deciding what to eat? Let a swarm of sensors patrol your innards and order the right nutrients automatically through your personal wireless network</otmi:snippet>
+              <otmi:snippet>Unfortunately, the laws of physics may well dictate otherwise</otmi:snippet>
+              <otmi:snippet>What happens when the Earth&apos;s entire surface has been converted into a gigantic information-garnering, bit-churning system? Kurzweil is ready with the answer: we move into space. (&quot;We&quot; here is a generic term</otmi:snippet>
+              <otmi:snippet>When it comes to discussing the physics that underpins his predictions, Kurzweil is apt to be vague or even misinformed</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

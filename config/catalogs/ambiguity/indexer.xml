@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+        list="ambiguity-files.txt"
+        writeRetractionMap="true" retractionMapFile="ambiguityRetractionMap.ser"
+        appendSentencesInOneDocument="false" sentenceBoundary=" " loadTitles="true">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+            basename="dataset-a-index/index"
+            chunk-size="1000" batch-size="20Mi"
+            parenthesesAreWords="true" skips="true"
+            wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+            termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"
+            indexConfigurationFile="config/catalogs/ambiguity/index-configuration.properties"
+            documentFactoryClass="textractor.mg4j.document.ConfigurableTextractorDocumentFactory"/>
+    </chain>
+</catalog>

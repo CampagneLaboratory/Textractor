@@ -1,0 +1,249 @@
+BODY {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.small-caps {
+	FONT-SIZE: 80%
+}
+.monospace {
+	FONT-FAMILY: monospace
+}
+.pmctop-bg {
+	BACKGROUND-COLOR: #fffeee
+}
+A.pmctop {
+	FONT-SIZE: 12px; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0080ff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #0080ff; TEXT-DECORATION: underline
+}
+HR {
+	COLOR: #0072a8
+}
+.base-highlight1 {
+	BACKGROUND-COLOR: #ebebeb
+}
+.base-highlight2 {
+	BACKGROUND-COLOR: #cccccc
+}
+.controls {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; COLOR: #000000; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.formtext {
+	FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.link {
+	COLOR: #0055aa; TEXT-DECORATION: none
+}
+.footer-link {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: center
+}
+.toc-header-vid {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; FONT-FAMILY: Arial, sans-serif
+}
+.more-iss-text {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.more-iss-link {
+	COLOR: #0055aa; TEXT-DECORATION: none
+}
+.arc-issue {
+	FONT-SIZE: 80%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.toc-comment {
+	FONT-SIZE: 65%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-author {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-jour {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-vol {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-page {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-date {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-link {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmchead {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; COLOR: #0055aa; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; COLOR: #0055aa; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmsubhead {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmclink {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmart {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-caption {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section-curr {
+	FONT-SIZE: 75%; COLOR: #808080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-supplink {
+	FONT-SIZE: 75%; COLOR: #b55a00; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-supplink {
+	FONT-SIZE: 75%; COLOR: #b55a00; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section-group {
+	BORDER-RIGHT: #0077aa 1px solid; BORDER-TOP: #0077aa 1px solid; BORDER-LEFT: #0077aa 1px solid; BORDER-BOTTOM: #0077aa 1px solid; TEXT-DECORATION: none
+}
+.popup_border {
+	BACKGROUND-COLOR: #c80000
+}
+.popup_foreground {
+	BACKGROUND-IMAGE: url(../pmcgifs/chalk.jpg); BACKGROUND-COLOR: #ffffff
+}
+.popup_maintext {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma, verdana, arial cyr; TEXT-DECORATION: none
+}
+.popup_captiontext {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+UNKNOWN {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.small-caps {
+	FONT-SIZE: 80%
+}
+.monospace {
+	FONT-FAMILY: monospace
+}
+.pmctop-bg {
+	BACKGROUND-COLOR: #fffeee
+}
+A.pmctop {
+	FONT-SIZE: 12px; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0080ff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #0080ff; TEXT-DECORATION: underline
+}
+HR {
+	COLOR: #0072a8
+}
+.base-highlight1 {
+	BACKGROUND-COLOR: #ebebeb
+}
+.base-highlight2 {
+	BACKGROUND-COLOR: #cccccc
+}
+.base-highlight3 {
+	BACKGROUND-COLOR: #ffcccc
+}
+.controls {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; COLOR: #000000; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.formtext {
+	FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.link {
+	COLOR: #0055aa; TEXT-DECORATION: none
+}
+.footer-link {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: center
+}
+.toc-header-vid {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; FONT-FAMILY: Arial, sans-serif
+}
+.more-iss-text {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.more-iss-link {
+	COLOR: #0055aa; TEXT-DECORATION: none
+}
+.arc-issue {
+	FONT-SIZE: 80%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.toc-comment {
+	FONT-SIZE: 65%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-author {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-jour {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-vol {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-page {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-cit-date {
+	FONT-SIZE: 75%; COLOR: #666666; FONT-FAMILY: Arial, sans-serif
+}
+.toc-link {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmchead {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; COLOR: #0055aa; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; COLOR: #0055aa; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmsubhead {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmclink {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-pmart {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-caption {
+	FONT-SIZE: 75%; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section-curr {
+	FONT-SIZE: 75%; COLOR: #808080; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.sidefm-supplink {
+	FONT-SIZE: 75%; COLOR: #b55a00; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-supplink {
+	FONT-SIZE: 75%; COLOR: #b55a00; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.side-section-group {
+	BORDER-RIGHT: #0077aa 1px solid; BORDER-TOP: #0077aa 1px solid; BORDER-LEFT: #0077aa 1px solid; BORDER-BOTTOM: #0077aa 1px solid; TEXT-DECORATION: none
+}
+.popup_border {
+	BACKGROUND-COLOR: #c80000
+}
+.popup_foreground {
+	BACKGROUND-IMAGE: url(../pmcgifs/chalk.jpg); BACKGROUND-COLOR: #ffffff
+}
+.popup_maintext {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma, verdana, arial cyr; TEXT-DECORATION: none
+}
+.popup_captiontext {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-DECORATION: none
+}

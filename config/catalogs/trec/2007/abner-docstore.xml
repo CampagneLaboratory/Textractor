@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="TrecLoader" className="textractor.chain.loader.Html2TextArticleLoader"
+           directory="/home/icb/db/trec/trec-gen/2006/"
+           workQueueSize="1000"
+           parserClass="textractor.html.Html2Text"
+           recursive="true" appendSentencesInOneDocument="true"
+           extensions="html" paragraphBoundary=" paragraphboundary ">
+        <chain name="Abner" className="textractor.chain.transformer.AbnerSentenceTransformer"
+               outputQueueSize="1000">
+            <command name="DocStoreBuilder"
+                     className="textractor.chain.docstore.DocumentStoreBuilder"
+                     basename="index/trec-index"
+                     chunk-size="1000" optimize="true"/>
+        </chain>
+    </chain>
+</catalog>

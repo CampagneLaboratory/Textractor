@@ -1,0 +1,208 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>In brief</title>
+      <id>info:doi/10.1038/440407a</id>
+      <link href='http://dx.doi.org/10.1038/440407a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>407</prism:startingPage>
+      <prism:endingPage>407</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>company</otmi:vector>
+              <otmi:vector count='3'>year</otmi:vector>
+              <otmi:vector count='3'>after</otmi:vector>
+              <otmi:vector count='3'>companies</otmi:vector>
+              <otmi:vector count='3'>said</otmi:vector>
+              <otmi:vector count='3'>two</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='2'>options</otmi:vector>
+              <otmi:vector count='2'>Island</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>chief</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>US</otmi:vector>
+              <otmi:vector count='2'>million</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>who</otmi:vector>
+              <otmi:vector count='2'>them</otmi:vector>
+              <otmi:vector count='2'>property</otmi:vector>
+              <otmi:vector count='2'>took</otmi:vector>
+              <otmi:vector count='2'>intellectual</otmi:vector>
+              <otmi:vector count='2'>reported</otmi:vector>
+              <otmi:vector count='2'>tax</otmi:vector>
+              <otmi:vector count='2'>company&apos;s</otmi:vector>
+              <otmi:vector count='2'>his</otmi:vector>
+              <otmi:vector count='2'>executive</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>drug&apos;s</otmi:vector>
+              <otmi:vector count='2'>biotechnology</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>trials</otmi:vector>
+              <otmi:vector count='1'>tumbled</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>Genentech</otmi:vector>
+              <otmi:vector count='1'>horde</otmi:vector>
+              <otmi:vector count='1'>tighten</otmi:vector>
+              <otmi:vector count='1'>Maryland</otmi:vector>
+              <otmi:vector count='1'>announced</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>Genome</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>cashing</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>Free</otmi:vector>
+              <otmi:vector count='1'>earned</otmi:vector>
+              <otmi:vector count='1'>Round</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>love</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>coming</otmi:vector>
+              <otmi:vector count='1'>William</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>nominal</otmi:vector>
+              <otmi:vector count='1'>2.80</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>profits</otmi:vector>
+              <otmi:vector count='1'>Contrasting</otmi:vector>
+              <otmi:vector count='1'>liability</otmi:vector>
+              <otmi:vector count='1'>Shares</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>software</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>news</otmi:vector>
+              <otmi:vector count='1'>financial</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>Irish</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>operate</otmi:vector>
+              <otmi:vector count='1'>sat</otmi:vector>
+              <otmi:vector count='1'>thriving</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>69</otmi:vector>
+              <otmi:vector count='1'>hepatitis</otmi:vector>
+              <otmi:vector count='1'>package</otmi:vector>
+              <otmi:vector count='1'>Pegasys</otmi:vector>
+              <otmi:vector count='1'>Microsoft</otmi:vector>
+              <otmi:vector count='1'>planning</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>shares</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>month</otmi:vector>
+              <otmi:vector count='1'>fire</otmi:vector>
+              <otmi:vector count='1'>Unlucky</otmi:vector>
+              <otmi:vector count='1'>dollar</otmi:vector>
+              <otmi:vector count='1'>Computer&apos;s</otmi:vector>
+              <otmi:vector count='1'>Levinson</otmi:vector>
+              <otmi:vector count='1'>subsidiaries</otmi:vector>
+              <otmi:vector count='1'>drug</otmi:vector>
+              <otmi:vector count='1'>foreign</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>corporate</otmi:vector>
+              <otmi:vector count='1'>dip</otmi:vector>
+              <otmi:vector count='1'>Analysts</otmi:vector>
+              <otmi:vector count='1'>stock</otmi:vector>
+              <otmi:vector count='1'>Arthur</otmi:vector>
+              <otmi:vector count='1'>fortunes</otmi:vector>
+              <otmi:vector count='1'>countries</otmi:vector>
+              <otmi:vector count='1'>Roche&apos;s</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>declare</otmi:vector>
+              <otmi:vector count='1'>Sciences</otmi:vector>
+              <otmi:vector count='1'>Company</otmi:vector>
+              <otmi:vector count='1'>weeks</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>bosses</otmi:vector>
+              <otmi:vector count='1'>lessen</otmi:vector>
+              <otmi:vector count='1'>Apple</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>offices</otmi:vector>
+              <otmi:vector count='1'>salary</otmi:vector>
+              <otmi:vector count='1'>Steve</otmi:vector>
+              <otmi:vector count='1'>shelters</otmi:vector>
+              <otmi:vector count='1'>2004</otmi:vector>
+              <otmi:vector count='1'>sales</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>founded</otmi:vector>
+              <otmi:vector count='1'>promising</otmi:vector>
+              <otmi:vector count='1'>won&apos;t</otmi:vector>
+              <otmi:vector count='1'>Human</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>re-register</otmi:vector>
+              <otmi:vector count='1'>Treasury</otmi:vector>
+              <otmi:vector count='1'>Biochemist</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>dropped</otmi:vector>
+              <otmi:vector count='1'>Dublin</otmi:vector>
+              <otmi:vector count='1'>Jobs</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>California</otmi:vector>
+              <otmi:vector count='1'>allegedly</otmi:vector>
+              <otmi:vector count='1'>rider</otmi:vector>
+              <otmi:vector count='1'>unlimited</otmi:vector>
+              <otmi:vector count='1'>exceeded</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>compensation</otmi:vector>
+              <otmi:vector count='1'>Three</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>performance</otmi:vector>
+              <otmi:vector count='1'>Albuferon</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>got</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>market</otmi:vector>
+              <otmi:vector count='1'>Haseltine</otmi:vector>
+              <otmi:vector count='1'>billion</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>once</otmi:vector>
+              <otmi:vector count='1'>Flat</otmi:vector>
+              <otmi:vector count='1'>managers</otmi:vector>
+              <otmi:vector count='1'>before.</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>leader</otmi:vector>
+              <otmi:vector count='1'>patients</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Analysts said the result would lessen the drug&apos;s sales potential, and the company&apos;s shares dropped $2.80 to $11 on the news</otmi:snippet>
+              <otmi:snippet>But some bosses do it for the love alone: Apple Computer&apos;s chief executive Steve Jobs sat on his options in 2005, and his compensation package for the year was a nominal salary of one dollar — the same as the year before.</otmi:snippet>
+              <otmi:snippet>Contrasting fortunes Biochemist Arthur Levinson, the chief executive of Genentech, earned $69 million last year after cashing in some stock options, the company reported</otmi:snippet>
+              <otmi:snippet>Free rider Microsoft has applied to re-register two of its Irish subsidiaries as &quot;unlimited liability&quot; companies — which won&apos;t have to declare any financial results — after coming under fire for allegedly using them as tax shelters</otmi:snippet>
+              <otmi:snippet>The US Treasury is planning to tighten its rules on US companies that horde their intellectual property in foreign countries that have low corporate tax rates</otmi:snippet>
+              <otmi:snippet>The company said that the drug&apos;s performance exceeded that of the current market leader, Roche&apos;s Pegasys, in patients who took it every two weeks — but not in those who took it once a month</otmi:snippet>
+              <otmi:snippet>The two companies, Round Island One and Flat Island Company, operate out of small offices in Dublin</otmi:snippet>
+              <otmi:snippet>They are said to own much of the software company&apos;s intellectual property, and between them reported profits of more than $4 billion in 2004</otmi:snippet>
+              <otmi:snippet>Three other managers at the thriving California biotechnology company also got more than $20 million each</otmi:snippet>
+              <otmi:snippet>Unlucky dip Shares in Human Genome Sciences, the Maryland biotechnology company founded by William Haseltine, tumbled after it announced mixed results from trials of its most promising drug candidate, the hepatitis C treatment Albuferon</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

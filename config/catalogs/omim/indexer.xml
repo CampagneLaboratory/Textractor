@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<catalog>
+    <!-- workQueueSize="1" -->
+    <!--  -->
+    <chain name="Indexer" className="textractor.chain.loader.OmimArticleLoader"
+           directory="/home/twease/omim/xml/"
+           appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary ">
+        <!-- <command name="Indexer" className="textractor.chain.consumer.SentenceWriter" shortOutput="true"/> -->
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+            basename="index/omim-index"
+            parenthesesAreWords="true" skips="true"
+            wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+            termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"/>
+    </chain>
+    <!-- indexingQueueSize="200" -->
+    <!-- documentsPerBatch="500" -->
+</catalog>

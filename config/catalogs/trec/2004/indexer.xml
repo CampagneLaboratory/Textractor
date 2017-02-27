@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+        list="/home/icb/db/trec/trec-gen/2004/corpus/CORPUS-FILE-LIST"
+        writeRetractionMap="true" retractionMapFile="Trec2004RetractionMap.ser"
+        appendSentencesInOneDocument="false" loadTitles="true" loadAbstracts="true">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+                basename="index/trec-2004-index"
+                chunk-size="1000" batch-size="20Mi"
+                parenthesesAreWords="true" skips="true"
+                wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+                termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"/>
+    </chain>
+</catalog>

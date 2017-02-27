@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_articleSet>
+    <_article PMID="10443011" xsi:type="_article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <_global>
+            <_biologicalEntity name="receptor">
+                <_biologicalEntityName>sensory rhodopsin</_biologicalEntityName>
+                <_biologicalEntityName>sensory rhodopsin II</_biologicalEntityName>
+                <_biologicalEntityName>halorhodopsin</_biologicalEntityName>
+                <_biologicalEntityName>bacteriorhodopsin</_biologicalEntityName>
+                <_biologicalEntityName>sensory rhodopsin I</_biologicalEntityName>
+                <_biologicalEntityName>rhodopsin</_biologicalEntityName>
+                <_biologicalEntityName>opsin</_biologicalEntityName>
+            </_biologicalEntity>
+            <_biologicalEntity name="mutant">
+                <_biologicalEntityName>F86D</_biologicalEntityName>
+                <_biologicalEntityName>L40T</_biologicalEntityName>
+                <_biologicalEntityName>T46V</_biologicalEntityName>
+                <_biologicalEntityName>D96N</_biologicalEntityName>
+            </_biologicalEntity>
+            <_biologicalEntity name="species">
+                <_biologicalEntityName>sapporo</_biologicalEntityName>
+                <_biologicalEntityName>bacterial</_biologicalEntityName>
+                <_biologicalEntityName>E. coli</_biologicalEntityName>
+                <_biologicalEntityName>natronobacterium pharaonis</_biologicalEntityName>
+                <_biologicalEntityName>halobacterium salinarum</_biologicalEntityName>
+                <_biologicalEntityName>escherichia coli</_biologicalEntityName>
+            </_biologicalEntity>
+        </_global>
+        <_specifics>
+            <_pairs targetType="mutant">
+                <_pair>
+                    <_target name="mutant">F86D</_target>
+                    <_receptor>sensory rhodopsin</_receptor>
+                    <_sentences>
+                        <_sentence number="3339">
+                            <_text>It is noteworthy that Engelhard and
+                                Bamberg found a photo-induced membrane
+                                potential for the [[F86D]] mutant
+                                personal communication .. 4.
+                                Nomenclature br : bacteriorhodopsinCHES
+                                : 2-cyclohexil-amino-ethanesulfonic
+                                acidF86D mutant : mutant in which Phe86
+                                is substituted by AspIPTG :
+                                isopropyl-1-thio-small beta ,
+                                Greek-galactosideppR : pharaonis
+                                phoborhodopsinppRM : M-intermediate of
+                                ppRppRO : O-intermediate of ppRsR :
+                                [[sensory rhodopsin]] . Acknowledgements
+                                We gratefully acknowledged Dr. Martin
+                                Engelhard for his invaluable discussions
+                                and improvement of our manuscript </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+            </_pairs>
+            <_pairs targetType="species">
+                <_pair>
+                    <_target name="species">natronobacterium pharaonis</_target>
+                    <_receptor>sensory rhodopsin II</_receptor>
+                    <_sentences>
+                        <_sentence number="3247">
+                            <_text>accepted 11 March 1999. Available
+                                online 8 July 1999. . Abstract
+                                Phoborhodopsin also called [[sensory
+                                rhodopsin II]] , sR-II is a receptor for
+                                the negative phototaxis of Halobacterium
+                                salinarum pR , and pharaonis
+                                phoborhodopsin ppR is the corresponding
+                                receptor of [[Natronobacterium
+                                pharaonis]] </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="species">halobacterium salinarum</_target>
+                    <_receptor>sensory rhodopsin II</_receptor>
+                    <_sentences>
+                        <_sentence number="3247">
+                            <_text>accepted 11 March 1999. Available
+                                online 8 July 1999. . Abstract
+                                Phoborhodopsin also called [[sensory
+                                rhodopsin II]] , sR-II is a receptor for
+                                the negative phototaxis of
+                                [[Halobacterium salinarum]] pR , and
+                                pharaonis phoborhodopsin ppR is the
+                                corresponding receptor of
+                                Natronobacterium pharaonis </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+            </_pairs>
+        </_specifics>
+    </_article>
+
+</_articleSet>

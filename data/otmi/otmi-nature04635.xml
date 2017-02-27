@@ -1,0 +1,789 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Mechanical twisting of a guest by a photoresponsive host</title>
+      <id>info:doi/10.1038/nature04635</id>
+      <link href='http://dx.doi.org/10.1038/nature04635' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Takahiro Muraoka</name>
+      </author>
+      <author>
+        <name>Kazushi Kinbara</name>
+      </author>
+      <author>
+        <name>Takuzo Aida</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>512</prism:startingPage>
+      <prism:endingPage>515</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Molecular analogues of a variety of mechanical devices such as shuttles, brakes, unidirectional rotors and tweezers have been created . But these ‘molecular machines’ have not yet been used to mechanically manipulate a second molecule in a controlled and reversible manner. Here we show that light-induced scissor-like conformational changes of one molecule can give rise to mechanical twisting of a non-covalently bound guest molecule. To realize this coupling of molecular motions, we use a previously designed system : a ferrocene moiety with an azobenzene strap, each end of which is attached to one of the two cyclopentadienyl rings of the ferrocene unit, acts as a pivot so that photoisomerization of the strap rotates the ferrocene rings relative to each other and thereby also changes the relative position of two ‘pedal’ moieties attached to the ferrocene rings. We translate this effect into intermolecular coupling of motion by endowing the pedals with binding sites, which allow the host system to form a stable complex with a bidentate rotor molecule. Using circular dichroism spectroscopy, we show that the photoinduced conformational changes of the host are indeed transmitted and induce mechanical twisting of the rotor molecule. This design concept, which significantly extends the successful coupling of motion beyond the intramolecular level seen in synthetic allosteric receptors , might allow for the remote control of molecular events in larger interlocked molecular systems.</otmi:rawtext>
+            <otmi:reducedtext>Molecular analogues variety mechanical devices such shuttles, brakes, unidirectional rotors tweezers have been created . But these ‘molecular machines’ have not yet been used mechanically manipulate second molecule controlled reversible manner. Here show light-induced scissor-like conformational changes one molecule can give rise mechanical twisting non-covalently bound guest molecule. realize coupling molecular motions, use previously designed system : ferrocene moiety azobenzene strap, each end which attached one two cyclopentadienyl rings ferrocene unit, acts pivot so photoisomerization strap rotates ferrocene rings relative each other thereby also changes relative position two ‘pedal’ moieties attached ferrocene rings. translate effect into intermolecular coupling motion endowing pedals binding sites, which allow host system form stable complex bidentate rotor molecule. Using circular dichroism spectroscopy, show photoinduced conformational changes host indeed transmitted induce mechanical twisting rotor molecule. design concept, which significantly extends successful coupling motion beyond intramolecular level seen synthetic allosteric receptors , might allow remote control molecular events larger interlocked molecular systems.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>molecule</otmi:vector>
+              <otmi:vector count='4'>molecular</otmi:vector>
+              <otmi:vector count='4'>ferrocene</otmi:vector>
+              <otmi:vector count='3'>mechanical</otmi:vector>
+              <otmi:vector count='3'>rings</otmi:vector>
+              <otmi:vector count='3'>which</otmi:vector>
+              <otmi:vector count='3'>changes</otmi:vector>
+              <otmi:vector count='3'>coupling</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>host</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>strap</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>conformational</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>motion</otmi:vector>
+              <otmi:vector count='2'>relative</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>attached</otmi:vector>
+              <otmi:vector count='2'>twisting</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>rotor</otmi:vector>
+              <otmi:vector count='1'>devices</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>pivot</otmi:vector>
+              <otmi:vector count='1'>azobenzene</otmi:vector>
+              <otmi:vector count='1'>light-induced</otmi:vector>
+              <otmi:vector count='1'>intermolecular</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>endowing</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>interlocked</otmi:vector>
+              <otmi:vector count='1'>remote</otmi:vector>
+              <otmi:vector count='1'>synthetic</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>rotates</otmi:vector>
+              <otmi:vector count='1'>manipulate</otmi:vector>
+              <otmi:vector count='1'>photoinduced</otmi:vector>
+              <otmi:vector count='1'>spectroscopy</otmi:vector>
+              <otmi:vector count='1'>guest</otmi:vector>
+              <otmi:vector count='1'>transmitted</otmi:vector>
+              <otmi:vector count='1'>moiety</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>non-covalently</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>pedal</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>receptors</otmi:vector>
+              <otmi:vector count='1'>realize</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>unit</otmi:vector>
+              <otmi:vector count='1'>extends</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>acts</otmi:vector>
+              <otmi:vector count='1'>allosteric</otmi:vector>
+              <otmi:vector count='1'>variety</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>cyclopentadienyl</otmi:vector>
+              <otmi:vector count='1'>rotors</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>intramolecular</otmi:vector>
+              <otmi:vector count='1'>tweezers</otmi:vector>
+              <otmi:vector count='1'>machines</otmi:vector>
+              <otmi:vector count='1'>analogues</otmi:vector>
+              <otmi:vector count='1'>moieties</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>binding</otmi:vector>
+              <otmi:vector count='1'>bidentate</otmi:vector>
+              <otmi:vector count='1'>scissor-like</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>dichroism</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>shuttles</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>created</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>mechanically</otmi:vector>
+              <otmi:vector count='1'>brakes</otmi:vector>
+              <otmi:vector count='1'>circular</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>bound</otmi:vector>
+              <otmi:vector count='1'>reversible</otmi:vector>
+              <otmi:vector count='1'>motions</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>controlled</otmi:vector>
+              <otmi:vector count='1'>pedals</otmi:vector>
+              <otmi:vector count='1'>unidirectional</otmi:vector>
+              <otmi:vector count='1'>Molecular</otmi:vector>
+              <otmi:vector count='1'>systems.</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>design</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>translate</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>photoisomerization</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>induce</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>But these ‘molecular machines’ have not yet been used to mechanically manipulate a second molecule in a controlled and reversible manner</otmi:snippet>
+              <otmi:snippet>Here we show that light-induced scissor-like conformational changes of one molecule can give rise to mechanical twisting of a non-covalently bound guest molecule</otmi:snippet>
+              <otmi:snippet>Molecular analogues of a variety of mechanical devices such as shuttles, brakes, unidirectional rotors and tweezers have been created </otmi:snippet>
+              <otmi:snippet>This design concept, which significantly extends the successful coupling of motion beyond the intramolecular level seen in synthetic allosteric receptors , might allow for the remote control of molecular events in larger interlocked molecular systems.</otmi:snippet>
+              <otmi:snippet>To realize this coupling of molecular motions, we use a previously designed system : a ferrocene moiety with an azobenzene strap, each end of which is attached to one of the two cyclopentadienyl rings of the ferrocene unit, acts as a pivot so that photoisomerization of the strap rotates the ferrocene rings relative to each other and thereby also changes the relative position of two ‘pedal’ moieties attached to the ferrocene rings</otmi:snippet>
+              <otmi:snippet>Using circular dichroism spectroscopy, we show that the photoinduced conformational changes of the host are indeed transmitted and induce mechanical twisting of the rotor molecule</otmi:snippet>
+              <otmi:snippet>We translate this effect into intermolecular coupling of motion by endowing the pedals with binding sites, which allow the host system to form a stable complex with a bidentate rotor molecule</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='89'>1</otmi:vector>
+              <otmi:vector count='64'>2</otmi:vector>
+              <otmi:vector count='47'>trans</otmi:vector>
+              <otmi:vector count='23'>CD</otmi:vector>
+              <otmi:vector count='23'>at</otmi:vector>
+              <otmi:vector count='21'>Fig</otmi:vector>
+              <otmi:vector count='20'>guest</otmi:vector>
+              <otmi:vector count='19'>cis</otmi:vector>
+              <otmi:vector count='16'>zinc</otmi:vector>
+              <otmi:vector count='16'>units</otmi:vector>
+              <otmi:vector count='15'>porphyrin</otmi:vector>
+              <otmi:vector count='14'>Supplementary</otmi:vector>
+              <otmi:vector count='12'>rotary</otmi:vector>
+              <otmi:vector count='11'>spectral</otmi:vector>
+              <otmi:vector count='11'>change</otmi:vector>
+              <otmi:vector count='11'>azobenzene</otmi:vector>
+              <otmi:vector count='11'>nm</otmi:vector>
+              <otmi:vector count='11'>photoisomerization</otmi:vector>
+              <otmi:vector count='8'>unit</otmi:vector>
+              <otmi:vector count='8'>conformational</otmi:vector>
+              <otmi:vector count='8'>isomerization</otmi:vector>
+              <otmi:vector count='7'>its</otmi:vector>
+              <otmi:vector count='7'>UV</otmi:vector>
+              <otmi:vector count='7'>host</otmi:vector>
+              <otmi:vector count='7'>light</otmi:vector>
+              <otmi:vector count='7'>motion</otmi:vector>
+              <otmi:vector count='6'>complex</otmi:vector>
+              <otmi:vector count='6'>expected</otmi:vector>
+              <otmi:vector count='6'>complexation</otmi:vector>
+              <otmi:vector count='6'>effects</otmi:vector>
+              <otmi:vector count='6'>upon</otmi:vector>
+              <otmi:vector count='6'>which</otmi:vector>
+              <otmi:vector count='6'>bands</otmi:vector>
+              <otmi:vector count='6'>geometry</otmi:vector>
+              <otmi:vector count='6'>Cotton</otmi:vector>
+              <otmi:vector count='5'>large</otmi:vector>
+              <otmi:vector count='5'>ferrocene</otmi:vector>
+              <otmi:vector count='5'>strap</otmi:vector>
+              <otmi:vector count='5'>response</otmi:vector>
+              <otmi:vector count='5'>M</otmi:vector>
+              <otmi:vector count='5'>molar</otmi:vector>
+              <otmi:vector count='5'>changes</otmi:vector>
+              <otmi:vector count='5'>irradiation</otmi:vector>
+              <otmi:vector count='5'>ratio</otmi:vector>
+              <otmi:vector count='5'>due</otmi:vector>
+              <otmi:vector count='5'>timescale</otmi:vector>
+              <otmi:vector count='4'>compound</otmi:vector>
+              <otmi:vector count='4'>respectively</otmi:vector>
+              <otmi:vector count='4'>When</otmi:vector>
+              <otmi:vector count='4'>activity</otmi:vector>
+              <otmi:vector count='4'>visible</otmi:vector>
+              <otmi:vector count='4'>two</otmi:vector>
+              <otmi:vector count='4'>backward</otmi:vector>
+              <otmi:vector count='4'>absorption</otmi:vector>
+              <otmi:vector count='4'>assoc</otmi:vector>
+              <otmi:vector count='4'>twisted</otmi:vector>
+              <otmi:vector count='4'>only</otmi:vector>
+              <otmi:vector count='4'>optically</otmi:vector>
+              <otmi:vector count='4'>molecule</otmi:vector>
+              <otmi:vector count='4'>resulted</otmi:vector>
+              <otmi:vector count='4'>K</otmi:vector>
+              <otmi:vector count='4'>active</otmi:vector>
+              <otmi:vector count='4'>one</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='4'>10</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='4'>dissociation</otmi:vector>
+              <otmi:vector count='3'>cyclopentadienyl</otmi:vector>
+              <otmi:vector count='3'>another</otmi:vector>
+              <otmi:vector count='3'>configurations</otmi:vector>
+              <otmi:vector count='3'>derivatives</otmi:vector>
+              <otmi:vector count='3'>78</otmi:vector>
+              <otmi:vector count='3'>Soret</otmi:vector>
+              <otmi:vector count='3'>binding</otmi:vector>
+              <otmi:vector count='3'>1:1</otmi:vector>
+              <otmi:vector count='3'>known</otmi:vector>
+              <otmi:vector count='3'>form</otmi:vector>
+              <otmi:vector count='3'>CH</otmi:vector>
+              <otmi:vector count='3'>rings</otmi:vector>
+              <otmi:vector count='3'>than</otmi:vector>
+              <otmi:vector count='3'>6</otmi:vector>
+              <otmi:vector count='3'>profile</otmi:vector>
+              <otmi:vector count='3'>bidentate</otmi:vector>
+              <otmi:vector count='3'>place</otmi:vector>
+              <otmi:vector count='3'>molecular</otmi:vector>
+              <otmi:vector count='3'>4</otmi:vector>
+              <otmi:vector count='3'>can</otmi:vector>
+              <otmi:vector count='3'>3c</otmi:vector>
+              <otmi:vector count='3'>adopt</otmi:vector>
+              <otmi:vector count='3'>270–350</otmi:vector>
+              <otmi:vector count='3'>induce</otmi:vector>
+              <otmi:vector count='3'>Figs</otmi:vector>
+              <otmi:vector count='3'>adopts</otmi:vector>
+              <otmi:vector count='3'>pedal-like</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>22</otmi:vector>
+              <otmi:vector count='3'>enantiomers</otmi:vector>
+              <otmi:vector count='3'>3</otmi:vector>
+              <otmi:vector count='3'>indicate</otmi:vector>
+              <otmi:vector count='3'>Cl</otmi:vector>
+              <otmi:vector count='3'>Because</otmi:vector>
+              <otmi:vector count='3'>picoseconds</otmi:vector>
+              <otmi:vector count='3'>observed</otmi:vector>
+              <otmi:vector count='3'>band</otmi:vector>
+              <otmi:vector count='3'>docked</otmi:vector>
+              <otmi:vector count='2'>isomerized</otmi:vector>
+              <otmi:vector count='2'>NMR</otmi:vector>
+              <otmi:vector count='2'>H</otmi:vector>
+              <otmi:vector count='2'>behaviour</otmi:vector>
+              <otmi:vector count='2'>Since</otmi:vector>
+              <otmi:vector count='2'>illustrated</otmi:vector>
+              <otmi:vector count='2'>conducted</otmi:vector>
+              <otmi:vector count='2'>give</otmi:vector>
+              <otmi:vector count='2'>solution</otmi:vector>
+              <otmi:vector count='2'>association</otmi:vector>
+              <otmi:vector count='2'>filled</otmi:vector>
+              <otmi:vector count='2'>took</otmi:vector>
+              <otmi:vector count='2'>P</otmi:vector>
+              <otmi:vector count='2'>positive</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>above</otmi:vector>
+              <otmi:vector count='2'>nanoseconds</otmi:vector>
+              <otmi:vector count='2'>421</otmi:vector>
+              <otmi:vector count='2'>component</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>occur</otmi:vector>
+              <otmi:vector count='2'>420</otmi:vector>
+              <otmi:vector count='2'>mirror-image</otmi:vector>
+              <otmi:vector count='2'>red-shifted</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>bind</otmi:vector>
+              <otmi:vector count='2'>scissor</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='2'>Job&apos;s</otmi:vector>
+              <otmi:vector count='2'>occurs</otmi:vector>
+              <otmi:vector count='2'>slower</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>spectroscopy</otmi:vector>
+              <otmi:vector count='2'>itself</otmi:vector>
+              <otmi:vector count='2'>irradiated</otmi:vector>
+              <otmi:vector count='2'>chirality</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>analogous</otmi:vector>
+              <otmi:vector count='2'>chiral</otmi:vector>
+              <otmi:vector count='2'>spectroscopic</otmi:vector>
+              <otmi:vector count='2'>plot</otmi:vector>
+              <otmi:vector count='2'>guest-free</otmi:vector>
+              <otmi:vector count='2'>conformation</otmi:vector>
+              <otmi:vector count='2'>appeared</otmi:vector>
+              <otmi:vector count='2'>titration</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>clearly</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>case</otmi:vector>
+              <otmi:vector count='2'>method</otmi:vector>
+              <otmi:vector count='2'>differential</otmi:vector>
+              <otmi:vector count='2'>points</otmi:vector>
+              <otmi:vector count='2'>Upon</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>mixture</otmi:vector>
+              <otmi:vector count='2'>resulting</otmi:vector>
+              <otmi:vector count='2'>stable</otmi:vector>
+              <otmi:vector count='2'>must</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>spectra</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>counterclockwise</otmi:vector>
+              <otmi:vector count='2'>forms</otmi:vector>
+              <otmi:vector count='2'>host–guest</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>relevant</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>displaying</otmi:vector>
+              <otmi:vector count='2'>result</otmi:vector>
+              <otmi:vector count='2'>considering</otmi:vector>
+              <otmi:vector count='2'>connecting</otmi:vector>
+              <otmi:vector count='2'>clockwise</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>profiles</otmi:vector>
+              <otmi:vector count='2'>interlocked</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>through</otmi:vector>
+              <otmi:vector count='2'>contribution</otmi:vector>
+              <otmi:vector count='2'>S2</otmi:vector>
+              <otmi:vector count='2'>S6</otmi:vector>
+              <otmi:vector count='2'>therefore</otmi:vector>
+              <otmi:vector count='2'>motions</otmi:vector>
+              <otmi:vector count='1'>contracts</otmi:vector>
+              <otmi:vector count='1'>turns</otmi:vector>
+              <otmi:vector count='1'>tight</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>characterized</otmi:vector>
+              <otmi:vector count='1'>3b</otmi:vector>
+              <otmi:vector count='1'>compelling</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>nonplanar</otmi:vector>
+              <otmi:vector count='1'>exposure</otmi:vector>
+              <otmi:vector count='1'>S7c</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>S7b</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>proceeded</otmi:vector>
+              <otmi:vector count='1'>reference</otmi:vector>
+              <otmi:vector count='1'>constant</otmi:vector>
+              <otmi:vector count='1'>1.2</otmi:vector>
+              <otmi:vector count='1'>Clearly</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>1.3</otmi:vector>
+              <otmi:vector count='1'>rotor</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>repeatedly</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>Interestingly</otmi:vector>
+              <otmi:vector count='1'>respond</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>complementary</otmi:vector>
+              <otmi:vector count='1'>S7a</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>S3a–c</otmi:vector>
+              <otmi:vector count='1'>synchronous</otmi:vector>
+              <otmi:vector count='1'>adjusts</otmi:vector>
+              <otmi:vector count='1'>investigated</otmi:vector>
+              <otmi:vector count='1'>directions</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>nitrogenous</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>changed</otmi:vector>
+              <otmi:vector count='1'>according</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>bases</otmi:vector>
+              <otmi:vector count='1'>hand</otmi:vector>
+              <otmi:vector count='1'>ring</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>peptide</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>freedom</otmi:vector>
+              <otmi:vector count='1'>fixed</otmi:vector>
+              <otmi:vector count='1'>S10</otmi:vector>
+              <otmi:vector count='1'>S11</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>azobenzene-containing</otmi:vector>
+              <otmi:vector count='1'>sign</otmi:vector>
+              <otmi:vector count='1'>restricted</otmi:vector>
+              <otmi:vector count='1'>argues</otmi:vector>
+              <otmi:vector count='1'>disappeared</otmi:vector>
+              <otmi:vector count='1'>evaluating</otmi:vector>
+              <otmi:vector count='1'>indicating</otmi:vector>
+              <otmi:vector count='1'>physically</otmi:vector>
+              <otmi:vector count='1'>lineshape</otmi:vector>
+              <otmi:vector count='1'>stereochemically</otmi:vector>
+              <otmi:vector count='1'>subpicoseconds</otmi:vector>
+              <otmi:vector count='1'>induces</otmi:vector>
+              <otmi:vector count='1'>binds</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>subsequent</otmi:vector>
+              <otmi:vector count='1'>light–induced</otmi:vector>
+              <otmi:vector count='1'>visualize</otmi:vector>
+              <otmi:vector count='1'>corresponding</otmi:vector>
+              <otmi:vector count='1'>63</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>isolable</otmi:vector>
+              <otmi:vector count='1'>isosbestic</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>structures</otmi:vector>
+              <otmi:vector count='1'>inversely</otmi:vector>
+              <otmi:vector count='1'>probed</otmi:vector>
+              <otmi:vector count='1'>elongates</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>evaluated</otmi:vector>
+              <otmi:vector count='1'>chirally</otmi:vector>
+              <otmi:vector count='1'>enantiomer</otmi:vector>
+              <otmi:vector count='1'>4,4′-di-(3-methylisoquinoline</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>transparent</otmi:vector>
+              <otmi:vector count='1'>230–370</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>translated</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>obviously</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>Chiral</otmi:vector>
+              <otmi:vector count='1'>1a</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>six</otmi:vector>
+              <otmi:vector count='1'>confirmed</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>conclude</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>stoichiometry</otmi:vector>
+              <otmi:vector count='1'>inverse</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>rebinding</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>circles</otmi:vector>
+              <otmi:vector count='1'>became</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>guest–binding</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>S3d–f</otmi:vector>
+              <otmi:vector count='1'>program</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>signed</otmi:vector>
+              <otmi:vector count='1'>changing</otmi:vector>
+              <otmi:vector count='1'>inversion</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>rotate</otmi:vector>
+              <otmi:vector count='1'>coordinate</otmi:vector>
+              <otmi:vector count='1'>2.6</otmi:vector>
+              <otmi:vector count='1'>grew</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>spectrum</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>350</otmi:vector>
+              <otmi:vector count='1'>Q</otmi:vector>
+              <otmi:vector count='1'>transmitted</otmi:vector>
+              <otmi:vector count='1'>proceed</otmi:vector>
+              <otmi:vector count='1'>computer-generated</otmi:vector>
+              <otmi:vector count='1'>380–440</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>twist</otmi:vector>
+              <otmi:vector count='1'>R</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>Systems</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>guest-bound</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>3,3′-bipyridine</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>S</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>susceptibility</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>CD-silent</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>varying</otmi:vector>
+              <otmi:vector count='1'>307</otmi:vector>
+              <otmi:vector count='1'>configuration</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>display</otmi:vector>
+              <otmi:vector count='1'>ultraviolet</otmi:vector>
+              <otmi:vector count='1'>ligand</otmi:vector>
+              <otmi:vector count='1'>hardly</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>planar</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>Irradiation</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>optical</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>pedal</otmi:vector>
+              <otmi:vector count='1'>constrained</otmi:vector>
+              <otmi:vector count='1'>cyclic</otmi:vector>
+              <otmi:vector count='1'>consideration</otmi:vector>
+              <otmi:vector count='1'>principle</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>Exposure</otmi:vector>
+              <otmi:vector count='1'>0.2</otmi:vector>
+              <otmi:vector count='1'>S4b</otmi:vector>
+              <otmi:vector count='1'>Video</otmi:vector>
+              <otmi:vector count='1'>transmission</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>oligopeptides</otmi:vector>
+              <otmi:vector count='1'>2.0</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>accompanied</otmi:vector>
+              <otmi:vector count='1'>contact</otmi:vector>
+              <otmi:vector count='1'>S4a</otmi:vector>
+              <otmi:vector count='1'>0.6</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>latter&apos;s</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>spectroscopically</otmi:vector>
+              <otmi:vector count='1'>Compound</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>counterpart</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>takes</otmi:vector>
+              <otmi:vector count='1'>exciton</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>554</otmi:vector>
+              <otmi:vector count='1'>samples</otmi:vector>
+              <otmi:vector count='1'>geometries</otmi:vector>
+              <otmi:vector count='1'>gives</otmi:vector>
+              <otmi:vector count='1'>Guest</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>titrated</otmi:vector>
+              <otmi:vector count='1'>dichroism</otmi:vector>
+              <otmi:vector count='1'>isoquinoline</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>squares</otmi:vector>
+              <otmi:vector count='1'>unchanged</otmi:vector>
+              <otmi:vector count='1'>notable</otmi:vector>
+              <otmi:vector count='1'>essentially</otmi:vector>
+              <otmi:vector count='1'>porphyrins</otmi:vector>
+              <otmi:vector count='1'>frozen</otmi:vector>
+              <otmi:vector count='1'>circular</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>demonstrating</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>non-covalently</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>orders</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>middle</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>complexed</otmi:vector>
+              <otmi:vector count='1'>achieve</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>37</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>timescales</otmi:vector>
+              <otmi:vector count='1'>exhibiting</otmi:vector>
+              <otmi:vector count='1'>twisted.</otmi:vector>
+              <otmi:vector count='1'>guest-binding</otmi:vector>
+              <otmi:vector count='1'>rotation</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>separable</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>expense</otmi:vector>
+              <otmi:vector count='1'>suggesting</otmi:vector>
+              <otmi:vector count='1'>constants</otmi:vector>
+              <otmi:vector count='1'>maximum</otmi:vector>
+              <otmi:vector count='1'>accompanying</otmi:vector>
+              <otmi:vector count='1'>photoinduced</otmi:vector>
+              <otmi:vector count='1'>characteristic</otmi:vector>
+              <otmi:vector count='1'>bears</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>selectively</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>deducted</otmi:vector>
+              <otmi:vector count='1'>Figure</otmi:vector>
+              <otmi:vector count='1'>docking</otmi:vector>
+              <otmi:vector count='1'>scissor-like</otmi:vector>
+              <otmi:vector count='1'>signs</otmi:vector>
+              <otmi:vector count='1'>final</otmi:vector>
+              <otmi:vector count='1'>bottom</otmi:vector>
+              <otmi:vector count='1'>establish</otmi:vector>
+              <otmi:vector count='1'>giving</otmi:vector>
+              <otmi:vector count='1'>enantiomeric</otmi:vector>
+              <otmi:vector count='1'>net</otmi:vector>
+              <otmi:vector count='1'>view</otmi:vector>
+              <otmi:vector count='1'>DNMR5</otmi:vector>
+              <otmi:vector count='1'>stage</otmi:vector>
+              <otmi:vector count='1'>isomeric</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>S8</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>contraction</otmi:vector>
+              <otmi:vector count='1'>elongation</otmi:vector>
+              <otmi:vector count='1'>plateau</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>S9</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>enriched</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>design</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>behave</otmi:vector>
+              <otmi:vector count='1'>ms</otmi:vector>
+              <otmi:vector count='1'>2a</otmi:vector>
+              <otmi:vector count='1'>S5</otmi:vector>
+              <otmi:vector count='1'>remained</otmi:vector>
+              <otmi:vector count='1'>furnish</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>2b</otmi:vector>
+              <otmi:vector count='1'>259</otmi:vector>
+              <otmi:vector count='1'>finally</otmi:vector>
+              <otmi:vector count='1'>2c</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As expected, titration of (- )- trans - 1 , an enantiomeric counterpart of (+ )- trans - 1 , with 2 resulted in a mirror-image CD spectral change of (+ )- trans - 1 </otmi:snippet>
+              <otmi:snippet>As illustrated in Fig. 4 , these geometries are complementary in shape to the P and M configurations suggested for the corresponding zinc porphyrin units</otmi:snippet>
+              <otmi:snippet>As shown, the host molecule ( 1 ) bears a zinc porphyrin unit at each cyclopentadienyl ring of the ferrocene unit</otmi:snippet>
+              <otmi:snippet>Because cis - 1 was hardly isolable due to its high susceptibility to the backward isomerization, the stoichiometry of the complexation of cis - 1 with 2 was evaluated based on spectral changes upon UV irradiation of the Job&apos;s plot samples used for the trans - 1 case (see above)</otmi:snippet>
+              <otmi:snippet>Because of a freedom in conformational change, 2 is not optically active in solution but turns optically active upon binding with 1 , with the CD activity of the latter changing in response to the photoisomerization of the azobenzene unit</otmi:snippet>
+              <otmi:snippet>Because the differential CD spectra are quite analogous to the CD spectral profiles of the enantiomers of 4,4′-di-(3-methylisoquinoline) ( 4 ) that are separable due to a restricted conformational change ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>But in principle, this response might proceed through dissociation of 2 from 1 , and rebinding of guest 2 only after 1 has changed its structure</otmi:snippet>
+              <otmi:snippet>By reference to the signs of the Cotton effects of the enantiomers of 4 , the rotary guest 2 in 2 ·(+ )- trans - 1 and 2 ·(- )- trans - 1 most probably adopts ( R )- and ( S )-configurations, respectively</otmi:snippet>
+              <otmi:snippet>Chiral compound 2 is expected to give CD bands at 270–350 nm, considering its absorption spectral profile</otmi:snippet>
+              <otmi:snippet>Clearly, the CD spectral change of 2 ( Fig. 3c , top) upon photoisomerization ( Fig. 3c , bottom) was synchronous to that observed for the zinc porphyrin units of 1 ( Fig. 3c , middle), demonstrating that non-covalently docked host molecule 1 and rotary guest 2 are stereochemically interlocked with one another</otmi:snippet>
+              <otmi:snippet>Compound 2 is expected to behave as a bidentate ligand and to interact strongly with 1 </otmi:snippet>
+              <otmi:snippet>Exposure of trans - 1 to UV light ( λ = 350 ± 10 nm) at 20 °C induces trans -to- cis isomerization of the azobenzene unit to give a molar ratio for trans - 1 / cis - 1 of 22/78 ( Supplementary Figs S3a–c and Fig</otmi:snippet>
+              <otmi:snippet>Figure 2c shows differential CD spectra between 2 ·(+ )- trans - 1 and 3 ·(+ )- trans - 1 at varying guest concentrations, which clearly display two positive Cotton effects at 259 and 307 nm</otmi:snippet>
+              <otmi:snippet>For evaluating the net contribution of 1 to the CD profile of 2 · 1 at 270–350 nm, we used 3,3′-bipyridine ( 3 ) as an alternative guest, which is spectroscopically transparent and should therefore be CD-silent in this region even though it adopts a chiral geometry</otmi:snippet>
+              <otmi:snippet>For this motion to be directly transmitted to the rotary guest ( 2 ), the dissociation dynamics of 2 · 1 must occur on a much slower timescale than the motion itself</otmi:snippet>
+              <otmi:snippet>Guest dissociation thus occurs at a rate that is at least six orders of magnitude slower than the photoisomerization of azobenzene derivatives, which provides compelling evidence that rotary guest 2 will essentially remain associated with its host 1 throughout the latter&apos;s photoinduced conformational change and as a result be physically twisted.</otmi:snippet>
+              <otmi:snippet>However, a consideration of relevant timescales argues against such a process</otmi:snippet>
+              <otmi:snippet>However, the CD spectrum of 2 · 1 in this region involves Cotton effects of the host component itself ( 1 )</otmi:snippet>
+              <otmi:snippet>In this system, photoisomerization of the azobenzene strap in response to irradiation with ultraviolet (UV) and visible light should induce a scissor- or pedal-like conformational change of the zinc porphyrin units, which can be used to twist the rotary guest 2 repeatedly in clockwise and counterclockwise directions</otmi:snippet>
+              <otmi:snippet>In view of this behaviour and the large association constants of rotary guest 2 with trans - and cis - 1 , we expected that 2 could be twisted by 1 </otmi:snippet>
+              <otmi:snippet>Indeed, addition of 2 in CH 2 Cl 2 resulted in trans - 1 displaying red-shifted Soret and Q bands of the zinc porphyrin units with isosbestic points at 420 and 554 nm, respectively ( Fig. 2a ) </otmi:snippet>
+              <otmi:snippet>Interestingly, when trans - 1 in these host–guest complexes was isomerized to the cis form by UV irradiation, a large CD spectral change, with an inversion of its sign at the final stage, took place at the Soret absorption band of the zinc porphyrin units ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>Irradiation of the isomerized mixture with visible light ( λ &gt; 420 nm) resulted in the backward cis -to- trans isomerization, giving a molar ratio for trans - 1 / cis - 1 of 63/37 ( Supplementary Figs S3d–f and S4b )</otmi:snippet>
+              <otmi:snippet>Moreover, the cyclopentadienyl rings in ferrocene derivatives are known to rotate on a timescale of nanoseconds </otmi:snippet>
+              <otmi:snippet>On the basis of this result, we titrated a cis -enriched isomeric mixture of 1 ( trans - 1 / cis - 1 = 22/78) with 2 and estimated K assoc for the complexation between cis - 1 and 2 as 2.6 × 10 6 M -1 , which is as large as that of trans - 1 with 2 ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>On the other hand, when the resulting complex was irradiated with visible light to allow its backward isomerization, these CD bands appeared again and grew up with time</otmi:snippet>
+              <otmi:snippet>S10 ), we conclude that rotary guest 2 , upon complexation with 1 , is frozen in an optically active conformation owing to chirality transfer from the host component</otmi:snippet>
+              <otmi:snippet>S11 )</otmi:snippet>
+              <otmi:snippet>S2 )</otmi:snippet>
+              <otmi:snippet>S2 ), suggesting a chirally twisted geometry of the zinc porphyrin units</otmi:snippet>
+              <otmi:snippet>S4a )</otmi:snippet>
+              <otmi:snippet>S5 )</otmi:snippet>
+              <otmi:snippet>S6 ), indicating that cis - 1 as well as trans - 1 forms a 1:1 complex with 2 ( 2 · cis - 1 )</otmi:snippet>
+              <otmi:snippet>S6, and Fig</otmi:snippet>
+              <otmi:snippet>S7a )</otmi:snippet>
+              <otmi:snippet>S7b )</otmi:snippet>
+              <otmi:snippet>S8 )</otmi:snippet>
+              <otmi:snippet>Since the CD activity of 2 ·(+ )- trans - 1 is much larger than that of guest-free (+ )- trans - 1 , the twisted geometry of the two zinc porphyrin units in trans - 1 is fixed upon complexation with bidentate guest 2 </otmi:snippet>
+              <otmi:snippet>Since zinc porphyrins are known to coordinate to nitrogenous bases, compound 1 is expected to bind the bidentate molecular rotor ( 2 ) to form a stable host/guest complex 2 · 1 </otmi:snippet>
+              <otmi:snippet>Systems relevant to the present study are azobenzene-containing cyclic oligopeptides, where photoisomerization of the azobenzene unit in a constrained environment takes place in picoseconds and is followed by a conformational change of the connecting peptide units on a timescale of picoseconds to nanoseconds </otmi:snippet>
+              <otmi:snippet>The above observations clearly establish that the rotary guest 2 adjusts its conformation in response to conformational changes in 1 </otmi:snippet>
+              <otmi:snippet>The design of our molecular system is illustrated in Fig. 1 </otmi:snippet>
+              <otmi:snippet>The exciton chirality method indicated that the zinc porphyrin units in 2 ·(+ )- trans - 1 and 2 ·(- )- trans - 1 might adopt P and M configurations, respectively</otmi:snippet>
+              <otmi:snippet>The large spectral changes accompanying the photoisomerization of 2 · 1 indicate that the light–induced isomerization that contracts and elongates the azobenzene strap gives rise to a scissor- or pedal-like motion of the zinc porphyrin units even when they bind a guest molecule</otmi:snippet>
+              <otmi:snippet>The maximum observed at the 1:1 molar ratio of trans - 1 to 2 remained unchanged after the UV irradiation (filled circles in Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The observed optical activities of rotary guest 2 upon binding with trans - and cis - 1 are consistent with those expected from computer-generated molecular structures of 2 · trans - 1 and 2 · cis - 1 , where the two isoquinoline rings of 2 docked at trans - 1 adopt a twisted geometry with one another, while those docked at cis - 1 adopt a nearly planar geometry with a lower CD activity ( Supplementary Video 1 )</otmi:snippet>
+              <otmi:snippet>The photoisomerization events were accompanied by a notable CD spectral change of 1 both at the ferrocene and zinc porphyrin units ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The photoisomerization of azobenzene derivatives is known to occur on a timescale of subpicoseconds to picoseconds </otmi:snippet>
+              <otmi:snippet>The spectroscopic data and Job&apos;s plot indicate that trans - 1 binds only one molecule of 2 to form 2 · trans - 1 with an association constant K assoc of 1.3 × 10 6 M -1 (filled squares in Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The synthesis of compound 1 with a trans configuration at the azobenzene unit ( trans - 1 ) proceeded according to the method described in the Supplementary Information </otmi:snippet>
+              <otmi:snippet>Therefore, to selectively visualize the conformational motion of 2 , the contribution of 1 must be deducted from the overall CD activity of 2 · 1 </otmi:snippet>
+              <otmi:snippet>These results indicate that the contraction and elongation of the azobenzene strap are translated into clockwise and counterclockwise rotary motions of the cyclopentadienyl rings, leading to a pedal-like motion of the guest–binding zinc porphyrin units. 1 H NMR spectroscopy provided further evidence for these interlocked motions ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>This can be probed by considering that rotary guest 2 will be optically active if it adopts a nonplanar, chiral geometry</otmi:snippet>
+              <otmi:snippet>This large K assoc value is obviously due to the complexation involving two contact points ( Fig. 1a ), which is not only important to achieve tight host–guest docking but also essential for the transmission of motion from 1 to 2 </otmi:snippet>
+              <otmi:snippet>Thus, the ferrocene unit in 1 can respond rapidly through rotation to the photoisomerization of the azobenzene unit and the subsequent conformational changes of the connecting units, and thereby induce the guest-binding zinc porphyrin units to undergo a pedal- or scissor-like motion</otmi:snippet>
+              <otmi:snippet>Upon exposure of the resulting complex to visible light to allow the backward isomerization, an inverse CD spectral change took place</otmi:snippet>
+              <otmi:snippet>Upon irradiation with UV light to induce the trans -to- cis isomerization of the strap, the Cotton effects at 270–350 nm due to 2 became smaller and almost disappeared</otmi:snippet>
+              <otmi:snippet>We conducted CD spectroscopic studies on the photoisomerization of the host/guest complex using (+ )- trans - 1 , an enantiomer of trans - 1 exhibiting a positive CD band at 421 nm</otmi:snippet>
+              <otmi:snippet>We confirmed that compound 3 forms a highly stable 1:1 complex with (+ )- trans - 1 ( K assoc = 1.2 × 10 6 M -1 ), displaying a CD titration profile analogous to the case of 2 ( Supplementary Figs S7c and S9 )</otmi:snippet>
+              <otmi:snippet>We next investigated changes in the CD spectral profiles of rotary guest 2 in 2 ·(+ )- trans - 1 and 2 ·(- )- trans - 1 in response to the photoisomerization of the azobenzene strap ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>We therefore conducted a 1 H NMR lineshape analysis of the binding behaviour of 2 · trans - 1 and 2 · cis - 1 using program DNMR5 and found that guest dissociation occurs only very slowly, on a timescale of 0.6 and 0.2 ms, respectively ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>When (+ )- trans - 1 was complexed with guest 2 in CH 2 Cl 2 , new CD bands appeared at around the red-shifted Soret absorption band of the guest-bound zinc porphyrin units, at the expense of the original Cotton effects at 421 nm due to guest-free (+ )- trans - 1 , and the spectral change finally reached a plateau at a molar ratio for 2 / 1 of 2.0 ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>When (- )- trans - 1 was used instead of (+ )- trans - 1 for the complexation with 2 , inversely signed Cotton effects resulted</otmi:snippet>
+              <otmi:snippet>When a CH 2 Cl 2 solution of 2 · trans - 1 was irradiated with UV light, isomerization of trans - 1 occurred to furnish a molar ratio trans - 1 / cis - 1 of 22/78 ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>When characterized by circular dichroism (CD) spectroscopy, the enantiomers of trans - 1 showed characteristic mirror-image CD bands of one another at the absorption bands of the ferrocene (230–370 nm) and zinc porphyrin units (380–440 nm) ( Supplementary Fig</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Design and concept of light-powered molecular pedal.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Schematic representation of photoisomerization of a 1:1 complex of molecular pedal 1 with rotary guest 2 ( 2 · 1 ). Ar, 4-decyloxyphenyl. Arrows indicate the directions of interlocked motions. b , Schematic illustrations of a sequence of interlocked motions of 2 · 1 triggered by light. Orange/green, blue and red-coloured parts show the azobenzene, ferrocene and zinc porphyrin units of 1 , respectively, while the yellow part denotes 2 .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Binding of rotary guest 2 with molecular pedal trans -1.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Absorption ( a ) and CD ( b ) spectral changes of trans - 1 in CH 2 Cl 2 (1.1 × 10 -5 M) at 20 °C upon titration with 2 . In a , the [ 2 ]/[ trans - 1 ] ratio was 0.0, 0.3, 0.6, 1.0, 1.3, 1.6 and 2.0; in b , [ 2 ]/[ trans - 1 ] ratio was 0.0, 0.3, 0.6, 1.0 and 2.0. c , Differential spectra by subtraction of the CD spectra of 3 · trans - 1 from those of 2 · trans - 1 at [ 2 ]/[ trans - 1 ] = [ 3 ]/[ trans - 1 ] = 0.3, 0.6, 1.0 and 2.0. Solid curves, (+ )- trans - 1 ; broken curves, (- )- trans - 1 . Arrows indicate the directions of spectral changes. Δ ε represents molar circular dichroic absorption coefficient (L mol -1 cm -1 ).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Circular dichroism (CD) visualization of the motions of guest–binding molecular pedals 2·(+ )-1 and 2·(- )-1 triggered by light.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , CD spectral changes of 2 · trans - 1 in CH 2 Cl 2 at 20 °C upon UV irradiation ( λ = 350 ± 10 nm) for 5, 10 and 20 s. [ trans - 1 ] = 7.2 × 10 -6 M; [ 2 ]/[ trans - 1 ] = 1.0. Solid curves, (+ )- trans - 1 ; broken curves, (- )- trans - 1 . b , Differential spectra by subtraction of the CD spectra of 3 · trans - 1 from those of 2 · trans - 1 in CH 2 Cl 2 at 20 °C upon UV irradiation ( λ = 350 ± 10 nm) for 5, 10 and 20 s. [ trans - 1 ] = 7.2 × 10 -6 M; [ 2 ]/[ trans - 1 ] = [ 3 ]/[ trans - 1 ] = 1.0. Solid curves, (+ )- trans - 1 ; broken curves, (- )- trans - 1 . c , CD intensity changes of 2 ·(+ )- trans - 1 at 307.4 nm (top) in Fig. 3b and 420.8 nm (middle) in Fig. 3a, along with a change in mole fraction of trans - 1 in 2 · 1 (bottom), upon alternating irradiation of UV ( λ = 350 ± 10 nm, blue regions) and visible lights ( λ &gt; 420 nm, light-green regions). Arrows in a and b indicate the directions of spectral changes. Arrows in c represent the directions of interlocked motions.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Configurational aspects of the zinc porphyrin units of molecular pedal trans -1 and rotary guest 2 in 2· trans -1.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The configurations of the zinc porphyrin units are estimated using the exciton chirality method 15,16 , while those of 2 in 2 ·(+ )- trans - 1 and 2 ·(- )- trans - 1 are deduced by analogy with the CD spectra of ( R )- 4 and ( S )- 4 , respectively.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1021/cr030071r</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ar0001766</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1094791</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja034994f</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01663</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01758</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja000356a</otmi:refid>
+          <otmi:refid>info:doi/10.1038/43639</otmi:refid>
+          <otmi:refid>info:doi/10.1038/43646</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja00534a058</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja039369p</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ar0302437</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja020520p</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja00852a005</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja00767a007</otmi:refid>
+          <otmi:refid>info:doi/10.1021/cr9800816</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0301-0104(81)80224-8</otmi:refid>
+          <otmi:refsnoid>5</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

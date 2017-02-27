@@ -1,0 +1,647 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Dynamic proteins and a cytoskeleton in bacteria - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n3';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=C0A804EF4652D5BB41441F03F5424111437A">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/index.html#cy">Commentary</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">Commentary</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>&nbsp;<b>5</b>, 175 - 178 (2003)
+ <br>doi:10.1038/ncb0303-175
+</span><h2 xmlns="">Dynamic proteins and a cytoskeleton in bacteria</h2><span xmlns="" class="author">Jeffery Errington<p class="blacksml">Jeffery Errington is in the Sir William Dunn School of Pathology, University of Oxford, South Parks Road, Oxford OX1 3RE, UK
+<br><a href="mailto:jeff.errington@path.ox.ac.uk">jeff.errington@path.ox.ac.uk</a></p></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>The application of modern fluorescence microscopic methods to bacteria has revolutionized our view of their subcellular organization. Many proteins are now known to be targeted with exquisite precision to specific locations in the cell, or to undergo rapid directed changes in localization. Structural and functional homologues of tubulin (FtsZ) and actin (MreB) are now indisputably present in bacteria, overturning the textbook view that the cytoskeleton is unique to eukaryotes. These advances are stimulating a radical rethink about how various fundamental processes are organised in bacteria.</b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">In the last ten years or so, our understanding of the subcellular organization of bacterial cells has undergone a revolution through the increasing application of cell biological methods, principally fluorescence microscopy<sup><a href="#B1">1</a></sup>. Previous studies, based mainly on transmission electron microscopy (TEM), had given rise to the belief that bacterial cells have a simple architecture, distinct in various fundamental ways from that of eukaryotes. In particular, the general absence of intracellular membrane-bound organelles (including the nucleus), the absence of a cytoskeleton and the presence of a prominent external peptidoglycan cell wall. Recently, our view of several fundamental aspects of bacterial organization has needed to be revised. This commentary summarises current thinking in relation to three aspects of bacterial cytosol organization that I think have undergone particularly marked changes. First, the specialized localization of major macromolecular synthetic machineries. Second, the existence and function of various cell cycle proteins that undergo rapid and directed spatial relocation. Finally, the discovery that bacterial cells contain not only a tubulin homologue (FtsZ), but also actin (MreB), another key cytoskeletal protein previously thought to be restricted to eukaryotes.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Localized transcription, translation and DNA replication</b></span><br xmlns=""><span xmlns="" class="articletext">Central to the expression of genetic material in all cells are the processes of transcription and translation. The clear absence of a nuclear membrane, together with the evidence for close coupling of transcription and translation (for example, transcriptional attenuation mechanisms, in which translating ribosomes regulate the progression of RNA polymerase<sup><a href="#B2">2</a></sup>), suggested that transcription and translation were intimately interconnected in bacteria, in contrast to their striking separation into distinct compartments in eukaryotes. This view was overturned by simple experiments with green fluorescent protein (GFP) fusions to RNA polymerase or ribosomal subunits, which showed a clear separation of these activities in live bacteria<sup><a href="#B3">3</a></sup> (<a href="#f1">Fig. 1a, b</a>). As in eukaryotes, the central part of the cell turned out to be highly enriched in RNA polymerase and therefore the most active part of the cell in terms of transcription. In contrast, the peripheral zone of the cell turned out to be highly enriched in ribosomal proteins, presumably engaged in protein synthesis (<a href="#f1">Fig. 1b</a>). Recent labelling studies have confirmed the existence of separate zones of activity, with cold-shock proteins and other ribosomal proteins also being localized in the peripheral zone<sup><a href="#B4">4, 
+</a></sup><sup><a href="#B5">5</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html">Figure&nbsp;1.</a>&nbsp;Distinct cellular addresses of cell cycle and morphogenic proteins in bacteria.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n3/thumbs/ncb0303-175-f1.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Immunofluorescence microscopy images of <i>B. subtilis</i>, showing RNA polymerase labelled with GFP (green) and the nucleoid stained with DAPI (red). A merged image of the two signals is also shown. <b>b</b>, Ribosomes labelled with GFP. <b>c</b>, Localization of the DNA replication machinery (DnaE&#150;GFP). <b>d</b>, Localization of the <i>oriC</i> regions of the chromosome (Spo0J&#150;GFP). Some of the foci have a bilobed appearance, probably caused by the onset of new rounds of DNA replication. <b>e</b>, Oscillation of GFP&#150;MinD in <i>E. coli</i> (images are reproduced from ref. <a href="#B15">15</a> &copy; (1999) with permission from the National Academy of Sciences, USA). The elapsed time in seconds is shown. <b>f</b>, Static MinD localization at mid cell (band) and at both cell poles in <i>B. subtilis</i><sup><a href="#B25">25</a></sup>. <b>g</b>, A pair of cells with mid-cell FtsZ bands (GFP-labelled). A 3D reconstruction was obtained and the image was rotated through 60&#176; to reveal the ring-like nature of the bands. <b>h</b>, Three short cells, showing helical filaments of the cell shape protein, Mbl (Mbl&#150;GFP).</p><br><br><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F1.html">Full Figure and legend (55K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Although the existence of regulation by transcriptional attenuation highlights the need for a close interaction between the transcriptional and translational machineries, the current view of bacterial cell organization does not preclude such mechanisms, because coupling between transcription and translation could still occur at the interface between the inner and peripheral zones. Intriguingly, very recent results with eukaryotic cells have shown that a low level of translation can be detected within the nucleus<sup><a href="#B6">6</a></sup>, reinforcing the possibility of fundamental similarities between the two groups of organisms, despite their different membrane architectures.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">In the last decade or so, the notion of fixed sites for DNA replication, so-called 'replication factories', has emerged in studies of eukaryotic cells<sup><a href="#B7">7</a></sup>. This notion received a considerable boost when it was discovered that several different DNA replication proteins were localized in a single focus located at about the mid-cell in actively growing <i>Bacillus subtilis</i> cells<sup><a href="#B8">8</a></sup> (<a href="#f1">Fig. 1c</a>). These observations suggest not only that replication proteins are targeted to specific sites in the cell, but also that a single site is responsible for replication of both clockwise and anti-clockwise forks on the circular chromosome. This model could have important consequences, because it suggests that during replication, chromosomal DNA is fed through the fixed replication complex and that the daughter replicated duplexes are extruded<sup><a href="#B8">8, 
+</a></sup><sup><a href="#B9">9</a></sup>. If the daughter duplexes were channelled towards opposite cell poles, this could form the basis for a simple mechanism of chromosome segregation<sup><a href="#B9">9, 
+</a></sup><sup><a href="#B10">10</a></sup>. However, as discussed below, there are probably additional mechanisms involving dynamic proteins.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Dynamic movement of cell cycle proteins</b></span><br xmlns=""><span xmlns="" class="articletext">In eukaryotic cells, chromosome segregation is affected by motor proteins that actively move chromosomes via attachment sites (centromeres) on the microtubules of the mitotic spindle. The clear absence of the spindle in bacteria had long supported the idea that these cells use a fundamentally different segregation mechanism from that of eukaryotes. A widely prevailing model held that the <i>oriC</i> regions of sister chromosomes are gradually separated by attachment to sites on either side of the cell envelope growth zone<sup><a href="#B11">11</a></sup>. The first application of time-lapse imaging of protein localization in bacterial cells was with Spo0J, a protein that turned out to be associated with replication origin (<i>oriC</i>) regions of the chromosome<sup><a href="#B12">12</a></sup> (<a href="#f1">Fig. 1d</a>). These experiments revealed that newly replicated sister <i>oriC</i> regions move apart abruptly. Many other experiments visualizing <i>oriC</i> regions in various ways (originally by the elegant use of LacI&#150;GFP fusions bound to chromosomal <i>lacO</i> arrays<sup><a href="#B13">13</a></sup>), all support the notion that origin regions are actively positioned in the cell and that they are separated actively and early in the round of DNA replication<sup><a href="#B9">9, 
+</a></sup><sup><a href="#B14">14</a></sup>. Similar experiments have been performed for various plasmids of <i>Escherichia coli</i> and a number of distinct active positioning and segregation mechanisms have been identified<sup><a href="#B14">14</a></sup>. To date, however, the mechanisms responsible for origin and plasmid movement and positioning remain largely obscure, and this is an important area for future research.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Other bacterial cell cycle proteins undergo even more marked movements: the <i>E. coli</i> MinD protein actually oscillates from cell pole to cell pole on a time scale of seconds<sup><a href="#B15">15</a></sup> (<a href="#f1">Fig. 1e</a>). The division machinery seems to have an intrinsic ability to assemble and act not just at the correct mid-cell sites, but also incorrectly near the cell poles<sup><a href="#B16">16</a></sup>. The function of the Min system is to prevent incorrect assembly at the poles, which would produce aberrant anucleate 'minicells' (ref. <a href="#B17">17</a>). MinD carries with it an inhibitor of division (MinC), which prevents assembly of the FtsZ ring at each pole in an alternating manner. Recent work has begun to reveal the biochemical basis for MinD oscillation. The protein seems to assemble into ordered structures, possibly polymers, at the cell membrane, in a reaction mediated by the binding and hydrolysis of ATP<sup><a href="#B18">18</a></sup>. During oscillation, another mobile protein, MinE, forms a ring that sweeps across the cell, removing MinD from one pole and thereby driving its assembly at the opposite pole<sup><a href="#B19">19, 
+</a></sup><sup><a href="#B20">20, 
+</a></sup><sup><a href="#B21">21</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Several groups have developed mathematical models that can faithfully reproduce the oscillation and predict how effects such as mutations in key components will alter the behaviour of the system<sup><a href="#B22">22, 
+</a></sup><sup><a href="#B23">23, 
+</a></sup><sup><a href="#B24">24</a></sup>. Bacterial cells may offer an exciting playground for mathematical modellers in the next few years, offering advantages of simplicity of components together with a detailed level of biological understanding.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Although the oscillating system clearly serves the purpose of specifying the division site in <i>E. coli</i>, it is unclear why such an apparently extravagant oscillating mechanism has evolved in this organism. Another bacterium, <i>B. subtilis</i>, seems to achieve the same result by the apparently simpler strategy of fixing MinCD to both cell poles in a static manner, through association with a polar anchor protein DivIVA<sup><a href="#B25">25</a></sup> (<a href="#f1">Fig. 1f</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">MinD is certainly not the only bacterial protein that is capable of rapid relocation in the cell. Again in <i>B. subtilis</i>, the Soj protein, which is distantly related to MinD but is involved in chromosome segregation and transcriptional regulation, also undergoes dynamic, co-operative movement, though on a longer time scale of many minutes<sup><a href="#B26">26, 
+</a></sup><sup><a href="#B27">27</a></sup>. In <i>Caulobacter crescentus</i>, several protein kinases and their substrates involved in regulation of the cell cycle undergo marked changes in localization at specific points in cell cycle progression. In this case, various proteins alternate between a dispersed cytoplasmic distribution and a targeted localization at either both poles or at a specific single cell pole<sup><a href="#B28">28</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Cytoskeletal proteins in bacteria</b></span><br xmlns=""><span xmlns="" class="articletext">The discovery that the key player in bacterial cell division, FtsZ, forms a ring structure at the sites of incipient cell division (<a href="#f1">Fig. 1g</a>) was one of the most influential events in the history of bacterial cell biology<sup><a href="#B29">29</a></sup>. The field of bacterial cell division, in particular, was completely invigorated by evidence that a complex protein machine assembled at a particular sub-cellular location as part of this process. Systematic studies of the other eight or so proteins involved in bacterial cell division have subsequently revealed that they do indeed all assemble at the site of impending division, marked by the Z ring, and the hierarchy for this assembly has been elucidated<sup><a href="#B30">30, 
+</a></sup><sup><a href="#B31">31</a></sup>. The complex of division proteins then drives constriction of the various envelope layers of the cell, resulting in division and cell separation<sup><a href="#B31">31, 
+</a></sup><sup><a href="#B32">32</a></sup>. It had been known for several years that there was weak sequence similarity between FtsZ and eukaryotic tubulins. Furthermore, biochemical studies of FtsZ demonstrated tubulin-like, GTP-dependent polymerization <i>in vitro</i><sup><a href="#B33">33, 
+</a></sup><sup><a href="#B34">34</a></sup>. The crystal structure of FtsZ was then solved, revealing that it had the same fold as tubulin and confirming that it is a bacterial homologue of tubulin<sup><a href="#B35">35</a></sup>. Recently, the application of fluorescence recovery after photobleaching (FRAP) has led to a paradigm shift in our view of division machinery organization<sup><a href="#B36">36</a></sup>. These experiments showed that the FtsZ ring undergoes continuous turnover with a half time of approximately 30 s. This has important implications, because it means that our view of Z ring 'assembly' and its associated factors is a much more dynamic process than previously envisaged.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">In the last 18 months, compelling evidence has emerged for the existence of the other major player in the eukaryotic cytoskeleton, actin, in prokaryotes. Bacteria come in a wide range of shapes, of which the rods of <i>E. coli</i> and <i>B. subtilis</i> are well known. In most bacteria, the external cell wall of peptidoglycan is responsible for the shape of the cell<sup><a href="#B37">37</a></sup>. Treatments that remove the wall result in a loss of cell shape, with the 'default' round shape being assumed if osmotic lysis of the protoplast is prevented. Furthermore, isolated cell wall sacculi retain the shape of the cells from which they are obtained. Most mutations affecting cell shape also turned out to be in genes associated with cell wall synthesis. However, one cell shape gene, <i>mreB</i>, independently identified several decades ago in both <i>E. coli</i> and <i>B. subtilis</i>, seemed to encode a soluble protein with no obvious role in wall synthesis. It was pointed out that MreB proteins possess key residues that are diagnostic of proteins belonging to an actin superfamily<sup><a href="#B38">38</a></sup>. A functional equivalence to actin was established last year by the finding that two different <i>mreB</i> homologues in <i>B. subtilis</i> were not only involved in cell shape determination, but, more importantly, also formed helical filaments that run around the circumference of the rod-shaped cells <i>in vivo</i><sup><a href="#B39">39</a></sup> (<a href="#f1">Fig. 1h</a>). Again, the crystal structure of an MreB protein (from <i>Thermotoga maritma</i>) then provided final confirmation that MreB is homologous to actin<sup><a href="#B40">40</a></sup>. Thus, bacteria possess homologues of both major players of the eukaryotic cytoskeleton &#151; actin and tubulin &#151; and these molecules must now be viewed as having arisen early during the course of evolution, rather than being recent innovations of the eukaryotic lineage.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Very recently, another bacterial actin homologue has been shown to be involved in segregation of plasmid R1. The ParM protein forms filamentous structures <i>in vivo</i> that are required for plasmid segregation. <i>In vitro</i>, the protein was shown to have very similar properties to that of actin<sup><a href="#B41">41</a></sup> and again the protein has been shown to have structural congruence with actin<sup><a href="#B42">42</a></sup>. This raises the interesting possibility that bacterial actins may have a range of functions in addition to determination of cell shape.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Perspective</b></span><br xmlns=""><span xmlns="" class="articletext">To date, the discovery of dynamic protein movement in bacteria has been technically difficult because of limitations of resolution and sensitivity. It seems likely that many more examples of dynamic localization will emerge in the near future. The rather featureless electron microscopy images of bacterial cytoplasm that forged opinion about their functional organization for 40 years have been replaced by a rich new tapestry of diverse targeting patterns and dynamic movements. <a href="#f2">Figure 2</a> integrates knowledge of some of the better-characterized proteins in one organism (<i>B. subtilis</i>). However, many more proteins are being similarly studied in an increasingly wide range of organisms. Indeed, systematic studies of protein localization, taking advantage of complete genome sequences and powerful genetic systems, are now in progress. So far, the main impact of this new dimension of research has been focused on problems in the areas of cell cycle, cell morphogenesis and cell differentiation. There are hints that protein targeting, or at least the existence of preferred sub-cellular domains (for example, core versus peripheral domains), could be the norm for many, or even most, bacterial proteins. Furthermore, there are increasing examples of bacterial proteins that undergo dynamic changes in localization in accordance with their normal activity. The next few years are likely to see dramatic advances in our understanding of the biochemical basis for protein localization and dynamic behaviour, and the emergence of a more global and integrated view of bacterial sub-cellular organization.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f2"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html">Figure&nbsp;2.</a>&nbsp;Some patterns of protein targeting in a typical bacterial cell (<i>B. subtilis</i>).</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html"><img border="0" alt="Figure&nbsp;2 thumbnail" src="/ncb/journal/v5/n3/thumbs/ncb0303-175-f2.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Spatial separation of the nucleoid (chromosomal DNA) and RNA polymerase in the central core of the cell from ribosomes in the peripheral region. <b>b</b>, Organization of the chromosome, with replicated <i>oriC</i> regions oriented towards the cell poles, and the terminus (not shown) and replication machinery (replisome) localized near the mid cell. <b>c</b>, Locations of cytoskeletal elements involved in cell shape (the actin-like MreB protein) and the cell division proteins FtsZ, MinD and DivIVA.</p><br><br><a onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n3/fig_tab/ncb0303-175_F2.html">Full Figure and legend (109K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Shapiro, L. &amp; Losick, R. <i>Cell</i> <b>100</b>, 89&#150;98 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10647934&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000084722600008&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXks1Crsw%3D%3D&pissn=1465-7392&pyear=2003&md5=9ff8cdb99ba85ab1c2f496488b5f98c7" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Yanofsky, C. <i>J. Bacteriol</i> <b>182</b>, 1&#150;8 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10613855&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000084269400001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXotFyjtrk%3D&pissn=1465-7392&pyear=2003&md5=43a768bbad83bddaa6c7af62a92157b1" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Lewis, P.J., Thaker, S.D. &amp; Errington, J. <i>EMBO J.</i> <b>19</b>, 710&#150;718 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093%2Femboj%2F19.4.710" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10675340&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000085394900024&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXhsFKmsL4%3D&pissn=1465-7392&pyear=2003&md5=0615e6e12e0cb0744b7b8086fc0aa4cd" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Mascarenhas, J., Weber, M.H. &amp; Graumann, P.L. <i>EMBO Reports</i> <b>2</b>, 685&#150;689 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11463749&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170511800012&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmt1Oqs7c%3D&pissn=1465-7392&pyear=2003&md5=0717d07da121a825c5aa87e43e2f95aa" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Weber, M.H., Volkov, A.V., Fricke, I., Marahiel, M.A. &amp; Graumann, P.L. <i>J. Bacteriol.</i> <b>183</b>, 6435&#150;6443 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1128%2FJB.183.21.6435-6443.2001" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11591689&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000171577200033&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXnsl2gsrc%3D&pissn=1465-7392&pyear=2003&md5=3a84cd96fd7afe551eccdf07215f2a9d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Iborra, F.J., Jackson, D.A. &amp; Cook, P.R. <i>Science</i> <b>293</b>, 1139&#150;1142 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2FSCIENCE.1061216" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11423616&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170432600061&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmtVWqtrs%3D&pissn=1465-7392&pyear=2003&md5=4e39ac20b12d6cf1eae916a290b42364" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Hozak, P., Hassan, A.B., Jackson, D.A. &amp; Cook, P.R. <i>Cell</i> <b>73</b>, 361&#150;373 (1993).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8097433&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1993KY50500016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXisFWqurg%3D&pissn=1465-7392&pyear=2003&md5=bf5476fa988c909441a4b23b01487d07" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Lemon, K.P. &amp; Grossman, A.D. <i>Science</i> <b>282</b>, 1516&#150;1519 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.282.5393.1516" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9822387&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000077110800062&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXns12jtr8%3D&pissn=1465-7392&pyear=2003&md5=69dd0ea669dea9707a136ab492839bab" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Lemon, K.P. &amp; Grossman, A.D. <i>Genes Dev.</i> <b>15</b>, 2031&#150;2041 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1101%2Fgad.913301" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11511534&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170507300002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmt1ajs7o%3D&pissn=1465-7392&pyear=2003&md5=bed4991c85e940d190e32365e95c9314" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+Sawitzke, J. &amp; Austin, S. <i>Mol. Microbiol.</i> <b>40</b>, 786&#150;794 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1046%2Fj.1365-2958.2001.02350.x" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11401686&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000169226800002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXktFyis7Y%3D&pissn=1465-7392&pyear=2003&md5=08e9b0a3e2c81581ecc5c22a7811e742" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+Jacob, F., Brenner, S. &amp; Cuzin, F. <i>Cold Sring Harbor Symposia on Quantitative Biology</i> <b>28</b>, 329&#150;348 (1963).&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaF2cXktVKjsLs%3D&pissn=1465-7392&pyear=2003&md5=43fa5e2f8fec6157722344a4c42d203c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Glaser, P. <i>et al</i>. <i>Genes Dev.</i> <b>11</b>, 1160&#150;1168 (1997).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9159397&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997XA02900008&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXjtlaqsrk%3D&pissn=1465-7392&pyear=2003&md5=aabbd7c5e895cf41b085f3887f2a1fe0" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Webb, C.D. <i>et al</i>. <i>Cell</i> <b>88</b>, 667&#150;674 (1997).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0092-8674%2800%2981909-1" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9054506&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997WM41300012&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXhvVSitLo%3D&pissn=1465-7392&pyear=2003&md5=0c8f66fb7f3cfbc2da97caf6cb3313f7" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+Gordon, G.S. &amp; Wright, A. <i>Ann. Rev. Microbiol.</i> <b>54</b>, 681&#150;708 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1146%2Fannurev.micro.54.1.681" target="external">Article</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000165272300021&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXotFWrsLk%3D&pissn=1465-7392&pyear=2003&md5=7d5a8a8776669d773ac6615bd3d174ea" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Raskin, D.M. &amp; De Boer, P.A.J. <i>Proc. Natl Acad. Sci. USA</i> <b>96</b>, 4971&#150;4976 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.96.9.4971" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10220403&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXjtVKmsb0%3D&pissn=1465-7392&pyear=2003&md5=e4ea71835e73eea6f82800c8fc3594ac" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+de Boer, P.A.J., Crossley, R.E. &amp; Rothfield, L.I. <i>Cell</i> <b>56</b>, 641&#150;649 (1989).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2645057&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL1MXlsVOmt7s%3D&pissn=1465-7392&pyear=2003&md5=438f2b8dcbc83fae556785360003fd1f" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B17"></a>
+Margolin, W. <i>Curr. Opin. Microbiol.</i> <b>4</b>, 647&#150;652 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS1369-5274%2801%2900264-8" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11731315&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000172556400005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXos1Klsbk%3D&pissn=1465-7392&pyear=2003&md5=93e115dc9990c3b069e576ea090c6eb7" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B18"></a>
+Hu, Z. &amp; Lutkenhaus, J. <i>Mol. Cell</i> <b>7</b>, 1337&#150;1343 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS1097-2765%2801%2900273-8" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11430835&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000169547400020&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXkvVejsrw%3D&pissn=1465-7392&pyear=2003&md5=b0e0291e2c2062538685323b198f4eca" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B19"></a>
+Hale, C.A., Meinhardt, H. &amp; de Boer, P.A. <i>EMBO J.</i> <b>20</b>, 1563&#150;1572 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093%2Femboj%2F20.7.1563" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11285221&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000167981400009&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXivVCku7s%3D&pissn=1465-7392&pyear=2003&md5=300018a8abd82dcdaefec0e9debd670b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B20"></a>
+Hu, Z., Gogol, E.P. &amp; Lutkenhaus, J. <i>Proc. Natl Acad. Sci. USA</i> <b>99</b>, 6761&#150;6766 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.102059099" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11983867&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XjvFCrtrs%3D&pissn=1465-7392&pyear=2003&md5=fe156b089ebdf9d3e63e237a2ad03505" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B21"></a>
+Fu, X., Shih, Y.-L. &amp; Rothfield, L.I. <i>Proc. Natl Acad. Sci. USA</i> <b>98</b>, 980&#150;985 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.031549298" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11158581&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXht1Sms7g%3D&pissn=1465-7392&pyear=2003&md5=9d61428273babb7b6f55f30f2c30d90d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B22"></a>
+Meinhardt, H. &amp; de Boer, P.A. <i>Proc. Natl Acad. Sci. USA</i> <b>98</b>, 14202&#150;14207 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.251216598" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11734639&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXptFCmu7k%3D&pissn=1465-7392&pyear=2003&md5=0b77da39982bb85366b32482aef58edd" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B23"></a>
+Howard, M., Rutenberg, A.D. &amp; de Vet, S. <i>Phys. Rev. Lett.</i> <b>87</b>, 278102-1&#150;278102-4 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1103%2FPhysRevLett.87.278102" target="external">Article</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXptFWktb8%3D&pissn=1465-7392&pyear=2003&md5=6f54ed83277a4f6446bcb2fd59351f3a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B24"></a>
+Kruse, K. <i>Biophys J.</i> <b>82</b>, 618&#150;627 (2002).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11806906&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000173497600007&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XovVCiug%3D%3D&pissn=1465-7392&pyear=2003&md5=e8fae4ad1bbd0dfb9a8422f813781502" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B25"></a>
+Marston, A.L., Thomaides, H.B., Edwards, D.H., Sharpe, M.E. &amp; Errington, J. <i>Genes Dev.</i> <b>12</b>, 3419&#150;3430 (1998).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9808628&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000077006900012&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXns1aju7s%3D&pissn=1465-7392&pyear=2003&md5=51e173ffa8dc825e13fed07ea06bac6b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B26"></a>
+Marston, A.L. &amp; Errington, J. <i>Mol. Cell</i> <b>4</b>, 673&#150;682 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10619015&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000083885400002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXnslOju7o%3D&pissn=1465-7392&pyear=2003&md5=830d8e88f4fa7f1a241dd6d7846937d3" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B27"></a>
+Quisel, J.D., Lin, D.C.-H. &amp; Grossman, A.D. <i>Mol. Cell</i> <b>4</b>, 665&#150;672 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10619014&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000083885400001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXnslOju70%3D&pissn=1465-7392&pyear=2003&md5=2b0fded6dd1693319bcfd959e3618699" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B28"></a>
+Jensen, R.B., Wang, S.C. &amp; Shapiro, L. <i>Nature Rev. Mol. Cell Biol.</i> <b>3</b>, 167&#150;176 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnrm758" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11994737&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000174229800021&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XitFShsL8%3D&pissn=1465-7392&pyear=2003&md5=9234cb5012b68dafa6ab6250aa3ea3f1" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B29"></a>
+Bi, E. &amp; Lutkenhaus, J. <i>Nature</i> <b>354</b>, 161&#150;164 (1991).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F354161a0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1944597&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991GP88000064&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK38XlsFeltg%3D%3D&pissn=1465-7392&pyear=2003&md5=22a6504de90463eb83ef439ce64e3292" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B30"></a>
+Chen, J.C. &amp; Beckwith, J. <i>Mol. Microbiol.</i> <b>42</b>, 395&#150;413 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1046%2Fj.1365-2958.2001.02640.x" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11703663&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000172098700010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXotFWntLw%3D&pissn=1465-7392&pyear=2003&md5=2f7aa368d03442d5946910584cf09d7c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B31"></a>
+Errington, J. &amp; Daniel, R.A. in <i>Bacillus subtilis and its relatives: from genes to cells</i> (eds Sonenshein, L., Losick, R. &amp; Hoch, J.A.) 97&#150;109 (American Society for Microbiology, Washington, D.C., 2001).</li>
+<li><A name="B32"></a>
+Margolin, W. <i>FEMS Microbiol. Rev.</i> <b>24</b>, 531&#150;548 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0168-6445%2800%2900038-3" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10978550&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000089288700011&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXmt1Sjtrk%3D&pissn=1465-7392&pyear=2003&md5=e4b93fdead691395d94b221cf32a8d4e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B33"></a>
+Lutkenhaus, J. &amp; Addinall, S.G. <i>Ann. Rev. Biochem.</i> <b>66</b>, 93&#150;116 (1997).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1146%2Fannurev.biochem.66.1.93" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9242903&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997XH20100005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXktFOjurs%3D&pissn=1465-7392&pyear=2003&md5=fb72e79887fa0f00913a49a67e7a401a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B34"></a>
+Scheffers, D. &amp; Driessen, A.J. <i>FEBS Lett.</i> <b>506</b>, 6&#150;10 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0014-5793%2801%2902855-1" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11591361&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000171422700002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXnsVSmurY%3D&pissn=1465-7392&pyear=2003&md5=c1db2039a513c359690ed39eaccf49dc" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B35"></a>
+L&ouml;we, J. &amp; Amos, L.A. <i>Nature</i> <b>391</b>, 203&#150;206 (1998).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F34472" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9428770&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000071380900058&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXmt1KisA%3D%3D&pissn=1465-7392&pyear=2003&md5=db3f17f0039c79721c65785e586e6abc" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B36"></a>
+Stricker, J., Maddox, P., Salmon, E.D. &amp; Erickson, H.P. <i>Proc. Natl Acad. Sci. USA</i> <b>99</b>, 3171&#150;3175 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.052595099" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11854462&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38Xit1CqsL8%3D&pissn=1465-7392&pyear=2003&md5=001ebf76d7d6937d12ca5166ff21cf2b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B37"></a>
+Vollmer, W. &amp; H&ouml;ltje, J.-V. <i>Curr. Opin. Microbiol.</i> <b>4</b>, 626&#150;633 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS1369-5274%2801%2900261-2" target="external">Article</a>&nbsp;|</li>
+<li><A name="B38"></a>
+Bork, P., Sander, C. &amp; Valencia, A. <i>Proc. Natl Acad. Sci. USA</i> <b>89</b>, 7290&#150;7294 (1992).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1323828&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXlsFSjtw%3D%3D&pissn=1465-7392&pyear=2003&md5=bfea4ead4f88c81b5609c7b800f50d28" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B39"></a>
+Jones, L.J.F., Carballido-Lopez, R. &amp; Errington, J. <i>Cell</i> <b>104</b>, 913&#150;922 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11290328&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000167869200013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXisVyis7g%3D&pissn=1465-7392&pyear=2003&md5=10cdde0c25ea4e06c4f8be11262c28d1" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B40"></a>
+van den Ent, F., Amos, L.A. &amp; L&ouml;we, J. <i>Nature</i> <b>413</b>, 39&#150;44 (2001).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35092500" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11544518&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170801200031&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmvFSmu7w%3D&pissn=1465-7392&pyear=2003&md5=b10462373850e958ebb1c1a426ba1327" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B41"></a>
+M&oslash;ller-Jensen, J., Jensen, R.B., L&ouml;we, J. &amp; Gerdes, K. <i>EMBO J.</i> <b>21</b>, 3119&#150;3127 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093%2Femboj%2Fcdf320" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12065424&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=ERROR&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|</li>
+<li><A name="B42"></a>
+M&oslash;ller-Jensen, J., Gerdes, K. &amp; L&ouml;we, J. <i>EMBO J.</i> (2002).</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="Acknowledgments"></a><span xmlns="" class="heading3">Acknowledgments</span><br xmlns=""><span xmlns="" class="articletext">Work in the Errington lab is supported by grants and a Senior Research Fellowship (to J.E.) from the Biotechnology and Biological Sciences Research Council (BBSRC). I am indebted to many colleagues in the lab who have contributed to our bacterial cell imaging work over the last few years, especially to P.J. Lewis.</span><br xmlns=""><br xmlns=""></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/full/ncb0303-173.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/full/ncb0303-179.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n3/full/ncb0303-175.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n3/fig_tab/ncb0303-175_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Acknowledgments">Acknowledgments</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '495';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb0303-175&type=CY&src_title=Dynamic%20proteins%20and%20a%20cytoskeleton%20in%20bacteria&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=175-178&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_front;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="http://www.nature.com/copyright/copyright_uk.html" onClick="window.open('/copyright/copyright_uk.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003 Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

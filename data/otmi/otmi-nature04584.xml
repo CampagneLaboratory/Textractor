@@ -1,0 +1,846 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Evidence from fluid inclusions for microbial methanogenesis in the early Archaean era</title>
+      <id>info:doi/10.1038/nature04584</id>
+      <link href='http://dx.doi.org/10.1038/nature04584' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Yuichiro Ueno</name>
+      </author>
+      <author>
+        <name>Keita Yamada</name>
+      </author>
+      <author>
+        <name>Naohiro Yoshida</name>
+      </author>
+      <author>
+        <name>Shigenori Maruyama</name>
+      </author>
+      <author>
+        <name>Yukio Isozaki</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>516</prism:startingPage>
+      <prism:endingPage>519</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Methanogenic microbes may be one of the most primitive organisms , although it is uncertain when methanogens first appeared on Earth. During the Archaean era (before 2.5 Gyr ago), methanogens may have been important in regulating climate, because they could have provided sufficient amounts of the greenhouse gas methane to mitigate a severely frozen condition that could have resulted from lower solar luminosity during these times. Nevertheless, no direct geological evidence has hitherto been available in support of the existence of methanogens in the Archaean period, although circumstantial evidence is available in the form of 2.8-Gyr-old carbon-isotope-depleted kerogen . Here we report crushing extraction and carbon isotope analysis of methane-bearing fluid inclusions in 3.5-Gyr-old hydrothermal precipitates from Pilbara craton, Australia. Our results indicate that the extracted fluids contain microbial methane with carbon isotopic compositions of less than -56‰ included within original precipitates. This provides the oldest evidence of methanogen (&gt; 3.46 Gyr ago), pre-dating previous geochemical evidence by about 700 million years.</otmi:rawtext>
+            <otmi:reducedtext>Methanogenic microbes may one most primitive organisms , although uncertain when methanogens first appeared Earth. During Archaean era (before 2.5 Gyr ago), methanogens may have been important regulating climate, because they could have provided sufficient amounts greenhouse gas methane mitigate severely frozen condition could have resulted lower solar luminosity during these times. Nevertheless, no direct geological evidence has hitherto been available support existence methanogens Archaean period, although circumstantial evidence available form 2.8-Gyr-old carbon-isotope-depleted kerogen . Here report crushing extraction carbon isotope analysis methane-bearing fluid inclusions 3.5-Gyr-old hydrothermal precipitates Pilbara craton, Australia. Our results indicate extracted fluids contain microbial methane carbon isotopic compositions less than -56‰ included within original precipitates. provides oldest evidence methanogen (&gt; 3.46 Gyr ago), pre-dating previous geochemical evidence about 700 million years.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>evidence</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>methanogens</otmi:vector>
+              <otmi:vector count='2'>precipitates</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>ago</otmi:vector>
+              <otmi:vector count='2'>methane</otmi:vector>
+              <otmi:vector count='2'>Archaean</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>carbon</otmi:vector>
+              <otmi:vector count='2'>Gyr</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='1'>greenhouse</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>700</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>compositions</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>microbes</otmi:vector>
+              <otmi:vector count='1'>Earth</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>2.8-Gyr-old</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>circumstantial</otmi:vector>
+              <otmi:vector count='1'>craton</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>carbon-isotope-depleted</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>2.5</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>frozen</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>severely</otmi:vector>
+              <otmi:vector count='1'>kerogen</otmi:vector>
+              <otmi:vector count='1'>extraction</otmi:vector>
+              <otmi:vector count='1'>geological</otmi:vector>
+              <otmi:vector count='1'>methanogen</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>Methanogenic</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>hitherto</otmi:vector>
+              <otmi:vector count='1'>amounts</otmi:vector>
+              <otmi:vector count='1'>luminosity</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>geochemical</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>Pilbara</otmi:vector>
+              <otmi:vector count='1'>3.5-Gyr-old</otmi:vector>
+              <otmi:vector count='1'>era</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>pre-dating</otmi:vector>
+              <otmi:vector count='1'>mitigate</otmi:vector>
+              <otmi:vector count='1'>uncertain</otmi:vector>
+              <otmi:vector count='1'>Nevertheless</otmi:vector>
+              <otmi:vector count='1'>3.46</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>gas</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>oldest</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>isotope</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>primitive</otmi:vector>
+              <otmi:vector count='1'>fluids</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>condition</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>organisms</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>microbial</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>methane-bearing</otmi:vector>
+              <otmi:vector count='1'>years.</otmi:vector>
+              <otmi:vector count='1'>isotopic</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>appeared</otmi:vector>
+              <otmi:vector count='1'>million</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>fluid</otmi:vector>
+              <otmi:vector count='1'>included</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>solar</otmi:vector>
+              <otmi:vector count='1'>56</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>hydrothermal</otmi:vector>
+              <otmi:vector count='1'>inclusions</otmi:vector>
+              <otmi:vector count='1'>resulted</otmi:vector>
+              <otmi:vector count='1'>crushing</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>During the Archaean era (before 2.5 Gyr ago), methanogens may have been important in regulating climate, because they could have provided sufficient amounts of the greenhouse gas methane to mitigate a severely frozen condition that could have resulted from lower solar luminosity during these times</otmi:snippet>
+              <otmi:snippet>Here we report crushing extraction and carbon isotope analysis of methane-bearing fluid inclusions in 3.5-Gyr-old hydrothermal precipitates from Pilbara craton, Australia</otmi:snippet>
+              <otmi:snippet>Methanogenic microbes may be one of the most primitive organisms , although it is uncertain when methanogens first appeared on Earth</otmi:snippet>
+              <otmi:snippet>Nevertheless, no direct geological evidence has hitherto been available in support of the existence of methanogens in the Archaean period, although circumstantial evidence is available in the form of 2.8-Gyr-old carbon-isotope-depleted kerogen </otmi:snippet>
+              <otmi:snippet>Our results indicate that the extracted fluids contain microbial methane with carbon isotopic compositions of less than -56‰ included within original precipitates</otmi:snippet>
+              <otmi:snippet>This provides the oldest evidence of methanogen (&gt; 3.46 Gyr ago), pre-dating previous geochemical evidence by about 700 million years.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='35'>4</otmi:vector>
+              <otmi:vector count='33'>CH</otmi:vector>
+              <otmi:vector count='26'>2</otmi:vector>
+              <otmi:vector count='26'>C</otmi:vector>
+              <otmi:vector count='24'>13</otmi:vector>
+              <otmi:vector count='21'>Fig</otmi:vector>
+              <otmi:vector count='18'>inclusions</otmi:vector>
+              <otmi:vector count='17'>silica</otmi:vector>
+              <otmi:vector count='16'>dykes</otmi:vector>
+              <otmi:vector count='16'>than</otmi:vector>
+              <otmi:vector count='14'>quartz</otmi:vector>
+              <otmi:vector count='14'>primary</otmi:vector>
+              <otmi:vector count='14'>which</otmi:vector>
+              <otmi:vector count='13'>CO</otmi:vector>
+              <otmi:vector count='12'>more</otmi:vector>
+              <otmi:vector count='12'>origin</otmi:vector>
+              <otmi:vector count='12'>secondary</otmi:vector>
+              <otmi:vector count='12'>have</otmi:vector>
+              <otmi:vector count='11'>methane</otmi:vector>
+              <otmi:vector count='11'>component</otmi:vector>
+              <otmi:vector count='11'>Supplementary</otmi:vector>
+              <otmi:vector count='10'>also</otmi:vector>
+              <otmi:vector count='10'>thermogenic</otmi:vector>
+              <otmi:vector count='9'>microbial</otmi:vector>
+              <otmi:vector count='9'>isotopic</otmi:vector>
+              <otmi:vector count='8'>their</otmi:vector>
+              <otmi:vector count='8'>extracted</otmi:vector>
+              <otmi:vector count='8'>into</otmi:vector>
+              <otmi:vector count='8'>therefore</otmi:vector>
+              <otmi:vector count='7'>produced</otmi:vector>
+              <otmi:vector count='7'>can</otmi:vector>
+              <otmi:vector count='7'>fluid</otmi:vector>
+              <otmi:vector count='7'>unit</otmi:vector>
+              <otmi:vector count='7'>similar</otmi:vector>
+              <otmi:vector count='7'>host</otmi:vector>
+              <otmi:vector count='7'>those</otmi:vector>
+              <otmi:vector count='7'>growth</otmi:vector>
+              <otmi:vector count='6'>been</otmi:vector>
+              <otmi:vector count='6'>might</otmi:vector>
+              <otmi:vector count='6'>contain</otmi:vector>
+              <otmi:vector count='6'>II</otmi:vector>
+              <otmi:vector count='6'>chert–barite</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='6'>kerogen</otmi:vector>
+              <otmi:vector count='6'>m</otmi:vector>
+              <otmi:vector count='6'>see</otmi:vector>
+              <otmi:vector count='6'>has</otmi:vector>
+              <otmi:vector count='6'>samples</otmi:vector>
+              <otmi:vector count='6'>type</otmi:vector>
+              <otmi:vector count='6'>during</otmi:vector>
+              <otmi:vector count='5'>These</otmi:vector>
+              <otmi:vector count='5'>dyke</otmi:vector>
+              <otmi:vector count='5'>hydrothermal</otmi:vector>
+              <otmi:vector count='5'>I</otmi:vector>
+              <otmi:vector count='5'>less</otmi:vector>
+              <otmi:vector count='5'>2b</otmi:vector>
+              <otmi:vector count='5'>observed</otmi:vector>
+              <otmi:vector count='5'>acetate</otmi:vector>
+              <otmi:vector count='5'>values</otmi:vector>
+              <otmi:vector count='4'>C-enriched</otmi:vector>
+              <otmi:vector count='4'>results</otmi:vector>
+              <otmi:vector count='4'>organic</otmi:vector>
+              <otmi:vector count='4'>whereas</otmi:vector>
+              <otmi:vector count='4'>often</otmi:vector>
+              <otmi:vector count='4'>56</otmi:vector>
+              <otmi:vector count='4'>Dresser</otmi:vector>
+              <otmi:vector count='4'>should</otmi:vector>
+              <otmi:vector count='4'>age</otmi:vector>
+              <otmi:vector count='4'>III</otmi:vector>
+              <otmi:vector count='4'>composition</otmi:vector>
+              <otmi:vector count='4'>along</otmi:vector>
+              <otmi:vector count='4'>microbes</otmi:vector>
+              <otmi:vector count='4'>lack</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>would</otmi:vector>
+              <otmi:vector count='4'>decomposition</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>35</otmi:vector>
+              <otmi:vector count='4'>fluids</otmi:vector>
+              <otmi:vector count='4'>fractionation</otmi:vector>
+              <otmi:vector count='4'>methanogens</otmi:vector>
+              <otmi:vector count='4'>reactions</otmi:vector>
+              <otmi:vector count='4'>matter</otmi:vector>
+              <otmi:vector count='4'>entrapped</otmi:vector>
+              <otmi:vector count='4'>beds</otmi:vector>
+              <otmi:vector count='4'>chert</otmi:vector>
+              <otmi:vector count='4'>Formation</otmi:vector>
+              <otmi:vector count='4'>C-depleted</otmi:vector>
+              <otmi:vector count='4'>Type</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='3'>diameter</otmi:vector>
+              <otmi:vector count='3'>abiotic</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>Myr</otmi:vector>
+              <otmi:vector count='3'>precipitation</otmi:vector>
+              <otmi:vector count='3'>ref</otmi:vector>
+              <otmi:vector count='3'>area</otmi:vector>
+              <otmi:vector count='3'>mineral</otmi:vector>
+              <otmi:vector count='3'>Some</otmi:vector>
+              <otmi:vector count='3'>formation</otmi:vector>
+              <otmi:vector count='3'>our</otmi:vector>
+              <otmi:vector count='3'>refs</otmi:vector>
+              <otmi:vector count='3'>generally</otmi:vector>
+              <otmi:vector count='3'>exhibit</otmi:vector>
+              <otmi:vector count='3'>H</otmi:vector>
+              <otmi:vector count='3'>emitted</otmi:vector>
+              <otmi:vector count='3'>veins</otmi:vector>
+              <otmi:vector count='3'>may</otmi:vector>
+              <otmi:vector count='3'>below</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>thermal</otmi:vector>
+              <otmi:vector count='3'>FTT</otmi:vector>
+              <otmi:vector count='3'>value</otmi:vector>
+              <otmi:vector count='3'>study</otmi:vector>
+              <otmi:vector count='3'>indicate</otmi:vector>
+              <otmi:vector count='3'>2c</otmi:vector>
+              <otmi:vector count='3'>higher</otmi:vector>
+              <otmi:vector count='3'>gas</otmi:vector>
+              <otmi:vector count='3'>although</otmi:vector>
+              <otmi:vector count='3'>cannot</otmi:vector>
+              <otmi:vector count='3'>They</otmi:vector>
+              <otmi:vector count='3'>methanogenic</otmi:vector>
+              <otmi:vector count='3'>Methods</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>20</otmi:vector>
+              <otmi:vector count='2'>Archaea</otmi:vector>
+              <otmi:vector count='2'>distinctively</otmi:vector>
+              <otmi:vector count='2'>shows</otmi:vector>
+              <otmi:vector count='2'>fractionations</otmi:vector>
+              <otmi:vector count='2'>fermentation</otmi:vector>
+              <otmi:vector count='2'>potential</otmi:vector>
+              <otmi:vector count='2'>smaller</otmi:vector>
+              <otmi:vector count='2'>non-biological</otmi:vector>
+              <otmi:vector count='2'>ago</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>completely</otmi:vector>
+              <otmi:vector count='2'>mainly</otmi:vector>
+              <otmi:vector count='2'>occur</otmi:vector>
+              <otmi:vector count='2'>formed</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>kerogens</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>pillowed</otmi:vector>
+              <otmi:vector count='2'>10</otmi:vector>
+              <otmi:vector count='2'>modal</otmi:vector>
+              <otmi:vector count='2'>Gyr</otmi:vector>
+              <otmi:vector count='2'>previous</otmi:vector>
+              <otmi:vector count='2'>hydrocarbons</otmi:vector>
+              <otmi:vector count='2'>occurrence</otmi:vector>
+              <otmi:vector count='2'>contrast</otmi:vector>
+              <otmi:vector count='2'>controversial</otmi:vector>
+              <otmi:vector count='2'>contains</otmi:vector>
+              <otmi:vector count='2'>inclusion</otmi:vector>
+              <otmi:vector count='2'>Pole</otmi:vector>
+              <otmi:vector count='2'>rocks</otmi:vector>
+              <otmi:vector count='2'>18</otmi:vector>
+              <otmi:vector count='2'>patterns</otmi:vector>
+              <otmi:vector count='2'>considered</otmi:vector>
+              <otmi:vector count='2'>organisms</otmi:vector>
+              <otmi:vector count='2'>produce</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>19</otmi:vector>
+              <otmi:vector count='2'>large</otmi:vector>
+              <otmi:vector count='2'>crushing</otmi:vector>
+              <otmi:vector count='2'>reduction</otmi:vector>
+              <otmi:vector count='2'>methanogenesis</otmi:vector>
+              <otmi:vector count='2'>length</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>comparable</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>introduced</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>coexisting</otmi:vector>
+              <otmi:vector count='2'>intruded</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>depositional</otmi:vector>
+              <otmi:vector count='2'>basaltic</otmi:vector>
+              <otmi:vector count='2'>3.46</otmi:vector>
+              <otmi:vector count='2'>basis</otmi:vector>
+              <otmi:vector count='2'>oldest</otmi:vector>
+              <otmi:vector count='2'>adjacent</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>amount</otmi:vector>
+              <otmi:vector count='2'>North</otmi:vector>
+              <otmi:vector count='2'>surrounding</otmi:vector>
+              <otmi:vector count='2'>within</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>textures</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>greenstones</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>source</otmi:vector>
+              <otmi:vector count='2'>compositions</otmi:vector>
+              <otmi:vector count='2'>comparison</otmi:vector>
+              <otmi:vector count='2'>rich</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>range</otmi:vector>
+              <otmi:vector count='2'>came</otmi:vector>
+              <otmi:vector count='2'>grown</otmi:vector>
+              <otmi:vector count='2'>antiquity</otmi:vector>
+              <otmi:vector count='2'>gases</otmi:vector>
+              <otmi:vector count='2'>mode</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>2a</otmi:vector>
+              <otmi:vector count='2'>disregarded</otmi:vector>
+              <otmi:vector count='2'>0</otmi:vector>
+              <otmi:vector count='1'>metamorphism</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>sample</otmi:vector>
+              <otmi:vector count='1'>Euryarchaeota</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>uniformly</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>3.46-Gyr-old</otmi:vector>
+              <otmi:vector count='1'>seafloor</otmi:vector>
+              <otmi:vector count='1'>temperatures</otmi:vector>
+              <otmi:vector count='1'>systematic</otmi:vector>
+              <otmi:vector count='1'>approximation</otmi:vector>
+              <otmi:vector count='1'>variations</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>mineralization</otmi:vector>
+              <otmi:vector count='1'>selections</otmi:vector>
+              <otmi:vector count='1'>crystals</otmi:vector>
+              <otmi:vector count='1'>700</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>vacuum</otmi:vector>
+              <otmi:vector count='1'>centre</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>S2g</otmi:vector>
+              <otmi:vector count='1'>classified</otmi:vector>
+              <otmi:vector count='1'>attributed</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>upper</otmi:vector>
+              <otmi:vector count='1'>9</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>petrographically</otmi:vector>
+              <otmi:vector count='1'>consists</otmi:vector>
+              <otmi:vector count='1'>S2e</otmi:vector>
+              <otmi:vector count='1'>preferred</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>agate</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>sulphate-reducing</otmi:vector>
+              <otmi:vector count='1'>Individual</otmi:vector>
+              <otmi:vector count='1'>empirical</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>directions</otmi:vector>
+              <otmi:vector count='1'>barite</otmi:vector>
+              <otmi:vector count='1'>0.3–20</otmi:vector>
+              <otmi:vector count='1'>correspond</otmi:vector>
+              <otmi:vector count='1'>overlie</otmi:vector>
+              <otmi:vector count='1'>orientation</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>pyrites</otmi:vector>
+              <otmi:vector count='1'>bed</otmi:vector>
+              <otmi:vector count='1'>fractions</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>Fe–Ni-alloy-catalysed</otmi:vector>
+              <otmi:vector count='1'>deduced</otmi:vector>
+              <otmi:vector count='1'>facies</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>alloys</otmi:vector>
+              <otmi:vector count='1'>Archeal</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>cluster</otmi:vector>
+              <otmi:vector count='1'>distinguished</otmi:vector>
+              <otmi:vector count='1'>S2a–d</otmi:vector>
+              <otmi:vector count='1'>consist</otmi:vector>
+              <otmi:vector count='1'>3,490</otmi:vector>
+              <otmi:vector count='1'>microfossils</otmi:vector>
+              <otmi:vector count='1'>Notes</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>exhibited</otmi:vector>
+              <otmi:vector count='1'>detection</otmi:vector>
+              <otmi:vector count='1'>geochemical</otmi:vector>
+              <otmi:vector count='1'>similarity</otmi:vector>
+              <otmi:vector count='1'>spectroscopy</otmi:vector>
+              <otmi:vector count='1'>volcanics</otmi:vector>
+              <otmi:vector count='1'>distinct</otmi:vector>
+              <otmi:vector count='1'>fan-shape</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>Archaean</otmi:vector>
+              <otmi:vector count='1'>occasionally</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>texture</otmi:vector>
+              <otmi:vector count='1'>universal</otmi:vector>
+              <otmi:vector count='1'>1–15</otmi:vector>
+              <otmi:vector count='1'>adequate</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>ridges</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>zircon</otmi:vector>
+              <otmi:vector count='1'>axis</otmi:vector>
+              <otmi:vector count='1'>Thermogenic</otmi:vector>
+              <otmi:vector count='1'>characteristically</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>felsic</otmi:vector>
+              <otmi:vector count='1'>exhibits</otmi:vector>
+              <otmi:vector count='1'>crosscuts</otmi:vector>
+              <otmi:vector count='1'>sedimented</otmi:vector>
+              <otmi:vector count='1'>Previous</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>references</otmi:vector>
+              <otmi:vector count='1'>presumably</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>coarse-grained</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>views</otmi:vector>
+              <otmi:vector count='1'>Raman</otmi:vector>
+              <otmi:vector count='1'>clusters</otmi:vector>
+              <otmi:vector count='1'>basalt</otmi:vector>
+              <otmi:vector count='1'>7–22</otmi:vector>
+              <otmi:vector count='1'>composed</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>lowermost</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>pattern</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>existed</otmi:vector>
+              <otmi:vector count='1'>21</otmi:vector>
+              <otmi:vector count='1'>craton</otmi:vector>
+              <otmi:vector count='1'>chemoautotrophic</otmi:vector>
+              <otmi:vector count='1'>Fischer–Tropsch-type</otmi:vector>
+              <otmi:vector count='1'>1d</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>evaluated</otmi:vector>
+              <otmi:vector count='1'>overlying</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>1e</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>N</otmi:vector>
+              <otmi:vector count='1'>monitored</otmi:vector>
+              <otmi:vector count='1'>intercalated</otmi:vector>
+              <otmi:vector count='1'>vents</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>stated</otmi:vector>
+              <otmi:vector count='1'>catalysts</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>O</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>crystal</otmi:vector>
+              <otmi:vector count='1'>tree</otmi:vector>
+              <otmi:vector count='1'>assumed</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>26</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>gradual</otmi:vector>
+              <otmi:vector count='1'>assemblages</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>isotope</otmi:vector>
+              <otmi:vector count='1'>crust</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>2,000</otmi:vector>
+              <otmi:vector count='1'>Additional</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>U–Pb</otmi:vector>
+              <otmi:vector count='1'>vary</otmi:vector>
+              <otmi:vector count='1'>kerogen–CH</otmi:vector>
+              <otmi:vector count='1'>ethane</otmi:vector>
+              <otmi:vector count='1'>propane</otmi:vector>
+              <otmi:vector count='1'>Instead</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>present-day</otmi:vector>
+              <otmi:vector count='1'>duplicated</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>Geological</otmi:vector>
+              <otmi:vector count='1'>greenschist</otmi:vector>
+              <otmi:vector count='1'>putative</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>(C</otmi:vector>
+              <otmi:vector count='1'>constrained</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>high-temperature</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>consider</otmi:vector>
+              <otmi:vector count='1'>compounds</otmi:vector>
+              <otmi:vector count='1'>sulphides</otmi:vector>
+              <otmi:vector count='1'>walls</otmi:vector>
+              <otmi:vector count='1'>ribosomal</otmi:vector>
+              <otmi:vector count='1'>transition</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>Bacteria</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>Methanogenesis</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>Pilbara</otmi:vector>
+              <otmi:vector count='1'>Tables</otmi:vector>
+              <otmi:vector count='1'>wide</otmi:vector>
+              <otmi:vector count='1'>volatiles</otmi:vector>
+              <otmi:vector count='1'>matured</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>intermittently</otmi:vector>
+              <otmi:vector count='1'>origins</otmi:vector>
+              <otmi:vector count='1'>regard</otmi:vector>
+              <otmi:vector count='1'>intrusive</otmi:vector>
+              <otmi:vector count='1'>5–20</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>0.9</otmi:vector>
+              <otmi:vector count='1'>dense</otmi:vector>
+              <otmi:vector count='1'>silica-dominated</otmi:vector>
+              <otmi:vector count='1'>crystallization</otmi:vector>
+              <otmi:vector count='1'>domain</otmi:vector>
+              <otmi:vector count='1'>km</otmi:vector>
+              <otmi:vector count='1'>low-grade</otmi:vector>
+              <otmi:vector count='1'>cut</otmi:vector>
+              <otmi:vector count='1'>plane</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>decomposing</otmi:vector>
+              <otmi:vector count='1'>display</otmi:vector>
+              <otmi:vector count='1'>detectable</otmi:vector>
+              <otmi:vector count='1'>c</otmi:vector>
+              <otmi:vector count='1'>laser</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>comparisons</otmi:vector>
+              <otmi:vector count='1'>yields</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>Fe–Ni</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>galena</otmi:vector>
+              <otmi:vector count='1'>mixture</otmi:vector>
+              <otmi:vector count='1'>S-depleted</otmi:vector>
+              <otmi:vector count='1'>T-junction</otmi:vector>
+              <otmi:vector count='1'>explicitly</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>f</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>formulated</otmi:vector>
+              <otmi:vector count='1'>g</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>life</otmi:vector>
+              <otmi:vector count='1'>52</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>relationships</otmi:vector>
+              <otmi:vector count='1'>hyperthermophilic</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>vent</otmi:vector>
+              <otmi:vector count='1'>)&lt;0.01</otmi:vector>
+              <otmi:vector count='1'>extant</otmi:vector>
+              <otmi:vector count='1'>longest</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>branched</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>pre-dates</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>sealed</otmi:vector>
+              <otmi:vector count='1'>pillow</otmi:vector>
+              <otmi:vector count='1'>O–CO</otmi:vector>
+              <otmi:vector count='1'>ratios</otmi:vector>
+              <otmi:vector count='1'>substrate</otmi:vector>
+              <otmi:vector count='1'>obtained</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>therein</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>low-temperature</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>deposition</otmi:vector>
+              <otmi:vector count='1'>revealed</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>oceanic</otmi:vector>
+              <otmi:vector count='1'>inhabited</otmi:vector>
+              <otmi:vector count='1'>forming</otmi:vector>
+              <otmi:vector count='1'>shapes</otmi:vector>
+              <otmi:vector count='1'>minor</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>domains</otmi:vector>
+              <otmi:vector count='1'>correlation</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>irregular</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>merely</otmi:vector>
+              <otmi:vector count='1'>inconsistent</otmi:vector>
+              <otmi:vector count='1'>crack</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>extraction</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>30–70</otmi:vector>
+              <otmi:vector count='1'>signatures</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>200</otmi:vector>
+              <otmi:vector count='1'>Last</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>Alternatively</otmi:vector>
+              <otmi:vector count='1'>Artificially</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>metabolic</otmi:vector>
+              <otmi:vector count='1'>undergone</otmi:vector>
+              <otmi:vector count='1'>symmetrical</otmi:vector>
+              <otmi:vector count='1'>branch</otmi:vector>
+              <otmi:vector count='1'>pore</otmi:vector>
+              <otmi:vector count='1'>coarser-grained</otmi:vector>
+              <otmi:vector count='1'>mm</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>S1</otmi:vector>
+              <otmi:vector count='1'>3,458</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>actual</otmi:vector>
+              <otmi:vector count='1'>S2</otmi:vector>
+              <otmi:vector count='1'>trend</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>Western</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>36</otmi:vector>
+              <otmi:vector count='1'>inorganic</otmi:vector>
+              <otmi:vector count='1'>S3</otmi:vector>
+              <otmi:vector count='1'>categorized</otmi:vector>
+              <otmi:vector count='1'>scattered</otmi:vector>
+              <otmi:vector count='1'>ruled</otmi:vector>
+              <otmi:vector count='1'>faces</otmi:vector>
+              <otmi:vector count='1'>oriented</otmi:vector>
+              <otmi:vector count='1'>34</otmi:vector>
+              <otmi:vector count='1'>methanogen</otmi:vector>
+              <otmi:vector count='1'>contemporaneously</otmi:vector>
+              <otmi:vector count='1'>zones</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>prevailing</otmi:vector>
+              <otmi:vector count='1'>crack-seal</otmi:vector>
+              <otmi:vector count='1'>Earth</otmi:vector>
+              <otmi:vector count='1'>limit</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>culture</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>80</otmi:vector>
+              <otmi:vector count='1'>hanging</otmi:vector>
+              <otmi:vector count='1'>fine-grained</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A model lead age of 3,490 Myr was obtained for galena from the chert–barite unit</otmi:snippet>
+              <otmi:snippet>Additional samples also came from quartz veins, which are distinguished from the silica dykes by their lack of kerogen and the coarser-grained nature of the quartz</otmi:snippet>
+              <otmi:snippet>After precipitation of the host quartz, thermogenic CH 4 from thermal decomposition of the surrounding organic matter might also have been introduced into the dykes</otmi:snippet>
+              <otmi:snippet>All of our quartz samples contain H 2 O–CO 2 fluid inclusions ( Fig. 1e and Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Alternatively, the thermogenic origin of the primary component should also be considered because the silica dykes contain kerogen </otmi:snippet>
+              <otmi:snippet>Although the fractionation might be smaller under high-temperature hydrothermal conditions, the large fractionation of more than 50‰ has also been observed for hyperthermophilic methanogens grown above 80 °C (ref. 20 )</otmi:snippet>
+              <otmi:snippet>Artificially produced CH 4 during crushing was monitored before extraction, and could be ruled out as a source of methane</otmi:snippet>
+              <otmi:snippet>For the analyses of fluid inclusions we used coarse-grained quartz (more than 1 mm), which shows the same growth directions as those of host silica dykes (see Supplementary Methods for sample selections)</otmi:snippet>
+              <otmi:snippet>Furthermore, our results demonstrate the antiquity of the Archeal domain in the universal tree of life, which is formulated by a comparison of ribosomal RNA sequences of extant organisms ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Geological CH 4 has generally been categorized into three groups: microbial (emitted by the metabolic activities of methanogenic microbes), thermogenic (generated by the thermal decomposition of organic matter) and abiotic (produced by non-biological reactions from simple inorganic compounds such as CO 2 and H 2 )</otmi:snippet>
+              <otmi:snippet>However, if this is so, the δ 13 C CH 4 value should be close to those of source kerogens and should therefore be much higher than -56‰ ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>However, the lack of higher hydrocarbons (C 2+ ) in the primary component is inconsistent with its thermogenic origin ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>If it is assumed that the potential substrate acetate had a δ 13 C value similar to that of kerogen in the silica dyke ( - 35‰) , the acetate fermentation process can also explain the observed fractionation of the primary component (Δ 13 C kerogen–CH 4 &gt; 21‰)</otmi:snippet>
+              <otmi:snippet>If the methane is thermogenic in origin, extracted gas should contain C 2+ along with methane, because thermal decomposition of organic matter yields not only methane but also C 2+ </otmi:snippet>
+              <otmi:snippet>In contrast, the CH 4 in the secondary component has a more 13 C-enriched isotopic composition ( - 35‰), which is similar to those of kerogens in silica dykes ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>In contrast, type II inclusions are distributed in the plane of a secondary sealed crack, which often crosscuts more than two quartz crystals ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>In the North Pole area these rocks have merely undergone low-grade metamorphism below the greenschist facies </otmi:snippet>
+              <otmi:snippet>In the study area, more than 2,000 silica dykes characteristically intruded into the pillowed basaltic greenstones below the chert–barite unit ( Fig. 1 and Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Indeed, abiotic methane is emitted from various present-day seafloor hydrothermal vents and has a highly 13 C-enriched isotopic composition (δ 13 C CH 4 = -26 to -9‰), which is distinctively higher than those of our extracted fluids ( Fig. 2c )</otmi:snippet>
+              <otmi:snippet>Individual type I inclusions are 1–15 µm in diameter and are often oriented in the growth direction of host quartz</otmi:snippet>
+              <otmi:snippet>Instead, the isotopic composition of the primary component is rather similar to those of the pore fluids in the upper part of the oceanic crust inhabited by methanogens, whereas the secondary component is similar to vent gases emitted from sedimented ridges, which are considered to be thermogenic gases ( Fig. 2c )</otmi:snippet>
+              <otmi:snippet>Last, we must consider the possibility that non-biological processes such as Fischer–Tropsch-type (FTT) reactions might have produced the methane</otmi:snippet>
+              <otmi:snippet>Methanogenesis occurs only in the Euryarchaeota, a branch of the Archaea</otmi:snippet>
+              <otmi:snippet>Moreover, Fe–Ni alloys and other catalysts for FTT reactions would not have existed in the surrounding rocks at temperatures prevailing during silica precipitation </otmi:snippet>
+              <otmi:snippet>On the basis of previous culture experiments, it can be stated that CO 2 reduction by methanogenic microbes causes distinctively large fractionations (Δ 13 C CO 2 - CH 4 = 30–70‰) ( Fig. 2b ; see ref. 20 and references therein)</otmi:snippet>
+              <otmi:snippet>Previous experimental work has indicated that Fe–Ni-alloy-catalysed FTT reactions in hydrothermal systems can produce methane with isotopic compositions similar to those observed in this study , but these results have not been duplicated </otmi:snippet>
+              <otmi:snippet>S1 )</otmi:snippet>
+              <otmi:snippet>S2 )</otmi:snippet>
+              <otmi:snippet>S2a–d )</otmi:snippet>
+              <otmi:snippet>S2e, f )</otmi:snippet>
+              <otmi:snippet>S2g, h )</otmi:snippet>
+              <otmi:snippet>S3 )</otmi:snippet>
+              <otmi:snippet>Some methanogens can also produce CH 4 by decomposing acetate, which results in fractionations of 7–22‰ between the acetate and CH 4 (ref. 20 )</otmi:snippet>
+              <otmi:snippet>Some silica dykes exhibit a symmetrical growth pattern along the dyke axis and occasionally have an agate, in which the silica shows fan-shape structure, grown from the hanging walls towards the centre of the dyke ( Fig. 1b , c )</otmi:snippet>
+              <otmi:snippet>Some silica dykes intruded into the chert beds of the chert–barite unit, but the dykes did not cut through the entire chert–barite unit, nor into the overlying pillow basalt</otmi:snippet>
+              <otmi:snippet>The CH 4 in the primary component is significantly 13 C-depleted relative to the coexisting CO 2 (Δ 13 C CO 2 - CH 4 &gt; 52‰), which is comparable to that exhibited by microbial methanogenesis ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>The Dresser Formation consists of pillowed basaltic greenstones and chert beds</otmi:snippet>
+              <otmi:snippet>The abiotic origin of the extracted CH 4 is therefore controversial</otmi:snippet>
+              <otmi:snippet>The antiquity of methanogen supports the hypothesis that microbial CH 4 would have had an important role in regulating the climate on the Archaean Earth .</otmi:snippet>
+              <otmi:snippet>The dykes are composed mainly of fine-grained silica (less than 10 µm) with a smaller amount of sulphides and organic matter (kerogen) </otmi:snippet>
+              <otmi:snippet>The fluid inclusion volatiles were extracted from about 1 g of quartz samples by vacuum crushing ( Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>The fluid inclusions are petrographically classified into types I, II and III on the basis of their distinct mode of occurrence</otmi:snippet>
+              <otmi:snippet>The isotopic variations of the extracted CH 4 and CO 2 can therefore be explained by the mixing of two components: one is primary (that is, entrapped during mineral growth) and the other is secondary (that is, introduced after mineralization)</otmi:snippet>
+              <otmi:snippet>The lack of C 2+ might result from the decomposition of hydrocarbons into methane</otmi:snippet>
+              <otmi:snippet>The laser Raman spectroscopy of individual fluid inclusions revealed that these fluids consist mainly of H 2 O and CO 2 with a minor but detectable amount of CH 4 (see Supplementary Notes )</otmi:snippet>
+              <otmi:snippet>The lowermost chert unit of the formation is intercalated with several barite beds </otmi:snippet>
+              <otmi:snippet>The methane in the primary component is therefore comparable to that produced by methanogenic microbes both by CO 2 reduction and by acetate fermentation</otmi:snippet>
+              <otmi:snippet>The minimum depositional age of the Dresser Formation is constrained by the zircon U–Pb age of 3,458 ± 2 Myr for the felsic volcanics that overlie the formation </otmi:snippet>
+              <otmi:snippet>The modal fractions of secondary inclusions (type II) of all the analysed samples vary from less than 0.1 to more than 0.9 ( Fig. 2a ; see Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>The origin of the kerogen in these dykes is still controversial , although their C and N isotope signatures and mode of occurrence imply that they may have been produced by chemoautotrophic organisms </otmi:snippet>
+              <otmi:snippet>The origins of the CH 4 can be deduced by their isotopic compositions</otmi:snippet>
+              <otmi:snippet>The primary component has 13 C-depleted CH 4 and CO 2 (δ 13 C CH 4 &lt; -56‰; δ 13 C CO 2 &lt; - 4‰), and the secondary one is more 13 C-enriched (δ 13 C CH 4 ≈ - 35‰; δ 13 C CO 2 ≈ 0‰)</otmi:snippet>
+              <otmi:snippet>The quartz veins exhibit intrusive patterns similar to adjacent silica dykes; they would therefore have formed contemporaneously with the silica dykes</otmi:snippet>
+              <otmi:snippet>The results of this study provide the oldest evidence of microbial methanogenesis (more than 3.46 Gyr ago), which pre-dates previous geochemical evidence by about 700 Myr</otmi:snippet>
+              <otmi:snippet>The samples came from the Dresser Formation at the North Pole area in Pilbara craton, Western Australia</otmi:snippet>
+              <otmi:snippet>The silica dykes contain type I and II inclusions, whereas the quartz veins contain type II and III</otmi:snippet>
+              <otmi:snippet>The top of each dyke exhibits a gradual transition into a certain chert bed, thus forming a T-junction</otmi:snippet>
+              <otmi:snippet>The unit also contains one of the oldest putative microfossils (see refs 10 and 11 for alternative views)</otmi:snippet>
+              <otmi:snippet>The δ 13 C CH 4 value of the secondary component ( - 35‰) is within the proposed range of thermogenic CH 4 (see refs 18 and 19 , for example), whereas that of the primary component (less than -56‰) is within the range of mixed gas (that is, a mixture of microbial and thermogenic CH 4 (refs 18 , 19 ))</otmi:snippet>
+              <otmi:snippet>The δ 13 C values of coexisting CO 2 also exhibit a similar systematic trend and display positive correlation with the δ 13 C CH 4 values ( Fig. 2c )</otmi:snippet>
+              <otmi:snippet>The δ 13 C values of extracted CH 4 and CO 2 are -56 to -36‰ and -7 to 0‰, respectively ( Fig. 2 and Supplementary Tables )</otmi:snippet>
+              <otmi:snippet>The δ 13 C values of the extracted CH 4 are correlated with the modal abundance ratios of secondary inclusions ( Fig. 2a ). 13 C-depleted CH 4 is preferentially observed in samples rich in primary inclusions, whereas relatively 13 C-enriched CH 4 is observed in those rich in secondary inclusions</otmi:snippet>
+              <otmi:snippet>Thermogenic origin therefore cannot explain the 13 C-depleted isotopic composition of the primary CH 4 </otmi:snippet>
+              <otmi:snippet>These are 0.3–20 m wide and generally more than 100 m in length; the longest is more than 1 km in length</otmi:snippet>
+              <otmi:snippet>These comparisons also support the microbial origin of the primary CH 4 and the thermogenic origin of the secondary CH 4 </otmi:snippet>
+              <otmi:snippet>These relationships indicate that silica dykes might have been formed intermittently during the deposition of the chert–barite beds </otmi:snippet>
+              <otmi:snippet>These textures and their silica-dominated mineral assemblages indicate the precipitation of silica from a low-temperature (less than 200 °C) hydrothermal fluid </otmi:snippet>
+              <otmi:snippet>These textures indicate that type I represents ‘primary’ inclusion , which was entrapped during the growth of host mineral</otmi:snippet>
+              <otmi:snippet>They are 5–20 µm in diameter and generally have irregular shapes ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>They are therefore probably primary inclusions, although their secondary origin cannot be completely disregarded</otmi:snippet>
+              <otmi:snippet>They are typically 1 µm or less in diameter</otmi:snippet>
+              <otmi:snippet>This chert–barite unit contains 34 S-depleted pyrites, which were presumably produced by sulphate-reducing microbes </otmi:snippet>
+              <otmi:snippet>This empirical comparison is adequate for the first approximation; however, the origin of the methane may be evaluated more explicitly by isotopic fractionation between the methane and potential carbon sources rather than by the δ 13 C CH 4 values alone</otmi:snippet>
+              <otmi:snippet>This isotopic similarity along with the lack of C 2+ indicates that the CH 4 might be matured thermogenic gas derived from the adjacent kerogen, although its microbial origin cannot be completely disregarded</otmi:snippet>
+              <otmi:snippet>This may represent the actual depositional age of the Dresser Formation </otmi:snippet>
+              <otmi:snippet>Thus, the fluid inclusions in the more than 3.46-Gyr-old hydrothermal silica dykes contain microbial CH 4 produced by methanogens and entrapped during the formation of the dyke</otmi:snippet>
+              <otmi:snippet>Type I inclusions occur as clusters along the growth faces of the host quartz, and their distribution patterns often define growth zones of the crystal ( Fig. 1d and Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Type II inclusions are clearly entrapped after the crystallization of the host quartz and correspond to ‘secondary’ inclusions </otmi:snippet>
+              <otmi:snippet>Type III inclusions are scattered uniformly in the host quartz without any preferred orientation</otmi:snippet>
+              <otmi:snippet>Type III inclusions often occur as dense cluster in quartz and show no crack-seal texture</otmi:snippet>
+              <otmi:snippet>We therefore suggest that the domains Archaea and Bacteria would have branched from each other at least 3.46 Gyr ago</otmi:snippet>
+              <otmi:snippet>With regard to all of the extracted fluids, ethane and propane are below the detection limit (C 2+ /(C 1 + C 2+ )&lt;0.01), which can be probably attributed to their microbial origin</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Photographs of hydrothermal silica dykes and fluid inclusions therein.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Annotated photograph of the Dresser Formation, showing silica dykes developed in the pillowed basaltic greenstones below the chert–barite unit (above dashed line). b , Photograph of an approximately 1-m-wide silica dyke. c , Central part of the silica dyke, showing agate and fluid-inclusion-bearing coarse-grained quartz (white portion). The black portion is composed of fine-grained silica with organic matter. The width of the photo is about 15 cm. d , Optical photomicrograph of the quartz containing fluid inclusions. Numerous small black dots (arrow) are fluid inclusions distributed along the crystal faces, which define the growth zones of the host quartz. e , Enlarged view of the H 2 O–CO 2 fluid inclusions (arrows). See also Supplementary Fig. S2 for the types of fluid inclusion.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Carbon isotopic compositions of CH 4 and CO 2 in the fluid inclusions.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Relationship between carbon isotopic composition of extracted CH 4 and modal fraction of secondary inclusions (type II). Note that type I and III are primary inclusions occurring in silica dykes (circles) and quartz veins (squares), respectively. The two dashed lines represent mixing models between primary and secondary components, assuming that the secondary component contains a CH 4 concentration fivefold or 50-fold that of the primary component. The δ 13 C CH 4 values of the primary and secondary components are assumed to be -60‰ and -35‰, respectively. See Supplementary Note for error estimates (standard deviation of replicate runs). b , δ 13 C values of the extracted CH 4 along with the expected δ 13 C CH 4 - %C 2+ (= 100 × C 2+ /(C 1 + C 2+ )) relationship of hypothetical thermogenic gas derived from kerogen in the silica dykes. The field is calculated from a Rayleigh model 21 . The initial δ 13 C value of kerogen is assumed to be -35‰ (dashed line), which is a representative value of kerogen in the silica dykes (black bar 6 ). The arrow indicates the directions of the isotopic and compositional changes during the maturation of the host kerogen. The oblique line and cross-hatched fields indicate the calculated ranges of bacterial CH 4 through the CO 2 reduction and acetate fermentation pathways, respectively. The calculations assume that the δ 13 C values of substrate CO 2 and acetate are -4 and -35‰, respectively, and fractionations are 30–70‰ for CO 2 reduction and 7–22‰ for acetate fermentation 20 . c , Relationship between δ 13 C CH 4 and δ 13 C CO 2 values of the extracted fluids in comparison with those of fluids in present-day seafloor hydrothermal systems. Vent gases emitted from unsedimented ridges (circles), sedimented ridges (diamonds) and pore fluid (crosses) are interpreted to be abiotic, thermogenic and microbial, respectively. The number denotes each hydrothermal vent (see Supplementary Notes for data source). Oblique lines represent apparent temperatures in °C, assuming isotopic equilibrium between CO 2 and CH 4 (ref. 27).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1146/annurev.astro.41.071601.170049</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.0263-4929.2001.00330.x</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0016-7037(03)00462-9</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35065071</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0301-9268(83)90081-5</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1090163</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0301-9268(99)00014-5</otmi:refid>
+          <otmi:refid>info:doi/10.1038/416076a</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0016-7037(01)00590-7</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0009-2541(99)00092-3</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.gca.2003.10.012</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0264-8172(91)90010-X</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.285.5430.1055</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0016-7037(01)00655-X</otmi:refid>
+          <otmi:refid>info:doi/10.1038/416522a</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0009-2541(88)90114-3</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0009-2541(02)00134-1</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.ea.05.050177.000433</otmi:refid>
+          <otmi:refsnoid>9</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,274 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Science in culture: Porcelain perception</title>
+      <id>info:doi/10.1038/440424a</id>
+      <link href='http://dx.doi.org/10.1038/440424a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Colin Martin</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>424</prism:startingPage>
+      <prism:endingPage>424</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>chicken</otmi:vector>
+              <otmi:vector count='4'>coral</otmi:vector>
+              <otmi:vector count='4'>at</otmi:vector>
+              <otmi:vector count='4'>her</otmi:vector>
+              <otmi:vector count='4'>work</otmi:vector>
+              <otmi:vector count='3'>porcelain</otmi:vector>
+              <otmi:vector count='3'>Wiertz</otmi:vector>
+              <otmi:vector count='3'>feet</otmi:vector>
+              <otmi:vector count='3'>more</otmi:vector>
+              <otmi:vector count='3'>cast</otmi:vector>
+              <otmi:vector count='2'>Dutch</otmi:vector>
+              <otmi:vector count='2'>slip-cast</otmi:vector>
+              <otmi:vector count='2'>pink</otmi:vector>
+              <otmi:vector count='2'>contemporary</otmi:vector>
+              <otmi:vector count='2'>species</otmi:vector>
+              <otmi:vector count='2'>heaped</otmi:vector>
+              <otmi:vector count='2'>marine</otmi:vector>
+              <otmi:vector count='2'>Wunderkammer</otmi:vector>
+              <otmi:vector count='2'>national</otmi:vector>
+              <otmi:vector count='2'>also</otmi:vector>
+              <otmi:vector count='2'>Wiertz&apos;s</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>seventeenth-century</otmi:vector>
+              <otmi:vector count='2'>cabinet</otmi:vector>
+              <otmi:vector count='2'>exhibited</otmi:vector>
+              <otmi:vector count='1'>hence</otmi:vector>
+              <otmi:vector count='1'>Denmark</otmi:vector>
+              <otmi:vector count='1'>international</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>closer</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>March</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>hybrid</otmi:vector>
+              <otmi:vector count='1'>Garnalen</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>Scythian</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>earthenware</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>fiction</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>Galerie</otmi:vector>
+              <otmi:vector count='1'>painting</otmi:vector>
+              <otmi:vector count='1'>glance</otmi:vector>
+              <otmi:vector count='1'>interest</otmi:vector>
+              <otmi:vector count='1'>man-made</otmi:vector>
+              <otmi:vector count='1'>covetable</otmi:vector>
+              <otmi:vector count='1'>historic</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>piece</otmi:vector>
+              <otmi:vector count='1'>familiar</otmi:vector>
+              <otmi:vector count='1'>Kippenpootjes</otmi:vector>
+              <otmi:vector count='1'>private</otmi:vector>
+              <otmi:vector count='1'>Worm</otmi:vector>
+              <otmi:vector count='1'>ceramic</otmi:vector>
+              <otmi:vector count='1'>hoax</otmi:vector>
+              <otmi:vector count='1'>typical</otmi:vector>
+              <otmi:vector count='1'>wonders</otmi:vector>
+              <otmi:vector count='1'>Meissen</otmi:vector>
+              <otmi:vector count='1'>legs</otmi:vector>
+              <otmi:vector count='1'>specimens</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>artistic</otmi:vector>
+              <otmi:vector count='1'>1588–1654</otmi:vector>
+              <otmi:vector count='1'>preserved</otmi:vector>
+              <otmi:vector count='1'>strain</otmi:vector>
+              <otmi:vector count='1'>woolly</otmi:vector>
+              <otmi:vector count='1'>relishing</otmi:vector>
+              <otmi:vector count='1'>contents</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>Netherlands</otmi:vector>
+              <otmi:vector count='1'>rococo</otmi:vector>
+              <otmi:vector count='1'>shrimp</otmi:vector>
+              <otmi:vector count='1'>rear</otmi:vector>
+              <otmi:vector count='1'>shells</otmi:vector>
+              <otmi:vector count='1'>fruit</otmi:vector>
+              <otmi:vector count='1'>oddities</otmi:vector>
+              <otmi:vector count='1'>skeletons</otmi:vector>
+              <otmi:vector count='1'>sometimes</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>tusks</otmi:vector>
+              <otmi:vector count='1'>cocktail</otmi:vector>
+              <otmi:vector count='1'>Delft</otmi:vector>
+              <otmi:vector count='1'>market</otmi:vector>
+              <otmi:vector count='1'>fine-art</otmi:vector>
+              <otmi:vector count='1'>contained</otmi:vector>
+              <otmi:vector count='1'>black-glazed</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>22</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>armature</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>chamber</otmi:vector>
+              <otmi:vector count='1'>H5N1</otmi:vector>
+              <otmi:vector count='1'>encourages</otmi:vector>
+              <otmi:vector count='1'>moulds</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>severed</otmi:vector>
+              <otmi:vector count='1'>rose</otmi:vector>
+              <otmi:vector count='1'>appears</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>global</otmi:vector>
+              <otmi:vector count='1'>height</otmi:vector>
+              <otmi:vector count='1'>Terra</otmi:vector>
+              <otmi:vector count='1'>flu</otmi:vector>
+              <otmi:vector count='1'>colourfully</otmi:vector>
+              <otmi:vector count='1'>Life-like</otmi:vector>
+              <otmi:vector count='1'>collector</otmi:vector>
+              <otmi:vector count='1'>Cocktail</otmi:vector>
+              <otmi:vector count='1'>resembles</otmi:vector>
+              <otmi:vector count='1'>appositely</otmi:vector>
+              <otmi:vector count='1'>starfish</otmi:vector>
+              <otmi:vector count='1'>verisimilitude</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>cultural</otmi:vector>
+              <otmi:vector count='1'>vegetables</otmi:vector>
+              <otmi:vector count='1'>London</otmi:vector>
+              <otmi:vector count='1'>golden</otmi:vector>
+              <otmi:vector count='1'>fern</otmi:vector>
+              <otmi:vector count='1'>context</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>fish</otmi:vector>
+              <otmi:vector count='1'>housed</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>plant</otmi:vector>
+              <otmi:vector count='1'>Contemporary</otmi:vector>
+              <otmi:vector count='1'>Germany</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>sumptuous</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>stateless</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>Whatever</otmi:vector>
+              <otmi:vector count='1'>comment</otmi:vector>
+              <otmi:vector count='1'>appealing</otmi:vector>
+              <otmi:vector count='1'>lamb</otmi:vector>
+              <otmi:vector count='1'>black</otmi:vector>
+              <otmi:vector count='1'>curiosities</otmi:vector>
+              <otmi:vector count='1'>Pauline</otmi:vector>
+              <otmi:vector count='1'>canvases</otmi:vector>
+              <otmi:vector count='1'>preoccupation</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>factory</otmi:vector>
+              <otmi:vector count='1'>April.</otmi:vector>
+              <otmi:vector count='1'>universal</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>suppress</otmi:vector>
+              <otmi:vector count='1'>meat</otmi:vector>
+              <otmi:vector count='1'>Collect</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>wealthy</otmi:vector>
+              <otmi:vector count='1'>wry</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>references</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>avian</otmi:vector>
+              <otmi:vector count='1'>evokes</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>month</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>tipped</otmi:vector>
+              <otmi:vector count='1'>eighteenth-century</otmi:vector>
+              <otmi:vector count='1'>prawns</otmi:vector>
+              <otmi:vector count='1'>art</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>sheep</otmi:vector>
+              <otmi:vector count='1'>aesthetically</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>heritage</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>still-life</otmi:vector>
+              <otmi:vector count='1'>shellfish</otmi:vector>
+              <otmi:vector count='1'>echoes</otmi:vector>
+              <otmi:vector count='1'>horns</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>age</otmi:vector>
+              <otmi:vector count='1'>filled</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>ceramics</otmi:vector>
+              <otmi:vector count='1'>masquerading</otmi:vector>
+              <otmi:vector count='1'>glazed</otmi:vector>
+              <otmi:vector count='1'>ceramist</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>outstanding</otmi:vector>
+              <otmi:vector count='1'>fair</otmi:vector>
+              <otmi:vector count='1'>perception</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>medicine</otmi:vector>
+              <otmi:vector count='1'>held</otmi:vector>
+              <otmi:vector count='1'>lustrous</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>playful</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>unadventurous</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>inspection</otmi:vector>
+              <otmi:vector count='1'>discern</otmi:vector>
+              <otmi:vector count='1'>hint</otmi:vector>
+              <otmi:vector count='1'>Copenhagen</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>fever</otmi:vector>
+              <otmi:vector count='1'>prettily</otmi:vector>
+              <otmi:vector count='1'>named</otmi:vector>
+              <otmi:vector count='1'>taught</otmi:vector>
+              <otmi:vector count='1'>artists</otmi:vector>
+              <otmi:vector count='1'>Ole</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>assortment</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>Unashamedly</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Although a Wunderkammer typically housed preserved animals, skeletons, horns and tusks, it might also include man-made oddities that mixed fact with fiction</otmi:snippet>
+              <otmi:snippet>At first glance, Garnalen Cocktail (&quot;shrimp cocktail&quot;) seems to be a typical assortment of marine species</otmi:snippet>
+              <otmi:snippet>By using chicken feet to cast moulds for her ceramic coral, Wiertz encourages us to think about the nature of perception: if we expect to see coral in the context of other marine species, then that is what we will discern</otmi:snippet>
+              <otmi:snippet>Contemporary applied artists sometimes suppress any national or historic references in their work, perhaps to make it more universal and hence more appealing on the global fine-art market</otmi:snippet>
+              <otmi:snippet>In its verisimilitude, Wiertz&apos;s work resembles the eighteenth-century rococo porcelain produced by the Meissen factory in Germany</otmi:snippet>
+              <otmi:snippet>Life-like pink prawns are heaped on lustrous black-glazed shells and starfish, and the piece is given height by an armature of what appears to be black coral prettily tipped with rose pink at the rear</otmi:snippet>
+              <otmi:snippet>On closer inspection, however, it becomes clear that Wiertz used severed chicken feet to cast the coral, although the shellfish were cast from real specimens</otmi:snippet>
+              <otmi:snippet>One outstanding exception was the covetable slip-cast porcelain and earthenware exhibited by Dutch ceramist Pauline Wiertz</otmi:snippet>
+              <otmi:snippet>The cabinet of Ole Worm (1588–1654), who taught medicine at the University of Copenhagen in Denmark, contained a woolly fern masquerading as a &quot;Scythian lamb&quot;, thought to be a hybrid of a plant and a sheep</otmi:snippet>
+              <otmi:snippet>There is also the hint of a wry comment on our contemporary preoccupation with the spread of the H5N1 strain of avian flu</otmi:snippet>
+              <otmi:snippet>This playful hoax echoes the contents of a seventeenth-century Wunderkammer , or chamber of wonders, a cabinet filled with curiosities by a wealthy, private collector</otmi:snippet>
+              <otmi:snippet>This point is made more clearly in her appositely named Kippenpootjes (&quot;chicken legs&quot; or &quot;chicken fever&quot;), a series of individual chicken feet slip-cast in porcelain and colourfully glazed</otmi:snippet>
+              <otmi:snippet>Unashamedly relishing her national artistic heritage, her recent work evokes the sumptuous still-life canvases of heaped fish, meat, fruit and vegetables familiar from the seventeenth-century &quot;golden age&quot; of Dutch painting</otmi:snippet>
+              <otmi:snippet>Whatever the reason, much of the work exhibited at Collect, an international contemporary art fair held in London last month, was aesthetically unadventurous and almost &quot;stateless&quot; in its lack of cultural interest</otmi:snippet>
+              <otmi:snippet>Wiertz&apos;s ceramics can be seen at the Galerie Terra Delft in the Netherlands from 25 March to 22 April.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

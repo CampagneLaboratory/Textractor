@@ -1,0 +1,947 @@
+<?xml version="1.0"?>
+<project name="textractor-run" default="html2db" basedir="..">
+    <!-- ===================== Property Definitions =========================== -->
+    <property environment="env"/>
+    <property name="build" location="build"/>
+    <property name="classes" location="classes"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="src" location="src"/>
+    <property name="output" location="output"/>
+
+    <property name="debug" value="off"/>
+    <property name="fork" value="yes"/>
+
+    <!-- default arguments : -->
+    <property name="args_html2db" value="-help -v"/>
+    <property name="args_mg4j-firstpass" value="-help"/>
+    <property name="args_mg4j-middlepass" value="-help"/>
+    <property name="args_mg4j-secondpass" value="-help"/>
+    <property name="args_build_document_index" value="-basename test"/>
+    <property name="args_getmutations" value="-annotate "/>
+    <property name="args_query" value="-basename junit-test-basename -k 6602"/>
+    <property name="args_extract_frequent_terms" value=""/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property name="ht" value=""/>
+    <property name="start" value="601"/>
+    <property name="end" value="601"/>
+    <property name="bin" location="bin"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <property name="debug.jvm" value="-Ddummy=true"/>
+    <property name="debug.remote" value="-Ddummy=true"/>
+
+    <property name="input" value=""/>
+    <property name="get_basename" value=""/>
+
+    <property name="dictionary" value=""/>
+    <property name="medline-root" value="i:/db/pubmed/05/medleasebaseline"/>
+    <property name="protein-name-catalog-split" value="name-splits"/>
+
+    <property name="dataset-a-path" value="${dataset.a.path}"/>
+    <property name="pubmed-query-baseurl" value="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed"/>
+    <property name="pubmed-fetch-baseurl" value="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed"/>
+
+    <property name="max-memory" value="600m"/>
+
+    <!-- import jdo specific imlementations of database targets -->
+    <import file="${build}/${textractor.JdoImplementation}.xml"/>
+
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties" onerror="fail">
+        <classpath>
+            <pathelement location="lib/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <!-- ==================== Classpath =========================== -->
+    <path id="run.classpath">
+        <pathelement location="${classes}"/>
+        <pathelement location="${config}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+        <path refid="jdo.run.classpath"/>
+    </path>
+
+    <target name="init">
+        <mkdir dir="output"/>
+    </target>
+
+    <macrodef name="pubmed-query">
+        <attribute name="query"/>
+        <attribute name="dest"/>
+        <attribute name="mode" default="xml"/>
+        <sequential>
+            <tempfile property="pubmed.temp.file"/>
+            <get dest="${pubmed.temp.file}" src="${pubmed-query-baseurl}&amp;term=@{query}&amp;usehistory=y"/>
+            <xmlproperty prefix="@{query}" file="${pubmed.temp.file}"/>
+            <echo message="${@{query}.eSearchResult.QueryKey}"/>
+            <echo message="${@{query}.eSearchResult.WebEnv}"/>
+            <get dest="@{dest}"
+                 src="${pubmed-fetch-baseurl}&amp;WebEnv=${@{query}.eSearchResult.WebEnv}&amp;query_key=${@{query}.eSearchResult.QueryKey}&amp;retmode=@{mode}"/>
+            <delete file="${pubmed.temp.file}" verbose="true"/>
+        </sequential>
+    </macrodef>
+
+    <target name="fetch-dataset-a">
+        <mkdir dir="${dataset-a-path}"/>
+        <pubmed-query query="APC" dest="${dataset-a-path}/APC.xml"/>
+        <gzip src="${dataset-a-path}/APC.xml" destfile="${dataset-a-path}/APC.xml.gz"/>
+
+        <pubmed-query query="APS" dest="${dataset-a-path}/APS.xml"/>
+        <gzip src="${dataset-a-path}/APS.xml" destfile="${dataset-a-path}/APS.xml.gz"/>
+
+        <pubmed-query query="TnT+AND+trinitrotoluene" dest="${dataset-a-path}/TnT_AND_trinitrotoluene.xml"/>
+        <gzip src="${dataset-a-path}/TnT_AND_trinitrotoluene.xml"
+              destfile="${dataset-a-path}/TnT_AND_trinitrotoluene.xml.gz"/>
+
+        <pubmed-query query="TnT+NOT+trinitrotoluene" dest="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml"/>
+        <gzip src="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml"
+              destfile="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml.gz"/>
+    </target>
+
+    <target name="prepare-dataset-a">
+        <condition property="dataset-a-present">
+            <and>
+                <available file="${dataset-a-path}" type="dir"/>
+                <available file="${dataset-a-path}/APC.xml.gz" type="file"/>
+                <available file="${dataset-a-path}/APS.xml.gz" type="file"/>
+                <available file="${dataset-a-path}/TnT_AND_trinitrotoluene.xml.gz" type="file"/>
+                <available file="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml.gz" type="file"/>
+            </and>
+        </condition>
+        <echo level="info" message="dataset a present: ${dataset-a-present}"/>
+        <fail unless="dataset-a-present"
+              message="textractor-dataset-a is required. Please obtain this dataset and configure the property dataset-a-path."/>
+        <gunzip src="${dataset-a-path}/APC.xml.gz" dest="${dataset-a-path}"/>
+        <gunzip src="${dataset-a-path}/APS.xml.gz" dest="${dataset-a-path}"/>
+        <gunzip src="${dataset-a-path}/TnT_AND_trinitrotoluene.xml.gz" dest="${dataset-a-path}"/>
+        <gunzip src="${dataset-a-path}/TnT_NOT_trinitrotoluene.xml.gz" dest="${dataset-a-path}"/>
+    </target>
+
+    <!-- ==================== Display variables =========================== -->
+    <target name="display" if="debug" description="Display Environment Variables">
+        <property name="displayclasspath" refid="run.classpath"/>
+        <echo level="info" message="CLASSPATH is set to ${displayclasspath}"/>
+        <echo level="info" message="Parameters:  ${arguments}"/>
+    </target>
+
+    <!-- ==================== Imports html articles into database =========================== -->
+    <target name="html2db" depends="init" description="Importing html articles as text sentences in the database.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_html2db}"/>
+        </antcall>
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <!-- ==================== First pass of MG4J index building =========================== -->
+    <target name="mg4j-firstpass" depends="init" description="First Pass of MG4J index building.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_mg4j-firstpass}"/>
+        </antcall>
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="it.unimi.dsi.mg4j.tool.FirstPass"
+              maxmemory="200m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Middle (optional) pass of MG4J index building =========================== -->
+    <target name="mg4j-middlepass" depends="init" description="Middle (optional) Pass of MG4J index building.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_mg4j-middlepass}"/>
+        </antcall>
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="it.unimi.dsi.mg4j.tool.MiddlePass"
+              maxmemory="200m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ========================== sets the command line arguments to the target-specific default
+                                    value if no arguments is provided ===============================-->
+    <target name="set-arguments" unless="arguments">
+        <property name="arguments" value="${default-arguments}"/>
+    </target>
+    <!-- ==================== Second (final) pass of MG4J index building =========================== -->
+    <target name="mg4j-secondpass" depends="init" description="Second Pass of MG4J index building.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_mg4j-secondpass}"/>
+        </antcall>
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="it.unimi.dsi.mg4j.tool.SecondPass"
+              maxmemory="200m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Imports html articles into database =========================== -->
+    <target name="printDocuments" depends="init"
+            description="Importing html articles as text sentences in the database.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_mg4j-secondpass}"/>
+        </antcall>
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="textractor.tools.PrintDocuments"
+              maxmemory="60m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Imports html articles into database =========================== -->
+    <target name="count-ngram-occurences" depends="init" description="Count the number of occurences of terms.">
+        <java dir="${basedir}"
+              fork="${fork}"
+              classname="textractor.tools.CountNGramOccurences"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="-i ${input} -o ${input}.output
+                       ${get_basename} -basename ${basename}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="relation-training" depends="init" description="Create relation training set">
+        <input message="Please enter the index basename "
+               addproperty="basename"
+               defaultvalue="twease-index/pubmed-index"
+                />
+        <input message="Please enter the relation input file "
+               addproperty="inputFile"
+                />
+        <input message="Please enter the relation output file "
+               addproperty="outputFile"
+                />
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.learning.CreateRelationTrainingSet"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} -i ${inputFile} -o ${outputFile} -normalize -clip 3"/>
+
+        </java>
+    </target>
+    <target name="load-human-fasta" description="Load fasta human db">
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <assertions enablesystemassertions="all"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-f config/catalogs/fasta/fasta.xml"/>
+
+        </java>
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <assertions enablesystemassertions="all"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-f config/catalogs/fasta/fasta-docstore.xml"/>
+
+        </java>
+
+        <echo level="info" message="Creating fasta TfIdf info."/>
+        <tf-idf min-document-frequency="0"
+                max-document-frequency="1.0"
+                basename="../indices/ensembl-human/index"/>
+
+        <echo level="info" message="Creating fasta 'Did You Mean' indices."/>
+        <antcall target="build-didyoumean-index">
+            <param name="basename" value="../indices/ensembl-human/index"/>
+            <param name="threshold" value="5"/>
+            <param name="batch-size" value="2Mi"/>
+        </antcall>
+
+        <echo level="info" message="Creating fasta 'CaseInsensitiveStore'."/>
+        <antcall target="build-case-insensitive-store">
+            <param name="basename" value="../indices/ensembl-human/index"/>
+        </antcall>
+    </target>
+    <target name="load-fasta-shuffled-1x" description="Load Ensembl human shuffled 1x">
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="400m">
+            <classpath refid="run.classpath"/>
+            <assertions enablesystemassertions="all"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-f config/catalogs/fasta/fasta-shuffled.xml"/>
+
+        </java>
+
+          <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <assertions enablesystemassertions="all"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-f config/catalogs/fasta/fasta-shuffled-docstore.xml"/>
+        </java>
+
+        <echo level="info" message="Creating fasta TfIdf info."/>
+        <tf-idf min-document-frequency="0"
+                max-document-frequency="1.0"
+                basename="../indices/shuffled-1x-human/index"/>
+
+        <echo level="info" message="Creating fasta 'Did You Mean' indices."/>
+        <antcall target="build-didyoumean-index">
+            <param name="basename" value="../indices/shuffled-1x-human/index"/>
+            <param name="threshold" value="5"/>
+            <param name="batch-size" value="2Mi"/>
+        </antcall>
+
+        <echo level="info" message="Creating fasta 'CaseInsensitiveStore'."/>
+        <antcall target="build-case-insensitive-store">
+            <param name="basename" value="../indices/shuffled-1x-human/index"/>
+        </antcall>
+    </target>
+
+    <target name="load-fasta-shuffled-100x" description="Try fasta loader">
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <assertions enablesystemassertions="all"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.proper
+ties"/>
+            <arg line="-f config/catalogs/fasta/fasta-shuffled-100x.xml"/>
+
+        </java>
+    </target>
+    <target name="combine-pubmed-batches" description="Combine batches for pubmed.">
+
+        <antcall target="combine-document-indexes">
+
+            <param name="basename" value="index/pubmed-index"/>
+            <param name="output-basename" value="index/combined-index"/>
+
+        </antcall>
+
+    </target>
+    <target name="combine-document-indexes" depends="init" description="Combines index batches.">
+        <echo message="basename: ${basename}"/>
+        <copy file="${basename}-text@0.properties"
+              tofile="${basename}-text.properties"/>
+
+        <filelist id="input.basenames.path" dir="/scratchB/campagne/textractor">
+            <file name="${basename}-text@0"/>
+            <file name="${basename}-text@1"/>
+            <!--file name="${basename}-text@2"/>
+            <file name="${basename}-text@3"/>
+            <file name="${basename}-text@4"/>
+            <file name="${basename}-text@5"/>
+            <file name="${basename}-text@6"/>
+            <file name="${basename}-text@7"/>
+            <file name="${basename}-text@8"/>
+            <file name="${basename}-text@9"/>
+            <file name="${basename}-text@10"/>
+            <file name="${basename}-text@11"/>
+            <file name="${basename}-text@12"/-->
+
+        </filelist>
+
+        <pathconvert property="input-basenames" refid="input.basenames.path" pathsep=" " setonempty="false"/>
+
+
+        <!--property name="input-basenames" value="index/collect-expansions-text@0 index/collect-expansions-text@1"/-->
+        <echo message="input-basenames: ${input-basenames}"/>
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="it.unimi.dsi.mg4j.tool.Combine"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="${output-basename} ${input-basenames}  "/>
+        </java>
+    </target>
+
+    <target name="build-document-collection" depends="init">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.SentenceDocumentCollection"
+              maxmemory="20m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions} -chunk-size 500 "/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <!-- ==================== Creates a document index from sentences in the database =========================== -->
+    <target name="getmutations" depends="init, display"
+            description="get sentences in the database that have the maybeProteinMutation attribute==true.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_getmutations}"/>
+        </antcall>
+        <echo message="arguments: ${arguments}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="${fork}"
+              classname="textractor.tools.ProteinMutation"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Extracts frequent terms from documents =========================== -->
+    <target name="extract-frequent-terms" depends="init, display"
+            description="get sentences in the database that have the maybeProteinMutation attribute==true.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_extract_frequent_terms}"/>
+        </antcall>
+        <echo message="arguments: ${arguments}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="${fork}"
+              classname="textractor.tools.ArticleTermCount"
+              maxmemory="600m">
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Creates a document index from sentences in the database =========================== -->
+    <target name="query" depends="init, display" description="Queries the document index.">
+        <input addproperty="basename" message="Enter basename (default trec-index/trec-index): "
+               defaultvalue="trec-index/trec-index">
+        </input>
+        <input addproperty="query" message="Enter query: "
+               defaultvalue="mutation  phenotype ">
+        </input>
+        <input addproperty="other-options" message="Enter other options (default -tfidf): "
+               defaultvalue="-tfidf">
+        </input>
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="${fork}"
+              classname="textractor.tools.Query"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="-basename ${basename} -q ${query} ${other-options}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== Creates a document index from sentences in the database =========================== -->
+    <target name="export-article-features" depends="init, display" description="Export features for whole articles.">
+        <antcall target="set-arguments">
+            <param name="default-arguments" value="${args_query}"/>
+        </antcall>
+        <echo message="arguments: ${arguments}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="${fork}"
+              classname="textractor.tools.io.ExportArticleFeatures"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="${arguments}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <!-- ==================== parse YAGI output =========================== -->
+    <target name="parseYAGI" description="parse YAGI output">
+        <property name="parsedFile" value="lookup_results/PMC/PMC.yagi"/>
+        <echo message="parsing the YAGI results for ${parsedFile}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.util.ParseYAGIOutput"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="-i ${parsedFile}
+                       -o ${parsedFile}.tab"/>
+        </java>
+    </target>
+    <!-- ==================== parse NLProt output =========================== -->
+    <target name="parseNLProt" description="parse NLProt output">
+        <property name="parsedFile" value="lookup_results/PMC/PMC.nlprot"/>
+        <echo message="parsing the NLProt results for ${parsedFile}"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.util.ParseNLProtTextOutput"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <arg line="-i ${parsedFile}.out.txt
+                       -o ${parsedFile}.out.txt.tab"/>
+        </java>
+    </target>
+    <!-- ==================== build the svm model =========================== -->
+    <target name="train" description="train the svm model" depends="init">
+        <ant antfile="build/config.xml" inheritall="false"
+             target="config_unix_train" output="${output}/train.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+        <ant antfile="build/build.xml" inheritall="false"
+             target="boot_forTraining" output="${output}/train.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+        <ant antfile="build/build.xml" inheritall="false"
+             target="do_train" output="${output}/train.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+    </target>
+    <!-- ==================== build the multiclass svm model =========================== -->
+    <target name="mtrain" description="build the multiclass svm model" depends="init">
+        <ant antfile="build/config.xml" inheritall="false"
+             target="config_unix_train" output="${output}/mtrain.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+        <ant antfile="build/build.xml" inheritall="false"
+             target="boot_forTraining" output="${output}/mtrain.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+        <ant antfile="build/build.xml" inheritall="false"
+             target="do_mtrain" output="${output}/mtrain.out">
+            <property name="propertyFilename" value="textractor.properties.train"/>
+        </ant>
+    </target>
+    <!-- ==================== Load Cell 1996 papers in DB =========================== -->
+    <target name="cell-1996" description="Load Cell 1996 papers in DB" depends="createdb">
+        <ant antfile="build/build.xml" inheritall="false"
+             target="-load_articles" output="${output}/cell-1996.output">
+
+            <property name="article_directory" value="i:/db/fulltext/PMC/CELL/1996"/>
+            <property name="optional_keywords" value="-indexParentheses"/>
+        </ant>
+        <antcall target="build-document-index">
+            <param name="arguments" value="-basename index/cell-1996 -indexParentheses -filter acronym"/>
+        </antcall>
+    </target>
+
+    <target name="collect-expansions" description="Collection expansions for data/acronyms.txt">
+        <!--<echo message="Processing ${acronyms_input} -> ${acronyms_output} / ${reject_output}"/>-->
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="${fork}"
+              classname="textractor.tools.expansion.CollectExpansions"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <arg line="-i ${acronyms_input}
+            -o ${acronyms_output}
+            -reject-list ${reject_output}
+            -ic 5
+            -threshold 1 -ms 5  -doc-store
+            -${direction}
+            -basename ${basename}"/>
+            <arg value="-template"/>
+            <arg value="${template}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+
+    </target>
+    <!-- ==================== load articles into database =========================== -->
+    <target name="load-journal-year">
+        <echo message="Loading articles from ${article_directory}/${journal}/${year}."/>
+        <java dir="${basedir}"
+              inputstring=""
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="600m">
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <classpath refid="run.classpath"/>
+            <arg line="-d ${article_directory}/${journal}/${year}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+
+    <!-- ==================== Load all JBC papers in DB =========================== -->
+    <target name="boot_jbc" depends="createdb" description="Load JBC1995-2004 papers in DB">
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value=""/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="build-document-index">
+            <param name="arguments" value="-zeroth -basename index/jbc-1995-2004 -indexParentheses -filter acronym"/>
+        </antcall>
+    </target>
+
+
+    <target name="do-collect-expansions">
+        <property name="current_job" value="jbc"/>
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="data/acronyms-length-le-3.txt"/>
+            <param name="basename" value="index/${current_job}"/>
+        </antcall>
+    </target>
+    <!-- ==================== filter a file by exclusion lists =========================== -->
+    <target name="filter" description="filter a dictionary by the exclusion lists">
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.tools.TermFilter"
+              maxmemory="600m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-i ${dictionary}"/>
+            <arg line="-t 0"/>
+            <arg line="-trash trash/trash_${dictionary}.txt"/>
+            <arg line="-basename FIXME"/>
+            <!-- TODO Set an appropriate basename. This basename names an index that was split as needed for this task. The index is not used for queries. -->
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+
+
+    <!-- ============ load the pubmed abstract into database ================= -->
+    <target name="PubmedAbstract2DB">
+        <echo message="Loading pubmed abstracts ${start} to ${end}."/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.coupling.PubmedAbstract2DB"
+              maxmemory="1300m">
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <classpath refid="run.classpath"/>
+            <arg line="-start ${start} -end ${end}"/>
+            <arg line="-property ${propertyFilename}"/>
+        </java>
+    </target>
+    <!-- ==================== boot Pubmed =========================== -->
+    <target name="bootPubmed" description="look up GPCR in Pubmed." depends="createdb">
+        <property name="current_job" value="GPCRinPubmed${start}-${end}"/>
+
+        <echo message="loading PubMed abstract."/>
+        <antcall target="PubmedAbstract2DB" inheritall="true">
+            <param name="propertyFilename" value="${propertyFilename}"/>
+        </antcall>
+
+        <antcall target="build-document-index" inheritall="true">
+            <param name="basename" value="pubmed/${current_job}"/>
+            <param name="propertyFilename" value="${propertyFilename}"/>
+        </antcall>
+    </target>
+    <!-- ==================== boot Pubmed =========================== -->
+    <target name="load-pubmed-file" description="Load one pubmed file">
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.PubmedAbstracts2Text2DB"
+              maxmemory="900m">
+            <classpath refid="run.classpath"/>
+            <jvmarg line="-client -Xshare:on"/>
+            <!-- This will enable the JVM to startup more quickly. If class sharing
+  is not available on the machine, revert to server JVM. -->
+            <arg line="-i ${inputFile}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+    <!-- ==================== Load PubMed into the database =========================== -->
+    <target name="load-pubmed" description="Load PubMed into the database.">
+
+        <input message="Please enter the filename of the list of pubmed files "
+               addproperty="pubmed-list"
+               defaultvalue="pubmed.lst"
+                />
+        <foreach param="inputFile" target="load-pubmed-file">
+            <path>
+                <fileset dir="${medline-root}" includesfile="${pubmed-list}">
+                </fileset>
+            </path>
+        </foreach>
+        <!--java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.PubmedAbstracts2Text2DB"
+              maxmemory="900m">
+            <classpath refid="run.classpath"/>
+            <arg line="-list ${pubmed-list}"/>
+            <arg line="${optional_keywords}"/>
+        </java-->
+    </target>
+
+    <!-- ==================== Load PubMed into the database =========================== -->
+    <target name="load-0409" description="Load PubMed into the database.">
+        <antcall target="load-pubmed-file">
+            <param name="inputFile" value="${medline-root}/medline05n0409.xml.gz"/>
+            <param name="optional_keywords" value="-skip-duplicates"/>
+        </antcall>
+    </target>
+    <!-- ==================== Index PubMed =========================== -->
+    <target name="index-pubmed" description="Index PubMed.">
+        <echo message="Creating document index for PubMed."/>
+
+        <antcall target="build-document-index">
+            <param name="basename" value="index/pubmed-index"/>
+            <param name="otherOptions" value="-indexParentheses -chunk-size 100000 -batch-size 20Mi -skips"/>
+        </antcall>
+    </target>
+    <target name="web-query-boot" description="Web query the boot data.">
+        <antcall target="web-query-tool">
+            <param name="basename" value="index/junit-test-basename"/>
+        </antcall>
+    </target>
+    <target name="web-query-ambiguity" description="Web query the boot data.">
+        <antcall target="web-query-tool">
+            <param name="basename" value="dataset-a-index/index"/>
+        </antcall>
+    </target>
+
+    <target name="web-query-combined" description="Web query the combined data.">
+        <antcall target="web-query-tool">
+            <param name="basename" value="index/combined-index"/>
+        </antcall>
+    </target>
+
+    <target name="web-query-ambiguity-multifield" description="Start the Web query tool for multi fields.">
+        <input message="Please enter the index basename "
+               addproperty="basename"
+               defaultvalue="index/collect-expansions-index-text-dym-word index/collect-expansions-index-text-dym-3start index/collect-expansions-index-text-dym-3end"
+                />
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="yes"
+              input="input"
+              classname="it.unimi.dsi.mg4j.query.Query"
+              maxmemory="1500m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <!--arg line="-i it.unimi.dsi.mg4j.query.FileSystemItem"/-->
+            <arg line="--port 8080"/>
+
+            <arg line="${basename}"/>
+        </java>
+    </target>
+
+
+    <target name="count-occurences" description="Count n-gram frequencies.">
+        <input message="Please enter the index basename "
+               addproperty="basename"
+                />
+        <input message="Please enter the n-gram input file (one n-gram per line, words space delimited)"
+               addproperty="input-filename"
+                />
+        <input message="Please enter output filename (where n-gram frequencies will be written)"
+               addproperty="output-filename"
+                />
+        <redirector inputstring=""/>
+        <!-- effectively turns off standard input -->
+        <java dir="${basedir}" failonerror="true" fork="true"
+              classname="textractor.tools.CountNGramOccurences"
+              maxmemory="900m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename}"/>
+            <arg line="-i ${input-filename}"/>
+            <arg line="-o ${output-filename}"/>
+        </java>
+
+    </target>
+    <!-- ==================== Start HttpServer with query interface ============ -->
+    <target name="web-query-tool" depends="init, display"
+            description="Start the web-based tool that supports queries to the indexed documents.">
+
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="yes"
+              classname="it.unimi.dsi.mg4j.query.HttpQueryServer"
+              maxmemory="1500m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <!--arg line="-i it.unimi.dsi.mg4j.query.FileSystemItem"/-->
+            <arg line="--port 8080"/>
+            <arg line="-c ${basename}-doc-collection.ser ${basename}-text"/>
+        </java>
+    </target>
+    <target name="pubmed-expansions" description="Collect expansions in pubmed">
+        <input message="Please enter the input file (one abbreviation per line, single term)"
+               addproperty="input-filename"/>
+        <input message="Please enter output filename (where expansions will be written)"
+               addproperty="output-filename"
+               defaultvalue="output/acronym-expansions.xml"/>
+        <input message="Please enter rejected-list filename (where expansions that cannot be expanded will be written)"
+               addproperty="rejection-filename"
+               defaultvalue="output/acronym-expansions-rejected.txt"/>
+        <input message="Please enter the template (e.g., '( acronym )')"
+               addproperty="template"
+               defaultvalue=" ( acronym ) "/>
+        <input message="Please enter the direction of expansion (i.e., left|right, default left')"
+               addproperty="direction" validargs="left,right"
+               defaultvalue="left"/>
+
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="${input-filename}"/>
+            <param name="acronyms_output" value="${output-filename}"/>
+            <param name="reject_output" value="${rejection-filename}"/>
+            <param name="template" value="${template}"/>
+            <param name="direction" value="${direction}"/>
+            <param name="basename" value="index/pubmed-index"/>
+        </antcall>
+    </target>
+
+    <target name="ambiguity-expansions-output"
+            description="Collect expansions in ambiguity set and prompt user for output filename">
+        <input message="Please enter output filename for nonskip index expansions"
+               addproperty="output-filename"
+               defaultvalue="output/skip-expansions.xml"/>
+
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="data/acronyms.txt"/>
+            <param name="acronyms_output" value="${output-filename}"/>
+            <param name="reject_output" value="reject-ambiguity.txt"/>
+            <param name="template" value=" ( acronym ) "/>
+            <param name="direction" value="left"/>
+            <param name="basename" value="dataset-a-index/index"/>
+        </antcall>
+
+    </target>
+
+    <target name="ambiguity-expansions-defaults" description="Collect expansions in ambiguity dataset">
+
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="data/acronyms.txt"/>
+            <param name="acronyms_output" value="output/acronym-expansions.xml"/>
+            <param name="reject_output" value="output/acronym-expansions-rejected.txt"/>
+            <param name="template" value=" ( acronym ) "/>
+            <param name="direction" value="left"/>
+            <param name="basename" value="dataset-a-index/index"/>
+        </antcall>
+
+    </target>
+
+    <target name="ambiguity-expansions" description="Collect expansions in ambiguity dataset">
+        <input message="Please enter the input file (one abbreviation per line, single term)"
+               addproperty="input-filename"
+               defaultvalue="data/acronyms.txt"/>
+        <input message="Please enter output filename (where expansions will be written)"
+               addproperty="output-filename"
+               defaultvalue="output/acronym-expansions.xml"/>
+        <input message="Please enter rejected-list filename (where expansions that cannot be expanded will be written)"
+               addproperty="rejection-filename"
+               defaultvalue="output/acronym-expansions-rejected.txt"/>
+        <input message="Please enter the template (e.g., '( acronym )')"
+               addproperty="template"
+               defaultvalue=" ( acronym ) "/>
+        <input message="Please enter the direction of expansion (i.e., left|right, default left')"
+               addproperty="direction" validargs="left,right"
+               defaultvalue="left"/>
+
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="${input-filename}"/>
+            <param name="acronyms_output" value="${output-filename}"/>
+            <param name="reject_output" value="reject-ambiguity.txt"/>
+            <param name="template" value=" ( acronym ) "/>
+            <param name="direction" value="left"/>
+            <param name="basename" value="dataset-a-index/index"/>
+        </antcall>
+    </target>
+    <!-- ==================== Load PubMed into the database =========================== -->
+    <target name="expand-protein-names" description="Expand protein name abbreviations.">
+        <foreach param="file" target="expand-pubmed-input" maxthreads="2" parallel="true">
+            <path>
+                <fileset dir="${protein-name-catalog-split}">
+                    <include name="input-*"/>
+                    <depend targetdir="${protein-name-catalog-split}">
+                        <mapper type="regexp" from="input-([a-z]+)$$" to="input-\1-out.xml"/>
+                        <!-- Note on regexp above:
+                 Input files are of the form input-aa, input-ab, etc.
+                 Destination files are of the form: input-aa-out.xml -->
+                    </depend>
+                </fileset>
+            </path>
+        </foreach>
+    </target>
+    <target name="expand-pubmed-input" description="Expand one input file.">
+        <echo message="file: ${file}"/>
+        <antcall target="collect-expansions">
+            <param name="acronyms_input" value="${file}"/>
+            <param name="acronyms_output" value="${file}-out.xml"/>
+            <param name="reject_output" value="${file}-rejected.txt"/>
+            <param name="basename" value="../pubmed/pubmed-index"/>
+        </antcall>
+    </target>
+    <target name="analyze-queries" description="Run analysis of pubmed queries.">
+        <input message="Please enter the index basename "
+               addproperty="basename"
+               defaultvalue="d:/dev/trec2004/index"
+                />
+        <input message="Please enter the query filename "
+               addproperty="queries-filename"
+               defaultvalue="queries.txt"/>
+
+        <redirector inputstring=""/>
+        <!-- effectively turns off standard input -->
+        <java dir="${basedir}" failonerror="true" fork="true"
+              classname="textractor.tools.AnalyzeQueries"
+              maxmemory="900m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename}"/>
+            <arg line="-queries ${queries-filename}"/>
+        </java>
+    </target>
+    <!-- ==================== look up Transporter in Pubmed =========================== -->
+    <target name="TransporterInPubmed" description="look up Transporter in Pubmed.">
+        <echo message="looking up Transporter"/>
+        <java dir="${basedir}"
+              failonerror="true"
+              fork="true"
+              classname="textractor.coupling.lookupTransporterInPubmed"
+              maxmemory="1300m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="
+            -wFO
+            -index pubmed/GPCRinPubmed${start}-${end}
+            -export
+            -ht ${ht}"/>
+            <arg line="-property ${propertyFilename}.ht${ht}"/>
+        </java>
+    </target>
+
+</project>

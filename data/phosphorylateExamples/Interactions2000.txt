@@ -1,0 +1,79 @@
+#JBC2000
+#275_50_39727
+PKC:phosphorylate:SAF
+PKC beta:phosphorylate:SAF
+PKC betaII:phosphorylate:SAF
+PKC:phosphorylate:SAF 1
+PKC beta:phosphorylate:SAF 1
+PKC betaII:phosphorylate:SAF 1
+
+#275_50_39767
+PKC:not-phosphorylate:PLC beta1
+PKC:phosphorylate:PLC beta3
+M3 mAChR:not-phosphorylate:PLC beta1
+P2Y2 receptor:not-phosphorylate:PLC beta1
+P2Y2 receptors:not-phosphorylate:PLC beta1
+M3 mAChR:not-phosphorylate:PLC beta3
+P2Y2 receptor:not-phosphorylate:PLC beta3
+P2Y2 receptors:not-phosphorylate:PLC beta3
+M3 mAChR:not-phosphorylate:Galphaq 11
+P2Y2 receptor:not-phosphorylate:Galphaq 11
+P2Y2 receptors:not-phosphorylate:Galphaq 11
+Galphaq 11:not-phosphorylate:PLC beta1
+Galphaq 11:not-phosphorylate:PLC beta3
+
+#275_51_40400  related to 1999:274_52_37400
+PDK1:phosphorylate:PKB
+PDK1A280V:phosphorylate:PKB
+PDK1:phosphorylate:PKBalpha
+PDK1A280V:phosphorylate:PKBalpha
+PRK1:not-phosphorylate:PDK1
+PRK2:not-phosphorylate:PDK1
+GST PIF:not-phosphorylate:PDK1
+PIF:not-phosphorylate:PDK1
+
+#275_52_40946
+PKC:phosphorylate:CBP
+PKCalpha:phosphorylate:CBP
+PKCzeta:phosphorylate:CBP
+PKC:phosphorylate:p300
+PKCalpha:phosphorylate:p300
+PKCzeta:phosphorylate:p300
+PKC:phosphorylate:CBP p300
+PKCalpha:phosphorylate:CBP p300
+PKCzeta:phosphorylate:CBP p300
+cdk2:phosphorylate:p300
+
+#Adding more negative examples:
+#275_26_19819
+PGE2:not-phosphorylate:ca2+
+EP1:not-phosphorylate:ca2+
+EP2:not-phosphorylate:ca2+
+EP3:not-phosphorylate:ca2+
+EP4:not-phosphorylate:ca2+
+IL1:not-phosphorylate:IL-6
+Bt2cAMP:not-phosphorylate:EP4
+Bt2cAMP:not-phosphorylate:EP1
+Bt2cAMP:not-phosphorylate:EP2
+Bt2cAMP:not-phosphorylate:EP3
+
+PLCbeta:not-phosphorylate:IP3
+IP3:not-phosphorylate:PLCbeta
+GPCR:not-phosphorylate:PKC
+PKC:not-phosphorylate:GPCR
+GPCRs:not-phosphorylate:PKC
+GPCRs:not-phosphorylate:IP3
+GPCRs:not-phosphorylate:PLCbeta
+Ca2+:not-phosphorylate:PKC
+PKC:not-phosphorylate:Ca2+
+
+
+#275_27_20578
+Grb2-N-SH3:not-phosphorylate:Grb2-C-SH3
+rMAP2c:not-phosphorylate:GST-SH3
+protein tyrosine kinase Abl:not-phosphorylate:adaptor protein Nck
+MAP2:not-phosphorylate:Src
+Src:not-phosphorylate:MAP2
+MAP2:not-phosphorylate:Grb2
+MAP2:not-phosphorylate:MAP2
+Grb2:not-phosphorylate:MAP2

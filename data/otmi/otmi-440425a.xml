@@ -1,0 +1,480 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Molecular biology RNA lost in translation</title>
+      <id>info:doi/10.1038/440425a</id>
+      <link href='http://dx.doi.org/10.1038/440425a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>David Tollervey</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>425</prism:startingPage>
+      <prism:endingPage>426</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='19'>mRNAs</otmi:vector>
+              <otmi:vector count='17'>mRNA</otmi:vector>
+              <otmi:vector count='13'>decay</otmi:vector>
+              <otmi:vector count='13'>ribosome</otmi:vector>
+              <otmi:vector count='11'>no-go</otmi:vector>
+              <otmi:vector count='11'>cleavage</otmi:vector>
+              <otmi:vector count='10'>translation</otmi:vector>
+              <otmi:vector count='7'>site</otmi:vector>
+              <otmi:vector count='7'>have</otmi:vector>
+              <otmi:vector count='6'>other</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='5'>pathway</otmi:vector>
+              <otmi:vector count='5'>protein</otmi:vector>
+              <otmi:vector count='5'>Dom34</otmi:vector>
+              <otmi:vector count='5'>exosome</otmi:vector>
+              <otmi:vector count='5'>stalled</otmi:vector>
+              <otmi:vector count='5'>ends</otmi:vector>
+              <otmi:vector count='5'>Hbs1</otmi:vector>
+              <otmi:vector count='5'>degradation</otmi:vector>
+              <otmi:vector count='5'>might</otmi:vector>
+              <otmi:vector count='5'>Doma</otmi:vector>
+              <otmi:vector count='5'>their</otmi:vector>
+              <otmi:vector count='4'>been</otmi:vector>
+              <otmi:vector count='4'>also</otmi:vector>
+              <otmi:vector count='4'>non-stop</otmi:vector>
+              <otmi:vector count='4'>into</otmi:vector>
+              <otmi:vector count='4'>at</otmi:vector>
+              <otmi:vector count='4'>Parker</otmi:vector>
+              <otmi:vector count='4'>pathways</otmi:vector>
+              <otmi:vector count='4'>end</otmi:vector>
+              <otmi:vector count='4'>specific</otmi:vector>
+              <otmi:vector count='4'>called</otmi:vector>
+              <otmi:vector count='4'>can</otmi:vector>
+              <otmi:vector count='4'>yeast</otmi:vector>
+              <otmi:vector count='3'>cleaved</otmi:vector>
+              <otmi:vector count='3'>subject</otmi:vector>
+              <otmi:vector count='3'>RNA</otmi:vector>
+              <otmi:vector count='3'>degraded</otmi:vector>
+              <otmi:vector count='3'>Xrn1</otmi:vector>
+              <otmi:vector count='3'>more</otmi:vector>
+              <otmi:vector count='3'>cells</otmi:vector>
+              <otmi:vector count='3'>3</otmi:vector>
+              <otmi:vector count='3'>But</otmi:vector>
+              <otmi:vector count='3'>rates</otmi:vector>
+              <otmi:vector count='3'>not</otmi:vector>
+              <otmi:vector count='3'>must</otmi:vector>
+              <otmi:vector count='3'>system</otmi:vector>
+              <otmi:vector count='3'>Ski7</otmi:vector>
+              <otmi:vector count='3'>similar</otmi:vector>
+              <otmi:vector count='3'>each</otmi:vector>
+              <otmi:vector count='3'>surveillance</otmi:vector>
+              <otmi:vector count='3'>defects</otmi:vector>
+              <otmi:vector count='3'>degrades</otmi:vector>
+              <otmi:vector count='2'>main</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>contexts</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>So</otmi:vector>
+              <otmi:vector count='2'>block</otmi:vector>
+              <otmi:vector count='2'>gene</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>stem–loop</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>specifically</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>fidelity</otmi:vector>
+              <otmi:vector count='2'>free</otmi:vector>
+              <otmi:vector count='2'>leads</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>termination</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>These</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>turnover</otmi:vector>
+              <otmi:vector count='2'>synthesis</otmi:vector>
+              <otmi:vector count='2'>obstruction</otmi:vector>
+              <otmi:vector count='2'>structural</otmi:vector>
+              <otmi:vector count='2'>fruitflies</otmi:vector>
+              <otmi:vector count='2'>occurs</otmi:vector>
+              <otmi:vector count='2'>close</otmi:vector>
+              <otmi:vector count='2'>related</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>regulation</otmi:vector>
+              <otmi:vector count='2'>levels</otmi:vector>
+              <otmi:vector count='2'>ribosomes</otmi:vector>
+              <otmi:vector count='2'>stall</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>regulate</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>heterogeneous</otmi:vector>
+              <otmi:vector count='2'>normal</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>fragments</otmi:vector>
+              <otmi:vector count='2'>lack</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>stop</otmi:vector>
+              <otmi:vector count='2'>operate</otmi:vector>
+              <otmi:vector count='2'>transcription</otmi:vector>
+              <otmi:vector count='2'>expression</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>enzymes</otmi:vector>
+              <otmi:vector count='2'>proteins</otmi:vector>
+              <otmi:vector count='2'>5</otmi:vector>
+              <otmi:vector count='2'>either</otmi:vector>
+              <otmi:vector count='2'>cause</otmi:vector>
+              <otmi:vector count='2'>structure</otmi:vector>
+              <otmi:vector count='2'>quality-control</otmi:vector>
+              <otmi:vector count='2'>sites</otmi:vector>
+              <otmi:vector count='1'>program</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>cytoplasmic</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>create</otmi:vector>
+              <otmi:vector count='1'>recruit</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>surely</otmi:vector>
+              <otmi:vector count='1'>hinting</otmi:vector>
+              <otmi:vector count='1'>conserved</otmi:vector>
+              <otmi:vector count='1'>away</otmi:vector>
+              <otmi:vector count='1'>enzyme</otmi:vector>
+              <otmi:vector count='1'>organism</otmi:vector>
+              <otmi:vector count='1'>possibilities</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>themselves</otmi:vector>
+              <otmi:vector count='1'>initial</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>deal</otmi:vector>
+              <otmi:vector count='1'>toxic</otmi:vector>
+              <otmi:vector count='1'>chemically</otmi:vector>
+              <otmi:vector count='1'>bacterium</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>messenger</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>degrading</otmi:vector>
+              <otmi:vector count='1'>coli</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>worked</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>defective</otmi:vector>
+              <otmi:vector count='1'>middle</otmi:vector>
+              <otmi:vector count='1'>relevant</otmi:vector>
+              <otmi:vector count='1'>controlled</otmi:vector>
+              <otmi:vector count='1'>recognition</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>rid</otmi:vector>
+              <otmi:vector count='1'>problematic</otmi:vector>
+              <otmi:vector count='1'>Parker&apos;s</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>integrity</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>Two</otmi:vector>
+              <otmi:vector count='1'>accessory</otmi:vector>
+              <otmi:vector count='1'>copied</otmi:vector>
+              <otmi:vector count='1'>No-go</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>rapid</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>(reviewed</otmi:vector>
+              <otmi:vector count='1'>Pelota</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>ways</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>widespread</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>molecules</otmi:vector>
+              <otmi:vector count='1'>definitely</otmi:vector>
+              <otmi:vector count='1'>extensively</otmi:vector>
+              <otmi:vector count='1'>vital</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>co-opted</otmi:vector>
+              <otmi:vector count='1'>genes</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>physiologically</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>Consistent</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>organisms</otmi:vector>
+              <otmi:vector count='1'>targets</otmi:vector>
+              <otmi:vector count='1'>flies</otmi:vector>
+              <otmi:vector count='1'>nucleases</otmi:vector>
+              <otmi:vector count='1'>presumably</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>budding</otmi:vector>
+              <otmi:vector count='1'>alter</otmi:vector>
+              <otmi:vector count='1'>maturation</otmi:vector>
+              <otmi:vector count='1'>translational</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>stimuli</otmi:vector>
+              <otmi:vector count='1'>stalling</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>footprint</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>maintain</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>damaged</otmi:vector>
+              <otmi:vector count='1'>metabolic</otmi:vector>
+              <otmi:vector count='1'>differ</otmi:vector>
+              <otmi:vector count='1'>metabolically</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>abnormal</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>nibbled</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>unexpected</otmi:vector>
+              <otmi:vector count='1'>accuracy</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>quality</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>pause</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>expensive</otmi:vector>
+              <otmi:vector count='1'>impassable</otmi:vector>
+              <otmi:vector count='1'>releases</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>termed</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>response</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>recognizes</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>contact</otmi:vector>
+              <otmi:vector count='1'>radically</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>attractive</otmi:vector>
+              <otmi:vector count='1'>looks</otmi:vector>
+              <otmi:vector count='1'>artificial</otmi:vector>
+              <otmi:vector count='1'>nuclease</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>mutation</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>monitored</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>entry</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>vicinity</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>RNAs</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>Obvious</otmi:vector>
+              <otmi:vector count='1'>aberrant</otmi:vector>
+              <otmi:vector count='1'>initiated</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>apparently</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>engineered</otmi:vector>
+              <otmi:vector count='1'>steps</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>bacterium&apos;s</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>prevents</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>dealt</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>life</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>translating</otmi:vector>
+              <otmi:vector count='1'>Alternatively</otmi:vector>
+              <otmi:vector count='1'>protected</otmi:vector>
+              <otmi:vector count='1'>561</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>continuous</otmi:vector>
+              <otmi:vector count='1'>translation-termination</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>triggered</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>developmental</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>costly.</otmi:vector>
+              <otmi:vector count='1'>&quot;Nonsense-mediated</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>RNA–protein</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>usefully</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>cleave</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>degrade</otmi:vector>
+              <otmi:vector count='1'>detect</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>adjust</otmi:vector>
+              <otmi:vector count='1'>converts</otmi:vector>
+              <otmi:vector count='1'>triggers</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>nuclear</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>lifetime</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>progression</otmi:vector>
+              <otmi:vector count='1'>stabilized</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>pausing</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>remainder</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>entirely</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>transcript</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>cell-cycle</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>exclusively</otmi:vector>
+              <otmi:vector count='1'>guard</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>begins</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>nonsense-mediated</otmi:vector>
+              <otmi:vector count='1'>inspection</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>break</otmi:vector>
+              <otmi:vector count='1'>Escherichia</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>discovered</otmi:vector>
+              <otmi:vector count='1'>get</otmi:vector>
+              <otmi:vector count='1'>synthesize</otmi:vector>
+              <otmi:vector count='1'>functionality</otmi:vector>
+              <otmi:vector count='1'>infidelity</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>bound</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>catalyse</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Alternatively, interaction with Hbs1 or Dom34 might allow the ribosome itself to cleave the mRNA</otmi:snippet>
+              <otmi:snippet>Both enzymes have similar roles in the other degradation pathways</otmi:snippet>
+              <otmi:snippet>But in other contexts, mRNA fragments stabilized by the absence of Xrn1 or the exosome are also heterogeneous </otmi:snippet>
+              <otmi:snippet>But other, perhaps more physiologically relevant, mRNAs with translational pause sites were much less subject to no-go decay</otmi:snippet>
+              <otmi:snippet>But the no-go decay pathway identified by Doma and Parker is different: this pathway begins its work in the middle of the mRNA ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>By contrast, mRNAs that entirely lack a translation stop site are subject to &quot;non-stop decay&quot; (reviewed in refs 2 , 3 )</otmi:snippet>
+              <otmi:snippet>Cells alter their rates of mRNA transcription to change mRNA levels, and so rates of protein synthesis, in response to many stimuli</otmi:snippet>
+              <otmi:snippet>Consistent with this possibility, in mice and fruitflies a mutation of a close relative of Dom34 called Pelota leads to specific defects in development and cell-cycle progression </otmi:snippet>
+              <otmi:snippet>Doma and Parker ( page 561 of this issue) have discovered an mRNA quality-control system — &quot;no-go decay&quot; — with some unexpected features</otmi:snippet>
+              <otmi:snippet>During non-stop decay, Ski7 is proposed to release ribosomes stalled at the ends of mRNAs that lack a translation-termination site </otmi:snippet>
+              <otmi:snippet>For most human genes to be usefully expressed they must first be copied into messenger RNAs by the process of transcription</otmi:snippet>
+              <otmi:snippet>Hbs1 is also related to a protein called Ski7 that is an accessory to the exosome </otmi:snippet>
+              <otmi:snippet>How the mRNA cleavage occurs in no-go decay has yet to be worked out</otmi:snippet>
+              <otmi:snippet>However, it seems likely that in other contexts this pathway will have been co-opted to regulate the abundance of specific mRNAs</otmi:snippet>
+              <otmi:snippet>However, the ends of the fragments that Doma and Parker detected following no-go cleavage were quite heterogeneous — more so than might be predicted by cleavage within the stalled ribosome</otmi:snippet>
+              <otmi:snippet>In Doma and Parker&apos;s experiments, the no-go pathway is apparently acting specifically as a quality-control system</otmi:snippet>
+              <otmi:snippet>In addition, cells must guard against the synthesis of abnormal mRNAs (surveillance), which can produce defective, potentially toxic, protein products</otmi:snippet>
+              <otmi:snippet>In all organisms, the amount of each mRNA is very tightly controlled — a crucial step in the regulation of gene expression</otmi:snippet>
+              <otmi:snippet>In each of these four pathways — at least in yeast — the mRNAs are degraded exclusively from their ends</otmi:snippet>
+              <otmi:snippet>In either case, it would presumably be necessary to first remove the stalled ribosome, because inspection of the end points of the cleaved RNA does not show an obvious &quot;footprint&quot; — an area protected from cleavage by the bound ribosome</otmi:snippet>
+              <otmi:snippet>In fact, different mRNAs differ radically in their rates of degradation, and this is subject to both metabolic and developmental regulation</otmi:snippet>
+              <otmi:snippet>In fruitflies, recognition of mRNAs by the nonsense-mediated decay system also leads to their cleavage in the vicinity of the translation stop site </otmi:snippet>
+              <otmi:snippet>In support of this, in the bacterium Escherichia coli pausing of translation can cause mRNA cleavage by the ribosome (at the &quot;A site&quot; of the ribosome) </otmi:snippet>
+              <otmi:snippet>In this organism, two main pathways have been identified, each of which degrades the mRNA from only one of its ends — either the 5′ or the 3′ end</otmi:snippet>
+              <otmi:snippet>It is attractive to think that a similar mechanism might operate in yeast</otmi:snippet>
+              <otmi:snippet>It is not clear how widespread no-go decay is in yeast, or whether it is conserved in other animals</otmi:snippet>
+              <otmi:snippet>It may be that the main targets for no-go decay in the cell are chemically damaged mRNAs, which can cause a complete translation block </otmi:snippet>
+              <otmi:snippet>No-go degradation definitely requires stalling of the ribosome, because the termination of translation before the obstruction prevents cleavage of the mRNA </otmi:snippet>
+              <otmi:snippet>Notably, Doma and Parker report substantial cleavage of mRNAs containing an artificial stem–loop structure that should create an almost impassable block for the ribosome</otmi:snippet>
+              <otmi:snippet>Obvious possibilities are that Hbs1 or Dom34 catalyse it themselves, although their sequences do not suggest this, or they could recruit a specific nuclease enzyme to the site</otmi:snippet>
+              <otmi:snippet>Ski7 is also needed when the exosome degrades the cleaved no-go mRNAs </otmi:snippet>
+              <otmi:snippet>So it could be that the free ends are nibbled away by other nucleases after the mRNAs have been cleaved by the ribosome</otmi:snippet>
+              <otmi:snippet>So it looks as though Dom34 and Hbs1 might interact with the stalled ribosome</otmi:snippet>
+              <otmi:snippet>Such continuous surveillance to maintain high fidelity is metabolically expensive but, as elsewhere in life, infidelity is surely still more costly.</otmi:snippet>
+              <otmi:snippet>The authors engineered an obstruction into mRNAs (a very stable &quot;stem–loop&quot; structure) to stall the translating ribosome, and showed that this triggered degradation</otmi:snippet>
+              <otmi:snippet>The cleavage converts the mRNA into a non-stop transcript</otmi:snippet>
+              <otmi:snippet>The fidelity of mRNA translation into protein is vital for the overall accuracy of gene expression, and cells have evolved ways to detect any aberrant mRNAs that have structural defects</otmi:snippet>
+              <otmi:snippet>The initial cleavage of the mRNA involves two proteins called Dom34 and Hbs1</otmi:snippet>
+              <otmi:snippet>The integrity and functionality of mRNAs are monitored by surveillance activities that act at many steps during the molecules&apos; nuclear maturation and cytoplasmic lifetime</otmi:snippet>
+              <otmi:snippet>The no-go decay is initiated by cleavage of the mRNA close to the stall site</otmi:snippet>
+              <otmi:snippet>The normal turnover of mRNAs has been extensively analysed in budding yeast</otmi:snippet>
+              <otmi:snippet>These proteins are related to translation factors , which regulate translation through direct contact with the ribosome</otmi:snippet>
+              <otmi:snippet>These then program large, RNA–protein complexes called ribosomes to synthesize a specific protein by &quot;translation&quot;</otmi:snippet>
+              <otmi:snippet>This break generates entry sites for enzymes that degrade the remainder of the RNA: the free 5′ end is degraded by Xrn1, and the 3′ end is degraded by a complex termed the exosome ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>This can then be dealt with by the bacterium&apos;s non-stop decay pathway, which releases the stalled ribosome and degrades the problematic mRNA</otmi:snippet>
+              <otmi:snippet>This triggers rapid degradation by Xrn1 and the exosome, hinting that a mechanism similar to no-go decay might operate in the flies</otmi:snippet>
+              <otmi:snippet>To adjust mRNA levels, cells must be able to rapidly get rid of normal mRNAs that were previously synthesized (turnover)</otmi:snippet>
+              <otmi:snippet>Two further pathways deal only with quality control, specifically degrading mRNAs with structural defects. &quot;Nonsense-mediated decay&quot; recognizes mRNAs where the site of translation termination occurs too early in the RNA</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>No-go decay.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Doma and Parker show that the no-go decay pathway results in rapid mRNA cleavage and degradation. This pathway is different from other mRNA degradation pathways in yeast, in that stalling of the ribosome by a stem–loop structure leads to cleavage of the mRNA , a process that involves the Dom34 and Hbs1 proteins . This cleavage generates free ends that are subject to degradation: the enzyme Xrn1 chews up the mRNA from the 5′ end, whereas the multi-enzyme exosome complex degrades from the 3′ end. Dom34 and Hbs1 might interact directly with the &quot;A site&quot; of the stalled ribosome, possibly to promote release of the ribosome and allow subsequent mRNA cleavage, or they may directly stimulate cleavage of the mRNA.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/nature04530</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.ceb.2005.04.005</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.22.8.2564-2574.2002</otmi:refid>
+          <otmi:refid>info:doi/10.1534/genetics.105.044057</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1067272</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(03)00385-X</otmi:refid>
+          <otmi:refid>info:doi/10.1261/rna.5169404</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.21.5.1515-1530.2001</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02559</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.molcel.2004.09.002</otmi:refid>
+          <otmi:refid>info:doi/10.1242/dev.02151</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.23.4.1470-1476.2003</otmi:refid>
+          <otmi:refsnoid>2</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

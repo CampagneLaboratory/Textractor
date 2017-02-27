@@ -1,0 +1,755 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>2020 Computing Science in an exponential world</title>
+      <id>info:doi/10.1038/440413a</id>
+      <link href='http://dx.doi.org/10.1038/440413a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Alexander Szalay</name>
+      </author>
+      <author>
+        <name>Jim Gray</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>413</prism:startingPage>
+      <prism:endingPage>414</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='59'>data</otmi:vector>
+              <otmi:vector count='14'>will</otmi:vector>
+              <otmi:vector count='12'>can</otmi:vector>
+              <otmi:vector count='10'>not</otmi:vector>
+              <otmi:vector count='10'>analysis</otmi:vector>
+              <otmi:vector count='9'>they</otmi:vector>
+              <otmi:vector count='9'>experiments</otmi:vector>
+              <otmi:vector count='9'>so</otmi:vector>
+              <otmi:vector count='9'>sets</otmi:vector>
+              <otmi:vector count='9'>their</otmi:vector>
+              <otmi:vector count='8'>But</otmi:vector>
+              <otmi:vector count='8'>one</otmi:vector>
+              <otmi:vector count='8'>scientists</otmi:vector>
+              <otmi:vector count='8'>instruments</otmi:vector>
+              <otmi:vector count='8'>scientific</otmi:vector>
+              <otmi:vector count='7'>more</otmi:vector>
+              <otmi:vector count='7'>new</otmi:vector>
+              <otmi:vector count='7'>have</otmi:vector>
+              <otmi:vector count='6'>today</otmi:vector>
+              <otmi:vector count='6'>but</otmi:vector>
+              <otmi:vector count='6'>there</otmi:vector>
+              <otmi:vector count='6'>them</otmi:vector>
+              <otmi:vector count='6'>archives</otmi:vector>
+              <otmi:vector count='5'>also</otmi:vector>
+              <otmi:vector count='5'>growth</otmi:vector>
+              <otmi:vector count='5'>these</otmi:vector>
+              <otmi:vector count='5'>analyse</otmi:vector>
+              <otmi:vector count='5'>several</otmi:vector>
+              <otmi:vector count='5'>do</otmi:vector>
+              <otmi:vector count='5'>such</otmi:vector>
+              <otmi:vector count='5'>tools</otmi:vector>
+              <otmi:vector count='5'>others</otmi:vector>
+              <otmi:vector count='5'>science</otmi:vector>
+              <otmi:vector count='5'>become</otmi:vector>
+              <otmi:vector count='5'>results</otmi:vector>
+              <otmi:vector count='5'>reproduce</otmi:vector>
+              <otmi:vector count='5'>large</otmi:vector>
+              <otmi:vector count='5'>databases</otmi:vector>
+              <otmi:vector count='4'>sharing</otmi:vector>
+              <otmi:vector count='4'>paper</otmi:vector>
+              <otmi:vector count='4'>up</otmi:vector>
+              <otmi:vector count='4'>computers</otmi:vector>
+              <otmi:vector count='4'>standards</otmi:vector>
+              <otmi:vector count='4'>way</otmi:vector>
+              <otmi:vector count='4'>increasingly</otmi:vector>
+              <otmi:vector count='4'>process</otmi:vector>
+              <otmi:vector count='4'>steps</otmi:vector>
+              <otmi:vector count='4'>all</otmi:vector>
+              <otmi:vector count='4'>important</otmi:vector>
+              <otmi:vector count='4'>provide</otmi:vector>
+              <otmi:vector count='4'>complex</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>how</otmi:vector>
+              <otmi:vector count='4'>across</otmi:vector>
+              <otmi:vector count='4'>year</otmi:vector>
+              <otmi:vector count='4'>time</otmi:vector>
+              <otmi:vector count='4'>must</otmi:vector>
+              <otmi:vector count='3'>facilities</otmi:vector>
+              <otmi:vector count='3'>years</otmi:vector>
+              <otmi:vector count='3'>many</otmi:vector>
+              <otmi:vector count='3'>There</otmi:vector>
+              <otmi:vector count='3'>volumes</otmi:vector>
+              <otmi:vector count='3'>network</otmi:vector>
+              <otmi:vector count='3'>example</otmi:vector>
+              <otmi:vector count='3'>Large</otmi:vector>
+              <otmi:vector count='3'>notebooks</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>documenting</otmi:vector>
+              <otmi:vector count='3'>becoming</otmi:vector>
+              <otmi:vector count='3'>see</otmi:vector>
+              <otmi:vector count='3'>difficult</otmi:vector>
+              <otmi:vector count='3'>Scientists</otmi:vector>
+              <otmi:vector count='3'>few</otmi:vector>
+              <otmi:vector count='3'>arduous</otmi:vector>
+              <otmi:vector count='3'>did</otmi:vector>
+              <otmi:vector count='3'>GenBank</otmi:vector>
+              <otmi:vector count='3'>procedures</otmi:vector>
+              <otmi:vector count='3'>generation</otmi:vector>
+              <otmi:vector count='3'>trends</otmi:vector>
+              <otmi:vector count='3'>Internet</otmi:vector>
+              <otmi:vector count='3'>exponential</otmi:vector>
+              <otmi:vector count='3'>find</otmi:vector>
+              <otmi:vector count='3'>Matlab</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>Many</otmi:vector>
+              <otmi:vector count='3'>believe</otmi:vector>
+              <otmi:vector count='2'>measurements</otmi:vector>
+              <otmi:vector count='2'>database</otmi:vector>
+              <otmi:vector count='2'>organize</otmi:vector>
+              <otmi:vector count='2'>another</otmi:vector>
+              <otmi:vector count='2'>Synoptic</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>achieve</otmi:vector>
+              <otmi:vector count='2'>big</otmi:vector>
+              <otmi:vector count='2'>public</otmi:vector>
+              <otmi:vector count='2'>20</otmi:vector>
+              <otmi:vector count='2'>Fully</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>One</otmi:vector>
+              <otmi:vector count='2'>Telescope</otmi:vector>
+              <otmi:vector count='2'>vocabulary</otmi:vector>
+              <otmi:vector count='2'>replaced</otmi:vector>
+              <otmi:vector count='2'>scientist</otmi:vector>
+              <otmi:vector count='2'>standard</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>petabytes</otmi:vector>
+              <otmi:vector count='2'>terabytes</otmi:vector>
+              <otmi:vector count='2'>ago</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>record</otmi:vector>
+              <otmi:vector count='2'>patterns</otmi:vector>
+              <otmi:vector count='2'>ways</otmi:vector>
+              <otmi:vector count='2'>cheaper</otmi:vector>
+              <otmi:vector count='2'>created</otmi:vector>
+              <otmi:vector count='2'>1,000</otmi:vector>
+              <otmi:vector count='2'>expect</otmi:vector>
+              <otmi:vector count='2'>millions</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>soil</otmi:vector>
+              <otmi:vector count='2'>analysed</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>gigabytes</otmi:vector>
+              <otmi:vector count='2'>environmental</otmi:vector>
+              <otmi:vector count='2'>petabyte</otmi:vector>
+              <otmi:vector count='2'>electronic</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>management</otmi:vector>
+              <otmi:vector count='2'>http:</otmi:vector>
+              <otmi:vector count='2'>model</otmi:vector>
+              <otmi:vector count='2'>group</otmi:vector>
+              <otmi:vector count='2'>format</otmi:vector>
+              <otmi:vector count='2'>access</otmi:vector>
+              <otmi:vector count='2'>cubes</otmi:vector>
+              <otmi:vector count='2'>archive</otmi:vector>
+              <otmi:vector count='2'>essential</otmi:vector>
+              <otmi:vector count='2'>themselves</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>controlled</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>Survey</otmi:vector>
+              <otmi:vector count='2'>combine</otmi:vector>
+              <otmi:vector count='2'>Standards</otmi:vector>
+              <otmi:vector count='2'>yet</otmi:vector>
+              <otmi:vector count='2'>disciplines</otmi:vector>
+              <otmi:vector count='2'>publish</otmi:vector>
+              <otmi:vector count='2'>scaling</otmi:vector>
+              <otmi:vector count='2'>when</otmi:vector>
+              <otmi:vector count='2'>discoveries</otmi:vector>
+              <otmi:vector count='2'>grow</otmi:vector>
+              <otmi:vector count='2'>longer</otmi:vector>
+              <otmi:vector count='2'>workflows</otmi:vector>
+              <otmi:vector count='2'>raises</otmi:vector>
+              <otmi:vector count='2'>astronomy</otmi:vector>
+              <otmi:vector count='2'>easily</otmi:vector>
+              <otmi:vector count='2'>smaller</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>obsolete</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>2020</otmi:vector>
+              <otmi:vector count='2'>place</otmi:vector>
+              <otmi:vector count='2'>computations</otmi:vector>
+              <otmi:vector count='2'>questions</otmi:vector>
+              <otmi:vector count='2'>sensors</otmi:vector>
+              <otmi:vector count='2'>include</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>Some</otmi:vector>
+              <otmi:vector count='2'>pattern</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>continue</otmi:vector>
+              <otmi:vector count='2'>collaborations</otmi:vector>
+              <otmi:vector count='2'>areas</otmi:vector>
+              <otmi:vector count='2'>recognize</otmi:vector>
+              <otmi:vector count='2'>records</otmi:vector>
+              <otmi:vector count='2'>done</otmi:vector>
+              <otmi:vector count='2'>software</otmi:vector>
+              <otmi:vector count='2'>capture</otmi:vector>
+              <otmi:vector count='2'>often</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='2'>long</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>Data</otmi:vector>
+              <otmi:vector count='2'>small</otmi:vector>
+              <otmi:vector count='2'>none</otmi:vector>
+              <otmi:vector count='2'>biodiversity</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>current</otmi:vector>
+              <otmi:vector count='2'>automatically</otmi:vector>
+              <otmi:vector count='1'>match</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>document</otmi:vector>
+              <otmi:vector count='1'>world.</otmi:vector>
+              <otmi:vector count='1'>Virtual</otmi:vector>
+              <otmi:vector count='1'>review</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>annually</otmi:vector>
+              <otmi:vector count='1'>limits</otmi:vector>
+              <otmi:vector count='1'>International</otmi:vector>
+              <otmi:vector count='1'>measurement</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>leapfrogged</otmi:vector>
+              <otmi:vector count='1'>draw</otmi:vector>
+              <otmi:vector count='1'>innovations</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>proprietary</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>roughly</otmi:vector>
+              <otmi:vector count='1'>once</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>Exponential</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>amounts</otmi:vector>
+              <otmi:vector count='1'>copying</otmi:vector>
+              <otmi:vector count='1'>bandwidth</otmi:vector>
+              <otmi:vector count='1'>programs</otmi:vector>
+              <otmi:vector count='1'>integrates</otmi:vector>
+              <otmi:vector count='1'>text</otmi:vector>
+              <otmi:vector count='1'>revisions</otmi:vector>
+              <otmi:vector count='1'>helping</otmi:vector>
+              <otmi:vector count='1'>experts</otmi:vector>
+              <otmi:vector count='1'>supposed</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>looking</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>entered</otmi:vector>
+              <otmi:vector count='1'>converting</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>explosion</otmi:vector>
+              <otmi:vector count='1'>fastest</otmi:vector>
+              <otmi:vector count='1'>free</otmi:vector>
+              <otmi:vector count='1'>sort</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>straightforward</otmi:vector>
+              <otmi:vector count='1'>processing</otmi:vector>
+              <otmi:vector count='1'>regional</otmi:vector>
+              <otmi:vector count='1'>integral</otmi:vector>
+              <otmi:vector count='1'>rewarded</otmi:vector>
+              <otmi:vector count='1'>picture</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>402</otmi:vector>
+              <otmi:vector count='1'>preprint</otmi:vector>
+              <otmi:vector count='1'>primitive</otmi:vector>
+              <otmi:vector count='1'>ones</otmi:vector>
+              <otmi:vector count='1'>reproduced</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>doubling</otmi:vector>
+              <otmi:vector count='1'>scaling-out</otmi:vector>
+              <otmi:vector count='1'>offers</otmi:vector>
+              <otmi:vector count='1'>issues</otmi:vector>
+              <otmi:vector count='1'>formatting</otmi:vector>
+              <otmi:vector count='1'>Experiments</otmi:vector>
+              <otmi:vector count='1'>concepts</otmi:vector>
+              <otmi:vector count='1'>summary</otmi:vector>
+              <otmi:vector count='1'>performing</otmi:vector>
+              <otmi:vector count='1'>biogeochemistry</otmi:vector>
+              <otmi:vector count='1'>world&apos;s</otmi:vector>
+              <otmi:vector count='1'>www.IVOA.net</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>Observatory</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>Feature</otmi:vector>
+              <otmi:vector count='1'>recording</otmi:vector>
+              <otmi:vector count='1'>literature</otmi:vector>
+              <otmi:vector count='1'>Procedures</otmi:vector>
+              <otmi:vector count='1'>Galileo</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>examine</otmi:vector>
+              <otmi:vector count='1'>super-computers</otmi:vector>
+              <otmi:vector count='1'>sending</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>statistics</otmi:vector>
+              <otmi:vector count='1'>Excel</otmi:vector>
+              <otmi:vector count='1'>repeat</otmi:vector>
+              <otmi:vector count='1'>systematic</otmi:vector>
+              <otmi:vector count='1'>compute</otmi:vector>
+              <otmi:vector count='1'>worked</otmi:vector>
+              <otmi:vector count='1'>read</otmi:vector>
+              <otmi:vector count='1'>explicit</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>semantics</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>encourage</otmi:vector>
+              <otmi:vector count='1'>address</otmi:vector>
+              <otmi:vector count='1'>students</otmi:vector>
+              <otmi:vector count='1'>US$300</otmi:vector>
+              <otmi:vector count='1'>astronomy&apos;s</otmi:vector>
+              <otmi:vector count='1'>Instead</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>deploy</otmi:vector>
+              <otmi:vector count='1'>books</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>repository</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>sensor</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>Increasingly</otmi:vector>
+              <otmi:vector count='1'>old</otmi:vector>
+              <otmi:vector count='1'>equivalent</otmi:vector>
+              <otmi:vector count='1'>linear</otmi:vector>
+              <otmi:vector count='1'>credit</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>desktop</otmi:vector>
+              <otmi:vector count='1'>scales</otmi:vector>
+              <otmi:vector count='1'>cross-correlated</otmi:vector>
+              <otmi:vector count='1'>enduring</otmi:vector>
+              <otmi:vector count='1'>traditional</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>departments</otmi:vector>
+              <otmi:vector count='1'>filtered</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>DNA-sequencing</otmi:vector>
+              <otmi:vector count='1'>international</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>specified</otmi:vector>
+              <otmi:vector count='1'>Mendel</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>kept</otmi:vector>
+              <otmi:vector count='1'>distorted</otmi:vector>
+              <otmi:vector count='1'>scale</otmi:vector>
+              <otmi:vector count='1'>later</otmi:vector>
+              <otmi:vector count='1'>publishers</otmi:vector>
+              <otmi:vector count='1'>collect</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>fulfil</otmi:vector>
+              <otmi:vector count='1'>parameter</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>improvements</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>billion</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>criteria</otmi:vector>
+              <otmi:vector count='1'>develop</otmi:vector>
+              <otmi:vector count='1'>gene</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>hold</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>Today</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>go</otmi:vector>
+              <otmi:vector count='1'>disappear</otmi:vector>
+              <otmi:vector count='1'>data-mining</otmi:vector>
+              <otmi:vector count='1'>physicists</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>written</otmi:vector>
+              <otmi:vector count='1'>challenge</otmi:vector>
+              <otmi:vector count='1'>disseminate</otmi:vector>
+              <otmi:vector count='1'>collaborators</otmi:vector>
+              <otmi:vector count='1'>training</otmi:vector>
+              <otmi:vector count='1'>universal</otmi:vector>
+              <otmi:vector count='1'>executed</otmi:vector>
+              <otmi:vector count='1'>graduate</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>ideal</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>visualize</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>experience</otmi:vector>
+              <otmi:vector count='1'>ever</otmi:vector>
+              <otmi:vector count='1'>provenance</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>computed</otmi:vector>
+              <otmi:vector count='1'>chips</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>billion-dollar</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>collected</otmi:vector>
+              <otmi:vector count='1'>data-collection</otmi:vector>
+              <otmi:vector count='1'>teams</otmi:vector>
+              <otmi:vector count='1'>objects</otmi:vector>
+              <otmi:vector count='1'>acquire</otmi:vector>
+              <otmi:vector count='1'>response</otmi:vector>
+              <otmi:vector count='1'>perform</otmi:vector>
+              <otmi:vector count='1'>switched</otmi:vector>
+              <otmi:vector count='1'>multibillion-dollar</otmi:vector>
+              <otmi:vector count='1'>exchange</otmi:vector>
+              <otmi:vector count='1'>copy</otmi:vector>
+              <otmi:vector count='1'>translated</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>Hadron</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>Smaller</otmi:vector>
+              <otmi:vector count='1'>measuring</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>exceeding</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>hydrology</otmi:vector>
+              <otmi:vector count='1'>e-mail</otmi:vector>
+              <otmi:vector count='1'>affordable</otmi:vector>
+              <otmi:vector count='1'>laboratory</otmi:vector>
+              <otmi:vector count='1'>technological</otmi:vector>
+              <otmi:vector count='1'>publishing</otmi:vector>
+              <otmi:vector count='1'>technology</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>solution</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>attempting</otmi:vector>
+              <otmi:vector count='1'>formal</otmi:vector>
+              <otmi:vector count='1'>picking</otmi:vector>
+              <otmi:vector count='1'>via</otmi:vector>
+              <otmi:vector count='1'>websites</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>handling</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>query</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>let</otmi:vector>
+              <otmi:vector count='1'>parts</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>Multidisciplinary</otmi:vector>
+              <otmi:vector count='1'>petascale</otmi:vector>
+              <otmi:vector count='1'>today&apos;s</otmi:vector>
+              <otmi:vector count='1'>implications</otmi:vector>
+              <otmi:vector count='1'>imagine</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>challenges</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>dictionary</otmi:vector>
+              <otmi:vector count='1'>fine</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>chance</otmi:vector>
+              <otmi:vector count='1'>involve</otmi:vector>
+              <otmi:vector count='1'>sub-disciplines</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>computer</otmi:vector>
+              <otmi:vector count='1'>someone</otmi:vector>
+              <otmi:vector count='1'>trained</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>gold-mine</otmi:vector>
+              <otmi:vector count='1'>deposit</otmi:vector>
+              <otmi:vector count='1'>generating</otmi:vector>
+              <otmi:vector count='1'>horizon</otmi:vector>
+              <otmi:vector count='1'>Fortunately</otmi:vector>
+              <otmi:vector count='1'>yield</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>chemists</otmi:vector>
+              <otmi:vector count='1'>coming</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>arXiv.org</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>protocols</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>wireless</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>statistical</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>extract</otmi:vector>
+              <otmi:vector count='1'>happening</otmi:vector>
+              <otmi:vector count='1'>discipline</otmi:vector>
+              <otmi:vector count='1'>manage</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>suspect</otmi:vector>
+              <otmi:vector count='1'>News</otmi:vector>
+              <otmi:vector count='1'>portal</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>data-rich</otmi:vector>
+              <otmi:vector count='1'>integrating</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>Mathematica</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>analysing</otmi:vector>
+              <otmi:vector count='1'>hundreds</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>Public</otmi:vector>
+              <otmi:vector count='1'>cost</otmi:vector>
+              <otmi:vector count='1'>terabyte</otmi:vector>
+              <otmi:vector count='1'>language</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>Internet-connected</otmi:vector>
+              <otmi:vector count='1'>long-term</otmi:vector>
+              <otmi:vector count='1'>building</otmi:vector>
+              <otmi:vector count='1'>exact</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>deluge</otmi:vector>
+              <otmi:vector count='1'>Collider</otmi:vector>
+              <otmi:vector count='1'>Too</otmi:vector>
+              <otmi:vector count='1'>enormously</otmi:vector>
+              <otmi:vector count='1'>machine</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>appendices</otmi:vector>
+              <otmi:vector count='1'>realize</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>dimensions</otmi:vector>
+              <otmi:vector count='1'>ecosystems</otmi:vector>
+              <otmi:vector count='1'>Databases</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>exploit</otmi:vector>
+              <otmi:vector count='1'>Likely</otmi:vector>
+              <otmi:vector count='1'>Astronomers</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>description</otmi:vector>
+              <otmi:vector count='1'>Similar</otmi:vector>
+              <otmi:vector count='1'>piece</otmi:vector>
+              <otmi:vector count='1'>Current</otmi:vector>
+              <otmi:vector count='1'>archiving</otmi:vector>
+              <otmi:vector count='1'>Paper</otmi:vector>
+              <otmi:vector count='1'>labour</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>DNA</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>settings</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>merely</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>publication</otmi:vector>
+              <otmi:vector count='1'>your</otmi:vector>
+              <otmi:vector count='1'>procedure</otmi:vector>
+              <otmi:vector count='1'>survive</otmi:vector>
+              <otmi:vector count='1'>skill</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>collaboration</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>replicate</otmi:vector>
+              <otmi:vector count='1'>mine</otmi:vector>
+              <otmi:vector count='1'>popular</otmi:vector>
+              <otmi:vector count='1'>dollar</otmi:vector>
+              <otmi:vector count='1'>mean</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>myriad</otmi:vector>
+              <otmi:vector count='1'>computational</otmi:vector>
+              <otmi:vector count='1'>tenfold</otmi:vector>
+              <otmi:vector count='1'>lab</otmi:vector>
+              <otmi:vector count='1'>old-fashioned</otmi:vector>
+              <otmi:vector count='1'>careful</otmi:vector>
+              <otmi:vector count='1'>rich</otmi:vector>
+              <otmi:vector count='1'>output</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>Alliance</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>array</otmi:vector>
+              <otmi:vector count='1'>semantic</otmi:vector>
+              <otmi:vector count='1'>date</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>vast</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>data-visualization</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>impossible</otmi:vector>
+              <otmi:vector count='1'>www.lifeunderyourfeet.org</otmi:vector>
+              <otmi:vector count='1'>leapfrogs</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>usable</otmi:vector>
+              <otmi:vector count='1'>pace</otmi:vector>
+              <otmi:vector count='1'>Darwin</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>powerful</otmi:vector>
+              <otmi:vector count='1'>repeatable</otmi:vector>
+              <otmi:vector count='1'>reviewer</otmi:vector>
+              <otmi:vector count='1'>needs</otmi:vector>
+              <otmi:vector count='1'>security</otmi:vector>
+              <otmi:vector count='1'>handle</otmi:vector>
+              <otmi:vector count='1'>commodity</otmi:vector>
+              <otmi:vector count='1'>creators</otmi:vector>
+              <otmi:vector count='1'>sense</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>parameters</otmi:vector>
+              <otmi:vector count='1'>2011</otmi:vector>
+              <otmi:vector count='1'>notebook</otmi:vector>
+              <otmi:vector count='1'>properly</otmi:vector>
+              <otmi:vector count='1'>fit</otmi:vector>
+              <otmi:vector count='1'>wasted</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>Few</otmi:vector>
+              <otmi:vector count='1'>workstation</otmi:vector>
+              <otmi:vector count='1'>pipette</otmi:vector>
+              <otmi:vector count='1'>common</otmi:vector>
+              <otmi:vector count='1'>variables</otmi:vector>
+              <otmi:vector count='1'>reaching</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>load</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>storage</otmi:vector>
+              <otmi:vector count='1'>computer-performance</otmi:vector>
+              <otmi:vector count='1'>Desktop</otmi:vector>
+              <otmi:vector count='1'>keep</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>faces</otmi:vector>
+              <otmi:vector count='1'>phenomenon</otmi:vector>
+              <otmi:vector count='1'>plateau</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>producing</otmi:vector>
+              <otmi:vector count='1'>zones</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>Analysing</otmi:vector>
+              <otmi:vector count='1'>alongside</otmi:vector>
+              <otmi:vector count='1'>sequencers</otmi:vector>
+              <otmi:vector count='1'>statisticians</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>biologists</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A collaboration involving hundreds of Internet-connected scientists raises questions about standards for data sharing</otmi:snippet>
+              <otmi:snippet>A similar phenomenon occurred with DNA chips and gene sequencers</otmi:snippet>
+              <otmi:snippet>Analysing terabytes of data (one terabyte is 1,000 gigabytes) is a challenge; but petabyte data sets (of more than 1,000 terabytes) are on the horizon</otmi:snippet>
+              <otmi:snippet>And once these petascale experiments are switched on they will produce roughly the same amount of data each year — merely linear growth</otmi:snippet>
+              <otmi:snippet>And so although some sub-disciplines may reach a plateau in data generation, other technological innovations will take their place</otmi:snippet>
+              <otmi:snippet>And so large data archives are becoming increasingly &quot;isolated&quot; in the network sense —one can copy gigabytes across the Internet today, but not petabytes</otmi:snippet>
+              <otmi:snippet>Are we reaching the limits of what one scientist, or one lab, can expect to achieve in data handling and analysis? If so, this will have implications for how we review and publish our work</otmi:snippet>
+              <otmi:snippet>As data volumes grow, it is increasingly arduous to extract knowledge</otmi:snippet>
+              <otmi:snippet>As experiments yield more data, and analysis becomes more complex, data become increasingly difficult to document and reproduce</otmi:snippet>
+              <otmi:snippet>Astronomers created the International Virtual Observatory Alliance ( http://www.IVOA.net ), integrating most of the world&apos;s medium and large astronomy archives</otmi:snippet>
+              <otmi:snippet>But data volumes are doubling every year in most areas of modern science and the analysis is becoming more and more complex, exceeding the capacity of the paper notebook</otmi:snippet>
+              <otmi:snippet>But in the scaling-out model, experiments that deploy an array of small instruments can exploit the coming explosion in cheaper commodity technology</otmi:snippet>
+              <otmi:snippet>But none of these programs scale up to handle millions of data records — and they are primitive by most standards</otmi:snippet>
+              <otmi:snippet>But the management of distributed computations raises new questions of security, free access to public data and cost</otmi:snippet>
+              <otmi:snippet>But there are few tools to properly visualize data across multiple scales and data sets</otmi:snippet>
+              <otmi:snippet>But there is, as yet, no standard for publishing large volumes of data</otmi:snippet>
+              <otmi:snippet>But this data-rich approach to science faces challenges</otmi:snippet>
+              <otmi:snippet>But we believe that with current trends it is nearly impossible to reproduce experiments</otmi:snippet>
+              <otmi:snippet>Current databases have a long way to go to achieve this ideal</otmi:snippet>
+              <otmi:snippet>Data gold-mine Multidisciplinary databases also provide a rich environment for performing science; that is, a scientist may collect new data, combine them with data from other archives, and ultimately deposit the summary data back into a common archive</otmi:snippet>
+              <otmi:snippet>Databases provide tools to organize large data sets, find objects that match certain criteria, compute statistics about the data, and analyse them to find patterns</otmi:snippet>
+              <otmi:snippet>Exponential growth occurs when a new generation of instruments leapfrogs the previous generation, which become obsolete</otmi:snippet>
+              <otmi:snippet>Few data archives address these issues today</otmi:snippet>
+              <otmi:snippet>For example, a data-mining paper needs to include the explicit description (database query) of how the data that were analysed in the paper were collected and filtered, but not the data themselves</otmi:snippet>
+              <otmi:snippet>For example, imagine a measurement taken using a DNA-sequencing machine</otmi:snippet>
+              <otmi:snippet>For how long will this exponential growth in scientific data continue? Desktop computers today are as powerful as the super-computers of 10 years ago</otmi:snippet>
+              <otmi:snippet>For the analysis to be repeatable in 20 years&apos; time requires archiving both data and tools</otmi:snippet>
+              <otmi:snippet>For these data to be useful to others, they must be published using a controlled vocabulary and in standard forms, and the instruments and measurements must be well specified</otmi:snippet>
+              <otmi:snippet>Fully documenting the sensors and data-collection process is arduous, and there are few standards for us to draw on</otmi:snippet>
+              <otmi:snippet>Fully documenting these steps would be arduous, and there is little chance that someone could repeat the exact procedure 20 years from now; both Matlab and GenBank will change enormously in that time</otmi:snippet>
+              <otmi:snippet>Galileo did it, Mendel did it, Darwin did it, and we are supposed to do it</otmi:snippet>
+              <otmi:snippet>If we can no longer examine all the data on a single piece of paper, how can we &quot;see&quot; a new pattern or find a data point that does not fit a hypothesis? Fortunately there are database tools, such as data cubes, that we believe can fulfil this role (see &quot;Data cubes&quot; )</otmi:snippet>
+              <otmi:snippet>In response to this data deluge, the systematic use of databases has become an integral part of the scientific process</otmi:snippet>
+              <otmi:snippet>In the future, working with large data sets will typically mean sending computations to the data, rather than copying the data to your workstation</otmi:snippet>
+              <otmi:snippet>In this way, a reviewer with access to public data could reproduce the data sets and analysis procedures</otmi:snippet>
+              <otmi:snippet>Increasingly, scientists are analysing complex systems that require data to be combined from several groups and even several disciplines</otmi:snippet>
+              <otmi:snippet>Instead they &quot;mine&quot; available databases, looking for new patterns and discoveries, without ever picking up a pipette</otmi:snippet>
+              <otmi:snippet>It is difficult to capture all the model numbers, software revisions, parameter settings and process steps in an enduring format</otmi:snippet>
+              <otmi:snippet>It is important to realize that today&apos;s graduate students need formal training in areas beyond their central discipline: they need to know some data management, computational concepts and statistical techniques</otmi:snippet>
+              <otmi:snippet>It is important to recognize this pattern; it is universal</otmi:snippet>
+              <otmi:snippet>Likely computer-performance improvements by 2011 include tenfold more processing, storage and network bandwidth per dollar</otmi:snippet>
+              <otmi:snippet>Many experiments today load their data into databases before attempting to analyse them</otmi:snippet>
+              <otmi:snippet>Many predict dramatic changes to the way science is done, and suspect that few traditional processes will survive in their current form by 2020 (ref. 1 )</otmi:snippet>
+              <otmi:snippet>Many scientists no longer &quot;do&quot; experiments the old-fashioned way</otmi:snippet>
+              <otmi:snippet>One might argue that complex biological experiments have always been difficult to reproduce, as there are so many variables</otmi:snippet>
+              <otmi:snippet>One petabyte is equivalent to the text in one billion books, yet many scientific instruments, including the Large Synoptic Survey Telescope, will soon be generating several petabytes annually</otmi:snippet>
+              <otmi:snippet>Paper appendices cannot hold all the data needed to reproduce the results</otmi:snippet>
+              <otmi:snippet>Procedures already involve instruments and software with myriad parameters</otmi:snippet>
+              <otmi:snippet>Public data creators and publishers should be given credit, and archives must be able to automatically provide provenance details</otmi:snippet>
+              <otmi:snippet>Scientists are trained early to keep careful records in their laboratory notebooks — recording both experimental procedures and observations, so that they can analyse their results and so that others can replicate what they have done</otmi:snippet>
+              <otmi:snippet>Scientists in 2020 will continue to work in an exponential world.</otmi:snippet>
+              <otmi:snippet>Scientists must labour to organize, sort and reduce the data, with each analysis step producing smaller data sets that eventually lead to the big picture</otmi:snippet>
+              <otmi:snippet>Similar progress is happening with scientific instruments — they quickly become obsolete and are replaced by better and often cheaper ones</otmi:snippet>
+              <otmi:snippet>Smaller is faster However, not all experiments will experience exponential growth</otmi:snippet>
+              <otmi:snippet>So we can expect ten times more data</otmi:snippet>
+              <otmi:snippet>Some disciplines have created their own data archives, such as GenBank; others just let data show up, and then disappear, on individual scientists&apos; websites</otmi:snippet>
+              <otmi:snippet>Some scientists are building billion-dollar facilities, such as astronomy&apos;s Large Synoptic Survey Telescope or the Large Hadron Collider, which are only affordable as international collaborations</otmi:snippet>
+              <otmi:snippet>Standards are essential at several levels: in formatting, so that data written by one group can be easily read and understood by others; in semantics, so that a term used by one group can be translated (often automatically) by another without its meaning being distorted; and in workflows, so that analysis steps can be executed across the Internet and reproduced by others at a later date</otmi:snippet>
+              <otmi:snippet>Standards for sharing data are crucial, for example, in understanding soil ecosystems</otmi:snippet>
+              <otmi:snippet>Such facilities are not easily leapfrogged</otmi:snippet>
+              <otmi:snippet>The output is cross-correlated with a sequence archive (GenBank) and the results are analysed with Matlab</otmi:snippet>
+              <otmi:snippet>The publication process itself is increasingly electronic, with new ways to disseminate scientific information (such as the preprint repository arXiv.org)</otmi:snippet>
+              <otmi:snippet>The same language Experiments are themselves becoming electronic as computers become essential parts of scientific instruments; they are used not only to manage and analyse vast data sets, but also to acquire them in the first place</otmi:snippet>
+              <otmi:snippet>The speed of the Internet has not kept pace with the growth of scientific data sets</otmi:snippet>
+              <otmi:snippet>The wireless sensors that were US$300 a year ago are $100 today, and will be $30 next year</otmi:snippet>
+              <otmi:snippet>There are collaborations sharing data across departments and time zones, and important discoveries are made by scientists and teams who combine different skill sets — not just biologists, physicists and chemists, but also computer scientists, statisticians and data-visualization experts</otmi:snippet>
+              <otmi:snippet>There are two trends in science today, scaling up and scaling out</otmi:snippet>
+              <otmi:snippet>There is reason to believe that it will be the smaller experiments, not the big multibillion-dollar facilities, that will grow the fastest</otmi:snippet>
+              <otmi:snippet>These computers also perform data analysis; Matlab, Mathematica and Excel are popular analysis tools</otmi:snippet>
+              <otmi:snippet>This required new standards for data exchange, and a semantic dictionary that offers a controlled vocabulary of astronomy terms</otmi:snippet>
+              <otmi:snippet>This system integrates local environmental data from a sensor network with regional data on hydrology, climate, biodiversity and biogeochemistry</otmi:snippet>
+              <otmi:snippet>This worked fine when small amounts of data were entered into notebooks and the analysis was computed alongside them</otmi:snippet>
+              <otmi:snippet>To encourage data sharing, it should be rewarded</otmi:snippet>
+              <otmi:snippet>Today, most scientists have replaced or enhanced their notebooks with desktop computers that record their results, provide a portal to the scientific literature, and link them to collaborators via e-mail</otmi:snippet>
+              <otmi:snippet>Too much effort is wasted on converting from one proprietary data format to another</otmi:snippet>
+              <otmi:snippet>We are helping to build a system for measuring long-term environmental trends that affect soil biodiversity ( http://www.lifeunderyourfeet.org ; see also News Feature, page 402 )</otmi:snippet>
+              <otmi:snippet>We do not have a solution for this problem, but it is important to recognize it as such, and to do what is possible to capture the workflows and to develop protocols for documenting instruments, procedures and measurements in ways that will be usable in several decades&apos; time</otmi:snippet>
+              <otmi:snippet>With data correlated over many dimensions and millions of points, none of the old steps — do experiment, record results, analyse and publish — is straightforward</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>1</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

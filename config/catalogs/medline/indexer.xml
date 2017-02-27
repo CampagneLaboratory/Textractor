@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+        list="medline-files.txt"
+        writeRetractionMap="true" retractionMapFile="medlineRetractionMap.ser"
+        appendSentencesInOneDocument="false" sentenceBoundary=" " loadTitles="true">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+            basename="index/pubmed-index"
+            parenthesesAreWords="true" skips="true"
+            wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+            termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"
+            indexConfigurationFile="config/catalogs/medline/index-configuration.properties"
+            documentFactoryClass="textractor.mg4j.document.ConfigurableTextractorDocumentFactory"/>
+    </chain>
+</catalog>

@@ -1,0 +1,773 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>2020 Computing Exceeding human limits</title>
+      <id>info:doi/10.1038/440409a</id>
+      <link href='http://dx.doi.org/10.1038/440409a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Stephen H. Muggleton</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>409</prism:startingPage>
+      <prism:endingPage>410</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='17'>data</otmi:vector>
+              <otmi:vector count='14'>models</otmi:vector>
+              <otmi:vector count='13'>machine</otmi:vector>
+              <otmi:vector count='13'>chemical</otmi:vector>
+              <otmi:vector count='10'>can</otmi:vector>
+              <otmi:vector count='10'>Turing</otmi:vector>
+              <otmi:vector count='9'>logic</otmi:vector>
+              <otmi:vector count='9'>new</otmi:vector>
+              <otmi:vector count='9'>scientific</otmi:vector>
+              <otmi:vector count='9'>would</otmi:vector>
+              <otmi:vector count='8'>human</otmi:vector>
+              <otmi:vector count='8'>science</otmi:vector>
+              <otmi:vector count='7'>also</otmi:vector>
+              <otmi:vector count='7'>hypotheses</otmi:vector>
+              <otmi:vector count='7'>but</otmi:vector>
+              <otmi:vector count='7'>microfluidic</otmi:vector>
+              <otmi:vector count='7'>such</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='6'>used</otmi:vector>
+              <otmi:vector count='5'>more</otmi:vector>
+              <otmi:vector count='5'>only</otmi:vector>
+              <otmi:vector count='5'>being</otmi:vector>
+              <otmi:vector count='5'>sciences</otmi:vector>
+              <otmi:vector count='5'>robot</otmi:vector>
+              <otmi:vector count='5'>One</otmi:vector>
+              <otmi:vector count='5'>could</otmi:vector>
+              <otmi:vector count='5'>However</otmi:vector>
+              <otmi:vector count='5'>experiment</otmi:vector>
+              <otmi:vector count='5'>between</otmi:vector>
+              <otmi:vector count='5'>experiments</otmi:vector>
+              <otmi:vector count='4'>experimentation</otmi:vector>
+              <otmi:vector count='4'>have</otmi:vector>
+              <otmi:vector count='4'>automated</otmi:vector>
+              <otmi:vector count='4'>probability</otmi:vector>
+              <otmi:vector count='4'>collection</otmi:vector>
+              <otmi:vector count='4'>integration</otmi:vector>
+              <otmi:vector count='4'>generation</otmi:vector>
+              <otmi:vector count='4'>within</otmi:vector>
+              <otmi:vector count='4'>testing</otmi:vector>
+              <otmi:vector count='4'>way</otmi:vector>
+              <otmi:vector count='4'>learning</otmi:vector>
+              <otmi:vector count='4'>same</otmi:vector>
+              <otmi:vector count='4'>computer</otmi:vector>
+              <otmi:vector count='4'>techniques</otmi:vector>
+              <otmi:vector count='4'>computers</otmi:vector>
+              <otmi:vector count='4'>cell</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='3'>universal</otmi:vector>
+              <otmi:vector count='3'>need</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>integrated</otmi:vector>
+              <otmi:vector count='3'>flexibility</otmi:vector>
+              <otmi:vector count='3'>benefits</otmi:vector>
+              <otmi:vector count='3'>systems</otmi:vector>
+              <otmi:vector count='3'>speed</otmi:vector>
+              <otmi:vector count='3'>requires</otmi:vector>
+              <otmi:vector count='3'>computation</otmi:vector>
+              <otmi:vector count='3'>machines</otmi:vector>
+              <otmi:vector count='3'>form</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='3'>environment</otmi:vector>
+              <otmi:vector count='3'>behaviour</otmi:vector>
+              <otmi:vector count='3'>two</otmi:vector>
+              <otmi:vector count='3'>potential</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>machine-learning</otmi:vector>
+              <otmi:vector count='3'>flasks</otmi:vector>
+              <otmi:vector count='3'>sound</otmi:vector>
+              <otmi:vector count='3'>knowledge</otmi:vector>
+              <otmi:vector count='3'>experimental</otmi:vector>
+              <otmi:vector count='3'>may</otmi:vector>
+              <otmi:vector count='3'>will</otmi:vector>
+              <otmi:vector count='3'>scientists</otmi:vector>
+              <otmi:vector count='3'>programming</otmi:vector>
+              <otmi:vector count='3'>genome</otmi:vector>
+              <otmi:vector count='3'>computational</otmi:vector>
+              <otmi:vector count='3'>robot-scientist</otmi:vector>
+              <otmi:vector count='3'>biology</otmi:vector>
+              <otmi:vector count='3'>individual</otmi:vector>
+              <otmi:vector count='3'>development</otmi:vector>
+              <otmi:vector count='3'>technology</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>clear</otmi:vector>
+              <otmi:vector count='3'>increasingly</otmi:vector>
+              <otmi:vector count='3'>decade</otmi:vector>
+              <otmi:vector count='3'>forms</otmi:vector>
+              <otmi:vector count='3'>technologies</otmi:vector>
+              <otmi:vector count='3'>make</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>series</otmi:vector>
+              <otmi:vector count='3'>reactions</otmi:vector>
+              <otmi:vector count='3'>imagine</otmi:vector>
+              <otmi:vector count='3'>determine</otmi:vector>
+              <otmi:vector count='3'>probabilistic</otmi:vector>
+              <otmi:vector count='3'>yeast</otmi:vector>
+              <otmi:vector count='3'>scientist</otmi:vector>
+              <otmi:vector count='2'>later</otmi:vector>
+              <otmi:vector count='2'>hypothesis</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>formation</otmi:vector>
+              <otmi:vector count='2'>statistical</otmi:vector>
+              <otmi:vector count='2'>quantities</otmi:vector>
+              <otmi:vector count='2'>formulation</otmi:vector>
+              <otmi:vector count='2'>circuitry</otmi:vector>
+              <otmi:vector count='2'>formal</otmi:vector>
+              <otmi:vector count='2'>account</otmi:vector>
+              <otmi:vector count='2'>Although</otmi:vector>
+              <otmi:vector count='2'>algorithms</otmi:vector>
+              <otmi:vector count='2'>cost</otmi:vector>
+              <otmi:vector count='2'>true</otmi:vector>
+              <otmi:vector count='2'>refute</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>conveyor</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>modelling</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>single</otmi:vector>
+              <otmi:vector count='2'>existing</otmi:vector>
+              <otmi:vector count='2'>provides</otmi:vector>
+              <otmi:vector count='2'>yield</otmi:vector>
+              <otmi:vector count='2'>function</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>mathematics</otmi:vector>
+              <otmi:vector count='2'>operations</otmi:vector>
+              <otmi:vector count='2'>instance</otmi:vector>
+              <otmi:vector count='2'>generate</otmi:vector>
+              <otmi:vector count='2'>climate</otmi:vector>
+              <otmi:vector count='2'>information</otmi:vector>
+              <otmi:vector count='2'>inductive</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='2'>involved</otmi:vector>
+              <otmi:vector count='2'>Such</otmi:vector>
+              <otmi:vector count='2'>activity</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>input</otmi:vector>
+              <otmi:vector count='2'>automaton</otmi:vector>
+              <otmi:vector count='2'>scale</otmi:vector>
+              <otmi:vector count='2'>understanding</otmi:vector>
+              <otmi:vector count='2'>construction</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>international</otmi:vector>
+              <otmi:vector count='2'>contain</otmi:vector>
+              <otmi:vector count='2'>bayesian</otmi:vector>
+              <otmi:vector count='2'>project</otmi:vector>
+              <otmi:vector count='2'>empirical</otmi:vector>
+              <otmi:vector count='2'>constructed</otmi:vector>
+              <otmi:vector count='2'>already</otmi:vector>
+              <otmi:vector count='2'>increasing</otmi:vector>
+              <otmi:vector count='2'>materials</otmi:vector>
+              <otmi:vector count='2'>large-scale</otmi:vector>
+              <otmi:vector count='2'>become</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>pathways</otmi:vector>
+              <otmi:vector count='2'>experimentally</otmi:vector>
+              <otmi:vector count='2'>reaction</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>networks</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>per</otmi:vector>
+              <otmi:vector count='2'>background</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>outperformed</otmi:vector>
+              <otmi:vector count='2'>mathematical</otmi:vector>
+              <otmi:vector count='2'>instrumentation</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>good</otmi:vector>
+              <otmi:vector count='2'>given</otmi:vector>
+              <otmi:vector count='2'>becoming</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>complex</otmi:vector>
+              <otmi:vector count='2'>range</otmi:vector>
+              <otmi:vector count='2'>automation</otmi:vector>
+              <otmi:vector count='2'>approaches</otmi:vector>
+              <otmi:vector count='2'>increases</otmi:vector>
+              <otmi:vector count='2'>storage</otmi:vector>
+              <otmi:vector count='2'>ducts</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>Some</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>calculus</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>complete</otmi:vector>
+              <otmi:vector count='2'>automatic</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='1'>Turing&apos;s</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>modification</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>obstacle</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>variation</otmi:vector>
+              <otmi:vector count='1'>curation</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>autonomous</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>programs</otmi:vector>
+              <otmi:vector count='1'>prepare</otmi:vector>
+              <otmi:vector count='1'>clarity</otmi:vector>
+              <otmi:vector count='1'>obtain</otmi:vector>
+              <otmi:vector count='1'>easier</otmi:vector>
+              <otmi:vector count='1'>transduction</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>isolation</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>processor</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>devised</otmi:vector>
+              <otmi:vector count='1'>Traditional</otmi:vector>
+              <otmi:vector count='1'>interdependency</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>goal</otmi:vector>
+              <otmi:vector count='1'>strategies</otmi:vector>
+              <otmi:vector count='1'>nets</otmi:vector>
+              <otmi:vector count='1'>practice</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>offers</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>integrate</otmi:vector>
+              <otmi:vector count='1'>performing</otmi:vector>
+              <otmi:vector count='1'>seeing</otmi:vector>
+              <otmi:vector count='1'>equations</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>maths</otmi:vector>
+              <otmi:vector count='1'>microarray</otmi:vector>
+              <otmi:vector count='1'>computerization</otmi:vector>
+              <otmi:vector count='1'>emphasize</otmi:vector>
+              <otmi:vector count='1'>conduct</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>updating</otmi:vector>
+              <otmi:vector count='1'>genome-wide</otmi:vector>
+              <otmi:vector count='1'>judge</otmi:vector>
+              <otmi:vector count='1'>Pure</otmi:vector>
+              <otmi:vector count='1'>aid</otmi:vector>
+              <otmi:vector count='1'>decreases</otmi:vector>
+              <otmi:vector count='1'>select</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>unfortunately</otmi:vector>
+              <otmi:vector count='1'>statistics</otmi:vector>
+              <otmi:vector count='1'>context</otmi:vector>
+              <otmi:vector count='1'>miniaturized</otmi:vector>
+              <otmi:vector count='1'>worked</otmi:vector>
+              <otmi:vector count='1'>logical</otmi:vector>
+              <otmi:vector count='1'>genes</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>miniaturizing</otmi:vector>
+              <otmi:vector count='1'>living</otmi:vector>
+              <otmi:vector count='1'>developing</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>researchers</otmi:vector>
+              <otmi:vector count='1'>Future</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>compatibility</otmi:vector>
+              <otmi:vector count='1'>drug</otmi:vector>
+              <otmi:vector count='1'>unable</otmi:vector>
+              <otmi:vector count='1'>claims</otmi:vector>
+              <otmi:vector count='1'>1936</otmi:vector>
+              <otmi:vector count='1'>volumes</otmi:vector>
+              <otmi:vector count='1'>axioms</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>check</otmi:vector>
+              <otmi:vector count='1'>territory</otmi:vector>
+              <otmi:vector count='1'>day</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>contending</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>rat</otmi:vector>
+              <otmi:vector count='1'>fashion</otmi:vector>
+              <otmi:vector count='1'>urine</otmi:vector>
+              <otmi:vector count='1'>communities</otmi:vector>
+              <otmi:vector count='1'>attempt</otmi:vector>
+              <otmi:vector count='1'>Miniature</otmi:vector>
+              <otmi:vector count='1'>richer</otmi:vector>
+              <otmi:vector count='1'>random-experiment</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>arguably</otmi:vector>
+              <otmi:vector count='1'>signalling</otmi:vector>
+              <otmi:vector count='1'>accuracy</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>conducting</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>branches</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>aim</otmi:vector>
+              <otmi:vector count='1'>feedback</otmi:vector>
+              <otmi:vector count='1'>describing</otmi:vector>
+              <otmi:vector count='1'>differential</otmi:vector>
+              <otmi:vector count='1'>chemicals</otmi:vector>
+              <otmi:vector count='1'>reductionist</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>comprehension</otmi:vector>
+              <otmi:vector count='1'>chambers</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>table</otmi:vector>
+              <otmi:vector count='1'>digital</otmi:vector>
+              <otmi:vector count='1'>unsustainable</otmi:vector>
+              <otmi:vector count='1'>interfaces</otmi:vector>
+              <otmi:vector count='1'>easily</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>cancer-producing</otmi:vector>
+              <otmi:vector count='1'>dealing</otmi:vector>
+              <otmi:vector count='1'>conceptualize</otmi:vector>
+              <otmi:vector count='1'>Just</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>belt</otmi:vector>
+              <otmi:vector count='1'>reagent</otmi:vector>
+              <otmi:vector count='1'>reap</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>underlying</otmi:vector>
+              <otmi:vector count='1'>pencil-and-paper</otmi:vector>
+              <otmi:vector count='1'>languages</otmi:vector>
+              <otmi:vector count='1'>avoiding</otmi:vector>
+              <otmi:vector count='1'>next-generation</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>knockouts</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>computer-science</otmi:vector>
+              <otmi:vector count='1'>human–computer</otmi:vector>
+              <otmi:vector count='1'>touch</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>nutrient</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>B</otmi:vector>
+              <otmi:vector count='1'>Scientists</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>hybrid</otmi:vector>
+              <otmi:vector count='1'>kit</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>Often</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>2050</otmi:vector>
+              <otmi:vector count='1'>substructures</otmi:vector>
+              <otmi:vector count='1'>controllers</otmi:vector>
+              <otmi:vector count='1'>twenty-first</otmi:vector>
+              <otmi:vector count='1'>properties</otmi:vector>
+              <otmi:vector count='1'>simulation</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>chips</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>projected</otmi:vector>
+              <otmi:vector count='1'>resulted</otmi:vector>
+              <otmi:vector count='1'>cycle</otmi:vector>
+              <otmi:vector count='1'>predictions</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>virtual</otmi:vector>
+              <otmi:vector count='1'>rapid</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>Building</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>differential-equation</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>Alan</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>program</otmi:vector>
+              <otmi:vector count='1'>experimentation.</otmi:vector>
+              <otmi:vector count='1'>laboratory</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>ranging</otmi:vector>
+              <otmi:vector count='1'>promise</otmi:vector>
+              <otmi:vector count='1'>meteorology</otmi:vector>
+              <otmi:vector count='1'>routinely</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>start</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>microfluidics</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>severe</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>directed</otmi:vector>
+              <otmi:vector count='1'>exciting</otmi:vector>
+              <otmi:vector count='1'>concerning</otmi:vector>
+              <otmi:vector count='1'>intended</otmi:vector>
+              <otmi:vector count='1'>archived</otmi:vector>
+              <otmi:vector count='1'>advanced</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>carry</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>biomolecules</otmi:vector>
+              <otmi:vector count='1'>intractable</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>aspects</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>took</otmi:vector>
+              <otmi:vector count='1'>combining</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>mimic</otmi:vector>
+              <otmi:vector count='1'>tool</otmi:vector>
+              <otmi:vector count='1'>mathematician</otmi:vector>
+              <otmi:vector count='1'>Throughout</otmi:vector>
+              <otmi:vector count='1'>gigabyte</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>agents</otmi:vector>
+              <otmi:vector count='1'>subsets</otmi:vector>
+              <otmi:vector count='1'>Today&apos;s</otmi:vector>
+              <otmi:vector count='1'>away</otmi:vector>
+              <otmi:vector count='1'>theoretical</otmi:vector>
+              <otmi:vector count='1'>selection</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>stores</otmi:vector>
+              <otmi:vector count='1'>danger</otmi:vector>
+              <otmi:vector count='1'>predefined</otmi:vector>
+              <otmi:vector count='1'>undeniable</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>distant</otmi:vector>
+              <otmi:vector count='1'>exponentially</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>varying</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>create</otmi:vector>
+              <otmi:vector count='1'>formed</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>breadth</otmi:vector>
+              <otmi:vector count='1'>molecules</otmi:vector>
+              <otmi:vector count='1'>discover</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>gates</otmi:vector>
+              <otmi:vector count='1'>revised</otmi:vector>
+              <otmi:vector count='1'>multidisciplinary</otmi:vector>
+              <otmi:vector count='1'>century</otmi:vector>
+              <otmi:vector count='1'>robots</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>diseases</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>subdiscipline</otmi:vector>
+              <otmi:vector count='1'>patching</otmi:vector>
+              <otmi:vector count='1'>cerevisiae</otmi:vector>
+              <otmi:vector count='1'>Academic</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>automate</otmi:vector>
+              <otmi:vector count='1'>hours</otmi:vector>
+              <otmi:vector count='1'>requiring</otmi:vector>
+              <otmi:vector count='1'>testable</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>refutation</otmi:vector>
+              <otmi:vector count='1'>compounds</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>pumps</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>developments</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>Mathematical</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>pave</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>holds</otmi:vector>
+              <otmi:vector count='1'>integrating</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>systems-level</otmi:vector>
+              <otmi:vector count='1'>advances</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>Prolog</otmi:vector>
+              <otmi:vector count='1'>boundaries</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>epidemiology</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>projects</otmi:vector>
+              <otmi:vector count='1'>terabyte</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>toxin</otmi:vector>
+              <otmi:vector count='1'>blur</otmi:vector>
+              <otmi:vector count='1'>computationally</otmi:vector>
+              <otmi:vector count='1'>language</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>chip</otmi:vector>
+              <otmi:vector count='1'>Feedback</otmi:vector>
+              <otmi:vector count='1'>0.7</otmi:vector>
+              <otmi:vector count='1'>play</otmi:vector>
+              <otmi:vector count='1'>taking</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>reagents</otmi:vector>
+              <otmi:vector count='1'>efficiency</otmi:vector>
+              <otmi:vector count='1'>together</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>astronomy</otmi:vector>
+              <otmi:vector count='1'>moved</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>loop</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>iterative</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>low-cost</otmi:vector>
+              <otmi:vector count='1'>Statistical</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>survival</otmi:vector>
+              <otmi:vector count='1'>simulating</otmi:vector>
+              <otmi:vector count='1'>metabolites</otmi:vector>
+              <otmi:vector count='1'>artificial</otmi:vector>
+              <otmi:vector count='1'>statement</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>personalized</otmi:vector>
+              <otmi:vector count='1'>mixture</otmi:vector>
+              <otmi:vector count='1'>ionic</otmi:vector>
+              <otmi:vector count='1'>built</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>resulting</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>night</otmi:vector>
+              <otmi:vector count='1'>reporting</otmi:vector>
+              <otmi:vector count='1'>respect</otmi:vector>
+              <otmi:vector count='1'>building</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>doses</otmi:vector>
+              <otmi:vector count='1'>incompatibility</otmi:vector>
+              <otmi:vector count='1'>formulated</otmi:vector>
+              <otmi:vector count='1'>essentially</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>databases</otmi:vector>
+              <otmi:vector count='1'>relationships</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>sequencing</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>vivo</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>foundation</otmi:vector>
+              <otmi:vector count='1'>inference</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>supporting</otmi:vector>
+              <otmi:vector count='1'>programmability</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>statements</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>reliance</otmi:vector>
+              <otmi:vector count='1'>death</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>output</otmi:vector>
+              <otmi:vector count='1'>power</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>lab</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>feasible</otmi:vector>
+              <otmi:vector count='1'>hydrazine</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>timescales</otmi:vector>
+              <otmi:vector count='1'>Meanwhile</otmi:vector>
+              <otmi:vector count='1'>traditionally</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>capable</otmi:vector>
+              <otmi:vector count='1'>relevant</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>controlling</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>error-prone</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>impossible</otmi:vector>
+              <otmi:vector count='1'>Saccharomyces</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>expense</otmi:vector>
+              <otmi:vector count='1'>underpinnings</otmi:vector>
+              <otmi:vector count='1'>supported</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>connecting</otmi:vector>
+              <otmi:vector count='1'>high-speed</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>1990s</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>programmable</otmi:vector>
+              <otmi:vector count='1'>reproduce</otmi:vector>
+              <otmi:vector count='1'>controlled</otmi:vector>
+              <otmi:vector count='1'>encouraging</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>modern-day</otmi:vector>
+              <otmi:vector count='1'>principles</otmi:vector>
+              <otmi:vector count='1'>powerful</otmi:vector>
+              <otmi:vector count='1'>handle</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>metabolic</otmi:vector>
+              <otmi:vector count='1'>emergence</otmi:vector>
+              <otmi:vector count='1'>advance</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>combine</otmi:vector>
+              <otmi:vector count='1'>E-Cell</otmi:vector>
+              <otmi:vector count='1'>beings</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>chemist</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>toxic</otmi:vector>
+              <otmi:vector count='1'>neural</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>high-throughput</otmi:vector>
+              <otmi:vector count='1'>expansion</otmi:vector>
+              <otmi:vector count='1'>Human</otmi:vector>
+              <otmi:vector count='1'>tractable</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>metabolism</otmi:vector>
+              <otmi:vector count='1'>connected</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>laboratories</otmi:vector>
+              <otmi:vector count='1'>automatically</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>Owing</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>concentrated</otmi:vector>
+              <otmi:vector count='1'>virtually</otmi:vector>
+              <otmi:vector count='1'>say</otmi:vector>
+              <otmi:vector count='1'>continue</otmi:vector>
+              <otmi:vector count='1'>roboscientists</otmi:vector>
+              <otmi:vector count='1'>system-level</otmi:vector>
+              <otmi:vector count='1'>Mixing</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>mix</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>unpredictable</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>cognitive</otmi:vector>
+              <otmi:vector count='1'>quantity</otmi:vector>
+              <otmi:vector count='1'>formalisms</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>lowest</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>Earth</otmi:vector>
+              <otmi:vector count='1'>medicines</otmi:vector>
+              <otmi:vector count='1'>milliseconds</otmi:vector>
+              <otmi:vector count='1'>miniature</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A robot-scientist project in which I was involved offers an important exception </otmi:snippet>
+              <otmi:snippet>Academic studies on the development of effective human–computer interfaces emphasize the importance of cognitive compatibility in the form and quantity of information presented to human beings</otmi:snippet>
+              <otmi:snippet>After all, science is an essentially human activity that requires clarity both in the statement of hypotheses and their clear and undeniable refutation through experimentation.</otmi:snippet>
+              <otmi:snippet>Although hybrid models can be built by simply patching two models together, the underlying differences lead to unpredictable and error-prone behaviour when changes are made</otmi:snippet>
+              <otmi:snippet>Although it is early days, such research holds the promise of sound integration of scientific models from the statistical and computer-science communities Miniature roboscientists Statistical and machine-learning approaches to building and updating scientific models typically use &quot;open loop&quot; systems with no direct link or feedback to the collection of data</otmi:snippet>
+              <otmi:snippet>Building on the same techniques, we have more recently been able to generate experimentally testable claims about the toxic properties of hydrazine from experimental data — in this instance, from analyses of metabolites in rat urine following low doses of the toxin </otmi:snippet>
+              <otmi:snippet>Despite the potential benefits, there is a severe danger that increases in speed and volume of data generation in science could lead to decreases in comprehension of the results</otmi:snippet>
+              <otmi:snippet>During the twenty-first century, it is clear that computers will continue to play an increasingly central role in supporting the testing, and even formulation, of scientific hypotheses</otmi:snippet>
+              <otmi:snippet>Feedback on each experiment was provided by data reporting yeast survival or death</otmi:snippet>
+              <otmi:snippet>For example, a single high-throughput experiment in biology can easily generate more than a gigabyte of data per day, and in astronomy automatic data collection leads to more than a terabyte of data per night</otmi:snippet>
+              <otmi:snippet>For example, within the past decade researchers in my group have used inductive logic programming (a subdiscipline of machine learning) to discover key molecular substructures within a class of potential cancer-producing agents </otmi:snippet>
+              <otmi:snippet>For instance, in meteorology and epidemiology, large-scale empirical data are routinely used to check the predictions of differential-equation models concerning climate variation and the spread of diseases</otmi:snippet>
+              <otmi:snippet>Future advances will have the ability to yield powerful new forms of science that could blur the boundaries between theory and experiment</otmi:snippet>
+              <otmi:snippet>Here, laboratory robots conducted experiments on yeast ( Saccharomyces cerevisiae ) using a process known as &quot;active learning&quot;</otmi:snippet>
+              <otmi:snippet>However, an increasing number of research groups have developed machine-learning techniques that can handle tractable subsets of probabilistic logic </otmi:snippet>
+              <otmi:snippet>However, differences in the mathematical underpinnings of, say, differential equations, bayesian networks and logic programs make integrating these various models virtually impossible</otmi:snippet>
+              <otmi:snippet>However, genome-wide instrumentation, including microarray technologies, are leading to a system-level approach to biomolecules and pathways, and to the formulation and testing of models that describe the detailed behaviour of whole cells</otmi:snippet>
+              <otmi:snippet>However, one can imagine taking the integration between experiment and environment even further</otmi:snippet>
+              <otmi:snippet>However, to reap the full benefits it is essential that developments in high-speed automation are not introduced at the expense of human understanding and insight</otmi:snippet>
+              <otmi:snippet>Human touch This microfluidic Turing machine is not only a good candidate for the next-generation robot scientist, it may also make a good model for simulating cellular metabolism</otmi:snippet>
+              <otmi:snippet>In particular, by connecting the input and output ducts of the microfluidic Turing machine to the chemical environment of a living cell, one could conduct experiments on cell function</otmi:snippet>
+              <otmi:snippet>In systems biology, the need to account for complex interactions within cells — in gene transduction, signalling and metabolic pathways — is requiring new and richer systems-level modelling</otmi:snippet>
+              <otmi:snippet>In the 1990s it took the international human genome project a decade to determine the sequence of a single human genome; but projected increases in the speed of gene sequencing imply that before 2050 it will be feasible to determine the complete genome of every individual human being on Earth</otmi:snippet>
+              <otmi:snippet>In the same way that modern-day Turing machines (computers) are constructed from integrated circuitry, thereby combining the power of many components, a universal robot scientist would be constructed from a mixture of microfluidic machines and integrated circuitry controllers</otmi:snippet>
+              <otmi:snippet>It is clear that the future of science involves the expansion of automation in all its aspects: data collection, storage of information, hypothesis formation and experimentation (see table )</otmi:snippet>
+              <otmi:snippet>It would represent a fundamental advance in the integration of computation with its environment</otmi:snippet>
+              <otmi:snippet>Just as Turing&apos;s original machine later formed the theoretical basis of modern computation, so the programmability of a chemical Turing machine would allow a degree of flexibility far beyond the present robot-scientist experiments, including complex iterative behaviour</otmi:snippet>
+              <otmi:snippet>Mathematical logic provides a formal foundation for logic programming languages such as Prolog, whereas probability calculus provides the basic axioms of probability for statistical models, such as bayesian networks</otmi:snippet>
+              <otmi:snippet>Meanwhile, machine-learning techniques from computer science (including neural nets and genetic algorithms) are being used to automate the generation of scientific hypotheses from data</otmi:snippet>
+              <otmi:snippet>Mixing maths In other sciences, the reliance on computational modelling has arguably moved to a new level</otmi:snippet>
+              <otmi:snippet>Often models that account for the shape and charge distribution of individual molecules need to be integrated with models describing the interdependency of chemical reactions</otmi:snippet>
+              <otmi:snippet>On such timescales it should become easier for scientists to reproduce new experiments and refute their hypotheses</otmi:snippet>
+              <otmi:snippet>One can imagine an artificial cell based on a chemical Turing machine being used as an alternative to in vivo drug testing</otmi:snippet>
+              <otmi:snippet>One can think of a chemical Turing machine as an automaton connected to a conveyor belt containing a series of flasks: the automaton can move the conveyor to obtain distant flasks, and can mix and make tests on local flasks</otmi:snippet>
+              <otmi:snippet>One encouraging development in this respect is the emergence within computer science of new formalisms that integrate, in a sound fashion, two major branches of mathematics: mathematical logic and probability calculus</otmi:snippet>
+              <otmi:snippet>One exciting development that we might expect in the next ten years is the construction of the first microfluidic robot scientist, which would combine active learning and autonomous experimentation with microfluidic technology</otmi:snippet>
+              <otmi:snippet>One obstacle to rapid progress in systems biology is the incompatibility of existing models</otmi:snippet>
+              <otmi:snippet>Owing to the scale and rate of data generation, computational models of scientific data now require automatic construction and modification</otmi:snippet>
+              <otmi:snippet>Pure forms of existing probabilistic logic are unfortunately computationally intractable</otmi:snippet>
+              <otmi:snippet>Scientists can already build miniaturized laboratories on a chip using microfluidics controlled and directed by a computer</otmi:snippet>
+              <otmi:snippet>Some may argue that in the context of biological experimentation, the series of chemical reactions is the computation itself</otmi:snippet>
+              <otmi:snippet>Some of the more advanced forms of machine learning enable new hypotheses, in the form of logical rules and principles, to be extracted relative to predefined background knowledge</otmi:snippet>
+              <otmi:snippet>Such chips contain miniature reaction chambers, ducts, gates, ionic pumps and reagent stores, and allow for chemical synthesis and testing at high speed</otmi:snippet>
+              <otmi:snippet>Such levels of close integration between computers, scientific models and experimental materials are, however, still a decade or more away from becoming standard scientific practice</otmi:snippet>
+              <otmi:snippet>The aim was to determine the function of several gene knockouts by varying the quantities of nutrient provided to the yeast</otmi:snippet>
+              <otmi:snippet>The chemical Turing machine would be a universal processor capable of performing a broad range of chemical operations on both the reagents available to it at the start and those chemicals it later generates</otmi:snippet>
+              <otmi:snippet>The collection and curation of data throughout the sciences is becoming increasingly automated</otmi:snippet>
+              <otmi:snippet>The machine would automatically prepare and test chemical compounds but it would also be programmable, thus allowing much the same flexibility as a real chemist has in the lab</otmi:snippet>
+              <otmi:snippet>The potential benefits to science of such computerization are high — knowledge derived from large-scale scientific data could well pave the way to new technologies, ranging from personalized medicines to methods for dealing with and avoiding climate change </otmi:snippet>
+              <otmi:snippet>The program running this machine would need to contain algorithms both for controlling the experiment and for conducting the cell simulation</otmi:snippet>
+              <otmi:snippet>The resulting &quot;probabilistic logic&quot; is a formal language that supports statements of sound inference, such as &quot;The probability of A being true if B is true is 0.7&quot;</otmi:snippet>
+              <otmi:snippet>The robot strategy that worked best (lowest cost for a given accuracy of prediction) not only outperformed two other automated strategies, based on cost and random-experiment selection, but also outperformed humans given the same task</otmi:snippet>
+              <otmi:snippet>The robot used a form of inductive logic programming to select experiments that would discriminate between contending hypotheses</otmi:snippet>
+              <otmi:snippet>The universal Turing machine, devised in 1936 by Alan Turing, was intended to mimic the pencil-and-paper operations of a mathematician</otmi:snippet>
+              <otmi:snippet>This background knowledge is formulated and revised by human scientists, who also judge the new hypotheses and may attempt to refute them experimentally</otmi:snippet>
+              <otmi:snippet>This is new territory for the natural sciences and has resulted in multidisciplinary international projects such as the virtual E-Cell </otmi:snippet>
+              <otmi:snippet>This is not only because of the scale of the data involved but also because scientists are unable to conceptualize the breadth and depth of the relationships between relevant databases without computational support</otmi:snippet>
+              <otmi:snippet>This is particularly critical for technologies associated with hypothesis formation and experimentation</otmi:snippet>
+              <otmi:snippet>This traditionally human activity has already become unsustainable in many sciences without the aid of computers</otmi:snippet>
+              <otmi:snippet>Throughout the sciences the volumes of archived data are increasing exponentially, supported not only by low-cost digital storage but also by the growing efficiency of automated instrumentation</otmi:snippet>
+              <otmi:snippet>Today&apos;s generation of microfluidic machines is designed to carry out a specific series of chemical reactions, but further flexibility could be added to this tool kit by developing what one might call a &quot;chemical Turing machine&quot;</otmi:snippet>
+              <otmi:snippet>Traditional reductionist approaches in this area concentrated on understanding the functions of individual genes in isolation</otmi:snippet>
+              <otmi:snippet>We are seeing a range of techniques from mathematics, statistics and computer science being used to create scientific models from empirical data in an increasingly automated way</otmi:snippet>
+              <otmi:snippet>We can imagine miniaturizing our robot-scientist technology in this way, with the overall goal of reducing the experimental cycle time from hours to milliseconds</otmi:snippet>
+              <otmi:snippet>With microfluidic technology, each chemical reaction not only requires less time to complete, but also requires smaller quantities of input materials, with a higher expected yield</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/0004-3702(90)90019-V</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02236</otmi:refid>
+          <otmi:refsnoid>6</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

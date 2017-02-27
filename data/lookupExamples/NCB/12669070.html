@@ -1,0 +1,695 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Spontaneous cell polarization: undermining determinism - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n4';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=C0A804ED4653DC0175A8CC623CB6411141D2">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html#cy">Commentary</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><input xmlns="" value="cy" id="categ" type="hidden"><input xmlns="" value="" id="arch_categ" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">Commentary</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><!--<table width="450" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td valign="top" bgcolor="#546D9F"><img src="/ncb/images/membrane_header_sm.gif" width="450" height="20" alt="Membrane Traffic"></td></tr>
+	<tr><td valign="top" bgcolor="#546D9F"><img src="/ncb/images/spacer.gif" width="1" height="1" alt="" /></td></tr>
+	<tr><td bgcolor="#DFE9FD" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n6/index.html" class="leftnav3">June 2004 Contents</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="/ncb/webfocus/membrane/index.html" class="leftnav3">Archive</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="mailto:s.swaminathan@nature.com" class="leftnav3">Feedback</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td></tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td valign="top" bgcolor="#546D9F"><img src="/ncb/images/spacer.gif" width="1" height="1" alt="" /></td></tr>
+</table>--><br xmlns=""><br xmlns=""><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>
+&nbsp;<b>5</b>, 267 - 270 (2003)
+ <br>doi:10.1038/ncb0403-267
+</span><h2 xmlns="">Spontaneous cell polarization: undermining determinism</h2><span xmlns="" class="author">Roland Wedlich-Soldner
+&amp;&nbsp;Rong Li<p class="blacksml">Roland Wedlich-Soldner and Rong Li are in the Department of Cell Biology, Harvard Medical School, 240 Longwood Avenue, Boston, MA 02115, USA</p><span class="blacksml">
+Correspondence should be addressed to Rong Li <a href="mailto:rong_li@hms.harvard.edu">rong_li@hms.harvard.edu</a></span></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>It is widely observed that eukaryotic cells can polarize spontaneously in the absence of pre-established asymmetric cues. This phenomenon indicates that the principle of self-organization may be central to the establishment of cell polarity. Modelling work, as well as recent experimental data from several organisms, suggests that a combination of local positive feedback loops and global inhibitors could result in robust cell symmetry breaking through amplification of minute, stochastic variations.</b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">In the past years, there has been notable progress in our understanding of the principles that guide the process of cell polarization. However, until recently the study of cell polarity has mostly emphasized the importance of asymmetric stimuli. A large amount of work has been devoted to the elucidation of the molecular links between regulators of cell polarity and the asymmetric cues that come from the environment or the cell's history. This has led to the unravelling of several signalling cascades consisting of conserved molecular constituents, such as heterotrimeric G proteins, Rho family GTPases and specific phospholipids<sup><a href="#B1">1, 
+</a></sup><sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. These signalling cascades recognize pre-existing spatial asymmetries and modulate the dynamics of the actin and microtubule cytoskeletons, resulting in major structural reorganization of the cell. Although the molecular connections emphasize a stepwise development of cell polarity starting from recognition of pre-existing spatial cues, a competing view has now emerged that cells have an intrinsic ability to break symmetry that is perhaps dependent solely on their internal biochemical states<sup><a href="#B4">4</a></sup>. This view is built on many observations that cells can polarize spontaneously, albeit in random orientations, in the absence of any obvious spatial cues. Experimental and modelling work has begun to focus on the mechanisms of spontaneous cell polarization that could be fundamental to cellular morphogenesis. In this article we will re-examine some of the known examples of spontaneous cell polarization (<a href="#f1">Fig. 1</a>) and discuss the potential mechanisms behind them.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html">Figure&nbsp;1.</a>&nbsp;Cue-dependent and random cell polarization in different organisms.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb0403-267-f1.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml">Neutrophils, <i>Dictyostelium</i> amoeba and other chemotactic cells usually polarize in response to a gradient of chemoattractant and then move along this gradient. If presented with a uniform concentration of chemoattractant, both polarize and move in a random direction. Haploid budding yeast cells form new buds adjacent to the bud scar (pink) from the previous cell division. If genes that are essential for bud-site selection, such as <i>BUD1</i>, are disrupted, yeast cells form buds in a random orientation. Zygotes of fucuid algae, such as <i>Fucus</i> or <i>Pelvetia</i>, polarize in response to unilateral light exposure, resulting in an asymmetric cell division that is crucial for determination of cell fate. If left without external stimulus after fertilization, the zygotes will eventually polarize in a random orientation. <i>Xenopus</i> and other amphibian eggs are organized into animal (cytoplasm red, cortex black) and vegetal (cytoplasm orange, cortex blue) hemispheres during oogenesis. The dorsal&#150;ventral axis (dotted line) is determined during fertilization, when the cortex of the egg rotates relative to the cytoplasm in the direction of the sperm entry site. The dorsal pole is thereby positioned opposite the sperm entry site. If activated uniformly, the egg rotates in a random orientation and a dorsal&#150;ventral axis is still formed.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F1.html">Full Figure and legend (46K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext"><b>A widely occurring phenomenon</b></span><br xmlns=""><span xmlns="" class="articletext">Because in most physiological processes cell polarization occurs towards a defined orientation in response to spatial cues, spontaneous cell polarization can often be appreciated only when the cue is not spatially confined or when there is a deficiency in cue recognition (<a href="#f1">Fig. 1</a>). A well-known example occurs during chemotropic responses. Chemotactic cells, such as neutrophils, the slime mold <i>Dictyostelium discoideum</i> or mating yeast cells are able to orientate themselves and move along or, in the case of yeast, grow towards a gradient of chemoattractant<sup><a href="#B1">1, 
+</a></sup><sup><a href="#B3">3</a></sup>. The gradient provides an external chemical signal that is asymmetrically distributed and is thought to establish an asymmetric activation of heterotrimeric G proteins that are bound to chemoattractant receptors on the cell surface<sup><a href="#B5">5</a></sup>. The G proteins in turn signal to a cascade of downstream targets, such as phospholipid kinases and Rho family small GTPases, resulting in asymmetric assembly of actin cytoskeleton structures required for motility or growth<sup><a href="#B3">3, 
+</a></sup><sup><a href="#B6">6</a></sup>. However, if chemotactic cells are exposed to a uniform concentration of chemoattractant, which presumably results in uniform G-protein activation, cells are still able to polarize and initiate motility or form mating projections, albeit in random directions<sup><a href="#B7">7</a></sup>. This observation suggests that a role for chemoattractant is to activate an intrinsic ability of cells to break symmetry.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Clearly, in processes such as chemotaxis or yeast mating, the directionality of polarization is vitally important. However, in certain developmental processes where establishing a single axis for cell fate specification is perhaps more important than the orientation of the axis, at least under laboratory conditions, spontaneous polarization may be an adequate default. The zygotes of fucuid algae polarize in response to unilateral light exposure, resulting in an asymmetric cell division that produces the rhizoid and thallus cells<sup><a href="#B8">8</a></sup>. Relatively little is known about the molecular components that are required for polarization, although it is thought that calcium ions are of central importance and that components of the cell wall, the actin cytoskeleton and secretion machinery are also involved<sup><a href="#B9">9, 
+</a></sup><sup><a href="#B10">10</a></sup>. If, however, no directional stimulus, such as light, is available for several hours after fertilization, polarization of fucuid zygotes occurs spontaneously, still resulting in specification of rhizoid and thallus cell types. Another classic example, involving not the actin but the microtubule cytoskeleton, is the cortical rotation of amphibian eggs. After fertilization of <i>Xenopus laevis</i> eggs, the egg cortex rotates relative to the cytoplasm, resulting in the formation of a dorsal-determining activity opposite the sperm entry point<sup><a href="#B11">11</a></sup>. Normally, the site of sperm entry determines the direction of rotation; however, if eggs are activated by a uniform stimulus, cortical rotation occurs in a randomly chosen direction, a process that is adequate for establishing a normal dorsal&#150;ventral polarity<sup><a href="#B12">12</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Finally, a case of spontaneous cell polarization occurs during bud formation in the yeast <i>Saccharomyces cerevisiae</i>. At the G1&#150;S phase transition of each cell cycle, yeast cells normally polarize to form a bud in a direction specified by a remnant from the previous round of budding, the bud scar. Haploid cells form new buds adjacent to the previous bud scar, resulting in an axial budding pattern. In contrast, diploid cells form new buds alternating between both cell poles, resulting in a bipolar budding pattern. Genetic analysis has revealed intricate signalling pathways that confer bud site selection<sup><a href="#B13">13, 
+</a></sup><sup><a href="#B14">14</a></sup>. A central player of these pathways is a small GTPase termed Bud1. The current model is that Bud1 is activated near the presumptive bud site, recruiting a protein termed Cdc24, which functions as the guanine nucleotide-exchange factor (and thus an activator) for another small GTPase, Cdc42 (ref. <a href="#B15">15</a>). Cdc42 is required for cell polarization in many cell types and, once activated, it induces multiple downstream events, such as actin polymerization and polarized secretion<sup><a href="#B16">16, 
+</a></sup><sup><a href="#B17">17</a></sup>. Interestingly, mutations that abolish bud-site selection, such as deletion of <i>BUD1</i>, do not inhibit budding <i>per se</i>, but only randomize the bud site<sup><a href="#B18">18</a></sup>. More surprisingly, simply expressing a constitutively active form of Cdc42 in a non-polarized G1-arrested cell results in cell polarization in a random orientation<sup><a href="#B19">19, 
+</a></sup><sup><a href="#B20">20, 
+</a></sup><sup><a href="#B21">21</a></sup>. These findings indicate that localized activation of Cdc42 directed by the spatial cue is not required for cell polarization and that a high level of activated Cdc42 may represent an internal biochemical state that favours spontaneous cell polarization.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Potential mechanisms</b></span><br xmlns=""><span xmlns="" class="articletext">The examples of spontaneous polarization introduced above are mostly decades-old observations that have been somewhat overlooked because spontaneous processes are mechanistically less intuitive in this era of molecular pathways. Spontaneous cell polarization is an example of 'self organization', a concept that has broad implications in biology, ranging from molecular and subcellular processes to pattern formation during development or even to the organization of honey bee colonies or other state-forming insects<sup><a href="#B22">22, 
+</a></sup><sup><a href="#B23">23</a></sup>. The classic theory of biological pattern formation first introduced by Meinhardt and Gierer in 1972 suggests that cells can perform an internal pattern-forming reaction using a combination of a self-enhancing local activator and a long-range inhibitor<sup><a href="#B24">24, 
+</a></sup><sup><a href="#B25">25</a></sup>. The self-enhancing activator functions through positive feedback loops that could enhance stochastic local variations in a non-linear fashion, whereas the long-range inhibitor increases competition between different areas for activation. Recent work has begun to provide a molecular basis for the types of activators and inhibitors that could contribute to spontaneous cell symmetry breaking.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">In two recent papers studying the self-polarization process in neutrophils, it was found that a positive feedback loop involving the lipid phosphatidylinositol-3,4,5-trisphosphate (PtdIns(3,4,5)P<sub>3</sub>) is sufficient to induce cell polarization and motility in the absence of chemoattractant<sup><a href="#B26">26, 
+</a></sup><sup><a href="#B27">27</a></sup>. The experiments involved globally introducing PtdIns(3,4,5)P<sub>3</sub> into cells by non-physiological means. PtdIns(3,4,5)P<sub>3</sub>, as detected by fluorescently tagged pleckstrin homology domains, first exhibited a uniform distribution in the plasma membrane, but within minutes became polarized to one end of the cell where F-actin-rich protrusive structures also appeared. The idea of a positive feedback loop involving PtdIns(3,4,5)P<sub>3</sub> came from the observation that inhibition of phosphatidylinositol-3-OH kinase (PI(3)K), the enzyme required for the synthesis of PtdIns(3,4,5)P<sub>3</sub>, blocks the lipid-induced polarization. Thus, a positive feedback loop may be constructed between the lipid-dependent activation or recruitment of the lipid kinase and the synthesis of new lipids by this kinase (<a href="#f2">Fig. 2a</a>)<sup><a href="#B28">28, 
+</a></sup><sup><a href="#B29">29</a></sup>. This feedback loop could result in the enhancement of small stochastic variations in the initial distribution of PtdIns(3,4,5)P<sub>3</sub>. Interestingly, Rho-type GTPases and possibly F-actin are required for PtdIns(3,4,5)P<sub>3</sub> polarization<sup><a href="#B27">27, 
+</a></sup><sup><a href="#B30">30</a></sup>, suggesting that there is still much to learn about the details of this positive feedback loop.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f2"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html">Figure&nbsp;2.</a>&nbsp;Positive feedback loops that can drive spontaneous cell polarization.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html"><img border="0" alt="Figure&nbsp;2 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb0403-267-f2.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml">a, A schematic representation of a positive feedback loop that is thought to operate in neutrophils<sup><a href="#B27">27</a></sup>. PI(3)K synthesizes the signalling lipid PtdIns(3,4,5)P<sub>3</sub>, which in turn stimulates the activity of PI(3)K through pathways involving Rho-type small GTPases and possibly F-actin. b, Schematic representation of a positive feedback loop that allows polarization of G1-arrested budding yeast cells. GTP-bound Cdc42 on the plasma membrane stimulates actin cable formation through activation of formin-like proteins. The actin cables in turn allow Cdc42 to be delivered to the same site on the plasma membrane through type-V myosin. These two interdependent processes enable the cell to amplify minute stochastic asymmetries in the distribution of Cdc42 and establish a stable axis of polarity.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-267_F2.html">Full Figure and legend (15K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">A potential candidate for a long-range inhibitor is the PI(3)-phosphatase PTEN, as demonstrated by experiments in <i>Dictyostelium</i><sup><a href="#B31">31</a></sup>. PTEN, which counteracts the activity of PI(3)K, is itself excluded from the leading edge, but is required for restricting PtdIns(3,4,5)P<sub>3</sub> to this site. Additionally, activation of the myosin-II-dependent cortical contractile machinery away from the leading edge could also function as an inhibitor for establishing new protrusive structures. This possibility is suggested by the localization of myosin II, as well as the observation that inhibition of Rho-dependent kinase, which is required for activating myosin-II filament formation, also blocks the PtdIns(3,4,5)P<sub>3</sub>-induced cell polarization<sup><a href="#B3">3, 
+</a></sup><sup><a href="#B26">26</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Rho-type GTPases and F-actin also seem to be key components of a self-polarization mechanism in yeast. As mentioned above, two reports suggest that simply overexpressing a constitutively active form of the Cdc42 GTPase in non-polarized G1 cells is sufficient to induce polarized distributions of Cdc42 itself and F-actin<sup><a href="#B19">19, 
+</a></sup><sup><a href="#B20">20</a></sup>. Polarization in this assay is dependent on filamentous actin and formin-family proteins, which have been shown to nucleate actin cables in yeast and are dependent on Cdc42-GTP for activation<sup><a href="#B32">32, 
+</a></sup><sup><a href="#B33">33</a></sup>. Recent work has followed up on this observation and demonstrated that formation of a polar Cdc42 cap is dependent on the actin cable and myosin-V-dependent transport of membrane-bound Cdc42-GTP. A mathematical simulation on the basis of this observation showed that a polarized distribution of Cdc42 could simply result from amplification of an initial stochastic variation of Cdc42 distribution on the plasma membrane, through a positive feedback loop between Cdc42-dependent actin cable formation and actin cable-based Cdc42 transport<sup><a href="#B21">21</a></sup> (<a href="#f2">Fig. 2b</a>). The 'long-range inhibitor' could result from the modelling assumption that Cdc42 or actin is limiting. Additionally, recycling of Cdc42 from the plasma membrane through global endocytosis could also function as a long-range inhibitor.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Actin-dependent vesicular transport also seems to be a critical part of the mechanism underlying cell polarization in the zygotes of the fucuid algae. An important readout of cell polarization in this system is the creation of a cortical calcium gradient with its maximum on the shaded side of the zygote. It has been proposed that active transport of calcium channels along actin filaments is required for the establishment of the calcium gradient<sup><a href="#B34">34</a></sup>. Experiments with brefeldin A, which blocks transport between the ER and the Golgi, indicated that secretion is also required for stabilization of the polarity axis. Spontaneous cell polarization in this system, therefore, could also be dependent on a feedback loop between actin polymerization and actin-dependent membrane transport. Finally, a recent report showed that the membrane fusion factor NSF (<i>N</i>-ethylmaleimide-sensitive fusion protein) is important for the maintenance of cell polarity in <i>Dictyostelium</i> cells<sup><a href="#B35">35</a></sup>, further suggesting that the link between membrane trafficking and cell polarity may be conserved.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">At first glance, the mechanism underlying the spontaneous cortical rotation of amphibian eggs that results in the establishment of the dorsal&#150;ventral embryonic axis is very different from the ones discussed above, because this process is driven primarily by the microtubule cytoskeleton<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B36">36</a></sup>. Microtubule motor proteins of the kinesin family are also involved, either functioning directly at the cortex to produce rotational force, or indirectly by aligning microtubules into orientated arrays<sup><a href="#B37">37, 
+</a></sup><sup><a href="#B38">38</a></sup>. The latter is suggested by <i>in vitro</i> studies showing that different microtubule structures can self-assemble using only tubulin and kinesins<sup><a href="#B39">39, 
+</a></sup><sup><a href="#B40">40</a></sup>. Interestingly, 'dorsalizing' proteins, such as <i>dishevelled</i> have been shown to be transported along microtubules on vesicles<sup><a href="#B41">41</a></sup>. Therefore, it is conceivable that, in analogy to the examples involving actin-dependent membrane trafficking, proteins transported along microtubules could in turn help to further increase microtubule assembly or attachment towards or at the site of their deposition.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext"><b>Moving towards quantitative models</b></span><br xmlns=""><span xmlns="" class="articletext">In the context of chemotaxis, the feedback loops and inhibitors such as those proposed by Meinhardt and Gierer have mainly been used to explain the exquisite sensitivity of cells towards gradients of chemoattractants<sup><a href="#B7">7, 
+</a></sup><sup><a href="#B42">42</a></sup>. However, the same mechanisms that could amplify a minute difference of chemoattractant concentration created by a gradient could also amplify stochastic variations in the absence of a gradient. Thus, spontaneous cell polarization could simply reflect a powerful asymmetry amplification process, which, once initiated, renders the non-polarized state highly unstable. During normal physiological processes, the signals that induce polarization probably contain two elements: one to activate the spontaneous asymmetry amplification process and another to provide a spatial bias such that polarization occurs in a physiologically relevant orientation. These two functions must be coupled perfectly to ensure the fidelity of pattern formation. Although examples discussed above emphasize an involvement of cytoskeleton-dependent positive feedback loops, there may also be cytoskeleton-independent mechanisms that result in stochastic activation or enhancement of signalling pathways. In fact, efficient cell polarization may involve multiple interlocked positive feedback circuits. Further work is now required to elucidate the intrinsic cell-symmetry-breaking mechanisms at the molecular level, to elevate the present qualitative models to the level of quantitative assessment and to understand the dynamic coupling between cue-dependent signalling and the spontaneous polarization machinery.</span><br xmlns=""><br xmlns=""><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Arkowitz, R.A. Responding to attraction: chemotaxis and chemotropism in <i>Dictyostelium</i> and yeast. <i>Trends Cell Biol.</i> <b>9</b>, 20&#150;27 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0962-8924%2898%2901412-3" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10087613&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000079416500005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXht1Gmsbw%3D&pissn=1465-7392&pyear=2003&md5=8851dc419afd5c566bb053e4ae689a3e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Drubin, D.G. &amp; Nelson, W.J. Origins of cell polarity. <i>Cell</i> <b>84</b>, 335&#150;344 (1996).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8608587&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996TV70800002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XhtFWqsbc%3D&pissn=1465-7392&pyear=2003&md5=0daf9e927f3415f675bc408c41b540f2" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Chung, C.Y., Funamoto, S. &amp; Firtel, R.A. Signaling pathways controlling cell polarity and chemotaxis. <i>Trends Biochem. Sci.</i> <b>26</b>, 557&#150;566 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0968-0004%2801%2901934-X" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11551793&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170974500014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXms1OmtLw%3D&pissn=1465-7392&pyear=2003&md5=28d5658f4137383326ad5165c6e7f961" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Kirschner, M., Gerhart, J. &amp; Mitchison, T. Molecular 'vitalism'. <i>Cell</i> <b>100</b>, 79&#150;88 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10647933&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000084722600007&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXks1Crsg%3D%3D&pissn=1465-7392&pyear=2003&md5=e50de47bf98169de25ed4966d39ddc84" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Parent, C.A. &amp; Devreotes, P.N. A cell's sense of direction. <i>Science</i> <b>284</b>, 765&#150;770 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.284.5415.765" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10221901&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000080056200035&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXivVKksLs%3D&pissn=1465-7392&pyear=2003&md5=bb03d63ee2fe5d811284b1b4de71dd8d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Firtel, R.A. &amp; Chung, C.Y. The molecular genetics of chemotaxis: sensing and responding to chemoattractant gradients. <i>Bioessays</i> <b>22</b>, 603&#150;615 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002%2F1521-1878%28200007%2922%3A7%3C603%3A%3AAID-BIES3%3E3.3.CO%3B2-R" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10878573&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087924600003&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmslWltrs%3D&pissn=1465-7392&pyear=2003&md5=02b1be2808ad065407e2bb71bdcfb820" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Devreotes, P.N. &amp; Zigmond, S.H. Chemotaxis in eukaryotic cells: a focus on leukocytes and <i>Dictyostelium</i>. <i>Annu. Rev. Cell Biol.</i> <b>4</b>, 649&#150;686 (1988).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1146%2FANNUREV.CELLBIO.4.1.649" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2848555&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1988Q974400023&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL1MXjslCnsg%3D%3D&pissn=1465-7392&pyear=2003&md5=c97260fb0f720b60181a44367b1195c9" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Brownlee, C. &amp; Bouget, F.Y. Polarity determination in Fucus: from zygote to multicellular embryo. <i>Semin. Cell Dev. Biol.</i> <b>9</b>, 179&#150;185 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1006%2Fscdb.1997.0212" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9599413&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000073510000011&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXjslels74%3D&pissn=1465-7392&pyear=2003&md5=38a543ecbab1eb29543fd0faa08aa202" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Robinson, K.R., Wozniak, M., Pu, R. &amp; Messerli, M. Symmetry breaking in the zygotes of the fucoid algae: controversies and recent progress. <i>Curr. Top. Dev. Biol.</i> <b>44</b>, 101&#150;125 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9891878&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087343100004&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:DyaK1M7gvFShtQ%3D%3D&pissn=1465-7392&pyear=2003&md5=2c3ae7e261dff831be4a52d39fcca6d3" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+Hable, W.E. &amp; Kropf, D.L. Roles of secretion and the cytoskeleton in cell adhesion and polarity establishment in <i>Pelvetia compressa</i> zygotes. <i>Dev. Biol.</i> <b>198</b>, 45&#150;56 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1006%2Fdbio.1998.8890" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9640331&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000074281900004&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXjvVOltLg%3D&pissn=1465-7392&pyear=2003&md5=3fb807e4c60803ed0110560d0ef1f66a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+Vincent, J.P., Oster, G.F. &amp; Gerhart, J.C. Kinematics of gray crescent formation in <i>Xenopus</i> eggs: the displacement of subcortical cytoplasm relative to the egg surface. <i>Dev. Biol.</i> <b>113</b>, 484&#150;500 (1986).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=3949075&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1986A241300024&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:BimC3sjgt1w%3D&pissn=1465-7392&pyear=2003&md5=4e8a6373acb16a628292852202282fb8" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Gerhart, J. <i>et al</i>. Cortical rotation of the <i>Xenopus</i> egg: consequences for the anteroposterior pattern of embryonic dorsal development. <i>Development</i> <b>107</b>, 37&#150;51 (1989).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2699856&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1989CK68000006&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Drubin, D.G. Development of cell polarity in budding yeast. <i>Cell</i> <b>65</b>, 1093&#150;1096 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1905977&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991FU89900001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXkvVyrtL0%3D&pissn=1465-7392&pyear=2003&md5=100d6bcd2e1d288c897f85c75a95d66c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+Casamayor, A. &amp; Snyder, M. Bud-site selection and cell polarity in budding yeast. <i>Curr. Opin. Microbiol.</i> <b>5</b>, 179&#150;186 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS1369-5274%2802%2900300-4" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11934615&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000175460500009&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XisV2rtbs%3D&pissn=1465-7392&pyear=2003&md5=69c15114e67767ea2ffe11f44ee9cb09" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Park, H.O., Kang, P.J. &amp; Rachfal, A.W. Localization of the Rsr1/Bud1 GTPase involved in selection of a proper growth site in yeast. <i>J. Biol. Chem.</i> <b>277</b>, 26721&#150;26724 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074%2Fjbc.C200245200" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12058023&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000177055900003&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XlvV2isro%3D&pissn=1465-7392&pyear=2003&md5=3094401d5ec0b655c706d758ea91808e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+Pruyne, D. &amp; Bretscher, A. Polarization of cell growth in yeast. I. Establishment and maintenance of polarity states. <i>J. Cell Sci.</i> <b>113</b>, 365&#150;375 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10639324&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000085540600006&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXhsFCqsL8%3D&pissn=1465-7392&pyear=2003&md5=524d3456b1fd357b9f7b8bf1878a8fcd" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B17"></a>
+Johnson, D.I. Cdc42: An essential Rho-type GTPase controlling eukaryotic cell polarity. <i>Microbiol. Mol. Biol. Rev.</i> <b>63</b>, 54&#150;105 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10066831&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000078999400003&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXitVert74%3D&pissn=1465-7392&pyear=2003&md5=252f67121d4d8b6076af55a4779c5caa" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B18"></a>
+Chant, J. &amp; Herskowitz, I. Genetic control of bud site selection in yeast by a set of gene products that constitute a morphogenetic pathway. <i>Cell</i> <b>65</b>, 1203&#150;1212 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2065354&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991FU89900012&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:By6B1M3lt1c%3D&pissn=1465-7392&pyear=2003&md5=91000a0bbbca9e9659a008c8477a2fdb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B19"></a>
+Gulli, M.P. <i>et al</i>. Phosphorylation of the Cdc42 exchange factor Cdc24 by the PAK-like kinase Cla4 may regulate polarized growth in yeast. <i>Mol. Cell</i> <b>6</b>, 1155&#150;1167 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11106754&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000165472100017&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXosV2mt74%3D&pissn=1465-7392&pyear=2003&md5=83c7cd721c0cc4f2dce7313c6dce5ea3" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B20"></a>
+Lechler, T., Jonsdottir, G.A., Klee, S.K., Pellman, D. &amp; Li, R. A two-tiered mechanism by which Cdc42 controls the localization and activation of an Arp2/3-activating motor complex in yeast. <i>J. Cell Biol.</i> <b>155</b>, 261&#150;270 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1083%2Fjcb.200104094" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11604421&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000171651600010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXnslGjurc%3D&pissn=1465-7392&pyear=2003&md5=f9e5ee9dccb705b028570477b631ec79" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B21"></a>
+Wedlich-Soldner, R., Altschuler, S., Wu, L. &amp; Li, R. Spontaneous cell polarization through actomyosin-based delivery of the Cdc42 GTPase. <i>Science</i> <b>299</b>, 1231&#150;1235 (2003).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.1080944" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12560471&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000181065500040&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXht12jtbg%3D&pissn=1465-7392&pyear=2003&md5=c728ee530a246b17d96ec8cc43ddf7d0" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B22"></a>
+Seeley, T.D. When is self-organization used in biological systems? <i>Biol. Bull.</i> <b>202</b>, 314&#150;318 (2002).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12087005&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000176519800016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|</li>
+<li><A name="B23"></a>
+Misteli, T. The concept of self-organization in cellular architecture. <i>J. Cell Biol.</i> <b>155</b>, 181&#150;185 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1083%2Fjcb.200108110" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11604416&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000171651600001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXnslGjur4%3D&pissn=1465-7392&pyear=2003&md5=9aa248d7a21fb94179366c1a46945a79" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B24"></a>
+Meinhardt, H. &amp; Gierer, A. Pattern formation by local self-activation and lateral inhibition. <i>Bioessays</i> <b>22</b>, 753&#150;760 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002%2F1521-1878%28200008%2922%3A8%3C753%3A%3AAID-BIES9%3E3.3.CO%3B2-Q" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10918306&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000088491600009&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmslShu7s%3D&pissn=1465-7392&pyear=2003&md5=9da07de1d084d2f0111c3ca2ef5ac3f8" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B25"></a>
+Gierer, A. &amp; Meinhardt, H. A theory of biological pattern formation. <i>Kybernetik</i> <b>12</b>, 30&#150;39 (1972).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=4663624&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1972O391800004&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:CSyB3cnitlA%3D&pissn=1465-7392&pyear=2003&md5=a648ccdcc07706c821de872fe07f0555" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B26"></a>
+Niggli, V. A membrane-permeant ester of phosphatidylinositol 3,4,5-trisphosphate (PIP(3)) is an activator of human neutrophil migration. <i>FEBS Lett.</i> <b>473</b>, 217&#150;221 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0014-5793%2800%2901534-9" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10812078&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087126800021&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXjt1ejur4%3D&pissn=1465-7392&pyear=2003&md5=1d0deb07b954b7401717e3ca85dadc2a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B27"></a>
+Weiner, O.D. <i>et al</i>. A PtdInsP(3)- and Rho GTPase-mediated positive feedback loop regulates neutrophil polarity. <i>Nature Cell Biol.</i> <b>4</b>, 509&#150;513 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fncb811" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12080346&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000176562900015&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XmtVWksbg%3D&pissn=1465-7392&pyear=2003&md5=8e9f9cd674aca30bcaa7715b0d271ddd" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B28"></a>
+Bourne, H.R. &amp; Weiner, O. Cell polarity: A chemical compass. <i>Nature</i> <b>419</b>, 21 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F419021a" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12214215&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38Xmslahsb0%3D&pissn=1465-7392&pyear=2003&md5=0463594b073043bf6a7466cd9745281e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B29"></a>
+Weiner, O.D. Regulation of cell polarity during eukaryotic chemotaxis: the chemotactic compass. <i>Curr. Opin. Cell Biol.</i> <b>14</b>, 196&#150;202 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0955-0674%2802%2900310-1" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11891119&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000174193300010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XhvVCnt7s%3D&pissn=1465-7392&pyear=2003&md5=399337cba577cebf35d65488c7d63767" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B30"></a>
+Wang, F. <i>et al</i>. Lipid products of PI(3)Ks maintain persistent cell polarity and directed motility in neutrophils. <i>Nature Cell Biol.</i> <b>4</b>, 513&#150;518 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fncb810" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12080345&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000176562900016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XmtVWksbs%3D&pissn=1465-7392&pyear=2003&md5=adc7a8d3df2c521fe54f34285abc3af6" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B31"></a>
+Comer, F.I. &amp; Parent, C.A. PI 3-kinases and PTEN: how opposites chemoattract. <i>Cell</i> <b>109</b>, 541&#150;544 (2002).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12062096&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XksVGgsr0%3D&pissn=1465-7392&pyear=2003&md5=234fab1e72e72eef18521757dbf5110b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B32"></a>
+Pruyne, D. <i>et al</i>. Role of formins in actin assembly: nucleation and barbed-end association. <i>Science</i> <b>297</b>, 612&#150;615 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.1072309" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12052901&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000177054200054&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XlslWrs7c%3D&pissn=1465-7392&pyear=2003&md5=f724d75c9bd0dc741b663650ff53698f" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B33"></a>
+Sagot, I., Rodal, A.A., Moseley, J., Goode, B.L. &amp; Pellman, D. An actin nucleation mechanism mediated by Bni1 and profilin. <i>Nature Cell Biol.</i> <b>4</b>, 626&#150;631 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fncb834" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12134165&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000177201100020&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38Xls1Ortb8%3D&pissn=1465-7392&pyear=2003&md5=15f792af92541469218253dfc41ed5c1" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B34"></a>
+Pu, R., Wozniak, M. &amp; Robinson, K.R. Cortical actin filaments form rapidly during photopolarization and are required for the development of calcium gradients in <i>Pelvetia compressa</i> zygotes. <i>Dev. Biol.</i> <b>222</b>, 440&#150;449 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1006%2Fdbio.2000.9701" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10837131&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087795200014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXjs12qsbo%3D&pissn=1465-7392&pyear=2003&md5=25458a6d810115b62629b90c9234e5e6" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B35"></a>
+Thompson, C.R. &amp; Bretscher, M.S. Cell polarity and locomotion, as well as endocytosis, depend on NSF. <i>Development</i> <b>129</b>, 4185&#150;4192 (2002).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12183371&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000178528000002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XnvFGksr0%3D&pissn=1465-7392&pyear=2003&md5=04d14b1cff94f2eb719d55090fe10bc4" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B36"></a>
+Houliston, E. &amp; Elinson, R.P. Patterns of microtubule polymerization relating to cortical rotation in <i>Xenopus laevis</i> eggs. <i>Development</i> <b>112</b>, 107&#150;117 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1769322&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991FN47500010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXmtVersro%3D&pissn=1465-7392&pyear=2003&md5=e969cf72d8a866c89037caecd8c47568" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B37"></a>
+Houliston, E. &amp; Elinson, R.P. Evidence for the involvement of microtubules, ER, and kinesin in the cortical rotation of fertilized frog eggs. <i>J. Cell Biol.</i> <b>114</b>, 1017&#150;1028 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1714912&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991GC74400013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXkvV2nu7g%3D&pissn=1465-7392&pyear=2003&md5=84327ee01b43e001b80825fac6dde815" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B38"></a>
+Larabell, C.A., Rowning, B.A., Wells, J., Wu, M. &amp; Gerhart, J.C. Confocal microscopy analysis of living <i>Xenopus</i> eggs and the mechanism of cortical rotation. <i>Development</i> <b>122</b>, 1281&#150;1289 (1996).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8620855&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996UF83100024&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XisVOrsLw%3D&pissn=1465-7392&pyear=2003&md5=10e96638639f21f0feddef7aa57ded97" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B39"></a>
+Nedelec, F.J., Surrey, T., Maggs, A.C. &amp; Leibler, S. Self-organization of microtubules and motors. <i>Nature</i> <b>389</b>, 305&#150;308 (1997).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F38532" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9305848&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997XW77200053&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXmtFGnsrg%3D&pissn=1465-7392&pyear=2003&md5=624c66dcc0fb06a665e989caed123f9e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B40"></a>
+Surrey, T., Nedelec, F., Leibler, S. &amp; Karsenti, E. Physical properties determining self-organization of motors and microtubules. <i>Science</i> <b>292</b>, 1167&#150;1171 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.1059758" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11349149&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000168609200061&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXjs1Cgur4%3D&pissn=1465-7392&pyear=2003&md5=c075df76638d8bf7bc22a9cb4da751bc" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B41"></a>
+Miller, J.R. <i>et al</i>. Establishment of the dorsal-ventral axis in <i>Xenopus</i> embryos coincides with the dorsal enrichment of dishevelled that is dependent on cortical rotation. <i>J. Cell Biol.</i> <b>146</b>, 427&#150;437 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1083%2FJCB.146.2.427" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10427095&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000081725700014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXkvVGmtLw%3D&pissn=1465-7392&pyear=2003&md5=45d0bc362981f387dfd453944169b73d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B42"></a>
+Meinhardt, H. Orientation of chemotactic cells and growth cones: models and mechanisms. <i>J. Cell Sci.</i> <b>112</b>, 2867&#150;2874 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10444381&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000082613400008&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXmtlWqs7o%3D&pissn=1465-7392&pyear=2003&md5=df8e3abf8c6ffdf3db37d81f9121622c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="Acknowledgments"></a><span xmlns="" class="heading3">Acknowledgments</span><br xmlns=""><span xmlns="" class="articletext">We would like to thank O. Weiner, S. Wedlich, S. Altschuler and L. Wu for critical comments on the manuscript. This work was supported by an EMBO fellowship to R.W.S and a grant from the National Institute of Health (GM057063) to R.L.</span><br xmlns=""><br xmlns=""></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-265.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-271.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-267.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-267_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Acknowledgments">Acknowledgments</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb0403-267.ris" target="_blank" class="breadcrumblink">Export citation</a></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb0403-267refs.ris" target="_blank" class="breadcrumblink">Export references</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '500';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/ncb/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb0403-267&type=CY&src_title=Spontaneous%20cell%20polarization%3A%20undermining%20determinism&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=267-270&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_front;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="/copyright/copyright_ncb.html" onClick="window.open('/copyright/copyright_ncb.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003&nbsp;Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

@@ -1,0 +1,694 @@
+<html>
+<body>
+<H2>
+Complementary Profiling of Gene Expression at the Transcriptome and Proteome Levels in <I>Saccharomyces cerevisiae</I><A NAME="RFN2"></A><SUP><A HREF="#FN2">*</A></SUP><A NAME="RFN3"></A><SUP>,<A HREF="#FN3"><B>S</B></A></SUP>
+</H2>
+
+<STRONG>
+</NOBR><NOBR>Timothy J. Griffin<SUP></SUP><A NAME="RFN4"></A><SUP><A HREF="#FN4"><IMG SRC="/math/link//Dagger.gif" ALT="{ddagger}" BORDER="0"></A></SUP></NOBR>, 
+<NOBR>Steven P. Gygi<SUP></SUP><A NAME="RFN5"></A><SUP><A HREF="#FN5"><IMG SRC="/math/link//sect.gif" ALT="&#167;" BORDER="0"></A></SUP></NOBR>, 
+<NOBR>Trey Ideker<SUP></SUP><A NAME="RFN6"></A><SUP><A HREF="#FN6">&#182;</A></SUP></NOBR>, 
+<NOBR>Beate Rist<SUP></SUP><A NAME="RFN7"></A><SUP><A HREF="#FN7">||</A></SUP></NOBR>, 
+<NOBR>Jimmy Eng<SUP></SUP></NOBR>, 
+<NOBR>Leroy Hood<SUP></SUP></NOBR> and 
+<NOBR>Ruedi Aebersold<SUP><A HREF="#COR1">**</A></SUP></NOBR>
+</STRONG><P>
+<FONT SIZE=-1>
+From the Institute for Systems Biology, Seattle, Washington 98103
+</FONT><P>
+
+
+
+
+
+
+
+
+<P>
+<A NAME="ABS"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ABSTRACT
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>ABSTRACT</FONT><BR>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+
+Using an integrated genomic and proteomic approach, we have<SUP> </SUP>investigated the effects of carbon source perturbation on steady-state<SUP> </SUP>gene expression in the yeast <I>Saccharomyces cerevisiae</I> growing<SUP> </SUP>on either galactose or ethanol. For many genes, significant<SUP> </SUP>differences between the abundance ratio of the messenger RNA<SUP> </SUP>transcript and the corresponding protein product were observed.<SUP> </SUP>Insights into the perturbative effects on genes involved in<SUP> </SUP>respiration, energy generation, and protein synthesis were obtained<SUP> </SUP>that would not have been apparent from measurements made at<SUP> </SUP>either the messenger RNA or protein level alone, illustrating<SUP> </SUP>the power of integrating different types of data obtained from<SUP> </SUP>the same sample for the comprehensive characterization of biological<SUP> </SUP>systems and processes.<SUP> </SUP><P>
+
+<HR NOSHADE SIZE=1 WIDTH="50%" ALIGN="CENTER">
+
+
+The concept of discovery science, best illustrated by the human<SUP> </SUP>genome project (<A HREF="#R1">1</A>, <A HREF="#R2">2</A>), involves the identification of the components<SUP> </SUP>of a system without the prior formulation of hypotheses as to<SUP> </SUP>how these components function (<A HREF="#R3">3</A>). This scientific method has<SUP> </SUP>spawned what has become known as the "systems" approach to biology,<SUP> </SUP>which involves the comprehensive characterization of the components<SUP> </SUP>of a biological system (<I>i.e.</I> DNA, RNA, and proteins) as a whole,<SUP> </SUP>leading to insights into the responses of these components because<SUP> </SUP>of systematic perturbations to the system. The objective of<SUP> </SUP>the systems biology approach is to identify markers and mechanisms<SUP> </SUP>that are important to the function of the perturbed system,<SUP> </SUP>with the ultimate goal of developing computational models that<SUP> </SUP>enable the prediction of the response of the system to any given<SUP> </SUP>perturbation.<SUP> </SUP><P>
+
+Traditionally, studies measuring the effects of systematic perturbations<SUP> </SUP>have been carried out at the level of transcribed mRNA, most<SUP> </SUP>commonly using cDNA arrays and chip technologies (<A HREF="#R4">4</A>&#150;<A HREF="#R7">7</A>),<SUP> </SUP>or alternative methods for mRNA analysis such as serial analysis<SUP> </SUP>of gene expression (<A HREF="#R8">8</A>), differential display (<A HREF="#R9">9</A>), and cDNA fingerprinting<SUP> </SUP>(<A HREF="#R10">10</A>). These technologies have been used to distinguish diagnostically<SUP> </SUP>between cell types (<A HREF="#R7">7</A>, <A HREF="#R11">11</A>&#150;<A HREF="#R15">15</A>) and to differentiate between<SUP> </SUP>states (metabolic, activation, pathological) of a particular<SUP> </SUP>cell type (<A HREF="#R6">6</A>, <A HREF="#R16">16</A>), as well as for the comprehensive analysis<SUP> </SUP>of cellular pathways and processes by targeted perturbations<SUP> </SUP>of cells (<A HREF="#R16">16</A>&#150;<A HREF="#R19">19</A>).<SUP> </SUP><P>
+
+Although the measurement of transcribed mRNA has proven to be<SUP> </SUP>very powerful in the discovery of molecular markers and the<SUP> </SUP>elucidation of functional mechanisms, alone it is not sufficient<SUP> </SUP>for the characterization of biological systems as a whole. This<SUP> </SUP>is based on several observations. First, comparison of absolute<SUP> </SUP>mRNA transcript abundances measured by serial analysis of gene<SUP> </SUP>expression (<A HREF="#R8">8</A>) with the corresponding protein abundances expressed<SUP> </SUP>in exponentially growing <I>Saccharomyces cerevisiae</I> cells has<SUP> </SUP>shown that in many cases mRNA abundance is not a reliable indicator<SUP> </SUP>of corresponding protein abundance (<A HREF="#R20">20</A>), and studies in other<SUP> </SUP>systems have reached similar conclusions (<A HREF="#R21">21</A>, <A HREF="#R22">22</A>). Furthermore,<SUP> </SUP>attenuation of protein abundance because of post-transcriptional<SUP> </SUP>control of protein translation (<A HREF="#R23">23</A>) and protein modifications<SUP> </SUP>(<A HREF="#R24">24</A>) cannot be predicted currently from measurement of mRNA<SUP> </SUP>abundance. Neither does the mRNA sequence nor abundance predict<SUP> </SUP>accurately the subcellular location of expressed proteins, their<SUP> </SUP>associations with each other or and/or other biomolecules, or<SUP> </SUP>the mechanisms of protein half-life control.<SUP> </SUP><P>
+
+In contrast to the studies discussed above that have investigated<SUP> </SUP>the correlation between absolute amounts of transcribed mRNA<SUP> </SUP>and protein, the aim of this study was to investigate the correlation<SUP> </SUP>of induced changes in mRNA and protein expression. To this end,<SUP> </SUP>we have applied the isotope-coded affinity tag (ICAT <A NAME="RFN1"></A><SUP><A HREF="#FN1">1</A></SUP> Applied<SUP> </SUP>Biosystems, Foster City, CA) reagent technology (<A HREF="#R25">25</A>) to the<SUP> </SUP>quantitative analysis of steady-state protein expression in<SUP> </SUP><I>S. cerevisiae</I> grown on the two carbon sources, galactose and<SUP> </SUP>ethanol; we have also measured the relative abundance of the<SUP> </SUP>corresponding mRNA transcripts by cDNA microarray analysis (<A HREF="#R4">4</A>).<SUP> </SUP>Our results indicate that for many genes the measurement of<SUP> </SUP>mRNA response is not predictive of the protein response. Consequently,<SUP> </SUP>these different types of data provide complementary information<SUP> </SUP>to the elucidation of mechanisms of control that would not be<SUP> </SUP>evident from information obtained at only a single level of<SUP> </SUP>gene expression. This validates a central idea to the systems<SUP> </SUP>approach to biology that it is only through the integration<SUP> </SUP>of different levels of information that the system can be described<SUP> </SUP>comprehensively.<SUP> </SUP><P>
+
+<A NAME="SEC1"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+EXPERIMENTAL PROCEDURES
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>EXPERIMENTAL PROCEDURES</FONT><BR>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<STRONG><EM>Preparation of mRNA and Protein&#151;</EM></STRONG><BR>
+
+Proteins and mRNA were harvested from the yeast strain YPH499<SUP> </SUP>(<I>MATa, ura3&#150;52, lys2&#150;801, ade2&#150;101, leu2&#150;1,<SUP> </SUP>his3&#150;200, trp1&#150;63</I>). mRNA and proteins were isolated<SUP> </SUP>from separate yeast cultures grown under the same conditions.<SUP> </SUP>Starter cultures were first grown in YP-rich medium containing<SUP> </SUP>2% galactose. Cells from this culture were diluted to 0.05 optical<SUP> </SUP>density in either the same galactose-containing medium or YP-rich<SUP> </SUP>medium containing 2% ethanol and 0.05% galactose. These cultures<SUP> </SUP>were then grown to log phase (2 <FONT FACE="arial,helvetica">x</FONT> 10<SUP>7</SUP> cells/ml) at 30&#176;C.<SUP> </SUP>From one set of the cultures total RNA was harvested, the poly(A)<SUP> </SUP>RNA was purified, and cDNA was synthesized by reverse-transcription<SUP> </SUP>as described previously (<A HREF="#R26">26</A>). Protein was harvested from the<SUP> </SUP>other set of cultures as described (<A HREF="#R20">20</A>).<SUP> </SUP><P>
+
+<STRONG><EM>DNA Microarray Analysis&#151;</EM></STRONG><BR>
+
+The synthesized cDNA was hybridized to a DNA microarray containing<SUP> </SUP>a set of <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">6200 known and predicted gene open reading frames fabricated<SUP> </SUP>as described (<A HREF="#R26">26</A>). The hybridization fluorescence data obtained<SUP> </SUP>were processed automatically using a software algorithm (<A HREF="#R26">26</A>).<SUP> </SUP><P>
+
+<STRONG><EM>Quantitative Protein Profiling&#151;</EM></STRONG><BR>
+
+Quantitative protein analysis was carried out by the ICAT (Applied<SUP> </SUP>Biosystems, Foster City, CA) reagent method (<A HREF="#R25">25</A>). 2.2 mg of<SUP> </SUP>protein isolated from cells grown on the ethanol carbon source<SUP> </SUP>were labeled with the isotopically normal (d(0)) form of the<SUP> </SUP>ICAT reagent, and likewise 2.2 mg of protein isolated from cells<SUP> </SUP>grown on the galactose carbon source were labeled with the isotopically<SUP> </SUP>heavy (d(8)) form of the reagent. The samples were labeled,<SUP> </SUP>digested, and purified using a multidimensional chromatographic<SUP> </SUP>approach as described previously (<A HREF="#R27">27</A>). Ten of the purified,<SUP> </SUP>ICAT reagent-labeled peptide fractions were lyophilized and<SUP> </SUP>redissolved in reverse phase microcapillary liquid chromatography<SUP> </SUP>Buffer A.<SUP> </SUP><P>
+
+<STRONG><EM>Mass Spectrometric Analysis&#151;</EM></STRONG><BR>
+
+Fused silica microcapillary columns (100 &#181;<FONT SIZE=-2>M</FONT> inner diameter<SUP> </SUP>x 12-cm) were in-house packed with Magic C18 (5 &#181;<FONT SIZE=-2>M</FONT>, 200<SUP> </SUP>&Aring;) spherical silica (Michrom BioResources, Auburn, CA).<SUP> </SUP>A flame-pulled tip (5 &#181;<FONT SIZE=-2>M</FONT> diameter) at one end of the capillaries<SUP> </SUP>served a dual purpose of retaining beads and as an electrospray<SUP> </SUP>ionization source. The voltage (+1.8 kV) was applied behind<SUP> </SUP>the column through a gold wire into one arm of a microcross<SUP> </SUP>(Upchurch Scientific, Oak Harbor, WA). The other three arms<SUP> </SUP>of the cross were used as a receiver for the liquid chromatography<SUP> </SUP>flow (75 &#181;l/min), a fused-silica flow restrictor (50 &#181;<FONT SIZE=-2>M</FONT><SUP> </SUP>inner diameter x 50-cm) that passed 74.5 &#181;l/min to waste,<SUP> </SUP>and 500 nl/min (split ratio of 0.007) across the packed capillary<SUP> </SUP>column that was connected to the ion source. The capillary column<SUP> </SUP>was loaded with <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">20% of the total of each affinity-purified peptide<SUP> </SUP>mixture offline via a pressure cell and then reconnected to<SUP> </SUP>the system. After washing for 5 min with 90% Solvent A (0.4%<SUP> </SUP>acetic acid and 0.005% heptafluorobutyric acid in water) and<SUP> </SUP>10% Solvent B (0.4% acetic acid, 0.005% heptafluorobutyric acid<SUP> </SUP>in 100% acetonitrile), a binary gradient from 10% Solvent B<SUP> </SUP>to 35% Solvent B over 1 h was run using an HP1100 solvent-delivery<SUP> </SUP>system (Hewlett Packard, Palo Alto, CA). Eluting peptides were<SUP> </SUP>analyzed using an LCQ classic ion-trap mass spectrometer (Finnigan<SUP> </SUP>MAT, San Jose, CA). The mass spectrometric strategy employed<SUP> </SUP>consisted of the ion trap alternating between mass spectral<SUP> </SUP>scans detecting peptide ion mass-to-charge ratios and tandem<SUP> </SUP>mass spectrometry (MS/MS) scans in which a selected peptide<SUP> </SUP>ion species was subjected to collision-induced dissociation.<SUP> </SUP>Each scan lasted an average of <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">1.3 s. Therefore over the 1-h<SUP> </SUP>analysis time <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">1300 sequencing attempts were carried out. The<SUP> </SUP>specific mass-to-charge value of each peptide sequenced by tandem<SUP> </SUP>mass spectrometry was excluded dynamically from reanalysis for<SUP> </SUP>1 min (<A HREF="#R28">28</A>, <A HREF="#R29">29</A>).<SUP> </SUP><P>
+
+The obtained MS/MS spectra were automatically searched against<SUP> </SUP>a data base of predicted proteins derived from the <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">6100 open<SUP> </SUP>reading frames in the <I>S. cerevisiae</I> genome using the SEQUEST<SUP> </SUP>algorithm (<A HREF="#R30">30</A>). The cleavage specificity for the protease used<SUP> </SUP>was not specified for the search, and oxidized methionines and<SUP> </SUP>ICAT reagent-labeled cysteines (both the d(0) and d(8) forms)<SUP> </SUP>were specified as static modifications in the search parameters.<SUP> </SUP>No sequence constraints were included in the data base search<SUP> </SUP>to allow for the identification of non-specifically retained,<SUP> </SUP>non-cysteine-containing peptides, which were found to constitute<SUP> </SUP>less than 10% of the total peptides identified and did not interfere<SUP> </SUP>with the analysis. A peptide was considered to be a match if<SUP> </SUP>the cross-correlation score for a MS/MS spectrum from a peptide<SUP> </SUP>ion was at least 2.0 or the <IMG SRC="/math/Dgr.gif" ALT="{Delta}" BORDER="0"> correlation score was at least<SUP> </SUP>0.1 (<A HREF="#R30">30</A>). We considered a protein identified if at least two<SUP> </SUP>such peptide matches were apparent for the protein. For proteins<SUP> </SUP>identified by a single peptide, the veracity of these peptide<SUP> </SUP>sequence determinations by SEQUEST was confirmed by manual inspection.<SUP> </SUP>Several criteria were used to confirm the sequence matches:<SUP> </SUP>(i) Peptide sequences identified as containing either d(0)-<SUP> </SUP>or d(8)-labeled cysteine were inspected for characteristic ICAT<SUP> </SUP>reagent fragments (peak at <I>m</I>/<I>z</I> of 284 for d(0)-labeled peptides<SUP> </SUP>and <I>m</I>/<I>z</I> of 288 for d(8)-labeled peptides); (ii) inspection of<SUP> </SUP>spectra for matches between major product ions and the theoretically<SUP> </SUP>predicted product ions from the data base-matched peptide; (iii)<SUP> </SUP>examination of the chromatographic profiles of the peptides<SUP> </SUP>identified as d(0) and d(8) labeled for expected behavior, as<SUP> </SUP>the d(8)-labeled peptides consistently elute several seconds<SUP> </SUP>before the d(0)-labeled peptides. Only peptides passing all<SUP> </SUP>of these criteria were determined to be true sequence matches.<SUP> </SUP>Quantification of each identified protein was done by reconstructing<SUP> </SUP>the ion-chromatographic trace for the d(0) and d(8) form of<SUP> </SUP>each peptide and comparing the peak area for corresponding peptide<SUP> </SUP>pairs using XPRESS, a novel quantification software routine<SUP> </SUP>that enables visual inspection of reconstructed ion chromatograms<SUP> </SUP>for identified peptides (<A HREF="#R31">31</A>). The criteria used in determining<SUP> </SUP>the accuracy of the quantitative results were as follows: (i)<SUP> </SUP>signal-to-noise ratios of at least 10; if one of the labeled<SUP> </SUP>peptides (d(0) or d(8)) in a pair was detected at a signal-to-noise<SUP> </SUP>ratio less than 10, the abundance was estimated by measuring<SUP> </SUP>the noise level over the approximate elution profile of that<SUP> </SUP>peptide; (ii) approximately Gaussian-shaped elution profiles;<SUP> </SUP>(iii) clear chromatographic separation from coeluting peptides<SUP> </SUP>at similar <I>m</I>/<I>z</I> ratios. The final results were summarized using<SUP> </SUP>the software tool INTERACT (<A HREF="#R31">31</A>). For those proteins from which<SUP> </SUP>multiple peptides were identified, the log<SUB>10</SUB> of the abundance<SUP> </SUP>ratio for each specific pair of ICAT reagent-labeled peptides<SUP> </SUP>were averaged to give an average log<SUB>10</SUB> abundance ratio that<SUP> </SUP>was used in the final results.<SUP> </SUP><P>
+
+<A NAME="SEC2"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+RESULTS
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>RESULTS</FONT><BR>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+The correlation between induced changes in mRNA and protein-expression<SUP> </SUP>profiles was varied. We investigated the extent to which perturbation-induced<SUP> </SUP>changes in gene expression at the protein and mRNA levels were<SUP> </SUP>correlated in yeast cells. Cells were grown on the fermentable<SUP> </SUP>carbon source, galactose, and the non-fermentable carbon source,<SUP> </SUP>ethanol, respectively. Carbon source utilization in yeast has<SUP> </SUP>been studied in depth, with being growth on various carbon sources<SUP> </SUP>known to cause large changes in gene expression (<A HREF="#R5">5</A>, <A HREF="#R32">32</A>). Glucose<SUP> </SUP>is the preferred sugar for energy generation in yeast, and a<SUP> </SUP>well characterized regulatory network results in the repression<SUP> </SUP>of a plethora of genes responsible for the utilization of other<SUP> </SUP>carbon sources when glucose is present (<A HREF="#R32">32</A>, <A HREF="#R33">33</A>). Changes in<SUP> </SUP>mRNA levels in cells grown on the two carbon sources galactose<SUP> </SUP>and ethanol were determined by full genome cDNA arrays (<A HREF="#R4">4</A>),<SUP> </SUP>and the obtained profiles were subjected to maximum-likelihood<SUP> </SUP>analysis (<A HREF="#R26">26</A>); changes in the protein profiles were determined<SUP> </SUP>by the ICAT reagent method (<A HREF="#R25">25</A>). Proteins were isolated from<SUP> </SUP>the two cell populations, labeled with the isotopically normal<SUP> </SUP>(d(0)) or heavy (d(8)) ICAT reagent, respectively, combined,<SUP> </SUP>and proteolyzed. The resulting peptide mixtures were fractionated<SUP> </SUP>by strong cation exchange chromatography, and each fraction<SUP> </SUP>was subjected to avidin affinity chromatography (<A HREF="#R27">27</A>). Ten separate<SUP> </SUP>fractions of purified ICAT reagent-labeled peptides were identified<SUP> </SUP>and quantified using reverse phase microcapillary liquid chromatography<SUP> </SUP>in conjunction with electrospray ionization MS/MS analysis and<SUP> </SUP>specifically developed software tools (<A HREF="#R31">31</A>). In total, we identified<SUP> </SUP>and quantified the relative abundances of 245 unique protein<SUP> </SUP>products. We identified and quantified an additional 45 peptides<SUP> </SUP>by this method that could not be assigned unambiguously to a<SUP> </SUP>specific protein because of sequence similarities between two<SUP> </SUP>or more proteins. The quality and accuracy of the quantitative<SUP> </SUP>protein data generated initially by the software tool (<A HREF="#R31">31</A>) was<SUP> </SUP>checked manually, and only those peptides showing satisfactory<SUP> </SUP>signal-to-noise ratios in the mass spectrometric analysis were<SUP> </SUP>incorporated into the data set presented here. The full set<SUP> </SUP>of proteins identified, the abundance ratios for these proteins,<SUP> </SUP>and the abundance ratios for each corresponding mRNA transcript<SUP> </SUP>are provided in <A HREF="#T1">Table I</A> of the Supplemental Material. <A HREF="#F1">Fig. 1<I>A</I></A><SUP> </SUP>shows the abundance ratios of the uniquely identified proteins<SUP> </SUP>plotted against the ratios obtained for the products of the<SUP> </SUP>same genes obtained at the mRNA level. The plotted <I>line</I> indicates<SUP> </SUP>the line <I>y</I> = <I>x</I> that would be expected if the mRNA and protein-abundance<SUP> </SUP>ratios were correlated perfectly. A non-parametric correlation<SUP> </SUP>analysis of the experimental data using the Spearman rank correlation<SUP> </SUP>method (<A HREF="#R34">34</A>) gives a correlation coefficient of 0.21 (<I>p</I> &lt;<SUP> </SUP>0.001). This indicates a positive directional correlation between<SUP> </SUP>the mRNA and protein-abundance ratios, although there was a<SUP> </SUP>relatively weak correlation when compared with the perfectly<SUP> </SUP>correlated data represented by the plotted <I>line</I> in <A HREF="#F1">Fig. 1<I>A</I></A>.<SUP> </SUP><P>
+
+<A NAME="T1"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<STRONG>View this table:</STRONG><BR>
+<NOBR><A HREF="/cgi/content/full/1/4/323/T1">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/323/T1"
+    onClick="startTarget('T1', 500, 400); this.href='/cgi/content-nw/full/1/4/323/T1'"
+ 	onMouseOver="window.status='View table in a separate window'; return true"
+ 	TARGET="T1">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+T<FONT SIZE=-2>ABLE</FONT> I Abundance ratio variations among peptides derived from selected proteins<P>
+
+The number of unique, ICAT reagent-labeled peptides identified by tandem mass spectrometry is given for each protein, along with the average ratio of abundance for the peptides on the galactose carbon source relative to the ethanol carbon source and the standard deviation between these ratios.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<A NAME="F1"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/323/F1"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=167 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw0420038001.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (16K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/323/F1">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/323/F1"
+    onClick="startTarget('F1', 518, 640); this.href='/cgi/content-nw/full/1/4/323/F1'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F1">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 1. <B>mRNA abundance ratios <I>versus</I> protein-abundance ratios.</B> The log<SUB>10</SUB> values of the ratio of abundance on the galactose carbon source to the abundance on the ethanol carbon source measured at the mRNA and protein level are plotted against each other for each unique gene product characterized in this study. <I>A</I>, all gene products characterized. Some of the key genes involved in carbohydrate metabolism and energy generation are indicated. The plotted <I>line</I> indicates data points showing perfect correlation between mRNA and protein abundances. <I>B</I>, those data points showing significant differential expression between the two carbon sources.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+An important aspect of this comparison is an assessment of what<SUP> </SUP>constitutes a significant change in abundance at either the<SUP> </SUP>mRNA or protein level. For hybridization data obtained from<SUP> </SUP>a cDNA microarray, a conservative abundance ratio threshold<SUP> </SUP>indicating significant change in abundance in a single experiment<SUP> </SUP>is at least a 3-fold change ( log<SUB>10</SUB>(ratio) <IMG SRC="/math/ge.gif" ALT=">=" BORDER="0"> 0.48)<SUP> </SUP>(<A HREF="#R26">26</A>). As the results presented here were derived from a single<SUP> </SUP>microarray experiment, only transcripts showing abundance changes<SUP> </SUP>exceeding this threshold were considered to be expressed differentially,<SUP> </SUP>to account for possible measurement errors in this data. This<SUP> </SUP>threshold has been set based on control experiments comparing<SUP> </SUP>equal amounts of differently fluorescently labeled mRNA hybridized<SUP> </SUP>to an array and determining the level of variation between the<SUP> </SUP>measured ratios and the expected ratio of one. As the level<SUP> </SUP>of variation increases for transcripts detected at low fluorescence<SUP> </SUP>intensities, mRNA species detected by the analysis software<SUP> </SUP>at levels below the threshold where this error model is valid<SUP> </SUP>were omitted from the results (<A HREF="#R26">26</A>). For protein-abundance ratios<SUP> </SUP>measured by the ICAT reagent method we set a 1.5-fold change<SUP> </SUP>( log<SUB>10</SUB>(ratio) <IMG SRC="/math/ge.gif" ALT=">=" BORDER="0"> 0.18) as the threshold indicating<SUP> </SUP>significant change. This value was chosen for the following<SUP> </SUP>reasons: (i) assessment of variation over numerous experiments.<SUP> </SUP>In previous studies using the ICAT reagent technology to measure<SUP> </SUP>abundances of control mixtures of proteins we have observed<SUP> </SUP>discrepancies of 10&#150;20% between the expected and measured<SUP> </SUP>values (<A HREF="#R25">25</A>, <A HREF="#R27">27</A>); (ii) assessment of the variation within an<SUP> </SUP>experiment. The confidence in the protein-abundance ratio measurements<SUP> </SUP>within an experiment can be assessed by the variation in abundance<SUP> </SUP>ratios measured from multiple peptides derived from the same<SUP> </SUP>protein. In the study described here approximately one-third<SUP> </SUP>of the proteins quantified had two or more peptides contained<SUP> </SUP>in their sequence identified and used to determine the relative<SUP> </SUP>abundance ratios. <A HREF="#T1">Table I</A> shows a sampling of proteins identified<SUP> </SUP>in which multiple peptides from the same protein were matched<SUP> </SUP>to the protein and used to determine the abundance ratio of<SUP> </SUP>the protein. On average the variation between peptides for the<SUP> </SUP>data shown in <A HREF="#T1">Table I</A> is <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">14% of the average abundance ratio<SUP> </SUP>determined for the protein from the peptides, illustrating the<SUP> </SUP>high amount of precision and accuracy of the ICAT reagent method<SUP> </SUP>for the measurement of relative protein abundances. Similar<SUP> </SUP>levels of variation between ICAT reagent-labeled peptides derived<SUP> </SUP>from the same protein have been observed in another large-scale<SUP> </SUP>study (<A HREF="#R31">31</A>); (iii) reproducibility of the experiment. We have<SUP> </SUP>reproduced the entire experiment described in this study (<I>i.e.</I><SUP> </SUP>cell growth, ICAT reagent labeling of proteins, mass spectrometry)<SUP> </SUP>three separate times, giving four independent sets of data including<SUP> </SUP>the data set presented here. A sampling of proteins identified<SUP> </SUP>in these replicate sets of experiments has shown the ICAT reagent<SUP> </SUP>approach to be highly reproducible, with a standard deviation<SUP> </SUP>between measurements being on average less than 20% of the average<SUP> </SUP>value determined for each of the proteins compared (<A HREF="#R35">35</A>). It<SUP> </SUP>should be noted that in some cases an identified peptide might<SUP> </SUP>exhibit large discrepancies in the measured abundance ratio<SUP> </SUP>when compared between separate reproducibility experiments or<SUP> </SUP>when compared with data from other peptides derived from the<SUP> </SUP>same protein within the same experiment. The vast majority of<SUP> </SUP>these discrepancies occur in the case of peptides that are detected<SUP> </SUP>at low signal-to-noise ratios and/or overlap in mass with other<SUP> </SUP>coeluting peptides; both of these circumstances severely confound<SUP> </SUP>the quantitative measurements. However, the XPRESS software<SUP> </SUP>tool (<A HREF="#R31">31</A>) for quantifying ICAT reagent-labeled peptides facilitates<SUP> </SUP>the inspection of the quantitative results for identified peptides,<SUP> </SUP>and as such those peptides showing poor data quality can be<SUP> </SUP>determined and omitted from the final results. Accordingly,<SUP> </SUP>the data quality of all the identified peptides presented in<SUP> </SUP>this study, and the studies described above that assessed the<SUP> </SUP>variation of the ICAT reagent method, was checked rigorously<SUP> </SUP>using the criteria described under "Experimental Procedures,"<SUP> </SUP>omitting those peptides showing poor data quality to ensure<SUP> </SUP>to the greatest extent possible the accuracy of the data. Data<SUP> </SUP>that passes these criteria show an average variation of 20%<SUP> </SUP>or less as discussed above, with outliers showing as much as<SUP> </SUP>40% variation and as little as 1% relative to the average for<SUP> </SUP>a given protein. This variation is most likely because of matrix<SUP> </SUP>effects that cause slight variability in peptide ionization<SUP> </SUP>efficiency and instrument detector response. Given the level<SUP> </SUP>of variation observed for this data, a 1.5-fold abundance change<SUP> </SUP>is a reasonable threshold value for the protein measurements.<SUP> </SUP><A HREF="#F1">Fig. 1<I>B</I></A> shows the data points that exhibited differential expression.<SUP> </SUP>The <I>rectangle</I> indicated by the <I>dotted line</I> shows the region<SUP> </SUP>of the plot for data points that did not exhibit significant<SUP> </SUP>changes in abundance at either the mRNA or protein level using<SUP> </SUP>the criteria set above. In all, 166 of the 245 unique data points<SUP> </SUP>showed differential expression when measured at either the mRNA<SUP> </SUP>or protein level or both.<SUP> </SUP><P>
+
+In an earlier study we used similar metabolic perturbation in<SUP> </SUP>yeast to demonstrate the ability of the ICAT reagent method<SUP> </SUP>to identify and quantify proteins in complex mixtures (<A HREF="#R25">25</A>).<SUP> </SUP>That study differs from the present one in the growth conditions<SUP> </SUP>and the time period between the induction of the perturbation<SUP> </SUP>and sample harvest and the sample-processing protocol. In the<SUP> </SUP>initial experiment yeast were first cultured in rich medium<SUP> </SUP>containing galactose, and a portion of these cells were then<SUP> </SUP>transferred to medium containing 2% ethanol. In the present<SUP> </SUP>study, the cultured yeast were transferred to medium containing<SUP> </SUP>2% ethanol and 0.05% galactose. The small amount of galactose<SUP> </SUP>was added to initiate growth more rapidly on the ethanol, as<SUP> </SUP>in the presence of ethanol alone initiation of cell growth may<SUP> </SUP>take several days or more, as was the case in the original experiment<SUP> </SUP>describing the ICAT reagent method. Therefore the original experiment<SUP> </SUP>more closely reflects changes because of separate growth on<SUP> </SUP>ethanol or galactose, whereas the present results essentially<SUP> </SUP>reflect expression changes because of a carbon source shift<SUP> </SUP>from galactose to ethanol. This is reflected in the observation<SUP> </SUP>that the ratio of induction of some of the proteins including<SUP> </SUP>for Gal1p and Gal10p, which were measured to be 100-fold or<SUP> </SUP>greater in the initial experiment (<A HREF="#R25">25</A>), are lower in the present<SUP> </SUP>experiment. The ability to detect changes in abundance ratio<SUP> </SUP>by a factor of 100 or more demonstrated in the earlier study<SUP> </SUP>indicates that the decreased magnitude of these ratios relative<SUP> </SUP>to the mRNA measurements observed in the present experiment<SUP> </SUP>is not because of a lack of dynamic range in the mass spectrometric<SUP> </SUP>measurement of these values, but rather it is most likely a<SUP> </SUP>biological effect. The complex mixture of labeled peptides generated<SUP> </SUP>in the earlier study was separated by one-dimensional (reverse<SUP> </SUP>phase) chromatography, whereas the samples generated in this<SUP> </SUP>experiment were separated by two-dimensional (cation exchange/reverse<SUP> </SUP>phase) chromatography (<A HREF="#R27">27</A>). This increased chromatographic space<SUP> </SUP>resulted in an increase in the number of uniquely identified<SUP> </SUP>and quantified proteins from 34 to 245.<SUP> </SUP><P>
+
+<A NAME="SEC3"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+DISCUSSION
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>DISCUSSION</FONT><BR>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+It is clear from inspection of the data derived from these 245<SUP> </SUP>genes in <A HREF="#F1">Fig. 1<I>B</I></A> that there is a significant number of genes<SUP> </SUP>that show large discrepancies between abundance ratios when<SUP> </SUP>measured at the levels of mRNA and protein expression. Particularly<SUP> </SUP>evident is the clustering of genes in <I>quadrant 1</I> and <I>2</I> of <A HREF="#F1">Fig. 1</A>.<SUP> </SUP>These genes are showing a significant increase in relative<SUP> </SUP>protein expression on the galactose carbon source but no significant<SUP> </SUP>change in abundance when measured at the mRNA level. To better<SUP> </SUP>explain the data presented here, we clustered the genes characterized<SUP> </SUP>in this study by their known cellular roles (<A HREF="#R36">36</A>) (see <A HREF="#T1">Table I</A><SUP> </SUP>of Supplementary Material), and below we discuss the behavior<SUP> </SUP>of those genes involved in carbohydrate metabolism, respiration,<SUP> </SUP>energy generation, and protein synthesis.<SUP> </SUP><P>
+
+<STRONG><EM>Carbohydrate Metabolism Pathway Genes&#151;</EM></STRONG><BR>
+
+<A HREF="#F2">Fig. 2</A> shows the mRNA and protein-expression ratios of genes<SUP> </SUP>with known roles in carbon source metabolism in yeast overlaid<SUP> </SUP>onto schematic representations of galactose utilization and<SUP> </SUP>energy metabolism in yeast cells (<A HREF="#R5">5</A>, <A HREF="#R32">32</A>). All five essential<SUP> </SUP>proteins involved in the conversion of galactose to glucose<SUP> </SUP>6-phosphate (Gal1p, Gal2p, Gal5p, Gal7p, and Gal10p) (<A HREF="#R32">32</A>) were<SUP> </SUP>identified uniquely and quantified; all are repressed in the<SUP> </SUP>presence of glucose and induced by galactose (<A HREF="#R36">36</A>). An additional<SUP> </SUP>protein, Gal3p, could not be characterized unambiguously, as<SUP> </SUP>the peptide sequence identified from this protein is also contained<SUP> </SUP>in the Gal1p enzyme. In general, the mRNA abundances of the<SUP> </SUP>galactose utilization genes showed a larger magnitude of induction<SUP> </SUP>on the galactose than the corresponding abundances measured<SUP> </SUP>at the protein level. For example, <I>GAL2</I> showed an <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">500-fold increase<SUP> </SUP>in mRNA expression on galactose, whereas it showed an <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">10-fold<SUP> </SUP>increase when measured at the protein level. Also shown in <A HREF="#F2">Fig. 2</A><SUP> </SUP>are many of the key glycolytic proteins. These genes showed<SUP> </SUP>increased expression of similar magnitude on the galactose carbon<SUP> </SUP>source at both the mRNA and protein levels, consistent with<SUP> </SUP>the metabolic conversion of galactose to glucose 6-phosphate,<SUP> </SUP>which enters into the glycolytic pathway (<A HREF="#R32">32</A>). The genes involved<SUP> </SUP>in the respirative conversion of pyruvate to acetyl-CoA, including<SUP> </SUP>the E3 component of pyruvate dehydrogenase complex (<I>LPD1</I>), the<SUP> </SUP>pyruvate dehydrogenase complex E1-<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> subunit (<I>PDA1</I>), and E1-&#223;<SUP> </SUP>subunit (<I>PDB1</I>), showed no significant change in abundance between<SUP> </SUP>the two carbon sources at the mRNA level, while showing small<SUP> </SUP>but significant changes at the protein level. In general, although<SUP> </SUP>the magnitude of change in abundance may have differed in some<SUP> </SUP>cases, the induced changes in expression showed similar patterns<SUP> </SUP>when measured at the mRNA and protein level for the major carbohydrate<SUP> </SUP>metabolism genes.<SUP> </SUP><P>
+
+<A NAME="F2"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/323/F2"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=154 SRC="/content/vol1/issue4/images/small/jw0420038002.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (31K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/323/F2">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/323/F2"
+    onClick="startTarget('F2', 590, 538); this.href='/cgi/content-nw/full/1/4/323/F2'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F2">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 2. <B>Schematic of the major carbohydrate metabolism and respiratory genes characterized in this study.</B> For each gene, the measured mRNA abundance ratio is given first, followed by the protein-abundance ratio. For some highly homologous proteins (Gal3/1p, Eno1/2p, Tdh1/2/3p, Adh2/3p, Sdh1p/YJL045W) the peptide sequence identified could not be assigned unambiguously to a single protein. For these genes, the mRNA abundance ratio given is an average value of transcripts corresponding to each of the proteins indicated.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<STRONG><EM>Respiratory Genes&#151;</EM></STRONG><BR>
+
+The genes involved in the respirative metabolism of ethanol<SUP> </SUP>and their quantitative change at the mRNA and protein level<SUP> </SUP>are also shown in <A HREF="#F2">Fig. 2</A>. The first step in the respirative<SUP> </SUP>pathway is the conversion of ethanol to acetaldehyde, mediated<SUP> </SUP>by the alcohol dehydrogenase 2 enzyme (Adh2p) (<A HREF="#R32">32</A>). Unfortunately,<SUP> </SUP>the peptide sequences identified as being derived from this<SUP> </SUP>protein by way of MS/MS analysis are contained in both the Adh2p<SUP> </SUP>and the closely related alcohol dehydrogenase 3 isozyme (Adh3p)<SUP> </SUP>(<A HREF="#R37">37</A>), which catalyzes the reverse reaction, reducing acetaldehyde<SUP> </SUP>to ethanol. Therefore the ratio of abundance (which showed no<SUP> </SUP>change between the two carbon sources) of the peptides identified<SUP> </SUP>could not be assigned unambiguously to either of these enzymes.<SUP> </SUP>At the mRNA level, the transcripts from these two genes showed<SUP> </SUP>identical ratios (<IMG SRC="/math/sim.gif" ALT="~" BORDER="0">2-fold increased abundance on the ethanol<SUP> </SUP>carbon source), indicating that there is most likely crossover<SUP> </SUP>hybridization of these two highly similar transcript sequences<SUP> </SUP>(<A HREF="#R5">5</A>, <A HREF="#R32">32</A>). Similarly, the peptide sequences determined from the<SUP> </SUP>next enzyme in the ethanol utilization pathway, aldehyde dehydrogenase<SUP> </SUP>protein (Aldp), could not be differentiated between the cytosolic<SUP> </SUP>form (Ald2p) and its putative isoform (Ald3p) (<A HREF="#R38">38</A>). The acetaldehyde<SUP> </SUP>oxidizing protein (Ald6p) was identified unambiguously. Interestingly<SUP> </SUP>it showed no change at the protein level but did exhibit a 3-fold<SUP> </SUP>increase in abundance on the ethanol carbon source at the mRNA<SUP> </SUP>level. The discrepancies between abundance ratios at the mRNA<SUP> </SUP>and protein level of this gene product may indicate a post-transcriptional<SUP> </SUP>control mechanism and is consistent with the previously reported<SUP> </SUP>finding that this enzyme is also active during fermentative<SUP> </SUP>metabolism (<A HREF="#R39">39</A>). The acetyl-CoA synthetase protein (Acs1p),<SUP> </SUP>showed an <IMG SRC="/math/sim.gif" ALT="~" BORDER="0">2.8-fold increase in protein abundance on the galactose<SUP> </SUP>carbon source, with no significant change in mRNA abundance.<SUP> </SUP>This finding is consistent with an earlier finding that suggests<SUP> </SUP>Acs1p is repressed by both glucose and ethanol (<A HREF="#R40">40</A>).<SUP> </SUP><P>
+
+<STRONG><EM>Energy-generation Genes&#151;</EM></STRONG><BR>
+
+The key regulatory genes involved in both the tricarboxylate<SUP> </SUP>cycle and the glyoxylate cycle that were found in this study<SUP> </SUP>showed an interesting result. The genes involved in the glyoxylate<SUP> </SUP>cycle showed strong increases in transcriptional response on<SUP> </SUP>the ethanol carbon source, whereas those genes involved in the<SUP> </SUP>tricarboxylate cycle showed no significant amount of change<SUP> </SUP>(<A HREF="#F2">Fig. 2</A>). At the protein level, we observed a more distinct<SUP> </SUP>branching in the expression pattern between the glyoxylate cycle<SUP> </SUP>and the tricarboxylate cycle. Proteins involved in the glyoxylate<SUP> </SUP>cycle, specifically isocitrate lyase 1 (Icl1p), malate synthase<SUP> </SUP>1 (Mls1p), and a peptide sequence common to both Mls1p and the<SUP> </SUP>nearly identical malate synthase 2 (Dal7p) (<A HREF="#R36">36</A>) all showed significantly<SUP> </SUP>increased relative abundance on the ethanol carbon source. In<SUP> </SUP>contrast, those proteins involved in the other steps of the<SUP> </SUP>tricarboxylate cycle (notably Kgd2p and peptide common to Sdh1p<SUP> </SUP>and the related protein derived from open reading frame YML045W)<SUP> </SUP>showed a slight but significant increase in relative abundance<SUP> </SUP>on the galactose carbon source even though the corresponding<SUP> </SUP>mRNA levels showed no significant changes. The branch point<SUP> </SUP>of these two cycles occurs at the protein Idh1p (<A HREF="#R41">41</A>), which<SUP> </SUP>showed no significant change in abundance on either the mRNA<SUP> </SUP>or protein levels. This is consistent with recently published<SUP> </SUP>evidence that Idh1p is regulated allosterically by mitochondrial<SUP> </SUP>mRNA species (<A HREF="#R42">42</A>), and therefore no change in abundance of the<SUP> </SUP>protein on either carbon source may be expected. The allosteric<SUP> </SUP>inactivation of Idh1p channels the metabolic flow to its competitor<SUP> </SUP>Icl1p and therefore into the glyoxylate cycle in what is known<SUP> </SUP>as the glyoxylate bypass (<A HREF="#R41">41</A>). The glyoxylate bypass functions<SUP> </SUP>as an alternate mechanism of energy generation and synthesis<SUP> </SUP>of biological precursors under conditions in which available<SUP> </SUP>carbon is scarce (<A HREF="#R41">41</A>), thus it should be expected that this<SUP> </SUP>pathway would be utilized preferentially in the presence of<SUP> </SUP>ethanol but not in the presence of the relatively carbon-rich<SUP> </SUP>hexose sugar, galactose.<SUP> </SUP><P>
+
+The steps involved in the tricarboxylate cycle are carried out<SUP> </SUP>in the mitochondria, whereas those proteins involved in the<SUP> </SUP>glyoxylate cycle are cystolic (<A HREF="#R36">36</A>). Closer examination of the<SUP> </SUP>mitochondrial-located proteins characterized here show that<SUP> </SUP>these consistently exhibited significantly increased relative<SUP> </SUP>protein abundances on galactose, with no significant change<SUP> </SUP>at the mRNA level (<A HREF="#T2">Table II</A>). This very clearly indicates the<SUP> </SUP>preferential channeling of energy generation through the tricarboxylate<SUP> </SUP>cycle during growth on galactose initially indicated by the<SUP> </SUP>slightly increased expression of the proteins Kgd2p and Sdh1p<SUP> </SUP>in <A HREF="#F2">Fig. 2</A>. The discrepancies between the mRNA and protein-abundance<SUP> </SUP>ratios for these genes indicate a global post-transcriptional<SUP> </SUP>control mechanism of these proteins. One possible mechanism<SUP> </SUP>of this control may be increased degradation of mitochondrial-located<SUP> </SUP>proteins (<A HREF="#R43">43</A>) during growth on ethanol, which has been shown<SUP> </SUP>to be carbon source-dependent (<A HREF="#R44">44</A>). Consistent with this model,<SUP> </SUP>the mitochondrial protease Prd1p (<A HREF="#R36">36</A>) showed almost a 3-fold<SUP> </SUP>increase in abundance on the ethanol carbon source, indicative<SUP> </SUP>of increased degradation activity in the mitochondria.<SUP> </SUP><P>
+
+<A NAME="T2"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<STRONG>View this table:</STRONG><BR>
+<NOBR><A HREF="/cgi/content/full/1/4/323/T2">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/323/T2"
+    onClick="startTarget('T2', 500, 400); this.href='/cgi/content-nw/full/1/4/323/T2'"
+ 	onMouseOver="window.status='View table in a separate window'; return true"
+ 	TARGET="T2">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+T<FONT SIZE=-2>ABLE</FONT> II mRNA and protein abundance ratios for mitochondrial-located proteins<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+The analysis of the genes involved in respiration and energy<SUP> </SUP>generation, taken together with those genes involved in carbohydrate<SUP> </SUP>metabolism, indicate three patterns emerging from the comparison<SUP> </SUP>of mRNA and protein-abundance ratios: (i) genes that show close<SUP> </SUP>agreement between abundance ratios (<I>e.g.</I> glycolysis genes);<SUP> </SUP>(ii) genes that show the same general changes in abundance but<SUP> </SUP>differ in the magnitude of this change (<I>e.g.</I> galactose metabolism<SUP> </SUP>genes); and (iii) genes that are discordant (<I>e.g.</I> mitochondrial-located<SUP> </SUP>genes), which may suggest new regulatory mechanisms that are<SUP> </SUP>not apparent from either the mRNA or protein data alone.<SUP> </SUP><P>
+
+<STRONG><EM>Protein-synthesis Genes&#151;</EM></STRONG><BR>
+
+Another major component of the cluster of data points located<SUP> </SUP>in <I>quadrant 2</I> of <A HREF="#F1">Fig. 1<I>B</I></A> are genes encoding ribosomal proteins<SUP> </SUP>(r-proteins) and other genes involved in protein synthesis (elongation<SUP> </SUP>factors, etc.). As a group these fell into the category of discordant<SUP> </SUP>genes, as these genes showed an average increase in relative<SUP> </SUP>protein abundance on galactose of greater than 2-fold, with<SUP> </SUP>no significant changes in abundance indicated at the mRNA level.<SUP> </SUP>Amounts of r-protein are known to be proportional to cellular<SUP> </SUP>growth rate (<A HREF="#R45">45</A>), thus the increased amount of r-proteins in<SUP> </SUP>the presence of the relatively more favorable carbon source<SUP> </SUP>galactose is expected. In the case of the r-proteins, the discrepancies<SUP> </SUP>between the mRNA and protein-abundance ratios for these genes<SUP> </SUP>would seem to contradict previous reports that r-protein gene<SUP> </SUP>expression is strictly and entirely regulated at the level of<SUP> </SUP>transcription (<A HREF="#R46">46</A>, <A HREF="#R47">47</A>). It has, however, also been shown that<SUP> </SUP>the abundance of rRNA and r-proteins are under coordinate control<SUP> </SUP>(<A HREF="#R45">45</A>) and that this control mechanism attempts to keep a balance<SUP> </SUP>between the cellular levels of rRNA and r-proteins. Following<SUP> </SUP>this model, transcriptional control of rRNA abundances in response<SUP> </SUP>to carbon-source perturbations would lead to a subsequent adjustment<SUP> </SUP>of r-protein levels. A discrepancy between abundance ratios<SUP> </SUP>of r-proteins and their corresponding mRNA transcripts might<SUP> </SUP>be expected, at least during the induction phase of the response.<SUP> </SUP>Consistent with this model, the rRNA-processing proteins (<A HREF="#R36">36</A>)<SUP> </SUP>Cbf5p, Sik1p, and Nop1p show increases in relative protein abundances<SUP> </SUP>of 2.9-, 2.0-, and 1.7-fold, respectively, on the galactose<SUP> </SUP>carbon source (<A HREF="#F3">Fig. 3</A>). It has also been suggested that one<SUP> </SUP>mechanism for post-transcriptional regulation of r-proteins<SUP> </SUP>in response to changes in rRNA levels may be controlled by degradation<SUP> </SUP>of excess ribosomal protein (<A HREF="#R48">48</A>, <A HREF="#R49">49</A>). Accordingly, the proteins<SUP> </SUP>Pre10p, Rpn8p, and Pup3p, members of the 26 S proteasome complex<SUP> </SUP>(<A HREF="#R50">50</A>), all showed increased abundance (average of greater than<SUP> </SUP>2-fold increase) on the ethanol carbon source, consistent with<SUP> </SUP>increased protein degradation on this carbon source.<SUP> </SUP><P>
+
+<A NAME="F3"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/323/F3"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=101 SRC="/content/vol1/issue4/images/small/jw0420038003.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (8K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/323/F3">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/323/F3"
+    onClick="startTarget('F3', 590, 423); this.href='/cgi/content-nw/full/1/4/323/F3'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F3">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 3. <B>Data points for proteins that function in the mitochondria, protein-synthesis genes, and rRNA-processing proteins.</B><P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+Together with the mitochondrial-located proteins involved in<SUP> </SUP>energy generation and those involved in protein synthesis, these<SUP> </SUP>genes make up a significant portion of the data points that<SUP> </SUP>are clustered in <I>quadrants 1</I> and <I>2</I> of <A HREF="#F1">Fig. 1<I>B</I></A>. These proteins,<SUP> </SUP>along with the rRNA-processing proteins, have been plotted separately<SUP> </SUP>in <A HREF="#F3">Fig. 3</A>. It is evident that a large proportion of protein-abundance<SUP> </SUP>ratios measured in this study showed an increase in expression<SUP> </SUP>on the galactose carbon source relative to the ethanol carbon<SUP> </SUP>source. Accordingly, the median protein-abundance ratio was<SUP> </SUP>1.5 for the entire data set. The reason for this shift in expression<SUP> </SUP>ratios is most likely because of biological response and not<SUP> </SUP>an introduced experimental effect, as we have reasoned in the<SUP> </SUP>case of the energy generation proteins and also the protein-synthesis<SUP> </SUP>genes; the reproducibility of these results between replicates<SUP> </SUP>of this experiment further supports this conclusion.<SUP> </SUP><P>
+
+We have presented here an extensive study comparing the effects<SUP> </SUP>of carbon source perturbations on gene product abundance at<SUP> </SUP>the mRNA and protein level in a eukaryotic system. The results<SUP> </SUP>shown here illustrate clearly the complementary nature of the<SUP> </SUP>information obtained at these different points along the molecular<SUP> </SUP>pathway of gene expression. In many cases the response measured<SUP> </SUP>at the mRNA level is in accordance with the response at the<SUP> </SUP>protein level, which is illustrated here by the genes involved<SUP> </SUP>in glycolysis. In other cases there are significant discrepancies<SUP> </SUP>between abundance ratios, most notably for the mitochondrial-located<SUP> </SUP>energy generation genes and the protein-synthesis genes. These<SUP> </SUP>clusters of genes are of most interest, as the differences between<SUP> </SUP>the mRNA and protein data may indicate post-transcriptional<SUP> </SUP>mechanisms of regulation. By itself this data is of course not<SUP> </SUP>sufficient to explain the exact mechanisms of regulation, but<SUP> </SUP>it does provide a direction in which to proceed with more specifically<SUP> </SUP>targeted experiments. One such direction is to look for conserved<SUP> </SUP>gene sequence features among those genes showing prominent differences<SUP> </SUP>between mRNA and protein-abundance ratios. This can be done<SUP> </SUP>using a publicly available computational tool, AlignACE (<A HREF="#R51">51</A>,<SUP> </SUP><A HREF="#R52">52</A>) (atlas.med.harvard.edu/), which identifies potential Cis-regulatory<SUP> </SUP>sequence motifs common to a set of gene sequences. Applying<SUP> </SUP>AlignACE to the gene sequences for the protein-synthesis genes<SUP> </SUP>and the rRNA-processing genes discussed above, we found a highly<SUP> </SUP>conserved sequence between these genes that has been described<SUP> </SUP>previously as a ribosomal processing element, as it was found<SUP> </SUP>to be conserved specifically between rRNA-processing genes (<A HREF="#R52">52</A>).<SUP> </SUP>The fact that this sequence element is also conserved in the<SUP> </SUP>majority of the protein-synthesis genes characterized in this<SUP> </SUP>study indicates a possible target in the gene sequence that<SUP> </SUP>may be responsible for the coordinate control of the expression<SUP> </SUP>of these gene products. Further experiments are necessary to<SUP> </SUP>determine whether this sequence element is responsible for the<SUP> </SUP>post-transcriptional regulation of these genes that has been<SUP> </SUP>indicated in this study.<SUP> </SUP><P>
+
+Despite significant improvements in methodologies for assaying<SUP> </SUP>protein expression, such as the ICAT reagent technology used<SUP> </SUP>here, the number of unique protein products (245) characterized<SUP> </SUP>in this study is still well below the number of proteins expected<SUP> </SUP>to be expressed in <I>S. cerevisiae</I> (<A HREF="#R53">53</A>, <A HREF="#R54">54</A>). The ability to amplify<SUP> </SUP>very low abundance transcripts (<A HREF="#R7">7</A>) provides the mRNA-based approaches<SUP> </SUP>an advantage in the ability to globally characterize gene products,<SUP> </SUP>even those of very low copy number. However, improvements in<SUP> </SUP>proteomic approaches using mass spectrometry are now beginning<SUP> </SUP>to enable truly proteome-wide characterization of protein expression,<SUP> </SUP>as a study described recently that has identified almost 1500<SUP> </SUP>expressed proteins from a total cell yeast lysate (<A HREF="#R55">55</A>). Given<SUP> </SUP>these recent improvements, along with the development of more<SUP> </SUP>sensitive and accurate mass spectrometric instrumentation (<A HREF="#R56">56</A>),<SUP> </SUP>the sensitivity of protein-expression analysis by mass spectrometry<SUP> </SUP>is approaching that of mRNA-based techniques. Additionally,<SUP> </SUP>relative quantification of protein expression is more accurate<SUP> </SUP>than measurement of expression ratios at the mRNA level, as<SUP> </SUP>problems such as cross-hybridization and sequence-specific effects<SUP> </SUP>that can confound hybridization-based mRNA measurements do not<SUP> </SUP>limit the accuracy of protein measurements. This study, along<SUP> </SUP>with others using the ICAT reagent, has shown the ability of<SUP> </SUP>this approach to measure accurately small changes (less than<SUP> </SUP>2-fold) in protein expression (<A HREF="#R19">19</A>, <A HREF="#R25">25</A>, <A HREF="#R31">31</A>). In this study, the<SUP> </SUP>capability to resolve very small changes in protein abundances<SUP> </SUP>allowed for the observation of the slight expression changes<SUP> </SUP>of the proteins involved in the tricarboxylate cycle, which<SUP> </SUP>led to the larger finding of the increased abundances of the<SUP> </SUP>mitochondrial-located energy generation proteins.<SUP> </SUP><P>
+
+Finally, in the quest to assign function to gene sequences,<SUP> </SUP>the measurement and comparison of mRNA and protein abundances<SUP> </SUP>is only a start to characterizing biological systems. Other<SUP> </SUP>mechanisms of protein regulation, such as protein modifications<SUP> </SUP>and intermolecular protein interactions, are also crucial to<SUP> </SUP>protein function. Therefore, there is a need for the development<SUP> </SUP>of more comprehensive methodologies that characterize these<SUP> </SUP>modifications and interactions, and recent reports document<SUP> </SUP>significant progress toward these goals (<A HREF="#R57">57</A>, <A HREF="#R58">58</A>). It is clear<SUP> </SUP>that continued advancements in the comprehensive analysis of<SUP> </SUP>protein products, in conjunction with the already mature methods<SUP> </SUP>in global measurement of mRNA expression, will enable the measurement<SUP> </SUP>and characterization of cellular circuitry on a system-wide<SUP> </SUP>scale.<SUP> </SUP><P>
+
+<SUP> </SUP><P>
+
+
+<A NAME="ACK"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ACKNOWLEDGMENTS
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+We thank Tim Galitsky for helpful comments on this work.<SUP> </SUP><P>
+
+
+<A NAME="FN"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+FOOTNOTES
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+Received, January  8, 2002, and in revised form, April  2, 2002.<P>
+
+<A NAME=""><!-- null --></A>
+Published, MCP Papers in Press, April 2, 2002, DOI 10.1074/mcp.M200001-MCP200<SUP> </SUP><P>
+
+<A NAME="FN1"><!-- null --></A>
+<SUP><SUP>1</SUP></SUP> The abbreviations used are: ICAT, isotope-coded affinity tag;<SUP> </SUP>MS/MS, tandem mass spectrometry; r-proteins, ribosomal proteins.<SUP> </SUP><A HREF="#RFN1"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN2"><!-- null --></A>
+<SUP>*</SUP> This work was supported in part by a grant from the Merck Genome<SUP> </SUP>Research Institute and Grant IR33CA84698 from NCI, National<SUP> </SUP>Institutes of Health.<SUP> </SUP><A HREF="#RFN2"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN3"><!-- null --></A>
+<SUP><B>S</B></SUP> The on-line version of this article (available at <A HREF="http://www.mcponline.org">http://www.mcponline.org</A>)<SUP> </SUP>contains Supplemental Material.<SUP> </SUP><A HREF="#RFN3"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN4"><!-- null --></A>
+<SUP><IMG SRC="/math/Dagger.gif" ALT="{ddagger}" BORDER="0"></SUP> Supported in part by a National Institutes of Health post-doctoral<SUP> </SUP>genome training fellowship.<SUP> </SUP><A HREF="#RFN4"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN5"><!-- null --></A>
+<SUP><IMG SRC="/math/sect.gif" ALT="&#167;" BORDER="0"></SUP> Supported in part by National Institutes of Health Grant HG0041.<SUP> </SUP>Present address: Dept. of Cell Biology, Harvard Medical School,<SUP> </SUP>240 Longwood Ave., Boston, MA 02115.<SUP> </SUP><A HREF="#RFN5"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN6"><!-- null --></A>
+<SUP>&#182;</SUP> Supported by a National Institutes of Health pre-doctoral genome<SUP> </SUP>training fellowship and an ARC fellowship. Present address:<SUP> </SUP>Whitehead Inst. for Biomedical Research, Nine Cambridge Center,<SUP> </SUP>Cambridge, MA 02142.<SUP> </SUP><A HREF="#RFN6"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN7"><!-- null --></A>
+<SUP><IMG SRC="/math/dagger.gif" ALT="{dagger}" BORDER="0"></SUP> Present address: BioVisioN GmbH and Co. KG, Hannover D-30625,<SUP> </SUP>Germany.<SUP> </SUP><A HREF="#RFN7"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+
+
+<A NAME="COR1"><!-- null --></A>
+<SUP>**</SUP> To whom correspondence should be addressed: Inst. for Systems Biology, 1441 N. 34th St., Seattle, WA 98103. Tel.: 206-732-1204; Fax: 206-732-1255; E-mail: <span id="em0">raebersold{at}systemsbiology.org</span><script type="text/javascript"><!--
+ var u = "raebersold", d = "systemsbiology.org"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script><P>
+
+<A NAME="BIBL"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+REFERENCES
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">DISCUSSION<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>REFERENCES</FONT><BR>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<OL COMPACT>
+<A NAME="R1"><!-- null --></A>
+<LI VALUE=1> Lander, E. S., Linton, L. M., Birren, B., Nusbaum, C., Zody, M. C., Baldwin, J., Devon, K., Dewar, K., Doyle, M., FitzHugh, W., Funke, R., Gage, D., Harris, K., Heaford, A., Howland, J., <I>et al.</I>
+(2001) Initial sequencing and analysis of the human genome.
+<I>Nature</I>
+<B>409, </B>860
+&#150;921<!-- HIGHWIRE ID="1:4:323:1" --><A HREF="/cgi/external_ref?access_num=10.1038/35057062&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11237011&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R2"><!-- null --></A>
+<LI VALUE=2> Venter, J. C., Adams, M. D., Myers, E. W., Li, P. W., Mural, R. J., Sutton, G. G., Smith, H. O., Yandell, M., Evans, C. A., Holt, R. A., Gocayne, J. D., Amanatides, P., Ballew, R. M., Huson, D. H., Wortman, J. R., <I>et al.</I>
+(2001) The sequence of the human genome.
+<I>Science</I>
+<B>291, </B>1304
+&#150;1351<!-- HIGHWIRE ID="1:4:323:2" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=291/5507/1304" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R3"><!-- null --></A>
+<LI VALUE=3> Aebersold, R., Hood, L. E., and Watts, J. D.
+(2000) Equipping scientists for the new biology.
+<I>Nat. Biotechnol.</I>
+<B>18, </B>359<!-- HIGHWIRE ID="1:4:323:3" --><A HREF="/cgi/external_ref?access_num=10.1038/74325&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10748470&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R4"><!-- null --></A>
+<LI VALUE=4> Schena, M., Shalon, D., Davis, R. W., and Brown, P. O.
+(1995) Quantitative monitoring of gene expression patterns with a complementary DNA microarray.
+<I>Science</I>
+<B>270, </B>467
+&#150;470<!-- HIGHWIRE ID="1:4:323:4" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=270/5235/467" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R5"><!-- null --></A>
+<LI VALUE=5> DeRisi, J. L., Iyer, V. R., and Brown, P. O.
+(1997) Exploring the metabolic and genetic control of gene expression on a genomic scale.
+<I>Science</I>
+<B>278, </B>680
+&#150;686<!-- HIGHWIRE ID="1:4:323:5" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=278/5338/680" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R6"><!-- null --></A>
+<LI VALUE=6> Lashkari, D. A., DeRisi, J. L., McCusker, J. H., Namath, A. F., Gentile, C., Hwang, S. Y., Brown, P. O., and Davis, R. W.
+(1997) Yeast microarrays for genome wide parallel genetic and gene expression analysis.
+<I>Proc. Natl. Acad. Sci. U. S. A.</I>
+<B>94, </B>13057
+&#150;13062<!-- HIGHWIRE ID="1:4:323:6" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=pnas&resid=94/24/13057" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R7"><!-- null --></A>
+<LI VALUE=7> Lockhart, D. J., and Winzeler, E. A.
+(2000) Genomics, gene expression and DNA arrays.
+<I>Nature</I>
+<B>405, </B>827
+&#150;836<!-- HIGHWIRE ID="1:4:323:7" --><A HREF="/cgi/external_ref?access_num=10.1038/35015701&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10866209&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R8"><!-- null --></A>
+<LI VALUE=8> Velculescu, V. E., Zhang, L., Vogelstein, B., and Kinzler, K. W.
+(1995) Serial analysis of gene expression.
+<I>Science</I>
+<B>270, </B>484
+&#150;487<!-- HIGHWIRE ID="1:4:323:8" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=270/5235/484" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R9"><!-- null --></A>
+<LI VALUE=9> Liang, P., and Pardee, A. B.
+(1992) Differential display of eukaryotic messenger RNA by means of the polymerase chain reaction.
+<I>Science</I>
+<B>257, </B>967
+&#150;971<!-- HIGHWIRE ID="1:4:323:9" --><A HREF="/cgi/external_ref?access_num=1354393&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R10"><!-- null --></A>
+<LI VALUE=10> Ivanova, N. B., and Belyavsky, A. V.
+(1995) Identification of differentially expressed genes by restriction endonuclease-based gene expression fingerprinting.
+<I>Nucleic Acids Res.</I>
+<B>23, </B>2954
+&#150;2958<!-- HIGHWIRE ID="1:4:323:10" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=nar&resid=23/15/2954" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R11"><!-- null --></A>
+<LI VALUE=11> Zhang, L., Zhou, W., Velculescu, V. E., Kern, S. E., Hruban, R. H., Hamilton, S. R., Vogelstein, B., and Kinzler, K. W.
+(1997) Gene expression profiles in normal and cancer cells.
+<I>Science</I>
+<B>276, </B>1268
+&#150;1272<!-- HIGHWIRE ID="1:4:323:11" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=276/5316/1268" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R12"><!-- null --></A>
+<LI VALUE=12> Golub, T. R., Slonim, D. K., Tamayo, P., Huard, C., Gaasenbeek, M., Mesirov, J. P., Coller, H., Loh, M. L., Downing, J. R., Caligiuri, M. A., Bloomfield, C. D., and Lander, E. S.
+(1999) Molecular classification of cancer: class discovery and class prediction by gene expression monitoring.
+<I>Science</I>
+<B>286, </B>531
+&#150;537<!-- HIGHWIRE ID="1:4:323:12" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=286/5439/531" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R13"><!-- null --></A>
+<LI VALUE=13> Alizadeh, A. A., Eisen, M. B., Davis, R. E., Ma, C., Lossos, I. S., Rosenwald, A., Boldrick, J. C., Sabet, H., Tran, T., Yu, X., Powell, J. I., Yang, L., Marti, G. E., Moore, T., Hudson, J., <I>et al.</I>
+(2000) Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling.
+<I>Nature</I>
+<B>403, </B>503
+&#150;511<!-- HIGHWIRE ID="1:4:323:13" --><A HREF="/cgi/external_ref?access_num=10.1038/35000501&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10676951&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R14"><!-- null --></A>
+<LI VALUE=14> Scherf, U., Ross, D. T., Waltham, M., Smith, L. H., Lee, J. K., Tanabe, L., Kohn, K. W., Reinhold, W. C., Myers, T. G., Andrews, D. T., Scudiero, D. A., Eisen, M. B., Sausville, E. A., Pommier, Y., Botstein, D., Brown, P. O., and Weinstein, J. N.
+(2000) A gene expression database for the molecular pharmacology of cancer.
+<I>Nat. Genet.</I>
+<B>24, </B>236
+&#150;244<!-- HIGHWIRE ID="1:4:323:14" --><A HREF="/cgi/external_ref?access_num=10.1038/73439&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10700175&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R15"><!-- null --></A>
+<LI VALUE=15> Ross, D. T., Scherf, U., Eisen, M. B., Perou, C. M., Rees, C., Spellman, P., Iyer, V., Jeffrey, S. S., Van de Rijn, M., Waltham, M., Pergamenschikov, A., Lee, J. C., Lashkari, D., Shalon, D., Myers, T. G., Weinstein, J. N., Botstein, D., and Brown, P. O.
+(2000) Systematic variation in gene expression patterns in human cancer cell lines.
+<I>Nat. Genet.</I>
+<B>24, </B>227
+&#150;235<!-- HIGHWIRE ID="1:4:323:15" --><A HREF="/cgi/external_ref?access_num=10.1038/73432&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10700174&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R16"><!-- null --></A>
+<LI VALUE=16> Marton, M. J., DeRisi, J. L., Bennett, H. A., Iyer, V. R., Meyer, M. R., Roberts, C. J., Stoughton, R., Burchard, J., Slade, D., Dai, H., Bassett, D. E., Jr., Hartwell, L. H., Brown, P. O., and Friend, S. H.
+(1998) Drug target validation and identification of secondary drug target effects using DNA microarrays.
+<I>Nat. Med.</I>
+<B>4, </B>1293
+&#150;1301<!-- HIGHWIRE ID="1:4:323:16" --><A HREF="/cgi/external_ref?access_num=10.1038/3282&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=9809554&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R17"><!-- null --></A>
+<LI VALUE=17> Holstege, F. C., Jennings, E. G., Wyrick, J. J., Lee, T. I., Hengartner, C. J., Green, M. R., Golub, T. R., Lander, E. S., and Young, R. A.
+(1998) Dissecting the regulatory circuitry of a eukaryotic genome.
+<I>Cell</I>
+<B>95, </B>717
+&#150;728<!-- HIGHWIRE ID="1:4:323:17" --><A HREF="/cgi/external_ref?access_num=9845373&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R18"><!-- null --></A>
+<LI VALUE=18> Roberts, C. J., Nelson, B., Marton, M. J., Stoughton, R., Meyer, M. R., Bennett, H. A., He, Y. D., Dai, H., Walker, W. L., Hughes, T. R., Tyers, M., Boone, C., and Friend, S. H.
+(2000) Signaling and circuitry of multiple MAPK pathways revealed by a matrix of global gene expression profiles.
+<I>Science</I>
+<B>287, </B>873
+&#150;880<!-- HIGHWIRE ID="1:4:323:18" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=287/5454/873" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R19"><!-- null --></A>
+<LI VALUE=19> Ideker, T., Thorsson, V., Ranish, J. A., Christmas, R., Buhler, J., Eng, J. K., Bumgarner, R., Goodlett, D. R., Aebersold, R., and Hood, L.
+(2001) Integrated genomic and proteomic analyses of a systematically perturbed metabolic network.
+<I>Science</I>
+<B>292, </B>929
+&#150;934<!-- HIGHWIRE ID="1:4:323:19" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=sci&resid=292/5518/929" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R20"><!-- null --></A>
+<LI VALUE=20> Gygi, S. P., Rochon, Y., Franza, B. R., and Aebersold, R.
+(1999) Correlation between protein and mRNA abundance in yeast.
+<I>Mol. Cell. Biol.</I>
+<B>19, </B>1720
+&#150;1730<!-- HIGHWIRE ID="1:4:323:20" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=mcb&resid=19/3/1720" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R21"><!-- null --></A>
+<LI VALUE=21> Anderson, L., and Seilhamer, J.
+(1997) A comparison of selected mRNA and protein abundances in human liver.
+<I>Electrophoresis</I>
+<B>18, </B>533
+&#150;537<!-- HIGHWIRE ID="1:4:323:21" --><A HREF="/cgi/external_ref?access_num=9150937&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R22"><!-- null --></A>
+<LI VALUE=22> Futcher, B., Latter, G. I., Monardo, P., McLaughlin, C. S., and Garrels, J. I.
+(1999) A sampling of the yeast proteome.
+<I>Mol. Cell. Biol.</I>
+<B>19, </B>7357
+&#150;7368<!-- HIGHWIRE ID="1:4:323:22" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=mcb&resid=19/11/7357" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R23"><!-- null --></A>
+<LI VALUE=23> McCarthy, J. E.
+(1998) Posttranscriptional control of gene expression in yeast.
+<I>Microbiol. Mol. Biol. Rev.</I>
+<B>62, </B>1492
+&#150;1553<!-- HIGHWIRE ID="1:4:323:23" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=mmbr&resid=62/4/1492" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R24"><!-- null --></A>
+<LI VALUE=24> Parekh, R. B., and Rohlff, C.
+(1997) Post-translational modification of proteins and the discovery of new medicine.
+<I>Curr. Opin. Biotechnol.</I>
+<B>8, </B>718
+&#150;723<!-- HIGHWIRE ID="1:4:323:24" --><A HREF="/cgi/external_ref?access_num=10.1016/S0958-1669(97)80126-7&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=9425663&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R25"><!-- null --></A>
+<LI VALUE=25> Gygi, S. P., Rist, B., Gerber, S. A., Turecek, F., Gelb, M. H., and Aebersold, R.
+(1999) Quantitative analysis of complex protein mixtures using isotope-coded affinity tags.
+<I>Nat. Biotechnol.</I>
+<B>17, </B>994
+&#150;999<!-- HIGHWIRE ID="1:4:323:25" --><A HREF="/cgi/external_ref?access_num=10.1038/13690&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10504701&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R26"><!-- null --></A>
+<LI VALUE=26> Ideker, T., Thorsson, V., Siegel, A. F., and Hood, L. E.
+(2000) Testing for differentially-expressed genes by maximum-likelihood analysis of microarray data.
+<I>J. Comput. Biol.</I>
+<B>7, </B>805
+&#150;817<!-- HIGHWIRE ID="1:4:323:26" --><A HREF="/cgi/external_ref?access_num=10.1089/10665270050514945&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11382363&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R27"><!-- null --></A>
+<LI VALUE=27> Griffin, T. J., Loboda, A., Gygi, S. P., Rist, B., Jilkine, A., Ens, W., Standing, K. G., and Aebersold, R.
+(2001) Quantitative proteomic analysis using a MALDI quadrupole time-of-flight mass spectrometer.
+<I>Anal. Chem.</I>
+<B>73, </B>978
+&#150;986<!-- HIGHWIRE ID="1:4:323:27" --><A HREF="/cgi/external_ref?access_num=10.1021/ac001169y&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11289445&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R28"><!-- null --></A>
+<LI VALUE=28> Haynes, P. A., Fripp, N., and Aebersold, R.
+(1998) Identification of gel-separated proteins by liquid chromatography-electrospray tandem mass spectrometry: comparison of methods and their limitations.
+<I>Electrophoresis</I>
+<B>19, </B>939
+&#150;945<!-- HIGHWIRE ID="1:4:323:28" --><A HREF="/cgi/external_ref?access_num=9638940&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R29"><!-- null --></A>
+<LI VALUE=29> Shabanowitz, J., Settlage, R. E., Marto, J. A., Christian, R. E., White, F. M., Russo, P. S., Martin, S. E., and Hunt, D. F.
+(2000) in
+<I>Mass Spectrometry in Biology and Medicine</I> (Burlingame, A. L., Carr, S. A., and Baldwin, M. A., eds), pp.163
+&#150;177, Humana Press, Totowa, NJ<!-- HIGHWIRE ID="1:4:323:29" --><!-- /HIGHWIRE --><P><A NAME="R30"><!-- null --></A>
+<LI VALUE=30> Eng, J., McCormack, A. L., and Yates, J. R., III
+(1994) An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database.
+<I>J. Am. Soc. Mass Spectrom.</I>
+<B>5, </B>976
+&#150;989<!-- HIGHWIRE ID="1:4:323:30" --><A HREF="/cgi/external_ref?access_num=10.1016/1044-0305(94)80016-2&link_type=DOI" >[CrossRef]</A><!-- /HIGHWIRE --><P><A NAME="R31"><!-- null --></A>
+<LI VALUE=31> Han, D. K., Eng, J., Zhou, H., and Aebersold, R.
+(2001) Quantitative profiling of differentiation-induced microsomal proteins using isotope-coded affinity tags and mass spectrometry.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>946
+&#150;951<!-- HIGHWIRE ID="1:4:323:31" --><A HREF="/cgi/external_ref?access_num=10.1038/nbt1001-946&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11581660&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R32"><!-- null --></A>
+<LI VALUE=32> Johnston, M., and Carlson, M.
+(1991) in
+<I>The Molecular and Cellular Biology of the Yeast Saccharomyces: Gene Expression</I> (Broach, J. R., Pringle, J. R., and Jones, E. W., eds) Vol. 2, pp.193
+&#150;281, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY<!-- HIGHWIRE ID="1:4:323:32" --><!-- /HIGHWIRE --><P><A NAME="R33"><!-- null --></A>
+<LI VALUE=33> Johnston, M.
+(1999) Feasting, fasting and fermenting. Glucose sensing in yeast and other cells.
+<I>Trends Genet.</I>
+<B>15, </B>29
+&#150;33<!-- HIGHWIRE ID="1:4:323:33" --><A HREF="/cgi/external_ref?access_num=10.1016/S0168-9525(98)01637-0&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10087931&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R34"><!-- null --></A>
+<LI VALUE=34> Lehmann, E. L.
+(1975)
+<I>Nonparametrics: Statistical Methods Based on Ranks</I>, Holden-Day, San Francisco<!-- HIGHWIRE ID="1:4:323:34" --><!-- /HIGHWIRE --><P><A NAME="R35"><!-- null --></A>
+<LI VALUE=35> Gygi, S. P., Rist, B., Griffin, T. J., Eng, J., and Aebersold, R.
+(2002) Proteome analysis of low abundance proteins using multidimensional chromatography and isotope-coded affinity tags.
+<I>J. Proteome Res.</I>
+<B>1, </B>47
+&#150;54<!-- HIGHWIRE ID="1:4:323:35" --><A HREF="/cgi/external_ref?access_num=10.1021/pr015509n&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=12643526&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R36"><!-- null --></A>
+<LI VALUE=36> Hodges, P. E., Payne, W. E., and Garrels, J. I.
+(1998) The Yeast Protein Database (YPD): a curated proteome database for <I>Saccharomyces cerevisiae</I>.
+<I>Nucleic Acids Res.</I>
+<B>26, </B>68
+&#150;72<!-- HIGHWIRE ID="1:4:323:36" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=nar&resid=26/1/68" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R37"><!-- null --></A>
+<LI VALUE=37> Young, E. T., and Pilgrim, D.
+(1985) Isolation and DNA sequence of ADH3, a nuclear gene encoding the mitochondrial isozyme of alcohol dehydrogenase in <I>Saccharomyces cerevisiae</I>.
+<I>Mol. Cell. Biol.</I>
+<B>5, </B>3024
+&#150;3034<!-- HIGHWIRE ID="1:4:323:37" --><A HREF="/cgi/external_ref?access_num=2943982&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R38"><!-- null --></A>
+<LI VALUE=38> Navarro-Avino, J. P., Prasad, R., Miralles, V. J., Benito, R. M., and Serrano, R.
+(1999) A proposal for nomenclature of aldehyde dehydrogenases in <I>Saccharomyces cerevisiae</I> and characterization of the stress-inducible ALD2 and ALD3 genes.
+<I>Yeast</I>
+<B>15, </B>829
+&#150;842<!-- HIGHWIRE ID="1:4:323:38" --><A HREF="/cgi/external_ref?access_num=10.1002/(SICI)1097-0061(199907)15:10A<829::AID-YEA423>3.0.CO;2-9&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10407263&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R39"><!-- null --></A>
+<LI VALUE=39> Wang, X., Mann, C. J., Bai, Y., Ni, L., and Weiner, H.
+(1998) Molecular cloning, characterization, and potential roles of cytosolic and mitochondrial aldehyde dehydrogenases in ethanol metabolism in
+<I>Saccharomyces cerevisiae</I>. <I>J. Bacteriol.</I>
+<B>180, </B>822
+&#150;830<!-- HIGHWIRE ID="1:4:323:39" --><!-- /HIGHWIRE --><P><A NAME="R40"><!-- null --></A>
+<LI VALUE=40> van den Berg, M. A., de Jong-Gubbels, P., Kortland, C. J., van Dijken, J. P., Pronk, J. T., and Steensma, H. Y.
+(1996) The two acetyl-coenzyme A synthetases of <I>Saccharomyces cerevisiae</I> differ with respect to kinetic properties and transcriptional regulation.
+<I>J. Biol. Chem.</I>
+<B>271, </B>28953
+&#150;28959<!-- HIGHWIRE ID="1:4:323:40" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=jbc&resid=271/46/28953" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R41"><!-- null --></A>
+<LI VALUE=41> Cozzone, A. J.
+(1998) Regulation of acetate metabolism by protein phosphorylation in enteric bacteria.
+<I>Annu. Rev. Microbiol.</I>
+<B>52, </B>127
+&#150;164<!-- HIGHWIRE ID="1:4:323:41" --><A HREF="/cgi/external_ref?access_num=10.1146/annurev.micro.52.1.127&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=9891796&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R42"><!-- null --></A>
+<LI VALUE=42> Anderson, S. L., Minard, K. I., and McAlister-Henn, L.
+(2000) Allosteric inhibition of NAD+-specific isocitrate dehydrogenase by a mitochondrial mRNA.
+<I>Biochemistry</I>
+<B>39, </B>5623
+&#150;5629<!-- HIGHWIRE ID="1:4:323:42" --><A HREF="/cgi/external_ref?access_num=10.1021/bi000272e&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10801312&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R43"><!-- null --></A>
+<LI VALUE=43> Rep, M., and Grivell, L. A.
+(1996) The role of protein degradation in mitochondrial function and biogenesis.
+<I>Curr. Genet.</I>
+<B>30, </B>367
+&#150;380<!-- HIGHWIRE ID="1:4:323:43" --><A HREF="/cgi/external_ref?access_num=10.1007/s002940050145&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=8929388&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R44"><!-- null --></A>
+<LI VALUE=44> Luzikov, V. N., Novikova, L. A., Tikhonov, A. N., and Zubatov, A. S.
+(1983) Correlation between the rate of proteolysis of mitochondrial translation products and fluidity of the mitochondrial inner membrane in <I>Saccharomyces cerevisiae</I> yeast. Alteration of the rate of proteolysis under glucose repression.
+<I>Biochem. J.</I>
+<B>214, </B>785
+&#150;794<!-- HIGHWIRE ID="1:4:323:44" --><A HREF="/cgi/external_ref?access_num=6354177&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R45"><!-- null --></A>
+<LI VALUE=45> Kief, D. R., and Warner, J. R.
+(1981) Coordinate control of syntheses of ribosomal ribonucleic acid and ribosomal proteins during nutritional shift-up in <I>Saccharomyces cerevisiae</I>.
+<I>Mol. Cell. Biol.</I>
+<B>1, </B>1007
+&#150;1015<!-- HIGHWIRE ID="1:4:323:45" --><A HREF="/cgi/external_ref?access_num=7050661&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R46"><!-- null --></A>
+<LI VALUE=46> Mager, W. H., and Planta, R. J.
+(1991) Coordinate expression of ribosomal protein genes in yeast as a function of cellular growth rate.
+<I>Mol. Cell. Biochem.</I>
+<B>104, </B>181
+&#150;187<!-- HIGHWIRE ID="1:4:323:46" --><A HREF="/cgi/external_ref?access_num=1921998&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R47"><!-- null --></A>
+<LI VALUE=47> Planta, R. J.
+(1997) Regulation of ribosome synthesis in yeast.
+<I>Yeast</I>
+<B>13, </B>1505
+&#150;1518<!-- HIGHWIRE ID="1:4:323:47" --><A HREF="/cgi/external_ref?access_num=10.1002/(SICI)1097-0061(199712)13:16<1505::AID-YEA229>3.0.CO;2-I&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=9509571&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R48"><!-- null --></A>
+<LI VALUE=48> el Baradi, T. T., van der Sande, C. A., Mager, W. H., Raue, H. A., and Planta, R. J.
+(1986) The cellular level of yeast ribosomal protein L25 is controlled principally by rapid degradation of excess protein.
+<I>Curr. Genet.</I>
+<B>10, </B>733
+&#150;739<!-- HIGHWIRE ID="1:4:323:48" --><A HREF="/cgi/external_ref?access_num=3329033&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R49"><!-- null --></A>
+<LI VALUE=49> Tsay, Y. F., Thompson, J. R., Rotenberg, M. O., Larkin, J. C., and Woolford, J. L., Jr.
+(1988) Ribosomal protein synthesis is not regulated at the translational level in <I>Saccharomyces cerevisiae</I>: balanced accumulation of ribosomal proteins L16 and rp59 is mediated by turnover of excess protein.
+<I>Genes Dev.</I>
+<B>2, </B>664
+&#150;676<!-- HIGHWIRE ID="1:4:323:49" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=genesdev&resid=2/6/664" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R50"><!-- null --></A>
+<LI VALUE=50> Verma, R., Chen, S., Feldman, R., Schieltz, D., Yates, J., Dohmen, J., and Deshaies, R. J.
+(2000) Proteasomal proteomics: identification of nucleotide-sensitive proteasome-interacting proteins by mass spectrometric analysis of affinity-purified proteasomes.
+<I>Mol. Biol. Cell</I>
+<B>11, </B>3425
+&#150;3439<!-- HIGHWIRE ID="1:4:323:50" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=molbiolcell&resid=11/10/3425" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R51"><!-- null --></A>
+<LI VALUE=51> Roth, F. P., Hughes, J. D., Estep, P. W., and Church, G. M.
+(1998) Finding DNA regulatory motifs within unaligned noncoding sequences clustered by whole-genome mRNA quantitation.
+<I>Nat. Biotechnol.</I>
+<B>16, </B>939
+&#150;945<!-- HIGHWIRE ID="1:4:323:51" --><A HREF="/cgi/external_ref?access_num=9788350&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R52"><!-- null --></A>
+<LI VALUE=52> Hughes, J. D., Estep, P. W., Tavazoie, S., and Church, G. M.
+(2000) Computational identification of cis-regulatory elements associated with groups of functionally related genes in <I>Saccharomyces cerevisiae</I>.
+<I>J. Mol. Biol.</I>
+<B>296, </B>1205
+&#150;1214<!-- HIGHWIRE ID="1:4:323:52" --><A HREF="/cgi/external_ref?access_num=10.1006/jmbi.2000.3519&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10698627&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R53"><!-- null --></A>
+<LI VALUE=53> Wodicka, L., Dong, H., Mittmann, M., Ho, M. H., and Lockhart, D. J.
+(1997) Genome-wide expression monitoring in <I>Saccharomyces cerevisiae</I>.
+<I>Nat. Biotechnol.</I>
+<B>15, </B>1359
+&#150;1367<!-- HIGHWIRE ID="1:4:323:53" --><A HREF="/cgi/external_ref?access_num=9415887&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R54"><!-- null --></A>
+<LI VALUE=54> Velculescu, V. E., Zhang, L., Zhou, W., Vogelstein, J., Basrai, M. A., Bassett, D. E., Jr., Hieter, P., Vogelstein, B., and Kinzler, K. W.
+(1997) Characterization of the yeast transcriptome.
+<I>Cell</I>
+<B>88, </B>243
+&#150;251<!-- HIGHWIRE ID="1:4:323:54" --><A HREF="/cgi/external_ref?access_num=9008165&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R55"><!-- null --></A>
+<LI VALUE=55> Washburn, M. P., Wolters, D., and Yates, J. R., III
+(2001) Large-scale analysis of the yeast proteome by multidimensional protein identification technology.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>242
+&#150;247<!-- HIGHWIRE ID="1:4:323:55" --><A HREF="/cgi/external_ref?access_num=10.1038/85686&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11231557&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R56"><!-- null --></A>
+<LI VALUE=56> Chalmers, M. J., and Gaskell, S. J.
+(2000) Advances in mass spectrometry for proteome analysis.
+<I>Curr. Opin. Biotechnol.</I>
+<B>11, </B>384
+&#150;390<!-- HIGHWIRE ID="1:4:323:56" --><A HREF="/cgi/external_ref?access_num=10.1016/S0958-1669(00)00114-2&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10975458&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R57"><!-- null --></A>
+<LI VALUE=57> Zhou, H., Watts, J. D., and Aebersold, R.
+(2001) A systematic approach to the analysis of protein phosphorylation.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>375
+&#150;378<!-- HIGHWIRE ID="1:4:323:57" --><A HREF="/cgi/external_ref?access_num=10.1038/86777&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11283598&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R58"><!-- null --></A>
+<LI VALUE=58> Oda, Y., Nagasu, T., and Chait, B. T.
+(2001) Enrichment analysis of phosphorylated proteins as a tool for probing the phosphoproteome.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>379
+&#150;382<!-- HIGHWIRE ID="1:4:323:58" --><A HREF="/cgi/external_ref?access_num=10.1038/86783&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11283599&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P></OL>
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+<BR CLEAR=ALL>
+
+
+
+
+  <FONT FACE="">
+  
+  </FONT>
+<BR CLEAR=ALL>
+<BR CLEAR=ALL>
+
+
+
+<A NAME="otherarticles"><!-- null --></A>
+
+<P>
+</body></html>

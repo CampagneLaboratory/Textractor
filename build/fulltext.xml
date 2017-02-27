@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<project name="textractor-fulltext" default="display" basedir="..">
+    <description>
+        This is the Ant build file for maintaining and using the
+        full text corpus with Textractor.
+    </description>
+    <property name="build" location="build"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <!-- Index file location -->
+    <property name="basename" value="index/fulltext-index"/>
+
+    <!-- Collect expansion defaults -->
+    <property name="direction" value="left"/>
+    <property name="template" value=" ( acronym ) "/>
+    <property name="rejection" value="reject.txt"/>
+    <property name="acronyms-input" value="data/acronyms.txt"/>
+    <property name="output" value="acronyms-expansion.xml"/>
+    <property name="ic" value="5"/>
+    <property name="ms" value="5"/>
+    <property name="threshold" value="5"/>
+    <property name="sample" value="-sample"/>
+    <property name="doc-store" value="-doc-store"/>
+
+    <!-- Java properties -->
+    <property name="debug" value="off"/>
+    <property name="fork" value="yes"/>
+    <property name="debug.jvm" value="-Ddummy=true"/>
+    <property name="debug.remote" value="-Ddummy=true"/>
+
+    <property name="classes" location="classes"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="src" location="src"/>
+    <property name="output" location="output"/>
+    <propertyfile file="config/textractor.properties"/>
+
+    <import file="${build}/fastobjects.xml"/>
+
+    <taskdef resource="net/sf/antcontrib/antlib.xml" onerror="fail">
+        <classpath>
+            <pathelement location="${lib}/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <path id="run.classpath">
+        <pathelement location="${config}"/>
+        <pathelement location="${classes}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+        <path refid="jdo.run.classpath"/>
+    </path>
+
+    <target name="init">
+        <mkdir dir="output"/>
+    </target>
+
+    <target name="display" depends="init">
+        <echo message="See -projecthelp and choose a target."></echo>
+    </target>
+    <!-- ==================== load articles into database =========================== -->
+    <target name="load-journal-year" depends="init">
+        <echo message="Loading articles from ${article_directory}/${journal}/${year}."/>
+        <java dir="${basedir}"
+              inputstring=""
+              failonerror="true"
+              fork="true"
+              classname="textractor.html.Html2Text2DB"
+              maxmemory="600m">
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <classpath refid="run.classpath"/>
+            <arg line="-d ${article_directory}/${journal}/${year}"/>
+            <arg line="${optional_keywords}"/>
+        </java>
+    </target>
+    <target name="build-document-index">
+        <java dir="${basedir}"
+              inputstring=""
+              fork="true"
+              classname="textractor.tools.BuildDocumentIndexFromDB"
+              maxmemory="1300m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions} "/>
+            <arg line="-property ${propertyFilename}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <target name="build-didyoumean-index">
+        <java dir="${basedir}" fork="true"
+              inputstring=""
+              classname="textractor.didyoumean.DidYouMeanIndexer"
+              maxmemory="900m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions}"/>
+            <arg line="-threshold ${threshold}"/>
+            <arg line="-batch-size ${batch-size}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+    <target name="load-fulltext" description="Load full text papers from EMBO, JBC, PNAS and NCB">
+        <property name="current_job" value="all"/>
+        <ant antfile="build/build.xml" inheritall="false"
+             target="createdb" output="${output}/${current_job}.output">
+        </ant>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="1997"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="1998"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="1999"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="2000"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="2001"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="2002"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="2003"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="EMBO"/>
+            <param name="year" value="2004"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="1995"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="1996"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="1997"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="1998"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="1999"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="2000"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="2001"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="2002"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="2003"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="JBC"/>
+            <param name="year" value="2004"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="1996"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="1997"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="1998"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="1999"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="2000"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="2001"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="2002"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="2003"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="PNAS"/>
+            <param name="year" value="2004"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="1999"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="2000"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="2001"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="2002"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="2003"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+        <antcall target="load-journal-year">
+            <param name="article_directory" value="${fulltext.root}"/>
+            <param name="journal" value="NCB"/>
+            <param name="year" value="2004"/>
+            <param name="optional_keywords" value="-indexParentheses"/>
+        </antcall>
+    </target>
+    <target name="index-fulltext" description="Index Full text corpus.">
+        <echo level="info" message="Creating document index for fulltext corpus."/>
+        <antcall target="build-document-index">
+            <param name="basename" value="${basename}"/>
+            <param name="otherOptions"
+                   value="-indexParentheses -chunk-size 100000 -batch-size 20Mi -skips -wordReader textractor.mg4j.io.TweaseWordReader"/>
+        </antcall>
+
+    </target>
+     <target name="fulltext-dym" description="Create did you mean index for fulltext corpus">
+        <echo level="info" message="Creating did you mean index for PubMed."/>
+        <antcall target="build-didyoumean-index">
+            <param name="basename" value="${basename}"/>
+            <param name="threshold" value="5"/>
+            <param name="batch-size" value="5Mi"/>
+            <param name="otherOptions"
+            value="-indexParentheses -skips -wordReader textractor.mg4j.io.TweaseWordReader"/>
+        </antcall>
+    </target>
+    <target name="build-document-store" depends="init" description="Build Document Store">
+        <java dir="${basedir}"
+              inputstring=""
+              fork="true"
+              classname="textractor.tools.docstore.BuildDocStore"
+              maxmemory="1600m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} ${otherOptions} -chunk-size 100000 -optimize"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+</project>

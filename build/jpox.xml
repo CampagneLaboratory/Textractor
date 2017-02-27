@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<project name="textractor-jpox" default="enhance" basedir="..">
+    <property name="lib" location="lib"/>
+    <property name="src" location="src"/>
+    <property name="jdosrc" location=""/>
+    <property name="classes" location="classes"/>
+    <property name="config" location="config"/>
+    <property name="propertyFilename" value="textractor.properties"/>
+
+    <property file="${config}/${propertyFilename}" />
+
+    <condition property="oracledb">
+        <equals arg1="${javax.jdo.option.ConnectionDriverName}" arg2="oracle.jdbc.driver.OracleDriver" />
+    </condition>
+    <condition property="mysqldb">
+        <equals arg1="${javax.jdo.option.ConnectionDriverName}" arg2="com.mysql.jdbc.Driver" />
+    </condition>
+
+    <path id="jdo.compile.classpath">
+		<pathelement path="${classes}"/>
+        <pathelement location="${config}" />
+        <fileset dir="${lib}/jpox">
+            <include name="*.jar"/>
+        </fileset>
+        <fileset dir="${lib}">
+			<include name="*.jar"/>
+        </fileset>
+        <fileset dir="${lib}/jdbc">
+            <include name="ojdbc14.jar" if="oracledb"/>
+            <include name="mysql-connector*.jar" if="mysqldb"/>
+        </fileset>
+    </path>
+
+    <path id="jdo.run.classpath">
+        <pathelement path="${classes}"/>
+        <fileset dir="${lib}/jpox">
+            <include name="*.jar"/>
+        </fileset>
+        <fileset dir="${lib}/jdbc">
+            <include name="ojdbc14.jar" if="oracledb"/>
+            <include name="mysql-connector*.jar" if="mysqldb"/>
+        </fileset>
+        <pathelement path="${src}"/>
+    </path>
+
+    <!-- JPOX task definitions -->
+    <taskdef name="jpoxenhancer" classpathref="jdo.compile.classpath" classname="org.jpox.enhancer.tools.EnhancerTask" />
+	<taskdef name="schematool"  classpathref="jdo.compile.classpath" classname="org.jpox.SchemaToolTask" />
+
+    <!-- define basic targets to be overidden in the main build file(s) -->
+    <target name="init"/>      <!-- nothing to be done here -->
+    <target name="compile"/>   <!-- nothing to be done here -->
+
+	<target name="enhance" depends="init,compile" description="Run the enhancer">
+		<jpoxenhancer classpathref="jdo.compile.classpath" dir="${src}" failonerror="true" verbose="true">
+            <sysproperty key="log4j.configuration" value="log4j.properties"/>
+            <sysproperty key="log4j.debug" value="true"/>
+		</jpoxenhancer>
+    </target>
+
+	<target name="createdb" depends="enhance" description="Create the database">
+		<schematool failonerror="true" verbose="true" mode="create" props="'${config}/${propertyFilename}'">
+            <sysproperty key="log4j.configuration" value="log4j.properties"/>
+            <sysproperty key="log4j.debug" value="true"/>
+			<classpath>
+				<path refid="jdo.compile.classpath"/>
+				<pathelement location="${src}"/>
+			</classpath>
+			<fileset dir="${src}">
+				<include name="**/*.jdo"/>
+			</fileset>
+		</schematool>
+	</target>
+
+    <target name="drop" description="Drop the database"/>
+</project>

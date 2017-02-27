@@ -1,0 +1,577 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Mathematical physics Going to ground</title>
+      <id>info:doi/10.1038/440433a</id>
+      <link href='http://dx.doi.org/10.1038/440433a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Christos N. Likos</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>433</prism:startingPage>
+      <prism:endingPage>434</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='18'>lattice</otmi:vector>
+              <otmi:vector count='17'>at</otmi:vector>
+              <otmi:vector count='16'>energy</otmi:vector>
+              <otmi:vector count='14'>potential</otmi:vector>
+              <otmi:vector count='14'>K</otmi:vector>
+              <otmi:vector count='12'>all</otmi:vector>
+              <otmi:vector count='10'>particles</otmi:vector>
+              <otmi:vector count='9'>0</otmi:vector>
+              <otmi:vector count='9'>Süto</otmi:vector>
+              <otmi:vector count='8'>potentials</otmi:vector>
+              <otmi:vector count='8'>which</otmi:vector>
+              <otmi:vector count='7'>bcc</otmi:vector>
+              <otmi:vector count='7'>between</otmi:vector>
+              <otmi:vector count='7'>k</otmi:vector>
+              <otmi:vector count='7'>system</otmi:vector>
+              <otmi:vector count='7'>r</otmi:vector>
+              <otmi:vector count='7'>phivcirc</otmi:vector>
+              <otmi:vector count='6'>total</otmi:vector>
+              <otmi:vector count='6'>other</otmi:vector>
+              <otmi:vector count='6'>ground-state</otmi:vector>
+              <otmi:vector count='6'>Fourier</otmi:vector>
+              <otmi:vector count='6'>density</otmi:vector>
+              <otmi:vector count='6'>values</otmi:vector>
+              <otmi:vector count='6'>zero</otmi:vector>
+              <otmi:vector count='5'>interaction</otmi:vector>
+              <otmi:vector count='5'>such</otmi:vector>
+              <otmi:vector count='5'>reciprocal</otmi:vector>
+              <otmi:vector count='5'>configurations</otmi:vector>
+              <otmi:vector count='5'>must</otmi:vector>
+              <otmi:vector count='5'>considered</otmi:vector>
+              <otmi:vector count='5'>configuration</otmi:vector>
+              <otmi:vector count='5'>so</otmi:vector>
+              <otmi:vector count='4'>effective</otmi:vector>
+              <otmi:vector count='4'>minimize</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>each</otmi:vector>
+              <otmi:vector count='4'>vectors</otmi:vector>
+              <otmi:vector count='4'>mathematical</otmi:vector>
+              <otmi:vector count='4'>Süto&apos;s</otmi:vector>
+              <otmi:vector count='4'>periodic</otmi:vector>
+              <otmi:vector count='4'>form</otmi:vector>
+              <otmi:vector count='4'>above</otmi:vector>
+              <otmi:vector count='4'>have</otmi:vector>
+              <otmi:vector count='4'>Z</otmi:vector>
+              <otmi:vector count='4'>minimum</otmi:vector>
+              <otmi:vector count='3'>his</otmi:vector>
+              <otmi:vector count='3'>crystals</otmi:vector>
+              <otmi:vector count='3'>direct</otmi:vector>
+              <otmi:vector count='3'>free</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>they</otmi:vector>
+              <otmi:vector count='3'>because</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>So</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>long</otmi:vector>
+              <otmi:vector count='3'>lattices</otmi:vector>
+              <otmi:vector count='3'>quantity</otmi:vector>
+              <otmi:vector count='3'>metals</otmi:vector>
+              <otmi:vector count='3'>certain</otmi:vector>
+              <otmi:vector count='3'>will</otmi:vector>
+              <otmi:vector count='3'>state</otmi:vector>
+              <otmi:vector count='3'>two</otmi:vector>
+              <otmi:vector count='3'>case</otmi:vector>
+              <otmi:vector count='3'>structure</otmi:vector>
+              <otmi:vector count='3'>densities</otmi:vector>
+              <otmi:vector count='3'>separation</otmi:vector>
+              <otmi:vector count='3'>reciprocal-lattice</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>indeed</otmi:vector>
+              <otmi:vector count='3'>finite</otmi:vector>
+              <otmi:vector count='3'>why</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>But</otmi:vector>
+              <otmi:vector count='3'>value</otmi:vector>
+              <otmi:vector count='3'>transform</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>positive</otmi:vector>
+              <otmi:vector count='3'>spatial</otmi:vector>
+              <otmi:vector count='2'>shown</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>properties</otmi:vector>
+              <otmi:vector count='2'>repulsive</otmi:vector>
+              <otmi:vector count='2'>representation</otmi:vector>
+              <otmi:vector count='2'>powerful</otmi:vector>
+              <otmi:vector count='2'>ion</otmi:vector>
+              <otmi:vector count='2'>up</otmi:vector>
+              <otmi:vector count='2'>RKKY</otmi:vector>
+              <otmi:vector count='2'>shows</otmi:vector>
+              <otmi:vector count='2'>sphere</otmi:vector>
+              <otmi:vector count='2'>however</otmi:vector>
+              <otmi:vector count='2'>steeply</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>electrons</otmi:vector>
+              <otmi:vector count='2'>possess</otmi:vector>
+              <otmi:vector count='2'>behaviour</otmi:vector>
+              <otmi:vector count='2'>gaussian</otmi:vector>
+              <otmi:vector count='2'>define</otmi:vector>
+              <otmi:vector count='2'>simply</otmi:vector>
+              <otmi:vector count='2'>particle</otmi:vector>
+              <otmi:vector count='2'>sum</otmi:vector>
+              <otmi:vector count='2'>point</otmi:vector>
+              <otmi:vector count='2'>low</otmi:vector>
+              <otmi:vector count='2'>interactions</otmi:vector>
+              <otmi:vector count='2'>chains</otmi:vector>
+              <otmi:vector count='2'>mesoscopic</otmi:vector>
+              <otmi:vector count='2'>number</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>cubic</otmi:vector>
+              <otmi:vector count='2'>pairs</otmi:vector>
+              <otmi:vector count='2'>2</otmi:vector>
+              <otmi:vector count='2'>Bravais</otmi:vector>
+              <otmi:vector count='2'>X</otmi:vector>
+              <otmi:vector count='2'>include</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>three-dimensional</otmi:vector>
+              <otmi:vector count='2'>difficult</otmi:vector>
+              <otmi:vector count='2'>depend</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>overlap</otmi:vector>
+              <otmi:vector count='2'>terms</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>wavenumber</otmi:vector>
+              <otmi:vector count='2'>threshold</otmi:vector>
+              <otmi:vector count='2'>large</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>known</otmi:vector>
+              <otmi:vector count='2'>strikingly</otmi:vector>
+              <otmi:vector count='2'>represents</otmi:vector>
+              <otmi:vector count='2'>term</otmi:vector>
+              <otmi:vector count='2'>argument</otmi:vector>
+              <otmi:vector count='2'>types</otmi:vector>
+              <otmi:vector count='2'>crystal</otmi:vector>
+              <otmi:vector count='1'>late</otmi:vector>
+              <otmi:vector count='1'>wish</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>wavefunctions</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>polymer</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>centres</otmi:vector>
+              <otmi:vector count='1'>Physical</otmi:vector>
+              <otmi:vector count='1'>sine</otmi:vector>
+              <otmi:vector count='1'>mass</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>Imagine</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>frame</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>proving</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>joins</otmi:vector>
+              <otmi:vector count='1'>Simple</otmi:vector>
+              <otmi:vector count='1'>permitting</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>remarkable</otmi:vector>
+              <otmi:vector count='1'>origin</otmi:vector>
+              <otmi:vector count='1'>affinity</otmi:vector>
+              <otmi:vector count='1'>hint</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>obtain</otmi:vector>
+              <otmi:vector count='1'>definition</otmi:vector>
+              <otmi:vector count='1'>short-range</otmi:vector>
+              <otmi:vector count='1'>met</otmi:vector>
+              <otmi:vector count='1'>article</otmi:vector>
+              <otmi:vector count='1'>independently</otmi:vector>
+              <otmi:vector count='1'>expresses</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>periodicity</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>wavelength</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>profiles</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>Review</otmi:vector>
+              <otmi:vector count='1'>rigid</otmi:vector>
+              <otmi:vector count='1'>settle</otmi:vector>
+              <otmi:vector count='1'>trails</otmi:vector>
+              <otmi:vector count='1'>apply</otmi:vector>
+              <otmi:vector count='1'>Letters</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>spurred</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>suitable</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>Certain</otmi:vector>
+              <otmi:vector count='1'>one-component</otmi:vector>
+              <otmi:vector count='1'>unfortunately</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>choose</otmi:vector>
+              <otmi:vector count='1'>radius</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>quantum</otmi:vector>
+              <otmi:vector count='1'>apart</otmi:vector>
+              <otmi:vector count='1'>physics</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>reference</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>chooses</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>notoriously</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>(This</otmi:vector>
+              <otmi:vector count='1'>atomic-pair</otmi:vector>
+              <otmi:vector count='1'>uniquely</otmi:vector>
+              <otmi:vector count='1'>Neither</otmi:vector>
+              <otmi:vector count='1'>comes</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>error</otmi:vector>
+              <otmi:vector count='1'>proof</otmi:vector>
+              <otmi:vector count='1'>deviations</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>formula</otmi:vector>
+              <otmi:vector count='1'>unions</otmi:vector>
+              <otmi:vector count='1'>peculiar</otmi:vector>
+              <otmi:vector count='1'>implicitly</otmi:vector>
+              <otmi:vector count='1'>Theory</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>48</otmi:vector>
+              <otmi:vector count='1'>allows</otmi:vector>
+              <otmi:vector count='1'>fcc</otmi:vector>
+              <otmi:vector count='1'>valency</otmi:vector>
+              <otmi:vector count='1'>microscopic</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>occupy</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>minimizes</otmi:vector>
+              <otmi:vector count='1'>scale</otmi:vector>
+              <otmi:vector count='1'>contributing</otmi:vector>
+              <otmi:vector count='1'>requirement</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>bounce</otmi:vector>
+              <otmi:vector count='1'>bound</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>Should</otmi:vector>
+              <otmi:vector count='1'>1970s</otmi:vector>
+              <otmi:vector count='1'>requirements</otmi:vector>
+              <otmi:vector count='1'>convenient</otmi:vector>
+              <otmi:vector count='1'>fixed</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>inverse</otmi:vector>
+              <otmi:vector count='1'>simplifying</otmi:vector>
+              <otmi:vector count='1'>quantum-mechanical</otmi:vector>
+              <otmi:vector count='1'>criteria</otmi:vector>
+              <otmi:vector count='1'>fresh</otmi:vector>
+              <otmi:vector count='1'>laws</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>(For</otmi:vector>
+              <otmi:vector count='1'>arbitrary</otmi:vector>
+              <otmi:vector count='1'>crystallize</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>physically</otmi:vector>
+              <otmi:vector count='1'>answer</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>contained</otmi:vector>
+              <otmi:vector count='1'>created</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>equivalent</otmi:vector>
+              <otmi:vector count='1'>Writing</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>atomic</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>simulation</otmi:vector>
+              <otmi:vector count='1'>electron</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>calculations</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>pair</otmi:vector>
+              <otmi:vector count='1'>exclusion</otmi:vector>
+              <otmi:vector count='1'>parameter</otmi:vector>
+              <otmi:vector count='1'>trial</otmi:vector>
+              <otmi:vector count='1'>celebrated</otmi:vector>
+              <otmi:vector count='1'>(3</otmi:vector>
+              <otmi:vector count='1'>controversial</otmi:vector>
+              <otmi:vector count='1'>newtonian</otmi:vector>
+              <otmi:vector count='1'>unphysical</otmi:vector>
+              <otmi:vector count='1'>infinitely</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>aperiodic</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>written</otmi:vector>
+              <otmi:vector count='1'>way.</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>interacting</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>two-particle</otmi:vector>
+              <otmi:vector count='1'>collection</otmi:vector>
+              <otmi:vector count='1'>concluded</otmi:vector>
+              <otmi:vector count='1'>entitled</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>so-called</otmi:vector>
+              <otmi:vector count='1'>achievements</otmi:vector>
+              <otmi:vector count='1'>colloidal</otmi:vector>
+              <otmi:vector count='1'>proved</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>energies</otmi:vector>
+              <otmi:vector count='1'>entities</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>temperature</otmi:vector>
+              <otmi:vector count='1'>coordinate</otmi:vector>
+              <otmi:vector count='1'>allowed</otmi:vector>
+              <otmi:vector count='1'>additionally</otmi:vector>
+              <otmi:vector count='1'>26</otmi:vector>
+              <otmi:vector count='1'>0,0,0</otmi:vector>
+              <otmi:vector count='1'>surface</otmi:vector>
+              <otmi:vector count='1'>shortest</otmi:vector>
+              <otmi:vector count='1'>ions</otmi:vector>
+              <otmi:vector count='1'>ensures</otmi:vector>
+              <otmi:vector count='1'>soft-matter</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>demonstrates</otmi:vector>
+              <otmi:vector count='1'>trajectories</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>diagram</otmi:vector>
+              <otmi:vector count='1'>developments</otmi:vector>
+              <otmi:vector count='1'>8√2</otmi:vector>
+              <otmi:vector count='1'>distinctive</otmi:vector>
+              <otmi:vector count='1'>freezing</otmi:vector>
+              <otmi:vector count='1'>absent</otmi:vector>
+              <otmi:vector count='1'>formal</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>combines</otmi:vector>
+              <otmi:vector count='1'>stablest</otmi:vector>
+              <otmi:vector count='1'>parts</otmi:vector>
+              <otmi:vector count='1'>face-centred</otmi:vector>
+              <otmi:vector count='1'>statistical</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>ground</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>principle</otmi:vector>
+              <otmi:vector count='1'>absolute</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>body-centred</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>valid</otmi:vector>
+              <otmi:vector count='1'>holds</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>picks</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>separations</otmi:vector>
+              <otmi:vector count='1'>analogue</otmi:vector>
+              <otmi:vector count='1'>smallest</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>calculates</otmi:vector>
+              <otmi:vector count='1'>deciding</otmi:vector>
+              <otmi:vector count='1'>phase</otmi:vector>
+              <otmi:vector count='1'>brilliant</otmi:vector>
+              <otmi:vector count='1'>exact</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>join</otmi:vector>
+              <otmi:vector count='1'>recasts</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>modulated</otmi:vector>
+              <otmi:vector count='1'>realize</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>cosine</otmi:vector>
+              <otmi:vector count='1'>power-law</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>former</otmi:vector>
+              <otmi:vector count='1'>dimensions</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>Pauli</otmi:vector>
+              <otmi:vector count='1'>description</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>describes</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>Additionally</otmi:vector>
+              <otmi:vector count='1'>contributions</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>finding</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>atoms</otmi:vector>
+              <otmi:vector count='1'>increasing</otmi:vector>
+              <otmi:vector count='1'>flawed</otmi:vector>
+              <otmi:vector count='1'>whose</otmi:vector>
+              <otmi:vector count='1'>sought</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>statements</otmi:vector>
+              <otmi:vector count='1'>deal</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>copolymers</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>vanishes</otmi:vector>
+              <otmi:vector count='1'>power</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>infinite</otmi:vector>
+              <otmi:vector count='1'>transformation</otmi:vector>
+              <otmi:vector count='1'>Andr´s</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>demands</otmi:vector>
+              <otmi:vector count='1'>advantage</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>Nevertheless</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>fulfils</otmi:vector>
+              <otmi:vector count='1'>thermodynamics</otmi:vector>
+              <otmi:vector count='1'>put</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>waves</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>force</otmi:vector>
+              <otmi:vector count='1'>dendrimers</otmi:vector>
+              <otmi:vector count='1'>assumptions</otmi:vector>
+              <otmi:vector count='1'>governing</otmi:vector>
+              <otmi:vector count='1'>body</otmi:vector>
+              <otmi:vector count='1'>decay</otmi:vector>
+              <otmi:vector count='1'>thought-provoking</otmi:vector>
+              <otmi:vector count='1'>parameters</otmi:vector>
+              <otmi:vector count='1'>Fourier-transformed</otmi:vector>
+              <otmi:vector count='1'>oscillatory</otmi:vector>
+              <otmi:vector count='1'>Friedel</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>non-zero</otmi:vector>
+              <otmi:vector count='1'>regular</otmi:vector>
+              <otmi:vector count='1'>happy</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>x</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>diverges</otmi:vector>
+              <otmi:vector count='1'>shells</otmi:vector>
+              <otmi:vector count='1'>Ruderman-Kittel-Kasuya-Yosida</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>freezes</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>oscillating</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>infinity</otmi:vector>
+              <otmi:vector count='1'>mechanics</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>short-circuits</otmi:vector>
+              <otmi:vector count='1'>topology</otmi:vector>
+              <otmi:vector count='1'>producing</otmi:vector>
+              <otmi:vector count='1'>lying</otmi:vector>
+              <otmi:vector count='1'>exceeds</otmi:vector>
+              <otmi:vector count='1'>macroscopic</otmi:vector>
+              <otmi:vector count='1'>incorporated</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+              <otmi:vector count='1'>assume</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>bounded</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A potential [phivcirc] ( k ) that vanishes above a threshold seems difficult to realize physically</otmi:snippet>
+              <otmi:snippet>And at the mesoscopic scale — that between the microscopic and the macroscopic — the rigid core of colloidal particles ensures that they just &quot;bounce off&quot; each other at low separations, and also do not overlap</otmi:snippet>
+              <otmi:snippet>But effective potentials between the centres of mass of entities such as block copolymers , polymer chains or dendrimers can indeed remain finite at zero separation ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>But for all other lattices with at least one value of K smaller than K 0 , the total energy can only be larger, because the additionally contributing potentials [phivcirc] ( K ) are, by our definition, positive</otmi:snippet>
+              <otmi:snippet>But why did such a clear and powerful proof take so long? The answer probably lies in the peculiar form of ϕ ( r ), which implicitly demands a finite potential at zero separation — the equivalent of permitting two particles to overlap each other fully</otmi:snippet>
+              <otmi:snippet>Certain formal criteria must be met: first, the pair- interaction potential ϕ ( r ), which describes the potential energy of a two-particle system in terms of their separation, r , must possess a mathematical analogue known as a Fourier transform. (This transform expresses the potential as a series of oscillating sine and cosine terms that depend on a parameter k , the wavenumber, which represents an inverse wavelength.) Additionally, the Fourier-transformed potential, which is written [phivcirc] ( k ), must be positive for all values of k below some threshold value, K 0 , and zero for all values above it</otmi:snippet>
+              <otmi:snippet>For metals of valency Z , the ion density ρ  is related to Süto&apos;s minimum density by ρ = ρ * π √2/(3 Z ), so that ρ  exceeds ρ * by 48% for Z =1 and trails it by 26% for Z =2</otmi:snippet>
+              <otmi:snippet>Fourier transformation does not change a gaussian form, so [phivcirc] ( k ) is positive in this case</otmi:snippet>
+              <otmi:snippet>He demonstrates with a strikingly powerful mathematical argument that, in certain cases, the ground-state configuration sought when a material freezes into a regular crystal structure is a periodic one</otmi:snippet>
+              <otmi:snippet>Imagine now a direct lattice (call it X ) for whose reciprocal lattice all non-zero reciprocal-lattice vectors define points outside a sphere of radius K 0 </otmi:snippet>
+              <otmi:snippet>In newtonian mechanics, particles choose trajectories that minimize action, a quantity with the dimensions energy x time</otmi:snippet>
+              <otmi:snippet>In the case of interacting atoms, however, a strong repulsive force is created between bound electron shells and their quantum-mechanical wavefunctions because of the Pauli exclusion principle (which holds that no two particles such as electrons may occupy the same quantum state), and the atomic-pair potential diverges steeply towards infinity as r approaches zero</otmi:snippet>
+              <otmi:snippet>In the late 1970s, a celebrated and controversial article was published entitled &quot;Should all crystals be bcc?&quot;</otmi:snippet>
+              <otmi:snippet>In the reciprocal lattice, the total energy of the system (the quantity we wish to minimize) is simply the sum, up to K 0 , of the lattice potentials [phivcirc] ( K ) for all reciprocal-lattice vectors K that build up the lattice. (For a three-dimensional reciprocal lattice, each K will have three wavenumber components, and so uniquely define a point in the lattice.) Whereas the term at K =(0, 0, 0) represents the origin of the coordinate system and is therefore the same for all types of lattices, all other allowed energy contributions, and thus the total energy of the system, depend on the exact spatial configuration of the particles in the direct lattice</otmi:snippet>
+              <otmi:snippet>In thermodynamics, a collection of particles at a fixed volume and temperature will settle into a state that minimizes the so-called free energy of the system, a quantity that, at absolute zero, reduces to the total energy — that is, the sum of all the interactions between pairs of the particles</otmi:snippet>
+              <otmi:snippet>In this case, the total energy of the system will include only the term at K =(0,0,0)</otmi:snippet>
+              <otmi:snippet>In this way, it recasts the question of why crystals form as they do in a fresh and thought-provoking way.</otmi:snippet>
+              <otmi:snippet>It contained a theory of freezing that involved density waves — modulated density profiles — at the set of reciprocal lattice vectors K as parameters in a mathematical expression for the free energy</otmi:snippet>
+              <otmi:snippet>Moreover, Süto demonstrated that periodic ground-state configurations are stable against arbitrary deviations from periodicity, and that aperiodic unions of periodic configurations minimize energy</otmi:snippet>
+              <otmi:snippet>Neither the atomic nor the mesoscopic potentials even possess a Fourier transform; for a long time, finite interactions of the type considered by Süto were simply considered &quot;unphysical&quot;</otmi:snippet>
+              <otmi:snippet>Nevertheless, his work joins a rapidly growing body of research , spurred on by developments in soft-matter physics, on the properties of bounded interaction potentials in one-component systems, in which the properties of [phivcirc] ( k ) are used to obtain information on the ground-state configuration or the topology of the phase diagram</otmi:snippet>
+              <otmi:snippet>On the basis that the bcc crystal is the only spatial configuration that combines the shortest reciprocal-lattice vectors lying on the surface of a sphere, it was concluded that the stablest crystals should all be bcc</otmi:snippet>
+              <otmi:snippet>Simple as such statements may seem, the task of finding &quot;ground-state&quot; configurations, and proving that they do indeed minimize the energy of a system, is notoriously difficult</otmi:snippet>
+              <otmi:snippet>So X must have the minimum possible energy</otmi:snippet>
+              <otmi:snippet>So the long- and short-range parts of the potential must be considered independently</otmi:snippet>
+              <otmi:snippet>So unfortunately there is no happy agreement between the real and the Süto densities that would hint at why certain metals crystallize into the bcc structure</otmi:snippet>
+              <otmi:snippet>Such a spatial lattice — a direct, or Bravais, lattice — also has a Fourier representation, known as the reciprocal lattice</otmi:snippet>
+              <otmi:snippet>Süto proved his point by showing that, for a three-dimensional lattice and at the minimum particle density for which his results apply, given by ρ * = K 0 3 /(8√2 π 3 ), the body-centred cubic (bcc) lattice that many metals assume indeed fulfils the above requirements</otmi:snippet>
+              <otmi:snippet>Süto provides us with a suitable reference frame to deal with the former</otmi:snippet>
+              <otmi:snippet>Süto shows that the requirement for this to occur leads to an interaction potential that shows oscillatory behaviour combined with a power-law decay at large values of r </otmi:snippet>
+              <otmi:snippet>Süto&apos;s work comes from a very different direction to again put the bcc lattice in a distinctive position among all Bravais lattices</otmi:snippet>
+              <otmi:snippet>The Fourier description of the potential is convenient for potentials such as those considered by Süto, because it allows the total lattice energy — the energy required to bring all particles infinitely far apart from each other — to be expressed as a simple mathematical formula</otmi:snippet>
+              <otmi:snippet>The advantage of the Fourier representation is clearly seen when the potential not of particle pairs, but of a periodic lattice of particles, is considered</otmi:snippet>
+              <otmi:snippet>The power laws governing the behaviour of the RKKY and Süto potentials at large values of r are slightly different, and effective ion potentials also include a steeply repulsive region at small values of r (ref. 10 ) that is absent in Süto&apos;s interaction</otmi:snippet>
+              <otmi:snippet>The standard approach is more or less trial and error: one chooses a number of configurations, calculates their energies, and picks the structure with the smallest energy as the ground state</otmi:snippet>
+              <otmi:snippet>Theory and simulation have shown that the effective potential between two chains has a gaussian form, and calculations have shown that its ground-state configuration is face-centred cubic (fcc) at low densities and bcc at high densities </otmi:snippet>
+              <otmi:snippet>There is, however, no value of K 0 above which [phivcirc] ( k ) is zero, so Süto&apos;s result is not valid here</otmi:snippet>
+              <otmi:snippet>These are remarkable achievements</otmi:snippet>
+              <otmi:snippet>This argument, although brilliant, was flawed in making certain simplifying assumptions</otmi:snippet>
+              <otmi:snippet>This is strikingly similar to the RKKY (Ruderman-Kittel-Kasuya-Yosida), or Friedel, potential that arises as an effective interaction potential between ions when the effect of free electrons is incorporated as a statistical average</otmi:snippet>
+              <otmi:snippet>When deciding how particles move and interact, nature has an affinity for minimum values</otmi:snippet>
+              <otmi:snippet>With increasing density, other lattice types join the group, producing an infinite number of ground-state configurations</otmi:snippet>
+              <otmi:snippet>Writing in Physical Review Letters , Andr´s Süto short-circuits this process</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Chain overlap.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>A snapshot from a simulation involving two self-avoiding polymers. In this configuration, the centres of mass of the two chains (denoted by the big sphere) can fully overlap. Süto&apos;s results , showing that for certain interactions periodic ground states exist, deal with a similar type of interaction that was long considered &quot;unphysical&quot;. (Courtesy of Arben Jusufi.)</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1103/PhysRevLett.85.2522</otmi:refid>
+          <otmi:refid>info:doi/10.1063/1.432891</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevB.20.299</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevLett.96.045701</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevLett.41.702</otmi:refid>
+          <otmi:refsnoid>6</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

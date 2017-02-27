@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<project name="release" basedir=".." default="release">
+    <property name="build" location="${basedir}/build"/>
+    <property name="lib" location="${basedir}/lib"/>
+    <property name="svnant-lib" location="${lib}/svnant"/>
+	<property name="svnhost" value="juniper.med.cornell.edu"/>
+	<path id="svnant.classpath">
+		<fileset dir="${svnant-lib}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+	<taskdef resource="svntask.properties" classpathref="svnant.classpath"/>
+
+	<!-- create default jdo properties so we can compile, etc. -->
+	<!-- at the moment we only support kodo binary releases -->
+	<property name="textractor.JdoImplementation" value="kodo"/>
+	<property name="textractor.JdoExtensionClass" value="textractor.database.PureJdoExtension"/>
+
+    <tstamp>
+        <format property="exportdate" pattern="yyyyMMddHHmmss"/>
+    </tstamp>
+
+	<target name="init" depends="gettag">
+	    <property name="exportdir" value="tmp-${tag}"/>
+		<property name="releasedir" value="release-${tag}"/>
+
+    	<mkdir dir="${releasedir}"/>
+
+		<property name="binfile" value="${releasedir}/${tag}-bin.zip"/>
+	    <property name="srcfile" value="${releasedir}/${tag}-src.zip"/>
+	    <property name="apidocfile" value="${releasedir}/${tag}-apidoc.zip"/>
+	    <property name="datafile" value="${releasedir}/${tag}-data.zip"/>
+		<property name="tagUrl" value="svn://${svnhost}/svn/tags/${tag}"/>
+	</target>
+
+	<target name="gettag" unless="tag">
+	    <!-- the default tag uses the current date and time -->
+	    <property name="defaulttag" value="textractor_${exportdate}"/>
+
+        <input message="Enter a tag for the build [${defaulttag}]:"
+               addproperty="tag"
+               defaultvalue="${defaulttag}"/>
+        <echo level="debug" message="tag is ${tag}"/>
+    </target>
+
+	<target name="getdevelopmentlicense" unless="developmentLicenseKey">
+        <input message="Enter the Kodo Development License Key:"
+               addproperty="developmentLicenseKey"/>
+    </target>
+
+	<target name="getruntimelicense" unless="runtimeLicenseKey">
+		<input message="Enter the Kodo Runtime License Key:"
+	           addproperty="runtimeLicenseKey"/>
+	</target>
+
+	<target name="tag" depends="init" unless="nocopy" description="Tag the current trunk release in SVN">
+        <echo level="info" message="Tagging current directory with ${tag}"/>
+    	<svn>
+    		<copy message="${tag}" srcUrl="svn://${svnhost}/svn/trunk/textractor"  
+    			  destUrl="${tagUrl}"/>
+    	</svn>
+    </target>
+
+    <target name="export" depends="init" unless="noexport" description="Export a tagged version of the source code">
+        <available property="exportdirexists" file="${exportdir}" type="dir"/>
+        <fail if="exportdirexists" message="${basedir}/${exportdir} already exists."/>
+
+    	<mkdir dir="${exportdir}"/>
+        <echo level="info" message="Exporting using tag: ${tag}"/>
+
+        <!-- get the tagged version from svn -->
+    	<svn>
+    		<export srcUrl="${tagUrl}" destPath="${exportdir}/${tag}"/>
+    	</svn>
+	    	
+	    <copy file="${exportdir}/${tag}/config/default/log4j.properties" tofile="${exportdir}/${tag}/config/log4j.properties"/>
+    </target>
+
+    <target name="release" description="Tag and release build"
+	    	depends="tag, source, standalone, locator, binary, data, apidocs">
+
+        <!-- copy the zip to the web folder -->
+        <!-- todo -->
+        <!-- notify webmaster about new file -->
+        <!-- todo -->
+
+        <!-- delete the temp files to clean up -->
+        <delete dir="${exportdir}"/>
+    </target>
+
+	<target name="genSrc" depends="export">
+		<!-- create auto generated code files -->
+	    <ant antfile="build/build.xml" target="genSrc" dir="${exportdir}/${tag}">
+	        <property name="config" location="${basedir}/config"/>
+	        <property name="lib" location="${lib}"/>
+	    </ant>
+	</target>
+
+	<target name="source" depends="distclean" description="assemble a source code release">
+        <zip destfile="${srcfile}" comment="Textractor version: ${tag}">
+        	<fileset dir="${exportdir}">
+        		<exclude name="${tag}/annotations/**"/>
+        		<exclude name="${tag}/data/**"/>
+        		<exclude name="${tag}/dictionary/**"/>
+        		<exclude name="${tag}/exclusion/**"/>
+        		<exclude name="${tag}/parameters/**"/>
+        		<exclude name="${tag}/svm_models/**"/>
+       			<exclude name="${tag}/lib/fastobjects/**"/>
+        		<exclude name="${tag}/lib/jdbc/**"/>
+				<exclude name="${tag}/lib/jpox/**"/>
+        		<exclude name="${tag}/lib/kodo/**"/>
+			</fileset>
+       	</zip>
+	</target>
+
+	<target name="data" depends="export" description="assemble a data release">
+        <zip destfile="${datafile}" comment="Textractor version: ${tag}">
+        	<fileset dir="${exportdir}">
+        		<include name="${tag}/annotations/**"/>
+        		<include name="${tag}/data/**"/>
+        		<include name="${tag}/dictionary/**"/>
+        		<include name="${tag}/exclusion/**"/>
+        		<include name="${tag}/parameters/**"/>
+        		<include name="${tag}/svm_models/**"/>
+        	</fileset>        	
+        </zip>
+	</target>
+
+   	<macrodef name="build-binary">
+   		<attribute name="database"/>
+    	<attribute name="jdbcDriver"/>
+    	<attribute name="dbDictionary"/>
+   		<attribute name="url"/>
+   		<attribute name="username"/>
+   		<attribute name="password"/>
+       	<sequential>
+       		<!-- create configuration files -->
+       		<ant antFile="build/config.xml" target="release" dir="${exportdir}/${tag}">
+    			<property name="database" value="@{database}"/>
+       			<property name="javax.jdo.option.ConnectionDriverName" value="@{jdbcDriver}"/>
+       			<property name="javax.jdo.option.ConnectionURL" value="@{url}"/> 
+       			<property name="javax.jdo.option.ConnectionUserName" value="@{username}"/>
+       			<property name="javax.jdo.option.ConnectionPassword" value="@{password}"/>       			
+       			<property name="kodo.LicenseKey" value="${runtimeLicenseKey}"/>
+   			</ant>
+       		<move file="${exportdir}/${tag}/config/textractor.properties" tofile="${exportdir}/${tag}/config/textractor-@{database}.properties"/>
+
+
+       		<!-- create mapping files for the database backend -->
+			<ant antfile="build/build.xml" target="sql-mapping" dir="${exportdir}/${tag}">
+    			<property name="database" value="@{database}"/>
+			    <property name="textractor.JdoImplementation" value="kodo"/>
+				<property name="textractor.JdoExtensionClass" value="textractor.database.PureJdoExtension"/>
+    			<property name="javax.jdo.option.ConnectionDriverName" value="@{jdbcDriver}"/>
+    			<property name="kodo.jdbc.DBDictionary" value="@{dbDictionary}"/>
+				<property name="kodo.LicenseKey" value="${developmentLicenseKey}"/>
+			</ant>
+
+   			<!-- create a jdo enhanced jar file -->
+       		<ant antfile="build/build.xml" target="jar_textractor" dir="${exportdir}/${tag}">
+        		<property name="textractor-jarfile" value="textractor-@{database}.jar"/>
+				<property name="kodo.LicenseKey" value="${developmentLicenseKey}"/>
+    	    </ant>
+       	</sequential>
+    </macrodef>
+
+	<target name="binary" depends="distclean, getdevelopmentlicense, getruntimelicense">
+		<build-binary database="oracle"
+   		              jdbcDriver="oracle.jdbc.driver.OracleDriver"
+    	              dbDictionary="oracle(DriverVendor=oracle92)"
+					  url="jdbc:oracle:thin:@localhost:1521:XE"
+				      username="textractor" password="password"/>
+		<!--
+		<build-binary database="mysql" jdbcDriver="com.mysql.jdbc.Driver"
+                      dbDictionary="mysql" 
+		              url="jdbc:mysql://localhost/textractor"
+			          username="textractor" password="password"/>
+		-->
+
+		<zip destfile="${binfile}" comment="Textractor version: ${tag}">
+        	<fileset dir="${exportdir}">
+        		<include name="${tag}/textractor*.jar"/>
+	        	<include name="${tag}/lib/*.jar"/>
+        	    <include name="${tag}/lib/kodo/*.jar"/>
+        		<include name="${tag}/lib/jdbc/*.jar"/>
+				<exclude name="${tag}/lib/kodo/kodo-jdo.jar"/>
+        		<include name="${tag}/build/binary.xml"/>
+        		<include name="${tag}/build/run.xml"/>
+        		<include name="${tag}/build/pubmed.xml"/>
+        		<include name="${tag}/build/kodo.xml"/>
+        		<include name="${tag}/config/textractor*.properties"/>
+        		<include name="${tag}/*.sql"/>
+        		<include name="${tag}/config/log4j.properties"/>
+   			</fileset>
+       	</zip>
+	</target>
+
+	<target name="api" depends="genSrc">
+	</target>
+
+	<target name="apidocs" depends="genSrc">
+        <!-- run the java docs -->
+        <ant antfile="build/build.xml" target="doc" dir="${exportdir}/${tag}">
+            <property name="config" location="${basedir}/config"/>
+        </ant>
+
+        <!-- zip the api documentation for the website -->
+        <zip destfile="${apidocfile}" basedir="${exportdir}" includes="${tag}/api_docs/**" comment="Textractor version: ${tag}"/>
+	</target>
+
+	<target name="locator" depends="distclean" description="create and package the locator tool">
+        <ant antfile="build/build.xml" target="jar_locator" dir="${exportdir}/${tag}">
+        	<property name="buildstamp" value="${tag}"/>
+			<property name="kodo.LicenseKey" value="${developmentLicenseKey}"/>
+       	</ant>
+		<zip destfile="${releasedir}/${tag}-locator.zip" comment="Textractor version: ${tag}">
+			<fileset dir="${exportdir}/${tag}/examples" includes="locator/readme.txt"/>
+			<zipfileset prefix="locator" dir="${exportdir}/${tag}">
+				<include name="locator.jar"/>
+				<include name="src/textractor/util/HTMLByteLocator.java"/>
+			</zipfileset>
+			<zipfileset prefix="locator/examples" dir="${exportdir}/${tag}/examples/locator" includes="batch.txt"/>
+		</zip>
+	</target>
+
+	<target name="standalone" depends="distclean" description="create and package the standalone lookup tool">
+        <ant antfile="build/build.xml" target="jar_standalone" dir="${exportdir}/${tag}">
+        	<property name="buildstamp" value="${tag}"/>
+       	</ant>
+		<move file="${exportdir}/${tag}/tlookup.jar" todir="${releasedir}"/>
+	</target>
+	
+	<target name="distclean" depends="export">
+        <ant antfile="build/build.xml" target="distclean" dir="${exportdir}/${tag}"/>
+	</target>
+</project>

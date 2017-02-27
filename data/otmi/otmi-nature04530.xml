@@ -1,0 +1,842 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Endonucleolytic cleavage of eukaryotic mRNAs with stalls in translation elongation</title>
+      <id>info:doi/10.1038/nature04530</id>
+      <link href='http://dx.doi.org/10.1038/nature04530' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Meenakshi K. Doma</name>
+      </author>
+      <author>
+        <name>Roy Parker</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>561</prism:startingPage>
+      <prism:endingPage>564</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>A fundamental aspect of the biogenesis and function of eukaryotic messenger RNA is the quality control systems that recognize and degrade non-functional mRNAs. Eukaryotic mRNAs where translation termination occurs too soon (nonsense-mediated decay) or fails to occur (non-stop decay) are rapidly degraded. We show that yeast mRNAs with stalls in translation elongation are recognized and targeted for endonucleolytic cleavage, referred to as ‘no-go decay’. The cleavage triggered by no-go decay is dependent on translation and involves Dom34p and Hbs1p. Dom34p and Hbs1p are similar to the translation termination factors eRF1 and eRF3 (refs 3 , 4 ), indicating that these proteins might function in recognizing the stalled ribosome and triggering endonucleolytic cleavage. No-go decay provides a mechanism for clearing the cell of stalled translation elongation complexes, which could occur as a result of damaged mRNAs or ribosomes, or as a mechanism of post-transcriptional control.</otmi:rawtext>
+            <otmi:reducedtext> fundamental aspect biogenesis function eukaryotic messenger RNA quality control systems recognize degrade non-functional mRNAs. Eukaryotic mRNAs where translation termination occurs too soon (nonsense-mediated decay) fails occur (non-stop decay) rapidly degraded. show yeast mRNAs stalls translation elongation recognized targeted endonucleolytic cleavage, referred ‘no-go decay’. cleavage triggered no-go decay dependent translation involves Dom34p Hbs1p. Dom34p Hbs1p similar translation termination factors eRF1 eRF3 (refs 3 , 4 ), indicating these proteins might function recognizing stalled ribosome triggering endonucleolytic cleavage. No-go decay provides mechanism clearing cell stalled translation elongation complexes, which could occur result damaged mRNAs ribosomes, mechanism post-transcriptional control.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>translation</otmi:vector>
+              <otmi:vector count='5'>decay</otmi:vector>
+              <otmi:vector count='4'>mRNAs</otmi:vector>
+              <otmi:vector count='3'>cleavage</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>Dom34p</otmi:vector>
+              <otmi:vector count='2'>Hbs1p</otmi:vector>
+              <otmi:vector count='2'>elongation</otmi:vector>
+              <otmi:vector count='2'>termination</otmi:vector>
+              <otmi:vector count='2'>function</otmi:vector>
+              <otmi:vector count='2'>no-go</otmi:vector>
+              <otmi:vector count='2'>occur</otmi:vector>
+              <otmi:vector count='2'>stalled</otmi:vector>
+              <otmi:vector count='2'>endonucleolytic</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>triggering</otmi:vector>
+              <otmi:vector count='1'>yeast</otmi:vector>
+              <otmi:vector count='1'>eRF1</otmi:vector>
+              <otmi:vector count='1'>degrade</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>targeted</otmi:vector>
+              <otmi:vector count='1'>eRF3</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>aspect</otmi:vector>
+              <otmi:vector count='1'>quality</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>post-transcriptional</otmi:vector>
+              <otmi:vector count='1'>referred</otmi:vector>
+              <otmi:vector count='1'>non-functional</otmi:vector>
+              <otmi:vector count='1'>recognize</otmi:vector>
+              <otmi:vector count='1'>indicating</otmi:vector>
+              <otmi:vector count='1'>eukaryotic</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>ribosomes</otmi:vector>
+              <otmi:vector count='1'>biogenesis</otmi:vector>
+              <otmi:vector count='1'>recognized</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>fails</otmi:vector>
+              <otmi:vector count='1'>damaged</otmi:vector>
+              <otmi:vector count='1'>recognizing</otmi:vector>
+              <otmi:vector count='1'>messenger</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>control.</otmi:vector>
+              <otmi:vector count='1'>non-stop</otmi:vector>
+              <otmi:vector count='1'>clearing</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>stalls</otmi:vector>
+              <otmi:vector count='1'>No-go</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>degraded</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>Eukaryotic</otmi:vector>
+              <otmi:vector count='1'>triggered</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>nonsense-mediated</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>ribosome</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A fundamental aspect of the biogenesis and function of eukaryotic messenger RNA is the quality control systems that recognize and degrade non-functional mRNAs</otmi:snippet>
+              <otmi:snippet>Dom34p and Hbs1p are similar to the translation termination factors eRF1 and eRF3 (refs 3 , 4 ), indicating that these proteins might function in recognizing the stalled ribosome and triggering endonucleolytic cleavage</otmi:snippet>
+              <otmi:snippet>Eukaryotic mRNAs where translation termination occurs too soon (nonsense-mediated decay) or fails to occur (non-stop decay) are rapidly degraded</otmi:snippet>
+              <otmi:snippet>No-go decay provides a mechanism for clearing the cell of stalled translation elongation complexes, which could occur as a result of damaged mRNAs or ribosomes, or as a mechanism of post-transcriptional control.</otmi:snippet>
+              <otmi:snippet>The cleavage triggered by no-go decay is dependent on translation and involves Dom34p and Hbs1p</otmi:snippet>
+              <otmi:snippet>We show that yeast mRNAs with stalls in translation elongation are recognized and targeted for endonucleolytic cleavage, referred to as ‘no-go decay’</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>PGK1</otmi:vector>
+              <otmi:vector count='4'>oligonucleotide</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='3'>TGG</otmi:vector>
+              <otmi:vector count='3'>containing</otmi:vector>
+              <otmi:vector count='3'>reporters</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>give</otmi:vector>
+              <otmi:vector count='3'>Xba</otmi:vector>
+              <otmi:vector count='3'>fragment</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='3'>SL</otmi:vector>
+              <otmi:vector count='3'>CCA</otmi:vector>
+              <otmi:vector count='3'>All</otmi:vector>
+              <otmi:vector count='3'>RNA</otmi:vector>
+              <otmi:vector count='2'>translational</otmi:vector>
+              <otmi:vector count='2'>study</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>codon</otmi:vector>
+              <otmi:vector count='2'>detection</otmi:vector>
+              <otmi:vector count='2'>performed</otmi:vector>
+              <otmi:vector count='2'>CCG</otmi:vector>
+              <otmi:vector count='2'>construct</otmi:vector>
+              <otmi:vector count='2'>constructed</otmi:vector>
+              <otmi:vector count='2'>polymerase</otmi:vector>
+              <otmi:vector count='2'>CGG</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>ref</otmi:vector>
+              <otmi:vector count='2'>sequence</otmi:vector>
+              <otmi:vector count='1'>275-base-pair</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>stem-loop</otmi:vector>
+              <otmi:vector count='1'>hybridization</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>PGK1-stop(pRP1287</otmi:vector>
+              <otmi:vector count='1'>dependence</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>generating</otmi:vector>
+              <otmi:vector count='1'>pJD375</otmi:vector>
+              <otmi:vector count='1'>GGC</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>oRP100</otmi:vector>
+              <otmi:vector count='1'>upstream</otmi:vector>
+              <otmi:vector count='1'>Primer</otmi:vector>
+              <otmi:vector count='1'>pseudoknot</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>cloning</otmi:vector>
+              <otmi:vector count='1'>amplified</otmi:vector>
+              <otmi:vector count='1'>oRP132</otmi:vector>
+              <otmi:vector count='1'>synthetic</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>mid-log</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>activation</otmi:vector>
+              <otmi:vector count='1'>cultures</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>III</otmi:vector>
+              <otmi:vector count='1'>1-generated</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>quantification</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>UAS</otmi:vector>
+              <otmi:vector count='1'>ligated</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>codons</otmi:vector>
+              <otmi:vector count='1'>corrections</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>request</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>galactose-containing</otmi:vector>
+              <otmi:vector count='1'>ATC</otmi:vector>
+              <otmi:vector count='1'>ATC-3</otmi:vector>
+              <otmi:vector count='1'>mRNA</otmi:vector>
+              <otmi:vector count='1'>transcript.</otmi:vector>
+              <otmi:vector count='1'>SCR1</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>CCT</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>GAT</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>PGK1-proline-stop(pRP1288</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>pRP1253</otmi:vector>
+              <otmi:vector count='1'>stop</otmi:vector>
+              <otmi:vector count='1'>proline-stop</otmi:vector>
+              <otmi:vector count='1'>H1</otmi:vector>
+              <otmi:vector count='1'>pRP543</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>site</otmi:vector>
+              <otmi:vector count='1'>stalls</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>AGG</otmi:vector>
+              <otmi:vector count='1'>Loading</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>ends</otmi:vector>
+              <otmi:vector count='1'>strains</otmi:vector>
+              <otmi:vector count='1'>pRP1252</otmi:vector>
+              <otmi:vector count='1'>5′-GAT</otmi:vector>
+              <otmi:vector count='1'>CTG</otmi:vector>
+              <otmi:vector count='1'>CAG</otmi:vector>
+              <otmi:vector count='1'>wild-type</otmi:vector>
+              <otmi:vector count='1'>grown</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>fragments</otmi:vector>
+              <otmi:vector count='1'>oRP70</otmi:vector>
+              <otmi:vector count='1'>reporter</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>introduction</otmi:vector>
+              <otmi:vector count='1'>Bam</otmi:vector>
+              <otmi:vector count='1'>mRNAs</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>GCC</otmi:vector>
+              <otmi:vector count='1'>Supplementary</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>Insertion</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>NGD</otmi:vector>
+              <otmi:vector count='1'>pRP1251</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>Yeast</otmi:vector>
+              <otmi:vector count='1'>PGK1-PK(pRP1285</otmi:vector>
+              <otmi:vector count='1'>PGK1-RC(pRP1286</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>GCG</otmi:vector>
+              <otmi:vector count='1'>pRP609</otmi:vector>
+              <otmi:vector count='1'>directed</otmi:vector>
+              <otmi:vector count='1'>PGK1-SL</otmi:vector>
+              <otmi:vector count='1'>pRP469</otmi:vector>
+              <otmi:vector count='1'>Gal1</otmi:vector>
+              <otmi:vector count='1'>Sal</otmi:vector>
+              <otmi:vector count='1'>CGC</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>pRP1250</otmi:vector>
+              <otmi:vector count='1'>primers</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>All PGK1 constructs are under the control of the Gal1 upstream activation sequence (UAS)</otmi:snippet>
+              <otmi:snippet>All RNA analyses were performed as described previously </otmi:snippet>
+              <otmi:snippet>All experiments were performed at 30 °C in galactose-containing medium with mid-log cultures except for those in the experiments in Fig. 2 , which were grown at 16 °C</otmi:snippet>
+              <otmi:snippet>For the PGK1 reporter mRNAs, the oligonucleotide oRP132 was used for detection of the 5′ fragment and the oligonucleotide oRP70 for detection of the 3′ fragment</otmi:snippet>
+              <otmi:snippet>Insertion of other translational stalls in the PGK1 mRNA, including the pseudoknot , rare codons , stop codon and proline-stop codon was done in the same manner, generating PGK1-PK(pRP1285), PGK1-RC(pRP1286), PGK1-stop(pRP1287) and PGK1-proline-stop(pRP1288) reporters</otmi:snippet>
+              <otmi:snippet>Loading corrections for quantification were determined by hybridization with oRP100, an oligonucleotide directed to SCR1 RNA, a stable RNA polymerase III transcript.</otmi:snippet>
+              <otmi:snippet>Methods The stem-loop structure (SL) was constructed by using a synthetic oligonucleotide with the following sequence and is similar to one used in an earlier study : 5′-GAT ATC CCG TGG AGG GGC GCG TGG TGG CGG CTG CAG CCG CCA CCA CGC GCC CCT CCA CGG GAT ATC-3′</otmi:snippet>
+              <otmi:snippet>Primer sequences are available from the authors on request</otmi:snippet>
+              <otmi:snippet>The reporters used for the translational dependence of NGD were constructed by introduction of the Xba 1-generated fragment containing the SL into pRP543 (ref. 11 ) and pRP609 (ref. 12 ) to give pRP1252 and pRP1253, respectively</otmi:snippet>
+              <otmi:snippet>This was introduced into the pJD375 construct between Sal 1 and Bam H1 sites in the multiple cloning regions to give pRP1250</otmi:snippet>
+              <otmi:snippet>To generate the reporters used in this study, 275-base-pair fragments containing the SL was amplified by polymerase chain reaction with the use of primers containing Xba 1 ends and ligated into the Xba 1 site of wild-type PGK1 (pRP469) to give the PGK1-SL construct (pRP1251)</otmi:snippet>
+              <otmi:snippet>Yeast strains are detailed in Supplementary Information </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='50'>mRNA</otmi:vector>
+              <otmi:vector count='32'>3</otmi:vector>
+              <otmi:vector count='24'>5</otmi:vector>
+              <otmi:vector count='20'>cleavage</otmi:vector>
+              <otmi:vector count='19'>Fig</otmi:vector>
+              <otmi:vector count='18'>PGK1-SL</otmi:vector>
+              <otmi:vector count='17'>fragment</otmi:vector>
+              <otmi:vector count='17'>NGD</otmi:vector>
+              <otmi:vector count='15'>which</otmi:vector>
+              <otmi:vector count='13'>translation</otmi:vector>
+              <otmi:vector count='12'>decay</otmi:vector>
+              <otmi:vector count='12'>strain</otmi:vector>
+              <otmi:vector count='11'>degradation</otmi:vector>
+              <otmi:vector count='11'>Hbs1p</otmi:vector>
+              <otmi:vector count='11'>strains</otmi:vector>
+              <otmi:vector count='10'>stem-loop</otmi:vector>
+              <otmi:vector count='10'>endonucleolytic</otmi:vector>
+              <otmi:vector count='9'>xrn1</otmi:vector>
+              <otmi:vector count='9'>Supplementary</otmi:vector>
+              <otmi:vector count='8'>at</otmi:vector>
+              <otmi:vector count='8'>Dom34p</otmi:vector>
+              <otmi:vector count='8'>ribosome</otmi:vector>
+              <otmi:vector count='7'>accumulation</otmi:vector>
+              <otmi:vector count='7'>exosome</otmi:vector>
+              <otmi:vector count='7'>site</otmi:vector>
+              <otmi:vector count='7'>not</otmi:vector>
+              <otmi:vector count='7'>ribosomes</otmi:vector>
+              <otmi:vector count='7'>elongation</otmi:vector>
+              <otmi:vector count='7'>fragments</otmi:vector>
+              <otmi:vector count='6'>Ski7p</otmi:vector>
+              <otmi:vector count='6'>ski7</otmi:vector>
+              <otmi:vector count='6'>function</otmi:vector>
+              <otmi:vector count='5'>also</otmi:vector>
+              <otmi:vector count='5'>end</otmi:vector>
+              <otmi:vector count='5'>loss</otmi:vector>
+              <otmi:vector count='5'>has</otmi:vector>
+              <otmi:vector count='5'>required</otmi:vector>
+              <otmi:vector count='5'>defective</otmi:vector>
+              <otmi:vector count='5'>shown</otmi:vector>
+              <otmi:vector count='5'>produced</otmi:vector>
+              <otmi:vector count='5'>levels</otmi:vector>
+              <otmi:vector count='4'>endonuclease</otmi:vector>
+              <otmi:vector count='4'>termination</otmi:vector>
+              <otmi:vector count='4'>region</otmi:vector>
+              <otmi:vector count='4'>observed</otmi:vector>
+              <otmi:vector count='4'>accumulated</otmi:vector>
+              <otmi:vector count='4'>specific</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>been</otmi:vector>
+              <otmi:vector count='4'>stall</otmi:vector>
+              <otmi:vector count='4'>cytoplasmic</otmi:vector>
+              <otmi:vector count='4'>two</otmi:vector>
+              <otmi:vector count='4'>wild-type</otmi:vector>
+              <otmi:vector count='4'>might</otmi:vector>
+              <otmi:vector count='4'>Xrn1p</otmi:vector>
+              <otmi:vector count='4'>because</otmi:vector>
+              <otmi:vector count='4'>trigger</otmi:vector>
+              <otmi:vector count='4'>whether</otmi:vector>
+              <otmi:vector count='4'>seen</otmi:vector>
+              <otmi:vector count='3'>detected</otmi:vector>
+              <otmi:vector count='3'>inserted</otmi:vector>
+              <otmi:vector count='3'>yeast</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='3'>PGK1-PTC-SL</otmi:vector>
+              <otmi:vector count='3'>stalled</otmi:vector>
+              <otmi:vector count='3'>accelerated</otmi:vector>
+              <otmi:vector count='3'>products</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>mechanism</otmi:vector>
+              <otmi:vector count='3'>major</otmi:vector>
+              <otmi:vector count='3'>NMD</otmi:vector>
+              <otmi:vector count='3'>complex</otmi:vector>
+              <otmi:vector count='3'>suggesting</otmi:vector>
+              <otmi:vector count='3'>proteins</otmi:vector>
+              <otmi:vector count='3'>probe</otmi:vector>
+              <otmi:vector count='3'>ski</otmi:vector>
+              <otmi:vector count='3'>observations</otmi:vector>
+              <otmi:vector count='3'>stalls</otmi:vector>
+              <otmi:vector count='3'>related</otmi:vector>
+              <otmi:vector count='3'>reporter</otmi:vector>
+              <otmi:vector count='3'>mutants</otmi:vector>
+              <otmi:vector count='3'>MFA2-SL</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>intermediates</otmi:vector>
+              <otmi:vector count='3'>substrate</otmi:vector>
+              <otmi:vector count='3'>any</otmi:vector>
+              <otmi:vector count='3'>observation</otmi:vector>
+              <otmi:vector count='3'>Moreover</otmi:vector>
+              <otmi:vector count='3'>either</otmi:vector>
+              <otmi:vector count='3'>showed</otmi:vector>
+              <otmi:vector count='3'>decapping</otmi:vector>
+              <otmi:vector count='3'>indicating</otmi:vector>
+              <otmi:vector count='3'>low</otmi:vector>
+              <otmi:vector count='3'>subject</otmi:vector>
+              <otmi:vector count='3'>transcriptional</otmi:vector>
+              <otmi:vector count='3'>ribosomal</otmi:vector>
+              <otmi:vector count='3'>PGK1</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>mRNAs</otmi:vector>
+              <otmi:vector count='2'>eRF3</otmi:vector>
+              <otmi:vector count='2'>coding</otmi:vector>
+              <otmi:vector count='2'>suggest</otmi:vector>
+              <otmi:vector count='2'>surveillance</otmi:vector>
+              <otmi:vector count='2'>thought</otmi:vector>
+              <otmi:vector count='2'>structure</otmi:vector>
+              <otmi:vector count='2'>codon</otmi:vector>
+              <otmi:vector count='2'>delay</otmi:vector>
+              <otmi:vector count='2'>pathway</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>occurs</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>determined</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>codons</otmi:vector>
+              <otmi:vector count='2'>Because</otmi:vector>
+              <otmi:vector count='2'>activity</otmi:vector>
+              <otmi:vector count='2'>blocks</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>full-length</otmi:vector>
+              <otmi:vector count='2'>long</otmi:vector>
+              <otmi:vector count='2'>test</otmi:vector>
+              <otmi:vector count='2'>addition</otmi:vector>
+              <otmi:vector count='2'>dom34Δxrn1</otmi:vector>
+              <otmi:vector count='2'>SL-PGK1-SL</otmi:vector>
+              <otmi:vector count='2'>recently</otmi:vector>
+              <otmi:vector count='2'>premature</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>induction</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>did</otmi:vector>
+              <otmi:vector count='2'>prevented</otmi:vector>
+              <otmi:vector count='2'>nucleotides</otmi:vector>
+              <otmi:vector count='2'>product</otmi:vector>
+              <otmi:vector count='2'>indicates</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>before</otmi:vector>
+              <otmi:vector count='2'>untranslated</otmi:vector>
+              <otmi:vector count='2'>block</otmi:vector>
+              <otmi:vector count='2'>hbs1Δski2</otmi:vector>
+              <otmi:vector count='2'>deadenylation</otmi:vector>
+              <otmi:vector count='2'>followed</otmi:vector>
+              <otmi:vector count='2'>stalling</otmi:vector>
+              <otmi:vector count='2'>pathways</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>exonuclease</otmi:vector>
+              <otmi:vector count='2'>possibly</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>family</otmi:vector>
+              <otmi:vector count='2'>functions</otmi:vector>
+              <otmi:vector count='2'>distance</otmi:vector>
+              <otmi:vector count='2'>events</otmi:vector>
+              <otmi:vector count='2'>activates</otmi:vector>
+              <otmi:vector count='2'>second</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>mutant</otmi:vector>
+              <otmi:vector count='2'>determine</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>indicate</otmi:vector>
+              <otmi:vector count='2'>2a</otmi:vector>
+              <otmi:vector count='2'>Ski</otmi:vector>
+              <otmi:vector count='2'>2b</otmi:vector>
+              <otmi:vector count='2'>interact</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>hbs1Δski7</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>temperatures</otmi:vector>
+              <otmi:vector count='1'>substantially</otmi:vector>
+              <otmi:vector count='1'>initiation</otmi:vector>
+              <otmi:vector count='1'>recruits</otmi:vector>
+              <otmi:vector count='1'>CGS1</otmi:vector>
+              <otmi:vector count='1'>empty</otmi:vector>
+              <otmi:vector count='1'>site(s</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>exonucleases</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>Consistent</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>poly(A</otmi:vector>
+              <otmi:vector count='1'>tail</otmi:vector>
+              <otmi:vector count='1'>mediate</otmi:vector>
+              <otmi:vector count='1'>substitute</otmi:vector>
+              <otmi:vector count='1'>digestion</otmi:vector>
+              <otmi:vector count='1'>pauses</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>reasons</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>member</otmi:vector>
+              <otmi:vector count='1'>Other</otmi:vector>
+              <otmi:vector count='1'>transcripts</otmi:vector>
+              <otmi:vector count='1'>non-functional</otmi:vector>
+              <otmi:vector count='1'>accumulating</otmi:vector>
+              <otmi:vector count='1'>adds</otmi:vector>
+              <otmi:vector count='1'>polyadenylated</otmi:vector>
+              <otmi:vector count='1'>upf1Δski7</otmi:vector>
+              <otmi:vector count='1'>poly(G</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>3′-polyadenosine</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>obscure</otmi:vector>
+              <otmi:vector count='1'>arguing</otmi:vector>
+              <otmi:vector count='1'>stop</otmi:vector>
+              <otmi:vector count='1'>Ski2</otmi:vector>
+              <otmi:vector count='1'>Insertion</otmi:vector>
+              <otmi:vector count='1'>translate</otmi:vector>
+              <otmi:vector count='1'>detect</otmi:vector>
+              <otmi:vector count='1'>Ski3</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>adapted</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>conserved.</otmi:vector>
+              <otmi:vector count='1'>heterogeneity</otmi:vector>
+              <otmi:vector count='1'>inserting</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>Ski8</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>delivers</otmi:vector>
+              <otmi:vector count='1'>formally</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>ski8</otmi:vector>
+              <otmi:vector count='1'>roughly</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>greatly</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>inhibit</otmi:vector>
+              <otmi:vector count='1'>tRNA</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>consisting</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>prokaryotes</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>mediators</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>AUG</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>dcp2</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>similarity</otmi:vector>
+              <otmi:vector count='1'>(NGD</otmi:vector>
+              <otmi:vector count='1'>subunit</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>eEF1A</otmi:vector>
+              <otmi:vector count='1'>interacting</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>cleaved</otmi:vector>
+              <otmi:vector count='1'>ski3</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>turnover</otmi:vector>
+              <otmi:vector count='1'>22</otmi:vector>
+              <otmi:vector count='1'>heterotrimeric</otmi:vector>
+              <otmi:vector count='1'>argument</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>construct</otmi:vector>
+              <otmi:vector count='1'>deadenylase</otmi:vector>
+              <otmi:vector count='1'>induce</otmi:vector>
+              <otmi:vector count='1'>conjunction</otmi:vector>
+              <otmi:vector count='1'>mutation</otmi:vector>
+              <otmi:vector count='1'>ski2</otmi:vector>
+              <otmi:vector count='1'>compromised</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>degraded</otmi:vector>
+              <otmi:vector count='1'>cap</otmi:vector>
+              <otmi:vector count='1'>eukaryotes</otmi:vector>
+              <otmi:vector count='1'>portions</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>Additional</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>probes</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>Surprisingly</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>precursor–product</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>binds</otmi:vector>
+              <otmi:vector count='1'>pulse–chase</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>regulated</otmi:vector>
+              <otmi:vector count='1'>endonucleolytically</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>600</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>inhibition</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>scanning</otmi:vector>
+              <otmi:vector count='1'>eRF1</otmi:vector>
+              <otmi:vector count='1'>easily</otmi:vector>
+              <otmi:vector count='1'>Deadenylation</otmi:vector>
+              <otmi:vector count='1'>trimming</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>600-nucleotide</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>subsequently</otmi:vector>
+              <otmi:vector count='1'>examined</otmi:vector>
+              <otmi:vector count='1'>GTPases</otmi:vector>
+              <otmi:vector count='1'>Given</otmi:vector>
+              <otmi:vector count='1'>Strains</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>abolished</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>terminated</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>lacks</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>4a</otmi:vector>
+              <otmi:vector count='1'>identification</otmi:vector>
+              <otmi:vector count='1'>Arabidopsis</otmi:vector>
+              <otmi:vector count='1'>degrade</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>termed</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>tract</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>decays</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>translational</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>diverged</otmi:vector>
+              <otmi:vector count='1'>exosome-mediated</otmi:vector>
+              <otmi:vector count='1'>triggering</otmi:vector>
+              <otmi:vector count='1'>recognizes</otmi:vector>
+              <otmi:vector count='1'>ski4-1</otmi:vector>
+              <otmi:vector count='1'>instability</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>targeted</otmi:vector>
+              <otmi:vector count='1'>conserved</otmi:vector>
+              <otmi:vector count='1'>prevent</otmi:vector>
+              <otmi:vector count='1'>inactivated</otmi:vector>
+              <otmi:vector count='1'>Ccr4p</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>ribosome-dependent</otmi:vector>
+              <otmi:vector count='1'>nonsense-mediated</otmi:vector>
+              <otmi:vector count='1'>Again</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>broadly</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>uncapped</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>MFA2</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>possibilities</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>trimmed</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>modulate</otmi:vector>
+              <otmi:vector count='1'>upf1</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>vicinity</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>works</otmi:vector>
+              <otmi:vector count='1'>initiate</otmi:vector>
+              <otmi:vector count='1'>Similar</otmi:vector>
+              <otmi:vector count='1'>1,200</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>evidence</otmi:vector>
+              <otmi:vector count='1'>couples</otmi:vector>
+              <otmi:vector count='1'>longer</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>dom34Δski7</otmi:vector>
+              <otmi:vector count='1'>corresponds</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>nuclease</otmi:vector>
+              <otmi:vector count='1'>no-go</otmi:vector>
+              <otmi:vector count='1'>upf1Δxrn1</otmi:vector>
+              <otmi:vector count='1'>pseudoknot</otmi:vector>
+              <otmi:vector count='1'>Mapping</otmi:vector>
+              <otmi:vector count='1'>reaches</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>three-dimensional</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>damaged</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>reaching</otmi:vector>
+              <otmi:vector count='1'>refer</otmi:vector>
+              <otmi:vector count='1'>hbs1Δxrn1</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>Two</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>verify</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A probe specific to the 5′ end of the PGK1-SL mRNA did not identify any fragment that specifically accumulated in the xrn1Δ  strain ( Supplementary Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Additional evidence that the PGK1-SL mRNA is subject to endonucleolytic cleavage is that a probe specific for the 3′ end of the PGK1-SL reporter detected 3′ decay intermediates in the xrn1Δ  strain ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>Again, no 5′ or 3′ cleavage products accumulated ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>An interesting possibility is that NGD has been adapted for the regulation of specific mRNAs, and previous examples of regulated ribosome-dependent cleavage of mRNAs in eukaryotes may be due to an inhibition of translation elongation, which then activates NGD</otmi:snippet>
+              <otmi:snippet>Because NGD works on stalled ribosomes, we proposed that Hbs1p and Dom34p, two conserved and interacting proteins with similarity to translation termination factors, might function in NGD</otmi:snippet>
+              <otmi:snippet>Because the PGK1-PTC-SL mRNA is a substrate for NMD, its levels are quite low</otmi:snippet>
+              <otmi:snippet>Consistent with this model is the observation that the sequences triggering endonucleolytic cleavage of the CGS1 mRNA in Arabidopsis have been recently shown to mediate ribosome stalling </otmi:snippet>
+              <otmi:snippet>Deadenylation is followed either by decapping and 5′ → 3′ degradation, or 3′ → 5′ degradation , of the mRNA</otmi:snippet>
+              <otmi:snippet>Finally, elongation pauses can also trigger endonucleolytic cleavage in prokaryotes , indicating that mRNA surveillance based on translation elongation rates is broadly conserved.</otmi:snippet>
+              <otmi:snippet>First, in an xrn1 Δ strain, Ski7p might be able to substitute for the role of Hbs1p, because Ski7p and Hbs1p have recently diverged </otmi:snippet>
+              <otmi:snippet>Given this, we examined the PGK1-SL mRNA in strains defective in either exosome-mediated decay or Xrn1p function, using probes specific to the 5′ and 3′ portions of the mRNA</otmi:snippet>
+              <otmi:snippet>Hbs1p also has a function in NGD, because accumulation of 5′ fragments from the PGK1-SL mRNA observed in skiΔ  mutants is substantially reduced in an hbs1Δski7Δ  or hbs1Δski2Δ  strain ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>Hbs1p is likely to interact with the ribosome because it is a member of the family of GTPases consisting of eEF1A, which delivers the transfer RNA to the A site of the ribosome , eRF3, which functions in translation termination , and Ski7p, which is thought to interact with an empty A site when the ribosome reaches the 3′ end of a mRNA </otmi:snippet>
+              <otmi:snippet>However, the mRNA fragment detected in the xrn1Δ  strain must be produced by endonucleolytic cleavage, arguing that at least some of the 3′ decay product seen in the wild-type strain is produced by endonucleolytic cleavage</otmi:snippet>
+              <otmi:snippet>If stalls in translation elongation trigger NGD, ribosomes should be required to reach the stem-loop to trigger the cleavage event</otmi:snippet>
+              <otmi:snippet>If the PGK1-SL mRNA is subject to cleavage by an endonuclease, two mRNA fragments should be produced, a 5′ fragment expected to be a substrate for the 3′ → 5′ degradation complex termed the exosome, and a 3′ fragment that would be uncapped and predicted to be a substrate for Xrn1p, the major 5′ → 3′ exonuclease</otmi:snippet>
+              <otmi:snippet>In addition, the accumulation of the 5′ and 3′ fragments in ski7Δ  and xrn1Δ  strains was abolished when a premature stop codon was inserted in the PGK1-SL mRNA at codon 22 (PGK1-PTC-SL), such that ribosomes terminated translation before the ribosomal stall site ( Fig. 3 ; PGK1-PTC-SL)</otmi:snippet>
+              <otmi:snippet>In addition, transcriptional pulse–chase experiments and transcriptional induction experiments indicate that the mRNA fragments are produced after the full-length mRNA has been synthesized, which is consistent with a precursor–product relationship between the full-length mRNA and the mRNA decay product ( Supplementary Fig. 4 , and data not shown)</otmi:snippet>
+              <otmi:snippet>In both dom34Δski7Δ  and dom34Δxrn1Δ  strains the mRNA fragments generated by NGD were no longer observed ( Fig. 4 ), indicating that Dom34p is required for NGD</otmi:snippet>
+              <otmi:snippet>In yeast, the two major pathways of mRNA turnover initiate with deadenylation of the 3′-polyadenosine (poly(A)) tail </otmi:snippet>
+              <otmi:snippet>Insertion of the stem-loop into the coding region of the MFA2 mRNA (MFA2-SL) also identified 5′ and 3′ decay intermediates in the ski7Δ  and xrn1Δ  mutants, respectively ( Supplementary Fig. 3 )</otmi:snippet>
+              <otmi:snippet>It remains to be determined whether Dom34p is the endonuclease, activates a nuclease activity within the ribosome or recruits an endonuclease</otmi:snippet>
+              <otmi:snippet>Mapping of the 5′ and 3′ fragments for both the MFA2-SL and PGK1-SL transcripts indicates that the cleavage occurs in the vicinity of the stem-loop ( Supplementary Fig. 3 ), although there is heterogeneity indicating that the cleavage occurs at multiple sites near the ribosomal stall site and/or that there is trimming by exonucleases from the original cleavage site(s)</otmi:snippet>
+              <otmi:snippet>Moreover, Dom34p binds Hbs1p (ref. 15 ) and is related to eRF1, which has a three-dimensional structure similar to a tRNA and functions with eRF3 during translation termination </otmi:snippet>
+              <otmi:snippet>Moreover, the PGK1-SL mRNA showed the same instability in an upf1Δ  strain, which is defective for the nonsense-mediated decay (NMD) pathway ( Supplementary Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Moreover, the identification of Dom34p and Hbs1p as mediators of NGD adds to the family of related proteins thought to modulate different events at the A site of the ribosome</otmi:snippet>
+              <otmi:snippet>NGD provides a mechanism to release stalled, or non-functional, ribosomes and degrade damaged mRNA</otmi:snippet>
+              <otmi:snippet>Other stalls in translation, including a pseudoknot, rare codons and premature translation termination codons, also induce cleavage events at low temperatures, although at greatly reduced levels ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Second, Hbs1p might be required for NGD only when the cytoplasmic exosome is compromised, as seen in the hbs1Δski7 Δ and hbs1Δski2 Δ strains, perhaps because of a loss of Ski7p function in those mutant strains</otmi:snippet>
+              <otmi:snippet>Similar results were seen with other translational stalls ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Strains defective in cytoplasmic 3′ → 5′ degradation accumulated a fragment of the PGK1-SL mRNA detected with a probe 5′ of the stem-loop ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Surprisingly, and in contrast to the dom34Δxrn1Δ  strain, the hbs1Δxrn1Δ  strain still showed the accumulation of the 3′ fragment</otmi:snippet>
+              <otmi:snippet>The PGK1-SL mRNA showed accelerated decay in both a dcp2Δ  strain, which lacks decapping activity , and a ski7Δ  strain, which is defective in the 3′ → 5′ degradation pathway ( Supplementary Fig. 1 )</otmi:snippet>
+              <otmi:snippet>The above observations suggest that Dom34p recognizes stalled ribosomes, possibly in conjunction with Hbs1p, leading to endonucleolytic cleavage of the mRNA</otmi:snippet>
+              <otmi:snippet>The accumulation of a 3′ mRNA fragment in xrn1Δ  strains, and a 5′ mRNA fragment in skiΔ  mutants, indicated that the PGK1-SL mRNA was endonucleolytically cleaved followed by exonuclease digestion of the mRNA fragments</otmi:snippet>
+              <otmi:snippet>The larger fragment is about 600 nucleotides long and corresponds to the distance from the stem-loop to the 3′ end of the mRNA</otmi:snippet>
+              <otmi:snippet>The roughly 600-nucleotide 3′ mRNA fragment is present at lower levels in wild-type cells and mutant ski strains ( Fig. 1a , and Supplementary Fig. 2a ), which indicates that the inserted stem-loop structure can act as a block to Xrn1p (see below)</otmi:snippet>
+              <otmi:snippet>The smaller fragment is an mRNA fragment that has subsequently been trimmed at the 3′ end to a poly(G) tract present in the PGK1 3′ untranslated region, which blocks further 3′ → 5′ degradation (data not shown, and see below)</otmi:snippet>
+              <otmi:snippet>These observations suggest that the PGK1-SL mRNA is subject to an endonucleolytic cleavage, with the 5′ mRNA fragment being degraded by the cytoplasmic exosome</otmi:snippet>
+              <otmi:snippet>This 5′ fragment accumulated in strains defective in 3′ → 5′ decay for any of three reasons: first, the loss of any component of the heterotrimeric Ski complex of Ski2, Ski3 and Ski8 proteins ( ski2Δ, ski3Δ  or ski8Δ ), which is required for cytoplasmic exosome function ; second, the loss of Ski7p ( ski7Δ ), which couples the Ski complex to the exosome; and last, a point mutation in an exosome subunit (ski4-1) that blocks the interaction of the exosome with Ski7p (data not shown)</otmi:snippet>
+              <otmi:snippet>This block to translation initiation prevented the accumulation of the 5′ and 3′ decay intermediates in the ski7Δ  and xrn1Δ  strains ( Fig. 3 ; SL-PGK1-SL)</otmi:snippet>
+              <otmi:snippet>This mRNA fragment was about 1,200 nucleotides long, which is the distance from the cap to the site of the stem-loop</otmi:snippet>
+              <otmi:snippet>This observation could be explained by either of two related possibilities</otmi:snippet>
+              <otmi:snippet>This observation supports the argument that the trigger for NGD might be a delay in translation elongation</otmi:snippet>
+              <otmi:snippet>Thus, the PGK1-SL mRNA shows accelerated degradation in a manner independent of known degradation pathways, suggesting that it is targeted for degradation by a novel mechanism, possibly involving cleavage by an endonuclease</otmi:snippet>
+              <otmi:snippet>Thus, the endonucleolytic cleavage we detect requires ribosomes to translate to the stem-loop, suggesting that ribosome stalling leads to cleavage</otmi:snippet>
+              <otmi:snippet>To determine the effect of a delay in translation elongation on mRNA decay, we inserted a stable stem-loop, previously shown to inhibit translation elongation , into the coding region of a yeast PGK1 reporter construct to give the PGK1-SL reporter</otmi:snippet>
+              <otmi:snippet>To test this prediction, we prevented ribosomes from reaching the stall site by blocking ribosome scanning to the AUG by inserting a stem-loop in the 5′ untranslated region of the PGK1-SL mRNA (SL-PGK1-SL)</otmi:snippet>
+              <otmi:snippet>To test whether Hbs1p and/or Dom34p function in NGD, we determined whether the loss of Hbs1p or Dom34p affected the accumulation of NGD decay products from the PGK1-SL mRNA easily seen in ski7Δ  and xrn1Δ  strains</otmi:snippet>
+              <otmi:snippet>To verify that these low levels of mRNA did not obscure the accumulation of the NGD products, we also analysed this mRNA in upf1Δski7Δ  and upf1Δxrn1Δ  strains, in which NMD is inactivated and mRNA levels are higher</otmi:snippet>
+              <otmi:snippet>Two observations indicate that deadenylation is not required to occur before endonucleolytic cleavage in NGD ( Supplementary Fig. 5 ): first, in a transcriptional induction experiment, we observed that the 3′ mRNA fragment of the MFA2-SL mRNA was polyadenylated when first produced; and second, loss of the major mRNA deadenylase, Ccr4p, does not prevent NGD</otmi:snippet>
+              <otmi:snippet>We cannot formally determine whether the mRNA fragment accumulating in the wild-type strain arises by decapping and 5′ → 3′ degradation by Xrn1p, or by endonucleolytic cleavage</otmi:snippet>
+              <otmi:snippet>We observed that the PGK1-SL mRNA decays faster than the control PGK1 mRNA in wild-type yeast cells ( Supplementary Fig. 1 ), suggesting that a ribosomal stall accelerated degradation of the mRNA</otmi:snippet>
+              <otmi:snippet>We refer to this surveillance mechanism as ‘no-go decay’ (NGD)</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Stalling of elongating ribosomes leads to endonucleolytic cleavage of the PGK1-SL reporter transcript.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Northern analysis of steady-state PGK1 and PGK1-SL reporter mRNA in wild-type strains and strains mutant either in 3′ → 5′ exosome activity ( a ) that include ski2Δ, ski3Δ, ski7Δ  and ski8Δ, or a mutant in 5′ → 3′ exonucleolytic activity, xrn1Δ  ( b ). The untransformed strain (Un) is shown in b . Northern analysis was performed with probes specific for mRNA regions 5′ ( a ) or 3′ ( b ) of the stall site, as illustrated at the bottom.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>NGD is initiated by endonucleolytic cleavage of mRNA with various ribosomal stalls.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Steady-state cultures of xrn1Δ  ( a ) and dom34Δxrn1Δ  ( b ) strains with PGK1, PGK1-SL, PGK1-PK (pseudoknot), PGK1-RC (rare codons), PGK1-stop (stop codon) and PGK1-proline-stop (proline-stop codon) reporters were grown at low temperature (16 °C). Northern analysis of steady-state reporter mRNAs was performed with a probe specific for mRNA regions 3′ of the stall sites.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>NGD is dependent on translation by ribosomes.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Northern analysis of steady-state PGK1-SL, SL-PGK1-SL (pRP1252) and PGK1-PTC-SL (pRP1253) reporter transcripts in wild-type, ski7Δ, upf1Δ ski7Δ  ( a ) and xrn1Δ, upf1Δ xrn1Δ  ( b ) mutant strains. Northern analysis was performed with probes specific for mRNA regions 5′ ( a ) and 3′ ( b ) of the stall site.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Dom34p and Hbs1p affect NGD.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Northern analysis of steady-state PGK1-SL reporter mRNA in wild-type and mutant strains with probes specific for mRNA regions 5′ ( a ) and 3′ ( b ) of the stall site.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/nrm1310</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1067272</otmi:refid>
+          <otmi:refid>info:doi/10.1093/nar/gkg440</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.C300300200</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.biochem.73.011303.074032</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/18.19.5411</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.20.21.8230-8243.2000</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/17.5.1497</otmi:refid>
+          <otmi:refid>info:doi/10.1038/370578a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0248-4900(03)00035-2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(92)90269-I</otmi:refid>
+          <otmi:refid>info:doi/10.1128/MCB.22.8.2564-2574.2002</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(04)00206-0</otmi:refid>
+          <otmi:refid>info:doi/10.1534/genetics.105.044057</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.286.5443.1371</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02559</otmi:refid>
+          <otmi:refid>info:doi/10.1101/gad.1317105</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M312805200</otmi:refid>
+          <otmi:refid>info:doi/10.1261/rna.5169404</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(03)00385-X</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.micro.57.030502.090945</otmi:refid>
+          <otmi:refid>info:doi/10.1261/rna.5930803</otmi:refid>
+          <otmi:refid>info:doi/10.1093/nar/29.24.5226</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0022-2836(89)90260-X</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M205405200</otmi:refid>
+          <otmi:refsnoid>3</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

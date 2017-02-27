@@ -1,0 +1,2725 @@
+
+1:  Rotenberg A, Mayford M, Hawkins RD, Kandel ER, Muller RU. 
+ Mice expressing activated CaMKII lack low frequency LTP and do not form stable
+place cells in the CA1 region of the hippocampus.
+Cell. 1996 Dec 27;87(7):1351-61.
+PMID: 8980240 [PubMed - indexed for MEDLINE]
+
+2:  McHugh TJ, Blum KI, Tsien JZ, Tonegawa S, Wilson MA. 
+ Impaired hippocampal representation of space in CA1-specific NMDAR1 knockout
+mice.
+Cell. 1996 Dec 27;87(7):1339-49.
+PMID: 8980239 [PubMed - indexed for MEDLINE]
+
+3:  Tsien JZ, Huerta PT, Tonegawa S. 
+ The essential role of hippocampal CA1 NMDA receptor-dependent synaptic
+plasticity in spatial memory.
+Cell. 1996 Dec 27;87(7):1327-38.
+PMID: 8980238 [PubMed - indexed for MEDLINE]
+
+4:  Tsien JZ, Chen DF, Gerber D, Tom C, Mercer EH, Anderson DJ, Mayford M,
+Kandel ER, Tonegawa S. 
+ Subregion- and cell type-restricted gene knockout in mouse brain.
+Cell. 1996 Dec 27;87(7):1317-26.
+PMID: 8980237 [PubMed - indexed for MEDLINE]
+
+5:  Van den Ackerveken G, Marois E, Bonas U. 
+ Recognition of the bacterial avirulence protein AvrBs3 occurs inside the host
+plant cell.
+Cell. 1996 Dec 27;87(7):1307-16.
+PMID: 8980236 [PubMed - indexed for MEDLINE]
+
+6:  Rice PA, Yang S, Mizuuchi K, Nash HA. 
+ Crystal structure of an IHF-DNA complex: a protein-induced DNA U-turn.
+Cell. 1996 Dec 27;87(7):1295-306.
+PMID: 8980235 [PubMed - indexed for MEDLINE]
+
+7:  Gamble TR, Vajdos FF, Yoo S, Worthylake DK, Houseweart M, Sundquist WI, Hill
+CP. 
+ Crystal structure of human cyclophilin A bound to the amino-terminal domain of
+HIV-1 capsid.
+Cell. 1996 Dec 27;87(7):1285-94.
+PMID: 8980234 [PubMed - indexed for MEDLINE]
+
+8:  Sauer F, Wassarman DA, Rubin GM, Tjian R. 
+ TAF(II)s mediate activation of transcription in the Drosophila embryo.
+Cell. 1996 Dec 27;87(7):1271-84. Retracted publication.
+PMID: 8980233 [PubMed - indexed for MEDLINE]
+
+9:  Mizzen CA, Yang XJ, Kokubo T, Brownell JE, Bannister AJ, Owen-Hughes T,
+Workman J, Wang L, Berger SL, Kouzarides T, Nakatani Y, Allis CD. 
+ The TAF(II)250 subunit of TFIID has histone acetyltransferase activity.
+Cell. 1996 Dec 27;87(7):1261-70.
+PMID: 8980232 [PubMed - indexed for MEDLINE]
+
+10:  Cairns BR, Lorch Y, Li Y, Zhang M, Lacomis L, Erdjument-Bromage H, Tempst
+P, Du J, Laurent B, Kornberg RD. 
+ RSC, an essential, abundant chromatin-remodeling complex.
+Cell. 1996 Dec 27;87(7):1249-60.
+PMID: 8980231 [PubMed - indexed for MEDLINE]
+
+11:  de Nooij JC, Letendre MA, Hariharan IK. 
+ A cyclin-dependent kinase inhibitor, Dacapo, is necessary for timely exit from
+the cell cycle during Drosophila embryogenesis.
+Cell. 1996 Dec 27;87(7):1237-47.
+PMID: 8980230 [PubMed - indexed for MEDLINE]
+
+12:  Lane ME, Sauer K, Wallace K, Jan YN, Lehner CF, Vaessin H. 
+ Dacapo, a cyclin-dependent kinase inhibitor, stops cell proliferation during
+Drosophila development.
+Cell. 1996 Dec 27;87(7):1225-35.
+PMID: 8980229 [PubMed - indexed for MEDLINE]
+
+13:  Macias-Silva M, Abdollah S, Hoodless PA, Pirone R, Attisano L, Wrana JL. 
+ MADR2 is a substrate of the TGFbeta receptor and its phosphorylation is
+required for nuclear accumulation and signaling.
+Cell. 1996 Dec 27;87(7):1215-24.
+PMID: 8980228 [PubMed - indexed for MEDLINE]
+
+14:  Bito H, Deisseroth K, Tsien RW. 
+ CREB phosphorylation and dephosphorylation: a Ca(2+)- and stimulus
+duration-dependent switch for hippocampal gene expression.
+Cell. 1996 Dec 27;87(7):1203-14.
+PMID: 8980227 [PubMed - indexed for MEDLINE]
+
+15:  Bellefroid EJ, Bourguignon C, Hollemann T, Ma Q, Anderson DJ, Kintner C,
+Pieler T. 
+ X-MyT1, a Xenopus C2HC-type zinc finger protein with a regulatory function in
+neuronal differentiation.
+Cell. 1996 Dec 27;87(7):1191-202.
+PMID: 8980226 [PubMed - indexed for MEDLINE]
+
+16:  Vikkula M, Boon LM, Carraway KL 3rd, Calvert JT, Diamonti AJ, Goumnerov B,
+Pasyk KA, Marchuk DA, Warman ML, Cantley LC, Mulliken JB, Olsen BR. 
+ Vascular dysmorphogenesis caused by an activating mutation in the receptor
+tyrosine kinase TIE2.
+Cell. 1996 Dec 27;87(7):1181-90.
+PMID: 8980225 [PubMed - indexed for MEDLINE]
+
+17:  Suri C, Jones PF, Patan S, Bartunkova S, Maisonpierre PC, Davis S, Sato TN,
+Yancopoulos GD. 
+ Requisite role of angiopoietin-1, a ligand for the TIE2 receptor, during
+embryonic angiogenesis.
+Cell. 1996 Dec 27;87(7):1171-80.
+PMID: 8980224 [PubMed - indexed for MEDLINE]
+
+18:  Davis S, Aldrich TH, Jones PF, Acheson A, Compton DL, Jain V, Ryan TE,
+Bruno J, Radziejewski C, Maisonpierre PC, Yancopoulos GD. 
+ Isolation of angiopoietin-1, a ligand for the TIE2 receptor, by secretion-trap
+expression cloning.
+Cell. 1996 Dec 27;87(7):1161-9.
+PMID: 8980223 [PubMed - indexed for MEDLINE]
+
+19:  Luban J. 
+ Absconding with the chaperone: essential cyclophilin-Gag interaction in HIV-1
+virions.
+Cell. 1996 Dec 27;87(7):1157-9. No abstract available.
+PMID: 8980222 [PubMed - indexed for MEDLINE]
+
+20:  Folkman J, D'Amore PA. 
+ Blood vessel formation: what is its molecular basis?
+Cell. 1996 Dec 27;87(7):1153-5. Review. No abstract available.
+PMID: 8980221 [PubMed - indexed for MEDLINE]
+
+21:  Hess EJ. 
+ Migraines in mice?
+Cell. 1996 Dec 27;87(7):1149-51. Review. No abstract available.
+PMID: 8980220 [PubMed - indexed for MEDLINE]
+
+22:  Stevens CF. 
+ Spatial learning and memory: the beginning of a dream.
+Cell. 1996 Dec 27;87(7):1147-8. Review. No abstract available.
+PMID: 8980219 [PubMed - indexed for MEDLINE]
+
+23:  Caprara MG, Lehnert V, Lambowitz AM, Westhof E. 
+ A tyrosyl-tRNA synthetase recognizes a conserved tRNA-like structural motif in
+the group I intron catalytic core.
+Cell. 1996 Dec 13;87(6):1135-45.
+PMID: 8978617 [PubMed - indexed for MEDLINE]
+
+24:  Niu W, Kim Y, Tau G, Heyduk T, Ebright RH. 
+ Transcription activation at class II CAP-dependent promoters: two interactions
+between CAP and RNA polymerase.
+Cell. 1996 Dec 13;87(6):1123-34.
+PMID: 8978616 [PubMed - indexed for MEDLINE]
+
+25:  Butler DK, Yasuda LE, Yao MC. 
+ Induction of large DNA palindrome formation in yeast: implications for gene
+amplification and genome stability in eukaryotes.
+Cell. 1996 Dec 13;87(6):1115-22.
+PMID: 8978615 [PubMed - indexed for MEDLINE]
+
+26:  Bhat MA, Philp AV, Glover DM, Bellen HJ. 
+ Chromatid segregation at anaphase requires the barren product, a novel
+chromosome-associated protein that interacts with Topoisomerase II.
+Cell. 1996 Dec 13;87(6):1103-14.
+PMID: 8978614 [PubMed - indexed for MEDLINE]
+
+27:  Sutherland D, Samakovlis C, Krasnow MA. 
+ branchless encodes a Drosophila FGF homolog that controls tracheal cell
+migration and the pattern of branching.
+Cell. 1996 Dec 13;87(6):1091-101.
+PMID: 8978613 [PubMed - indexed for MEDLINE]
+
+28:  Ryner LC, Goodwin SF, Castrillon DH, Anand A, Villella A, Baker BS, Hall
+JC, Taylor BJ, Wasserman SA. 
+ Control of male sexual behavior and sexual orientation in Drosophila by the
+fruitless gene.
+Cell. 1996 Dec 13;87(6):1079-89.
+PMID: 8978612 [PubMed - indexed for MEDLINE]
+
+29:  Koyama H, Raines EW, Bornfeldt KE, Roberts JM, Ross R. 
+ Fibrillar collagen inhibits arterial smooth muscle proliferation through
+regulation of Cdk2 inhibitors.
+Cell. 1996 Dec 13;87(6):1069-78.
+PMID: 8978611 [PubMed - indexed for MEDLINE]
+
+30:  Baumgartner S, Littleton JT, Broadie K, Bhat MA, Harbecke R, Lengyel JA,
+Chiquet-Ehrismann R, Prokop A, Bellen HJ. 
+ A Drosophila neurexin is required for septate junction and blood-nerve barrier
+formation and function.
+Cell. 1996 Dec 13;87(6):1059-68.
+PMID: 8978610 [PubMed - indexed for MEDLINE]
+
+31:  Fambrough D, Goodman CS. 
+ The Drosophila beaten path gene encodes a novel secreted protein that regulates
+defasciculation at motor axon choice points.
+Cell. 1996 Dec 13;87(6):1049-58.
+PMID: 8978609 [PubMed - indexed for MEDLINE]
+
+32:  Forster R, Mattis AE, Kremmer E, Wolf E, Brem G, Lipp M. 
+ A putative chemokine receptor, BLR1, directs B cell migration to defined
+lymphoid organs and specific anatomic compartments of the spleen.
+Cell. 1996 Dec 13;87(6):1037-47.
+PMID: 8978608 [PubMed - indexed for MEDLINE]
+
+33:  Arancio O, Kiebler M, Lee CJ, Lev-Ram V, Tsien RY, Kandel ER, Hawkins RD. 
+ Nitric oxide acts directly in the presynaptic neuron to produce long-term
+potentiation in cultured hippocampal neurons.
+Cell. 1996 Dec 13;87(6):1025-35.
+PMID: 8978607 [PubMed - indexed for MEDLINE]
+
+34:  Son H, Hawkins RD, Martin K, Kiebler M, Huang PL, Fishman MC, Kandel ER. 
+ Long-term potentiation is reduced in mice that are doubly mutant in endothelial
+and neuronal nitric oxide synthase.
+Cell. 1996 Dec 13;87(6):1015-23.
+PMID: 8978606 [PubMed - indexed for MEDLINE]
+
+35:  Serafini T, Colamarino SA, Leonardo ED, Wang H, Beddington R, Skarnes WC,
+Tessier-Lavigne M. 
+ Netrin-1 is required for commissural axon guidance in the developing vertebrate
+nervous system.
+Cell. 1996 Dec 13;87(6):1001-14.
+PMID: 8978605 [PubMed - indexed for MEDLINE]
+
+36:  Ryan K, Garrett N, Mitchell A, Gurdon JB. 
+ Eomesodermin, a key early gene in Xenopus mesoderm differentiation.
+Cell. 1996 Dec 13;87(6):989-1000.
+PMID: 8978604 [PubMed - indexed for MEDLINE]
+
+37:  Qian F, Watnick TJ, Onuchic LF, Germino GG. 
+ The molecular basis of focal cyst formation in human autosomal dominant
+polycystic kidney disease type I.
+Cell. 1996 Dec 13;87(6):979-87.
+PMID: 8978603 [PubMed - indexed for MEDLINE]
+
+38:  Eisen JS. 
+ Zebrafish make a big splash.
+Cell. 1996 Dec 13;87(6):969-77. Review. No abstract available.
+PMID: 8978602 [PubMed - indexed for MEDLINE]
+
+39:  Stahl F. 
+ Meiotic recombination in yeast: coronation of the double-strand-break repair
+model.
+Cell. 1996 Dec 13;87(6):965-8. Review. No abstract available.
+PMID: 8978601 [PubMed - indexed for MEDLINE]
+
+40:  Scharenberg AM, Kinet JP. 
+ The emerging field of receptor-mediated inhibitory signaling: SHP or SHIP?
+Cell. 1996 Dec 13;87(6):961-4. Review. No abstract available.
+PMID: 8978600 [PubMed - indexed for MEDLINE]
+
+41:  Ogryzko VV, Schiltz RL, Russanova V, Howard BH, Nakatani Y. 
+ The transcriptional coactivators p300 and CBP are histone acetyltransferases.
+Cell. 1996 Nov 29;87(5):953-9.
+PMID: 8945521 [PubMed - indexed for MEDLINE]
+
+42:  Takagaki Y, Seipelt RL, Peterson ML, Manley JL. 
+ The polyadenylation factor CstF-64 regulates alternative processing of IgM
+heavy chain pre-mRNA during B cell differentiation.
+Cell. 1996 Nov 29;87(5):941-52.
+PMID: 8945520 [PubMed - indexed for MEDLINE]
+
+43:  Kallunki T, Deng T, Hibi M, Karin M. 
+ c-Jun can recruit JNK to phosphorylate dimerization partners via specific
+docking interactions.
+Cell. 1996 Nov 29;87(5):929-39.
+PMID: 8945519 [PubMed - indexed for MEDLINE]
+
+44:  Moran JV, Holmes SE, Naas TP, DeBerardinis RJ, Boeke JD, Kazazian HH Jr. 
+ High frequency retrotransposition in cultured mammalian cells.
+Cell. 1996 Nov 29;87(5):917-27.
+PMID: 8945518 [PubMed - indexed for MEDLINE]
+
+45:  Feng Q, Moran JV, Kazazian HH Jr, Boeke JD. 
+ Human L1 retrotransposon encodes a conserved endonuclease required for
+retrotransposition.
+Cell. 1996 Nov 29;87(5):905-16.
+PMID: 8945517 [PubMed - indexed for MEDLINE]
+
+46:  King RA, Banik-Maiti S, Jin DJ, Weisberg RA. 
+ Transcripts that increase the processivity and elongation rate of RNA
+polymerase.
+Cell. 1996 Nov 29;87(5):893-903.
+PMID: 8945516 [PubMed - indexed for MEDLINE]
+
+47:  Manna AC, Pai KS, Bussiere DE, Davies C, White SW, Bastia D. 
+ Helicase-contrahelicase interaction and the mechanism of termination of DNA
+replication.
+Cell. 1996 Nov 29;87(5):881-91.
+PMID: 8945515 [PubMed - indexed for MEDLINE]
+
+48:  Li P, McLeod M. 
+ Molecular mimicry in development: identification of ste11+ as a substrate and
+mei3+ as a pseudosubstrate inhibitor of ran1+ kinase.
+Cell. 1996 Nov 29;87(5):869-80.
+PMID: 8945514 [PubMed - indexed for MEDLINE]
+
+49:  Tinker A, Jan YN, Jan LY. 
+ Regions responsible for the assembly of inwardly rectifying potassium channels.
+Cell. 1996 Nov 29;87(5):857-68.
+PMID: 8945513 [PubMed - indexed for MEDLINE]
+
+50:  Brojatsch J, Naughton J, Rolls MM, Zingler K, Young JA. 
+ CAR1, a TNFR-related protein, is a cellular receptor for cytopathic avian
+leukosis-sarcoma viruses and mediates apoptosis.
+Cell. 1996 Nov 29;87(5):845-55.
+PMID: 8945512 [PubMed - indexed for MEDLINE]
+
+51:  Zecca M, Basler K, Struhl G. 
+ Direct and long-range action of a wingless morphogen gradient.
+Cell. 1996 Nov 29;87(5):833-44.
+PMID: 8945511 [PubMed - indexed for MEDLINE]
+
+52:  Robb DL, Heasman J, Raats J, Wylie C. 
+ A kinesin-like protein is required for germ plasm aggregation in Xenopus.
+Cell. 1996 Nov 29;87(5):823-31.
+PMID: 8945510 [PubMed - indexed for MEDLINE]
+
+53:  Kouskoff V, Korganow AS, Duchatelle V, Degott C, Benoist C, Mathis D. 
+ Organ-specific disease provoked by systemic autoimmunity.
+Cell. 1996 Nov 29;87(5):811-22.
+PMID: 8945509 [PubMed - indexed for MEDLINE]
+
+54:  Oshima M, Dinchuk JE, Kargman SL, Oshima H, Hancock B, Kwong E, Trzaskos
+JM, Evans JF, Taketo MM. 
+ Suppression of intestinal polyposis in Apc delta716 knockout mice by inhibition
+of cyclooxygenase 2 (COX-2).
+Cell. 1996 Nov 29;87(5):803-9.
+PMID: 8945508 [PubMed - indexed for MEDLINE]
+
+55:  Oldstone MB. 
+ Principles of viral pathogenesis.
+Cell. 1996 Nov 29;87(5):799-801. Review. No abstract available.
+PMID: 8945507 [PubMed - indexed for MEDLINE]
+
+56:  Mel SF, Mekalanos JJ. 
+ Modulation of horizontal gene transfer in pathogenic bacteria by in vivo
+signals.
+Cell. 1996 Nov 29;87(5):795-8. Review. No abstract available.
+PMID: 8945506 [PubMed - indexed for MEDLINE]
+
+57:  Groisman EA, Ochman H. 
+ Pathogenicity islands: bacterial evolution in quantum leaps.
+Cell. 1996 Nov 29;87(5):791-4. Review. No abstract available.
+PMID: 8945505 [PubMed - indexed for MEDLINE]
+
+58:  Beverley SM. 
+ Hijacking the cell: parasites in the driver's seat.
+Cell. 1996 Nov 29;87(5):787-9. Review. No abstract available.
+PMID: 8945504 [PubMed - indexed for MEDLINE]
+
+59:  Prescott SM, White RL. 
+ Self-promotion? Intimate connections between APC and prostaglandin H
+synthase-2.
+Cell. 1996 Nov 29;87(5):783-6. Review. No abstract available.
+PMID: 8945503 [PubMed - indexed for MEDLINE]
+
+60:  Proudfoot N. 
+ Ending the message is not so simple.
+Cell. 1996 Nov 29;87(5):779-81. Review. No abstract available.
+PMID: 8945502 [PubMed - indexed for MEDLINE]
+
+61:  Reeder TC, Hawley DK. 
+ Promoter proximal sequences modulate RNA polymerase II elongation by a novel
+mechanism.
+Cell. 1996 Nov 15;87(4):767-77.
+PMID: 8929544 [PubMed - indexed for MEDLINE]
+
+62:  Baumann P, Benson FE, West SC. 
+ Human Rad51 protein promotes ATP-dependent homologous pairing and strand
+transfer reactions in vitro.
+Cell. 1996 Nov 15;87(4):757-66.
+PMID: 8929543 [PubMed - indexed for MEDLINE]
+
+63:  Endres MJ, Clapham PR, Marsh M, Ahuja M, Turner JD, McKnight A, Thomas JF,
+Stoebenau-Haggarty B, Choe S, Vance PJ, Wells TN, Power CA, Sutterwala SS, Doms
+RW, Landau NR, Hoxie JA. 
+ CD4-independent infection by HIV-2 is mediated by fusin/CXCR4.
+Cell. 1996 Nov 15;87(4):745-56.
+PMID: 8929542 [PubMed - indexed for MEDLINE]
+
+64:  Wary KK, Mainiero F, Isakoff SJ, Marcantonio EE, Giancotti FG. 
+ The adaptor protein Shc couples a class of integrins to the control of cell
+cycle progression.
+Cell. 1996 Nov 15;87(4):733-43.
+PMID: 8929541 [PubMed - indexed for MEDLINE]
+
+65:  Hanein D, Matlack KE, Jungnickel B, Plath K, Kalies KU, Miller KR, Rapoport
+TA, Akey CW. 
+ Oligomeric rings of the Sec61p complex induced by ligands required for protein
+translocation.
+Cell. 1996 Nov 15;87(4):721-32.
+PMID: 8929540 [PubMed - indexed for MEDLINE]
+
+66:  Bugge TH, Kombrinck KW, Flick MJ, Daugherty CC, Danton MJ, Degen JL. 
+ Loss of fibrinogen rescues mice from the pleiotropic effects of plasminogen
+deficiency.
+Cell. 1996 Nov 15;87(4):709-19.
+PMID: 8929539 [PubMed - indexed for MEDLINE]
+
+67:  Wang Q, Stacy T, Miller JD, Lewis AF, Gu TL, Huang X, Bushweller JH, Bories
+JC, Alt FW, Ryan G, Liu PP, Wynshaw-Boris A, Binder M, Marin-Padilla M, Sharpe
+AH, Speck NA. 
+ The CBFbeta subunit is essential for CBFalpha2 (AML1) function in vivo.
+Cell. 1996 Nov 15;87(4):697-708.
+PMID: 8929538 [PubMed - indexed for MEDLINE]
+
+68:  Castilla LH, Wijmenga C, Wang Q, Stacy T, Speck NA, Eckhaus M,
+Marin-Padilla M, Collins FS, Wynshaw-Boris A, Liu PP. 
+ Failure of embryonic hematopoiesis and lethal hemorrhages in mouse embryos
+heterozygous for a knocked-in leukemia gene CBFB-MYH11.
+Cell. 1996 Nov 15;87(4):687-96.
+PMID: 8929537 [PubMed - indexed for MEDLINE]
+
+69:  Mombaerts P, Wang F, Dulac C, Chao SK, Nemes A, Mendelsohn M, Edmondson J,
+Axel R. 
+ Visualizing an olfactory sensory map.
+Cell. 1996 Nov 15;87(4):675-86.
+PMID: 8929536 [PubMed - indexed for MEDLINE]
+
+70:  Ericson J, Morton S, Kawakami A, Roelink H, Jessell TM. 
+ Two critical periods of Sonic Hedgehog signaling required for the specification
+of motor neuron identity.
+Cell. 1996 Nov 15;87(4):661-73.
+PMID: 8929535 [PubMed - indexed for MEDLINE]
+
+71:  Freeman M. 
+ Reiterative use of the EGF receptor triggers differentiation of all cell types
+in the Drosophila eye.
+Cell. 1996 Nov 15;87(4):651-60.
+PMID: 8929534 [PubMed - indexed for MEDLINE]
+
+72:  Kuzin B, Roberts I, Peunova N, Enikolopov G. 
+ Nitric oxide regulates cell proliferation during Drosophila development.
+Cell. 1996 Nov 15;87(4):639-49.
+PMID: 8929533 [PubMed - indexed for MEDLINE]
+
+73:  Wang HG, Rapp UR, Reed JC. 
+ Bcl-2 targets the protein kinase Raf-1 to mitochondria.
+Cell. 1996 Nov 15;87(4):629-38.
+PMID: 8929532 [PubMed - indexed for MEDLINE]
+
+74:  Zha J, Harada H, Yang E, Jockel J, Korsmeyer SJ. 
+ Serine phosphorylation of death agonist BAD in response to survival factor
+results in binding to 14-3-3 not BCL-X(L)
+Cell. 1996 Nov 15;87(4):619-28.
+PMID: 8929531 [PubMed - indexed for MEDLINE]
+
+75:  Fletcher CF, Lutz CM, O'Sullivan TN, Shaughnessy JD Jr, Hawkes R, Frankel
+WN, Copeland NG, Jenkins NA. 
+ Absence epilepsy in tottering mutant mice is associated with calcium channel
+defects.
+Cell. 1996 Nov 15;87(4):607-17.
+PMID: 8929530 [PubMed - indexed for MEDLINE]
+
+76:  Bretscher MS. 
+ Getting membrane flow and the cytoskeleton to cooperate in moving cells.
+Cell. 1996 Nov 15;87(4):601-6. Review. No abstract available.
+PMID: 8929529 [PubMed - indexed for MEDLINE]
+
+77:  Schekman R. 
+ Polypeptide translocation: a pretty picture is worth a thousand words.
+Cell. 1996 Nov 15;87(4):593-5. No abstract available.
+PMID: 8929528 [PubMed - indexed for MEDLINE]
+
+78:  Gajewski TF, Thompson CB. 
+ Apoptosis meets signal transduction: elimination of a BAD influence.
+Cell. 1996 Nov 15;87(4):589-92. No abstract available.
+PMID: 8929527 [PubMed - indexed for MEDLINE]
+
+79:  Gaudet R, Bohm A, Sigler PB. 
+ Crystal structure at 2.4 angstroms resolution of the complex of transducin
+betagamma and its regulator, phosducin.
+Cell. 1996 Nov 1;87(3):577-88.
+PMID: 8898209 [PubMed - indexed for MEDLINE]
+
+80:  Liu ZG, Hsu H, Goeddel DV, Karin M. 
+ Dissection of TNF receptor 1 effector functions: JNK activation is not linked
+to apoptosis while NF-kappaB activation prevents cell death.
+Cell. 1996 Nov 1;87(3):565-76.
+PMID: 8898208 [PubMed - indexed for MEDLINE]
+
+81:  Chen Y, Struhl G. 
+ Dual roles for patched in sequestering and transducing Hedgehog.
+Cell. 1996 Nov 1;87(3):553-63.
+PMID: 8898207 [PubMed - indexed for MEDLINE]
+
+82:  Ophoff RA, Terwindt GM, Vergouwe MN, van Eijk R, Oefner PJ, Hoffman SM,
+Lamerdin JE, Mohrenweiser HW, Bulman DE, Ferrari M, Haan J, Lindhout D, van
+Ommen GJ, Hofker MH, Ferrari MD, Frants RR. 
+ Familial hemiplegic migraine and episodic ataxia type-2 are caused by mutations
+in the Ca2+ channel gene CACNL1A4.
+Cell. 1996 Nov 1;87(3):543-52.
+PMID: 8898206 [PubMed - indexed for MEDLINE]
+
+83:  Maina F, Casagranda F, Audero E, Simeone A, Comoglio PM, Klein R, Ponzetto
+C. 
+ Uncoupling of Grb2 from the Met receptor in vivo reveals complex roles in
+muscle development.
+Cell. 1996 Nov 1;87(3):531-42.
+PMID: 8898205 [PubMed - indexed for MEDLINE]
+
+84:  Lamarche N, Tapon N, Stowers L, Burbelo PD, Aspenstrom P, Bridges T, Chant
+J, Hall A. 
+ Rac and Cdc42 induce actin polymerization and G1 cell cycle progression
+independently of p65PAK and the JNK/SAPK MAP kinase cascade.
+Cell. 1996 Nov 1;87(3):519-29.
+PMID: 8898204 [PubMed - indexed for MEDLINE]
+
+85:  van Helvoort A, Smith AJ, Sprong H, Fritzsche I, Schinkel AH, Borst P, van
+Meer G. 
+ MDR1 P-glycoprotein is a lipid translocase of broad specificity, while MDR3
+P-glycoprotein specifically translocates phosphatidylcholine.
+Cell. 1996 Nov 1;87(3):507-17.
+PMID: 8898203 [PubMed - indexed for MEDLINE]
+
+86:  Mangiarini L, Sathasivam K, Seller M, Cozens B, Harper A, Hetherington C,
+Lawton M, Trottier Y, Lehrach H, Davies SW, Bates GP. 
+ Exon 1 of the HD gene with an expanded CAG repeat is sufficient to cause a
+progressive neurological phenotype in transgenic mice.
+Cell. 1996 Nov 1;87(3):493-506.
+PMID: 8898202 [PubMed - indexed for MEDLINE]
+
+87:  Robey E, Chang D, Itano A, Cado D, Alexander H, Lans D, Weinmaster G,
+Salmon P. 
+ An activated form of Notch influences the choice between CD4 and CD8 T cell
+lineages.
+Cell. 1996 Nov 1;87(3):483-92.
+PMID: 8898201 [PubMed - indexed for MEDLINE]
+
+88:  Chang WT, Newell PC, Gross JD. 
+ Identification of the cell fate gene stalky in Dictyostelium.
+Cell. 1996 Nov 1;87(3):471-81.
+PMID: 8898200 [PubMed - indexed for MEDLINE]
+
+89:  Zhu Z, Thiele DJ. 
+ A specialized nucleosome modulates transcription factor access to a C. glabrata
+metal responsive promoter.
+Cell. 1996 Nov 1;87(3):459-70.
+PMID: 8898199 [PubMed - indexed for MEDLINE]
+
+90:  Merdes A, Ramyar K, Vechio JD, Cleveland DW. 
+ A complex of NuMA and cytoplasmic dynein is essential for mitotic spindle
+assembly.
+Cell. 1996 Nov 1;87(3):447-58.
+PMID: 8898198 [PubMed - indexed for MEDLINE]
+
+91:  Rucker J, Samson M, Doranz BJ, Libert F, Berson JF, Yi Y, Smyth RJ, Collman
+RG, Broder CC, Vassart G, Doms RW, Parmentier M. 
+ Regions in beta-chemokine receptors CCR5 and CCR2b that determine HIV-1
+cofactor specificity.
+Cell. 1996 Nov 1;87(3):437-46.
+PMID: 8898197 [PubMed - indexed for MEDLINE]
+
+92:  Montgomery RI, Warner MS, Lum BJ, Spear PG. 
+ Herpes simplex virus-1 entry into cells mediated by a novel member of the
+TNF/NGF receptor family.
+Cell. 1996 Nov 1;87(3):427-36.
+PMID: 8898196 [PubMed - indexed for MEDLINE]
+
+93:  Hua X, Nohturfft A, Goldstein JL, Brown MS. 
+ Sterol resistance in CHO cells traced to point mutation in SREBP
+cleavage-activating protein.
+Cell. 1996 Nov 1;87(3):415-26.
+PMID: 8898195 [PubMed - indexed for MEDLINE]
+
+94:  Sidrauski C, Cox JS, Walter P. 
+ tRNA ligase is required for regulated mRNA splicing in the unfolded protein
+response.
+Cell. 1996 Nov 1;87(3):405-13.
+PMID: 8898194 [PubMed - indexed for MEDLINE]
+
+95:  Cox JS, Walter P. 
+ A novel mechanism for regulating activity of a transcription factor that
+controls the unfolded protein response.
+Cell. 1996 Nov 1;87(3):391-404.
+PMID: 8898193 [PubMed - indexed for MEDLINE]
+
+96:  Spiegelman BM, Flier JS. 
+ Adipogenesis and obesity: rounding out the big picture.
+Cell. 1996 Nov 1;87(3):377-89. Review. No abstract available.
+PMID: 8898192 [PubMed - indexed for MEDLINE]
+
+97:  Lundblad V, Wright WE. 
+ Telomeres and telomerase: a simple picture becomes complex.
+Cell. 1996 Nov 1;87(3):369-75. No abstract available.
+PMID: 8898191 [PubMed - indexed for MEDLINE]
+
+98:  Tonks NK, Neel BG. 
+ From form to function: signaling by protein tyrosine phosphatases.
+Cell. 1996 Nov 1;87(3):365-8. Review. No abstract available.
+PMID: 8898190 [PubMed - indexed for MEDLINE]
+
+99:  Denu JM, Stuckey JA, Saper MA, Dixon JE. 
+ Form and function in protein dephosphorylation.
+Cell. 1996 Nov 1;87(3):361-4. Review. No abstract available.
+PMID: 8898189 [PubMed - indexed for MEDLINE]
+
+100:  Rosbash M. 
+ Mixed mechanisms in yeast pre-mRNA splicing?
+Cell. 1996 Nov 1;87(3):357-9. Review. No abstract available.
+PMID: 8898188 [PubMed - indexed for MEDLINE]
+
+101:  Kim JL, Morgenstern KA, Lin C, Fox T, Dwyer MD, Landro JA, Chambers SP,
+Markland W, Lepre CA, O'Malley ET, Harbeson SL, Rice CM, Murcko MA, Caron PR,
+Thomson JA. 
+ Crystal structure of the hepatitis C virus NS3 protease domain complexed with a
+synthetic NS4A cofactor peptide.
+Cell. 1996 Oct 18;87(2):343-55.
+PMID: 8861917 [PubMed - indexed for MEDLINE]
+
+102:  Love RA, Parge HE, Wickersham JA, Hostomsky Z, Habuka N, Moomaw EW, Adachi
+T, Hostomska Z. 
+ The crystal structure of hepatitis C virus NS3 proteinase reveals a
+trypsin-like fold and a structural zinc binding site.
+Cell. 1996 Oct 18;87(2):331-42.
+PMID: 8861916 [PubMed - indexed for MEDLINE]
+
+103:  Rathmell JC, Townsend SE, Xu JC, Flavell RA, Goodnow CC. 
+ Expansion or elimination of B cells in vivo: dual roles for CD40- and Fas
+(CD95)-ligands modulated by the B cell antigen receptor.
+Cell. 1996 Oct 18;87(2):319-29.
+PMID: 8861915 [PubMed - indexed for MEDLINE]
+
+104:  Holtschke T, Lohler J, Kanno Y, Fehr T, Giese N, Rosenbauer F, Lou J,
+Knobeloch KP, Gabriele L, Waring JF, Bachmann MF, Zinkernagel RM, Morse HC 3rd,
+Ozato K, Horak I. 
+ Immunodeficiency and chronic myelogenous leukemia-like syndrome in mice with a
+targeted mutation of the ICSBP gene.
+Cell. 1996 Oct 18;87(2):307-17.
+PMID: 8861914 [PubMed - indexed for MEDLINE]
+
+105:  Gulbis JM, Kelman Z, Hurwitz J, O'Donnell M, Kuriyan J. 
+ Structure of the C-terminal region of p21(WAF1/CIP1) complexed with human PCNA.
+Cell. 1996 Oct 18;87(2):297-306.
+PMID: 8861913 [PubMed - indexed for MEDLINE]
+
+106:  Rowles A, Chong JP, Brown L, Howell M, Evan GI, Blow JJ. 
+ Interaction between the origin recognition complex and the replication
+licensing system in Xenopus.
+Cell. 1996 Oct 18;87(2):287-96.
+PMID: 8861912 [PubMed - indexed for MEDLINE]
+
+107:  Wu X, Haber JE. 
+ A 700 bp cis-acting region controls mating-type dependent recombination along
+the entire left arm of yeast chromosome III.
+Cell. 1996 Oct 18;87(2):277-85.
+PMID: 8861911 [PubMed - indexed for MEDLINE]
+
+108:  Spanopoulou E, Zaitseva F, Wang FH, Santagata S, Baltimore D, Panayotou G.
+
+ The homeodomain region of Rag-1 reveals the parallel mechanisms of bacterial
+and V(D)J recombination.
+Cell. 1996 Oct 18;87(2):263-76.
+PMID: 8861910 [PubMed - indexed for MEDLINE]
+
+109:  Difilippantonio MJ, McMahan CJ, Eastman QM, Spanopoulou E, Schatz DG. 
+ RAG1 mediates signal sequence recognition and recruitment of RAG2 in V(D)J
+recombination.
+Cell. 1996 Oct 18;87(2):253-62.
+PMID: 8861909 [PubMed - indexed for MEDLINE]
+
+110:  Roseman AM, Chen S, White H, Braig K, Saibil HR. 
+ The chaperonin ATPase cycle: mechanism of allosteric switching and movements of
+substrate-binding domains in GroEL.
+Cell. 1996 Oct 18;87(2):241-51.
+PMID: 8861908 [PubMed - indexed for MEDLINE]
+
+111:  Gertler FB, Niebuhr K, Reinhard M, Wehland J, Soriano P. 
+ Mena, a relative of VASP and Drosophila Enabled, is implicated in the control
+of microfilament dynamics.
+Cell. 1996 Oct 18;87(2):227-39.
+PMID: 8861907 [PubMed - indexed for MEDLINE]
+
+112:  Hunter CP, Kenyon C. 
+ Spatial and temporal controls target pal-1 blastomere-specification activity to
+a single blastomere lineage in C. elegans embryos.
+Cell. 1996 Oct 18;87(2):217-26.
+PMID: 8861906 [PubMed - indexed for MEDLINE]
+
+113:  Draper BW, Mello CC, Bowerman B, Hardin J, Priess JR. 
+ MEX-3 is a KH domain protein that regulates blastomere identity in early C.
+elegans embryos.
+Cell. 1996 Oct 18;87(2):205-16.
+PMID: 8861905 [PubMed - indexed for MEDLINE]
+
+114:  Kolodziej PA, Timpe LC, Mitchell KJ, Fried SR, Goodman CS, Jan LY, Jan YN.
+
+ frazzled encodes a Drosophila member of the DCC immunoglobulin subfamily and is
+required for CNS and motor axon guidance.
+Cell. 1996 Oct 18;87(2):197-204.
+PMID: 8861904 [PubMed - indexed for MEDLINE]
+
+115:  Chan SS, Zheng H, Su MW, Wilk R, Killeen MT, Hedgecock EM, Culotti JG. 
+ UNC-40, a C. elegans homolog of DCC (Deleted in Colorectal Cancer), is required
+in motile cells responding to UNC-6 netrin cues.
+Cell. 1996 Oct 18;87(2):187-95.
+PMID: 8861903 [PubMed - indexed for MEDLINE]
+
+116:  Keino-Masu K, Masu M, Hinck L, Leonardo ED, Chan SS, Culotti JG,
+Tessier-Lavigne M. 
+ Deleted in Colorectal Cancer (DCC) encodes a netrin receptor.
+Cell. 1996 Oct 18;87(2):175-85.
+PMID: 8861902 [PubMed - indexed for MEDLINE]
+
+117:  Derynck R, Gelbart WM, Harland RM, Heldin CH, Kern SE, Massague J, Melton
+DA, Mlodzik M, Padgett RW, Roberts AB, Smith J, Thomsen GH, Vogelstein B, Wang
+XF. 
+ Nomenclature: vertebrate mediators of TGFbeta family signals.
+Cell. 1996 Oct 18;87(2):173. No abstract available.
+PMID: 8861901 [PubMed - indexed for MEDLINE]
+
+118:  Alnemri ES, Livingston DJ, Nicholson DW, Salvesen G, Thornberry NA, Wong
+WW, Yuan J. 
+ Human ICE/CED-3 protease nomenclature.
+Cell. 1996 Oct 18;87(2):171. No abstract available.
+PMID: 8861900 [PubMed - indexed for MEDLINE]
+
+119:  Kinzler KW, Vogelstein B. 
+ Lessons from hereditary colorectal cancer.
+Cell. 1996 Oct 18;87(2):159-70. Review. No abstract available.
+PMID: 8861899 [PubMed - indexed for MEDLINE]
+
+120:  Block SM. 
+ Fifty ways to love your lever: myosin motors.
+Cell. 1996 Oct 18;87(2):151-7. Review. No abstract available.
+PMID: 8861898 [PubMed - indexed for MEDLINE]
+
+121:  Nakamura Y, Ito K, Isaksson LA. 
+ Emerging understanding of translation termination.
+Cell. 1996 Oct 18;87(2):147-50. Review. No abstract available.
+PMID: 8861897 [PubMed - indexed for MEDLINE]
+
+122:  Dikstein R, Zhou S, Tjian R. 
+ Human TAFII 105 is a cell type-specific TFIID subunit related to hTAFII130.
+Cell. 1996 Oct 4;87(1):137-46.
+PMID: 8858156 [PubMed - indexed for MEDLINE]
+
+123:  Malhotra A, Severinova E, Darst SA. 
+ Crystal structure of a sigma 70 subunit fragment from E. coli RNA polymerase.
+Cell. 1996 Oct 4;87(1):127-36.
+PMID: 8858155 [PubMed - indexed for MEDLINE]
+
+124:  Jain C, Belasco JG. 
+ A structural model for the HIV-1 Rev-RRE complex deduced from
+altered-specificity rev variants isolated by a rapid genetic strategy.
+Cell. 1996 Oct 4;87(1):115-25.
+PMID: 8858154 [PubMed - indexed for MEDLINE]
+
+125:  Milot E, Strouboulis J, Trimborn T, Wijgerde M, de Boer E, Langeveld A,
+Tan-Un K, Vergeer W, Yannoutsos N, Grosveld F, Fraser P. 
+ Heterochromatin effects on the frequency and duration of LCR-mediated gene
+transcription.
+Cell. 1996 Oct 4;87(1):105-14.
+PMID: 8858153 [PubMed - indexed for MEDLINE]
+
+126:  Verreault A, Kaufman PD, Kobayashi R, Stillman B. 
+ Nucleosome assembly by a complex of CAF-1 and acetylated histones H3/H4.
+Cell. 1996 Oct 4;87(1):95-104.
+PMID: 8858152 [PubMed - indexed for MEDLINE]
+
+127:  Parthun MR, Widom J, Gottschling DE. 
+ The major cytoplasmic histone acetyltransferase in yeast: links to chromatin
+replication and histone metabolism.
+Cell. 1996 Oct 4;87(1):85-94.
+PMID: 8858151 [PubMed - indexed for MEDLINE]
+
+128:  Madireddi MT, Coyne RS, Smothers JF, Mickey KM, Yao MC, Allis CD. 
+ Pdd1p, a novel chromodomain-containing protein, links heterochromatin assembly
+and DNA elimination in Tetrahymena.
+Cell. 1996 Oct 4;87(1):75-84.
+PMID: 8858150 [PubMed - indexed for MEDLINE]
+
+129:  Umar A, Buermeyer AB, Simon JA, Thomas DC, Clark AB, Liskay RM, Kunkel TA.
+
+ Requirement for PCNA in DNA mismatch repair at a step preceding DNA
+resynthesis.
+Cell. 1996 Oct 4;87(1):65-73.
+PMID: 8858149 [PubMed - indexed for MEDLINE]
+
+130:  Coleman TR, Carpenter PB, Dunphy WG. 
+ The Xenopus Cdc6 protein is essential for the initiation of a single round of
+DNA replication in cell-free extracts.
+Cell. 1996 Oct 4;87(1):53-63.
+PMID: 8858148 [PubMed - indexed for MEDLINE]
+
+131:  Ma Q, Kintner C, Anderson DJ. 
+ Identification of neurogenin, a vertebrate neuronal determination gene.
+Cell. 1996 Oct 4;87(1):43-52.
+PMID: 8858147 [PubMed - indexed for MEDLINE]
+
+132:  Bauer MF, Sirrenberg C, Neupert W, Brunner M. 
+ Role of Tim23 as voltage sensor and presequence receptor in protein import into
+mitochondria.
+Cell. 1996 Oct 4;87(1):33-41.
+PMID: 8858146 [PubMed - indexed for MEDLINE]
+
+133:  Gorlich D, Kraft R, Kostka S, Vogel F, Hartmann E, Laskey RA, Mattaj IW,
+Izaurraide E. 
+ Importin provides a link between nuclear protein import and U snRNA export.
+Cell. 1996 Oct 4;87(1):21-32.
+PMID: 8858145 [PubMed - indexed for MEDLINE]
+
+134:  Baeuerle PA, Baltimore D. 
+ NF-kappa B: ten years after.
+Cell. 1996 Oct 4;87(1):13-20. No abstract available.
+PMID: 8858144 [PubMed - indexed for MEDLINE]
+
+135:  Meyer E, Duharcourt S. 
+ Epigenetic programming of developmental genome rearrangements in ciliates.
+Cell. 1996 Oct 4;87(1):9-12. Review. No abstract available.
+PMID: 8858143 [PubMed - indexed for MEDLINE]
+
+136:  Roth SY, Allis CD. 
+ Histone acetylation and chromatin assembly: a single escort, multiple dances?
+Cell. 1996 Oct 4;87(1):5-8. Review. No abstract available.
+PMID: 8858142 [PubMed - indexed for MEDLINE]
+
+137:  Koepp DM, Silver PA. 
+ A GTPase controlling nuclear trafficking: running the right way or walking
+RANdomly?
+Cell. 1996 Oct 4;87(1):1-4. Review. No abstract available.
+PMID: 8858141 [PubMed - indexed for MEDLINE]
+
+138:  Pollard VW, Michael WM, Nakielny S, Siomi MC, Wang F, Dreyfuss G. 
+ A novel receptor-mediated nuclear protein import pathway.
+Cell. 1996 Sep 20;86(6):985-94.
+PMID: 8808633 [PubMed - indexed for MEDLINE]
+
+139:  Lemaitre B, Nicolas E, Michaut L, Reichhart JM, Hoffmann JA. 
+ The dorsoventral regulatory gene cassette spatzle/Toll/cactus controls the
+potent antifungal response in Drosophila adults.
+Cell. 1996 Sep 20;86(6):973-83.
+PMID: 8808632 [PubMed - indexed for MEDLINE]
+
+140:  Chen P, Hochstrasser M. 
+ Autocatalytic subunit processing couples active site formation in the 20S
+proteasome to completion of assembly.
+Cell. 1996 Sep 20;86(6):961-72.
+PMID: 8808631 [PubMed - indexed for MEDLINE]
+
+141:  Horsburgh BC, Kollmus H, Hauser H, Coen DM. 
+ Translational recoding induced by G-rich mRNA sequences that form unusual
+structures.
+Cell. 1996 Sep 20;86(6):949-59.
+PMID: 8808630 [PubMed - indexed for MEDLINE]
+
+142:  Adam-Klages S, Adam D, Wiegmann K, Struve S, Kolanus W, Schneider-Mergener
+J, Kronke M. 
+ FAN, a novel WD-repeat protein, couples the p55 TNF-receptor to neutral
+sphingomyelinase.
+Cell. 1996 Sep 20;86(6):937-47.
+PMID: 8808629 [PubMed - indexed for MEDLINE]
+
+143:  Sekler I, Kobayashi S, Kopito RR. 
+ A cluster of cytoplasmic histidine residues specifies pH dependence of the AE2
+plasma membrane anion exchanger.
+Cell. 1996 Sep 20;86(6):929-35. Retracted publication.
+PMID: 8808628 [PubMed - indexed for MEDLINE]
+
+144:  Peters LL, Shivdasani RA, Liu SC, Hanspal M, John KM, Gonzalez JM,
+Brugnara C, Gwynn B, Mohandas N, Alper SL, Orkin SH, Lux SE. 
+ Anion exchanger 1 (band 3) is required to prevent erythrocyte membrane surface
+loss but not to form the membrane skeleton.
+Cell. 1996 Sep 20;86(6):917-27.
+PMID: 8808627 [PubMed - indexed for MEDLINE]
+
+145:  Cumano A, Dieterlen-Lievre F, Godin I. 
+ Lymphoid potential, probed before circulation in mouse, is restricted to caudal
+intraembryonic splanchnopleura.
+Cell. 1996 Sep 20;86(6):907-16.
+PMID: 8808626 [PubMed - indexed for MEDLINE]
+
+146:  Medvinsky A, Dzierzak E. 
+ Definitive hematopoiesis is autonomously initiated by the AGM region.
+Cell. 1996 Sep 20;86(6):897-906.
+PMID: 8808625 [PubMed - indexed for MEDLINE]
+
+147:  Gaillard PH, Martini EM, Kaufman PD, Stillman B, Moustacchi E, Almouzni G.
+
+ Chromatin assembly coupled to DNA repair: a new role for chromatin assembly
+factor I.
+Cell. 1996 Sep 20;86(6):887-96.
+PMID: 8808624 [PubMed - indexed for MEDLINE]
+
+148:  Yuzhakov A, Turner J, O'Donnell M. 
+ Replisome assembly reveals the basis for asymmetric function in leading and
+lagging strand replication.
+Cell. 1996 Sep 20;86(6):877-86.
+PMID: 8808623 [PubMed - indexed for MEDLINE]
+
+149:  Posas F, Wurgler-Murphy SM, Maeda T, Witten EA, Thai TC, Saito H. 
+ Yeast HOG1 MAP kinase cascade is regulated by a multistep phosphorelay
+mechanism in the SLN1-YPD1-SSK1 "two-component" osmosensor.
+Cell. 1996 Sep 20;86(6):865-75.
+PMID: 8808622 [PubMed - indexed for MEDLINE]
+
+150:  Colot V, Maloisel L, Rossignol JL. 
+ Interchromosomal transfer of epigenetic states in Ascobolus: transfer of DNA
+methylation is mechanistically related to homologous recombination.
+Cell. 1996 Sep 20;86(6):855-64.
+PMID: 8808621 [PubMed - indexed for MEDLINE]
+
+151:  Jay DG. 
+ Role of band 3 in homeostasis and cell shape.
+Cell. 1996 Sep 20;86(6):853-4. Review. No abstract available.
+PMID: 8808620 [PubMed - indexed for MEDLINE]
+
+152:  Zheng N, Gierasch LM. 
+ Signal sequences: the same yet different.
+Cell. 1996 Sep 20;86(6):849-52. Review. No abstract available.
+PMID: 8808619 [PubMed - indexed for MEDLINE]
+
+153:  Appleby JL, Parkinson JS, Bourret RB. 
+ Signal transduction via the multi-step phosphorelay: not necessarily a road
+less traveled.
+Cell. 1996 Sep 20;86(6):845-8. Review. No abstract available.
+PMID: 8808618 [PubMed - indexed for MEDLINE]
+
+154:  Chen P, Tsuge H, Almassy RJ, Gribskov CL, Katoh S, Vanderpool DL,
+Margosiak SA, Pinko C, Matthews DA, Kan CC. 
+ Structure of the human cytomegalovirus protease catalytic domain reveals a
+novel serine protease fold and catalytic triad.
+Cell. 1996 Sep 6;86(5):835-43.
+PMID: 8797829 [PubMed - indexed for MEDLINE]
+
+155:  Balakin AG, Smith L, Fournier MJ. 
+ The RNA world of the nucleolus: two major families of small RNAs defined by
+different box elements with related functions.
+Cell. 1996 Sep 6;86(5):823-34.
+PMID: 8797828 [PubMed - indexed for MEDLINE]
+
+156:  Sijbers AM, de Laat WL, Ariza RR, Biggerstaff M, Wei YF, Moggs JG, Carter
+KC, Shell BK, Evans E, de Jong MC, Rademakers S, de Rooij J, Jaspers NG,
+Hoeijmakers JH, Wood RD. 
+ Xeroderma pigmentosum group F caused by a defect in a structure-specific DNA
+repair endonuclease.
+Cell. 1996 Sep 6;86(5):811-22.
+PMID: 8797827 [PubMed - indexed for MEDLINE]
+
+157:  Roest HP, van Klaveren J, de Wit J, van Gurp CG, Koken MH, Vermey M, van
+Roijen JH, Hoogerbrugge JW, Vreeburg JT, Baarends WM, Bootsma D, Grootegoed JA,
+Hoeijmakers JH. 
+ Inactivation of the HR6B ubiquitin-conjugating DNA repair enzyme in mice causes
+male sterility associated with chromatin modification.
+Cell. 1996 Sep 6;86(5):799-810.
+PMID: 8797826 [PubMed - indexed for MEDLINE]
+
+158:  Imbert V, Rupec RA, Livolsi A, Pahl HL, Traenckner EB, Mueller-Dieckmann
+C, Farahifar D, Rossi B, Auberger P, Baeuerle PA, Peyron JF. 
+ Tyrosine phosphorylation of I kappa B-alpha activates NF-kappa B without
+proteolytic degradation of I kappa B-alpha.
+Cell. 1996 Sep 6;86(5):787-98.
+PMID: 8797825 [PubMed - indexed for MEDLINE]
+
+159:  Diaz-Meco MT, Municio MM, Frutos S, Sanchez P, Lozano J, Sanz L, Moscat J.
+
+ The product of par-4, a gene induced during apoptosis, interacts selectively
+with the atypical isoforms of protein kinase C.
+Cell. 1996 Sep 6;86(5):777-86.
+PMID: 8797824 [PubMed - indexed for MEDLINE]
+
+160:  Kohda D, Morton CJ, Parkar AA, Hatanaka H, Inagaki FM, Campbell ID, Day
+AJ. 
+ Solution structure of the link module: a hyaluronan-binding domain involved in
+extracellular matrix stability and cell migration.
+Cell. 1996 Sep 6;86(5):767-75.
+PMID: 8797823 [PubMed - indexed for MEDLINE]
+
+161:  Nakamoto M, Cheng HJ, Friedman GC, McLaughlin T, Hansen MJ, Yoon CH,
+O'Leary DD, Flanagan JG. 
+ Topographically specific effects of ELF-1 on retinal axon guidance in vitro and
+retinal axon mapping in vivo.
+Cell. 1996 Sep 6;86(5):755-66.
+PMID: 8797822 [PubMed - indexed for MEDLINE]
+
+162:  Reilly KM, Melton DA. 
+ Short-range signaling by candidate morphogens of the TGF beta family and
+evidence for a relay mechanism of induction.
+Cell. 1996 Sep 6;86(5):743-54.
+PMID: 8797821 [PubMed - indexed for MEDLINE]
+
+163:  Chen CM, Kraut N, Groudine M, Weintraub H. 
+ I-mf, a novel myogenic repressor, interacts with members of the MyoD family.
+Cell. 1996 Sep 6;86(5):731-41.
+PMID: 8797820 [PubMed - indexed for MEDLINE]
+
+164:  Hausladen A, Privalle CT, Keng T, DeAngelo J, Stamler JS. 
+ Nitrosative stress: activation of the transcription factor OxyR.
+Cell. 1996 Sep 6;86(5):719-29.
+PMID: 8797819 [PubMed - indexed for MEDLINE]
+
+165:  Weiss A, Keshet I, Razin A, Cedar H. 
+ DNA demethylation in vitro: involvement of RNA.
+Cell. 1996 Sep 6;86(5):709-18.
+PMID: 8797818 [PubMed - indexed for MEDLINE]
+
+166:  Reinbothe S, Reinbothe C, Apel K, Lebedev N. 
+ Evolution of chlorophyll biosynthesis--the challenge to survive photooxidation.
+Cell. 1996 Sep 6;86(5):703-5. Review. No abstract available.
+PMID: 8797817 [PubMed - indexed for MEDLINE]
+
+167:  Wetzel R. 
+ For protein misassembly, it's the "I" decade.
+Cell. 1996 Sep 6;86(5):699-702. Review. No abstract available.
+PMID: 8797816 [PubMed - indexed for MEDLINE]
+
+168:  Doe CQ. 
+ Spindle orientation and asymmetric localization in Drosophila: both
+inscuteable?
+Cell. 1996 Sep 6;86(5):695-7. Review. No abstract available.
+PMID: 8797815 [PubMed - indexed for MEDLINE]
+
+169:  Goff SP. 
+ Operating under a Gag order: a block against incoming virus by the Fv1 gene.
+Cell. 1996 Sep 6;86(5):691-3. Review. No abstract available.
+PMID: 8797814 [PubMed - indexed for MEDLINE]
+
+170:  O'Keefe RT, Norman C, Newman AJ. 
+ The invariant U5 snRNA loop 1 sequence is dispensable for the first catalytic
+step of pre-mRNA splicing in yeast.
+Cell. 1996 Aug 23;86(4):679-89.
+PMID: 8752221 [PubMed - indexed for MEDLINE]
+
+171:  Moazed D, Johnson D. 
+ A deubiquitinating enzyme interacts with SIR4 and regulates silencing in S.
+cerevisiae.
+Cell. 1996 Aug 23;86(4):667-77.
+PMID: 8752220 [PubMed - indexed for MEDLINE]
+
+172:  Yang Y, Dowling J, Yu QC, Kouklis P, Cleveland DW, Fuchs E. 
+ An essential cytoskeletal linker protein connecting actin microfilaments to
+intermediate filaments.
+Cell. 1996 Aug 23;86(4):655-65.
+PMID: 8752219 [PubMed - indexed for MEDLINE]
+
+173:  Maly P, Thall A, Petryniak B, Rogers CE, Smith PL, Marks RM, Kelly RJ,
+Gersten KM, Cheng G, Saunders TL, Camper SA, Camphausen RT, Sullivan FX, Isogai
+Y, Hindsgaul O, von Andrian UH, Lowe JB. 
+ The alpha(1,3)fucosyltransferase Fuc-TVII controls leukocyte trafficking
+through an essential role in L-, E-, and P-selectin ligand biosynthesis.
+Cell. 1996 Aug 23;86(4):643-53.
+PMID: 8752218 [PubMed - indexed for MEDLINE]
+
+174:  Faix J, Steinmetz M, Boves H, Kammerer RA, Lottspeich F, Mintert U, Murphy
+J, Stock A, Aebi U, Gerisch G. 
+ Cortexillins, major determinants of cell shape and size, are actin-bundling
+proteins with a parallel coiled-coil tail.
+Cell. 1996 Aug 23;86(4):631-42.
+PMID: 8752217 [PubMed - indexed for MEDLINE]
+
+175:  Zwaal RR, Ahringer J, van Luenen HG, Rushforth A, Anderson P, Plasterk RH.
+
+ G proteins are required for spatial orientation of early cell cleavages in C.
+elegans embryos.
+Cell. 1996 Aug 23;86(4):619-29.
+PMID: 8752216 [PubMed - indexed for MEDLINE]
+
+176:  Holley SA, Neul JL, Attisano L, Wrana JL, Sasai Y, O'Connor MB, De
+Robertis EM, Ferguson EL. 
+ The Xenopus dorsalizing factor noggin ventralizes Drosophila embryos by
+preventing DPP from activating its receptor.
+Cell. 1996 Aug 23;86(4):607-17.
+PMID: 8752215 [PubMed - indexed for MEDLINE]
+
+177:  Zimmerman LB, De Jesus-Escobar JM, Harland RM. 
+ The Spemann organizer signal noggin binds and inactivates bone morphogenetic
+protein 4.
+Cell. 1996 Aug 23;86(4):599-606.
+PMID: 8752214 [PubMed - indexed for MEDLINE]
+
+178:  Piccolo S, Sasai Y, Lu B, De Robertis EM. 
+ Dorsoventral patterning in Xenopus: inhibition of ventral signals by direct
+binding of chordin to BMP-4.
+Cell. 1996 Aug 23;86(4):589-98.
+PMID: 8752213 [PubMed - indexed for MEDLINE]
+
+179:  Mohammadi M, Schlessinger J, Hubbard SR. 
+ Structure of the FGF receptor tyrosine kinase domain reveals a novel
+autoinhibitory mechanism.
+Cell. 1996 Aug 23;86(4):577-87.
+PMID: 8752212 [PubMed - indexed for MEDLINE]
+
+180:  Thuret JY, Valay JG, Faye G, Mann C. 
+ Civ1 (CAK in vivo), a novel Cdk-activating kinase.
+Cell. 1996 Aug 23;86(4):565-76.
+PMID: 8752211 [PubMed - indexed for MEDLINE]
+
+181:  Kaldis P, Sutton A, Solomon MJ. 
+ The Cdk-activating kinase (CAK) from budding yeast.
+Cell. 1996 Aug 23;86(4):553-64.
+PMID: 8752210 [PubMed - indexed for MEDLINE]
+
+182:  Eppert K, Scherer SW, Ozcelik H, Pirone R, Hoodless P, Kim H, Tsui LC,
+Bapat B, Gallinger S, Andrulis IL, Thomsen GH, Wrana JL, Attisano L. 
+ MADR2 maps to 18q21 and encodes a TGFbeta-regulated MAD-related protein that is
+functionally mutated in colorectal carcinoma.
+Cell. 1996 Aug 23;86(4):543-52.
+PMID: 8752209 [PubMed - indexed for MEDLINE]
+
+183:  Cui W, Fowlis DJ, Bryson S, Duffie E, Ireland H, Balmain A, Akhurst RJ. 
+ TGFbeta1 inhibits the formation of benign skin tumors, but enhances progression
+to invasive spindle carcinomas in transgenic mice.
+Cell. 1996 Aug 23;86(4):531-42.
+PMID: 8752208 [PubMed - indexed for MEDLINE]
+
+184:  Miklos GL, Rubin GM. 
+ The role of the genome project in determining gene function: insights from
+model organisms.
+Cell. 1996 Aug 23;86(4):521-9. Review. No abstract available.
+PMID: 8752207 [PubMed - indexed for MEDLINE]
+
+185:  Brown EJ, Schreiber SL. 
+ A signaling pathway to translational control.
+Cell. 1996 Aug 23;86(4):517-20. Review. No abstract available.
+PMID: 8752206 [PubMed - indexed for MEDLINE]
+
+186:  Perrimon N. 
+ Serpentine proteins slither into the wingless and hedgehog fields.
+Cell. 1996 Aug 23;86(4):513-6. Review. No abstract available.
+PMID: 8752205 [PubMed - indexed for MEDLINE]
+
+187:  Li Z, Deutscher MP. 
+ Maturation pathways for E. coli tRNA precursors: a random multienzyme process
+in vivo.
+Cell. 1996 Aug 9;86(3):503-12.
+PMID: 8756732 [PubMed - indexed for MEDLINE]
+
+188:  Roberts CW, Roberts JW. 
+ Base-specific recognition of the nontemplate strand of promoter DNA by E. coli
+RNA polymerase.
+Cell. 1996 Aug 9;86(3):495-501.
+PMID: 8756731 [PubMed - indexed for MEDLINE]
+
+189:  Ring BZ, Yarnell WS, Roberts JW. 
+ Function of E. coli RNA polymerase sigma factor sigma 70 in promoter-proximal
+pausing.
+Cell. 1996 Aug 9;86(3):485-93.
+PMID: 8756730 [PubMed - indexed for MEDLINE]
+
+190:  Shen X, Gorovsky MA. 
+ Linker histone H1 regulates specific gene expression but not global
+transcription in vivo.
+Cell. 1996 Aug 9;86(3):475-83.
+PMID: 8756729 [PubMed - indexed for MEDLINE]
+
+191:  Nakajima T, Fukamizu A, Takahashi J, Gage FH, Fisher T, Blenis J, Montminy
+MR. 
+ The signal-dependent coactivator CBP is a nuclear target for pp90RSK.
+Cell. 1996 Aug 9;86(3):465-74.
+PMID: 8756728 [PubMed - indexed for MEDLINE]
+
+192:  Willems AR, Lanker S, Patton EE, Craig KL, Nason TF, Mathias N, Kobayashi
+R, Wittenberg C, Tyers M. 
+ Cdc53 targets phosphorylated G1 cyclins for degradation by the ubiquitin
+proteolytic pathway.
+Cell. 1996 Aug 9;86(3):453-63.
+PMID: 8756727 [PubMed - indexed for MEDLINE]
+
+193:  Berman DM, Wilkie TM, Gilman AG. 
+ GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein
+alpha subunits.
+Cell. 1996 Aug 9;86(3):445-52.
+PMID: 8756726 [PubMed - indexed for MEDLINE]
+
+194:  Wang T, Li BY, Danielson PD, Shah PC, Rockwell S, Lechleider RJ, Martin J,
+Manganaro T, Donahoe PK. 
+ The immunophilin FKBP12 functions as a common inhibitor of the TGF beta family
+type I receptors.
+Cell. 1996 Aug 9;86(3):435-44.
+PMID: 8756725 [PubMed - indexed for MEDLINE]
+
+195:  Di Laurenzio L, Wysocka-Diller J, Malamy JE, Pysh L, Helariutta Y,
+Freshour G, Hahn MG, Feldmann KA, Benfey PN. 
+ The SCARECROW gene regulates an asymmetric cell division that is essential for
+generating the radial organization of the Arabidopsis root.
+Cell. 1996 Aug 9;86(3):423-33.
+PMID: 8756724 [PubMed - indexed for MEDLINE]
+
+196:  Huang Z, Kunes S. 
+ Hedgehog, transmitted along retinal axons, triggers neurogenesis in the
+developing visual centers of the Drosophila brain.
+Cell. 1996 Aug 9;86(3):411-22.
+PMID: 8756723 [PubMed - indexed for MEDLINE]
+
+197:  Jiang J, Struhl G. 
+ Complementary and mutually exclusive activities of decapentaplegic and wingless
+organize axial patterning during Drosophila leg development.
+Cell. 1996 Aug 9;86(3):401-9.
+PMID: 8756722 [PubMed - indexed for MEDLINE]
+
+198:  Molenaar M, van de Wetering M, Oosterwegel M, Peterson-Maduro J, Godsave
+S, Korinek V, Roose J, Destree O, Clevers H. 
+ XTcf-3 transcription factor mediates beta-catenin-induced axis formation in
+Xenopus embryos.
+Cell. 1996 Aug 9;86(3):391-9.
+PMID: 8756721 [PubMed - indexed for MEDLINE]
+
+199:  Zhu C, Bogue MA, Lim DS, Hasty P, Roth DB. 
+ Ku86-deficient mice exhibit severe combined immunodeficiency and defective
+processing of V(D)J recombination intermediates.
+Cell. 1996 Aug 9;86(3):379-89.
+PMID: 8756720 [PubMed - indexed for MEDLINE]
+
+200:  Liu R, Paxton WA, Choe S, Ceradini D, Martin SR, Horuk R, MacDonald ME,
+Stuhlmann H, Koup RA, Landau NR. 
+ Homozygous defect in HIV-1 coreceptor accounts for resistance of some
+multiply-exposed individuals to HIV-1 infection.
+Cell. 1996 Aug 9;86(3):367-77.
+PMID: 8756719 [PubMed - indexed for MEDLINE]
+
+201:  Hanahan D, Folkman J. 
+ Patterns and emerging mechanisms of the angiogenic switch during tumorigenesis.
+Cell. 1996 Aug 9;86(3):353-64. Review. No abstract available.
+PMID: 8756718 [PubMed - indexed for MEDLINE]
+
+202:  Ball S, Guan HP, James M, Myers A, Keeling P, Mouille G, Buleon A, Colonna
+P, Preiss J. 
+ From glycogen to amylopectin: a model for the biogenesis of the plant starch
+granule.
+Cell. 1996 Aug 9;86(3):349-52. Review. No abstract available.
+PMID: 8756717 [PubMed - indexed for MEDLINE]
+
+203:  Neutra MR, Frey A, Kraehenbuhl JP. 
+ Epithelial M cells: gateways for mucosal infection and immunization.
+Cell. 1996 Aug 9;86(3):345-8. Review. No abstract available.
+PMID: 8756716 [PubMed - indexed for MEDLINE]
+
+204:  Harrison SC. 
+ Peptide-surface association: the case of PDZ and PTB domains.
+Cell. 1996 Aug 9;86(3):341-3. Review. No abstract available.
+PMID: 8756715 [PubMed - indexed for MEDLINE]
+
+205:  Perez-Martin J, de Lorenzo V. 
+ ATP binding to the sigma 54-dependent activator XylR triggers a protein
+multimerization cycle catalyzed by UAS DNA.
+Cell. 1996 Jul 26;86(2):331-9.
+PMID: 8706137 [PubMed - indexed for MEDLINE]
+
+206:  Labahn J, Scharer OD, Long A, Ezaz-Nikpay K, Verdine GL, Ellenberger TE. 
+ Structural basis for the excision repair of alkylation-damaged DNA.
+Cell. 1996 Jul 26;86(2):321-9.
+PMID: 8706136 [PubMed - indexed for MEDLINE]
+
+207:  Yamagata Y, Kato M, Odawara K, Tokuno Y, Nakashima Y, Matsushima N,
+Yasumura K, Tomita K, Ihara K, Fujii Y, Nakabeppu Y, Sekiguchi M, Fujii S. 
+ Three-dimensional structure of a DNA repair enzyme, 3-methyladenine DNA
+glycosylase II, from Escherichia coli.
+Cell. 1996 Jul 26;86(2):311-9.
+PMID: 8706135 [PubMed - indexed for MEDLINE]
+
+208:  Brown JR, Ye H, Bronson RT, Dikkes P, Greenberg ME. 
+ A defect in nurturing in mice lacking the immediate early gene fosB.
+Cell. 1996 Jul 26;86(2):297-309.
+PMID: 8706134 [PubMed - indexed for MEDLINE]
+
+209:  Tian G, Huang Y, Rommelaere H, Vandekerckhove J, Ampe C, Cowan NJ. 
+ Pathway leading to correctly folded beta-tubulin.
+Cell. 1996 Jul 26;86(2):287-96.
+PMID: 8706133 [PubMed - indexed for MEDLINE]
+
+210:  Connelly C, Hieter P. 
+ Budding yeast SKP1 encodes an evolutionarily conserved kinetochore protein
+required for cell cycle progression.
+Cell. 1996 Jul 26;86(2):275-85.
+PMID: 8706132 [PubMed - indexed for MEDLINE]
+
+211:  Bai C, Sen P, Hofmann K, Ma L, Goebl M, Harper JW, Elledge SJ. 
+ SKP1 connects cell cycle regulators to the ubiquitin proteolysis machinery
+through a novel motif, the F-box.
+Cell. 1996 Jul 26;86(2):263-74.
+PMID: 8706131 [PubMed - indexed for MEDLINE]
+
+212:  Dick TP, Ruppert T, Groettrup M, Kloetzel PM, Kuehn L, Koszinowski UH,
+Stevanovic S, Schild H, Rammensee HG. 
+ Coordinated dual cleavages induced by the proteasome regulator PA28 lead to
+dominant MHC ligands.
+Cell. 1996 Jul 26;86(2):253-62.
+PMID: 8706130 [PubMed - indexed for MEDLINE]
+
+213:  Crompton T, Gilmour KC, Owen MJ. 
+ The MAP kinase pathway controls differentiation from double-negative to
+double-positive thymocyte.
+Cell. 1996 Jul 26;86(2):243-51.
+PMID: 8706129 [PubMed - indexed for MEDLINE]
+
+214:  Kolanus W, Nagel W, Schiller B, Zeitlmann L, Godar S, Stockinger H, Seed
+B. 
+ Alpha L beta 2 integrin/LFA-1 binding to ICAM-1 induced by cytohesin-1, a
+cytoplasmic regulatory molecule.
+Cell. 1996 Jul 26;86(2):233-42.
+PMID: 8706128 [PubMed - indexed for MEDLINE]
+
+215:  Alcedo J, Ayzenzon M, Von Ohlen T, Noll M, Hooper JE. 
+ The Drosophila smoothened gene encodes a seven-pass membrane protein, a
+putative receptor for the hedgehog signal.
+Cell. 1996 Jul 26;86(2):221-32.
+PMID: 8706127 [PubMed - indexed for MEDLINE]
+
+216:  Coetzee T, Fujita N, Dupree J, Shi R, Blight A, Suzuki K, Suzuki K, Popko
+B. 
+ Myelination in the absence of galactocerebroside and sulfatide: normal
+structure with abnormal function and regional instability.
+Cell. 1996 Jul 26;86(2):209-19.
+PMID: 8706126 [PubMed - indexed for MEDLINE]
+
+217:  Shaham S, Horvitz HR. 
+ An alternatively spliced C. elegans ced-4 RNA encodes a novel cell death
+inhibitor.
+Cell. 1996 Jul 26;86(2):201-8.
+PMID: 8706125 [PubMed - indexed for MEDLINE]
+
+218:  Santana P, Pena LA, Haimovitz-Friedman A, Martin S, Green D, McLoughlin M,
+Cordon-Cardo C, Schuchman EH, Fuks Z, Kolesnick R. 
+ Acid sphingomyelinase-deficient human lymphoblasts and mice are defective in
+radiation-induced apoptosis.
+Cell. 1996 Jul 26;86(2):189-99.
+PMID: 8706124 [PubMed - indexed for MEDLINE]
+
+219:  Rother RP, Squinto SP. 
+ The alpha-galactosyl epitope: a sugar coating that makes viruses and cells
+unpalatable.
+Cell. 1996 Jul 26;86(2):185-8. Review. No abstract available.
+PMID: 8706123 [PubMed - indexed for MEDLINE]
+
+220:  Zambrano MM, Kolter R. 
+ GASPing for life in stationary phase.
+Cell. 1996 Jul 26;86(2):181-4. Review. No abstract available.
+PMID: 8706122 [PubMed - indexed for MEDLINE]
+
+221:  West SC. 
+ DNA helicases: new breeds of translocating motors and molecular pumps.
+Cell. 1996 Jul 26;86(2):177-80. Review. No abstract available.
+PMID: 8706121 [PubMed - indexed for MEDLINE]
+
+222:  Raff MC. 
+ Size control: the regulation of cell numbers in animal development.
+Cell. 1996 Jul 26;86(2):173-5. Review. No abstract available.
+PMID: 8706120 [PubMed - indexed for MEDLINE]
+
+223:  Grewal SI, Klar AJ. 
+ Chromosomal inheritance of epigenetic states in fission yeast during mitosis
+and meiosis.
+Cell. 1996 Jul 12;86(1):95-101.
+PMID: 8689692 [PubMed - indexed for MEDLINE]
+
+224:  Guarente L. 
+ Do changes in chromosomes cause aging?
+Cell. 1996 Jul 12;86(1):9-12. Review. No abstract available.
+PMID: 8689691 [PubMed - indexed for MEDLINE]
+
+225:  Lee JT, Strauss WM, Dausman JA, Jaenisch R. 
+ A 450 kb transgene displays properties of the mammalian X-inactivation center.
+Cell. 1996 Jul 12;86(1):83-94.
+PMID: 8689690 [PubMed - indexed for MEDLINE]
+
+226:  Schedl A, Ross A, Lee M, Engelkamp D, Rashbass P, van Heyningen V, Hastie
+ND. 
+ Influence of PAX6 gene dosage on development: overexpression causes severe eye
+abnormalities.
+Cell. 1996 Jul 12;86(1):71-82.
+PMID: 8689689 [PubMed - indexed for MEDLINE]
+
+227:  Frangiskakis JM, Ewart AK, Morris CA, Mervis CB, Bertrand J, Robinson BF,
+Klein BP, Ensing GJ, Everett LA, Green ED, Proschel C, Gutowski NJ, Noble M,
+Atkinson DL, Odelberg SJ, Keating MT. 
+ LIM-kinase1 hemizygosity implicated in impaired visuospatial constructive
+cognition.
+Cell. 1996 Jul 12;86(1):59-69.
+PMID: 8689688 [PubMed - indexed for MEDLINE]
+
+228:  Willard HF. 
+ X chromosome inactivation, XIST, and pursuit of the X-inactivation center.
+Cell. 1996 Jul 12;86(1):5-7. Review. No abstract available.
+PMID: 8689687 [PubMed - indexed for MEDLINE]
+
+229:  Porcher C, Swat W, Rockwell K, Fujiwara Y, Alt FW, Orkin SH. 
+ The T cell leukemia oncoprotein SCL/tal-1 is essential for development of all
+hematopoietic lineages.
+Cell. 1996 Jul 12;86(1):47-57.
+PMID: 8689686 [PubMed - indexed for MEDLINE]
+
+230:  Henkemeyer M, Orioli D, Henderson JT, Saxton TM, Roder J, Pawson T, Klein
+R. 
+ Nuk controls pathfinding of commissural axons in the mammalian central nervous
+system.
+Cell. 1996 Jul 12;86(1):35-46.
+PMID: 8689685 [PubMed - indexed for MEDLINE]
+
+231:  Porter JA, Ekker SC, Park WJ, von Kessler DP, Young KE, Chen CH, Ma Y,
+Woods AS, Cotter RJ, Koonin EV, Beachy PA. 
+ Hedgehog patterning activity: role of a lipophilic modification mediated by the
+carboxy-terminal autoprocessing domain.
+Cell. 1996 Jul 12;86(1):21-34.
+PMID: 8689684 [PubMed - indexed for MEDLINE]
+
+232:  Barlow C, Hirotsune S, Paylor R, Liyanage M, Eckhaus M, Collins F, Shiloh
+Y, Crawley JN, Ried T, Tagle D, Wynshaw-Boris A. 
+ Atm-deficient mice: a paradigm of ataxia telangiectasia.
+Cell. 1996 Jul 12;86(1):159-71.
+PMID: 8689683 [PubMed - indexed for MEDLINE]
+
+233:  Liu X, Kim CN, Yang J, Jemmerson R, Wang X. 
+ Induction of apoptotic program in cell-free extracts: requirement for dATP and
+cytochrome c.
+Cell. 1996 Jul 12;86(1):147-57.
+PMID: 8689682 [PubMed - indexed for MEDLINE]
+
+234:  Dernburg AF, Sedat JW, Hawley RS. 
+ Direct evidence of a role for heterochromatin in meiotic chromosome
+segregation.
+Cell. 1996 Jul 12;86(1):135-46.
+PMID: 8689681 [PubMed - indexed for MEDLINE]
+
+235:  Felsenfeld G. 
+ Chromatin unfolds.
+Cell. 1996 Jul 12;86(1):13-9. Review. No abstract available.
+PMID: 8689680 [PubMed - indexed for MEDLINE]
+
+236:  Salmeron JM, Oldroyd GE, Rommens CM, Scofield SR, Kim HS, Lavelle DT,
+Dahlbeck D, Staskawicz BJ. 
+ Tomato Prf is a member of the leucine-rich repeat class of plant disease
+resistance genes and lies embedded within the Pto kinase gene cluster.
+Cell. 1996 Jul 12;86(1):123-33.
+PMID: 8689679 [PubMed - indexed for MEDLINE]
+
+237:  Chamovitz DA, Wei N, Osterlund MT, von Arnim AG, Staub JM, Matsui M, Deng
+XW. 
+ The COP9 complex, a novel multisubunit nuclear regulator involved in light
+control of a plant developmental switch.
+Cell. 1996 Jul 12;86(1):115-21.
+PMID: 8689678 [PubMed - indexed for MEDLINE]
+
+238:  Aramayo R, Metzenberg RL. 
+ Meiotic transvection in fungi.
+Cell. 1996 Jul 12;86(1):103-13.
+PMID: 8689677 [PubMed - indexed for MEDLINE]
+
+239:  Bates P. 
+ Chemokine receptors and HIV-1: an attractive pair?
+Cell. 1996 Jul 12;86(1):1-3. Review. No abstract available.
+PMID: 8689676 [PubMed - indexed for MEDLINE]
+
+240:  Arroyo AG, Yang JT, Rayburn H, Hynes RO. 
+ Differential requirements for alpha4 integrins during fetal and adult
+hematopoiesis.
+Cell. 1996 Jun 28;85(7):997-1008.
+PMID: 8674127 [PubMed - indexed for MEDLINE]
+
+241:  Lin S, Cicala C, Scharenberg AM, Kinet JP. 
+ The Fc(epsilon)RIbeta subunit functions as an amplifier of
+Fc(epsilon)RIgamma-mediated cell activation signals.
+Cell. 1996 Jun 28;85(7):985-95.
+PMID: 8674126 [PubMed - indexed for MEDLINE]
+
+242:  Ho IC, Hodge MR, Rooney JW, Glimcher LH. 
+ The proto-oncogene c-maf is responsible for tissue-specific expression of
+interleukin-4.
+Cell. 1996 Jun 28;85(7):973-83.
+PMID: 8674125 [PubMed - indexed for MEDLINE]
+
+243:  Dreyfuss G, Hentze M, Lamond AI. 
+ From transcript to protein.
+Cell. 1996 Jun 28;85(7):963-72. Review. No abstract available.
+PMID: 8674124 [PubMed - indexed for MEDLINE]
+
+244:  Lawrence PA, Struhl G. 
+ Morphogens, compartments, and pattern: lessons from drosophila?
+Cell. 1996 Jun 28;85(7):951-61. Review. No abstract available.
+PMID: 8674123 [PubMed - indexed for MEDLINE]
+
+245:  Massague J. 
+ TGFbeta signaling: receptors, transducers, and Mad proteins.
+Cell. 1996 Jun 28;85(7):947-50. Review. No abstract available.
+PMID: 8674122 [PubMed - indexed for MEDLINE]
+
+246:  Walczak CE, Mitchison TJ. 
+ Kinesin-related proteins at mitotic spindle poles: function and regulation.
+Cell. 1996 Jun 28;85(7):943-6. Review. No abstract available.
+PMID: 8674121 [PubMed - indexed for MEDLINE]
+
+247:  Doranz BJ, Rucker J, Yi Y, Smyth RJ, Samson M, Peiper SC, Parmentier M,
+Collman RG, Doms RW. 
+ A dual-tropic primary HIV-1 isolate that uses fusin and the beta-chemokine
+receptors CKR-5, CKR-3, and CKR-2b as fusion cofactors.
+Cell. 1996 Jun 28;85(7):1149-58.
+PMID: 8674120 [PubMed - indexed for MEDLINE]
+
+248:  Choe H, Farzan M, Sun Y, Sullivan N, Rollins B, Ponath PD, Wu L, Mackay
+CR, LaRosa G, Newman W, Gerard N, Gerard C, Sodroski J. 
+ The beta-chemokine receptors CCR3 and CCR5 facilitate infection by primary
+HIV-1 isolates.
+Cell. 1996 Jun 28;85(7):1135-48.
+PMID: 8674119 [PubMed - indexed for MEDLINE]
+
+249:  Edelmann W, Cohen PE, Kane M, Lau K, Morrow B, Bennett S, Umar A, Kunkel
+T, Cattoretti G, Chaganti R, Pollard JW, Kolodner RD, Kucherlapati R. 
+ Meiotic pachytene arrest in MLH1-deficient mice.
+Cell. 1996 Jun 28;85(7):1125-34.
+PMID: 8674118 [PubMed - indexed for MEDLINE]
+
+250:  Jing S, Wen D, Yu Y, Holst PL, Luo Y, Fang M, Tamir R, Antonio L, Hu Z,
+Cupples R, Louis JC, Hu S, Altrock BW, Fox GM. 
+ GDNF-induced activation of the ret protein tyrosine kinase is mediated by
+GDNFR-alpha, a novel receptor for GDNF.
+Cell. 1996 Jun 28;85(7):1113-24.
+PMID: 8674117 [PubMed - indexed for MEDLINE]
+
+251:  Mueser TC, Nossal NG, Hyde CC. 
+ Structure of bacteriophage T4 RNase H, a 5' to 3' RNA-DNA and DNA-DNA
+exonuclease with sequence similarity to the RAD2 family of eukaryotic proteins.
+Cell. 1996 Jun 28;85(7):1101-12.
+PMID: 8674116 [PubMed - indexed for MEDLINE]
+
+252:  Mummenbrauer T, Janus F, Muller B, Wiesmuller L, Deppert W, Grosse F. 
+ p53 Protein exhibits 3'-to-5' exonuclease activity.
+Cell. 1996 Jun 28;85(7):1089-99.
+PMID: 8674115 [PubMed - indexed for MEDLINE]
+
+253:  Kiss-Laszlo Z, Henry Y, Bachellerie JP, Caizergues-Ferrer M, Kiss T. 
+ Site-specific ribose methylation of preribosomal RNA: a novel function for
+small nucleolar RNAs.
+Cell. 1996 Jun 28;85(7):1077-88.
+PMID: 8674114 [PubMed - indexed for MEDLINE]
+
+254:  Doyle DA, Lee A, Lewis J, Kim E, Sheng M, MacKinnon R. 
+ Crystal structures of a complexed and peptide-free membrane protein-binding
+domain: molecular basis of peptide recognition by PDZ.
+Cell. 1996 Jun 28;85(7):1067-76.
+PMID: 8674113 [PubMed - indexed for MEDLINE]
+
+255:  Billeter M, Guntert P, Luginbuhl P, Wuthrich K. 
+ Hydration and DNA recognition by homeodomains.
+Cell. 1996 Jun 28;85(7):1057-65.
+PMID: 8674112 [PubMed - indexed for MEDLINE]
+
+256:  Hatanaka H, Ogura K, Moriyama K, Ichikawa S, Yahara I, Inagaki F. 
+ Tertiary structure of destrin and structural similarity between two
+actin-regulating protein families.
+Cell. 1996 Jun 28;85(7):1047-55.
+PMID: 8674111 [PubMed - indexed for MEDLINE]
+
+257:  Sakai J, Duncan EA, Rawson RB, Hua X, Brown MS, Goldstein JL. 
+ Sterol-regulated release of SREBP-2 from cell membranes requires two sequential
+cleavages, one within a transmembrane segment.
+Cell. 1996 Jun 28;85(7):1037-46.
+PMID: 8674110 [PubMed - indexed for MEDLINE]
+
+258:  van der Hoeven F, Zakany J, Duboule D. 
+ Gene transpositions in the HoxD complex reveal a hierarchy of regulatory
+controls.
+Cell. 1996 Jun 28;85(7):1025-35.
+PMID: 8674109 [PubMed - indexed for MEDLINE]
+
+259:  Hakem R, de la Pompa JL, Sirard C, Mo R, Woo M, Hakem A, Wakeham A, Potter
+J, Reitmair A, Billia F, Firpo E, Hui CC, Roberts J, Rossant J, Mak TW. 
+ The tumor suppressor gene Brca1 is required for embryonic cellular
+proliferation in the mouse.
+Cell. 1996 Jun 28;85(7):1009-23.
+PMID: 8674108 [PubMed - indexed for MEDLINE]
+
+260:  Lee CH, Saksela K, Mirza UA, Chait BT, Kuriyan J. 
+ Crystal structure of the conserved core of HIV-1 Nef complexed with a Src
+family SH3 domain.
+Cell. 1996 Jun 14;85(6):931-42.
+PMID: 8681387 [PubMed - indexed for MEDLINE]
+
+261:  Sintchak MD, Fleming MA, Futer O, Raybuck SA, Chambers SP, Caron PR,
+Murcko MA, Wilson KP. 
+ Structure and mechanism of inosine monophosphate dehydrogenase in complex with
+the immunosuppressant mycophenolic acid.
+Cell. 1996 Jun 14;85(6):921-30.
+PMID: 8681386 [PubMed - indexed for MEDLINE]
+
+262:  Raabe T, Riesgo-Escovar J, Liu X, Bausenwein BS, Deak P, Maroy P, Hafen E.
+
+ DOS, a novel pleckstrin homology domain-containing protein required for signal
+transduction between sevenless and Ras1 in Drosophila.
+Cell. 1996 Jun 14;85(6):911-20.
+PMID: 8681385 [PubMed - indexed for MEDLINE]
+
+263:  Herbst R, Carroll PM, Allard JD, Schilling J, Raabe T, Simon MA. 
+ Daughter of sevenless is a substrate of the phosphotyrosine phosphatase
+Corkscrew and functions during sevenless signaling.
+Cell. 1996 Jun 14;85(6):899-909.
+PMID: 8681384 [PubMed - indexed for MEDLINE]
+
+264:  Stanhope-Baker P, Hudson KM, Shaffer AL, Constantinescu A, Schlissel MS. 
+ Cell type-specific chromatin structure determines the targeting of V(D)J
+recombinase activity in vitro.
+Cell. 1996 Jun 14;85(6):887-97.
+PMID: 8681383 [PubMed - indexed for MEDLINE]
+
+265:  Arlt H, Tauer R, Feldmann H, Neupert W, Langer T. 
+ The YTA10-12 complex, an AAA protease with chaperone-like activity in the inner
+membrane of mitochondria.
+Cell. 1996 Jun 14;85(6):875-85.
+PMID: 8681382 [PubMed - indexed for MEDLINE]
+
+266:  Bostrom H, Willetts K, Pekny M, Leveen P, Lindahl P, Hedstrand H, Pekna M,
+Hellstrom M, Gebre-Medhin S, Schalling M, Nilsson M, Kurland S, Tornell J, Heath
+JK, Betsholtz C. 
+ PDGF-A signaling is a critical event in lung alveolar myofibroblast development
+and alveogenesis.
+Cell. 1996 Jun 14;85(6):863-73.
+PMID: 8681381 [PubMed - indexed for MEDLINE]
+
+267:  Corral J, Lavenir I, Impey H, Warren AJ, Forster A, Larson TA, Bell S,
+McKenzie AN, King G, Rabbitts TH. 
+ An Mll-AF9 fusion gene made by homologous recombination causes acute leukemia
+in chimeric mice: a method to create fusion oncogenes.
+Cell. 1996 Jun 14;85(6):853-61.
+PMID: 8681380 [PubMed - indexed for MEDLINE]
+
+268:  Hahn H, Wicking C, Zaphiropoulous PG, Gailani MR, Shanley S, Chidambaram
+A, Vorechovsky I, Holmberg E, Unden AB, Gillies S, Negus K, Smyth I, Pressman C,
+Leffell DJ, Gerrard B, Goldstein AM, Dean M, Toftgard R, Chenevix-Trench G,
+Wainwright B, Bale AE. 
+ Mutations of the human homolog of Drosophila patched in the nevoid basal cell
+carcinoma syndrome.
+Cell. 1996 Jun 14;85(6):841-51.
+PMID: 8681379 [PubMed - indexed for MEDLINE]
+
+269:  Kipreos ET, Lander LE, Wing JP, He WW, Hedgecock EM. 
+ cul-1 is required for cell cycle exit in C. elegans and identifies a novel gene
+family.
+Cell. 1996 Jun 14;85(6):829-39.
+PMID: 8681378 [PubMed - indexed for MEDLINE]
+
+270:  Muzio M, Chinnaiyan AM, Kischkel FC, O'Rourke K, Shevchenko A, Ni J,
+Scaffidi C, Bretz JD, Zhang M, Gentz R, Mann M, Krammer PH, Peter ME, Dixit VM. 
+ FLICE, a novel FADD-homologous ICE/CED-3-like protease, is recruited to the
+CD95 (Fas/APO-1) death--inducing signaling complex.
+Cell. 1996 Jun 14;85(6):817-27.
+PMID: 8681377 [PubMed - indexed for MEDLINE]
+
+271:  Boldin MP, Goncharov TM, Goltsev YV, Wallach D. 
+ Involvement of MACH, a novel MORT1/FADD-interacting protease, in Fas/APO-1- and
+TNF receptor-induced cell death.
+Cell. 1996 Jun 14;85(6):803-15.
+PMID: 8681376 [PubMed - indexed for MEDLINE]
+
+272:  Lazcano A, Miller SL. 
+ The origin and early evolution of life: prebiotic chemistry, the pre-RNA world,
+and time.
+Cell. 1996 Jun 14;85(6):793-8. Review. No abstract available.
+PMID: 8681375 [PubMed - indexed for MEDLINE]
+
+273:  Forterre P. 
+ A hot topic: the origin of hyperthermophiles.
+Cell. 1996 Jun 14;85(6):789-92. Review. No abstract available.
+PMID: 8681374 [PubMed - indexed for MEDLINE]
+
+274:  Wuarin J, Nurse P. 
+ Regulating S phase: CDKs, licensing and proteolysis.
+Cell. 1996 Jun 14;85(6):785-7. Review. No abstract available.
+PMID: 8681373 [PubMed - indexed for MEDLINE]
+
+275:  Fraser A, Evan G. 
+ A license to kill.
+Cell. 1996 Jun 14;85(6):781-4. Review. No abstract available.
+PMID: 8681372 [PubMed - indexed for MEDLINE]
+
+276:  Leuther KK, Bushnell DA, Kornberg RD. 
+ Two-dimensional crystallography of TFIIB- and IIE-RNA polymerase II complexes:
+implications for start site selection and initiation complex formation.
+Cell. 1996 May 31;85(5):773-9.
+PMID: 8646784 [PubMed - indexed for MEDLINE]
+
+277:  Lavoie BD, Shaw GS, Millner A, Chaconas G. 
+ Anatomy of a flexer-DNA complex inside a higher-order transposition
+intermediate.
+Cell. 1996 May 31;85(5):761-71.
+PMID: 8646783 [PubMed - indexed for MEDLINE]
+
+278:  Dernburg AF, Broman KW, Fung JC, Marshall WF, Philips J, Agard DA, Sedat
+JW. 
+ Perturbation of nuclear architecture by long-distance chromosome interactions.
+Cell. 1996 May 31;85(5):745-59.
+PMID: 8646782 [PubMed - indexed for MEDLINE]
+
+279:  Fero ML, Rivkin M, Tasch M, Porter P, Carow CE, Firpo E, Polyak K, Tsai
+LH, Broudy V, Perlmutter RM, Kaushansky K, Roberts JM. 
+ A syndrome of multiorgan hyperplasia with features of gigantism, tumorigenesis,
+and female sterility in p27(Kip1)-deficient mice.
+Cell. 1996 May 31;85(5):733-44.
+PMID: 8646781 [PubMed - indexed for MEDLINE]
+
+280:  Kiyokawa H, Kineman RD, Manova-Todorova KO, Soares VC, Hoffman ES, Ono M,
+Khanam D, Hayday AC, Frohman LA, Koff A. 
+ Enhanced growth of mice lacking the cyclin-dependent kinase inhibitor function
+of p27(Kip1).
+Cell. 1996 May 31;85(5):721-32.
+PMID: 8646780 [PubMed - indexed for MEDLINE]
+
+281:  Nakayama K, Ishida N, Shirane M, Inomata A, Inoue T, Shishido N, Horii I,
+Loh DY, Nakayama K. 
+ Mice lacking p27(Kip1) display increased body size, multiple organ hyperplasia,
+retinal dysplasia, and pituitary tumors.
+Cell. 1996 May 31;85(5):707-20.
+PMID: 8646779 [PubMed - indexed for MEDLINE]
+
+282:  Eck MJ, Dhe-Paganon S, Trub T, Nolte RT, Shoelson SE. 
+ Structure of the IRS-1 PTB domain bound to the juxtamembrane region of the
+insulin receptor.
+Cell. 1996 May 31;85(5):695-705.
+PMID: 8646778 [PubMed - indexed for MEDLINE]
+
+283:  Brooks PC, Stromblad S, Sanders LC, von Schalscha TL, Aimes RT,
+Stetler-Stevenson WG, Quigley JP, Cheresh DA. 
+ Localization of matrix metalloproteinase MMP-2 to the surface of invasive cells
+by interaction with integrin alpha v beta 3.
+Cell. 1996 May 31;85(5):683-93.
+PMID: 8646777 [PubMed - indexed for MEDLINE]
+
+284:  Ehrhardt DW, Wais R, Long SR. 
+ Calcium spiking in plant root hairs responding to Rhizobium nodulation signals.
+Cell. 1996 May 31;85(5):673-81.
+PMID: 8646776 [PubMed - indexed for MEDLINE]
+
+285:  Zhu X, Jiang M, Peyton M, Boulay G, Hurst R, Stefani E, Birnbaumer L. 
+ trp, a novel mammalian gene family essential for agonist-activated capacitative
+Ca2+ entry.
+Cell. 1996 May 31;85(5):661-71.
+PMID: 8646775 [PubMed - indexed for MEDLINE]
+
+286:  Niemeyer BA, Suzuki E, Scott K, Jalink K, Zuker CS. 
+ The Drosophila light-activated conductance is composed of the two channels TRP
+and TRPL.
+Cell. 1996 May 31;85(5):651-9.
+PMID: 8646774 [PubMed - indexed for MEDLINE]
+
+287:  Garrity PA, Rao Y, Salecker I, McGlade J, Pawson T, Zipursky SL. 
+ Drosophila photoreceptor axon guidance and targeting requires the dreadlocks
+SH2/SH3 adapter protein.
+Cell. 1996 May 31;85(5):639-50.
+PMID: 8646773 [PubMed - indexed for MEDLINE]
+
+288:  Snell WJ, White JM. 
+ The molecules of mammalian fertilization.
+Cell. 1996 May 31;85(5):629-37. Review. No abstract available.
+PMID: 8646772 [PubMed - indexed for MEDLINE]
+
+289:  Kogoma T. 
+ Recombination by replication.
+Cell. 1996 May 31;85(5):625-7. Review. No abstract available.
+PMID: 8646771 [PubMed - indexed for MEDLINE]
+
+290:  Lemmon MA, Ferguson KM, Schlessinger J. 
+ PH domains: diverse sequences with a common fold recruit signaling molecules to
+the cell surface.
+Cell. 1996 May 31;85(5):621-4. Review. No abstract available.
+PMID: 8646770 [PubMed - indexed for MEDLINE]
+
+291:  Friel DD. 
+ TRP: its role in phototransduction and store-operated Ca2+ entry.
+Cell. 1996 May 31;85(5):617-9. Review. No abstract available.
+PMID: 8646769 [PubMed - indexed for MEDLINE]
+
+292:  Subramanya HS, Doherty AJ, Ashford SR, Wigley DB. 
+ Crystal structure of an ATP-dependent DNA ligase from bacteriophage T7.
+Cell. 1996 May 17;85(4):607-15.
+PMID: 8653795 [PubMed - indexed for MEDLINE]
+
+293:  Downing AK, Knott V, Werner JM, Cardy CM, Campbell ID, Handford PA. 
+ Solution structure of a pair of calcium-binding epidermal growth factor-like
+domains: implications for the Marfan syndrome and other genetic disorders.
+Cell. 1996 May 17;85(4):597-605.
+PMID: 8653794 [PubMed - indexed for MEDLINE]
+
+294:  Li K, Kaufman TC. 
+ The homeotic target gene centrosomin encodes an essential centrosomal
+component.
+Cell. 1996 May 17;85(4):585-96.
+PMID: 8653793 [PubMed - indexed for MEDLINE]
+
+295:  Chou MM, Blenis J. 
+ The 70 kDa S6 kinase complexes with and is activated by the Rho family G
+proteins Cdc42 and Rac1.
+Cell. 1996 May 17;85(4):573-83.
+PMID: 8653792 [PubMed - indexed for MEDLINE]
+
+296:  Paris N, Stanley CM, Jones RL, Rogers JC. 
+ Plant cells contain two functionally distinct vacuolar compartments.
+Cell. 1996 May 17;85(4):563-72.
+PMID: 8653791 [PubMed - indexed for MEDLINE]
+
+297:  Field SJ, Tsai FY, Kuo F, Zubiaga AM, Kaelin WG Jr, Livingston DM, Orkin
+SH, Greenberg ME. 
+ E2F-1 functions in mice to promote apoptosis and suppress proliferation.
+Cell. 1996 May 17;85(4):549-61.
+PMID: 8653790 [PubMed - indexed for MEDLINE]
+
+298:  Yamasaki L, Jacks T, Bronson R, Goillot E, Harlow E, Dyson NJ. 
+ Tumor induction and tissue atrophy in mice lacking E2F-1.
+Cell. 1996 May 17;85(4):537-48.
+PMID: 8653789 [PubMed - indexed for MEDLINE]
+
+299:  Gautam M, Noakes PG, Moscoso L, Rupp F, Scheller RH, Merlie JP, Sanes JR. 
+ Defective neuromuscular synaptogenesis in agrin-deficient mutant mice.
+Cell. 1996 May 17;85(4):525-35.
+PMID: 8653788 [PubMed - indexed for MEDLINE]
+
+300:  Glass DJ, Bowen DC, Stitt TN, Radziejewski C, Bruno J, Ryan TE, Gies DR,
+Shah S, Mattsson K, Burden SJ, DiStefano PS, Valenzuela DM, DeChiara TM,
+Yancopoulos GD. 
+ Agrin acts via a MuSK receptor complex.
+Cell. 1996 May 17;85(4):513-23.
+PMID: 8653787 [PubMed - indexed for MEDLINE]
+
+301:  DeChiara TM, Bowen DC, Valenzuela DM, Simmons MV, Poueymirou WT, Thomas S,
+Kinetz E, Compton DL, Rojas E, Park JS, Smith C, DiStefano PS, Glass DJ, Burden
+SJ, Yancopoulos GD. 
+ The receptor tyrosine kinase MuSK is required for neuromuscular junction
+formation in vivo.
+Cell. 1996 May 17;85(4):501-12.
+PMID: 8653786 [PubMed - indexed for MEDLINE]
+
+302:  Hoodless PA, Haerry T, Abdollah S, Stapleton M, O'Connor MB, Attisano L,
+Wrana JL. 
+ MADR1, a MAD-related protein that functions in BMP2 signaling pathways.
+Cell. 1996 May 17;85(4):489-500.
+PMID: 8653785 [PubMed - indexed for MEDLINE]
+
+303:  Graff JM, Bansal A, Melton DA. 
+ Xenopus Mad proteins transduce distinct subsets of signals for the TGF beta
+superfamily.
+Cell. 1996 May 17;85(4):479-87.
+PMID: 8653784 [PubMed - indexed for MEDLINE]
+
+304:  Gallaher WR. 
+ Similar structural models of the transmembrane proteins of Ebola and avian
+sarcoma viruses.
+Cell. 1996 May 17;85(4):477-8. No abstract available.
+PMID: 8653783 [PubMed - indexed for MEDLINE]
+
+305:  Rogan MT, LeDoux JE. 
+ Emotion: systems, cells, synaptic plasticity.
+Cell. 1996 May 17;85(4):469-75. Review. No abstract available.
+PMID: 8653782 [PubMed - indexed for MEDLINE]
+
+306:  Bretscher MS. 
+ Moving membrane up to the front of migrating cells.
+Cell. 1996 May 17;85(4):465-7. Review. No abstract available.
+PMID: 8653781 [PubMed - indexed for MEDLINE]
+
+307:  Kleiman RJ, Reichardt LF. 
+ Testing the agrin hypothesis.
+Cell. 1996 May 17;85(4):461-4. Review. No abstract available.
+PMID: 8653780 [PubMed - indexed for MEDLINE]
+
+308:  Weinberg RA. 
+ E2F and cell proliferation: a world turned upside down.
+Cell. 1996 May 17;85(4):457-9. Review. No abstract available.
+PMID: 8653779 [PubMed - indexed for MEDLINE]
+
+309:  Yang JY, Jayaram M, Harshey RM. 
+ Positional information within the Mu transposase tetramer: catalytic
+contributions of individual monomers.
+Cell. 1996 May 3;85(3):447-55.
+PMID: 8616899 [PubMed - indexed for MEDLINE]
+
+310:  Watson MA, Chaconas G. 
+ Three-site synapsis during Mu DNA transposition: a critical intermediate
+preceding engagement of the active site.
+Cell. 1996 May 3;85(3):435-45.
+PMID: 8616898 [PubMed - indexed for MEDLINE]
+
+311:  Wellinger RJ, Ethier K, Labrecque P, Zakian VA. 
+ Evidence for a new step in telomere maintenance.
+Cell. 1996 May 3;85(3):423-33.
+PMID: 8616897 [PubMed - indexed for MEDLINE]
+
+312:  Aoufouchi S, Yelamos J, Milstein C. 
+ Nonsense mutations inhibit RNA splicing in a cell-free system: recognition of
+mutant codon is independent of protein synthesis.
+Cell. 1996 May 3;85(3):415-22.
+PMID: 8616896 [PubMed - indexed for MEDLINE]
+
+313:  Kamei Y, Xu L, Heinzel T, Torchia J, Kurokawa R, Gloss B, Lin SC, Heyman
+RA, Rose DW, Glass CK, Rosenfeld MG. 
+ A CBP integrator complex mediates transcriptional activation and AP-1
+inhibition by nuclear receptors.
+Cell. 1996 May 3;85(3):403-14.
+PMID: 8616895 [PubMed - indexed for MEDLINE]
+
+314:  Rudel T, Schmid A, Benz R, Kolb HA, Lang F, Meyer TF. 
+ Modulation of Neisseria porin (PorB) by cytosolic ATP/GTP of target cells:
+parallels between pathogen accommodation and mitochondrial endosymbiosis.
+Cell. 1996 May 3;85(3):391-402.
+PMID: 8616894 [PubMed - indexed for MEDLINE]
+
+315:  Borel AC, Simon SM. 
+ Biogenesis of polytopic membrane proteins: membrane segments assemble within
+translocation channels prior to membrane integration.
+Cell. 1996 May 3;85(3):379-89.
+PMID: 8616893 [PubMed - indexed for MEDLINE]
+
+316:  Do H, Falcone D, Lin J, Andrews DW, Johnson AE. 
+ The cotranslational integration of membrane proteins into the phospholipid
+bilayer is a multistep process.
+Cell. 1996 May 3;85(3):369-78.
+PMID: 8616892 [PubMed - indexed for MEDLINE]
+
+317:  Nellen D, Burke R, Struhl G, Basler K. 
+ Direct and long-range action of a DPP morphogen gradient.
+Cell. 1996 May 3;85(3):357-68.
+PMID: 8616891 [PubMed - indexed for MEDLINE]
+
+318:  Torcia M, Bracci-Laudiero L, Lucibello M, Nencioni L, Labardi D,
+Rubartelli A, Cozzolino F, Aloe L, Garaci E. 
+ Nerve growth factor is an autocrine survival factor for memory B lymphocytes.
+Cell. 1996 May 3;85(3):345-56.
+PMID: 8616890 [PubMed - indexed for MEDLINE]
+
+319:  Shah NM, Groves AK, Anderson DJ. 
+ Alternative neural crest cell fates are instructively promoted by TGFbeta
+superfamily members.
+Cell. 1996 May 3;85(3):331-43.
+PMID: 8616889 [PubMed - indexed for MEDLINE]
+
+320:  Li L, Cohen SN. 
+ Tsg101: a novel tumor susceptibility gene isolated by controlled homozygous
+functional knockout of allelic loci in mammalian cells.
+Cell. 1996 May 3;85(3):319-29.
+PMID: 8616888 [PubMed - indexed for MEDLINE]
+
+321:  Vyse TJ, Todd JA. 
+ Genetic analysis of autoimmune disease.
+Cell. 1996 May 3;85(3):311-8. Review. No abstract available.
+PMID: 8616887 [PubMed - indexed for MEDLINE]
+
+322:  Feldmann M, Brennan FM, Maini RN. 
+ Rheumatoid arthritis.
+Cell. 1996 May 3;85(3):307-10. Review. No abstract available.
+PMID: 8616886 [PubMed - indexed for MEDLINE]
+
+323:  Kotzin BL. 
+ Systemic lupus erythematosus.
+Cell. 1996 May 3;85(3):303-6. Review. No abstract available.
+PMID: 8616885 [PubMed - indexed for MEDLINE]
+
+324:  Steinman L. 
+ Multiple sclerosis: a coordinated immunological attack against myelin in the
+central nervous system.
+Cell. 1996 May 3;85(3):299-302. Review. No abstract available.
+PMID: 8616884 [PubMed - indexed for MEDLINE]
+
+325:  Tisch R, McDevitt H. 
+ Insulin-dependent diabetes mellitus.
+Cell. 1996 May 3;85(3):291-7. Review. No abstract available.
+PMID: 8616883 [PubMed - indexed for MEDLINE]
+
+326:  Kleyn PW, Fan W, Kovats SG, Lee JJ, Pulido JC, Wu Y, Berkemeier LR, Misumi
+DJ, Holmgren L, Charlat O, Woolf EA, Tayber O, Brody T, Shu P, Hawkins F,
+Kennedy B, Baldini L, Ebeling C, Alperin GD, Deeds J, Lakey ND, Culpepper J,
+Chen H, Glucksmann-Kuis MA, Moore KJ, et al. 
+ Identification and characterization of the mouse obesity gene tubby: a member
+of a novel gene family.
+Cell. 1996 Apr 19;85(2):281-90.
+PMID: 8612280 [PubMed - indexed for MEDLINE]
+
+327:  Savilahti H, Mizuuchi K. 
+ Mu transpositional recombination: donor DNA cleavage and strand transfer in
+trans by the Mu transposase.
+Cell. 1996 Apr 19;85(2):271-80.
+PMID: 8612279 [PubMed - indexed for MEDLINE]
+
+328:  Aldaz H, Schuster E, Baker TA. 
+ The interwoven architecture of the Mu transposase couples DNA synapsis to
+catalysis.
+Cell. 1996 Apr 19;85(2):257-69.
+PMID: 8612278 [PubMed - indexed for MEDLINE]
+
+329:  Hodel AE, Gershon PD, Shi X, Quiocho FA. 
+ The 1.85 A structure of vaccinia protein VP39: a bifunctional enzyme that
+participates in the modification of both mRNA ends.
+Cell. 1996 Apr 19;85(2):247-56.
+PMID: 8612277 [PubMed - indexed for MEDLINE]
+
+330:  Musco G, Stier G, Joseph C, Castiglione Morelli MA, Nilges M, Gibson TJ,
+Pastore A. 
+ Three-dimensional structure and stability of the KH domain: molecular insights
+into the fragile X syndrome.
+Cell. 1996 Apr 19;85(2):237-45.
+PMID: 8612276 [PubMed - indexed for MEDLINE]
+
+331:  Smith JJ, Travis SM, Greenberg EP, Welsh MJ. 
+ Cystic fibrosis airway epithelia fail to kill bacteria because of abnormal
+airway surface fluid.
+Cell. 1996 Apr 19;85(2):229-36.
+PMID: 8612275 [PubMed - indexed for MEDLINE]
+
+332:  Hegde RS, Lingappa VR. 
+ Sequence-specific alteration of the ribosome-membrane junction exposes nascent
+secretory proteins to the cytosol.
+Cell. 1996 Apr 19;85(2):217-28.
+PMID: 8612274 [PubMed - indexed for MEDLINE]
+
+333:  Lewis MJ, Pelham HR. 
+ SNARE-mediated retrograde traffic from the Golgi complex to the endoplasmic
+reticulum.
+Cell. 1996 Apr 19;85(2):205-15.
+PMID: 8612273 [PubMed - indexed for MEDLINE]
+
+334:  Simske JS, Kaech SM, Harp SA, Kim SK. 
+ LET-23 receptor localization by the cell junction protein LIN-7 during C.
+elegans vulval induction.
+Cell. 1996 Apr 19;85(2):195-204.
+PMID: 8612272 [PubMed - indexed for MEDLINE]
+
+335:  Lehman A, Black R, Ecker JR. 
+ HOOKLESS1, an ethylene response gene, is required for differential cell
+elongation in the Arabidopsis hypocotyl.
+Cell. 1996 Apr 19;85(2):183-94.
+PMID: 8612271 [PubMed - indexed for MEDLINE]
+
+336:  Szekeres M, Nemeth K, Koncz-Kalman Z, Mathur J, Kauschmann A, Altmann T,
+Redei GP, Nagy F, Schell J, Koncz C. 
+ Brassinosteroids rescue the deficiency of CYP90, a cytochrome P450, controlling
+cell elongation and de-etiolation in Arabidopsis.
+Cell. 1996 Apr 19;85(2):171-82.
+PMID: 8612270 [PubMed - indexed for MEDLINE]
+
+337:  Souer E, van Houwelingen A, Kloos D, Mol J, Koes R. 
+ The no apical meristem gene of Petunia is required for pattern formation in
+embryos and flowers and is expressed at meristem and primordia boundaries.
+Cell. 1996 Apr 19;85(2):159-70.
+PMID: 8612269 [PubMed - indexed for MEDLINE]
+
+338:  Johnson LN, Noble ME, Owen DJ. 
+ Active and inactive protein kinases: structural basis for regulation.
+Cell. 1996 Apr 19;85(2):149-58. Review. No abstract available.
+PMID: 8612268 [PubMed - indexed for MEDLINE]
+
+339:  Kahmann R, Bolker M. 
+ Self/nonself recognition in fungi: old mysteries and simple solutions.
+Cell. 1996 Apr 19;85(2):145-8. Review. No abstract available.
+PMID: 8612267 [PubMed - indexed for MEDLINE]
+
+340:  Dodds PN, Clarke AE, Newbigin E. 
+ A molecular perspective on pollination in flowering plants.
+Cell. 1996 Apr 19;85(2):141-4. Review. No abstract available.
+PMID: 8612266 [PubMed - indexed for MEDLINE]
+
+341:  Craigie R. 
+ Quality control in Mu DNA transposition.
+Cell. 1996 Apr 19;85(2):137-40. Review. No abstract available.
+PMID: 8612265 [PubMed - indexed for MEDLINE]
+
+342:  Gomez-Skarmeta JL, Diez del Corral R, de la Calle-Mustienes E, Ferre-Marco
+D, Modolell J. 
+ Araucan and caupolican, two members of the novel iroquois complex, encode
+homeoproteins that control proneural and vein-forming genes.
+Cell. 1996 Apr 5;85(1):95-105.
+PMID: 8620542 [PubMed - indexed for MEDLINE]
+
+343:  Faux MC, Scott JD. 
+ Molecular glue: kinase anchoring and scaffold proteins.
+Cell. 1996 Apr 5;85(1):9-12. Review. No abstract available.
+PMID: 8620541 [PubMed - indexed for MEDLINE]
+
+344:  Mayer A, Wickner W, Haas A. 
+ Sec18p (NSF)-driven release of Sec17p (alpha-SNAP) can precede docking and
+fusion of yeast vacuoles.
+Cell. 1996 Apr 5;85(1):83-94.
+PMID: 8620540 [PubMed - indexed for MEDLINE]
+
+345:  Nishiyama K, Suzuki T, Tokuda H. 
+ Inversion of the membrane topology of SecG coupled with SecA-dependent
+preprotein translocation.
+Cell. 1996 Apr 5;85(1):71-81.
+PMID: 8620539 [PubMed - indexed for MEDLINE]
+
+346:  Zhang Z, Vuori K, Wang H, Reed JC, Ruoslahti E. 
+ Integrin activation by R-ras.
+Cell. 1996 Apr 5;85(1):61-9.
+PMID: 8620538 [PubMed - indexed for MEDLINE]
+
+347:  Bauer CE, Bird TH. 
+ Regulatory circuits controlling photosynthesis gene expression.
+Cell. 1996 Apr 5;85(1):5-8. Review. No abstract available.
+PMID: 8620537 [PubMed - indexed for MEDLINE]
+
+348:  Sieweke MH, Tekotte H, Frampton J, Graf T. 
+ MafB is an interaction partner and repressor of Ets-1 that inhibits erythroid
+differentiation.
+Cell. 1996 Apr 5;85(1):49-60.
+PMID: 8620536 [PubMed - indexed for MEDLINE]
+
+349:  Heichman KA, Roberts JM. 
+ The yeast CDC16 and CDC27 genes restrict DNA replication to once per cell
+cycle.
+Cell. 1996 Apr 5;85(1):39-48.
+PMID: 8620535 [PubMed - indexed for MEDLINE]
+
+350:  Serrano M, Lee H, Chin L, Cordon-Cardo C, Beach D, DePinho RA. 
+ Role of the INK4a locus in tumor suppression and cell mortality.
+Cell. 1996 Apr 5;85(1):27-37.
+PMID: 8620534 [PubMed - indexed for MEDLINE]
+
+351:  Sozzi G, Veronese ML, Negrini M, Baffa R, Cotticelli MG, Inoue H,
+Tornielli S, Pilotti S, De Gregorio L, Pastorino U, Pierotti MA, Ohta M, Huebner
+K, Croce CM. 
+ The FHIT gene 3p14.2 is abnormal in lung cancer.
+Cell. 1996 Apr 5;85(1):17-26.
+PMID: 8620533 [PubMed - indexed for MEDLINE]
+
+352:  Adachi M, Fischer EH, Ihle J, Imai K, Jirik F, Neel B, Pawson T, Shen S,
+Thomas M, Ullrich A, Zhao Z. 
+ Mammalian SH2-containing protein tyrosine phosphatases.
+Cell. 1996 Apr 5;85(1):15. No abstract available.
+PMID: 8620532 [PubMed - indexed for MEDLINE]
+
+353:  Konig P, Giraldo R, Chapman L, Rhodes D. 
+ The crystal structure of the DNA-binding domain of yeast RAP1 in complex with
+telomeric DNA.
+Cell. 1996 Apr 5;85(1):125-36.
+PMID: 8620531 [PubMed - indexed for MEDLINE]
+
+354:  Elela SA, Igel H, Ares M Jr. 
+ RNase III cleaves eukaryotic preribosomal RNA at a U3 snoRNP-dependent site.
+Cell. 1996 Apr 5;85(1):115-24.
+PMID: 8620530 [PubMed - indexed for MEDLINE]
+
+355:  van Gent DC, Ramsden DA, Gellert M. 
+ The RAG1 and RAG2 proteins establish the 12/23 rule in V(D)J recombination.
+Cell. 1996 Apr 5;85(1):107-13.
+PMID: 8620529 [PubMed - indexed for MEDLINE]
+
+356:  Olson EN, Arnold HH, Rigby PW, Wold BJ. 
+ Know your neighbors: three phenotypes in null mutants of the myogenic bHLH gene
+MRF4.
+Cell. 1996 Apr 5;85(1):1-4. Review. No abstract available.
+PMID: 8620528 [PubMed - indexed for MEDLINE]
+
+357:  Mebatsion T, Konig M, Conzelmann KK. 
+ Budding of rabies virus particles in the absence of the spike glycoprotein.
+Cell. 1996 Mar 22;84(6):941-51.
+PMID: 8601317 [PubMed - indexed for MEDLINE]
+
+358:  Dobrowolski JM, Sibley LD. 
+ Toxoplasma invasion of mammalian cells is powered by the actin cytoskeleton of
+the parasite.
+Cell. 1996 Mar 22;84(6):933-9.
+PMID: 8601316 [PubMed - indexed for MEDLINE]
+
+359:  Mengaud J, Ohayon H, Gounon P, Mege R-M, Cossart P. 
+ E-cadherin is the receptor for internalin, a surface protein required for entry
+of L. monocytogenes into epithelial cells.
+Cell. 1996 Mar 22;84(6):923-32.
+PMID: 8601315 [PubMed - indexed for MEDLINE]
+
+360:  Deng C, Wynshaw-Boris A, Zhou F, Kuo A, Leder P. 
+ Fibroblast growth factor receptor 3 is a negative regulator of bone growth.
+Cell. 1996 Mar 22;84(6):911-21.
+PMID: 8601314 [PubMed - indexed for MEDLINE]
+
+361:  Sengupta P, Chou JH, Bargmann CI. 
+ odr-10 encodes a seven transmembrane domain olfactory receptor required for
+responses to the odorant diacetyl.
+Cell. 1996 Mar 22;84(6):899-909.
+PMID: 8601313 [PubMed - indexed for MEDLINE]
+
+362:  Muslin AJ, Tanner JW, Allen PM, Shaw AS. 
+ Interaction of 14-3-3 with signaling proteins is mediated by the recognition of
+phosphoserine.
+Cell. 1996 Mar 22;84(6):889-97.
+PMID: 8601312 [PubMed - indexed for MEDLINE]
+
+363:  Goldberg J, Nairn AC, Kuriyan J. 
+ Structural basis for the autoinhibition of calcium/calmodulin-dependent protein
+kinase I.
+Cell. 1996 Mar 22;84(6):875-87.
+PMID: 8601311 [PubMed - indexed for MEDLINE]
+
+364:  Bourne Y, Watson MH, Hickey MJ, Holmes W, Rocque W, Reed SI, Tainer JA. 
+ Crystal structure and mutational analysis of the human CDK2 kinase complex with
+cell cycle-regulatory protein CksHs1.
+Cell. 1996 Mar 22;84(6):863-74.
+PMID: 8601310 [PubMed - indexed for MEDLINE]
+
+365:  Chen ZJ, Parent L, Maniatis T. 
+ Site-specific phosphorylation of IkappaBalpha by a novel
+ubiquitination-dependent protein kinase activity.
+Cell. 1996 Mar 22;84(6):853-62.
+PMID: 8601309 [PubMed - indexed for MEDLINE]
+
+366:  Brownell JE, Zhou J, Ranalli T, Kobayashi R, Edmondson DG, Roth SY, Allis
+CD. 
+ Tetrahymena histone acetyltransferase A: a homolog to yeast Gcn5p linking
+histone acetylation to gene activation.
+Cell. 1996 Mar 22;84(6):843-51.
+PMID: 8601308 [PubMed - indexed for MEDLINE]
+
+367:  Seiwert SD, Heidmann S, Stuart K. 
+ Direct visualization of uridylate deletion in vitro suggests a mechanism for
+kinetoplastid RNA editing.
+Cell. 1996 Mar 22;84(6):831-41.
+PMID: 8601307 [PubMed - indexed for MEDLINE]
+
+368:  Goodrich JA, Cutler G, Tjian R. 
+ Contacts in context: promoter specificity and macromolecular interactions in
+transcription.
+Cell. 1996 Mar 22;84(6):825-30. Review. No abstract available.
+PMID: 8601306 [PubMed - indexed for MEDLINE]
+
+369:  Staehelin LA, Hepler PK. 
+ Cytokinesis in higher plants.
+Cell. 1996 Mar 22;84(6):821-4. Review. No abstract available.
+PMID: 8601305 [PubMed - indexed for MEDLINE]
+
+370:  Wolffe AP, Pruss D. 
+ Targeting chromatin disruption: Transcription regulators that acetylate
+histones.
+Cell. 1996 Mar 22;84(6):817-9. Review. No abstract available.
+PMID: 8601304 [PubMed - indexed for MEDLINE]
+
+371:  Hochstrasser M. 
+ Protein degradation or regulation: Ub the judge.
+Cell. 1996 Mar 22;84(6):813-5. Review. No abstract available.
+PMID: 8601303 [PubMed - indexed for MEDLINE]
+
+372:  Tarn WY, Steitz JA. 
+ A novel spliceosome containing U11, U12, and U5 snRNPs excises a minor class
+(AT-AC) intron in vitro.
+Cell. 1996 Mar 8;84(5):801-11.
+PMID: 8625417 [PubMed - indexed for MEDLINE]
+
+373:  Bochkarev A, Barwell JA, Pfuetzner RA, Bochkareva E, Frappier L, Edwards
+AM. 
+ Crystal structure of the DNA-binding domain of the Epstein-Barr virus
+origin-binding protein, EBNA1, bound to DNA.
+Cell. 1996 Mar 8;84(5):791-800.
+PMID: 8625416 [PubMed - indexed for MEDLINE]
+
+374:  Dikstein R, Ruppert S, Tjian R. 
+ TAFII250 is a bipartite protein kinase that phosphorylates the base
+transcription factor RAP74.
+Cell. 1996 Mar 8;84(5):781-90.
+PMID: 8625415 [PubMed - indexed for MEDLINE]
+
+375:  Wiertz EJ, Jones TR, Sun L, Bogyo M, Geuze HJ, Ploegh HL. 
+ The human cytomegalovirus US11 gene product dislocates MHC class I heavy chains
+from the endoplasmic reticulum to the cytosol.
+Cell. 1996 Mar 8;84(5):769-79.
+PMID: 8625414 [PubMed - indexed for MEDLINE]
+
+376:  Brenman JE, Chao DS, Gee SH, McGee AW, Craven SE, Santillano DR, Wu Z,
+Huang F, Xia H, Peters MF, Froehner SC, Bredt DS. 
+ Interaction of nitric oxide synthase with the postsynaptic density protein
+PSD-95 and alpha1-syntrophin mediated by PDZ domains.
+Cell. 1996 Mar 8;84(5):757-67.
+PMID: 8625413 [PubMed - indexed for MEDLINE]
+
+377:  Ehlers MD, Zhang S, Bernhadt JP, Huganir RL. 
+ Inactivation of NMDA receptors by direct interaction of calmodulin with the NR1
+subunit.
+Cell. 1996 Mar 8;84(5):745-55.
+PMID: 8625412 [PubMed - indexed for MEDLINE]
+
+378:  Hareven D, Gutfinger T, Parnis A, Eshed Y, Lifschitz E. 
+ The making of a compound leaf: genetic manipulation of leaf architecture in
+tomato.
+Cell. 1996 Mar 8;84(5):735-44.
+PMID: 8625411 [PubMed - indexed for MEDLINE]
+
+379:  Symons M, Derry JM, Karlak B, Jiang S, Lemahieu V, Mccormick F, Francke U,
+Abo A. 
+ Wiskott-Aldrich syndrome protein, a novel effector for the GTPase CDC42Hs, is
+implicated in actin polymerization.
+Cell. 1996 Mar 8;84(5):723-34.
+PMID: 8625410 [PubMed - indexed for MEDLINE]
+
+380:  Sil A, Herskowitz I. 
+ Identification of asymmetrically localized determinant, Ash1p, required for
+lineage-specific transcription of the yeast HO gene.
+Cell. 1996 Mar 8;84(5):711-22.
+PMID: 8625409 [PubMed - indexed for MEDLINE]
+
+381:  Bobola N, Jansen RP, Shin TH, Nasmyth K. 
+ Asymmetric accumulation of Ash1p in postanaphase nuclei depends on a myosin and
+restricts yeast mating-type switching to mother cells.
+Cell. 1996 Mar 8;84(5):699-709.
+PMID: 8625408 [PubMed - indexed for MEDLINE]
+
+382:  Jansen RP, Dowzer C, Michaelis C, Galova M, Nasmyth K. 
+ Mother cell-specific HO expression in budding yeast depends on the
+unconventional myosin myo4p and other cytoplasmic proteins.
+Cell. 1996 Mar 8;84(5):687-97.
+PMID: 8625407 [PubMed - indexed for MEDLINE]
+
+383:  Hunter-Ensor M, Ousley A, Sehgal A. 
+ Regulation of the Drosophila protein timeless suggests a mechanism for
+resetting the circadian clock by light.
+Cell. 1996 Mar 8;84(5):677-85.
+PMID: 8625406 [PubMed - indexed for MEDLINE]
+
+384:  Euling S, Ambros V. 
+ Heterochronic genes control cell cycle progress and developmental competence of
+C. elegans vulva precursor cells.
+Cell. 1996 Mar 8;84(5):667-76.
+PMID: 8625405 [PubMed - indexed for MEDLINE]
+
+385:  Cleveland DW. 
+ Neuronal growth and death: order and disorder in the axoplasm.
+Cell. 1996 Mar 8;84(5):663-6. Review. No abstract available.
+PMID: 8625404 [PubMed - indexed for MEDLINE]
+
+386:  Gomperts SN. 
+ Clustering membrane proteins: It's all coming together with the PSD-95/SAP90
+protein family.
+Cell. 1996 Mar 8;84(5):659-62. Review. No abstract available.
+PMID: 8625403 [PubMed - indexed for MEDLINE]
+
+387:  Abbas AK. 
+ Die and let live: eliminating dangerous lymphocytes.
+Cell. 1996 Mar 8;84(5):655-7. Review. No abstract available.
+PMID: 8625402 [PubMed - indexed for MEDLINE]
+
+388:  Amon A. 
+ Mother and daughter are doing fine: asymmetric cell division in yeast.
+Cell. 1996 Mar 8;84(5):651-4. Review. No abstract available.
+PMID: 8625401 [PubMed - indexed for MEDLINE]
+
+389:  Kim S, Dallmann HG, McHenry CS, Marians KJ. 
+ Coupling of a replicative polymerase and helicase: a tau-DnaB interaction
+mediates rapid replication fork movement.
+Cell. 1996 Feb 23;84(4):643-50.
+PMID: 8598050 [PubMed - indexed for MEDLINE]
+
+390:  Smeal T, Claus J, Kennedy B, Cole F, Guarente L. 
+ Loss of transcriptional silencing causes sterility in old mother cells of S.
+cerevisiae.
+Cell. 1996 Feb 23;84(4):633-42.
+PMID: 8598049 [PubMed - indexed for MEDLINE]
+
+391:  Belmont LD, Mitchison TJ. 
+ Identification of a protein that interacts with tubulin dimers and increases
+the catastrophe rate of microtubules.
+Cell. 1996 Feb 23;84(4):623-31.
+PMID: 8598048 [PubMed - indexed for MEDLINE]
+
+392:  Krueger NX, Van Vactor D, Wan HI, Gelbart WM, Goodman CS, Saito H. 
+ The transmembrane tyrosine phosphatase DLAR controls motor axon guidance in
+Drosophila.
+Cell. 1996 Feb 23;84(4):611-22.
+PMID: 8598047 [PubMed - indexed for MEDLINE]
+
+393:  Desai CJ, Gindhart JG Jr, Goldstein LS, Zinn K. 
+ Receptor tyrosine phosphatases are required for motor axon guidance in the
+Drosophila embryo.
+Cell. 1996 Feb 23;84(4):599-609.
+PMID: 8598046 [PubMed - indexed for MEDLINE]
+
+394:  Ohta M, Inoue H, Cotticelli MG, Kastury K, Baffa R, Palazzo J, Siprashvili
+Z, Mori M, McCue P, Druck T, et al. 
+ The FHIT gene, spanning the chromosome 3p14.2 fragile site and renal
+carcinoma-associated t(3;8) breakpoint, is abnormal in digestive tract cancers.
+Cell. 1996 Feb 23;84(4):587-97.
+PMID: 8598045 [PubMed - indexed for MEDLINE]
+
+395:  Pontoglio M, Barra J, Hadchouel M, Doyen A, Kress C, Bach JP, Babinet C,
+Yaniv M. 
+ Hepatocyte nuclear factor 1 inactivation results in hepatic dysfunction,
+phenylketonuria, and renal Fanconi syndrome.
+Cell. 1996 Feb 23;84(4):575-85.
+PMID: 8598044 [PubMed - indexed for MEDLINE]
+
+396:  Frenette PS, Mayadas TN, Rayburn H, Hynes RO, Wagner DD. 
+ Susceptibility to infection and altered hematopoiesis in mice deficient in both
+P- and E-selectins.
+Cell. 1996 Feb 23;84(4):563-74.
+PMID: 8598043 [PubMed - indexed for MEDLINE]
+
+397:  Amakawa R, Hakem A, Kundig TM, Matsuyama T, Simard JJ, Timms E, Wakeham A,
+Mittruecker HW, Griesser H, Takimoto H, Schmits R, Shahinian A, Ohashi P,
+Penninger JM, Mak TW. 
+ Impaired negative selection of T cells in Hodgkin's disease antigen
+CD30-deficient mice.
+Cell. 1996 Feb 23;84(4):551-62.
+PMID: 8598042 [PubMed - indexed for MEDLINE]
+
+398:  Martin WD, Hicks GG, Mendiratta SK, Leva HI, Ruley HE, Van Kaer L. 
+ H2-M mutant mice are defective in the peptide loading of class II molecules,
+antigen presentation, and T cell repertoire selection.
+Cell. 1996 Feb 23;84(4):543-50.
+PMID: 8598041 [PubMed - indexed for MEDLINE]
+
+399:  Miyazaki T, Wolf P, Tourne S, Waltzinger C, Dierich A, Barois N, Ploegh H,
+Benoist C, Mathis D. 
+ Mice lacking H2-M complexes, enigmatic elements of the MHC class II
+peptide-loading pathway.
+Cell. 1996 Feb 23;84(4):531-41.
+PMID: 8598040 [PubMed - indexed for MEDLINE]
+
+400:  Ignatowicz L, Kappler J, Marrack P. 
+ The repertoire of T cells shaped by a single MHC/peptide ligand.
+Cell. 1996 Feb 23;84(4):521-9.
+PMID: 8598039 [PubMed - indexed for MEDLINE]
+
+401:  Hurt EC. 
+ Importins/karyopherins meet nucleoporins.
+Cell. 1996 Feb 23;84(4):509-15. Review. No abstract available.
+PMID: 8598038 [PubMed - indexed for MEDLINE]
+
+402:  Cresswell P. 
+ Invariant chain structure and MHC class II function.
+Cell. 1996 Feb 23;84(4):505-7. Review. No abstract available.
+PMID: 8598037 [PubMed - indexed for MEDLINE]
+
+403:  Kenyon C. 
+ Ponce d'elegans: genetic quest for the fountain of youth.
+Cell. 1996 Feb 23;84(4):501-4. Review. No abstract available.
+PMID: 8598036 [PubMed - indexed for MEDLINE]
+
+404:  Campisi J. 
+ Replicative senescence: an old lives' tale?
+Cell. 1996 Feb 23;84(4):497-500. Review. No abstract available.
+PMID: 8598035 [PubMed - indexed for MEDLINE]
+
+405:  Chen H, Charlat O, Tartaglia LA, Woolf EA, Weng X, Ellis SJ, Lakey ND,
+Culpepper J, Moore KJ, Breitbart RE, Duyk GM, Tepper RI, Morgenstern JP. 
+ Evidence that the diabetes gene encodes the leptin receptor: identification of
+a mutation in the leptin receptor gene in db/db mice.
+Cell. 1996 Feb 9;84(3):491-5.
+PMID: 8608603 [PubMed - indexed for MEDLINE]
+
+406:  Weissman JS, Rye HS, Fenton WA, Beechem JM, Horwich AL. 
+ Characterization of the active intermediate of a GroEL-GroES-mediated protein
+folding reaction.
+Cell. 1996 Feb 9;84(3):481-90.
+PMID: 8608602 [PubMed - indexed for MEDLINE]
+
+407:  Gerasimenko OV, Gerasimenko JV, Belan PV, Petersen OH. 
+ Inositol trisphosphate and cyclic ADP-ribose-mediated release of Ca2+ from
+single isolated pancreatic zymogen granules.
+Cell. 1996 Feb 9;84(3):473-80.
+PMID: 8608601 [PubMed - indexed for MEDLINE]
+
+408:  Pourquie O, Fan CM, Coltey M, Hirsinger E, Watanabe Y, Breant C,
+Francis-West P, Brickell P, Tessier-Lavigne M, Le Douarin NM. 
+ Lateral and axial signals involved in avian somite patterning: a role for BMP4.
+Cell. 1996 Feb 9;84(3):461-71.
+PMID: 8608600 [PubMed - indexed for MEDLINE]
+
+409:  Dixon MS, Jones DA, Keddie JS, Thomas CM, Harrison K, Jones JD. 
+ The tomato Cf-2 disease resistance locus comprises two functional genes
+encoding leucine-rich repeat proteins.
+Cell. 1996 Feb 9;84(3):451-9.
+PMID: 8608599 [PubMed - indexed for MEDLINE]
+
+410:  Durbin JE, Hackenmiller R, Simon MC, Levy DE. 
+ Targeted disruption of the mouse Stat1 gene results in compromised innate
+immunity to viral disease.
+Cell. 1996 Feb 9;84(3):443-50.
+PMID: 8608598 [PubMed - indexed for MEDLINE]
+
+411:  Meraz MA, White JM, Sheehan KC, Bach EA, Rodig SJ, Dighe AS, Kaplan DH,
+Riley JK, Greenlund AC, Campbell D, Carver-Moore K, DuBois RN, Clark R, Aguet M,
+Schreiber RD. 
+ Targeted disruption of the Stat1 gene in mice reveals unexpected physiologic
+specificity in the JAK-STAT signaling pathway.
+Cell. 1996 Feb 9;84(3):431-42.
+PMID: 8608597 [PubMed - indexed for MEDLINE]
+
+412:  Yan R, Small S, Desplan C, Dearolf CR, Darnell JE Jr. 
+ Identification of a Stat gene that functions in Drosophila development.
+Cell. 1996 Feb 9;84(3):421-30.
+PMID: 8608596 [PubMed - indexed for MEDLINE]
+
+413:  Hou XS, Melnick MB, Perrimon N. 
+ Marelle acts downstream of the Drosophila HOP/JAK kinase and encodes a protein
+similar to the mammalian STATs.
+Cell. 1996 Feb 9;84(3):411-9.
+PMID: 8608595 [PubMed - indexed for MEDLINE]
+
+414:  Hyman AA, Karsenti E. 
+ Morphogenetic properties of microtubules and mitotic spindle assembly.
+Cell. 1996 Feb 9;84(3):401-10. Review. No abstract available.
+PMID: 8608594 [PubMed - indexed for MEDLINE]
+
+415:  Warren G, Wickner W. 
+ Organelle inheritance.
+Cell. 1996 Feb 9;84(3):395-400. Review. No abstract available.
+PMID: 8608593 [PubMed - indexed for MEDLINE]
+
+416:  Nunnari J, Walter P. 
+ Regulation of organelle biogenesis.
+Cell. 1996 Feb 9;84(3):389-94. Review. No abstract available.
+PMID: 8608592 [PubMed - indexed for MEDLINE]
+
+417:  Kumar NM, Gilula NB. 
+ The gap junction communication channel.
+Cell. 1996 Feb 9;84(3):381-8. Review. No abstract available.
+PMID: 8608591 [PubMed - indexed for MEDLINE]
+
+418:  Mitchison TJ, Cramer LP. 
+ Actin-based cell motility and cell locomotion.
+Cell. 1996 Feb 9;84(3):371-9. Review. No abstract available.
+PMID: 8608590 [PubMed - indexed for MEDLINE]
+
+419:  Lauffenburger DA, Horwitz AF. 
+ Cell migration: a physically integrated molecular process.
+Cell. 1996 Feb 9;84(3):359-69. Review. No abstract available.
+PMID: 8608589 [PubMed - indexed for MEDLINE]
+
+420:  Gumbiner BM. 
+ Cell adhesion: the molecular basis of tissue architecture and morphogenesis.
+Cell. 1996 Feb 9;84(3):345-57. Review.
+PMID: 8608588 [PubMed - indexed for MEDLINE]
+
+421:  Drubin DG, Nelson WJ. 
+ Origins of cell polarity.
+Cell. 1996 Feb 9;84(3):335-44. Review. No abstract available.
+PMID: 8608587 [PubMed - indexed for MEDLINE]
+
+422:  Ihle JN. 
+ STATs: signal transducers and activators of transcription.
+Cell. 1996 Feb 9;84(3):331-4. Review. No abstract available.
+PMID: 8608586 [PubMed - indexed for MEDLINE]
+
+423:  Okuda T, van Deursen J, Hiebert SW, Grosveld G, Downing JR. 
+ AML1, the target of multiple chromosomal translocations in human leukemia, is
+essential for normal fetal liver hematopoiesis.
+Cell. 1996 Jan 26;84(2):321-30.
+PMID: 8565077 [PubMed - indexed for MEDLINE]
+
+424:  Pfaff SL, Mendelsohn M, Stewart CL, Edlund T, Jessell TM. 
+ Requirement for LIM homeobox gene Isl1 in motor neuron generation reveals a
+motor neuron-dependent step in interneuron differentiation.
+Cell. 1996 Jan 26;84(2):309-20.
+PMID: 8565076 [PubMed - indexed for MEDLINE]
+
+425:  Hsu H, Shu HB, Pan MG, Goeddel DV. 
+ TRADD-TRAF2 and TRADD-FADD interactions define two distinct TNF receptor 1
+signal transduction pathways.
+Cell. 1996 Jan 26;84(2):299-308.
+PMID: 8565075 [PubMed - indexed for MEDLINE]
+
+426:  Savage B, Saldivar E, Ruggeri ZM. 
+ Initiation of platelet adhesion by arrest onto fibrinogen or translocation on
+von Willebrand factor.
+Cell. 1996 Jan 26;84(2):289-97.
+PMID: 8565074 [PubMed - indexed for MEDLINE]
+
+427:  Hicke L, Riezman H. 
+ Ubiquitination of a yeast plasma membrane receptor signals its
+ligand-stimulated endocytosis.
+Cell. 1996 Jan 26;84(2):277-87.
+PMID: 8565073 [PubMed - indexed for MEDLINE]
+
+428:  Siniossoglou S, Wimmer C, Rieger M, Doye V, Tekotte H, Weise C, Emig S,
+Segref A, Hurt EC. 
+ A novel complex of nucleoporins, which includes Sec13p and a Sec13p homolog, is
+essential for normal nuclear pores.
+Cell. 1996 Jan 26;84(2):265-75.
+PMID: 8565072 [PubMed - indexed for MEDLINE]
+
+429:  Visa N, Alzhanova-Ericsson AT, Sun X, Kiseleva E, Bjorkroth B, Wurtz T,
+Daneholt B. 
+ A pre-mRNA-binding protein accompanies the RNA from the gene through the
+nuclear pores and into polysomes.
+Cell. 1996 Jan 26;84(2):253-64.
+PMID: 8565071 [PubMed - indexed for MEDLINE]
+
+430:  Dieci G, Sentenac A. 
+ Facilitated recycling pathway for RNA polymerase III.
+Cell. 1996 Jan 26;84(2):245-52.
+PMID: 8565070 [PubMed - indexed for MEDLINE]
+
+431:  Wilson CJ, Chao DM, Imbalzano AN, Schnitzler GR, Kingston RE, Young RA. 
+ RNA polymerase II holoenzyme contains SWI/SNF regulators involved in chromatin
+remodeling.
+Cell. 1996 Jan 26;84(2):235-44.
+PMID: 8565069 [PubMed - indexed for MEDLINE]
+
+432:  Bolland S, Kleckner N. 
+ The three chemical steps of Tn10/IS10 transposition involve repeated
+utilization of a single active site.
+Cell. 1996 Jan 26;84(2):223-33.
+PMID: 8565068 [PubMed - indexed for MEDLINE]
+
+433:  Goodrich-Blair H, Shub DA. 
+ Beyond homing: competition between intron endonucleases confers a selective
+advantage on flanking genetic markers.
+Cell. 1996 Jan 26;84(2):211-21.
+PMID: 8565067 [PubMed - indexed for MEDLINE]
+
+434:  Margossian SP, Li H, Zassenhaus HP, Butow RA. 
+ The DExH box protein Suv3p is a component of a yeast mitochondrial 3'-to-5'
+exoribonuclease that suppresses group I intron toxicity.
+Cell. 1996 Jan 26;84(2):199-209.
+PMID: 8565066 [PubMed - indexed for MEDLINE]
+
+435:  White J, Strome S. 
+ Cleavage plane specification in C. elegans: how to divide the spoils.
+Cell. 1996 Jan 26;84(2):195-8. Review. No abstract available.
+PMID: 8565065 [PubMed - indexed for MEDLINE]
+
+436:  Chang F, Nurse P. 
+ How fission yeast fission in the middle.
+Cell. 1996 Jan 26;84(2):191-4. Review.
+PMID: 8565064 [PubMed - indexed for MEDLINE]
+
+437:  Chant J. 
+ Septin scaffolds and cleavage planes in Saccharomyces.
+Cell. 1996 Jan 26;84(2):187-90. Review. No abstract available.
+PMID: 8565063 [PubMed - indexed for MEDLINE]
+
+438:  Rothfield LI, Zhao CR. 
+ How do bacteria decide where to divide?
+Cell. 1996 Jan 26;84(2):183-6. Review. No abstract available.
+PMID: 8565062 [PubMed - indexed for MEDLINE]
+
+439:  Struhl K. 
+ Chromatin structure and RNA polymerase II connection: implications for
+transcription.
+Cell. 1996 Jan 26;84(2):179-82. Review. No abstract available.
+PMID: 8565061 [PubMed - indexed for MEDLINE]
+
+440:  Neer EJ, Smith TF. 
+ G protein heterodimers: new structures propel new questions.
+Cell. 1996 Jan 26;84(2):175-8. Review. No abstract available.
+PMID: 8565060 [PubMed - indexed for MEDLINE]
+
+441:  Bickmore WA, Oghene K. 
+ Visualizing the spatial relationships between defined DNA sequences and the
+axial region of extracted metaphase chromosomes.
+Cell. 1996 Jan 12;84(1):95-104.
+PMID: 8548831 [PubMed - indexed for MEDLINE]
+
+442:  Curcio MJ, Belfort M. 
+ Retrohoming: cDNA-mediated mobility of group II introns requires a catalytic
+RNA.
+Cell. 1996 Jan 12;84(1):9-12. Review. No abstract available.
+PMID: 8548830 [PubMed - indexed for MEDLINE]
+
+443:  Quon KC, Marczynski GT, Shapiro L. 
+ Cell cycle control by an essential bacterial two-component signal transduction
+protein.
+Cell. 1996 Jan 12;84(1):83-93.
+PMID: 8548829 [PubMed - indexed for MEDLINE]
+
+444:  Guadagno TM, Newport JW. 
+ Cdk2 kinase is required for entry into mitosis as a positive regulator of
+Cdc2-cyclin B kinase activity.
+Cell. 1996 Jan 12;84(1):73-82.
+PMID: 8548828 [PubMed - indexed for MEDLINE]
+
+445:  Lukowitz W, Mayer U, Jurgens G. 
+ Cytokinesis in the Arabidopsis embryo involves the syntaxin-related KNOLLE gene
+product.
+Cell. 1996 Jan 12;84(1):61-71.
+PMID: 8548827 [PubMed - indexed for MEDLINE]
+
+446:  Herendeen DR, Kelly TJ. 
+ DNA polymerase III: running rings around the fork.
+Cell. 1996 Jan 12;84(1):5-8. Review. No abstract available.
+PMID: 8548826 [PubMed - indexed for MEDLINE]
+
+447:  Boleti H, Karsenti E, Vernos I. 
+ Xklp2, a novel Xenopus centrosomal kinesin-like protein required for centrosome
+separation during mitosis.
+Cell. 1996 Jan 12;84(1):49-59.
+PMID: 8548825 [PubMed - indexed for MEDLINE]
+
+448:  Walczak CE, Mitchison TJ, Desai A. 
+ XKCM1: a Xenopus kinesin-related protein that regulates microtubule dynamics
+during mitotic spindle assembly.
+Cell. 1996 Jan 12;84(1):37-47.
+PMID: 8548824 [PubMed - indexed for MEDLINE]
+
+449:  Stratmann R, Lehner CF. 
+ Separation of sister chromatids in mitosis requires the Drosophila pimples
+product, a protein degraded after the metaphase/anaphase transition.
+Cell. 1996 Jan 12;84(1):25-35.
+PMID: 8548823 [PubMed - indexed for MEDLINE]
+
+450:  Lock P, Fumagalli S, Polakis P, McCormick F, Courtneidge SA. 
+ The human p62 cDNA encodes Sam68 and not the RasGAP-associated p62 protein.
+Cell. 1996 Jan 12;84(1):23-4. No abstract available.
+PMID: 8548822 [PubMed - indexed for MEDLINE]
+
+451:  Garcia Vescovi E, Soncini FC, Groisman EA. 
+ Mg2+ as an extracellular signal: environmental regulation of Salmonella
+virulence.
+Cell. 1996 Jan 12;84(1):165-74.
+PMID: 8548821 [PubMed - indexed for MEDLINE]
+
+452:  Leahy DJ, Aukhil I, Erickson HP. 
+ 2.0 A crystal structure of a four-domain segment of human fibronectin
+encompassing the RGD loop and synergy region.
+Cell. 1996 Jan 12;84(1):155-64.
+PMID: 8548820 [PubMed - indexed for MEDLINE]
+
+453:  Glucksmann-Kuis MA, Dai X, Markiewicz P, Rothman-Denes LB. 
+ E. coli SSB activates N4 virion RNA polymerase promoters by stabilizing a DNA
+hairpin required for promoter recognition.
+Cell. 1996 Jan 12;84(1):147-54.
+PMID: 8548819 [PubMed - indexed for MEDLINE]
+
+454:  Naktinis V, Turner J, O'Donnell M. 
+ A molecular switch in a replication machine defined by an internal competition
+for protein rings.
+Cell. 1996 Jan 12;84(1):137-45.
+PMID: 8548818 [PubMed - indexed for MEDLINE]
+
+455:  Robinson MS, Watts C, Zerial M. 
+ Membrane dynamics in endocytosis.
+Cell. 1996 Jan 12;84(1):13-21. Review. No abstract available.
+PMID: 8548817 [PubMed - indexed for MEDLINE]
+
+456:  Crossley PH, Minowada G, MacArthur CA, Martin GR. 
+ Roles for FGF8 in the induction, initiation, and maintenance of chick limb
+development.
+Cell. 1996 Jan 12;84(1):127-36.
+PMID: 8548816 [PubMed - indexed for MEDLINE]
+
+457:  Koelle MR, Horvitz HR. 
+ EGL-10 regulates G protein signaling in the C. elegans nervous system and
+shares a conserved domain with many mammalian proteins.
+Cell. 1996 Jan 12;84(1):115-25.
+PMID: 8548815 [PubMed - indexed for MEDLINE]
+
+458:  Italiano JE Jr, Roberts TM, Stewart M, Fontana CA. 
+ Reconstitution in vitro of the motile apparatus from the amoeboid sperm of
+Ascaris shows that filament assembly and bundling move membranes.
+Cell. 1996 Jan 12;84(1):105-14.
+PMID: 8548814 [PubMed - indexed for MEDLINE]
+
+459:  Theriot JA. 
+ Worm sperm and advances in cell locomotion.
+Cell. 1996 Jan 12;84(1):1-4. Review. No abstract available.
+PMID: 8548813 [PubMed - indexed for MEDLINE]

@@ -1,0 +1,1177 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>The nature of plant species</title>
+      <id>info:doi/10.1038/nature04402</id>
+      <link href='http://dx.doi.org/10.1038/nature04402' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Loren H. Rieseberg</name>
+      </author>
+      <author>
+        <name>Troy E. Wood</name>
+      </author>
+      <author>
+        <name>Eric J. Baack</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>524</prism:startingPage>
+      <prism:endingPage>527</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Many botanists doubt the existence of plant species , viewing them as arbitrary constructs of the human mind, as opposed to discrete, objective entities that represent reproductively independent lineages or ‘units of evolution’. However, the discreteness of plant species and their correspondence with reproductive communities have not been tested quantitatively, allowing zoologists to argue that botanists have been overly influenced by a few ‘botanical horror stories’, such as dandelions, blackberries and oaks . Here we analyse phenetic and/or crossing relationships in over 400 genera of plants and animals. We show that although discrete phenotypic clusters exist in most genera (&gt; 80%), the correspondence of taxonomic species to these clusters is poor (&lt; 60%) and no different between plants and animals. Lack of congruence is caused by polyploidy, asexual reproduction and over-differentiation by taxonomists, but not by contemporary hybridization. Nonetheless, crossability data indicate that 70% of taxonomic species and 75% of phenotypic clusters in plants correspond to reproductively independent lineages (as measured by postmating isolation), and thus represent biologically real entities. Contrary to conventional wisdom , plant species are more likely than animal species to represent reproductively independent lineages.</otmi:rawtext>
+            <otmi:reducedtext>Many botanists doubt existence plant species , viewing them arbitrary constructs human mind, opposed discrete, objective entities represent reproductively independent lineages ‘units evolution’. However, discreteness plant species their correspondence reproductive communities have not been tested quantitatively, allowing zoologists argue botanists have been overly influenced few ‘botanical horror stories’, such dandelions, blackberries oaks . Here analyse phenetic / crossing relationships over 400 genera plants animals. show although discrete phenotypic clusters exist most genera (&gt; 80%), correspondence taxonomic species these clusters poor (&lt; 60%) no different between plants animals. Lack congruence caused polyploidy, asexual reproduction over-differentiation taxonomists, but not contemporary hybridization. Nonetheless, crossability data indicate 70% taxonomic species 75% phenotypic clusters plants correspond reproductively independent lineages ( measured postmating isolation), thus represent biologically real entities. Contrary conventional wisdom , plant species more likely than animal species represent reproductively independent lineages.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>species</otmi:vector>
+              <otmi:vector count='3'>plant</otmi:vector>
+              <otmi:vector count='3'>clusters</otmi:vector>
+              <otmi:vector count='3'>represent</otmi:vector>
+              <otmi:vector count='3'>independent</otmi:vector>
+              <otmi:vector count='3'>reproductively</otmi:vector>
+              <otmi:vector count='3'>plants</otmi:vector>
+              <otmi:vector count='2'>entities</otmi:vector>
+              <otmi:vector count='2'>correspondence</otmi:vector>
+              <otmi:vector count='2'>genera</otmi:vector>
+              <otmi:vector count='2'>lineages</otmi:vector>
+              <otmi:vector count='2'>discrete</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>taxonomic</otmi:vector>
+              <otmi:vector count='2'>botanists</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>animals</otmi:vector>
+              <otmi:vector count='2'>phenotypic</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='1'>discreteness</otmi:vector>
+              <otmi:vector count='1'>wisdom</otmi:vector>
+              <otmi:vector count='1'>correspond</otmi:vector>
+              <otmi:vector count='1'>hybridization</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>evolution</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>congruence</otmi:vector>
+              <otmi:vector count='1'>analyse</otmi:vector>
+              <otmi:vector count='1'>relationships</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>lineages.</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>conventional</otmi:vector>
+              <otmi:vector count='1'>crossability</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>stories</otmi:vector>
+              <otmi:vector count='1'>botanical</otmi:vector>
+              <otmi:vector count='1'>arbitrary</otmi:vector>
+              <otmi:vector count='1'>Contrary</otmi:vector>
+              <otmi:vector count='1'>isolation</otmi:vector>
+              <otmi:vector count='1'>communities</otmi:vector>
+              <otmi:vector count='1'>400</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>asexual</otmi:vector>
+              <otmi:vector count='1'>reproduction</otmi:vector>
+              <otmi:vector count='1'>taxonomists</otmi:vector>
+              <otmi:vector count='1'>viewing</otmi:vector>
+              <otmi:vector count='1'>crossing</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>opposed</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>poor</otmi:vector>
+              <otmi:vector count='1'>oaks</otmi:vector>
+              <otmi:vector count='1'>phenetic</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>biologically</otmi:vector>
+              <otmi:vector count='1'>postmating</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>80</otmi:vector>
+              <otmi:vector count='1'>influenced</otmi:vector>
+              <otmi:vector count='1'>objective</otmi:vector>
+              <otmi:vector count='1'>units</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>mind</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>polyploidy</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>75</otmi:vector>
+              <otmi:vector count='1'>quantitatively</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>reproductive</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>animal</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>over-differentiation</otmi:vector>
+              <otmi:vector count='1'>doubt</otmi:vector>
+              <otmi:vector count='1'>dandelions</otmi:vector>
+              <otmi:vector count='1'>zoologists</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>contemporary</otmi:vector>
+              <otmi:vector count='1'>Lack</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>horror</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>blackberries</otmi:vector>
+              <otmi:vector count='1'>overly</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Contrary to conventional wisdom , plant species are more likely than animal species to represent reproductively independent lineages.</otmi:snippet>
+              <otmi:snippet>Here we analyse phenetic and/or crossing relationships in over 400 genera of plants and animals</otmi:snippet>
+              <otmi:snippet>However, the discreteness of plant species and their correspondence with reproductive communities have not been tested quantitatively, allowing zoologists to argue that botanists have been overly influenced by a few ‘botanical horror stories’, such as dandelions, blackberries and oaks </otmi:snippet>
+              <otmi:snippet>Lack of congruence is caused by polyploidy, asexual reproduction and over-differentiation by taxonomists, but not by contemporary hybridization</otmi:snippet>
+              <otmi:snippet>Many botanists doubt the existence of plant species , viewing them as arbitrary constructs of the human mind, as opposed to discrete, objective entities that represent reproductively independent lineages or ‘units of evolution’</otmi:snippet>
+              <otmi:snippet>Nonetheless, crossability data indicate that 70% of taxonomic species and 75% of phenotypic clusters in plants correspond to reproductively independent lineages (as measured by postmating isolation), and thus represent biologically real entities</otmi:snippet>
+              <otmi:snippet>We show that although discrete phenotypic clusters exist in most genera (&gt; 80%), the correspondence of taxonomic species to these clusters is poor (&lt; 60%) and no different between plants and animals</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='10'>taxa</otmi:vector>
+              <otmi:vector count='8'>species</otmi:vector>
+              <otmi:vector count='8'>both</otmi:vector>
+              <otmi:vector count='7'>isolation</otmi:vector>
+              <otmi:vector count='7'>Supplementary</otmi:vector>
+              <otmi:vector count='7'>analyses</otmi:vector>
+              <otmi:vector count='6'>CI</otmi:vector>
+              <otmi:vector count='6'>groups</otmi:vector>
+              <otmi:vector count='6'>correspondence</otmi:vector>
+              <otmi:vector count='6'>crossability</otmi:vector>
+              <otmi:vector count='6'>studies</otmi:vector>
+              <otmi:vector count='6'>sex</otmi:vector>
+              <otmi:vector count='5'>history</otmi:vector>
+              <otmi:vector count='5'>between</otmi:vector>
+              <otmi:vector count='5'>fertile</otmi:vector>
+              <otmi:vector count='5'>phenetic</otmi:vector>
+              <otmi:vector count='5'>life</otmi:vector>
+              <otmi:vector count='5'>versus</otmi:vector>
+              <otmi:vector count='5'>asexual</otmi:vector>
+              <otmi:vector count='5'>one</otmi:vector>
+              <otmi:vector count='4'>mating</otmi:vector>
+              <otmi:vector count='4'>sexual</otmi:vector>
+              <otmi:vector count='4'>Table</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='4'>taxonomic</otmi:vector>
+              <otmi:vector count='4'>plants</otmi:vector>
+              <otmi:vector count='4'>system</otmi:vector>
+              <otmi:vector count='4'>Journal</otmi:vector>
+              <otmi:vector count='4'>see</otmi:vector>
+              <otmi:vector count='4'>animal</otmi:vector>
+              <otmi:vector count='4'>indices</otmi:vector>
+              <otmi:vector count='3'>selfing</otmi:vector>
+              <otmi:vector count='3'>Science</otmi:vector>
+              <otmi:vector count='3'>genera</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>using</otmi:vector>
+              <otmi:vector count='3'>index</otmi:vector>
+              <otmi:vector count='3'>if</otmi:vector>
+              <otmi:vector count='3'>ANOVA</otmi:vector>
+              <otmi:vector count='3'>monomorphic</otmi:vector>
+              <otmi:vector count='3'>effects</otmi:vector>
+              <otmi:vector count='3'>Web</otmi:vector>
+              <otmi:vector count='3'>factors</otmi:vector>
+              <otmi:vector count='3'>before</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>Methods</otmi:vector>
+              <otmi:vector count='3'>s</otmi:vector>
+              <otmi:vector count='3'>Systematic</otmi:vector>
+              <otmi:vector count='3'>treated</otmi:vector>
+              <otmi:vector count='3'>ISI</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>infertile</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>either</otmi:vector>
+              <otmi:vector count='3'>viable</otmi:vector>
+              <otmi:vector count='3'>outcrossing</otmi:vector>
+              <otmi:vector count='3'>significance</otmi:vector>
+              <otmi:vector count='3'>Botany</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>subdivided</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='2'>intraspecific</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>Plant</otmi:vector>
+              <otmi:vector count='2'>0</otmi:vector>
+              <otmi:vector count='2'>included</otmi:vector>
+              <otmi:vector count='2'>polyploidy</otmi:vector>
+              <otmi:vector count='2'>lepidopterans</otmi:vector>
+              <otmi:vector count='2'>discrete</otmi:vector>
+              <otmi:vector count='2'>mammals</otmi:vector>
+              <otmi:vector count='2'>sexes</otmi:vector>
+              <otmi:vector count='2'>mean</otmi:vector>
+              <otmi:vector count='2'>animals</otmi:vector>
+              <otmi:vector count='2'>estimates</otmi:vector>
+              <otmi:vector count='2'>0.8</otmi:vector>
+              <otmi:vector count='2'>missing</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='2'>taxon</otmi:vector>
+              <otmi:vector count='2'>clusters</otmi:vector>
+              <otmi:vector count='2'>reported</otmi:vector>
+              <otmi:vector count='2'>polymorphic</otmi:vector>
+              <otmi:vector count='2'>arcsine-square</otmi:vector>
+              <otmi:vector count='2'>multiple</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>fertility</otmi:vector>
+              <otmi:vector count='2'>frogs</otmi:vector>
+              <otmi:vector count='2'>biological</otmi:vector>
+              <otmi:vector count='2'>significant</otmi:vector>
+              <otmi:vector count='2'>plant</otmi:vector>
+              <otmi:vector count='2'>discriminant</otmi:vector>
+              <otmi:vector count='2'>division</otmi:vector>
+              <otmi:vector count='2'>Systematics</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>recorded</otmi:vector>
+              <otmi:vector count='2'>flies</otmi:vector>
+              <otmi:vector count='2'>birds</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>root</otmi:vector>
+              <otmi:vector count='2'>tests</otmi:vector>
+              <otmi:vector count='2'>Zoology</otmi:vector>
+              <otmi:vector count='2'>compared</otmi:vector>
+              <otmi:vector count='2'>intra</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>fishes</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>performed</otmi:vector>
+              <otmi:vector count='2'>kingdom</otmi:vector>
+              <otmi:vector count='2'>obtained</otmi:vector>
+              <otmi:vector count='2'>fitness</otmi:vector>
+              <otmi:vector count='2'>search</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>converted</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>methods</otmi:vector>
+              <otmi:vector count='2'>containing</otmi:vector>
+              <otmi:vector count='2'>absence</otmi:vector>
+              <otmi:vector count='2'>threshold</otmi:vector>
+              <otmi:vector count='2'>inter-specific</otmi:vector>
+              <otmi:vector count='2'>Evolution</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>conducted</otmi:vector>
+              <otmi:vector count='2'>American</otmi:vector>
+              <otmi:vector count='2'>SAS</otmi:vector>
+              <otmi:vector count='1'>compilations</otmi:vector>
+              <otmi:vector count='1'>Biology</otmi:vector>
+              <otmi:vector count='1'>reproductive</otmi:vector>
+              <otmi:vector count='1'>Gray</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>measures</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>feasible</otmi:vector>
+              <otmi:vector count='1'>PROC</otmi:vector>
+              <otmi:vector count='1'>Tables</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>calculate</otmi:vector>
+              <otmi:vector count='1'>surveyed</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>recognized</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>characters</otmi:vector>
+              <otmi:vector count='1'>perceived</otmi:vector>
+              <otmi:vector count='1'>randomization</otmi:vector>
+              <otmi:vector count='1'>basal</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>0.25</otmi:vector>
+              <otmi:vector count='1'>crossing</otmi:vector>
+              <otmi:vector count='1'>statistical</otmi:vector>
+              <otmi:vector count='1'>literature</otmi:vector>
+              <otmi:vector count='1'>Contrasts</otmi:vector>
+              <otmi:vector count='1'>rarer</otmi:vector>
+              <otmi:vector count='1'>“plant</otmi:vector>
+              <otmi:vector count='1'>viability</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>equality</otmi:vector>
+              <otmi:vector count='1'>genus</otmi:vector>
+              <otmi:vector count='1'>numerical</otmi:vector>
+              <otmi:vector count='1'>Likewise</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>Linnaean</otmi:vector>
+              <otmi:vector count='1'>contemporary</otmi:vector>
+              <otmi:vector count='1'>morphometric</otmi:vector>
+              <otmi:vector count='1'>reproductively</otmi:vector>
+              <otmi:vector count='1'>untransformed</otmi:vector>
+              <otmi:vector count='1'>proportion</otmi:vector>
+              <otmi:vector count='1'>Phenetic</otmi:vector>
+              <otmi:vector count='1'>single-lowest</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>Watsonia</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>transformations</otmi:vector>
+              <otmi:vector count='1'>Multifactor</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>0.5</otmi:vector>
+              <otmi:vector count='1'>journals</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>overlapped</otmi:vector>
+              <otmi:vector count='1'>Multiple</otmi:vector>
+              <otmi:vector count='1'>screened</otmi:vector>
+              <otmi:vector count='1'>yielded</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>individuals</otmi:vector>
+              <otmi:vector count='1'>phylogenetic</otmi:vector>
+              <otmi:vector count='1'>departures</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>avoid</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>10,000</otmi:vector>
+              <otmi:vector count='1'>hybrids</otmi:vector>
+              <otmi:vector count='1'>otherwise</otmi:vector>
+              <otmi:vector count='1'>ordination</otmi:vector>
+              <otmi:vector count='1'>Also</otmi:vector>
+              <otmi:vector count='1'>Fern</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>comparisons</otmi:vector>
+              <otmi:vector count='1'>Analysis</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>non-overlapping</otmi:vector>
+              <otmi:vector count='1'>values</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>clustering</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>1960</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>pooled</otmi:vector>
+              <otmi:vector count='1'>Botanical</otmi:vector>
+              <otmi:vector count='1'>discriminating</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>remaining</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>evolutionary</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>Crossability</otmi:vector>
+              <otmi:vector count='1'>Similar</otmi:vector>
+              <otmi:vector count='1'>differentiated</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>Mean</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>percentages</otmi:vector>
+              <otmi:vector count='1'>vascular</otmi:vector>
+              <otmi:vector count='1'>Institute</otmi:vector>
+              <otmi:vector count='1'>unavailable</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>inverted</otmi:vector>
+              <otmi:vector count='1'>hybrid</otmi:vector>
+              <otmi:vector count='1'>appropriate</otmi:vector>
+              <otmi:vector count='1'>2001</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>discontinuous</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>ranged</otmi:vector>
+              <otmi:vector count='1'>Taxa</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>Bryologist</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>variances</otmi:vector>
+              <otmi:vector count='1'>classification</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>representation</otmi:vector>
+              <otmi:vector count='1'>GLM</otmi:vector>
+              <otmi:vector count='1'>Results</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>calculation</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>inviable</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>bias</otmi:vector>
+              <otmi:vector count='1'>employed</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>searches</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>semelparous</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>declared</otmi:vector>
+              <otmi:vector count='1'>crosses</otmi:vector>
+              <otmi:vector count='1'>focus</otmi:vector>
+              <otmi:vector count='1'>F</otmi:vector>
+              <otmi:vector count='1'>sometimes</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>searched</otmi:vector>
+              <otmi:vector count='1'>principal</otmi:vector>
+              <otmi:vector count='1'>phenotypically</otmi:vector>
+              <otmi:vector count='1'>maximizes</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>relied</otmi:vector>
+              <otmi:vector count='1'>CIs</otmi:vector>
+              <otmi:vector count='1'>0.75</otmi:vector>
+              <otmi:vector count='1'>Society</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>normality</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>One-way</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>variable</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>multiplicative</otmi:vector>
+              <otmi:vector count='1'>Quantitative</otmi:vector>
+              <otmi:vector count='1'>repeated</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>follows</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>taxonomy</otmi:vector>
+              <otmi:vector count='1'>scored</otmi:vector>
+              <otmi:vector count='1'>lineages</otmi:vector>
+              <otmi:vector count='1'>weights</otmi:vector>
+              <otmi:vector count='1'>fall</otmi:vector>
+              <otmi:vector count='1'>transformations.</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>compatibility</otmi:vector>
+              <otmi:vector count='1'>iteroparous</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>hybridization</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>All analyses were performed using SAS PROC GLM ( SAS Institute , 2001)</otmi:snippet>
+              <otmi:snippet>Also, if multiple measures of reproductive isolation were provided, a multiplicative fitness function was used to calculate CI (calculation of CI based on the single-lowest factor yielded the same results; see the Supplementary Methods and Results )</otmi:snippet>
+              <otmi:snippet>Although no significant departures from normality and equality of variances were observed, all analyses were performed with and without arcsine-square root transformations, with only the latter reported here</otmi:snippet>
+              <otmi:snippet>Analysis of biological factors that might affect correspondence between species taxa and CI in plants was also conducted by ANOVA, with taxonomic division, life history, mating system and polyploidy included as main effects (see Supplementary Table 4 )</otmi:snippet>
+              <otmi:snippet>As before, genera that were polymorphic for important biological factors were subdivided into groups that were monomorphic for these factors for statistical analyses (see below)</otmi:snippet>
+              <otmi:snippet>As before, if no information was provided on intraspecific compatibility, then the mean CI threshold of 0.8 was employed to assess correspondence</otmi:snippet>
+              <otmi:snippet>Because studies in some genera included few taxa, leading to a discontinuous distribution of correspondence values, we tested significance using 10,000 randomization tests as well as F -tests based on the untransformed percentages (see the Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>Contrasts compared asexual versus sexual taxa and selfing versus outcrossing sexual taxa</otmi:snippet>
+              <otmi:snippet>Crossability analyses For plants, we screened Plant Systematics and Evolution , Systematic Botany and the American Journal of Botany (from 1960 on) for studies that reported on crossability from both intra- and inter-specific crosses ( Supplementary Table 5 )</otmi:snippet>
+              <otmi:snippet>For birds , fishes and mammals , isolation indices were converted to a crossability index as follows: 1, both sexes fully fertile and viable; 0.75, one sex fertile, the other sex some individuals recorded as fertile; 0.5, one sex fertile, one sex viable but infertile; 0.25, one sex sometimes fertile, one sex viable but infertile; 0, both sexes either inviable or infertile or both </otmi:snippet>
+              <otmi:snippet>For each taxon, we recorded the number of discrete (that is, non-overlapping) clusters identified by either ordination or clustering methods ( Supplementary Tables 1 and 2 )</otmi:snippet>
+              <otmi:snippet>For flies , frogs and lepidopterans , isolation indices that ranged from 0 (no isolation) to 1 (complete isolation) were inverted</otmi:snippet>
+              <otmi:snippet>For mammals, we extracted hybrid fitness data from Gray , whereas the remaining animal crossing studies were obtained from the primary literature following searches on ISI &apos;s Web of Science </otmi:snippet>
+              <otmi:snippet>However, groups containing both sexual and asexual taxa were treated as ‘asexual’ in the analyses because asexual taxa often overlapped phenotypically with multiple sexual taxa</otmi:snippet>
+              <otmi:snippet>If intraspecific fertility data were unavailable for a group, then crossability indices (CIs) had to fall below 0.8 (the average significance threshold) before significance was declared</otmi:snippet>
+              <otmi:snippet>Likewise, taxa containing both selfing and outcrossing species were either subdivided into groups that were monomorphic for mating system, or mating system was treated as ‘missing’</otmi:snippet>
+              <otmi:snippet>Mean correspondence was analysed with and without arcsine-square root transformations.</otmi:snippet>
+              <otmi:snippet>Methods Phenetic analyses To identify appropriate numerical taxonomic studies of plants and animals, we surveyed journals with an experimental taxonomic or evolutionary focus ( Plant Systematics and Evolution , Systematic Botany , Watsonia , Botanical Journal of the Linnaean Society , Systematic Zoology/Biology and Journal of Zoology ), as well as The Bryologist and the American Fern Journal to increase representation from basal vascular plants</otmi:snippet>
+              <otmi:snippet>Multifactor ANOVA was used to test for significant effects of taxon, life history (iteroparous versus semelparous), mating system (asexual, outcrossing, selfing), polyploidy (absence versus presence) and contemporary hybridization (absence versus presence) on correspondence between species taxa and phenetic clusters</otmi:snippet>
+              <otmi:snippet>Multiple studies within a genus were pooled to avoid phylogenetic bias</otmi:snippet>
+              <otmi:snippet>One-way ANOVA was conducted to determine whether kingdom or class/division significantly affected correspondence between species taxa and CI</otmi:snippet>
+              <otmi:snippet>Quantitative estimates of both intra- and inter-specific crossability are rarer in animals, so we relied mainly on several large compilations that provide an ‘isolation index’ between species of birds , flies , fishes , frogs and lepidopterans ( Supplementary Table 6 )</otmi:snippet>
+              <otmi:snippet>Similar results were obtained by both methods</otmi:snippet>
+              <otmi:snippet>Taxa differentiated by discriminant analysis, but not by other phenetic approaches, were not considered to be discrete because discriminant analysis weights characters that are perceived to be of importance in discriminating previously recognized groups</otmi:snippet>
+              <otmi:snippet>The analysis of the effects of kingdom was repeated with mean CI as the dependent variable</otmi:snippet>
+              <otmi:snippet>This classification maximizes estimates of the proportion of ‘good’ animal species (as compared to plant species); animal species are scored as reproductively independent lineages if their hybrids show any loss of fertility or viability</otmi:snippet>
+              <otmi:snippet>To enable comparisons between the plant and animal data sets, the various isolation indices were converted to a crossability index</otmi:snippet>
+              <otmi:snippet>We also searched ISI &apos;s Web of Science using the search terms, “plant and phenetic” and “principal component and phenetic” and “morphometric and taxonomy”</otmi:snippet>
+              <otmi:snippet>We also used ISI &apos;s Web of Science to search for crossability studies of the same genera used in the phenetic analyses ( Supplementary Table 3 )</otmi:snippet>
+              <otmi:snippet>When feasible, taxonomic groups polymorphic for life history were subdivided into groups that were monomorphic for life history; otherwise, life history was treated as ‘missing’</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='35'>species</otmi:vector>
+              <otmi:vector count='22'>taxa</otmi:vector>
+              <otmi:vector count='17'>phenetic</otmi:vector>
+              <otmi:vector count='14'>plant</otmi:vector>
+              <otmi:vector count='12'>taxonomic</otmi:vector>
+              <otmi:vector count='11'>reproductively</otmi:vector>
+              <otmi:vector count='11'>clusters</otmi:vector>
+              <otmi:vector count='11'>groups</otmi:vector>
+              <otmi:vector count='10'>independent</otmi:vector>
+              <otmi:vector count='10'>reproductive</otmi:vector>
+              <otmi:vector count='9'>plants</otmi:vector>
+              <otmi:vector count='9'>lineages</otmi:vector>
+              <otmi:vector count='8'>crossability</otmi:vector>
+              <otmi:vector count='8'>correspondence</otmi:vector>
+              <otmi:vector count='8'>However</otmi:vector>
+              <otmi:vector count='7'>studies</otmi:vector>
+              <otmi:vector count='7'>animals</otmi:vector>
+              <otmi:vector count='7'>P</otmi:vector>
+              <otmi:vector count='7'>than</otmi:vector>
+              <otmi:vector count='7'>these</otmi:vector>
+              <otmi:vector count='7'>our</otmi:vector>
+              <otmi:vector count='7'>more</otmi:vector>
+              <otmi:vector count='7'>1</otmi:vector>
+              <otmi:vector count='6'>CI</otmi:vector>
+              <otmi:vector count='6'>have</otmi:vector>
+              <otmi:vector count='6'>correspond</otmi:vector>
+              <otmi:vector count='6'>genera</otmi:vector>
+              <otmi:vector count='6'>may</otmi:vector>
+              <otmi:vector count='6'>do</otmi:vector>
+              <otmi:vector count='6'>discrete</otmi:vector>
+              <otmi:vector count='6'>between</otmi:vector>
+              <otmi:vector count='6'>also</otmi:vector>
+              <otmi:vector count='6'>taxonomists</otmi:vector>
+              <otmi:vector count='6'>represent</otmi:vector>
+              <otmi:vector count='6'>see</otmi:vector>
+              <otmi:vector count='6'>animal</otmi:vector>
+              <otmi:vector count='5'>intraspecific</otmi:vector>
+              <otmi:vector count='5'>t</otmi:vector>
+              <otmi:vector count='5'>F</otmi:vector>
+              <otmi:vector count='5'>estimates</otmi:vector>
+              <otmi:vector count='5'>because</otmi:vector>
+              <otmi:vector count='5'>analyses</otmi:vector>
+              <otmi:vector count='5'>Methods</otmi:vector>
+              <otmi:vector count='5'>barriers</otmi:vector>
+              <otmi:vector count='5'>phenotypic</otmi:vector>
+              <otmi:vector count='5'>data</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='5'>model</otmi:vector>
+              <otmi:vector count='5'>populations</otmi:vector>
+              <otmi:vector count='5'>postmating</otmi:vector>
+              <otmi:vector count='5'>isolation</otmi:vector>
+              <otmi:vector count='4'>cluster</otmi:vector>
+              <otmi:vector count='4'>test</otmi:vector>
+              <otmi:vector count='4'>many</otmi:vector>
+              <otmi:vector count='4'>n</otmi:vector>
+              <otmi:vector count='4'>hybrids</otmi:vector>
+              <otmi:vector count='4'>statistical</otmi:vector>
+              <otmi:vector count='4'>mean</otmi:vector>
+              <otmi:vector count='4'>Supplementary</otmi:vector>
+              <otmi:vector count='4'>both</otmi:vector>
+              <otmi:vector count='4'>revealed</otmi:vector>
+              <otmi:vector count='4'>taxon</otmi:vector>
+              <otmi:vector count='4'>problems</otmi:vector>
+              <otmi:vector count='4'>2</otmi:vector>
+              <otmi:vector count='4'>significant</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>agamic</otmi:vector>
+              <otmi:vector count='4'>interspecific</otmi:vector>
+              <otmi:vector count='4'>independence</otmi:vector>
+              <otmi:vector count='4'>hybridization</otmi:vector>
+              <otmi:vector count='3'>0.0001</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>Fig</otmi:vector>
+              <otmi:vector count='3'>not</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='3'>paired</otmi:vector>
+              <otmi:vector count='3'>Thus</otmi:vector>
+              <otmi:vector count='3'>each</otmi:vector>
+              <otmi:vector count='3'>per</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='3'>they</otmi:vector>
+              <otmi:vector count='3'>if</otmi:vector>
+              <otmi:vector count='3'>factors</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>cross-combinations</otmi:vector>
+              <otmi:vector count='3'>generally</otmi:vector>
+              <otmi:vector count='3'>number</otmi:vector>
+              <otmi:vector count='3'>proportion</otmi:vector>
+              <otmi:vector count='3'>flow</otmi:vector>
+              <otmi:vector count='3'>numerical</otmi:vector>
+              <otmi:vector count='3'>directly</otmi:vector>
+              <otmi:vector count='3'>fraction</otmi:vector>
+              <otmi:vector count='3'>contemporary</otmi:vector>
+              <otmi:vector count='3'>majority</otmi:vector>
+              <otmi:vector count='3'>been</otmi:vector>
+              <otmi:vector count='3'>study</otmi:vector>
+              <otmi:vector count='3'>given</otmi:vector>
+              <otmi:vector count='3'>isolated</otmi:vector>
+              <otmi:vector count='3'>significantly</otmi:vector>
+              <otmi:vector count='3'>among</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>Table</otmi:vector>
+              <otmi:vector count='3'>biological</otmi:vector>
+              <otmi:vector count='3'>polyploidy</otmi:vector>
+              <otmi:vector count='3'>methods</otmi:vector>
+              <otmi:vector count='3'>cause</otmi:vector>
+              <otmi:vector count='3'>exist</otmi:vector>
+              <otmi:vector count='3'>group</otmi:vector>
+              <otmi:vector count='3'>classification</otmi:vector>
+              <otmi:vector count='3'>whether</otmi:vector>
+              <otmi:vector count='2'>9</otmi:vector>
+              <otmi:vector count='2'>them</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>0.03</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>hypothesis</otmi:vector>
+              <otmi:vector count='2'>population</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>evolve</otmi:vector>
+              <otmi:vector count='2'>calculated</otmi:vector>
+              <otmi:vector count='2'>level</otmi:vector>
+              <otmi:vector count='2'>entities</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='2'>lineage</otmi:vector>
+              <otmi:vector count='2'>clustering</otmi:vector>
+              <otmi:vector count='2'>involving</otmi:vector>
+              <otmi:vector count='2'>history</otmi:vector>
+              <otmi:vector count='2'>observation</otmi:vector>
+              <otmi:vector count='2'>compared</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>biosystematic</otmi:vector>
+              <otmi:vector count='2'>tend</otmi:vector>
+              <otmi:vector count='2'>application</otmi:vector>
+              <otmi:vector count='2'>discontinuities</otmi:vector>
+              <otmi:vector count='2'>account</otmi:vector>
+              <otmi:vector count='2'>Although</otmi:vector>
+              <otmi:vector count='2'>average</otmi:vector>
+              <otmi:vector count='2'>Tables</otmi:vector>
+              <otmi:vector count='2'>crosses</otmi:vector>
+              <otmi:vector count='2'>exhibit</otmi:vector>
+              <otmi:vector count='2'>intercluster</otmi:vector>
+              <otmi:vector count='2'>included</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>employed</otmi:vector>
+              <otmi:vector count='2'>considered</otmi:vector>
+              <otmi:vector count='2'>likely</otmi:vector>
+              <otmi:vector count='2'>effect</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>alleles</otmi:vector>
+              <otmi:vector count='2'>life</otmi:vector>
+              <otmi:vector count='2'>poor</otmi:vector>
+              <otmi:vector count='2'>distinct</otmi:vector>
+              <otmi:vector count='2'>conspecific</otmi:vector>
+              <otmi:vector count='2'>latter</otmi:vector>
+              <otmi:vector count='2'>discreteness</otmi:vector>
+              <otmi:vector count='2'>imply</otmi:vector>
+              <otmi:vector count='2'>reflect</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>rarely</otmi:vector>
+              <otmi:vector count='2'>botanists</otmi:vector>
+              <otmi:vector count='2'>problematic</otmi:vector>
+              <otmi:vector count='2'>impact</otmi:vector>
+              <otmi:vector count='2'>CIs</otmi:vector>
+              <otmi:vector count='2'>basis</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>practices</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>processes</otmi:vector>
+              <otmi:vector count='2'>Indeed</otmi:vector>
+              <otmi:vector count='2'>Also</otmi:vector>
+              <otmi:vector count='2'>intracluster</otmi:vector>
+              <otmi:vector count='2'>phenotypically</otmi:vector>
+              <otmi:vector count='2'>real</otmi:vector>
+              <otmi:vector count='2'>role</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>failed</otmi:vector>
+              <otmi:vector count='2'>variation</otmi:vector>
+              <otmi:vector count='2'>equivalent</otmi:vector>
+              <otmi:vector count='2'>within</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>measured</otmi:vector>
+              <otmi:vector count='2'>More</otmi:vector>
+              <otmi:vector count='2'>levels</otmi:vector>
+              <otmi:vector count='2'>37</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>influence</otmi:vector>
+              <otmi:vector count='2'>when</otmi:vector>
+              <otmi:vector count='2'>reported</otmi:vector>
+              <otmi:vector count='2'>through</otmi:vector>
+              <otmi:vector count='2'>While</otmi:vector>
+              <otmi:vector count='2'>literature</otmi:vector>
+              <otmi:vector count='2'>ANOVA</otmi:vector>
+              <otmi:vector count='2'>crossing</otmi:vector>
+              <otmi:vector count='2'>Lack</otmi:vector>
+              <otmi:vector count='2'>strong</otmi:vector>
+              <otmi:vector count='2'>result</otmi:vector>
+              <otmi:vector count='2'>versus</otmi:vector>
+              <otmi:vector count='2'>complexes</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>parental</otmi:vector>
+              <otmi:vector count='2'>indicate</otmi:vector>
+              <otmi:vector count='2'>representing</otmi:vector>
+              <otmi:vector count='2'>earlier</otmi:vector>
+              <otmi:vector count='2'>objectivity</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>highest</otmi:vector>
+              <otmi:vector count='1'>tabulated</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>marginal</otmi:vector>
+              <otmi:vector count='1'>Darwin&apos;s</otmi:vector>
+              <otmi:vector count='1'>neurological</otmi:vector>
+              <otmi:vector count='1'>weighting</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>qualitative</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>218</otmi:vector>
+              <otmi:vector count='1'>represented</otmi:vector>
+              <otmi:vector count='1'>detect</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>backcrossing</otmi:vector>
+              <otmi:vector count='1'>recombining</otmi:vector>
+              <otmi:vector count='1'>52.1</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>poisoning</otmi:vector>
+              <otmi:vector count='1'>694</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>two-tailed</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>0.009</otmi:vector>
+              <otmi:vector count='1'>concert</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>dandelions</otmi:vector>
+              <otmi:vector count='1'>address</otmi:vector>
+              <otmi:vector count='1'>expectation</otmi:vector>
+              <otmi:vector count='1'>Botanists</otmi:vector>
+              <otmi:vector count='1'>cautiously</otmi:vector>
+              <otmi:vector count='1'>source</otmi:vector>
+              <otmi:vector count='1'>assessed</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>means</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>communities</otmi:vector>
+              <otmi:vector count='1'>western</otmi:vector>
+              <otmi:vector count='1'>52.8</otmi:vector>
+              <otmi:vector count='1'>marker</otmi:vector>
+              <otmi:vector count='1'>93</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>frequent</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>recognize</otmi:vector>
+              <otmi:vector count='1'>variance</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>roughly</otmi:vector>
+              <otmi:vector count='1'>cross-combination</otmi:vector>
+              <otmi:vector count='1'>0.22</otmi:vector>
+              <otmi:vector count='1'>asexual</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>0.91</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>ploidal</otmi:vector>
+              <otmi:vector count='1'>fascination</otmi:vector>
+              <otmi:vector count='1'>0.71</otmi:vector>
+              <otmi:vector count='1'>one-tailed</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>crude</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>congeners</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>colonization</otmi:vector>
+              <otmi:vector count='1'>6.61</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>0.43</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>source–sink</otmi:vector>
+              <otmi:vector count='1'>fertility</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>congruence</otmi:vector>
+              <otmi:vector count='1'>derives</otmi:vector>
+              <otmi:vector count='1'>fall</otmi:vector>
+              <otmi:vector count='1'>randomly</otmi:vector>
+              <otmi:vector count='1'>percentage</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>fern</otmi:vector>
+              <otmi:vector count='1'>unit</otmi:vector>
+              <otmi:vector count='1'>0.28</otmi:vector>
+              <otmi:vector count='1'>Possibly</otmi:vector>
+              <otmi:vector count='1'>persist</otmi:vector>
+              <otmi:vector count='1'>7.93</otmi:vector>
+              <otmi:vector count='1'>83.1</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>premating</otmi:vector>
+              <otmi:vector count='1'>hybrid</otmi:vector>
+              <otmi:vector count='1'>heterogeneity</otmi:vector>
+              <otmi:vector count='1'>considerable</otmi:vector>
+              <otmi:vector count='1'>4.3</otmi:vector>
+              <otmi:vector count='1'>dividing</otmi:vector>
+              <otmi:vector count='1'>selfing</otmi:vector>
+              <otmi:vector count='1'>historical</otmi:vector>
+              <otmi:vector count='1'>appear</otmi:vector>
+              <otmi:vector count='1'>mention</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>accusation</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>strength</otmi:vector>
+              <otmi:vector count='1'>bias</otmi:vector>
+              <otmi:vector count='1'>Previous</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>confusion</otmi:vector>
+              <otmi:vector count='1'>Baker&apos;s</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>genetics</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>outperform</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>rigorous</otmi:vector>
+              <otmi:vector count='1'>replaced</otmi:vector>
+              <otmi:vector count='1'>floras</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>broader</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>fuzzy</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>sexual</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>traits</otmi:vector>
+              <otmi:vector count='1'>21</otmi:vector>
+              <otmi:vector count='1'>psyche</otmi:vector>
+              <otmi:vector count='1'>Analysis</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>maintenance</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>outcrossing</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>initial</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>searched</otmi:vector>
+              <otmi:vector count='1'>deviations</otmi:vector>
+              <otmi:vector count='1'>despite</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>floristic</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>7.1</otmi:vector>
+              <otmi:vector count='1'>Species</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>index</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>Overall</otmi:vector>
+              <otmi:vector count='1'>114</otmi:vector>
+              <otmi:vector count='1'>R</otmi:vector>
+              <otmi:vector count='1'>13.6</otmi:vector>
+              <otmi:vector count='1'>underestimate</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>division</otmi:vector>
+              <otmi:vector count='1'>exaggerated</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>ferns</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>sampled</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>Interspecific</otmi:vector>
+              <otmi:vector count='1'>agamospermy</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>fertile</otmi:vector>
+              <otmi:vector count='1'>shortened</otmi:vector>
+              <otmi:vector count='1'>1,306</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>71.2</otmi:vector>
+              <otmi:vector count='1'>characters</otmi:vector>
+              <otmi:vector count='1'>character</otmi:vector>
+              <otmi:vector count='1'>ostensibly</otmi:vector>
+              <otmi:vector count='1'>viewed</otmi:vector>
+              <otmi:vector count='1'>Surprisingly</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>willing</otmi:vector>
+              <otmi:vector count='1'>equal</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>1,164</otmi:vector>
+              <otmi:vector count='1'>1,231</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>beneficial</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>under-differentiation</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>13.1</otmi:vector>
+              <otmi:vector count='1'>pulled</otmi:vector>
+              <otmi:vector count='1'>classification—so-called</otmi:vector>
+              <otmi:vector count='1'>biases</otmi:vector>
+              <otmi:vector count='1'>0.08</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>surveyed</otmi:vector>
+              <otmi:vector count='1'>attempts</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>weighted</otmi:vector>
+              <otmi:vector count='1'>Perhaps</otmi:vector>
+              <otmi:vector count='1'>phylogenetic</otmi:vector>
+              <otmi:vector count='1'>extinction</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>advances</otmi:vector>
+              <otmi:vector count='1'>Theoretical</otmi:vector>
+              <otmi:vector count='1'>viable</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>Contrary</otmi:vector>
+              <otmi:vector count='1'>orbit</otmi:vector>
+              <otmi:vector count='1'>assayed</otmi:vector>
+              <otmi:vector count='1'>39.2</otmi:vector>
+              <otmi:vector count='1'>split</otmi:vector>
+              <otmi:vector count='1'>compilation</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>multifactor</otmi:vector>
+              <otmi:vector count='1'>focus</otmi:vector>
+              <otmi:vector count='1'>none</otmi:vector>
+              <otmi:vector count='1'>4–6</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>threshold</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>1.20</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>0.8</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>subdivided</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>measure</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>attended</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>apomixis</otmi:vector>
+              <otmi:vector count='1'>1,28</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>conservative</otmi:vector>
+              <otmi:vector count='1'>seed</otmi:vector>
+              <otmi:vector count='1'>reproduction</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>species-boundaries</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>Results</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>7,299</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>accused</otmi:vector>
+              <otmi:vector count='1'>1,278</otmi:vector>
+              <otmi:vector count='1'>entirely</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>mind</otmi:vector>
+              <otmi:vector count='1'>evolutionary</otmi:vector>
+              <otmi:vector count='1'>broadly</otmi:vector>
+              <otmi:vector count='1'>biologically</otmi:vector>
+              <otmi:vector count='1'>advantageous</otmi:vector>
+              <otmi:vector count='1'>ploidy</otmi:vector>
+              <otmi:vector count='1'>morphological</otmi:vector>
+              <otmi:vector count='1'>relied</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>frequently</otmi:vector>
+              <otmi:vector count='1'>3.7</otmi:vector>
+              <otmi:vector count='1'>fairly</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>13,000</otmi:vector>
+              <otmi:vector count='1'>difficult</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>39.97</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>folk</otmi:vector>
+              <otmi:vector count='1'>88</otmi:vector>
+              <otmi:vector count='1'>cohesion</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>genus</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>array</otmi:vector>
+              <otmi:vector count='1'>regression</otmi:vector>
+              <otmi:vector count='1'>advocated</otmi:vector>
+              <otmi:vector count='1'>87.4</otmi:vector>
+              <otmi:vector count='1'>over-differentiation</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>expectations</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>diploid</otmi:vector>
+              <otmi:vector count='1'>botanical</otmi:vector>
+              <otmi:vector count='1'>this.</otmi:vector>
+              <otmi:vector count='1'>species-wide</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>126</otmi:vector>
+              <otmi:vector count='1'>supported</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>taxonomies</otmi:vector>
+              <otmi:vector count='1'>monographs</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>fixation</otmi:vector>
+              <otmi:vector count='1'>questioned</otmi:vector>
+              <otmi:vector count='1'>Counting</otmi:vector>
+              <otmi:vector count='1'>necessarily</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>0.12</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>polyploids</otmi:vector>
+              <otmi:vector count='1'>diversity</otmi:vector>
+              <otmi:vector count='1'>polyploid</otmi:vector>
+              <otmi:vector count='1'>concordance</otmi:vector>
+              <otmi:vector count='1'>evidence</otmi:vector>
+              <otmi:vector count='1'>contribution</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>fail</otmi:vector>
+              <otmi:vector count='1'>42.30</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>83</otmi:vector>
+              <otmi:vector count='1'>monographic</otmi:vector>
+              <otmi:vector count='1'>common</otmi:vector>
+              <otmi:vector count='1'>trend</otmi:vector>
+              <otmi:vector count='1'>morphologically</otmi:vector>
+              <otmi:vector count='1'>170</otmi:vector>
+              <otmi:vector count='1'>asexuality</otmi:vector>
+              <otmi:vector count='1'>birds</otmi:vector>
+              <otmi:vector count='1'>low-migration</otmi:vector>
+              <otmi:vector count='1'>heavily</otmi:vector>
+              <otmi:vector count='1'>continue</otmi:vector>
+              <otmi:vector count='1'>units</otmi:vector>
+              <otmi:vector count='1'>taxonomy</otmi:vector>
+              <otmi:vector count='1'>validate</otmi:vector>
+              <otmi:vector count='1'>fitness</otmi:vector>
+              <otmi:vector count='1'>allies</otmi:vector>
+              <otmi:vector count='1'>1.44</otmi:vector>
+              <otmi:vector count='1'>mating</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>75.2</otmi:vector>
+              <otmi:vector count='1'>6.8</otmi:vector>
+              <otmi:vector count='1'>s.e.m</otmi:vector>
+              <otmi:vector count='1'>69.5</otmi:vector>
+              <otmi:vector count='1'>species-level</otmi:vector>
+              <otmi:vector count='1'>blackberries</otmi:vector>
+              <otmi:vector count='1'>fails</otmi:vector>
+              <otmi:vector count='1'>deleterious</otmi:vector>
+              <otmi:vector count='1'>implies</otmi:vector>
+              <otmi:vector count='1'>lowest</otmi:vector>
+              <otmi:vector count='1'>assume</otmi:vector>
+              <otmi:vector count='1'>inconclusive</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>Analyses</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A more rigorous approach derives from the application of statistical procedures to classification—so-called numerical taxonomy </otmi:snippet>
+              <otmi:snippet>A more surprising observation was that contemporary hybridization among species of the same ploidal level failed to cause taxonomic problems, despite its frequent mention as the primary cause of ‘fuzzy’ species-boundaries in plants </otmi:snippet>
+              <otmi:snippet>Also, full fertility of intraspecific hybrids is not necessarily equivalent to the reproductive cohesion of conspecific populations</otmi:snippet>
+              <otmi:snippet>Also, they fail to address whether discrete clusters, if they exist, correspond to reproductively independent lineages</otmi:snippet>
+              <otmi:snippet>Although now largely replaced by phylogenetic methods, these statistical practices continue to be broadly employed by taxonomists working on species-level problems</otmi:snippet>
+              <otmi:snippet>Although the taxonomic problems caused by agamospermy in plants are real, apomixis has been reported for only 126 (&lt; 1%) of 13,000 genera of seed plants </otmi:snippet>
+              <otmi:snippet>Analyses of 37 taxonomic groups having both phenetic and crossability data ( Supplementary Table 3 ) revealed that both species taxa (71.2 ± 7.1%; mean ± s.e.m.) and phenetic clusters (75.2 ± 6.8%) generally exhibit reproductive independence, and a paired t -test failed to detect a difference in means ( n = 37, t = 0.12, P = 0.91; two-tailed paired t -test)</otmi:snippet>
+              <otmi:snippet>Analysis of variation in the strength of postmating reproductive isolation also revealed that plant species taxa were, on average, more strongly isolated than animal species (mean CI for plants 0.43 ± 0.03, versus 0.71 ± 0.03 for animals; model F 1,278 = 39.97, P &lt; 0.0001)</otmi:snippet>
+              <otmi:snippet>Because both asexuality and polyploidy are attended by significant crossing barriers, phenotypically intermediate hybrids in these groups may persist without recombining with parental forms </otmi:snippet>
+              <otmi:snippet>Botanists have been accused of poisoning Darwin&apos;s mind about the nature of species and our results at least partly validate this accusation</otmi:snippet>
+              <otmi:snippet>Contrary to expectations , plant species taxa were significantly more likely to represent reproductively independent lineages (as measured by postmating isolation) than animals (69.5 ± 3.7% versus 39.2 ± 4.3%; model F 1,306 = 42.30, P &lt; 0.0001)</otmi:snippet>
+              <otmi:snippet>Counting a species taxon (or phenetic cluster) as a reproductively independent lineage required that CIs from all cross-combinations involving that species or cluster fall below this threshold</otmi:snippet>
+              <otmi:snippet>Finally, we found marginal statistical support (see Table 1 ) for Baker&apos;s hypothesis that selfing lineages are more likely to be separated by phenotypic discontinuities than are outcrossing taxa</otmi:snippet>
+              <otmi:snippet>For each of 218 such studies that were identified ( Supplementary Tables 1 and 2 ), we tabulated the number of discrete phenotypic clusters as revealed by statistical methods</otmi:snippet>
+              <otmi:snippet>However, historical estimates of gene flow from molecular marker studies imply that gene flow levels are much higher than suggested by earlier direct estimates , and are roughly equivalent across plants and animals</otmi:snippet>
+              <otmi:snippet>However, the importance of these factors in botanical classification may be exaggerated in our study by a bias towards problematic taxa in the application of phenetic methods; our compilation included 21 phenetic studies of agamic complexes (13.1%) compared to an expectation of 1% if taxonomic effort were distributed randomly across genera </otmi:snippet>
+              <otmi:snippet>However, the percentage of species taxa that correspond directly to these clusters was low (52.8% for plants and 52.1% for animals), particularly when compared to earlier estimates of the proportion of ‘good’ plant species from floristic (83.1%) and monographic (93%) studies</otmi:snippet>
+              <otmi:snippet>However, there was a trend for taxonomists to outperform phenetic clustering when polyploids were present ( n = 9; t = 1.44, P = 0.08; one-tailed paired t -test)</otmi:snippet>
+              <otmi:snippet>However, there was considerable heterogeneity among plant and animal groups in the fraction of species taxa that exhibit reproductive independence (model F 7,299 = 6.61, P &lt; 0.0001), with ferns and fern allies showing the highest levels of independence, and birds the lowest ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>However, there was not a significant effect of these difficult taxa on correspondence (model F 1,164 = 1.20; P = 0.28; see the Supplementary Methods and Results )</otmi:snippet>
+              <otmi:snippet>However, these studies are inconclusive because of potential biases associated with human neurological processes </otmi:snippet>
+              <otmi:snippet>However, we recognize that the CI is a fairly crude measure of reproductive independence because only postmating reproductive barriers were assayed</otmi:snippet>
+              <otmi:snippet>If hybrids from intraspecific/intracluster crosses were fertile and viable, but crosses with closely related congeners were significantly less successful, then the species/cluster probably represents a reproductively independent lineage</otmi:snippet>
+              <otmi:snippet>In addition, single factor regression, weighted by the number of species per genus, indicated that mean CI had a strong influence on the fraction of species taxa that correspond to phenetic clusters (model F 1,28 = 7.93, P = 0.009; R 2 = 0.22)</otmi:snippet>
+              <otmi:snippet>In the majority of genera for which five or more species taxa were assessed, phenetic analyses revealed discrete clusters: 83% for plants ( n = 30) and 88% for animals ( n = 9)</otmi:snippet>
+              <otmi:snippet>In the majority of sexual plant taxa, discrete entities that correspond to reproductively independent lineages do exist at the species level and a useful classification would reflect this.</otmi:snippet>
+              <otmi:snippet>Indeed, another study also reported that hybridization was rarely associated with problematic taxa </otmi:snippet>
+              <otmi:snippet>Indeed, botanists have frequently questioned whether there is sufficient gene flow among conspecific plant populations to allow them to evolve as an evolutionary unit </otmi:snippet>
+              <otmi:snippet>Interspecific crossability was considered to be significantly lower than intraspecific crossability if CIs were reduced by two standard deviations of intraspecific crossability differences within a given group, typically a CI of 0.8</otmi:snippet>
+              <otmi:snippet>Lack of correspondence may also have a biological basis, a hypothesis supported by ANOVA conducted on the plant and animal phenetic data ( Table 1 ; Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Lack of correspondence was mostly due to over-differentiation (&gt; 1 species taxon per cluster) by taxonomists (87.4%) rather than under-differentiation (13.6%)</otmi:snippet>
+              <otmi:snippet>More generally, groups that do not contain polyploid or agamic taxa, yet have been a source for taxonomic confusion, are also heavily represented in our data set</otmi:snippet>
+              <otmi:snippet>More generally, our focus on postmating barriers implies that our estimates of correspondence between species taxa and reproductively independent lineages are conservative</otmi:snippet>
+              <otmi:snippet>Overall, our data indicate that many plant species do reflect reproductively independent lineages (70%) and thus appear to represent biologically real entities</otmi:snippet>
+              <otmi:snippet>Perhaps diploid hybrids rarely cause taxonomic problems because they tend to be pulled back into the orbit of the parental species by backcrossing</otmi:snippet>
+              <otmi:snippet>Previous attempts to assess the discreteness or objectivity of plant species have relied on evidence from floras , monographs and the degree of correspondence between folk and western taxonomies </otmi:snippet>
+              <otmi:snippet>So how do we account for the poor concordance between species taxa and phenotypic clusters? Possibly, taxonomists are too willing to split taxa on the basis of one or a few traits that ostensibly discriminate groups</otmi:snippet>
+              <otmi:snippet>Species in some groups may be isolated entirely by premating barriers , which would lead to an underestimate of congruence between species taxa and reproductive communities</otmi:snippet>
+              <otmi:snippet>Surprisingly, none of the biological factors considered in the phenetic analyses (see the Methods) had a significant impact on the fraction of species that represent reproductively independent lineages</otmi:snippet>
+              <otmi:snippet>That is, taxa that are strongly reproductively isolated also tend to be distinct phenotypically, an observation which is consistent with an important role for reproductive barriers in the formation and maintenance of discrete morphological groups</otmi:snippet>
+              <otmi:snippet>The latter two processes, which are common in natural populations of plants , lead to a reduction in effective population size and shortened species-wide fixation times for both beneficial and deleterious alleles </otmi:snippet>
+              <otmi:snippet>Theoretical advances in population genetics further indicate that even low-migration species may evolve in concert through the spread of advantageous alleles or through local extinction/colonization and source–sink dynamics in subdivided populations </otmi:snippet>
+              <otmi:snippet>Therefore, we extended the crossability analysis (see the Methods) to a much broader array of plant and animal groups (in the absence of phenetic data, we assume species represent morphologically distinct units), including 114 plant genera representing 1,231 interspecific cross-combinations and 170 genera of animals representing 694 interspecific cross-combinations ( Supplementary Tables 4–6 )</otmi:snippet>
+              <otmi:snippet>This latter result is expected because phenetic clustering fails to take into account variation in ploidy, which often generates strong reproductive isolation</otmi:snippet>
+              <otmi:snippet>This might explain the poor correspondence between species taxa and CI found in many animal groups ( Fig. 2 ), where behaviour has an important role in reproductive isolation</otmi:snippet>
+              <otmi:snippet>This result should be viewed cautiously, however, because only qualitative estimates of hybrid fitness are available for many animal species</otmi:snippet>
+              <otmi:snippet>Thus, phenotypic discontinuities do exist in most taxonomic groups</otmi:snippet>
+              <otmi:snippet>Thus, the large impact of agamic complexes on the psyche of botanists may have more to do with the abundance of certain agamic groups (for example, dandelions and blackberries), and fascination with them by taxonomists, than to their contribution to overall plant diversity</otmi:snippet>
+              <otmi:snippet>Thus, we calculated a crossability index (CI) for each interspecific (or intercluster) cross-combination within a given study, by dividing the mean interspecific (or intercluster) crossability by the average intraspecific (or intracluster) crossability</otmi:snippet>
+              <otmi:snippet>To bring objectivity into taxonomic practices, numerical taxonomists advocated a classification based on the quantitative analyses of as many characters as possible, with each character given equal weighting</otmi:snippet>
+              <otmi:snippet>To determine whether species taxa and/or phenetic clusters also represent reproductively independent lineages, as measured by postmating isolation, we searched the plant biosystematic literature for crossing studies involving the same genera employed in the phenetic analyses</otmi:snippet>
+              <otmi:snippet>To identify biological factors that influence species discreteness, multifactor analysis of variance (ANOVA) was used to test for significant effects of taxon (division, class), life history, mating system, polyploidy and contemporary hybridization on the proportion of species that correspond directly to phenetic clusters (see the Methods)</otmi:snippet>
+              <otmi:snippet>We surveyed the biosystematic literature for numerical taxonomic studies of plants and animals that sampled multiple populations per species taxon (see the Methods)</otmi:snippet>
+              <otmi:snippet>We then calculated the proportion of taxonomic species (based on the last taxonomic treatment of that group before phenetic analyses) that correspond directly to discrete phenotypic clusters</otmi:snippet>
+              <otmi:snippet>While taxonomic group, life history and contemporary hybridization had no effect on correspondence between species taxa and phenetic clusters, asexual reproduction and polyploidy reduced correspondence</otmi:snippet>
+              <otmi:snippet>While these results imply the majority of plant species represent reproductively independent lineages, the number of taxa included in this initial analysis is small</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Proportion of species taxa that correspond directly to phenotypic clusters compared on the basis of taxon, life history, mating system, polyploidy and contemporary hybridization.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Refer also to Table 1. For each comparison, means with different letters are significantly different at P &lt; 0.05 (Tukey&apos;s ‘honestly significant difference’ (HSD) test). Error bars indicate s.e.m.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Fraction of species taxa that represent reproductively independent lineages in major taxonomic groups of plants and animals.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Means that do not share any letters are significantly different at P &lt; 0.05 (Tukey&apos;s HSD test). Error bars indicate s.e.m.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/360627a0</otmi:refid>
+          <otmi:refid>info:doi/10.1006/bijl.1996.0118</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1365-294X.2004.02164.x</otmi:refid>
+          <otmi:refsnoid>27</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

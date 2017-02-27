@@ -1,0 +1,912 @@
+E-cadherin induces mesenchymal-to-epithelial transition in human ovarian surface epithelium
+      · Journal List
+      · Search
+      · Write to PMC
+
+
+
+      PubMed Central
+       Abstract 
+       Full Text 
+       Figures/Tables
+       PDF 
+       Contents 
+       Archive 
+
+      PubMed
+      Articles by:
+            Auersperg, N
+            Pan, J
+            Grove, B
+            Roskelley, C
+
+      and links to:
+        This articleRelated articlesProc 
+ Natl 
+ Acad 
+ Sci 
+ USA 1999 May 25 96 
+      (11): 6249–6254
+      Cell Biology
+
+
+      E-cadherin induces mesenchymal-to-epithelial transition in human ovarian 
+      surface epithelium
+      Nelly Auersperg,* Jie Pan,�  Bryon D Grove,‡ Todd Peterson,�  Janet 
+      Fisher,* Sarah Maines-Bandiera,* Aruna Somasiri,�  and Calvin D 
+Roskelley� §
+
+
+      * Department of Obstetrics and Gynecology, University of British Columbia, 
+      Vancouver, BC Canada V6H 3V5 �  Department of Anatomy, University of 
+      British Columbia, Vancouver, BC Canada V6T 1Z3 and ‡ Department of 
+      Anatomy and Cell Biology, University of North Dakota, Grand Forks, ND 
+      58202 
+
+
+      Edited by M Judah Folkman, Harvard Medical School, Brookline, MA, and 
+      approved March 30, 1999, (received for review September 23, 1998)
+
+
+      § To whom reprint requests should be addressed at: Department of Anatomy, 
+      University of British Columbia, 2177 Wesbrook Mall, Vancouver, BC Canada 
+      V6T 1Z3 e-mail: roskelly@unixgubcca 
+
+
+
+      This article has been cited by other articles in PMC
+
+             Top 
+             Abstract
+             Introduction 
+             MATERIALS AND METHODS 
+             RESULTS 
+             DISCUSSION 
+             References 
+             Abstract 
+             
+            Ovarian carcinomas are thought to arise in the ovarian surface 
+            epithelium (OSE) 
+ Although this tissue forms a simple epithelial 
+            covering on the ovarian surface, OSE cells exhibit some mesenchymal 
+            characteristics and contain little or no E-cadherin 
+ However, 
+            E-cadherin is present in metaplastic OSE cells that resemble the 
+            more complex epithelia of the oviduct, endometrium and endocervix, 
+            and in primary epithelial ovarian carcinomas 
+ To determine whether 
+            E-cadherin was a cause or consequence of OSE metaplasia, we 
+            expressed this cell-adhesion molecule in simian virus 
+            40-immortalized OSE cells 
+ In these cells the exogenous E-cadherin, 
+            all three catenins, and F-actin localized at sites of cell–cell 
+            contact, indicating the formation of functional adherens junctions 
+            Unlike the parent OSE cell line, which had undergone a typical 
+            mesenchymal transformation in culture, E-cadherin-expressing cells 
+            contained cytokeratins and the tight-junction protein occludin 
+ They 
+            also formed cobblestone monolayers in two-dimensional culture and 
+            simple epithelia in three-dimensional culture that produced CA125 
+            and shed it into the culture medium 
+ CA125 is a normal 
+            epithelial-differentiation product of the oviduct, endometrium, and 
+            endocervix, but not of normal OSE 
+ It is also a tumor antigen that 
+            is produced by ovarian neoplasms and by metaplastic OSE 
+ Thus, 
+            E-cadherin restored some normal characteristics of OSE, such as 
+            keratin, and it also induced epithelial-differentiation markers 
+            associated with weakly preneoplastic, metaplastic OSE and 
+            OSE-derived primary carcinomas 
+ The results suggest an unexpected 
+            role for E-cadherin in ovarian neoplastic progression
+
+
+             Top 
+             Abstract 
+             Introduction
+             MATERIALS AND METHODS 
+             RESULTS 
+             DISCUSSION 
+             References 
+             Introduction 
+             
+            Epithelial ovarian carcinomas are the most prevalent and lethal of 
+            all gynecological malignancies 
+ Histopathological observations and 
+            experimental data strongly suggest that these tumors arise from the 
+            ovarian surface epithelium (OSE) (1–3) 
+ Despite their epithelial 
+            morphology, OSE cells exhibit mesenchymal characteristics that 
+            reflect their mesodermal origin 
+ Specifically, normal OSE cells 
+            rarely express the epithelial cell-adhesion molecule E-cadherin, 
+            they deposit stromal extracellular matrix proteins, and they produce 
+            matrix-degrading metalloproteases (4–7) 
+ Such characteristics likely 
+            contribute to the ability of OSE cells to rapidly undergo 
+            mesenchymal transformation in monolayer culture (8) 
+ Although a 
+            definitive premalignant lesion for ovarian carcinoma has not been 
+            identified, OSE cell metaplasia is considered to be weakly 
+            preneoplastic, particularly in women who are at increased risk of 
+            developing the disease because of hereditary factors (2, 9) 
+            Interestingly, metaplastic OSE cells, which are invariably 
+            epithelial, often express E-cadherin (5, 6)
+            E-cadherin is a 120-kDa transmembrane, calcium-dependent 
+            cell-adhesion molecule 
+ Adhesion is initiated by the binding of 
+            homologous E-cadherin extracellular domains on adjacent cells, and 
+            it is stabilized by the association of the intracellular E-cadherin 
+            domain with α, β, and γ catenins that are physically linked to 
+            F-actin to form functional adherens junctions (10, 11) 
+ E-cadherin 
+            is required for epithelial histogenesis, tissue stabilization, and 
+            differentiated function (12) 
+ Developmental down-regulation of 
+            E-cadherin, which is initiated by morphogen-mediated signals that 
+            cause a translocation of β-catenin to the nucleus, induces an 
+            epithelial-to-mesenchymal conversion that is required for cell 
+            migration and tissue rearrangements during embryogenesis (13) 
+ In 
+            solid tumors, abnormal regulation or mutation of E-cadherin and 
+            β-catenin contributes to the “mesenchyme-like� phenotype of many 
+            late-stage, invasive carcinomas (14–16) 
+ Thus, E- cadherin acts as a 
+            master regulator of the epithelial phenotype (17)
+            Although E-cadherin often is scanty or absent in ovarian carcinoma 
+            metastases, it is almost always present in primary ovarian 
+            carcinomas (18–23) 
+ At first glance it seems paradoxical that 
+            E-cadherin expression is increased in metaplastic OSE and primary 
+            ovarian tumors 
+ However, both lesions often resemble the more 
+            complex Mullerian duct-derived epithelia of the oviduct, 
+            endometrium, or endocervix 
+ The latter tissues and the OSE share a 
+            common embryonic precursor, the urogenital coelomic epithelium 
+            Therefore, the appearance of Mullerian duct characteristics in 
+            metaplastic OSE and primary ovarian carcinomas likely reflects an 
+            aberrant differentiation toward tissue types of closely related 
+            embryologic origin 
+ To determine whether ectopic E-cadherin 
+            expression is a cause or consequence of this aberrant 
+            differentiation, we expressed the cell-adhesion molecule in normal 
+            immortalized OSE cells
+            Normal immortalized OSE cells transfected with a mouse E-cadherin 
+            cDNA lost their mesenchymal characteristics and became 
+            epithelialized 
+ E-cadherin, all three catenins, and F-actin were 
+            localized at cell–cell borders, indicating the formation of 
+            functional adherens junctions 
+ In addition, the transfectants formed 
+            tight junctions and re-expressed epithelial cytokeratins found in 
+            normal OSE in vivo 
+ In two-dimensional culture the transfectants 
+            formed cobblestone epithelial monolayers, and in three-dimensional 
+            sponge culture they formed simple epithelial linings 
+ Furthermore, 
+            the transfectants produced the CA125 tumor antigen and shed it into 
+            the culture medium 
+ CA125 is produced by metaplastic OSE in vivo, 
+            and a sustained, high level of this antigen in a patient's serum is 
+            an indicator of ovarian carcinoma (24) 
+ However, CA125 also is a 
+            normal differentiation product of endometrial, oviductal, and 
+            endocervical epithelia, which metaplastic OSE resembles both 
+            histologically and cytologically (25) 
+ Therefore, E-cadherin 
+            expression restored some characteristics of normal OSE that had been 
+            lost in culture, and it initiated a metaplastic, epithelialized 
+            phenotype that shares some characteristics with neoplastic OSE
+
+
+             Top 
+             Abstract 
+             Introduction 
+             MATERIALS AND METHODS
+             RESULTS 
+             DISCUSSION 
+             References 
+             MATERIALS AND METHODS 
+             
+            Cell Culture and Transfection 
+ The IOSE-29 cell line (referred to as 
+            IOSE-Mar in previous publications) was generated by transfecting 
+            normal human OSE cells in passage 5 with the immortalizing simian 
+            virus 40 virus early genes (26) 
+ IOSE-29 cells lack keratin because 
+            they have undergone epitheliomesenchymal conversion, which is 
+            typical of cultured OSE (8) 
+ IOSE-29 cells at passage 11 were 
+            cotransfected (Lipofectamine 
+ Life Technologies) with pSV2neo (27) 
+            and a full-length mouse E-cadherin cDNA under the control of the 
+            β-actin promoter (28) 
+ The cells were selected under G418 (50 
+            μg/ml), which generated a heterogeneous population of cells, 
+            designated IOSE-29pre-EC 
+ A homogeneous epithelial population then 
+            was selected by differential adhesion 
+ Briefly, after trypsinization 
+            G418-selected cells were allowed to adhere to tissue culture dishes 
+            for 30 min and unattached cells were removed by gentle pipette 
+            flushing 
+ The adherent epithelial population was designated 
+            IOSE-29EC 
+ Parental cells sham-transfected with SV2neo alone were 
+            designated IOSE-29neo 
+ Parental and sham-transfected cells yielded 
+            no epithelial colonies after differential adhesion 
+ Control cell 
+            lines used included human ovarian carcinoma OVCAR-3 cells, which 
+            express human E-cadherin and CA125 (29) mouse mammary epithelial 
+            scp2 cells, which express mouse E-cadherin (30) human cervical 
+            carcinoma C4-II cells (31), which express the cytokeratins 7, 8, 18, 
+            and 19 that are found in normal OSEin vivo (8) and canine kidney 
+            epithelial MDCK cells, which express tight junctional occludin 
+ For 
+            monolayer culture, cells were maintained on tissue culture dishes 
+            (Falcon 
+ Life Technologies) in a 1:1 mixture of 199/MCDB 105 medium 
+            (Sigma) supplemented with 5% FBS 
+ For three-dimensional culture, 
+            cells were maintained in pig-skin-derived, dehydrated collagenous 
+            sponge matrices (ref 32 
+ Spongostan, Health Design Industries, 
+            Rochester NY) or reconstituted basement membrane gels (Matrigel 
+            Collaborative Research)
+            Immunofluorescence, Immunocytochemistry, and Immunoblotting 
+ For 
+            immunofluorescence, cells were grown on glass coverslips, fixed in 
+            cold methanol, and postfixed in cold methanol/acetone (1:1) for all 
+            antigens except the catenins, which were fixed in buffered 
+            paraformaldehyde followed by permeabilization with digitonin 
+ The 
+            cells were incubated with antibodies that recognize both human and 
+            mouse E-cadherin (mouse monoclonal 
+ Transduction Laboratories, 
+            Lexington, KY), α-catenin (rabbit polyclonal 
+ Sigma), β- and 
+            γ-catenins (mouse monoclonals, Transduction Laboratories), or 
+            pan-cytokeratin (rabbit polyclonal, Dako) 
+ Binding of primary 
+            antibodies was visualized by epifluorescence microscopy after 
+            incubation with fluorescently labeled, species-specific second 
+            antibodies 
+ F-actin was assessed by using rhodamine phalloidin 
+            (Molecular Probes) 
+ For CA125 immunocytochemistry, cells were fixed 
+            in 10% buffered formalin, incubated with the mAb OC-125, and 
+            processed as described (33)
+            For E-cadherin and catenin immunoblotting, whole-cell RIPA lysates 
+            (01% SDS/1% deoxycholate/1% NP-40) were separated by 10% SDS/PAGE, 
+            transferred to nylon membranes (Bio-Rad), and probed with the 
+            primary antibodies described above as well as a mouse monoclonal 
+            that is specific for human E-cadherin (HECD-1 
+ Zymed) (34) 
+ Antibody 
+            binding was visualized by using enhanced chemiluminescence (Amersham 
+            Pharmacia) 
+ For keratin immunoblotting, 30 μg of solubilized 
+            cytoskeletal protein was separated by 85% SDS/PAGE, transferred to 
+            membranes, and probed with either a 1:1 mixture of AE1/AE3 mAbs, 
+            which, together, detect all basic and acidic cytokeratins (CKs) 
+            except CK-18 (31), or an anti-CK-18-specific mAb (Boehringer 
+            Mannheim) 
+ For CA125 immunoblotting, cell lysates (100 μg 01% 
+            Tween 20) or conditioned medium (300 μg) from subconfluent cultures 
+            was separated on nondenaturing 5% SDS/PAGE gels, transferred to 
+            membranes, and immunoblotted with OC-125 as described (35) 
+ CA125 
+            levels also were assessed by microparticle enzyme immunoassay per 
+            the manufacturer's specifications (Abbott)
+
+
+             Top 
+             Abstract 
+             Introduction 
+             MATERIALS AND METHODS 
+             RESULTS
+             DISCUSSION 
+             References 
+             RESULTS 
+             
+            In monolayer culture, normal human OSE cells, which lack E-cadherin, 
+            frequently undergo a mesenchymal conversion (8) 
+ The cells become 
+            fibroblastic and stop expressing cytokeratins 
+ This mesenchymal 
+            phenotype is maintained in OSE cell lines whose lifespan has been 
+            extended by the simian virus 40 large T antigen (26) 
+ The IOSE-29 
+            line is a typical example, because it lacks E-cadherin (Figs 1 and 
+            2 A) and forms fibroblastic monolayers (Fig 3 A) that are 
+            keratin-negative (Fig 4 C) 
+            In the present study, IOSE-29 cells were cotransfected with a mouse 
+            E-cadherin cDNA and a pSV2neo selection vector 
+ After selection 
+            under G418, the resulting population, designated IOSE-29pre-EC, was 
+            heterogeneous, containing mostly fibroblastic cells that were 
+            interspersed with small, compact epithelial islands 
+ The epithelial 
+            cells, which were slow-growing compared with the fibroblastic cells, 
+            were not amenable to limited dilution cloning but they adhered to 
+            tissue culture dishes very rapidly after passaging 
+ Therefore, we 
+            used a differential adhesion strategy (see Materials and Methods) to 
+            produce an homogeneous epithelial population, designated IOSE-29EC 
+            Differential adhesion of the parental untransfected IOSE-29 cells 
+            and sham-transfected IOSE-29neo cells did not generate epithelial 
+            populations
+            To rule out the possibility that the IOSE-29EC cells might have 
+            represented a minor variant of the parental population that 
+            expressed endogenous human E-cadherin rather than the exogenous 
+            mouse E-cadherin cDNA, we carried out Western blotting with two 
+            different E-cadherin antibodies (Fig 1 A) 
+ The blots were probed 
+            with an antibody that recognizes both human and mouse E-cadherin 
+            (Fig 1 A Upper) 
+ Control cell lines that express human (lane 1) and 
+            mouse (lane 2) E-cadherin were both positive when using this 
+            antibody, parental IOSE-29 (lane 3) and IOSE-29neo (lane 4) cells 
+            were both negative, and IOSE-29pre-EC (lane 5) and IOSE-29EC (lane 
+            6) cells were both positive 
+ In Fig 1 A (Lower), which was probed 
+            with an antibody that specifically recognizes only human E-cadherin 
+            (34), none of the OSE cell lines, either untransfected or 
+            transfected, was positive 
+ Therefore, we conclude that the 
+            IOSE-29pre-EC and IOSE-29EC cells expressed exogenous mouse 
+            E-cadherin 
+ Interestingly, however, we found that after repeated 
+            passaging, IOSE-29EC, but not untransfected IOSE-29 or the 
+            sham-transfected IOSE-29neo cells, began to express human E-cadherin 
+            (data not shown) 
+ This raises the intriguing possibility that 
+            E-cadherin can positively regulate its own expression in OSE cells
+            When Western blots were overloaded with 100 μg of total protein we 
+            still could not detect the 120-kDa E-cadherin in the parental 
+            IOSE-29 cells (Fig 1 B), and the protein was not observed by 
+            immunofluorescence staining (Fig 2 A) 
+ In contrast, E-cadherin was 
+            present and appropriately localized at areas of cell–cell contact in 
+            the IOSE-29EC cells (Figs 1 B and 2 B) 
+ Although parental IOSE-29 
+            cells contained detectable levels of the 102-kDa α-catenin and the 
+            94-kDa β-catenin (Fig 1 B), both proteins were dispersed throughout 
+            the cell and they were only discontinuously located at sites of 
+            cell–cell contact (Fig 2 C and E) 
+ The steady-state levels of 
+            α-catenin and β-catenin were increased significantly in IOSE-29EC 
+            cells (Fig 1 B), and both proteins were localized almost 
+            exclusively at cell–cell contacts (Fig 2 D and F) 
+ Parental IOSE-29 
+            cells contained very little of the 86-kDa γ-catenin (Figs 1 B and 2 
+            G), but this protein was induced in the IOSE-29EC cells and it was 
+            also located at cell–cell contacts (Fig 2 H) 
+ F-actin was localized 
+            in prominent mesenchymal cytoplasmic stress fibers in IOSE-29 cells 
+            (Fig 2 I), but it was redistributed to areas of cell–cell contact 
+            in IOSE-29EC cells (Fig 2 J) 
+ The colocalization of E-cadherin, all 
+            three catenins, and F-actin at cell–cell contacts indicates that the 
+            IOSE-29EC cells formed functional epithelial adherens junctions 
+            (11) 
+ At no time did we observe epithelial cell–cell junction 
+            formation in the sham-transfected IOSE-29neo cells (data not shown) 
+
+            Adherens junctions link epithelial cells into cohesive, cobblestone 
+            monolayers 
+ The mesenchymal IOSE-29 cells were fibroblastic at low 
+            cell density (Fig 3 A), and at high cell density the bipolar shape 
+            of the cells was accentuated (Fig 3 C) 
+ On the other hand, 
+            IOSE-29EC cells were packed closely and epithelial at low cell 
+            density (Fig 3 B), and at high cell density they formed cobblestone 
+            monolayers with bulging hemicystic domes (Fig 3 D) 
+ The presence of 
+            domes suggested that IOSE-29EC cells formed tight junctions (see 
+            Fig 4) 
+            The mesenchymal characteristics of the parental IOSE-29 line were 
+            clearly evident in three-dimensional sponge culture (Fig 3 E) 
+ The 
+            cells migrated into the spaces between the sponge spicules, which 
+            likely reflects their ability to deposit a stromal extracellular 
+            matrix (4, 32) 
+ In contrast, IOSE-29EC cells formed simple epithelia 
+            that lined the sponge spicules (Fig 3 F) 
+ Morphological differences 
+            between the parent and transfected lines also were apparent in 
+            three-dimensional basement membrane gels 
+ Under these conditions, 
+            the IOSE-29 cells formed cell aggregates with radiating branching 
+            cords that invaded the gel (Fig 3 G) whereas IOSE-29EC cells formed 
+            tightly packed epithelial spheres with no evidence of invasion (Fig 
+            3 H)
+            The morphology of the E-cadherin-transfected cells suggested that 
+            they were functionally epithelialized 
+ To confirm this tentative 
+            conclusion we examined cytokeratin expression 
+ As expected (8, 26), 
+            the mesenchymal IOSE-29 cells did not express CK (Fig 4 A and C) 
+            The same was true of the sham-transfected IOSE-29neo cells (data not 
+            shown) 
+ On the other hand, IOSE-29EC cells contained the simple 
+            epithelial CK7, CK18, and CK 19 (Fig 4 A), which formed classical 
+            intermediate filament arrays (Fig 4 D) 
+ We also examined the 
+            tight-junction protein occludin (36) 
+ IOSE-29EC cells, but not the 
+            parental line, expressed significant amounts of occludin (Fig 4 B), 
+            which was localized at sites of cell–cell contact (Fig 4 E and F) 
+            These data, and the formation of domes in monolayer culture, 
+            indicated the presence of tight junctions in the epithelialized 
+            IOSE-29EC cells
+            Unlike Mullerian duct-derived epithelia, normal OSE cells do not 
+            express the CA 125 tumor antigen in vivo or in culture (25, 33) 
+ The 
+            same was true of both IOSE-29 (Fig 5 A and B) and sham-transfected 
+            IOSE-29neo cells (data not shown) 
+ In contrast, broad-molecular-mass 
+            CA125-containing protein species between approximately 500 and 700 
+            kDa were found in IOSE-29EC cell lysates and conditioned medium 
+            (Fig 5 A) 
+ It should be noted, however, that the CA125 shed into 
+            the medium by IOSE-29EC cells was qualitatively different from that 
+            produced by OVCAR-3 carcinoma cells, which suggests that there may 
+            be differences in CA125 glycosylation by the two cell lines 
+ The 
+            CA125 tumor antigen also was detected on the surface of IOSE-29EC 
+            cells by immunocytochemistry (Fig 5 C) and in cell lysates and 
+            conditioned medium by using the microparticle enzyme immunoassay 
+            (Table 1) 
+ The latter levels were comparable to those of OVCAR-3 
+            carcinoma cells 
+ Therefore, the evidence was overwhelming that CA125 
+            was being produced by the epithelialized IOSE-29EC cells, indicating 
+            that exogenous E-cadherin expression induced an aberrant Mullerian 
+            duct-like differentiation that is a hallmark of OSE metaplasia and 
+            neoplasia 
+
+
+             Top 
+             Abstract 
+             Introduction 
+             MATERIALS AND METHODS 
+             RESULTS 
+             DISCUSSION
+             References 
+             DISCUSSION 
+             
+            The genetic basis for familial predisposition to epithelial ovarian 
+            cancer is now being elucidated (36–39) 
+ However, in both familial 
+            and sporadic ovarian cancers, definitive premalignant lesions have 
+            not been identified 
+ As a result, at the time of diagnosis the 
+            disease often has progressed to its later stages and the prognosis 
+            is invariably poor 
+ In the present study we examined the basis of 
+            the metaplastic and early neoplastic changes that occur in the OSE, 
+            the presumptive target tissue in ovarian carcinogenesis, in an 
+            effort to identify early predictive markers of these neoplasms 
+ The 
+            results present an unexpected role for E-cadherin in carcinogenesis 
+            and identify a differentiation-related step that seems to contribute 
+            to early ovarian neoplastic progression
+            The OSE arises from the urogenital coelomic epithelium, as do the 
+            Mullerian duct-derived epithelia that line the oviduct, endometrium, 
+            and endocervix 
+ However, unlike Mullerian duct-derived epithelia, 
+            normal OSE rarely contains the epithelial cell–cell adhesion 
+            molecule E-cadherin (5–7) 
+ Normal OSE do express N-cadherin (23, 
+            40), which is a cell-adhesion molecule that can cause cell–cell 
+            junction disassembly and cell migration when it is expressed 
+            inappropriately (41) 
+ Thus, the presence of N-cadherin in normal OSE 
+            cells may contribute to their propensity to undergo mesenchymal 
+            conversion in culture 
+ In this study, the mesenchymal 
+            characteristics of the normal IOSE-29 line were readily apparent in 
+            three-dimensional sponge culture in which fibroblastic, bipolar 
+            cells migrated into the spaces between the sponge spicules
+            In vivo, Mullerian metaplasia of OSE is common, and it usually has 
+            little or no pathological consequence (2) 
+ However, the incidence of 
+            metaplasia is increased in women with a familial predisposition to 
+            ovarian cancer, and both dysplasia and rare cases of carcinoma have 
+            been observed within these lesions (9) 
+ In contrast to normal OSE, 
+            metaplastic OSE and primary ovarian carcinomas both contain 
+            E-cadherin (5–7) 
+ When we produced cells that expressed high levels 
+            of E-cadherin, they were no longer fibroblastic 
+ Instead, these 
+            cells, designated IOSE-29EC, formed closely packed epithelial 
+            monolayers 
+ Several lines of evidence indicate that the 
+            epithelialization of IOSE-29EC cells was caused by expression of the 
+            transfected mouse E-cadherin cDNA and not by the selection of a 
+            preexisting subpopulation of metaplastic cells present in the 
+            parental line: (i) no E-cadherin positive cells were ever observed 
+            in the parental IOSE-29 or sham-transfected IOSE-29neo lines (ii) 
+            differential adhesion of IOSE-29 and IOSE-29neo cells never yielded 
+            epithelial colonies (iii) cytokeratins and/or CA125 were never 
+            observed in IOSE-29 and IOSE-29neo lines, although these markers 
+            characterize the IOSE-29EC line (see below) (iv) low levels of 
+            E-cadherin were present in IOSE-29preEC cells before differential 
+            adhesion and (v) the E-cadherin present in IOSE-29pre-EC and 
+            IOSE-29EC cells was the exogenous mouse, not the endogenous human, 
+            protein
+            Exogenous E-cadherin expression causes a partial epithelial 
+            transformation of true fibroblasts, at least with respect to 
+            cell–cell junction formation (42, 43) 
+ In contrast, epithelial cell 
+            junctions were fully developed in IOSE-29EC cells as judged by the 
+            following criteria: f-actin was found in plasma membrane-associated 
+            circumferential rings 
+ E-cadherin, α-catenin, β-catenin, and 
+            γ-catenin all colocalized with the F-actin rings in adherens 
+            junctions and occludin was up-regulated and localized to sites of 
+            cell–cell contact, indicating the formation of secondary tight 
+            junctions 
+ Functionally, these epithelial cell junctions supported 
+            vectorial ion transport as IOSE-29EC formed hemicystic domes in 
+            high-density monolayer culture 
+ Such domes are never found in 
+            cultures of normal mesenchymal OSE, but they are common in ovarian 
+            carcinoma cultures 
+ IOSE-29EC cells also reexpressed cytokeratins, 
+            which are found in normal OSEin vivo (8), and they formed epithelial 
+            linings on sponge spicules that were reminiscent of metaplastic OSE 
+            trapped within surface invaginations and inclusion cysts
+            In many types of epithelial tumors, down-regulation or mutation of 
+            E-cadherin is associated with an increased invasiveness that can be 
+            prevented by the forced expression of the cell-adhesion molecule 
+            This suggests that E-cadherin is a late-stage tumor suppressor that 
+            prevents invasion and metastasis (14) 
+ Because E-cadherin is 
+            expressed in most epithelia, it is assumed that its presence in 
+            primary, differentiated tumors is a characteristic of the target 
+            tissue that has been retained during the early stages of 
+            carcinogenesis 
+ However, the frequent presence of E-cadherin in 
+            primary ovarian carcinomas (18–23) must be acquired during 
+            carcinogenesis because it is rarely present in normal OSE (5–7) 
+            Although the subsequent loss of E-cadherin undoubtedly plays a role 
+            in late-stage ovarian metastasis, our data suggest that ectopic 
+            expression of the cell-adhesion molecule initiates early 
+            preneoplastic changes by committing OSE cells to a more complex 
+            epithelial phenotype that restricts their mesenchymal potential 
+            From a mechanistic point of view this phenotypic modulation could be 
+            mediated by changes in the subcellular localization of β-catenin 
+            (11–13)
+            An important phenotypic consequence of OSE epithelialization in 
+            IOSE-29EC cells was the secretion of the CA125 tumor antigen 
+ In 
+            vivo, CA125 is produced by metaplastic OSE, and high levels of the 
+            antigen in a patient's serum is an indicator of ovarian carcinoma 
+            (25) 
+ We recently have produced a second E-cadherin-transfected IOSE 
+            line derived independently from a separate normal human donor that 
+            also produces CA125 (data not shown) 
+ Thus, the E-cadherin-induced 
+            CA125 tumor antigen production observed in IOSE-29EC cells was not a 
+            unique, isolated event
+            The CA125 tumor antigen is a normal differentiation product of 
+            oviductal, endometrial, and endocervical epithelia 
+ Therefore, our 
+            finding that E-cadherin-induced CA125 production in OSE cells puts 
+            to rest any lingering doubts regarding this tissue's ability to 
+            acquire the Mullerian characteristics observed in metaplastic OSE 
+            and ovarian carcinomas 
+ The mechanism by which E-cadherin induces 
+            CA125 production in OSE cells remains unclear because the gene that 
+            codes the core protein has not yet been cloned, probably because, 
+            until now, it has not been possible to regulate the gene's 
+            expression 
+ Taken together, our results demonstrate that the 
+            expression of exogenous E-cadherin in mesenchymal IOSE-29 cells not 
+            only restored the epithelial properties of normal OSE but, in 
+            addition, induced novel characteristics of metaplastic and 
+            neoplastic OSE such as tight junctions and CA125 production 
+ Thus, 
+            as is not the case in the great majority of other epithelial 
+            tissues, the ectopic expression of E-cadherin frequently observed in 
+            metaplastic and neoplastic OSE may play a functional role in the 
+            earliest stages of ovarian tumor development
+
+
+        Acknowledgments 
+             
+            We thank Drs 
+ T T Sun and M Takeichi for their generous gifts of 
+            AE1/AE3 antibodies and the pBAT expression vector and Dr 
+ T C 
+            Hamilton for his critical comments 
+ This research was supported by 
+            the National Cancer Institute of Canada with funds from the Terry 
+            Fox Run (NA and CDR) and the American Heart Association 
+            (BDG)
+
+
+        ABBREVIATIONS 
+             
+            CK, cytokeratins 
+ OSE, ovarian surface epithelium
+
+
+        Footnotes 
+             
+            This paper was submitted directly (Track II) to the Proceedings 
+            Office 
+
+
+
+             Top 
+             Abstract 
+             Introduction 
+             MATERIALS AND METHODS 
+             RESULTS 
+             DISCUSSION 
+             References
+             References 
+             
+              Nicosia, S & Nicosia, R Azar, H, ed (1988) in Pathology of 
+              Human Neoplasms (Raven, New York)  
+
+              Scully, R E (1995) 
+ J Cell 
+ Biochem 23,Suppl, 208218  
+
+              Davies, B R, Auersperg, N, Worsley, S D, & Ponder, B A J 
+              (1998) 
+ Am 
+ J Pathol 152, 297306  [PubMed]
+
+              Kruk, P A, Uitto, V J, Firth, J D, Dedhar, S, & Auersperg, 
+              N (1994) 
+ Exp 
+ Cell Res 215, 97108  [PubMed][Full Text] 
+
+              Maines-Bandiera, S L & Auersperg, N (1997) 
+ Int 
+ J Gynecol 
+              Pathol 16, 250255  [PubMed]
+
+              Sundfeldt, K, Piotkewitz, Y, Ivarsson, K, Nilsson, O, 
+              Hellberg, P, Brannstrom, M, Janson, P O, Enerback, S, & 
+              Hedin, L (1997) 
+ Int 
+ J Cancer 74, 275280  [PubMed][Full Text] 
+
+              Davies, B R, Worsley, S D, & Ponder, B A J (1998) 
+              Histopathology 32, 6980  [PubMed][Full Text] 
+
+              Auersperg, N, Maines-Bandiera, S L, Dyck, H G, & Kruk, P A 
+              (1994) 
+ Lab 
+ Invest 71, 510518  [PubMed]
+
+              Salazar, H, Godwin, A K, Daly, M B, Laub, P B, Hogan, W 
+              M, Rosenblum, N, Boente, M P, Lynch, H T, & Hamilton, T C 
+              (1996) 
+ J Natl 
+ Cancer Inst 88, 18101820  [PubMed]
+
+              Takeichi, M (1995) 
+ Curr 
+ Op 
+ Cell Biol 7, 619627  [PubMed]
+
+              Huber, O, Bierkamp, C, & Kemler, R (1996) 
+ Curr 
+ Opin 
+ Cell 
+              Biol 8, 685691  [PubMed]
+
+              Marrs, J A & Nelson, W J (1996) 
+ Int 
+ Rev 
+ Cytol 165, 159205 
+               [PubMed]
+
+              Brown, J D & Moon, R T (1998) 
+ Curr 
+ Opin 
+ Cell Biol 10, 
+              182187  [PubMed]
+
+              Birchmeier, C, Birchmeier, W, & Brand-Saberi, B (1996) 
+ Acta 
+              Anatomica 156, 217226  [PubMed]
+
+              Morin, P J, Sparks, A B, Korinek, V, Barker, N, Clevers, H, 
+              Vogelstein, B, & Kinzler, K W (1997) 
+ Science 275, 17871790  
+              [PubMed][Full Text] 
+
+              Rubinfeld, B, Rubins, P, El-Gamil, M, Albert, I, Porfiri, E, 
+              & Polakis, P (1997) 
+ Science 275, 17901792  [PubMed][Full Text] 
+
+              Hay, E D (1995) 
+ Acta Anatomica 154, 820  [PubMed]
+
+              Hashimoto, M, Niwa, O, Nitta, Y, Takeichi, M, & Yokoro, K 
+              (1989) 
+ Jpn 
+ J Cancer Res 80, 459463  [PubMed]
+
+              Inoue, M, Ogawa, H, Miyata, M, Shiozaki, H, & Tanizawa, O 
+              (1992) 
+ Am 
+ J Clin 
+ Pathol 98, 7680  [PubMed]
+
+              Veatch, A L, Carson, L F, & Ramakrishnan, S (1994) 
+ Int 
+ J 
+              Cancer 58, 393399  [PubMed]
+
+              Darai, E, Scoazec, J Y, Walker Combrouze, F, Mlika-Cabanne, 
+              N, Feldmann, G, Madelenat, P, & Potet, F (1997) 
+ Hum 
+ Pathol 
+              28, 922928  [PubMed]
+
+              Fujimoto, J, Ichigo, S, Hirose, R, Sakaguchi, H, & Tamaya, T 
+              (1997) 
+ Cancer Lett 115, 207212  [PubMed][Full Text] 
+
+              Peralta Soler, A, Knudsen, K A, Tescon-Miguel, A, McBrearty, 
+              F X, Han, A C, & Salazar, H (1997) 
+ Hum 
+ Pathol 6, 734739  
+
+              Fritsche, H A & Bast, R C (1998) 
+ Clin 
+ Chem 44, 13791380  
+              [PubMed][Free Full Text] 
+
+              Bast, R C, Boyer, C M, Xu, F J, Wiener, J, Dabel, R, 
+              Woolas, R, Jacobs, I, & Berchuk, A (1995) 
+ J Cell 
+ Biochem 
+              23,Suppl, 219222  
+
+              Maines-Bandiera, S L, Kruk, P A, & Auersperg, N (1992) 
+ Am 
+              J Obstet 
+ Gynecol 167, 729735  [PubMed]
+
+              Southern, P J & Berg, P J (1982) 
+ Mol 
+ Appl 
+ Genet 1, 327336 
+               [PubMed]
+
+              Nose, A, Nagafuchi, A, & Takeichi, M (1988) 
+ Cell 54, 9931001  
+              [PubMed][Full Text] 
+
+              Hamilton, T C, Young, R C, McKoy, W M, Grotzinger, K R, 
+              Green, J A, Chu, E W, Whang-Peng, J, Rogan, A M, Green, W 
+              R, & Ozols, R F (1983) 
+ Cancer Res 43, 53795389  [PubMed]
+
+              Desprez, P Y, Roskelley, C D, Campisi, J, & Bissell, M 
+              (1993) 
+ Mol 
+ Cell 
+ Differ 1, 99110  
+
+              Auersperg, N, Kruk, P A, MacLaren, I A, Watt, F M, & 
+              Myrdal, S E (1989) 
+ Cancer Res 49, 30073014  [PubMed]
+
+              Dyck, H G, Hamilton, T C, Godwin, A K, Lynch, H Y, 
+              Maines-Bandiera, S L, & Auersperg, N (1996) 
+ Int 
+ J Cancer 69, 
+              429436  [PubMed]
+
+              Auersperg, N, Maines-Bandiera, S L, Booth, J H, Lynch, H T, 
+              Godwin, A K, & Hamilton, T C (1995) 
+ Am 
+ J Obstet 
+ Gynecol 
+              173, 558565  [PubMed][Full Text] 
+
+              Shimoyama, Y, Hirohashi, S, Hirano, S, Noguchi, M, Shimosato, 
+              Y, Takeichi, M, & Abe, O (1989) 
+ Cancer Res 49, 21282133  
+              [PubMed]
+
+              Davis, H M, Zurawski, V R, Bast, R C, & Klug, T L (1986) 
+              Cancer Res 46, 61436148  [PubMed]
+
+              Furuse, M, Hirase, T, Itoh, M, Nagafuchi, A, Yonemura, S, 
+              Tsukita, S, & Tsukita, S (1993) 
+ J Cell Biol 123, 17771783  
+              [PubMed]
+
+              Futreal, P A, Liu, Q, Shattuck-Eidens, D, Chochran, C, 
+              Harshman, K, Tavigian, S, Bennet, L M, Haugen-Strano, A, 
+              Swensen, J, Miki, Y, et al (1994) 
+ Science 266, 120122  
+              [PubMed]
+
+              Phelan, C M, Rebbeck, T R, Weber, B L, Devileee, P, 
+              Ruttledge, M H, Lynch, H T, Lenoir, G M, Stratton, M R, 
+              Easton, D F, Ponder, B A J, et al (1996) 
+ Nat 
+ Genet 12, 
+              309311  [PubMed]
+
+              Whittmore, A S, Gong, G, & Intyre, J (1997) 
+ Am 
+ J Hum 
+              Genet 60, 496504  [PubMed]
+
+              Wong, A S T, Maines-Bandiera, S D, Rosen, B, Wheelock, M 
+              J, Johnson, K R, Leung, P C K, Roskelley, C D, & 
+              Auersperg, N (1999) 
+ Int 
+ J Cancer 81, 180188  [PubMed][Full 
+              Text] 
+
+              Islam, S, Carey, T E, Wolf, G T, Wheelock, M J, & Johnson, 
+              K R (1996) 
+ J Cell Biol 135, 16431654  [PubMed]
+
+              Ozawa, M & Kemler, R (1990) 
+ J Cell Biol 111, 16451650  
+              [PubMed]
+
+              Yonemura, S, Itoh, M, Nagafuchi, A, & Tsukita, S (1995) 
+ J 
+              Cell Sci 108, 127142  [PubMed][Free Full Text] 
+
+
+
+
+        Figures and Tables 
+             
+
+
+                  Figure 1 E-cadherin and catenin expression
+
+
+
+                  Figure 2 E-cadherin, catenin, and F-actin localization
+
+
+
+                  Figure 3 Culture morphology
+
+
+
+                  Figure 4 Cytokeratin and occludin expression and 
+localization
+
+
+
+                  Figure 5 CA125 expression and localization
+
+
+                  Table 1 CA125 levels in cell lysates and conditioned medium
+
+
+
+
+       Copyright © 1999,  The National Academy of Sciences 
+
+
+ 
+
+Write to PMC   Privacy Policy   Disclaimer
+
+PMC Home   PubMed   NCBI   NLM   NIH

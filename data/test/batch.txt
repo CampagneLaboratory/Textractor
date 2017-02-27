@@ -1,0 +1,5 @@
+#PMID1	SENTENCE1	this is a test
+#PMID2	SENTENCE2	more terms in PMID2
+#12096109	1
+12096109
+11369753		Agonist Regulation of D2 Dopamine Receptor/G Protein Interaction.

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_articleSet>
+    <_article PMID="11369753" xsi:type="_article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <_primaryProtein>
+            <_protein>
+                <_spName>5HT1A</_spName>
+                <_synonyms>
+                    <_synonym>5HT1A</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>ADRA2</_spName>
+                <_synonyms>
+                    <_synonym>alpha2 adrenergic receptors</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>serotoninR</_spName>
+                <_synonyms>
+                    <_synonym>serotonin receptor</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>DRD2</_spName>
+                <_synonyms>
+                    <_synonym>D2 dopamine receptors</_synonym>
+                    <_synonym>D2 receptors</_synonym>
+                    <_synonym>D2</_synonym>
+                    <_synonym>D2 dopamine receptor</_synonym>
+                    <_synonym>D2 receptor</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>dopamineR</_spName>
+                <_synonyms>
+                    <_synonym>dopamine receptor</_synonym>
+                    <_synonym>dopamine receptors</_synonym>
+                </_synonyms>
+            </_protein>
+        </_primaryProtein>
+        <_globalInfo>
+            <_biologicalEntity name="GIP">
+                <_biologicalEntityName>Gi subtypes</_biologicalEntityName>
+                <_biologicalEntityName>Go</_biologicalEntityName>
+                <_biologicalEntityName>Gs proteins</_biologicalEntityName>
+                <_biologicalEntityName>Gi2</_biologicalEntityName>
+                <_biologicalEntityName>Gz subtypes</_biologicalEntityName>
+                <_biologicalEntityName>G protein Go</_biologicalEntityName>
+                <_biologicalEntityName>Gi</_biologicalEntityName>
+            </_biologicalEntity>
+            <_biologicalEntity name="cell">
+                <_biologicalEntityName>pituitary</_biologicalEntityName>
+                <_biologicalEntityName>Sf21 cells</_biologicalEntityName>
+                <_biologicalEntityName>Sf21 insect cells</_biologicalEntityName>
+            </_biologicalEntity>
+        </_globalInfo>
+        <_cooccurrence>
+            <_pairs targetType="GIP">
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAO</_spName>
+                            <_synonyms>
+                                <_synonym>Go</_synonym>
+                                <_synonym>G protein Go</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>DRD2</_spName>
+                            <_synonyms>
+                                <_synonym>D2 dopamine receptor</_synonym>
+                                <_synonym>D2</_synonym>
+                                <_synonym>D2 receptor</_synonym>
+                                <_synonym>D2 dopamine receptors</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="2">
+                            <_text>Chem. , Vol. 276 , Issue 31 ,
+                                28667-28675 , August 3 , 2001 This
+                                Article Abstract Full Text PDF All
+                                Versions of this Article : 276 31 28667
+                                most recent M008644200v1 Alert me when
+                                this article is cited Alert me if a
+                                correction is posted Citation Map
+                                Services Email this article to a friend
+                                Similar articles in this journal Similar
+                                articles in PubMed Alert me to new
+                                issues of the journal Download to
+                                citation manager Cited by other online
+                                articles Copyright Permissions PubMed
+                                PubMed Citation Articles by Cordeaux ,
+                                Y. Articles by Strange , P. G. . Agonist
+                                Regulation of [[D2 Dopamine Receptor]] G
+                                Protein Interaction EVIDENCE FOR AGONIST
+                                SELECTION OF G PROTEIN SUBTYPE Yolande
+                                Cordeaux Dagger , Sarah A. Nickolls ,
+                                Lori A. Flood , Stephen G. Graber , and
+                                Philip G. Strange From the School of
+                                Animal and Microbial Sciences ,
+                                University of Reading , Whiteknights ,
+                                Reading , Berkshire RG6 6AJ , United
+                                Kingdom and the Department of
+                                Pharmacology and Toxicology , West
+                                Virginia University , Morgantown , West
+                                Virginia 26506-9223 Received for
+                                publication , September 21 , 2000 , and
+                                in revised form , April 26 , 2001
+                                ABSTRACT TOP ABSTRACT INTRODUCTION
+                                EXPERIMENTAL PROCEDURES RESULTS
+                                DISCUSSION REFERENCES The [[D2 dopamine
+                                receptor]] has been expressed in Sf21
+                                insect cells together with the G
+                                proteins [[Go]] and Gi2 , using the
+                                baculovirus system </_text>
+                        </_sentence>
+                        <_sentence number="5">
+                            <_text>For some agonists , binding to the
+                                higher affinity site was of higher
+                                affinity in [[D2]] [[Go]] than in the
+                                [[D2]] Gi2 preparation </_text>
+                        </_sentence>
+                        <_sentence number="6">
+                            <_text>Some agonists exhibited binding data
+                                that were best fitted by a two-binding
+                                site model in [[D2]] [[Go]] and a
+                                one-binding site model in [[D2]] Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="7">
+                            <_text>Therefore , receptor G protein
+                                interaction seemed to be stronger in the
+                                [[D2]] [[Go]] preparation </_text>
+                        </_sentence>
+                        <_sentence number="8">
+                            <_text>Agonist stimulation of 35S GTPgammaS
+                                guanosine 5 - 3-O- thio triphosphate
+                                binding in the two preparations also
+                                gave evidence for higher affinity [[D2]]
+                                [[Go]] interaction </_text>
+                        </_sentence>
+                        <_sentence number="9">
+                            <_text>In the [[D2]] [[Go]] preparation ,
+                                agonist stimulation of 35S GTPgammaS
+                                binding occurred at higher potency for
+                                several agonists , and a higher
+                                stimulation relative to dopamine was
+                                achieved in [[D2]] [[Go]] compared with
+                                [[D2]] Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="10">
+                            <_text>Some agonists were able to stimulate
+                                35S GTPgammaS binding in the [[D2]]
+                                [[Go]] preparation but not in [[D2]] Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="11">
+                            <_text>The extent of [[D2 receptor]]
+                                selectivity for [[Go]] over Gi2 is
+                                therefore dependent on the agonist used
+                                , and thus agonists may stabilize
+                                different conformations of the receptor
+                                with different abilities to couple to
+                                and activate G proteins </_text>
+                        </_sentence>
+                        <_sentence number="33">
+                            <_text>To investigate these phenomena we
+                                have expressed the [[D2 dopamine
+                                receptor]] together with the G proteins
+                                [[Go]] and Gi2 in insect cells , using
+                                the baculovirus system 17 </_text>
+                        </_sentence>
+                        <_sentence number="104">
+                            <_text>3H Spiperone and 35S GTPgammaS
+                                saturation binding experiments were
+                                performed on membranes expressing [[D2
+                                dopamine receptors]] and either [[Go]]
+                                panels A , C , and E or Gi2 panels B , D
+                                , and F as described under Experimental
+                                Procedures </_text>
+                        </_sentence>
+                        <_sentence number="125">
+                            <_text>Agonist Binding to [[D2 Dopamine
+                                Receptors]] Coexpressed with G
+                                Proteins-- The binding of agonists to
+                                [[D2 dopamine receptors]] was determined
+                                in competition with 3H spiperone in the
+                                preparations containing [[Go]] and Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="135">
+                            <_text>The binding of dopamine ,
+                                bromocriptine down-triangle , and - -
+                                3-PPP open circle to membranes
+                                expressing [[D2 receptor]] and either
+                                [[Go]] panel A or Gi2 panel B was
+                                determined in competition versus 3H
+                                spiperone as described under
+                                Experimental Procedures </_text>
+                        </_sentence>
+                        <_sentence number="139">
+                            <_text>The binding of NPA to membranes
+                                expressing [[D2 receptor]] and either
+                                [[Go]] panel A or Gi2 panel B was
+                                determined in competition versus 3H
+                                spiperone in the absence open circle or
+                                presence of 100 µM GTP as described
+                                under Experimental Procedures </_text>
+                        </_sentence>
+                        <_sentence number="154">
+                            <_text>The stimulation of 35S GTPgammaS
+                                binding by agonists was determined as
+                                described under Experimental Procedures
+                                in membranes expressing [[D2 receptor]]
+                                and either [[Go]] panel A or Gi2 panel B
+                                . Agonists used were as follows :
+                                bromocriptine , dopamine black-diamond ,
+                                NPA black-square , quinpirole
+                                black-down-triangle , m-tyramine
+                                triangle , p-tyramine down-triangle , -
+                                - 3-PPP open circle , and - 3-PPP
+                                black-down-triangle </_text>
+                        </_sentence>
+                        <_sentence number="158">
+                            <_text>DISCUSSION TOP ABSTRACT INTRODUCTION
+                                EXPERIMENTAL PROCEDURES RESULTS
+                                DISCUSSION REFERENCES In this study we
+                                have expressed the [[D2 dopamine
+                                receptor]] together with the G proteins
+                                [[Go]] and Gi2 in insect cells using the
+                                baculovirus system </_text>
+                        </_sentence>
+                        <_sentence number="159">
+                            <_text>We show that the [[D2 receptor]]
+                                interacts more strongly with [[Go]] than
+                                Gi2 and that this influences the
+                                functional selectivity of agonist
+                                signaling </_text>
+                        </_sentence>
+                        <_sentence number="160">
+                            <_text>We also show that the extent of the
+                                selectivity of the interaction between
+                                the [[D2 receptor]] and [[Go]] or Gi2
+                                depends on the agonist used </_text>
+                        </_sentence>
+                        <_sentence number="188">
+                            <_text>Two observations from the ligand
+                                binding studies suggest that there may
+                                be a greater affinity of the [[D2
+                                receptor]] for [[Go]] than for Gi2 when
+                                occupied by several agonists </_text>
+                        </_sentence>
+                        <_sentence number="195">
+                            <_text>These data suggest that there is a
+                                more productive interaction between the
+                                [[D2 receptor]] and [[Go.]] The affinity
+                                of the interaction between receptor and
+                                G protein may contribute to this , as
+                                suggested above from the ligand binding
+                                data </_text>
+                        </_sentence>
+                        <_sentence number="196">
+                            <_text>The pattern of agonist binding and
+                                potencies in 35S GTPgammaS binding
+                                assays is very similar in the
+                                preparation containing [[Go]] compared
+                                with that seen for the [[D2 receptor]]
+                                expressed in CHO cells 23-25 </_text>
+                        </_sentence>
+                        <_sentence number="199">
+                            <_text>The Kl EC50 ratio of the agonists is
+                                greater in the preparation containing
+                                [[Go]] than in the preparation
+                                containing Gi2 , providing a further
+                                indication that there is a more
+                                productive interaction between the [[D2
+                                receptor]] and [[Go.]] View this table :
+                                in this window in a new window Table V
+                                Agonist signaling parameters Parameters
+                                were derived from data in Tables III and
+                                IV. Kh and Kl are respectively the
+                                dissociation constants for the higher
+                                and lower affinity agonist binding sites
+                                as in Table III </_text>
+                        </_sentence>
+                        <_sentence number="205">
+                            <_text>The data outlined earlier show that
+                                the affinity of the [[D2 dopamine
+                                receptor]] is greater for [[Go]] than
+                                for Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="208">
+                            <_text>As a result , the selectivity of the
+                                [[D2 receptor]] for [[Go]] over Gi2 is
+                                dependent on the agonist used </_text>
+                        </_sentence>
+                        <_sentence number="223">
+                            <_text>In conclusion , we have shown that
+                                the [[D2 dopamine receptor]] has a
+                                greater affinity for the [[G protein
+                                Go]] than for Gi2 </_text>
+                        </_sentence>
+                        <_sentence number="227">
+                            <_text>Therefore , the extent of selectivity
+                                of the [[D2 dopamine receptor]] for the
+                                two G proteins [[Go]] , Gi2 depends on
+                                the agonist used </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAI2</_spName>
+                            <_synonyms>
+                                <_synonym>Gi2</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>DRD2</_spName>
+                            <_synonyms>
+                                <_synonym>D2 dopamine receptor</_synonym>
+                                <_synonym>D2</_synonym>
+                                <_synonym>D2 receptor</_synonym>
+                                <_synonym>D2 dopamine receptors</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="2">
+                            <_text>Chem. , Vol. 276 , Issue 31 ,
+                                28667-28675 , August 3 , 2001 This
+                                Article Abstract Full Text PDF All
+                                Versions of this Article : 276 31 28667
+                                most recent M008644200v1 Alert me when
+                                this article is cited Alert me if a
+                                correction is posted Citation Map
+                                Services Email this article to a friend
+                                Similar articles in this journal Similar
+                                articles in PubMed Alert me to new
+                                issues of the journal Download to
+                                citation manager Cited by other online
+                                articles Copyright Permissions PubMed
+                                PubMed Citation Articles by Cordeaux ,
+                                Y. Articles by Strange , P. G. . Agonist
+                                Regulation of [[D2 Dopamine Receptor]] G
+                                Protein Interaction EVIDENCE FOR AGONIST
+                                SELECTION OF G PROTEIN SUBTYPE Yolande
+                                Cordeaux Dagger , Sarah A. Nickolls ,
+                                Lori A. Flood , Stephen G. Graber , and
+                                Philip G. Strange From the School of
+                                Animal and Microbial Sciences ,
+                                University of Reading , Whiteknights ,
+                                Reading , Berkshire RG6 6AJ , United
+                                Kingdom and the Department of
+                                Pharmacology and Toxicology , West
+                                Virginia University , Morgantown , West
+                                Virginia 26506-9223 Received for
+                                publication , September 21 , 2000 , and
+                                in revised form , April 26 , 2001
+                                ABSTRACT TOP ABSTRACT INTRODUCTION
+                                EXPERIMENTAL PROCEDURES RESULTS
+                                DISCUSSION REFERENCES The [[D2 dopamine
+                                receptor]] has been expressed in Sf21
+                                insect cells together with the G
+                                proteins Go and [[Gi2]] , using the
+                                baculovirus system </_text>
+                        </_sentence>
+                        <_sentence number="5">
+                            <_text>For some agonists , binding to the
+                                higher affinity site was of higher
+                                affinity in [[D2]] Go than in the [[D2]]
+                                [[Gi2]] preparation </_text>
+                        </_sentence>
+                        <_sentence number="6">
+                            <_text>Some agonists exhibited binding data
+                                that were best fitted by a two-binding
+                                site model in [[D2]] Go and a
+                                one-binding site model in [[D2]] [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="9">
+                            <_text>In the [[D2]] Go preparation ,
+                                agonist stimulation of 35S GTPgammaS
+                                binding occurred at higher potency for
+                                several agonists , and a higher
+                                stimulation relative to dopamine was
+                                achieved in [[D2]] Go compared with
+                                [[D2]] [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="10">
+                            <_text>Some agonists were able to stimulate
+                                35S GTPgammaS binding in the [[D2]] Go
+                                preparation but not in [[D2]] [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="11">
+                            <_text>The extent of [[D2 receptor]]
+                                selectivity for Go over [[Gi2]] is
+                                therefore dependent on the agonist used
+                                , and thus agonists may stabilize
+                                different conformations of the receptor
+                                with different abilities to couple to
+                                and activate G proteins </_text>
+                        </_sentence>
+                        <_sentence number="33">
+                            <_text>To investigate these phenomena we
+                                have expressed the [[D2 dopamine
+                                receptor]] together with the G proteins
+                                Go and [[Gi2]] in insect cells , using
+                                the baculovirus system 17 </_text>
+                        </_sentence>
+                        <_sentence number="104">
+                            <_text>3H Spiperone and 35S GTPgammaS
+                                saturation binding experiments were
+                                performed on membranes expressing [[D2
+                                dopamine receptors]] and either Go
+                                panels A , C , and E or [[Gi2]] panels B
+                                , D , and F as described under
+                                Experimental Procedures </_text>
+                        </_sentence>
+                        <_sentence number="125">
+                            <_text>Agonist Binding to [[D2 Dopamine
+                                Receptors]] Coexpressed with G
+                                Proteins-- The binding of agonists to
+                                [[D2 dopamine receptors]] was determined
+                                in competition with 3H spiperone in the
+                                preparations containing Go and [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="135">
+                            <_text>The binding of dopamine ,
+                                bromocriptine down-triangle , and - -
+                                3-PPP open circle to membranes
+                                expressing [[D2 receptor]] and either Go
+                                panel A or [[Gi2]] panel B was
+                                determined in competition versus 3H
+                                spiperone as described under
+                                Experimental Procedures </_text>
+                        </_sentence>
+                        <_sentence number="139">
+                            <_text>The binding of NPA to membranes
+                                expressing [[D2 receptor]] and either Go
+                                panel A or [[Gi2]] panel B was
+                                determined in competition versus 3H
+                                spiperone in the absence open circle or
+                                presence of 100 µM GTP as described
+                                under Experimental Procedures </_text>
+                        </_sentence>
+                        <_sentence number="154">
+                            <_text>The stimulation of 35S GTPgammaS
+                                binding by agonists was determined as
+                                described under Experimental Procedures
+                                in membranes expressing [[D2 receptor]]
+                                and either Go panel A or [[Gi2]] panel B
+                                . Agonists used were as follows :
+                                bromocriptine , dopamine black-diamond ,
+                                NPA black-square , quinpirole
+                                black-down-triangle , m-tyramine
+                                triangle , p-tyramine down-triangle , -
+                                - 3-PPP open circle , and - 3-PPP
+                                black-down-triangle </_text>
+                        </_sentence>
+                        <_sentence number="158">
+                            <_text>DISCUSSION TOP ABSTRACT INTRODUCTION
+                                EXPERIMENTAL PROCEDURES RESULTS
+                                DISCUSSION REFERENCES In this study we
+                                have expressed the [[D2 dopamine
+                                receptor]] together with the G proteins
+                                Go and [[Gi2]] in insect cells using the
+                                baculovirus system </_text>
+                        </_sentence>
+                        <_sentence number="159">
+                            <_text>We show that the [[D2 receptor]]
+                                interacts more strongly with Go than
+                                [[Gi2]] and that this influences the
+                                functional selectivity of agonist
+                                signaling </_text>
+                        </_sentence>
+                        <_sentence number="160">
+                            <_text>We also show that the extent of the
+                                selectivity of the interaction between
+                                the [[D2 receptor]] and Go or [[Gi2]]
+                                depends on the agonist used </_text>
+                        </_sentence>
+                        <_sentence number="188">
+                            <_text>Two observations from the ligand
+                                binding studies suggest that there may
+                                be a greater affinity of the [[D2
+                                receptor]] for Go than for [[Gi2]] when
+                                occupied by several agonists </_text>
+                        </_sentence>
+                        <_sentence number="199">
+                            <_text>The Kl EC50 ratio of the agonists is
+                                greater in the preparation containing Go
+                                than in the preparation containing
+                                [[Gi2]] , providing a further indication
+                                that there is a more productive
+                                interaction between the [[D2 receptor]]
+                                and Go. View this table : in this window
+                                in a new window Table V Agonist
+                                signaling parameters Parameters were
+                                derived from data in Tables III and IV.
+                                Kh and Kl are respectively the
+                                dissociation constants for the higher
+                                and lower affinity agonist binding sites
+                                as in Table III </_text>
+                        </_sentence>
+                        <_sentence number="205">
+                            <_text>The data outlined earlier show that
+                                the affinity of the [[D2 dopamine
+                                receptor]] is greater for Go than for
+                                [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="208">
+                            <_text>As a result , the selectivity of the
+                                [[D2 receptor]] for Go over [[Gi2]] is
+                                dependent on the agonist used </_text>
+                        </_sentence>
+                        <_sentence number="223">
+                            <_text>In conclusion , we have shown that
+                                the [[D2 dopamine receptor]] has a
+                                greater affinity for the G protein Go
+                                than for [[Gi2]] </_text>
+                        </_sentence>
+                        <_sentence number="227">
+                            <_text>Therefore , the extent of selectivity
+                                of the [[D2 dopamine receptor]] for the
+                                two G proteins Go , [[Gi2]] depends on
+                                the agonist used </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAO</_spName>
+                            <_synonyms>
+                                <_synonym>Go</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>5HT1A</_spName>
+                            <_synonyms>
+                                <_synonym>5HT1A</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the [[5HT1A]] serotonin receptor
+                                , it was shown that the receptor
+                                interacts preferentially with Gi [[Go]]
+                                Gz subtypes of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAZ</_spName>
+                            <_synonyms>
+                                <_synonym>Gz subtypes</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>5HT1A</_spName>
+                            <_synonyms>
+                                <_synonym>5HT1A</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the [[5HT1A]] serotonin receptor
+                                , it was shown that the receptor
+                                interacts preferentially with Gi Go [[Gz
+                                subtypes]] of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAI</_spName>
+                            <_synonyms>
+                                <_synonym>Gi</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>5HT1A</_spName>
+                            <_synonyms>
+                                <_synonym>5HT1A</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the [[5HT1A]] serotonin receptor
+                                , it was shown that the receptor
+                                interacts preferentially with [[Gi]] Go
+                                Gz subtypes of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAO</_spName>
+                            <_synonyms>
+                                <_synonym>Go</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>serotoninR</_spName>
+                            <_synonyms>
+                                <_synonym>serotonin receptor</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the 5HT1A [[serotonin receptor]]
+                                , it was shown that the receptor
+                                interacts preferentially with Gi [[Go]]
+                                Gz subtypes of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAZ</_spName>
+                            <_synonyms>
+                                <_synonym>Gz subtypes</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>serotoninR</_spName>
+                            <_synonyms>
+                                <_synonym>serotonin receptor</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the 5HT1A [[serotonin receptor]]
+                                , it was shown that the receptor
+                                interacts preferentially with Gi Go [[Gz
+                                subtypes]] of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+                <_pair>
+                    <_target name="GIP">
+                        <_protein>
+                            <_spName>GNAI</_spName>
+                            <_synonyms>
+                                <_synonym>Gi</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_target>
+                    <_primary name="receptor">
+                        <_protein>
+                            <_spName>serotoninR</_spName>
+                            <_synonyms>
+                                <_synonym>serotonin receptor</_synonym>
+                            </_synonyms>
+                        </_protein>
+                    </_primary>
+                    <_sentences>
+                        <_sentence number="24">
+                            <_text>For the 5HT1A [[serotonin receptor]]
+                                , it was shown that the receptor
+                                interacts preferentially with [[Gi]] Go
+                                Gz subtypes of G protein 9 and that the
+                                nature of the G protein subtype
+                                influenced the agonist selectivity of
+                                the response 10 </_text>
+                        </_sentence>
+                    </_sentences>
+                </_pair>
+            </_pairs>
+        </_cooccurrence>
+    </_article>
+
+</_articleSet>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<catalog>
+    <!-- load files and build docstore once the index is finished -->
+    <chain name="Docstore" className="textractor.chain.loader.SfnArticleLoader"
+           file="/sfn-2006/AS_DataNameDP.ds" appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary ">
+           <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 basename="index/sfn-index"
+                 chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

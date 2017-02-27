@@ -1,0 +1,23 @@
+#JBC1999
+#274_52_37400
+PIF:not-phosphorylate:PDK1
+PDK1:phosphorylate:PKB
+PDK1:phosphorylate:PKBalpha
+PDK1:phosphorylate:p70 S6K
+PIF:not-phosphorylate:PKB
+PIF:not-phosphorylate:PKBalpha
+PIF:not-phosphorylate:p70 S6K
+
+#274_53_37965
+ERK2:phosphorylate:L1
+CKII:phosphorylate:L1
+p90rsk:phosphorylate:L1
+Raf 1:not-phosphorylate:L1
+ankyrin:not-phosphorylate:L1
+
+#274_53_38225
+PKCalpha:phosphorylate:hRARalpha
+PKCgamma:phosphorylate:hRARalpha
+
+
+

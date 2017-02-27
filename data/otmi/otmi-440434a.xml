@@ -1,0 +1,255 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Cell division Running rings around the spindle</title>
+      <id>info:doi/10.1038/440434a</id>
+      <link href='http://dx.doi.org/10.1038/440434a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Deepa Nath</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>434</prism:startingPage>
+      <prism:endingPage>434</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='12'>microtubules</otmi:vector>
+              <otmi:vector count='9'>complex</otmi:vector>
+              <otmi:vector count='9'>Dam1</otmi:vector>
+              <otmi:vector count='6'>chromosomes</otmi:vector>
+              <otmi:vector count='5'>along</otmi:vector>
+              <otmi:vector count='5'>ends</otmi:vector>
+              <otmi:vector count='4'>spindle</otmi:vector>
+              <otmi:vector count='4'>cell</otmi:vector>
+              <otmi:vector count='4'>microtubule</otmi:vector>
+              <otmi:vector count='3'>depolymerizing</otmi:vector>
+              <otmi:vector count='3'>chromosome</otmi:vector>
+              <otmi:vector count='3'>duplicated</otmi:vector>
+              <otmi:vector count='3'>subunits</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>Barnes</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>central</otmi:vector>
+              <otmi:vector count='2'>protein</otmi:vector>
+              <otmi:vector count='2'>sliding</otmi:vector>
+              <otmi:vector count='2'>During</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>ring</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>daughter</otmi:vector>
+              <otmi:vector count='2'>these</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>out</otmi:vector>
+              <otmi:vector count='2'>structure</otmi:vector>
+              <otmi:vector count='2'>thus</otmi:vector>
+              <otmi:vector count='2'>tubulin</otmi:vector>
+              <otmi:vector count='2'>turnover</otmi:vector>
+              <otmi:vector count='2'>attached</otmi:vector>
+              <otmi:vector count='2'>plane</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>colleagues</otmi:vector>
+              <otmi:vector count='2'>rings</otmi:vector>
+              <otmi:vector count='2'>continually</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>device</otmi:vector>
+              <otmi:vector count='1'>569</otmi:vector>
+              <otmi:vector count='1'>shrinks</otmi:vector>
+              <otmi:vector count='1'>subcomplex</otmi:vector>
+              <otmi:vector count='1'>Nature</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>depolymerize</otmi:vector>
+              <otmi:vector count='1'>streptavidin</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>molecules</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>depolymerization</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>linear</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>segregation</otmi:vector>
+              <otmi:vector count='1'>Georjana</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>incorporating</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>poles</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>shorten</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>diameter</otmi:vector>
+              <otmi:vector count='1'>dissolving</otmi:vector>
+              <otmi:vector count='1'>objects</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>add</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>carried</otmi:vector>
+              <otmi:vector count='1'>Microtubules</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>dynamic</otmi:vector>
+              <otmi:vector count='1'>pictured</otmi:vector>
+              <otmi:vector count='1'>congregate</otmi:vector>
+              <otmi:vector count='1'>stick</otmi:vector>
+              <otmi:vector count='1'>nearest</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>lattice</otmi:vector>
+              <otmi:vector count='1'>array</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>polymers</otmi:vector>
+              <otmi:vector count='1'>shrink</otmi:vector>
+              <otmi:vector count='1'>copies</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>depolymerized</otmi:vector>
+              <otmi:vector count='1'>biotin</otmi:vector>
+              <otmi:vector count='1'>formed</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>biotin-labelled</otmi:vector>
+              <otmi:vector count='1'>relied</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>apart</otmi:vector>
+              <otmi:vector count='1'>piece</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>pole</otmi:vector>
+              <otmi:vector count='1'>coupling</otmi:vector>
+              <otmi:vector count='1'>progressing</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>lost</otmi:vector>
+              <otmi:vector count='1'>565</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>cargo</otmi:vector>
+              <otmi:vector count='1'>shortened</otmi:vector>
+              <otmi:vector count='1'>nm</otmi:vector>
+              <otmi:vector count='1'>tiny</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>leave</otmi:vector>
+              <otmi:vector count='1'>jigsaw</otmi:vector>
+              <otmi:vector count='1'>imaging</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>helices</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>labelled</otmi:vector>
+              <otmi:vector count='1'>et</otmi:vector>
+              <otmi:vector count='1'>taking</otmi:vector>
+              <otmi:vector count='1'>kinetochore</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>real-time</otmi:vector>
+              <otmi:vector count='1'>copy</otmi:vector>
+              <otmi:vector count='1'>paired</otmi:vector>
+              <otmi:vector count='1'>kinetochores</otmi:vector>
+              <otmi:vector count='1'>Streptavidin-coated</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>440</otmi:vector>
+              <otmi:vector count='1'>puzzled</otmi:vector>
+              <otmi:vector count='1'>old</otmi:vector>
+              <otmi:vector count='1'>passed</otmi:vector>
+              <otmi:vector count='1'>propelling</otmi:vector>
+              <otmi:vector count='1'>specialized</otmi:vector>
+              <otmi:vector count='1'>microbeads</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>coloured</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>assembles</otmi:vector>
+              <otmi:vector count='1'>slid</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>spreads</otmi:vector>
+              <otmi:vector count='1'>beads</otmi:vector>
+              <otmi:vector count='1'>away</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>bonds</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>monomers</otmi:vector>
+              <otmi:vector count='1'>movement</otmi:vector>
+              <otmi:vector count='1'>watch</otmi:vector>
+              <otmi:vector count='1'>dragging</otmi:vector>
+              <otmi:vector count='1'>transported</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>fluorophores</otmi:vector>
+              <otmi:vector count='1'>division</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>stay</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>recruited</otmi:vector>
+              <otmi:vector count='1'>encircle</otmi:vector>
+              <otmi:vector count='1'>grow</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>answer</otmi:vector>
+              <otmi:vector count='1'>divide</otmi:vector>
+              <otmi:vector count='1'>filaments</otmi:vector>
+              <otmi:vector count='1'>shrinking</otmi:vector>
+              <otmi:vector count='1'>al</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>way.</otmi:vector>
+              <otmi:vector count='1'>bearing</otmi:vector>
+              <otmi:vector count='1'>Dam1-complex</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>mitotic</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>pull</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As the microtubules depolymerized, the Dam1 complex slid along the spindle away from the shrinking ends, bearing its cargo of beads</otmi:snippet>
+              <otmi:snippet>As the microtubules shortened during depolymerization, the Dam1 complex could clearly be seen progressing along the microtubules</otmi:snippet>
+              <otmi:snippet>Barnes et al . used real-time imaging to watch the Dam1 complex on dynamic microtubules in vitro </otmi:snippet>
+              <otmi:snippet>But if these ends are continually dissolving as the microtubules pull back, how do the chromosomes stay attached? The answer lies with a subcomplex in the kinetochore, called the Dam1 complex, which assembles into rings and paired helices that encircle the ends of depolymerizing microtubules (pictured)</otmi:snippet>
+              <otmi:snippet>During cell division, an array of tiny filaments called microtubules spreads from the poles of the cell to the central plane, where the duplicated chromosomes congregate</otmi:snippet>
+              <otmi:snippet>During chromosome segregation, the microtubules depolymerize, and thus shorten, from the end nearest the central plane of the cell</otmi:snippet>
+              <otmi:snippet>Finally, Barnes and colleagues showed that the Dam1 complex can function as a coupling device to move objects along the microtubules</otmi:snippet>
+              <otmi:snippet>It will be interesting to find out whether chromosomes are transported in the same way.</otmi:snippet>
+              <otmi:snippet>Microtubules are linear polymers of the protein tubulin of diameter 24 nm that grow or shrink as tubulin monomers are added to or lost from their ends</otmi:snippet>
+              <otmi:snippet>So, as the spindle shrinks, the attached chromosomes are carried towards the pole</otmi:snippet>
+              <otmi:snippet>Streptavidin-coated microbeads were recruited to the microtubules using a biotin-labelled Dam1 complex</otmi:snippet>
+              <otmi:snippet>The authors demonstrated that turnover of Dam1-complex subunits was not taking place and that the ring structure is sliding intact along the depolymerizing microtubule</otmi:snippet>
+              <otmi:snippet>The chromosomes stick to the depolymerizing ends of the spindle microtubules through specialized protein complexes known as kinetochores</otmi:snippet>
+              <otmi:snippet>The details of how these duplicated chromosomes are separated are still being puzzled out, but elsewhere in this issue, Georjana Barnes and colleagues ( Nature 440 , 565 – 569 ; 2006 ) add a large piece to the jigsaw</otmi:snippet>
+              <otmi:snippet>These experiments relied on the strong bonds formed between streptavidin and biotin molecules</otmi:snippet>
+              <otmi:snippet>They labelled the Dam1 complex and the microtubules with different coloured fluorophores</otmi:snippet>
+              <otmi:snippet>This microtubule structure — the &quot;mitotic spindle&quot; — is responsible for dragging the two copies of the chromosome apart into the two regions that will form the daughter cells</otmi:snippet>
+              <otmi:snippet>This movement could be explained either by a &quot;sliding&quot; mechanism, in which the Dam1 complex is continually associated with the microtubule lattice, or by a &quot;turnover&quot; mechanism, with new subunits of the Dam1 complex rapidly incorporating into existing rings as old subunits leave, thus propelling the ring along the microtubule</otmi:snippet>
+              <otmi:snippet>When cells divide, each chromosome is duplicated and one copy is passed to each daughter cell</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/0042-6822(83)90150-2</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0308001101</otmi:refid>
+          <otmi:refid>info:doi/10.1128/JVI.79.15.9926-9932.2005</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1062882</otmi:refid>
+          <otmi:refsnoid>4</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

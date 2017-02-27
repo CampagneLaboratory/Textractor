@@ -1,0 +1,706 @@
+JVI -- Seiler et al. 72 (3): 2253  
+       
+
+             Abstract of this Article () 
+             Reprint (PDF) Version of this Article 
+             Similar articles found in:
+            JVI Online 
+            PubMed 
+             PubMed Citation 
+             This Article has been cited by: 
+            other online articles 
+             Search Medline for articles by:
+             Seiler, P. || Hengartner, H. 
+             Alert me when: 
+            new articles cite this article
+
+             Download to Citation Manager 
+
+      Books from ASM Press
+
+J Virol, March 1998, p. 2253-2258, Vol. 72, No. 3
+0022-538X/98/$04.00+0
+Copyright © 1998, American Society for Microbiology. All rights reserved. 
+Enhanced Virus Clearance by Early Inducible Lymphocytic Choriomeningitis 
+Virus-Neutralizing Antibodies in Immunoglobulin-Transgenic Mice 
+Peter Seiler,1,* Ulrich Kalinke,1 Thomas Rülicke,2 Etienne M. Bucher,1 Christian 
+Böse,1, Rolf M. Zinkernagel,1 and Hans Hengartner1 
+Department of Pathology, Institute of Experimental Immunology, University of 
+Zurich,1 and Biologisches Zentrallabor, University Hospital Zurich,2 CH 8091 
+Zurich, Switzerland 
+Received 1 October 1997/Accepted 24 November 1997 
+         ABSTRACT
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+Following infection of mice with lymphocytic choriomeningitis virus (LCMV), 
+virus-neutralizing antibodies appear late, after 30 to 60 days. Such 
+neutralizing antibodies play an important role in protection against 
+reinfection. To analyze whether a neutralizing antibody response which developed 
+earlier could contribute to LCMV clearance during the acute phase of infection, 
+we generated transgenic mice expressing LCMV-neutralizing antibodies. Transgenic 
+mice expressing the immunoglobulin µ heavy chain of the LCMV-neutralizing 
+monoclonal antibody KL25 (H25 transgenic mice) mounted LCMV-neutralizing 
+immunoglobulin M (IgM) serum titers within 8 days after infection. This early 
+inducible LCMV-neutralizing antibody response significantly improved the host's 
+capacity to clear the infection and did not cause an enhancement of disease 
+after intracerebral (i.c.) LCMV infection. In contrast, mice which had been 
+passively administered LCMV-neutralizing antibodies and transgenic mice 
+exhibiting spontaneous LCMV-neutralizing IgM serum titers (HL25 transgenic mice 
+expressing the immunoglobulin µ heavy and the  light chain) showed an 
+enhancement of disease after i.c. LCMV infection. Thus, early-inducible 
+LCMV-neutralizing antibodies can contribute to viral clearance in the acute 
+phase of the infection and do not cause antibody-dependent enhancement of 
+disease. 
+         INTRODUCTION
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+Against many cytopathic viruses such as poliovirus, influenza virus, rabies 
+virus, and vesicular stomatitis virus, protective virus-neutralizing antibodies 
+are generated early, within 1 week after infection (3, 31, 36, 44, 49). In 
+contrast, several noncytopathic viruses (e.g., human immunodeficiency virus and 
+hepatitis viruses B and C in humans or lymphocytic choriomeningitis virus [LCMV] 
+in mice) elicit poor and delayed virus-neutralizing antibody responses (1, 7, 
+20, 24, 27, 35, 45, 48). 
+In the mouse, the natural host of LCMV, the acute LCMV infection is 
+predominantly controlled by cytotoxic T lymphocytes (CTLs) in an obligatory 
+perforin-dependent manner (13, 18, 28, 50). In addition to the CTL response, 
+LCMV-specific antibodies are generated. Early after infection (by day 8), a 
+strong antibody response specific for the internal viral nucleoprotein (NP) is 
+mounted (7, 19, 23, 28). These early LCMV NP-specific antibodies exhibit no 
+virus-neutralizing capacity (7, 10). Results from studies of B-cell-depleted 
+mice and B-cell-deficient mice implied that the early LCMV NP-specific 
+antibodies are not involved in the clearance of LCMV (8, 11, 12, 40). Late after 
+infection (between days 30 and day 60), LCMV-neutralizing antibodies develop (7, 
+19, 22, 28, 33); these antibodies are directed against the surface glycoprotein 
+(GP) of LCMV (9, 10). LCMV-neutralizing antibodies have an important function in 
+protection against reinfection (4, 6, 38, 41, 47). 
+In some viral infections, subprotective virus-neutralizing antibody titers can 
+enhance disease rather than promote host recovery (i.e., exhibit 
+antibody-dependent enhancement of disease [ADE] [14, 15, 21, 46]). For example, 
+neutralizing antibodies are involved in the resolution of a primary dengue virus 
+infection and in the protection against reinfection. However, if subprotective 
+neutralizing antibody titers are present at the time of reinfection, a severe 
+form of the disease (dengue hemorrhagic fever/dengue shock syndrome [15, 21]), 
+which might be caused by Fc receptor-mediated uptake of virus-antibody complexes 
+leading to an enhanced infection of monocytes (15, 16, 25, 39), can develop. 
+Similarly, an enhancement of disease after intracerebral (i.c.) LCMV infection 
+was observed in mice which had been treated with virus-neutralizing antibodies 
+before the virus challenge (6). ADE in LCMV-infected mice was either due to an 
+enhanced infection of monocytes by Fc receptor-mediated uptake of antibody-virus 
+complexes or due to CTL-mediated immunopathology caused by an imbalanced virus 
+spread and CTL response. 
+To analyze whether LCMV-neutralizing antibodies generated early after infection 
+improve the host's capacity to clear the virus or enhance immunopathological 
+disease, immunoglobulin (Ig)-transgenic mice expressing LCMV-neutralizing IgM 
+antibodies were generated. After LCMV infection of transgenic mice expressing 
+the Ig heavy chain (H25 transgenic mice), LCMV-neutralizing serum antibodies 
+were mounted within 8 days, which significantly improved the host's capacity to 
+eliminate LCMV. H25 transgenic mice did not show any signs of ADE after i.c. 
+LCMV infection. 
+Transgenic mice expressing the Ig heavy and light chains (HL25 transgenic mice) 
+exhibited spontaneous LCMV-neutralizing serum antibodies and confirmed the 
+protective role of preexisting LCMV-neutralizing antibodies, even though the 
+neutralizing serum antibodies were of the IgM isotype. Similar to mice which had 
+been treated with LCMV-neutralizing antibodies, HL25 transgenic mice developed 
+an enhanced disease after i.c. LCMV infection, which indicated that ADE was due 
+to an imbalance between virus spread and CTL response. Thus, the early-inducible 
+LCMV-neutralizing antibody response significantly enhanced clearance of the 
+acute infection without any risk of causing ADE. 
+         MATERIALS AND METHODS
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+Generation of transgenic mice. Gene segments coding for the Ig heavy-chain V 
+(VH) region and Ig light-chain V (VL) region were cloned from the B-cell 
+hybridoma KL25 (9), which neutralized the LCMV isolate WE. The VH segment 
+contained the autologous promoter, the rearranged VDJ region, and the 
+heavy-chain intron enhancer. It was isolated from a  ZAP library (Stratagene, La 
+Jolla, Calif.) generated from EcoRI-digested KL25 genomic DNA by using an intron 
+enhancer-specific probe. The EcoRI fragment containing the VH region was ligated 
+into the EcoRI site of a transgene expression vector encoding the genomic Cµ 
+region of mouse IgM allotype a (Cµa) (30). 
+The VL region of KL25 was PCR amplified from KL25 genomic DNA by using a 
+V4-specific primer (5'- AAA AGA GCT CAA AAT GGA TTT TCA AGT GCA GAT TTT -3', 
+annealing at the first 23 nucleotides of the V4 leader and introducing a SacI 
+site 5' of amino acid position 22) and a J4-specific primer (5'- TAT ACT TAC GTT 
+TTA TTT CCA ACT TTG TCC CCG -3', annealing at the 3' end of the J4 segment 
+including the sequence of the splice donor signal). The resulting PCR product 
+containing the light-chain leader, the intron, and the rearranged VJ region of 
+the light chain (VL) was cloned into the EcoRV site of pBluescript. After 
+verification of the sequence of the PCR-derived fragment by automated DNA 
+sequencing (Bio-Rad, Hercules, Calif.), the SacI/HindIII fragment containing the 
+VL gene was ligated into the SacI/HindIII sites of a C expression vector 
+encoding the mouse  light-chain C (C) region (42). 
+To prepare DNA for microinjection, the µ heavy-chain transgene was excised by 
+using restriction endonucleases AatII and XhoI, and the  light-chain transgene 
+was linearized at the unique XbaI site. 
+The two transgene constructs were coinjected into male pronuclei of fertilized 
+oocytes of the mouse strain C57BL/6 LTK. Transgene integrations were screened by 
+PCR and Southern blot analysis. Inbred C57BL/6 (H-2b) mice from the breeding 
+colony of the Institut für Zuchthygiene, Tierspital Zürich, Zürich, Switzerland, 
+were used as donors for fertilized oocytes. 
+Virus. LCMV-WE was originally provided by F. Lehmann-Grube, Hamburg, Germany, 
+and was grown on L-929 cells for 48 h in minimal essential medium-5% fetal calf 
+serum after infection with an initial multiplicity of infection of 0.01. 
+FACS analysis. Fluorescence-activated cell sorting (FACS) analysis was performed 
+on a FACScan (Becton Dickinson, San Diego, Calif.) according to standard 
+procedures. The following antibodies were used: rat anti-mouse CD45R 
+(B220)-phycoerythrin conjugate (Sigma, St. Louis, Mo.) and mouse anti-mouse IgMa 
+(the constant domain of mouse IgM allotype a [30])-fluorescein isothiocyanate 
+conjugate (PharMingen, San Diego, Calif.). Living cells were gated by using a 
+combination of forward scatter and 90° side scatter. 
+LCMV infectious focus formation assay. Viral titers from spleens of infected 
+mice were determined as described previously (5). Briefly, spleen homogenates 
+were serially diluted 10-fold and grown on an MC57G cell monolayer for 48 h 
+under an overlay of 1% methylcellulose in Dulbecco's modified Eagle's medium. 
+Cells were fixed with 4% formalin in phosphate-buffered saline, and infectious 
+foci were detected by intracellular LCMV staining of infected cells with the rat 
+anti-LCMV monoclonal antibody (MAb) VL-4 (5). 
+LCMV neutralization in vitro: infectious focus reduction assay. LCMV 
+neutralization in vitro was determined with an infectious focus reduction assay 
+as described previously (5). Briefly, serial 2-fold dilutions of 
+10-fold-prediluted sera were incubated with LCMV for 90 min at 37°C in a 96-well 
+plate. MC57G mouse fibroblasts were added, and after approximately 4 h, when the 
+cells had settled and had absorbed the nonneutralized virus, cells were overlaid 
+with 1% methylcellulose in Dulbecco's modified Eagle's medium; 48 h later, cell 
+monolayers were fixed with 4% formalin and remaining infectious foci were 
+detected as in the focus formation assay by intracellular LCMV staining of 
+infected cells with the rat anti-LCMV MAb VL-4. Sera were tested under 
+nonreducing conditions to measure neutralization by total Ig. To obtain values 
+for IgG, sera were reduced prior to the neutralization assay by adding 
+2-mercaptoethanol at a final concentration of 0.05 M for 90 min at room 
+temperature. Sera were heat inactivated at 56°C for 60 min. 
+Cytotoxicity assay. The cytolytic activity of spleen cells was tested in a 51Cr 
+release assay as described previously (50). Briefly, MC57G target cells were 
+coated with LCMV-derived peptide GP33-41 (32) or NP396-408 (37) or with an 
+H-2Db-binding adenovirus peptide (26) as a negative control at concentrations of 
+106 M; 104 target cells were incubated in 96-well round-bottom plates with 
+serial threefold dilutions of spleen effector cells starting at an 
+effector-to-target ratio of 70:1 in a final volume of 200 µl. After 5 h of 
+incubation at 37°C, 70 µl of supernatant was harvested and  irradiation was 
+measured. 
+         RESULTS
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+Generation of the Ig-transgenic mouse lines H25 and HL25 expressing lymphocytic 
+choriomeningitis virus-specific neutralizing antibodies. The VH and VL gene 
+segments of the B-cell hybridoma KL25 (9) secreting an LCMV-neutralizing MAb 
+were cloned and ligated into transgene expression vectors encoding IgMa and C 
+(42), respectively (Fig. 1). Both constructs were microinjected into C57BL/6 
+oocytes. Integration and germ line transmission of the transgenes were monitored 
+by PCR and Southern blot analysis (data not shown). Multiple transgene 
+integrations in one founder led to the establishment of two independent 
+transgenic mouse lines: the transgenic mouse line H25 expressed the transgenic 
+heavy chain, whereas the transgenic mouse line HL25 expressed both the 
+transgenic heavy and light chains. 
+
+            View larger version (11K): 
+            [in this window] 
+            [in a new window]
+              FIG. 1.   Structure of the Ig transgene constructs. (A) µ 
+            heavy-chain transgene; (B)  light-chain transgene. Filled boxes 
+            represent Ig exons, hatched boxes represent antibiotic resistance 
+            genes, and open boxes, represent cis-acting promoter elements. The 
+            heavy- and light-chain constructs were linearized prior to 
+            microinjection by using restriction endonucleases AatII and XhoI 
+            (heavy chain) and XbaI (light chain). IE, Ig heavy-chain intron 
+            enhancer; P, autologous promoter of the cloned VH gene segment; P, 
+            consensus  light-chain promoter. 
+
+
+
+Expression of the transgenic IgMa heavy chain on the surface of B220-positive B 
+cells from peripheral blood lymphocytes, spleen cells, and bone marrow cells of 
+H25 and HL25 transgenic mice was determined by FACS analysis (Fig. 2). The 
+proportion of cells expressing the surface IgMa was lower in H25 transgenic mice 
+than in HL25 transgenic mice. This might be due either to the coexpression of 
+the optimally fitting transgenes encoding the heavy and the light chains in HL25 
+transgenic mice or to different genomic integration sites of the heavy-chain 
+transgenes in the two different transgenic mouse lines. 
+
+            View larger version (39K): 
+            [in this window] 
+            [in a new window]
+              FIG. 2.   Surface expression of IgMa on B cells of H25 and HL25 
+            transgenic mice. IgMa and B220 were stained on blood cells, spleen 
+            cells, and bone marrow cells of H25 transgenic mice, HL25 transgenic 
+            mice, and transgene-negative control mice (B6). Numbers in quadrants 
+            indicate percentages of gated living cells. 
+
+
+
+Expression of early-inducible versus spontaneous LCMV-neutralizing antibodies in 
+H25 and HL25 transgenic mice. Sera of H25 and HL25 transgenic mice were analyzed 
+for the presence of spontaneous LCMV-neutralizing serum antibodies by the 
+infectious focus reduction assay (5). H25 transgenic mice did not express 
+spontaneous LCMV-neutralizing serum antibodies, whereas HL25 transgenic mice 
+showed LCMV-neutralizing antibody titers before the antigen challenge (Fig. 3A 
+and B, day 0). After intravenous (i.v.) infection with 200 PFU of LCMV-WE, H25 
+transgenic mice mounted an LCMV-neutralizing Ig response peaking between days 8 
+and 11 after LCMV infection. In contrast, the spontaneous neutralizing titers of 
+HL25 transgenic mice did not change after infection. Sera of nontransgenic 
+control mice did not show any neutralizing activity within the observation 
+period of 50 days (Fig. 3C). The neutralizing capacity of all sera was abolished 
+when tested under reducing conditions, indicating that the virus neutralization 
+was mediated by IgM antibodies presumably encoded by the transgenes. 
+
+            View larger version (19K): 
+            [in this window] 
+            [in a new window]
+              FIG. 3.   LCMV-WE-neutralizing antibody titers in the sera of H25 
+            and HL25 transgenic mice. H25 and HL25 transgenic mice and transgene 
+            negative control (ctrl) mice were infected i.v. with 200 PFU of 
+            LCMV-WE. Sera were collected at the indicated time points and were 
+            tested for virus-neutralizing total Ig (nonreducing conditions; 
+            closed symbols) and IgG (reducing conditions; open symbols) in an 
+            infectious focus reduction assay. Sera were prediluted 10-fold and 
+            titrated in 2-fold dilution steps. Values are for individual mice 
+            from one representative experiment of five similar experiments. 
+
+
+
+Enhanced virus elimination in H25 transgenic mice expressing early-inducible 
+neutralizing antibodies. To analyze the influence of early-inducible versus 
+preexisting LCMV-neutralizing antibodies on virus elimination, H25 and HL25 
+transgenic mice and transgene-negative littermates were infected i.v. with 200 
+PFU of LCMV-WE. Virus titers in the spleen were monitored from days 1 to 10 
+after infection. Early-neutralizing serum antibodies induced in H25 transgenic 
+mice did not influence LCMV titers significantly up to day 4 after infection but 
+thereafter reduced virus titers significantly and enhanced virus elimination 
+(Fig. 4). This result demonstrated for the first time that the early generation 
+of LCMV-neutralizing antibodies improved the host's efficiency in eliminating 
+LCMV. 
+
+            View larger version (23K): 
+            [in this window] 
+            [in a new window]
+              FIG. 4.   H25 transgenic mice clear LCMV earlier than control 
+            mice. H25 and HL25 transgenic mice and transgene-negative control 
+            (ctrl) littermates were infected i.v. with 200 PFU of LCMV-WE. At 
+            days 1 to 10, spleens were tested for virus titers in an infectious 
+            focus formation assay. Virus titers per spleen of individual mice 
+            are indicated. The log titer of 1.7 is the detection limit of the 
+            assay. Values are for individual mice from one representative 
+            experiment of three similar experiments. 
+
+
+
+Preexisting neutralizing serum antibody titers of HL25 transgenic mice inhibited 
+LCMV replication in the spleen from the day of infection onward. These mice were 
+protected against i.v. infection, even though the transgene-encoded antibodies 
+were of the IgM isotype. This result is in agreement with earlier findings 
+demonstrating the protective capacity of passively administered 
+LCMV-neutralizing antibodies (4, 6, 38, 41, 47). 
+H25 transgenic mice develop normal CTL activity. To analyze whether the enhanced 
+LCMV elimination was due to the early LCMV-neutralizing antibody response or due 
+to an enhanced CTL activity, H25 and HL25 transgenic mice and transgene-negative 
+littermates were infected i.v. with 200 PFU of LCMV-WE. Eight days later, spleen 
+cells were tested for cytolytic activity in a primary ex vivo 51Cr release 
+assay. H25 transgenic mice showed an almost normal or even slightly reduced CTL 
+activity compared to transgene negative littermates (Fig. 5). HL25 transgenic 
+mice exhibited no measurable CTL activity. This finding indicated that the 
+complete antiviral protection in HL25 transgenic mice and the enhanced clearance 
+of LCMV in H25 transgenic mice were mediated by the transgene-encoded antibodies 
+and were not due to an enhanced CTL activity. 
+
+            View larger version (33K): 
+            [in this window] 
+            [in a new window]
+              FIG. 5.   CTL activity in H25 and HL25 transgenic mice. H25 and 
+            HL25 transgenic mice and transgene-negative control (ctrl) 
+            littermates were infected i.v. with 200 PFU of LCMV-WE. Eight days 
+            later, spleen cells were tested for cytolytic activity in a 5-h 51Cr 
+            release assay. MC57G target cells were labeled with the 
+            LCMV-specific peptide GP33-41 or NP396-408 or an irrelevant, 
+            H-2Db-binding adenovirus (Adeno) peptide. Percentages of specific 
+            lysis by splenic effectors of individual mice are plotted at the 
+            indicated effector/target (E/T) ratios. Spontaneous release was 
+            below 17%. Values are for individual mice from one representative 
+            experiment of three similar experiments. 
+
+
+
+ADE by preexisting LCMV-neutralizing IgM antibodies. Within 7 to 8 days, mice 
+succumbed to a low-dose (30-PFU) i.c. infection with LCMV-WE caused by 
+CTL-mediated immunopathology. However, they survived a high-dose (105-PFU) i.c. 
+infection because LCMV-specific CTLs were exhausted (17, 29) (Fig. 6A). If 200 
+µg of the LCMV-neutralizing IgG1 MAb KL25 was administered intraperitoneally 4 h 
+before i.c. virus challenge, mice died after low and high doses of infection (6) 
+(Fig. 6B). To test whether such an ADE after high-dose i.c. infection also 
+occurred in H25 and HL25 transgenic mice, Ig-transgenic mice were infected i.c. 
+with low- or high-dose LCMV-WE. As expected, the majority of H25 transgenic mice 
+infected i.c. with low-dose LCMV-WE died. However, all H25 transgenic mice 
+infected i.c. with high-dose LCMV-WE survived, indicating the absence of ADE 
+(Fig. 6C). In contrast, 100 and 60% of HL25 transgenic mice infected i.c. with 
+low-dose or high-dose LCMV-WE, respectively, died, indicating the presence of 
+ADE (Fig. 6D). Thus, ADE was observed in mice treated with MAb KL25 and in HL25 
+transgenic mice exhibiting spontaneous LCMV-neutralizing antibody titers. In 
+constrast, ADE was absent in normal mice which do not generate LCMV-neutralizing 
+antibodies before day 30 and in H25 transgenic mice which mount an inducible 
+LCMV-neutralizing antibody response after i.c. infection by day 8, similar to 
+what was observed after i.v. infection (data not shown). Since after LCMV 
+infection neutralizing IgM antibodies are observed in H25 and HL25 transgenic 
+mice, enhancement of disease via binding to polymeric Fc receptor (2, 34, 43) 
+should have occurred in both Ig-transgenic mice. Therefore, our results indicate 
+that ADE of lymphocytic choriomeningitis presumably is caused by an 
+antibody-influenced shift of the balance between virus spread and the CTL 
+response. 
+
+            View larger version (23K): 
+            [in this window] 
+            [in a new window]
+              FIG. 6.   Early-inducible LCMV-neutralizing antibodies in H25 mice 
+            do not enhance lethal choriomeningitis. H25 and HL25 transgenic mice 
+            were infected i.c. with 30 PFU (closed symbols) or 105 PFU (open 
+            symbols) LCMV-WE. Control mice were either passively treated 
+            intraperitoneally with 200 µg of MAb KL25 4 h prior to infection or 
+            left untreated and were i.c. infected as were the Ig-transgenic 
+            mice. Survival was monitored from days 1 to 14. Each group consisted 
+            of 6 to 10 mice. Shown are results of one of two similar 
+            experiments. ctrl, control. 
+
+
+
+         DISCUSSION
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+In this present study, we cloned the gene segments encoding the VH and VL 
+regions of the LCMV-neutralizing MAb KL25 and expressed them as µ heavy and  
+light chains in transgenic mice. We established two independent mouse lines 
+expressing the transgenic heavy chain (H25 transgenic mice) or both the 
+transgenic heavy and light chains (HL25 transgenic mice). H25 transgenic mice 
+developed LCMV-neutralizing IgM serum titers early after infection, which 
+augmented elimination of the virus. These experiments demonstrated that 
+early-inducible LCMV-neutralizing antibody titers supported the control of a 
+noncytopathic virus during the acute phase of the infection and indicated a 
+potentially important role of LCMV-neutralizing antibodies in clearance of the 
+virus. 
+The HL25 transgenic mice exhibited spontaneous LCMV-neutralizing antibody serum 
+titers which protected against i.v. infection, even though the transgene-encoded 
+antibodies were of the IgM isotype. This finding is in accordance with previous 
+reports showing the protective capacity of passively administered IgG antibodies 
+(4, 6, 38, 41, 47). 
+The enhanced capacity of the H25 and HL25 transgenic mice to eliminate LCMV was 
+not due to an enhanced CTL activity. Ex vivo CTL activity was always lower in 
+H25 transgenic mice than in transgene-negative littermates and was below 
+detection limits in HL25 transgenic mice. Obviously, the early-developing 
+LCMV-neutralizing antibodies in H25 transgenic mice allowed an almost normal 
+priming of CTLs, whereas the spontaneous titers of LCMV-neutralizing antibodies 
+in HL25 transgenic mice neutralized LCMV quantitatively and prevented induction 
+of CTLs. Therefore, the improvement of LCMV clearance in H25 and HL25 transgenic 
+mice was mediated by the transgene-encoded antibodies. 
+Earlier studies suggested some role of the antibody-Fc part for in vivo 
+protection, since LCMV-neutralizing MAbs of the IgG2a isotype protected from 
+lethal lymphocytic choriomeningitis, whereas MAbs of the IgG1 isotype did not 
+(4). This was further supported by the finding that the F(ab')2 fragment 
+generated proteolytically from one protective IgG2a MAb did not protect (4). The 
+LCMV-neutralizing MAb KL25, which is of the IgG1 subclass, was protective 
+against i.v. LCMV infection in an in vivo passive immunization experiment (38). 
+After transferring the LCMV GP1 specificity of MAb KL25 to the IgM isotype, the 
+transgenic IgM retained the in vitro neutralizing capacity and was protective in 
+vivo. These results indicated that the isotype dependence of in vivo antiviral 
+protection against LCMV infection is related to the antibody specificity 
+analyzed. 
+Mice passively immunized with LCMV-neutralizing antibodies showed ADE of 
+choriomeningitis after i.c. infection with a high dose (105 PFU) of LCMV-WE (6). 
+This was due either to enhanced infection of monocytes with virus-antibody 
+complexes via their Fc receptors or to an antibody-mediated shift of the balance 
+between virus spread and the CTL response leading to CTL-mediated 
+immunopathology (6). In our experiments, the transferred MAb KL25 and the 
+preexisting LCMV-neutralizing antibodies in HL25 transgenic mice led to ADE 
+after high-dose i.c. infection, whereas the inducible LCMV-neutralizing 
+antibodies in H25 transgenic mice did not. Since LCMV-neutralizing IgM 
+antibodies are generated after infection of H25 transgenic mice, an enhanced 
+infection of monocytes should have occurred in H25 transgenic mice as well as in 
+HL25 transgenic mice via the binding to the polymeric Fc receptor (2, 34, 43). 
+Obviously, the inducible virus-neutralizing serum antibodies are generated too 
+late to influence the balance between virus spread and CTL response. Therefore, 
+ADE of lymphocytic choriomeningitis presumably is due to an imbalance between 
+virus spread and CTL response mediated by preexisting neutralizing antibody 
+titers. 
+In conclusion, we demonstrated that early-generated LCMV-neutralizing antibodies 
+enhanced clearance of LCMV after i.v. infection without the risk for ADE after 
+i.c. infection. Therefore, vaccination strategies accelerating 
+virus-neutralizing antibody responses may enhance clearance of noncytopathic 
+viruses without the risk of causing ADE. 
+         ACKNOWLEDGMENTS
+
+We thank H. Gram and A. Traunecker for providing the Ig transgene expression 
+vectors, G. Christiansen and D. Zimmerman for synthesis of the oligonucleotides, 
+and K. Karlsson, S. Walser-Förster, J. Brecher, and K. Riem for excellent and 
+always patient technical support. Special thanks go to P. Aichele, B. M. Senn, 
+T. Uhr, and the entire institute for very helpful discussions. 
+This work was supported by Swiss National Science Foundation grants 31.32179.91 
+and 31.50884.97 and by the Kanton Zürich, Switzerland. 
+         FOOTNOTES
+
+* Corresponding author. Mailing address: Institute of Experimental Immunology, 
+Department of Pathology, University Hospital Zürich, Schmelzbergstrasse 12, 
+CH-8091 Zürich, Switzerland. Phone: 41-1-255 2989. Fax: 41-1-255 4420. E-mail: 
+sep@pathol.unizh.ch. 
+ Present address: Johns Hopkins University, Department of Neuroscience, 
+Baltimore, MD 21205. 
+         REFERENCES
+       Top 
+       Abstract 
+       Introduction 
+       Materials & Methods 
+       Results 
+       Discussion 
+       References 
+
+      1. Alberti, A., P. Pontisso, G. Tagariello, D. Cavalletto, L. Chemello, 
+      and F. Belussi. 1988. Antibody response to pre-S2 and hepatitis B virus 
+      induced liver damage. Lancet 25:1421-1424. 
+      2. Andersson, B., A. C. Skoglund, M. Ronnholm, T. Lindsten, E. W. Lamon, 
+      E. W. Collisson, and A. S. Walia. 1981. Functional aspects of IgM and IgG 
+      Fc receptors on murine T lymphocytes. Immunol. Rev. 56:5-50[Medline]. 
+      3. Baer, G. M., W. J. Bellini, and D. B. Fishbein. 1990. Rhabdoviruses, p. 
+      883-930. In B. N. Fields, and D. M. Knipe (ed.), Virology. Raven Press, 
+      New York, N.Y. 
+      4. Baldridge, J. R., and M. J. Buchmeier. 1992. Mechanisms of 
+      antibody-mediated protection against lymphocytic choriomeningitis virus 
+      infection: mother-to-baby transfer of humoral protection. J. Virol. 
+      66:4252-4257[Abstract]. 
+      5. Battegay, M., S. Cooper, A. Althage, J. Baenziger, H. Hengartner, and 
+      R. M. Zinkernagel. 1991. Quantification of lymphocytic choriomeningitis 
+      virus with an immunological focus assay in 24 or 96 well plates. J. Virol. 
+      Methods 33:191-198[Medline]. 
+      6. Battegay, M., D. Kyburz, H. Hengartner, and R. M. Zinkernagel. 1993. 
+      Enhancement of disease by neutralizing antiviral antibodies in the absence 
+      of primed antiviral cytotoxic T cells. Eur. J. Immunol. 
+      23:3236-3241[Medline]. 
+      7. Battegay, M., D. Moskophidis, H. Waldner, M. A. Bründler, W. P. 
+      Fung-Leung, T. W. Mak, H. Hengartner, and R. M. Zinkernagel. 1993. 
+      Impairment and delay of neutralizing antiviral antibody responses by virus 
+      specific cytotoxic T cells. J. Immunol. 151:5408-5415[Abstract/Free Full 
+      Text]. 
+      8. Bründler, M.-A., P. Aichele, M. F. Bachmann, D. Kitamura, K. Rajewsky, 
+      and R. M. Zinkernagel. 1996. Immunity to viruses in B cell-deficient mice: 
+      influence of antibodies on virus persistence and on T cell memory. Eur. J. 
+      Immunol. 26:2257-2262[Medline]. 
+      9. Bruns, M., J. Cihak, G. Müller, and F. Lehmann-Grube. 1983. Lymphocytic 
+      choriomeningitis virus. VI. Isolation of a glycoprotein mediating 
+      neutralization. Virology 130:247-251[Medline]. 
+      10. Buchmeier, M. J., H. A. Lewicki, O. Tomori, and M. B. A. Oldstone. 
+      1981. Monoclonal antibodies to lymphocytic choriomeningitis and pichinde 
+      viruses: generation, characterization, and cross-reactivity with other 
+      arenaviruses. Virology 113:73-85[Medline]. 
+      11. Cerny, A., A. W. Hügin, S. Sutter, H. Bazin, H. Hengartner, and R. M. 
+      Zinkernagel. 1986. Immunity to lymphocytic choriomeningitis virus in B 
+      cell-depleted mice: evidence for B cell and antibody independent 
+      protection by memory T cells. Eur. J. Immunol. 16:913-917[Medline]. 
+      12. Cerny, A., S. Sutter, H. Bazin, H. Hengartner, and R. M. Zinkernagel. 
+      1988. Clearance of lymphocytic choriomeningitis virus in antibody- and 
+      B-cell-deprived mice. J. Virol. 62:1803-1807[Medline]. 
+      13. Cole, G. A., N. Nathanson, and R. A. Prendergast. 1972. Requirement 
+      for thetabearing cells in lymphocytic choriomeningitis virus-induced 
+      central nervous system disease. Nature 238:335-337[Medline]. 
+      14. Corapi, W. V., C. W. Olsen, and F. W. Scott. 1992. Monoclonal antibody 
+      analysis of neutralization and antibody-dependent enhancement of feline 
+      infectious peritonitis virus. J. Virol. 66:6695-6705[Abstract]. 
+      15. Halstead, S. B. 1988. Pathogenesis of dengue: challenges to molecular 
+      biology. Science 239:476-481[Medline]. 
+      16. Homsy, J., M. Meyer, T. Tateno, S. Clarkson, and J. A. Levy. 1989. The 
+      Fc and not CD4 receptor mediates antibody enhancement of HIV infection in 
+      human cells. Science 244:1357-1360[Medline]. 
+      17. Hotchin, J. 1962. The biology of lymphocytic choriomeningitis 
+      infection: virus induced immune disease. Cold Spring Harbor Symp. Quant. 
+      Biol. 27:479-499. 
+      18. Kägi, D., B. Ledermann, K. Bürki, P. Seiler, B. Odermatt, K. J. Olsen, 
+      E. Podack, R. M. Zinkernagel, and H. Hengartner. 1994. Cytotoxicity 
+      mediated by T cells and natural killer cells is greatly impaired in 
+      perforin-deficient mice. Nature 369:31-37[Medline]. 
+      19. Kimmig, W., and F. Lehmann-Grube. 1979. The immune response of the 
+      mouse to lymphocytic choriomeningitis virus. I. Circulating antibodies. J. 
+      Gen. Virol. 45:703-710[Abstract]. 
+      20. Koup, R. A., J. T. Safrit, Y. Cao, C. A. Andrews, G. McLeod, W. 
+      Borkowsky, C. Farthing, and D. D. Ho. 1994. Temporal association of 
+      cellular immune responses with the initial control of viremia in primary 
+      human immunodeficiency virus type 1 syndrome. J. Virol. 
+      68:4650-4655[Abstract]. 
+      21. Kurane, I., and F. E. Ennis. 1992. Immunity and immunopathology in 
+      dengue virus infections. Semin. Immunol. 4:121-127[Medline]. 
+      22. Larsen, J. H. 1969. Development of humoral and cell-mediated immunity 
+      to lymphocytic choriomeningitis virus in the mouse. J. Immunol. 
+      102:941-946[Medline]. 
+      23. Lehmann-Grube, F. 1971. Lymphocytic choriomeningitis virus. Virol. 
+      Monogr. 10:1-173. 
+      24. Lemon, S. M., and D. L. Thomas. 1997. Vaccines to prevent viral 
+      hepatitis. N. Engl. J. Med. 336:196-204[Free Full Text]. 
+      25. Lewis, R. M., T. M. Cosgriff, B. Y. Griffin, J. Rhoderick, and P. B. 
+      Jahrling. 1988. Immune serum increases arenavirus replication in 
+      monocytes. J. Gen. Virol. 69:1735-1739[Abstract]. 
+      26. Luescher, I. F., J. A. Loez, B. Malissen, and J. C. Cerottini. 1992. 
+      Interaction of antigenic peptides with MHC class I molecules on living 
+      cells studied by photoaffinity labeling. J. Immunol. 
+      148:1003-1011[Abstract/Free Full Text]. 
+      27. Moore, J. P., Y. Cao, D. D. Ho, and R. A. Koup. 1994. Development of 
+      the anti-gp120 antibody response during seroconversion to human 
+      immunodeficiency virus type 1. J. Virol. 68:5142-5155[Abstract]. 
+      28. Moskophidis, D., S. P. Cobbold, H. Waldmann, and F. Lehmann-Grube. 
+      1987. Mechanism of recovery from acute virus infection: treatment of 
+      lymphocytic choriomeningitis virus-infected mice with monoclonal 
+      antibodies reveals that Lyt-2+ T lymphocytes mediate clearance of virus 
+      and regulate the antiviral antibody response. J. Virol. 
+      61:1867-1874[Medline]. 
+      29. Moskophidis, D., F. Lechner, H. P. Pircher, and R. M. Zinkernagel. 
+      1993. Virus persistence in acutely infected immunocompetent mice by 
+      exhaustion of antiviral cytotoxic effector T cells. Nature 
+      362:758-761[Medline]. 
+      30. Nemazee, D. A., and K. Bürki. 1989. Clonal deletion of B lymphocytes 
+      in a transgenic mouse bearing anti-MHC class I antibody genes. Nature 
+      337:562-566[Medline]. 
+      31. Ogra, P. L., M. Fishaut, and M. R. Gallagher. 1980. Viral vaccination 
+      via the mucosal routes. Rev. Infect. Dis. 2:352-369[Medline]. 
+      32. Pircher, H. P., D. Moskophidis, U. Rohrer, K. Bürki, H. Hengartner, 
+      and R. M. Zinkernagel. 1990. Viral escape by selection of cytotoxic T 
+      cell-resistant virus variants in vivo. Nature 346:629-633[Medline]. 
+      33. Planz, O., P. Seiler, H. Hengartner, and R. M. Zinkernagel. 1996. 
+      Specific cytotoxic T cells eliminate cells producing neutralizing 
+      antibodies. Nature 382:726-728[Medline]. 
+      34. Raghavan, M., and P. J. Bjorkman. 1996. Fc receptors and their 
+      interactions with immunoglobulins. Annu. Rev. Cell. Dev. Biol. 12:181-220. 
+      [Abstract/Free Full Text]
+      35. Robert, G. M., M. Brown, and R. C. Gallo. 1985. HTLV-III-neutralizing 
+      antibodies in patients with AIDS and AIDS-related complex. Nature 
+      316:72-74[Medline]. 
+      36. Sabin, A. B. 1981. Paralytic poliomyelitis: old dogmas and new 
+      perspectives. Rev. Infect. Dis. 3:543-564[Medline]. 
+      37. Schulz, M., P. Aichele, M. Vollenweider, F. W. Bobe, F. Cardinaux, H. 
+      Hengartner, and R. M. Zinkernagel. 1989. MHC dependent T cell epitopes of 
+      LCMV nucleoprotein and their protective capacity against viral disease. 
+      Eur. J. Immunol. 19:1657-1667[Medline]. 
+      38. Seiler, P., M.-A. Bründler, C. Zimmerman, D. Weibel, M. Bruns, H. 
+      Hengartner, and R. M. Zinkernagel. Induction of protective cytotoxic T 
+      cell responses in the presence of high titers of virus-neutralizing 
+      antibodies: implications for passive and active immunization. J. Exp. 
+      Med., in press. 
+      39. Takeda, A., C. U. Tuazon, and F. A. Ennis. 1988. Antibody-enhanced 
+      infection by HIV-1 via Fc receptor-mediated entry. Science 
+      242:580-583[Medline]. 
+      40. Thomsen, A. R., J. Johansen, O. Marker, and J. P. Christensen. 1996. 
+      Exhaustion of CTL memory and recrudescence of viremia in lymphocytic 
+      choriomeningitis virus-infected MHC class II-deficient mice and B 
+      cell-deficient mice. J. Immunol. 157:3074-3080[Abstract]. 
+      41. Thomsen, A. R., and O. Marker. 1988. The complementary roles of 
+      cellular and humoral immunity in resistance to re-infection with LCM 
+      virus. Immunology 65:9-15[Medline]. 
+      42. Traunecker, A., W. Luke, and K. Karjalainen. 1988. Soluble CD4 
+      molecules neutralize human immunodeficiency virus type 1. Nature 
+      331:84-86[Medline]. 
+      43. Uher, F., I. Dobronyi, and J. Gergel. 1981. IgM-Fc receptor-mediated 
+      phagocytosis of rat macrophages. Immunology 42:419-425[Medline]. 
+      44. Webster, R. G., and R. Rott. 1987. Influenza virus A pathogenicity: 
+      the pivotal role of hemagglutinin. Cell 50:665-666[Medline]. 
+      45. Weiss, R. A., P. R. Clapham, P. R. Cheingsong, A. G. Dalgleish, C. A. 
+      Carne, I. Weller, and R. S. Tedder. 1985. Neutralization of human 
+      T-lymphotropic virus type III by sera of AIDS and AIDS-risk patients. 
+      Nature 316:69-71[Medline]. 
+      46. Weiss, R. C., W. J. Dodds, and F. W. Scott. 1981. Antibody-mediated 
+      enhancement of disease in feline infectious peritonitis: comparison with 
+      dengue hemorrhagic fever. Comp. Immunol. Microbiol. Infect. Dis. 
+      4:175-189[Medline]. 
+      47. Wright, K. E., and M. J. Buchmeier. 1991. Antiviral antibodies 
+      attenuate T-cell-mediated immunopathology following acute lymphocytic 
+      choriomeningitis virus infection. J. Virol. 65:3001-3006[Medline]. 
+      48. Wright, T. L., and J. Y. N. Lau. 1993. Clinical aspects of hepatitis B 
+      virus infection. Lancet 342:1340-1344[Medline]. 
+      49. Zinkernagel, R. M. 1996. Immunology taught by viruses. Science 
+      271:173-178[Abstract]. 
+      50. Zinkernagel, R. M., T. P. Leist, H. Hengartner, and A. Althage. 1985. 
+      Susceptibility to lymphocytic choriomeningitis virus isolates correlates 
+      directly with early and high cytotoxic T cell activity, as well as with 
+      footpad swelling reaction, and all three are regulated by H-2D. J. Exp. 
+      Med. 162:2125-2141[Abstract]. 
+
+
+
+J Virol, March 1998, p. 2253-2258, Vol. 72, No. 3
+0022-538X/98/$04.00+0
+Copyright © 1998, American Society for Microbiology. All rights reserved. 
+
+This article has been cited by other articles: 
+  Diamond, M. S., Shrestha, B., Marri, A., Mahan, D., Engle, M. (2003). B Cells 
+  and Antibody Play Critical Roles in the Immediate Defense of Disseminated 
+  Infection by West Nile Encephalitis Virus. J. Virol. 77: 2578-2586 [Abstract] 
+  [Full Text]   
+  Guidotti, L. G., Chisari, F. V. (2001). NONCYTOLYTIC CONTROL OF VIRAL 
+  INFECTIONS BY THE INNATE AND ADAPTIVE IMMUNE RESPONSE. Annu. Rev. Immunol. 19: 
+  65-91 [Abstract] [Full Text]   
+  Furrer, E., Bilzer, T., Stitz, L., Planz, O. (2001). Neutralizing Antibodies 
+  in Persistent Borna Disease Virus Infection: Prophylactic Effect of 
+  gp94-Specific Monoclonal Antibodies in Preventing Encephalitis. J. Virol. 75: 
+  943-951 [Abstract] [Full Text]   
+  Dal Porto, J. M., Haberman, A. M., Shlomchik, M. J., Kelsoe, G. (1998). 
+  Antigen Drives Very Low Affinity B Cells to Become Plasmacytes and Enter 
+  Germinal Centers. J Immunol 161: 5373-5381 [Abstract] [Full Text]   
+  Seiler, P., Senn, B. M., Brundler, M.-A., Zinkernagel, R. M., Hengartner, H., 
+  Kalinke, U. (1999). In Vivo Selection of Neutralization-Resistant Virus 
+  Variants But No Evidence of B Cell Tolerance in Lymphocytic Choriomeningitis 
+  Virus Carrier Mice Expressing a Transgenic Virus-Neutralizing Antibody. J 
+  Immunol 162: 4536-4541 [Abstract] [Full Text]   
+  Seiler, P., Senn, B. M., Klenerman, P., Kalinke, U., Hengartner, H., 
+  Zinkernagel, R. M. (2000). Additive Effect of Neutralizing Antibody and 
+  Antiviral Drug Treatment in Preventing Virus Escape and Persistence. J. Virol. 
+  74: 5896-5901 [Abstract] [Full Text]   
+  Ciurea, A., Klenerman, P., Hunziker, L., Horvath, E., Senn, B. M., Ochsenbein, 
+  A. F., Hengartner, H., Zinkernagel, R. M. (2000). Viral persistence in vivo 
+  through selection of neutralizing antibody-escape variants. Proc. Natl. Acad. 
+  Sci. U. S. A. 97: 2749-2754 [Abstract] [Full Text]   
+  Ciurea, A., Klenerman, P., Hunziker, L., Horvath, E., Senn, B. M., Ochsenbein, 
+  A. F., Hengartner, H., Zinkernagel, R. M. (2000). Viral persistence in vivo 
+  through selection of neutralizing antibody-escape variants. Proc. Natl. Acad. 
+  Sci. U. S. A. 97: 2749-2754 [Abstract] [Full Text]   
+  Ochsenbein, A. F., Pinschewer, D. D., Odermatt, B., Carroll, M. C., 
+  Hengartner, H., Zinkernagel, R. M. (1999). Protective T Cell-independent 
+  Antiviral Antibody Responses Are Dependent on Complement. J. Exp. Med. 190: 
+  1165-1174 [Abstract] [Full Text]   
+
+
+             Abstract of this Article () 
+             Reprint (PDF) Version of this Article 
+             Similar articles found in:
+            JVI Online 
+            PubMed 
+             PubMed Citation 
+             This Article has been cited by: 
+             Search Medline for articles by:
+             Seiler, P. || Hengartner, H. 
+             Alert me when: 
+            new articles cite this article
+
+             Download to Citation Manager 
+
+      Books from ASM Press
+
+
+
+
+
+       
+    

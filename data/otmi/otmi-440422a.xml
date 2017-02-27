@@ -1,0 +1,453 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>A taste of a rotten past</title>
+      <id>info:doi/10.1038/440422a</id>
+      <link href='http://dx.doi.org/10.1038/440422a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>422</prism:startingPage>
+      <prism:endingPage>422</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='8'>food</otmi:vector>
+              <otmi:vector count='7'>their</otmi:vector>
+              <otmi:vector count='6'>disease</otmi:vector>
+              <otmi:vector count='5'>about</otmi:vector>
+              <otmi:vector count='5'>they</otmi:vector>
+              <otmi:vector count='4'>Ferrières</otmi:vector>
+              <otmi:vector count='4'>which</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>often</otmi:vector>
+              <otmi:vector count='3'>fears</otmi:vector>
+              <otmi:vector count='3'>would</otmi:vector>
+              <otmi:vector count='3'>those</otmi:vector>
+              <otmi:vector count='3'>animals</otmi:vector>
+              <otmi:vector count='3'>eat</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>meat</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>title</otmi:vector>
+              <otmi:vector count='2'>historical</otmi:vector>
+              <otmi:vector count='2'>additives</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>bread</otmi:vector>
+              <otmi:vector count='2'>them</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>buying</otmi:vector>
+              <otmi:vector count='2'>So</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>also</otmi:vector>
+              <otmi:vector count='2'>whether</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>safety</otmi:vector>
+              <otmi:vector count='2'>here</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>theme</otmi:vector>
+              <otmi:vector count='2'>cultural</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>expense</otmi:vector>
+              <otmi:vector count='2'>cow</otmi:vector>
+              <otmi:vector count='2'>walk</otmi:vector>
+              <otmi:vector count='2'>weary</otmi:vector>
+              <otmi:vector count='2'>poor</otmi:vector>
+              <otmi:vector count='2'>modern</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>taste</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>sold</otmi:vector>
+              <otmi:vector count='2'>fruit</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>read</otmi:vector>
+              <otmi:vector count='2'>worry</otmi:vector>
+              <otmi:vector count='2'>Instead</otmi:vector>
+              <otmi:vector count='2'>especially</otmi:vector>
+              <otmi:vector count='2'>century</otmi:vector>
+              <otmi:vector count='2'>ate</otmi:vector>
+              <otmi:vector count='2'>fear</otmi:vector>
+              <otmi:vector count='2'>labels</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>age</otmi:vector>
+              <otmi:vector count='2'>slaughter</otmi:vector>
+              <otmi:vector count='2'>don&apos;t</otmi:vector>
+              <otmi:vector count='2'>France</otmi:vector>
+              <otmi:vector count='2'>own</otmi:vector>
+              <otmi:vector count='1'>anxieties</otmi:vector>
+              <otmi:vector count='1'>she</otmi:vector>
+              <otmi:vector count='1'>assuring</otmi:vector>
+              <otmi:vector count='1'>centres</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>saturated</otmi:vector>
+              <otmi:vector count='1'>boldly</otmi:vector>
+              <otmi:vector count='1'>tuberculosis</otmi:vector>
+              <otmi:vector count='1'>records</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>mad</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>butchers</otmi:vector>
+              <otmi:vector count='1'>faithfully</otmi:vector>
+              <otmi:vector count='1'>slaughtering</otmi:vector>
+              <otmi:vector count='1'>traditionally</otmi:vector>
+              <otmi:vector count='1'>luxury</otmi:vector>
+              <otmi:vector count='1'>dish</otmi:vector>
+              <otmi:vector count='1'>notably</otmi:vector>
+              <otmi:vector count='1'>put</otmi:vector>
+              <otmi:vector count='1'>liberalism</otmi:vector>
+              <otmi:vector count='1'>refrigeration</otmi:vector>
+              <otmi:vector count='1'>cheaply</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>feasted</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>generations</otmi:vector>
+              <otmi:vector count='1'>People</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>interested</otmi:vector>
+              <otmi:vector count='1'>primarily</otmi:vector>
+              <otmi:vector count='1'>loom</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>edition</otmi:vector>
+              <otmi:vector count='1'>statutes</otmi:vector>
+              <otmi:vector count='1'>someone</otmi:vector>
+              <otmi:vector count='1'>credit</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>transmuted</otmi:vector>
+              <otmi:vector count='1'>widespread</otmi:vector>
+              <otmi:vector count='1'>neighbours</otmi:vector>
+              <otmi:vector count='1'>football</otmi:vector>
+              <otmi:vector count='1'>unripe</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>amply</otmi:vector>
+              <otmi:vector count='1'>allusion</otmi:vector>
+              <otmi:vector count='1'>Animals</otmi:vector>
+              <otmi:vector count='1'>tripe</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>persisting</otmi:vector>
+              <otmi:vector count='1'>hundreds</otmi:vector>
+              <otmi:vector count='1'>foot-and-mouth</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>social</otmi:vector>
+              <otmi:vector count='1'>twentieth</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>empty</otmi:vector>
+              <otmi:vector count='1'>well-exploited</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>pesticides</otmi:vector>
+              <otmi:vector count='1'>her</otmi:vector>
+              <otmi:vector count='1'>trichinosis</otmi:vector>
+              <otmi:vector count='1'>literature</otmi:vector>
+              <otmi:vector count='1'>inversely</otmi:vector>
+              <otmi:vector count='1'>Halwek</otmi:vector>
+              <otmi:vector count='1'>sensibilities</otmi:vector>
+              <otmi:vector count='1'>fuzzy</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>driven</otmi:vector>
+              <otmi:vector count='1'>perennial</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>smelled</otmi:vector>
+              <otmi:vector count='1'>Islington</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>themselves</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>vegetable</otmi:vector>
+              <otmi:vector count='1'>your</otmi:vector>
+              <otmi:vector count='1'>farming</otmi:vector>
+              <otmi:vector count='1'>slaughtered</otmi:vector>
+              <otmi:vector count='1'>steam</otmi:vector>
+              <otmi:vector count='1'>manuals</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>nothing</otmi:vector>
+              <otmi:vector count='1'>transportation</otmi:vector>
+              <otmi:vector count='1'>convincingly</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>stew</otmi:vector>
+              <otmi:vector count='1'>appears</otmi:vector>
+              <otmi:vector count='1'>fluency</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>Among</otmi:vector>
+              <otmi:vector count='1'>insights</otmi:vector>
+              <otmi:vector count='1'>political</otmi:vector>
+              <otmi:vector count='1'>crime</otmi:vector>
+              <otmi:vector count='1'>textbooks</otmi:vector>
+              <otmi:vector count='1'>book</otmi:vector>
+              <otmi:vector count='1'>George</otmi:vector>
+              <otmi:vector count='1'>wholesale</otmi:vector>
+              <otmi:vector count='1'>died</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>younger</otmi:vector>
+              <otmi:vector count='1'>modified</otmi:vector>
+              <otmi:vector count='1'>fine</otmi:vector>
+              <otmi:vector count='1'>health</otmi:vector>
+              <otmi:vector count='1'>literal</otmi:vector>
+              <otmi:vector count='1'>grew</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>mile</otmi:vector>
+              <otmi:vector count='1'>grain</otmi:vector>
+              <otmi:vector count='1'>culture</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>unfit</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>highlights</otmi:vector>
+              <otmi:vector count='1'>milieu</otmi:vector>
+              <otmi:vector count='1'>mouldy</otmi:vector>
+              <otmi:vector count='1'>coverage</otmi:vector>
+              <otmi:vector count='1'>revolved</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>wholesome</otmi:vector>
+              <otmi:vector count='1'>English</otmi:vector>
+              <otmi:vector count='1'>quantity</otmi:vector>
+              <otmi:vector count='1'>table</otmi:vector>
+              <otmi:vector count='1'>contemporary</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>beginning</otmi:vector>
+              <otmi:vector count='1'>vegetables</otmi:vector>
+              <otmi:vector count='1'>London</otmi:vector>
+              <otmi:vector count='1'>golden</otmi:vector>
+              <otmi:vector count='1'>inspected</otmi:vector>
+              <otmi:vector count='1'>sometimes</otmi:vector>
+              <otmi:vector count='1'>Thomas</otmi:vector>
+              <otmi:vector count='1'>shop</otmi:vector>
+              <otmi:vector count='1'>policy</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>tables</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>wool</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>markets</otmi:vector>
+              <otmi:vector count='1'>intersections</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>struggled</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>diets</otmi:vector>
+              <otmi:vector count='1'>milk</otmi:vector>
+              <otmi:vector count='1'>fatty</otmi:vector>
+              <otmi:vector count='1'>translation</otmi:vector>
+              <otmi:vector count='1'>defined</otmi:vector>
+              <otmi:vector count='1'>imaginative</otmi:vector>
+              <otmi:vector count='1'>theories</otmi:vector>
+              <otmi:vector count='1'>product</otmi:vector>
+              <otmi:vector count='1'>worried</otmi:vector>
+              <otmi:vector count='1'>legal</otmi:vector>
+              <otmi:vector count='1'>foodstuffs</otmi:vector>
+              <otmi:vector count='1'>advice</otmi:vector>
+              <otmi:vector count='1'>everyone</otmi:vector>
+              <otmi:vector count='1'>varies</otmi:vector>
+              <otmi:vector count='1'>temporally</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>quality</otmi:vector>
+              <otmi:vector count='1'>Barker</otmi:vector>
+              <otmi:vector count='1'>Issington</otmi:vector>
+              <otmi:vector count='1'>permitted</otmi:vector>
+              <otmi:vector count='1'>strata</otmi:vector>
+              <otmi:vector count='1'>concerns</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>none</otmi:vector>
+              <otmi:vector count='1'>nineteenth</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>variety</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>plenty</otmi:vector>
+              <otmi:vector count='1'>She</otmi:vector>
+              <otmi:vector count='1'>Social</otmi:vector>
+              <otmi:vector count='1'>declined</otmi:vector>
+              <otmi:vector count='1'>tendency</otmi:vector>
+              <otmi:vector count='1'>stamping</otmi:vector>
+              <otmi:vector count='1'>couldn&apos;t</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>subsidiary</otmi:vector>
+              <otmi:vector count='1'>trusting</otmi:vector>
+              <otmi:vector count='1'>depending</otmi:vector>
+              <otmi:vector count='1'>formidable</otmi:vector>
+              <otmi:vector count='1'>urban</otmi:vector>
+              <otmi:vector count='1'>stated</otmi:vector>
+              <otmi:vector count='1'>diet</otmi:vector>
+              <otmi:vector count='1'>squeamish</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>hooliganism</otmi:vector>
+              <otmi:vector count='1'>topicality</otmi:vector>
+              <otmi:vector count='1'>Mad</otmi:vector>
+              <otmi:vector count='1'>factory</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>ensured</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>invoked</otmi:vector>
+              <otmi:vector count='1'>miles</otmi:vector>
+              <otmi:vector count='1'>court</otmi:vector>
+              <otmi:vector count='1'>panders</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>acids</otmi:vector>
+              <otmi:vector count='1'>half-a-millennium</otmi:vector>
+              <otmi:vector count='1'>dinner</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>fantasies</otmi:vector>
+              <otmi:vector count='1'>argues</otmi:vector>
+              <otmi:vector count='1'>sticks</otmi:vector>
+              <otmi:vector count='1'>called</otmi:vector>
+              <otmi:vector count='1'>British</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>belly</otmi:vector>
+              <otmi:vector count='1'>dilemma</otmi:vector>
+              <otmi:vector count='1'>French</otmi:vector>
+              <otmi:vector count='1'>economic</otmi:vector>
+              <otmi:vector count='1'>consumption</otmi:vector>
+              <otmi:vector count='1'>despite</otmi:vector>
+              <otmi:vector count='1'>premium</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>Middle</otmi:vector>
+              <otmi:vector count='1'>experiences</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>Miasmatic</otmi:vector>
+              <otmi:vector count='1'>tool</otmi:vector>
+              <otmi:vector count='1'>badly</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>domestic</otmi:vector>
+              <otmi:vector count='1'>genetically</otmi:vector>
+              <otmi:vector count='1'>Those</otmi:vector>
+              <otmi:vector count='1'>Madeleine</otmi:vector>
+              <otmi:vector count='1'>monograph</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>powerful</otmi:vector>
+              <otmi:vector count='1'>conveyed</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>destinies</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>Her</otmi:vector>
+              <otmi:vector count='1'>clumsy</otmi:vector>
+              <otmi:vector count='1'>trust</otmi:vector>
+              <otmi:vector count='1'>got</otmi:vector>
+              <otmi:vector count='1'>reminded</otmi:vector>
+              <otmi:vector count='1'>Canning</otmi:vector>
+              <otmi:vector count='1'>Ages</otmi:vector>
+              <otmi:vector count='1'>crops</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>touched</otmi:vector>
+              <otmi:vector count='1'>nuclear</otmi:vector>
+              <otmi:vector count='1'>affluence</otmi:vector>
+              <otmi:vector count='1'>easy</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>version</otmi:vector>
+              <otmi:vector count='1'>ailments</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>city</otmi:vector>
+              <otmi:vector count='1'>satisfy</otmi:vector>
+              <otmi:vector count='1'>suburb</otmi:vector>
+              <otmi:vector count='1'>concentrates</otmi:vector>
+              <otmi:vector count='1'>circumstance</otmi:vector>
+              <otmi:vector count='1'>consumed</otmi:vector>
+              <otmi:vector count='1'>considers</otmi:vector>
+              <otmi:vector count='1'>book&apos;s</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>inspection</otmi:vector>
+              <otmi:vector count='1'>created</otmi:vector>
+              <otmi:vector count='1'>Economic</otmi:vector>
+              <otmi:vector count='1'>ranges</otmi:vector>
+              <otmi:vector count='1'>list</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>sense</otmi:vector>
+              <otmi:vector count='1'>longer</otmi:vector>
+              <otmi:vector count='1'>commercial</otmi:vector>
+              <otmi:vector count='1'>thence</otmi:vector>
+              <otmi:vector count='1'>Away</otmi:vector>
+              <otmi:vector count='1'>bourgeois</otmi:vector>
+              <otmi:vector count='1'>deemed</otmi:vector>
+              <otmi:vector count='1'>medical</otmi:vector>
+              <otmi:vector count='1'>legislation</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>residual</otmi:vector>
+              <otmi:vector count='1'>daily</otmi:vector>
+              <otmi:vector count='1'>rich</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>young</otmi:vector>
+              <otmi:vector count='1'>appetites.</otmi:vector>
+              <otmi:vector count='1'>families</otmi:vector>
+              <otmi:vector count='1'>one&apos;s</otmi:vector>
+              <otmi:vector count='1'>rotten</otmi:vector>
+              <otmi:vector count='1'>chronological</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>Food</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>All these contemporary concerns give Madeleine Ferrières&apos; monograph a powerful topicality</otmi:snippet>
+              <otmi:snippet>Among the formidable list of modern anxieties, those related to food safety loom large</otmi:snippet>
+              <otmi:snippet>Animals no longer had to be able to walk to their destinies</otmi:snippet>
+              <otmi:snippet>At the same time, more widespread affluence put a premium on taste, often at the expense of safety</otmi:snippet>
+              <otmi:snippet>Away from France, some of the details become fuzzy: a London suburb appears as Issington, rather than Islington, and George Barker has transmuted into someone called Thomas Halwek</otmi:snippet>
+              <otmi:snippet>But the subsidiary theme is also amply demonstrated: fear about food quality varies inversely with fear about food quantity, both temporally and through social strata</otmi:snippet>
+              <otmi:snippet>Canning, transportation and, eventually, refrigeration extended the food chain</otmi:snippet>
+              <otmi:snippet>Economic circumstance determined whether one ate tripe or rotten meat with one&apos;s bread, not whether vegetable stew was the main dish</otmi:snippet>
+              <otmi:snippet>Ferrières also considers other foodstuffs, notably fruit, vegetables and grain</otmi:snippet>
+              <otmi:snippet>Ferrières argues convincingly, I think, that the nineteenth century created the modern food dilemma</otmi:snippet>
+              <otmi:snippet>Ferrières concentrates primarily on France, although there are insights into other cultural experiences, including the persisting British policy of stamping out disease using wholesale slaughter, which is a clumsy tool of disease control</otmi:snippet>
+              <otmi:snippet>Food inspection declined as political and economic liberalism grew</otmi:snippet>
+              <otmi:snippet>Her running theme is boldly stated: food fears are perennial, although they take different forms depending on the cultural milieu</otmi:snippet>
+              <otmi:snippet>If they couldn&apos;t make it under their own steam, they were not permitted to be sold</otmi:snippet>
+              <otmi:snippet>If your belly is empty, you don&apos;t worry too much about additives or saturated fatty acids</otmi:snippet>
+              <otmi:snippet>Instead of trusting themselves, they had to trust others</otmi:snippet>
+              <otmi:snippet>Instead, in earlier generations, domestic animals with tuberculosis, trichinosis, foot-and-mouth disease and a variety of other ailments made their weary way to the butchers, and thence to dinner tables</otmi:snippet>
+              <otmi:snippet>Mad cow disease, genetically modified crops, factory farming, residual pesticides, additives — we read about them daily and are reminded of them when we shop by labels assuring us that we don&apos;t need to worry when buying this particular product</otmi:snippet>
+              <otmi:snippet>Many would have been especially weary, having been driven hundreds of miles to urban markets</otmi:snippet>
+              <otmi:snippet>Miasmatic theories of disease and bourgeois sensibilities ensured that the slaughtering was done outside the city centres</otmi:snippet>
+              <otmi:snippet>People who would traditionally have seen, touched and smelled the food they were buying now needed only to read the labels</otmi:snippet>
+              <otmi:snippet>She has a fine sense of the dramatic, faithfully conveyed in the translation, which is sometimes literal at the expense of easy fluency</otmi:snippet>
+              <otmi:snippet>So is the tendency to eat younger animals, rather than those past their capacity to provide milk or wool</otmi:snippet>
+              <otmi:snippet>So there is nothing about mad cow disease here, despite the allusion in the title of the English version</otmi:snippet>
+              <otmi:snippet>Social fears often generate fantasies of a golden age, when football hooliganism was unknown, crime was low, nuclear families feasted on wholesome food, and everyone got on well with their neighbours</otmi:snippet>
+              <otmi:snippet>The idea of allowing meat to age after slaughter is a recent luxury</otmi:snippet>
+              <otmi:snippet>The poor were often given, or sold cheaply, animals deemed unfit for commercial consumption</otmi:snippet>
+              <otmi:snippet>The title of the original French edition highlights the book&apos;s chronological coverage, which ranges from the Middle Ages to the beginning of the twentieth century</otmi:snippet>
+              <otmi:snippet>There is none of that in this volume: the poor struggled, ate badly and died young</otmi:snippet>
+              <otmi:snippet>These invoked their own fears, especially unripe fruit and mouldy bread, but most legislation revolved around meat, which was a central part of diets half-a-millennium ago</otmi:snippet>
+              <otmi:snippet>This book is not for the squeamish, but those interested in the culture of the table, or the historical intersections of health, taste and diet, will find plenty here to satisfy their appetites.</otmi:snippet>
+              <otmi:snippet>Those that could walk the last mile would be inspected, slaughtered and consumed quickly</otmi:snippet>
+              <otmi:snippet>To her credit, she never panders to the worried well, but sticks to a rich and well-exploited range of historical sources: advice manuals, legal records, statutes, court cases, medical textbooks and imaginative literature</otmi:snippet>
+              <otmi:snippet>We are, after all, what we eat; or more to the point, we are defined by what we do not eat</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,99 @@
+.fm-vol-iss-date {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: left
+}
+.pubnote {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.pubnote-hilite {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif; BACKGROUND-COLOR: #ebebeb
+}
+.fm-dochead {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-doctopic {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-docsubject {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-ser-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-supp-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 125%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-subtitle {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.fm-author {
+	FONT-SIZE: 85%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-affl {
+	FONT-SIZE: 85%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-role {
+	FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif
+}
+.fm-pubdate {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-editor {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-footnote {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.fm-copyright {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.pmcnote {
+	FONT-SIZE: 85%; FONT-FAMILY: Arial, sans-serif
+}
+.abs-head2 {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.kwd-label {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.head2 {
+	FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif
+}
+.head3 {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif
+}
+.head4 {
+	FONT-FAMILY: Arial, sans-serif
+}
+.head5 {
+	
+}
+.kwd-text {
+	FONT-SIZE: 85%
+}
+.eqn-image {
+	TEXT-ALIGN: center
+}
+.eqn-id {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+A.cite-reflink {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.fig-table-link {
+	COLOR: #0050a0
+}
+A.int-reflink {
+	COLOR: #0050a0
+}
+A.ext-reflink {
+	COLOR: #0050a0
+}
+.figwind-cite {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.figwind-copyrt {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}

@@ -1,0 +1,592 @@
+<html>
+<body>
+<H2>
+Protein Structure Comparison Using Bipartite Graph Matching and Its Application to Protein Structure Classification <A NAME="RFN4"></A><SUP><A HREF="#FN4">*</A></SUP>
+</H2>
+
+<STRONG>
+</NOBR><NOBR>William R. Taylor<SUP></SUP><SUP><A HREF="#COR1"><IMG SRC="/math/link//Dagger.gif" ALT="{ddagger}" BORDER="0"></A></SUP></NOBR>
+</STRONG><P>
+<FONT SIZE=-1>
+From the Division of Mathematical Biology, National Institute for Medical Research, The Ridgeway, Mill Hill, London NW7 1AA, United Kingdom
+</FONT><P>
+
+
+
+
+
+<P>
+<A NAME="ABS"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ABSTRACT
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>ABSTRACT</FONT><BR>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">MATERIALS AND METHODS<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">Conclusions<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+
+A measure of protein structure similarity is calculated from<SUP> </SUP>the matching of pairs of secondary structure elements between<SUP> </SUP>two proteins. The interaction of each pair was estimated from<SUP> </SUP>their axial line segments and combined with other geometric<SUP> </SUP>features to produce an optimal discrimination between intrafamily<SUP> </SUP>and interfamily relationships. The matching used a fast bipartite<SUP> </SUP>graph-matching algorithm that avoids the computational complexity<SUP> </SUP>of searching for the full subgraph isomorphism between the two<SUP> </SUP>sets of interactions. The main algorithm used was the "stable<SUP> </SUP>marriage" algorithm, which works on the ranked "preferences"<SUP> </SUP>of one interaction for another. The method takes 1/10 of a second<SUP> </SUP>for a typical comparison making it suitable as a fast pre-filter<SUP> </SUP>for slower, more exhaustive approaches. An application to protein<SUP> </SUP>structure classification is described.<SUP> </SUP><P>
+
+<HR NOSHADE SIZE=1 WIDTH="50%" ALIGN="CENTER">
+
+
+The problem of comparing the three-dimensional structure of<SUP> </SUP>proteins has received considerable attention over the years<SUP> </SUP>(for reviews see Ref. <A HREF="#R1">1</A> or Ref. <A HREF="#R2">2</A>) and has been approached from<SUP> </SUP>a variety of viewpoints, most of which involve some simplification<SUP> </SUP>of the structure. Like the threading problem, structure comparison<SUP> </SUP>is difficult (<A HREF="#R3">3</A>), and so most of the computational methods used<SUP> </SUP>are based on heuristics (<A HREF="#R4">4</A>, <A HREF="#R5">5</A>).<SUP> </SUP><P>
+
+The level of description of protein structure at which the greatest<SUP> </SUP>simplification can be achieved with the least loss of important<SUP> </SUP>topological information is when secondary structure elements<SUP> </SUP>(SSEs) <A NAME="RFN1"></A><SUP><A HREF="#FN1">1</A></SUP> are represented as line segments. This gives an order-of-magnitude<SUP> </SUP>reduction in the volume of data, which in some algorithms can<SUP> </SUP>lead to significant increases in speed (<A HREF="#R6">6</A>, <A HREF="#R7">7</A>). With this level<SUP> </SUP>of description it is practical to represent the interactions<SUP> </SUP>between secondary structures as a graph and to apply graph-theoretic<SUP> </SUP>methods to find common substructures in proteins (<A HREF="#R8">8</A>&#150;<A HREF="#R10">10</A>).<SUP> </SUP>The principal method used in these approaches is to identify<SUP> </SUP>subgraph isomorphisms between the two secondary structure interaction<SUP> </SUP>graphs from each protein. This is a reasonably difficult problem,<SUP> </SUP>especially when the desired solution is to find the maximal<SUP> </SUP>common subgraph. Most methods use domain heuristics to guide<SUP> </SUP>a branch-and-bound search based on the algorithms of Ullmann<SUP> </SUP>(<A HREF="#R11">11</A>) or Bron and Kerbosch (<A HREF="#R12">12</A>).<SUP> </SUP><P>
+
+In this work, the matching of protein SSEs is approached using<SUP> </SUP>the simpler class of bipartite graph-matching algorithms. These<SUP> </SUP>are designed to find an optimal pairing-up of SSEs, but do not<SUP> </SUP>attempt to constrain these in a coherent network as is required<SUP> </SUP>in the isomorphism algorithms. Despite this limitation, it will<SUP> </SUP>be demonstrated that good solutions can be found that, because<SUP> </SUP>of their speed, will prove most useful as a prefilter on the<SUP> </SUP>selection of proteins to be compared by a more exhaustive comparison<SUP> </SUP>method.<SUP> </SUP><P>
+
+<A NAME="SEC1"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+MATERIALS AND METHODS
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>MATERIALS AND METHODS</FONT><BR>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">Conclusions<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<STRONG><EM>Line Segment Overlap</EM></STRONG><BR>
+
+The degree of interaction between two line segments would be<SUP> </SUP>expected to be greatest for long segments that run close together<SUP> </SUP>and least for remote end-to-end juxtapositions. A geometric<SUP> </SUP>measure that captures these features is the degree of overlap<SUP> </SUP>between the segments. This can be quantified by the length of<SUP> </SUP>the region over which the two segments can be connected by a<SUP> </SUP>series of lines with end points equidistant from the contact<SUP> </SUP>normal <A NAME="RFN2"></A><SUP><A HREF="#FN2">2</A></SUP> (see <A HREF="#F1">Fig. 1</A>). However, the overlap length must be modified<SUP> </SUP>by how closely the two line segments lie together, with close<SUP> </SUP>lines attaining a higher interaction score. A simple reciprocal<SUP> </SUP>of the approach distance was considered, but this was found<SUP> </SUP>to give too great a score to close lines, and instead a Gaussian<SUP> </SUP>function was used. This was modified further by setting a base<SUP> </SUP>level below which the score was set to 1 and above which the<SUP> </SUP>Gaussian damping was applied, as follows in <A HREF="#FD1">Equation 1</A>.
+<A NAME="FD1"><!-- null --></A>
+<SUP> </SUP><BR CLEAR=right><P><TABLE WIDTH=100%
+BORDER=0><TR><TD ALIGN=center>
+<IMG SRC="/content/vol1/issue4/fulltext/334/fd1_1.gif" BORDER="0"></TD><TD WIDTH=20 ALIGN=right VALIGN=bottom>(Eq. 1)</TD></TR></TABLE><P> In this equation, <I>x</I> is the distance between<SUP> </SUP>two points that lie equidistant from the end points of the contact<SUP> </SUP>normal between the two lines. The parameters <I>b</I> and <I>d</I> are the<SUP> </SUP>distance cutoff (<I>b</I>) beyond which the Gaussian decay is applied<SUP> </SUP>with a damping factor determined by <I>d</I>. The values of <I>b</I> (for<SUP> </SUP>base) and <I>d</I> (for decay) will be adjusted below.<SUP> </SUP><P>
+
+<A NAME="F1"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/334/F1"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=122 SRC="/content/vol1/issue4/images/small/jw0320030001.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (22K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/F1">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/F1"
+    onClick="startTarget('F1', 590, 469); this.href='/cgi/content-nw/full/1/4/334/F1'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F1">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 1. <B>Line segment overlap measure.</B> Two line segments corresponding to secondary structure elements are shown (<I>A</I> <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <I>B</I> and <I>C</I> <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <I>D</I>) as <I>thick lines</I>, with their mutually perpendicular connecting line (<I>p</I> and <I>q</I>) shown at medium thickness. This may lie outside one or both of the line segments. A series of <I>fine lines</I> cover the span in which the line segments overlap, the end points of which are equidistant from their corresponding ends of the mutual perpendicular. A measure of interaction is calculated from this as a summation of the lengths (<I>x</I>) of these lines as specified in <A HREF="#FD1">Equation 1</A>.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+The interaction of the line segments was measured by summing<SUP> </SUP>the inverted distance (<I>a</I>) over a series of lines that have end<SUP> </SUP>points on the two line segments equidistant from the contact<SUP> </SUP>normal of the lines (<A HREF="#F1">Fig. 1</A>). The set of lines have a separation<SUP> </SUP>of 0.1 &Aring; giving typically 100 lines summed for an average<SUP> </SUP>interaction. The summed measure will be referred to below as<SUP> </SUP>the inverse overlap area (IOA).<SUP> </SUP><P>
+
+<STRONG><EM>Solvent-accessible Surface Area Changes</EM></STRONG><BR>
+
+The interactions of the segments of protein structure corresponding<SUP> </SUP>to the SSEs were measured using the change in the solvent-accessible<SUP> </SUP>surface area observed when each segment was removed from the<SUP> </SUP>intact structure. This approach follows earlier studies (<A HREF="#R13">13</A>,<SUP> </SUP><A HREF="#R14">14</A>) but used the Definition of Secondary Structure in Proteins<SUP> </SUP>program (<A HREF="#R15">15</A>) to calculate the solvent areas rather than the<SUP> </SUP>original program of Lee and Richards (<A HREF="#R16">16</A>).<SUP> </SUP><P>
+
+The accessible surface area (summed over each residue) was calculated<SUP> </SUP>first using the intact protein (length <I>N</I>) giving a set of residue<SUP> </SUP>areas {<I>C<SUB>1</SUB></I> . . . <I>C<SUB>N</SUB></I>}. The two segments were then removed in turn,<SUP> </SUP>and the areas were recalculated, giving two further sets of<SUP> </SUP>residue areas {<I>A<SUB>1</SUB></I> . . . <I>A<SUB>N</SUB></I>} and {<I>B<SUB>1</SUB></I> . . . <I>B<SUB>N</SUB></I>} (in which the<SUP> </SUP>residue numbering of intact protein is retained). If the first<SUP> </SUP>segment runs from <I>a<SUB>n</SUB></I> . . . <I>a<SUB>c</SUB></I> and the second runs from <I>b<SUB>n</SUB></I> .<SUP> </SUP>. . <I>b<SUB>c</SUB></I>, then the combined effect of removing each segment on<SUP> </SUP>the other (summed area change (SAC)) can be found as follows<SUP> </SUP>in <A HREF="#FD2">Equation 2</A>.
+<A NAME="FD2"><!-- null --></A>
+<SUP> </SUP><BR CLEAR=right><P><TABLE WIDTH=100%
+BORDER=0><TR><TD ALIGN=center>
+<IMG SRC="/content/vol1/issue4/fulltext/334/fd2_2.gif" BORDER="0"></TD><TD WIDTH=20 ALIGN=right VALIGN=bottom>(Eq. 2)</TD></TR></TABLE><P><SUP> </SUP><P>
+
+Note that (within the error of the area calculation) the areas<SUP> </SUP>of the intact protein (<I>C<SUB>i</SUB></I>) are always less than those after<SUP> </SUP>removal of a segment. In addition, the linear segments were<SUP> </SUP>always separated by at least one residue to avoid covalent bonded<SUP> </SUP>surfaces being exposed and counted.<SUP> </SUP><P>
+
+<STRONG><EM>Calibrating Segment Packing</EM></STRONG><BR>
+
+<FONT SIZE=-1><STRONG>Continuous Packing Classes&#151;</STRONG></FONT><BR>
+
+Each segment was characterized only by the length/residue (rise)<SUP> </SUP>along the segment axis (<A HREF="#R17">17</A>). This can be extended to pairs of<SUP> </SUP>segments as <I>R<SUB>ij</SUB></I> = <I>r<SUB>i</SUB></I> + <I>r<SUB>j</SUB></I>, where <I>r</I> is the rise along the axis<SUP> </SUP>of the segment for segments <I>i</I> and <I>j</I>. Plotting the combined rise<SUP> </SUP>of both segments against their interaction strength (<A HREF="#F2">Fig. 2<I>a</I></A>)<SUP> </SUP>shows that the <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">, &#223;&#223;, and &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> classes<SUP> </SUP>remain sufficiently distinct and that little information is<SUP> </SUP>lost by reducing the pair of values to one.<SUP> </SUP><P>
+
+<A NAME="F2"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/334/F2"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=119 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw0320030002.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (28K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/F2">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/F2"
+    onClick="startTarget('F2', 412, 640); this.href='/cgi/content-nw/full/1/4/334/F2'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F2">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 2. <B>a</B>, the interaction of pairs of SSE lines (<I>IOA</I>) is plotted against their combined helical rise (3.0 = <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">, 4.6 = &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">, and 6.2 = &#223;&#223;). The stratification in the &#223;&#223; <I>peak</I> results from the addition of pairs of residues to bonded strands and not to separation in the sheet. <I>b</I>, the SAC seen on extracting the SSEs is plotted against the normalized line segment overlap area (<I>IOA</I>).<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<FONT SIZE=-1><STRONG>Initial Adjustment&#151;</STRONG></FONT><BR>
+
+The solvent-accessible SACs were calculated for each pair of<SUP> </SUP>segments as described under "Materials and Methods" for a sample<SUP> </SUP>of 300 proteins, all of which were free of any errors reported<SUP> </SUP>by the DSSP program (such as missing atoms or chain breaks).<SUP> </SUP>The IOA was also calculated for each segment pair, using an<SUP> </SUP>initial estimate of <I>b</I> = 5 and <I>d<SUP>2</SUP></I> = 40 and plotted against the<SUP> </SUP>corresponding SAC value. When broken down into the different<SUP> </SUP>packing types (<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">, &#223;&#223;, and &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">), it<SUP> </SUP>was clear that the <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> class has less SAC/IOA relative to the &#223;&#223;<SUP> </SUP>class and that the latter also has a large number of IOA interactions<SUP> </SUP>with little or no SACs. Rather than find an uneasy compromise<SUP> </SUP>between <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> and &#223; types it was thought better to make<SUP> </SUP>the IOA parameters <I>b</I> and <I>d</I> become functions of the segment types,<SUP> </SUP>giving the <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> type both a longer flat region and a slower decay<SUP> </SUP>than the &#223;&#223; type (with the &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> intermediate).<SUP> </SUP>This was done by setting <I>b</I> = <I>d</I> = <I>p</I> - <I>R<SUB>ij</SUB></I>, where <I>p</I> becomes the<SUP> </SUP>new parameter to be adjusted, and <I>R</I> is the joint rise of both<SUP> </SUP>segments <I>i</I> and <I>j</I>, as calculated above. The rise along the <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">-helix<SUP> </SUP>is 1.5, and it is 3.1 along a &#223;-sheet (<I>R<SUB><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"></SUB></I> = 3.0, and<SUP> </SUP><I>R<SUB>&#223;&#223;</SUB></I> = 6.2) making a value around 10 a suitable<SUP> </SUP>estimate for <I>p</I>. Although this reformulation helped with the<SUP> </SUP>problems outlined above, it did not eliminate completely the<SUP> </SUP>larger average SAC/IOA ratio for <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> packing. This was then corrected<SUP> </SUP>by applying a small explicit multiplying factor to the IOA values<SUP> </SUP>of 1 + 1/<I>R<SUB>ij</SUB></I>. This increases the <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> IOAs by 14% relative to the<SUP> </SUP>&#223;&#223; values, giving the improved correspondence<SUP> </SUP>plotted in <A HREF="#F2">Fig. 2<I>b</I></A>.<SUP> </SUP><P>
+
+<STRONG><EM>Matching Segment Packing</EM></STRONG><BR>
+
+The previous section developed a geometric measure of line segment<SUP> </SUP>interaction that gives a reasonable estimate of true interaction<SUP> </SUP>of the full atomic coordinates of the segments (as measured<SUP> </SUP>by solvent-accessible surface area). In the forthcoming section<SUP> </SUP>it is investigated whether this measure will provide a useful<SUP> </SUP>basis for the comparison of protein structures when represented<SUP> </SUP>as line segments.<SUP> </SUP><P>
+
+<FONT SIZE=-1><STRONG>Secondary Structure Packing Plot&#151;</STRONG></FONT><BR>
+
+For two segments, <I>i</I> and <I>j</I>, their combined rise (<I>R<SUB>ij</SUB></I>) can be<SUP> </SUP>plotted against their interaction strength as estimated by the<SUP> </SUP>IOA measure. This gives a very quick visualization of the type<SUP> </SUP>of protein in terms of its secondary structure packing (or architecture).<SUP> </SUP>Furthermore, the comparison of two of these plots can give a<SUP> </SUP>rough measure of the similarity of the packing between two proteins.<SUP> </SUP>Without resolving the specific identity (or sequence order)<SUP> </SUP>of the SSEs, it is possible to match up similar interactions.<SUP> </SUP>For example, a small &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> protein (5nul) with two helices<SUP> </SUP>above a five-stranded sheet and three helices below will have<SUP> </SUP>three <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> interactions and four &#223;&#223; interactions<SUP> </SUP>plus various &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> interactions. When plotted with a structurally<SUP> </SUP>equivalent protein (1fx1), corresponding interactions are apparent<SUP> </SUP>to the eye (<A HREF="#F3">Fig. 3</A>).<SUP> </SUP><P>
+
+<A NAME="F3"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/334/F3"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=145 SRC="/content/vol1/issue4/images/small/jw0320030003.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (10K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/F3">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/F3"
+    onClick="startTarget('F3', 590, 520); this.href='/cgi/content-nw/full/1/4/334/F3'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F3">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 3. <B>SSE packing interaction plot.</B> The combined rise of the two secondary structures (<I>x</I> axis) is plotted against their interaction as measured by the IOA overlap measure (<I>y</I> axis). Data are shown for two small &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> proteins 5nul (<I>diamonds</I>) and 1fx1 (<I>addition symbols</I>). Corresponding interactions are linked by a <I>dashed line</I>. <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"><IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> interactions lie close to rise = 3, and three corresponding pairs can be seen (strong, medium, and weak).<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<FONT SIZE=-1><STRONG>Matching Packing Interactions&#151;</STRONG></FONT><BR>
+
+To measure the similarity in <A HREF="#F3">Fig. 3</A>, an algorithm is required<SUP> </SUP>that can match up the corresponding points. If a distance is<SUP> </SUP>defined among all points between the two proteins, then the<SUP> </SUP>task can be viewed as a bipartite graph-matching problem. The<SUP> </SUP>continuous range of distances between points complicates the<SUP> </SUP>situation, but an optimal solution can still be found in cubic<SUP> </SUP>order time using the Hungarian algorithm (Association for Computing<SUP> </SUP>Machinery algorithm 548) (<A HREF="#R18">18</A>). However, the size of the graph<SUP> </SUP>increases with the square of the number of SSEs, and as this<SUP> </SUP>could easily rise over 1000, a cubic order algorithm might prove<SUP> </SUP>to be slow. An alternative algorithm was therefore considered,<SUP> </SUP>called the stable marriage algorithm (SMA), that operates on<SUP> </SUP>the ranked preferences (or match score) of each element with<SUP> </SUP>the others (<A HREF="#R19">19</A>). If the preferences are found in ranked order,<SUP> </SUP>then the execution time of the algorithm has a linear increase<SUP> </SUP>with the number of points.<SUP> </SUP><P>
+
+Trials on matrices of random numbers with various sizes and<SUP> </SUP>distributions of values suggested that the SMA generally found<SUP> </SUP>a solution around 5% less optimal than the Hungarian algorithm.<SUP> </SUP>Given the rough nature of the comparison, this was not considered<SUP> </SUP>to be an unacceptable result, and with its more efficient time<SUP> </SUP>dependence, the SMA algorithm was adopted in the studies below.<SUP> </SUP>Indeed, on a limited number of trials on real data, the SMA<SUP> </SUP>performed almost equally as well as the Hungarian algorithm<SUP> </SUP>(see below).<SUP> </SUP><P>
+
+<FONT SIZE=-1><STRONG>Interaction Match Score&#151;</STRONG></FONT><BR>
+
+The matching algorithms discussed above require a metric between<SUP> </SUP>points in the packing plot. This should have the properties<SUP> </SUP>that strong interactions are paired up and that SSEs of unlike<SUP> </SUP>type are not matched. If the interaction (IOA) between two SSEs,<SUP> </SUP><I>i</I> and <I>j</I>, in protein <I>A</I> is designated as <I>I<SUB><I>ij</I></SUB><SUP><I>A</I></SUP></I>, and their combined<SUP> </SUP>rise values (r<SUB>i</SUB> + r<SUB>j</SUB>) is <I>R<SUB><I>ij</I></SUB><SUP><I>A</I></SUP></I>, then an equivalent pair (<I>m</I> and<SUP> </SUP><I>n</I>) in another protein, <I>B</I> will have values <I>I<SUB><I>mn</I></SUB><SUP><I>B</I></SUP></I> and <I>R<SUB><I>mn</I></SUB><SUP><I>B</I></SUP></I> . To<SUP> </SUP>ensure that both interactions are significant, the match of<SUP> </SUP>these pairs of SSEs was quantified by the product of their individual<SUP> </SUP>interactions weighted by <I>W</I> as follows.
+<A NAME="FD3"><!-- null --></A>
+<SUP> </SUP><BR CLEAR=right><P><TABLE WIDTH=100%
+BORDER=0><TR><TD ALIGN=center>
+<IMG SRC="/content/vol1/issue4/fulltext/334/fd3_3.gif" BORDER="0"></TD><TD WIDTH=20 ALIGN=right VALIGN=bottom>(Eq.<SUP> </SUP>3)</TD></TR></TABLE><P><SUP> </SUP><P>
+
+The difference in secondary structure types (<I>r</I> = <I>R<SUB><I>ij</I></SUB><SUP><I>A</I></SUP></I> - <I>R<SUB><I>mn</I></SUB><SUP><I>B</I></SUP></I>)<SUP> </SUP>should lead to a weaker match as the difference increases. This<SUP> </SUP>inversion was implemented using a Gaussian switch function of<SUP> </SUP>the form, shown in <A HREF="#FD4">Equation 4</A>,
+<A NAME="FD4"><!-- null --></A>
+<SUP> </SUP><BR CLEAR=right><P><TABLE WIDTH=100%
+BORDER=0><TR><TD ALIGN=center>
+<IMG SRC="/content/vol1/issue4/fulltext/334/fd4_4.gif" BORDER="0"></TD><TD WIDTH=20 ALIGN=right VALIGN=bottom>(Eq.<SUP> </SUP>4)</TD></TR></TABLE><P><SUP> </SUP><P>
+
+such that when there is no difference, then the value of <I>s</I> is<SUP> </SUP>1. The factor <I>w<SUB>s</SUB></I> (which corresponds to the standard deviation<SUP> </SUP>in the normal distribution bell curve) modifies the effect of<SUP> </SUP>the transform and will be optimized below.<SUP> </SUP><P>
+
+Two further geometric quantities that were readily available<SUP> </SUP>from the calculation of the overlap areas were the distance<SUP> </SUP>between the lines (specifically, the closest approach of the<SUP> </SUP>line segments) and the angle between them. <A NAME="RFN3"></A><SUP><A HREF="#FN3">3</A></SUP> The difference<SUP> </SUP>in these quantities was inverted as above, giving a distance<SUP> </SUP>score <I>d</I> and an angle score <I>a</I>, each with their associated weighting<SUP> </SUP>factor, <I>w<SUB>d</SUB></I> and <I>w<SUB>a</SUB></I>, respectively. Similarly the difference in<SUP> </SUP>packing was also considered in the form of a similar score <I>p</I><SUP> </SUP>and weight <I>w<SUB>p</SUB></I>.<SUP> </SUP><P>
+
+These quantities were all combined in an overall score (<I>S</I>) as<SUP> </SUP>shown in <A HREF="#FD5">Equation 5</A>.
+<A NAME="FD5"><!-- null --></A>
+<SUP> </SUP><BR CLEAR=right><P><TABLE WIDTH=100%
+BORDER=0><TR><TD ALIGN=center>
+<IMG SRC="/content/vol1/issue4/fulltext/334/fd5_5.gif" BORDER="0"></TD><TD WIDTH=20 ALIGN=right VALIGN=bottom>(Eq. 5)</TD></TR></TABLE><P><SUP> </SUP><P>
+
+Thus, if the secondary structure types, distances, angles, and<SUP> </SUP>packing are a close match, then the value of <I>S</I> will approach<SUP> </SUP><I>P</I> (the combined interaction), but if any one quantity should<SUP> </SUP>differ markedly, then the value of <I>S</I> will fall toward zero.<SUP> </SUP><P>
+
+The value of <I>S</I> for each pair of interactions compared between<SUP> </SUP>two proteins provides the preferences on which the stable marriage<SUP> </SUP>algorithm operates and the resulting sum of the <I>S</I> values over<SUP> </SUP>all matched pairs of interactions gives the measure of similarity<SUP> </SUP>between the two proteins (referred to below as the score).<SUP> </SUP><P>
+
+<FONT SIZE=-1><STRONG>Data Selection&#151;</STRONG></FONT><BR>
+
+As described above, the method embodies four adjustable parameters,<SUP> </SUP>along with the weight <I>W</I> on the combined packing. It is desirable<SUP> </SUP>to optimize these for typical proteins. This was done by selecting<SUP> </SUP>a set of true relationships and a set of false relationships<SUP> </SUP>and varying the parameters to optimize the separation between<SUP> </SUP>the scores obtained on each set.<SUP> </SUP><P>
+
+The set of true relationships was taken as all pairwise relationships<SUP> </SUP>between proteins defined as belonging to a family in the HOMSTRAD<SUP> </SUP>data bank (<A HREF="#R20">20</A>). Similarly, false relationships were taken as<SUP> </SUP>the interfamily pairs in the HOMSTRAD data bank. As there are<SUP> </SUP>many more interfamily pairs, these were limited to the same<SUP> </SUP>number of intrafamily pairs, giving slightly over 5000 in each<SUP> </SUP>set.<SUP> </SUP><P>
+
+<FONT SIZE=-1><STRONG>Dividing True from False&#151;</STRONG></FONT><BR>
+
+Both from theory and trials, the size of the score was expected,<SUP> </SUP>and found, to be in rough proportion to the square of the number<SUP> </SUP>of matched pairs, and its square root was plotted correspondingly<SUP> </SUP>as a function of the number of pairs. When matching elements<SUP> </SUP>in objects of different size, the number of matched pairs is<SUP> </SUP>often taken as the normalizing quantity. In the current application,<SUP> </SUP>as in sequence alignment, this would be the size of the smaller<SUP> </SUP>protein. However, with the current method, when matching a small<SUP> </SUP>protein against a large one, the former is almost sure to find<SUP> </SUP>a better match for its components as the size of the latter<SUP> </SUP>increases. To model this aspect, the geometric mean of the lengths<SUP> </SUP>was taken, which retains the property that the expected score<SUP> </SUP>is zero if one protein has zero components and increases slowly<SUP> </SUP>(as a function of the square root of the difference) as one<SUP> </SUP>protein grows larger than the other.<SUP> </SUP><P>
+
+On this plot, the line was then found that divided optimally<SUP> </SUP>the true scores from the false score. This was determined as<SUP> </SUP>the sum of the number of true scores lying below the dividing<SUP> </SUP>line and the number of false scores lying above the line. This<SUP> </SUP>quantity is often referred to as the sum of false-negatives<SUP> </SUP>and false-positives or FN + FP. For computational efficiency,<SUP> </SUP>this sum was not minimized as this would involve a search, dealing<SUP> </SUP>with multiple minima. Instead, the minimum sum was found when<SUP> </SUP>FN = FP (&#177;1), which is more easily located and is referred<SUP> </SUP>to below as the balanced sum.<SUP> </SUP><P>
+
+<A NAME="SEC2"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+RESULTS
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">MATERIALS AND METHODS<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>RESULTS</FONT><BR>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">Conclusions<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<STRONG><EM>Algorithm Execution Times&#151;</EM></STRONG><BR>
+
+The execution time for the core matching algorithm was measured<SUP> </SUP>by running the program over the 5000 protein pairs in the true<SUP> </SUP>data set, first as described above and then with the matching<SUP> </SUP>algorithm short-circuited (immediately returning a zero score).<SUP> </SUP>Taking the difference in times thus allows all the housekeeping<SUP> </SUP>functions of the program to be ignored.<SUP> </SUP><P>
+
+For the stable marriage algorithm the elapsed computer time<SUP> </SUP>on an otherwise quiet 733-MHz Pentium III processor was 8 min<SUP> </SUP>for the 4000 comparisons (0.12 s per comparison). This includes<SUP> </SUP>filling the score matrices and their sorting (into ranked order).<SUP> </SUP>The time for the Hungarian algorithm was just four times greater,<SUP> </SUP>but comparison of the scores found by the two algorithms revealed<SUP> </SUP>that there was almost no difference, suggesting that the stable<SUP> </SUP>marriage algorithm performs better on real data compared with<SUP> </SUP>the trials with random number fields described above.<SUP> </SUP><P>
+
+<STRONG><EM>Parameter Optimization&#151;</EM></STRONG><BR>
+
+The fast execution time of the SMA allowed the parameter space<SUP> </SUP>to be explored extensively. The weight on the packing match<SUP> </SUP>(<I>W</I> in <A HREF="#FD3">Equation 3</A>) was varied from 0 to 0.5 by intervals of 0.1,<SUP> </SUP>whereas the Gaussian factor on the packing difference (<I>w<SUB>p</SUB></I> in<SUP> </SUP><A HREF="#FD4">Equation 4</A>) was varied from 1/20 to 20 in rough doubling intervals<SUP> </SUP>(0.05, 0.1, 0.2, 0.5, 1.0, 2.0, 5.0, 10.0, and 20.0). For the<SUP> </SUP>best values found with these combinations, all the other parameters<SUP> </SUP>were raised or lowered by a factor of two, and the process was<SUP> </SUP>repeated until the minimum value in packing parameter space<SUP> </SUP>was not lowered by displacement of any of the other parameters.<SUP> </SUP>The minimum solution was found when <I>W</I> = 0.2 and <I>w<SUB>p</SUB></I> = 10, lying<SUP> </SUP>in a smooth shallow basin (<A HREF="#T1">Table I</A>). At this point, the other<SUP> </SUP>parameters were <I>w<SUB>s</SUB></I> = 2, <I>w<SUB>a</SUB></I> = 5, and <I>w<SUB>d</SUB></I> = 0.05 for secondary<SUP> </SUP>structure, angle matching, and distance matching, respectively.<SUP> </SUP>The low weight on the distances reflects their redundancy with<SUP> </SUP>the packing measure. These results were generated using the<SUP> </SUP>signed angles (incorporating chirality) and were slightly better<SUP> </SUP>than those generated using the unsigned angle (data not shown).<SUP> </SUP><P>
+
+<A NAME="T1"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<STRONG>View this table:</STRONG><BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/T1">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/T1"
+    onClick="startTarget('T1', 500, 400); this.href='/cgi/content-nw/full/1/4/334/T1'"
+ 	onMouseOver="window.status='View table in a separate window'; return true"
+ 	TARGET="T1">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+T<FONT SIZE=-2>ABLE</FONT> I Parameter optimization<P>
+
+The balanced sum of errors (FP + FN when FP = FN = minimum) is tabulated for different values of the weights on the total packing (<I>W</I>) and the difference in packing (<I>w</I>) for secondary structure interactions. Each FP is a pair of proteins from different HOMSTRAD families that score above the cutoff whereas an FN is a family pair that lies below the cutoff. The cutoff is the line that divides the 10,000 data points such that FP = FN = minimum. The value 155 in bold is the minimum.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<STRONG><EM>Analysis of the Results&#151;</EM></STRONG><BR>
+
+The balanced sum at the optimum point was 155, being the total<SUP> </SUP>number of misclassified points out of 10,320 (1.5% error). The<SUP> </SUP>data that gave this result are plotted in <A HREF="#F4">Fig. 4<I>a</I></A>, along with<SUP> </SUP>the best dividing line.<SUP> </SUP><P>
+
+<A NAME="F4"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/334/F4"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=119 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw0320030004.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (16K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/F4">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/F4"
+    onClick="startTarget('F4', 412, 640); this.href='/cgi/content-nw/full/1/4/334/F4'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F4">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 4. <B>Best true/false separation.</B> <I>a</I>, geometric mean of the lengths of pairs of proteins (<I>length</I>) plotted against the square root of their comparison score (<I>score</I>). Pairs within a HOMSTRAD family (true) are plotted as <I>green diamonds</I> whereas pairs in different families (false) are plotted as <I>red addition symbols</I>. The best dividing line (<I>blue</I>) is 0.5745 <FONT FACE="arial,helvetica">x</FONT> <I>x</I> - 2.5 leaving only 155 misclassified points out of over 10,000. <I>b</I>, starting from the point in <I>a</I> where FP = 77 and FN = 78, the dividing line is lowered (in steps of 0.1), and the FP and FN values are plotted until FN = 0.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+As one of the potential uses of the method is a pre-filter to<SUP> </SUP>select pairs of proteins for further analysis, it is of interest<SUP> </SUP>to plot the number of FP against FN while lowering the dividing<SUP> </SUP>line (<A HREF="#F4">Fig. 4<I>b</I></A>). It can be seen that 99.9% accuracy (specificity)<SUP> </SUP>can be attained with only 10% error (in FP), whereas to avoid<SUP> </SUP>completely the loss of true pairs results in the admission of<SUP> </SUP>650 false-positives (1/8 of all false pairs). Although this<SUP> </SUP>might seem large, it is just over 1 min of calculation time.<SUP> </SUP><P>
+
+<STRONG><EM>Protein Structure Classification&#151;</EM></STRONG><BR>
+
+One of the clear applications of a fast structure comparison<SUP> </SUP>method is the pairwise comparison of all known structures (<A HREF="#R21">21</A>).<SUP> </SUP>This results in lists of similarities that can be ordered partially<SUP> </SUP>into a tree structure. However, because so many of the similarities<SUP> </SUP>are effectively random, the data do not conform to a metric<SUP> </SUP>space, and the resulting trees (or other visualizations) do<SUP> </SUP>not provide a unique overall representation of the data. This<SUP> </SUP>problem has been approached recently in a different way by using<SUP> </SUP>idealized protein structure representations (stick models) that<SUP> </SUP>can be arranged in something like the periodic table of elements<SUP> </SUP>(<A HREF="#R22">22</A>). These ideal protein forms, however, must accommodate many<SUP> </SUP>arrangements of SSEs and are therefore very numerous (currently<SUP> </SUP>over 12,000) and still require a fast-matching algorithm. Their<SUP> </SUP>comparison with native protein stick structures is suited ideally<SUP> </SUP>to the current SMA method as, initially, the sequential order<SUP> </SUP>of the SSEs is not considered (<A HREF="#R23">23</A>).<SUP> </SUP><P>
+
+Each native protein structure (reduced to sticks) was matched<SUP> </SUP>against a collection of idealized forms, and the score obtained<SUP> </SUP>from the current algorithm was plotted against the number of<SUP> </SUP>sticks in the match. The results of this application are shown<SUP> </SUP>for the small &#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0"> chemotaxis-Y protein (PDB code 3chy)<SUP> </SUP>in <A HREF="#F5">Fig. 5</A>. The native protein is matched against the set of<SUP> </SUP>forms with three secondary structure layers (<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">-helices packed<SUP> </SUP>on either side of a &#223;-sheet) and the set with four<SUP> </SUP>layers (<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">-helices packed on either side of a &#223;-sandwich).<SUP> </SUP>The former class to which the native protein corresponds is<SUP> </SUP>clearly favored, and the ideal form corresponding to the native<SUP> </SUP>structure that has two helices above and three helices below<SUP> </SUP>a five-stranded sheet (2&#150;5-3) scores second highest.<SUP> </SUP><P>
+
+<A NAME="F5"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/334/F5"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=143 SRC="/content/vol1/issue4/images/small/jw0320030005.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (18K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/334/F5">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/334/F5"
+    onClick="startTarget('F5', 590, 515); this.href='/cgi/content-nw/full/1/4/334/F5'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F5">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 5. <B>Match of chemotaxis-Y against the ideal forms.</B> The native structure of the chemotaxis-Y protein (PDB code 3chy) was reduced to a stick model and matched against the idealized stick structures (forms) representing the three-layer (<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">&#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">) class (<I>red diamonds</I>) and the four-layer (<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">&#223;&#223;<IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">) class (<I>green crosses</I>). The score of the match is plotted against the number of secondary structures in the form (<I>N</I>), normalized for size by <IMG SRC="/math/radic.gif" ALT="{surd}" BORDER="0"><I>N</I>. The largest form to be matched had six helices above and below a 13-stranded sheet (6&#150;13-6; <I>n</I> = 25), but in practice such forms that are clearly much bigger than the native probe can be avoided. The form corresponding to the native structure (2&#150;5-3) is marked as a <I>blue asterisk</I>. The smaller form that scores slightly higher is the 2&#150;5-2 form, corresponding to the core of the protein.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+The top scoring forms were then passed to a more conventional<SUP> </SUP>alignment algorithm (<A HREF="#R24">24</A>), and a root mean square deviation was<SUP> </SUP>calculated. When applied to a non-redundant sample drawn from<SUP> </SUP>the Protein Data Bank, the designation of the best fitting form<SUP> </SUP>(<I>e.g.</I> 2&#150;5-3 for 3chy) provides an automatic classification<SUP> </SUP>for each protein structure (<A HREF="#R22">22</A>).<SUP> </SUP><P>
+
+<A NAME="SEC3"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+Conclusions
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">MATERIALS AND METHODS<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>Conclusions</FONT><BR>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+The simple bipartite graph matching employed here has been shown<SUP> </SUP>capable of achieving a good separation of true intrafamily protein<SUP> </SUP>relationships from (false) interfamily relationships across<SUP> </SUP>a wide range of structural types and degrees of relatedness.<SUP> </SUP>The square root of the scores scales linearly with the geometric<SUP> </SUP>mean of the number of SSEs in a pair of proteins, allowing a<SUP> </SUP>simple function to be used to separate true and false matches.<SUP> </SUP><P>
+
+The algorithm has been applied to the comparison of the PDB<SUP> </SUP>against a large number of idealized structures (forms) (<A HREF="#R22">22</A>)<SUP> </SUP>and should also be useful as a pre-filter on more conventional<SUP> </SUP>large structure comparison problems. It will prove to be particularly<SUP> </SUP>suitable when these involve fake or decoy structures or large<SUP> </SUP>numbers of automatically generated models (<A HREF="#R25">25</A>), because its<SUP> </SUP>focus at the SSE level makes it insensitive to conformational<SUP> </SUP>detail. A further application is to incorporate the algorithm<SUP> </SUP>into an existing heuristic algorithm to improve the selection<SUP> </SUP>of potentially equivalent SSEs that could then be refined at<SUP> </SUP>the more detailed residue level (<A HREF="#R24">24</A>).<SUP> </SUP><P>
+
+<SUP> </SUP><P>
+
+
+<A NAME="ACK"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ACKNOWLEDGMENTS
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+Darrell Conklin and Kjell Petersen are thanked for useful discussion,<SUP> </SUP>and Alex May and Jaap Heringa are thanked for comments on the<SUP> </SUP>manuscript.<SUP> </SUP><P>
+
+
+<A NAME="FN"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+FOOTNOTES
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+Received, March  1, 2002, and in revised form, March  4, 2002.<P>
+
+<A NAME=""><!-- null --></A>
+Published, MCP Papers in Press, March 4, 2002, DOI 10.1074/mcp.T200001-MCP200<SUP> </SUP><P>
+
+<A NAME="FN1"><!-- null --></A>
+<SUP><SUP>1</SUP></SUP> The abbreviations used are: SSE, secondary structure element;<SUP> </SUP>IOA, inverse overlap area; SAC, summed area change; SMA, stable<SUP> </SUP>marriage algorithm; FN, false-negative(s); FP, false-positive(s).<SUP> </SUP><A HREF="#RFN1"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN2"><!-- null --></A>
+<SUP><SUP>2</SUP></SUP> The contact normal between two extended lines is the (unique)<SUP> </SUP>line that is perpendicular to both. For two line segments, <I>a</I><SUP> </SUP><IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <I>b</I> and <I>c</I> <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <I>d</I>, running in the directions <I>x</I> = <I>b</I> - <I>a</I> and <I>y</I> = <I>d</I> -<SUP> </SUP><I>c</I>, the direction of their contact normal is <I>z</I> = <I>x</I> <FONT FACE="arial,helvetica">x</FONT> <I>y</I>. A matrix<SUP> </SUP>(<I>M</I>) can then be formed from <I>x</I>, <I>y</I>, and <I>z</I> (referred to as the<SUP> </SUP>basis vectors) as <I>M<SUB>x</SUB></I> = <I>x</I>, <I>M<SUB>y</SUB></I> = <I>y</I>, and <I>M<SUB>z</SUB></I> = <I>z</I>. If the line segments<SUP> </SUP>are joined by <I>e</I> = <I>d</I> - <I>a</I>, then the end points of the contact<SUP> </SUP>normal (<I>g</I> and <I>h</I>) can be found from the components of the basis<SUP> </SUP>vectors needed to get from <I>a</I> to <I>d</I> via the contact normal. That<SUP> </SUP>is, <I>e</I> = <I>fM</I>, where <I>f</I> contains the required coefficients and <I>M</I><SUP> </SUP>contains the basis vectors. The components of <I>f</I> can be solved<SUP> </SUP>for as <I>f</I> = <I>eW</I> (where <I>W</I> is the inverse of <I>M</I>) and then obtaining<SUP> </SUP>the displacements along each line as <I>x</I>' = <I>f<SUB>x</SUB></I> &#183; <I>x</I> and<SUP> </SUP><I>y</I>' = <I>f<SUB>y</SUB></I> &#183; <I>y</I>, giving <I>g</I> = <I>a</I> + <I>x</I>' and <I>h</I> = <I>d</I> + <I>y</I>'. Note:<SUP> </SUP><FONT FACE="arial,helvetica">x</FONT> indicates the vector (or cross-) product whereas &#183;<SUP> </SUP>is a simple product (and not the dot product). Note also that<SUP> </SUP>the ends of the contact normal need not lie within either line<SUP> </SUP>segment. The situation of exactly parallel line segments does<SUP> </SUP>not arise in natural proteins but can be encountered in artificial<SUP> </SUP>(idealized) models where the situation is treated separately.<SUP> </SUP><A HREF="#RFN2"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN3"><!-- null --></A>
+<SUP><SUP>3</SUP></SUP> Two types of angles were considered. The first was the simple<SUP> </SUP>(unsigned) angle between the two lines as calculated from their<SUP> </SUP>scalar (dot) product in the range 0 <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <IMG SRC="/math/pgr.gif" ALT="{pi}" BORDER="0">. The second had the angle<SUP> </SUP>signed by the chirality of the pair as lines right = 0 <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> <IMG SRC="/math/pgr.gif" ALT="{pi}" BORDER="0"> and<SUP> </SUP>left = 0 <IMG SRC="/math/rarr.gif" ALT="-&gt;" BORDER="0"> -<IMG SRC="/math/pgr.gif" ALT="{pi}" BORDER="0">. The difference in the latter angles was calculated<SUP> </SUP>as <I>a</I> - <I>b</I> or 2<IMG SRC="/math/pgr.gif" ALT="{pi}" BORDER="0"> - <I>a</I> - <I>b</I> when <I>a</I> - <I>b</I> &gt; <IMG SRC="/math/pgr.gif" ALT="{pi}" BORDER="0">.<SUP> </SUP><A HREF="#RFN3"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN4"><!-- null --></A>
+<SUP>*</SUP> The costs of publication of this article were defrayed in part<SUP> </SUP>by the payment of page charges. This article must therefore<SUP> </SUP>be hereby marked "advertisement" in accordance with 18 U.S.C.<SUP> </SUP>Section 1734 solely to indicate this fact.<SUP> </SUP><A HREF="#RFN4"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+
+
+<A NAME="COR1"><!-- null --></A>
+<SUP><IMG SRC="/math/Dagger.gif" ALT="{ddagger}" BORDER="0"></SUP> To whom correspondence should be addressed. Tel.: 44-02089138552; Fax: 44-02089138545; E-mail: <span id="em0">wtaylor{at}nimr.mrc.ac.uk</span><script type="text/javascript"><!--
+ var u = "wtaylor", d = "nimr.mrc.ac.uk"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script><P>
+
+<A NAME="BIBL"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+REFERENCES
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">MATERIALS AND METHODS<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">Conclusions<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>REFERENCES</FONT><BR>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<OL COMPACT>
+<A NAME="R1"><!-- null --></A>
+<LI VALUE=1> Brown, N. P., Orengo, C. A., and Taylor, W. R.
+(1996) A protein structure comparison methodology.
+<I>Comput. Chem.</I>
+<B>20, </B>359
+&#150;380<!-- HIGHWIRE ID="1:4:334:1" --><A HREF="/cgi/external_ref?access_num=10.1016/0097-8485(95)00062-3&link_type=DOI" >[CrossRef]</A><!-- /HIGHWIRE --><P><A NAME="R2"><!-- null --></A>
+<LI VALUE=2> Eidhammer, I., Jonassen, I., and Taylor, W. R.
+(2000) Structure comparison and structure patterns.
+<I>J. Comput. Biol.</I>
+<B>7, </B>658
+&#150;716<!-- HIGHWIRE ID="1:4:334:2" --><!-- /HIGHWIRE --><P><A NAME="R3"><!-- null --></A>
+<LI VALUE=3> Lathrop, R. H.
+(1994) The protein threading problem with sequence amino acid interaction preferences is NP-complete.
+<I>Protein Eng.</I>
+<B>7, </B>1059
+&#150;1068<!-- HIGHWIRE ID="1:4:334:3" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=proeng&resid=7/9/1059" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R4"><!-- null --></A>
+<LI VALUE=4> <IMG SRC="/math/Scaron.gif" ALT="S" BORDER="0">ali, A., and Blundell, T. L.
+(1990) Definition of general topological equivalence in protein structures: a procedure involving comparison of properties and relationship through simulated annealing and dynamic programming.
+<I>J. Mol. Biol.</I>
+<B>212, </B>403
+&#150;428<!-- HIGHWIRE ID="1:4:334:4" --><A HREF="/cgi/external_ref?access_num=10.1006/jmbi.1990.9999&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=2181150&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R5"><!-- null --></A>
+<LI VALUE=5> Taylor, W. R., and Orengo, C. A.
+(1989) Protein structure alignment.
+<I>J. Mol. Biol.</I>
+<B>208, </B>1
+&#150;22<!-- HIGHWIRE ID="1:4:334:5" --><A HREF="/cgi/external_ref?access_num=2769748&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R6"><!-- null --></A>
+<LI VALUE=6> Orengo, C. A., Brown, N. P., and Taylor, W. R.
+(1992) Fast protein structure comparison for databank searching.
+<I>Proteins Struct. Funct. Genet.</I>
+<B>14, </B>139
+&#150;167<!-- HIGHWIRE ID="1:4:334:6" --><A HREF="/cgi/external_ref?access_num=1409565&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R7"><!-- null --></A>
+<LI VALUE=7> Gibrat, J. F., Madej, T., Spouge, J. L., and Bryant, S. H.
+(1997) The VAST protein structure comparison method.
+<I>Biophys. J.</I>
+<B>72, </B> Meeting Proceedings298<!-- HIGHWIRE ID="1:4:334:7" --><!-- /HIGHWIRE --><P><A NAME="R8"><!-- null --></A>
+<LI VALUE=8> Mitchell, E. M., Artymiuk, P. J., Rice, D. W., and Willett, P.
+(1989) Use of techniques derived from graph theory to compare secondary structure motifs in proteins.
+<I>J. Mol. Biol.</I>
+<B>212, </B>151
+&#150;166<!-- HIGHWIRE ID="1:4:334:8" --><!-- /HIGHWIRE --><P><A NAME="R9"><!-- null --></A>
+<LI VALUE=9> Grindley, H. M., Artymiuk, P. J., Rice, D. W., and Willett, P.
+(1993) Identification of tertiary structure resemblance in proteins using a maximal common subgraph isomorphism algorithm.
+<I>J. Mol. Biol.</I>
+<B>229, </B>707
+&#150;721<!-- HIGHWIRE ID="1:4:334:9" --><A HREF="/cgi/external_ref?access_num=10.1006/jmbi.1993.1074&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=8381875&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R10"><!-- null --></A>
+<LI VALUE=10> Koch, I., Kaden, F., and Selbig, J.
+(1992) Analysis of protein sheet topologies by graph theoretical methods.
+<I>Proteins</I>
+<B>12, </B>314
+&#150;323<!-- HIGHWIRE ID="1:4:334:10" --><A HREF="/cgi/external_ref?access_num=1579565&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R11"><!-- null --></A>
+<LI VALUE=11> Ullmann, J. R.
+(1976) An algorithm for subgraph isomorphism.
+<I>J. Assoc. Comput. Machinery</I>
+<B>23, </B>31
+&#150;42<!-- HIGHWIRE ID="1:4:334:11" --><!-- /HIGHWIRE --><P><A NAME="R12"><!-- null --></A>
+<LI VALUE=12> Bron, C., and Kerbosch, J.
+(1973) Algorithm 457: finding all cliques of an undirected graph.
+<I>Comm. Assoc. Comput. Machinery</I>
+<B>16, </B>575
+&#150;577<!-- HIGHWIRE ID="1:4:334:12" --><!-- /HIGHWIRE --><P><A NAME="R13"><!-- null --></A>
+<LI VALUE=13> Richmond, T. J., and Richards, F. M.
+(1978) Packing of <IMG SRC="/math/agr.gif" ALT="{alpha}" BORDER="0">-helices: geometrical constraints and contact areas.
+<I>J. Mol. Biol.</I>
+<B>119, </B>537
+&#150;555<!-- HIGHWIRE ID="1:4:334:13" --><A HREF="/cgi/external_ref?access_num=642001&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R14"><!-- null --></A>
+<LI VALUE=14> Cohen, F. E., Sternberg, M. J. E., and Taylor, W. R.
+(1981) Analysis of the tertiary structure of protein &#223;-sheet sandwiches.
+<I>J. Mol. Biol.</I>
+<B>148, </B>253
+&#150;272<!-- HIGHWIRE ID="1:4:334:14" --><A HREF="/cgi/external_ref?access_num=7299817&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R15"><!-- null --></A>
+<LI VALUE=15> Kabsch, W., and Sander, C.
+(1983) Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features.
+<I>Biopolymers</I>
+<B>22, </B>2577
+&#150;2637<!-- HIGHWIRE ID="1:4:334:15" --><A HREF="/cgi/external_ref?access_num=6667333&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R16"><!-- null --></A>
+<LI VALUE=16> Lee, B. K., and Richards, F. M.
+(1971) The interpretation of protein structures: estimation of static accessibility.
+<I>J. Mol. Biol.</I>
+<B>55, </B>379
+&#150;400<!-- HIGHWIRE ID="1:4:334:16" --><A HREF="/cgi/external_ref?access_num=5551392&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R17"><!-- null --></A>
+<LI VALUE=17> Taylor, W. R.
+(2001) Defining linear segments in protein structure.
+<I>J. Mol. Biol.</I>
+<B>310, </B>1135
+&#150;1150<!-- HIGHWIRE ID="1:4:334:17" --><A HREF="/cgi/external_ref?access_num=10.1006/jmbi.2001.4817&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11502001&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R18"><!-- null --></A>
+<LI VALUE=18> Kuhn, H. W.
+(1995) The Hungarian method for the assignment problem.
+<I>Naval Research Logistics Quarterly</I>
+<B>2, </B>88
+&#150;97<!-- HIGHWIRE ID="1:4:334:18" --><!-- /HIGHWIRE --><P><A NAME="R19"><!-- null --></A>
+<LI VALUE=19> Sedgewick, R.
+(1990)
+<I>Algorithms in C.</I> Addison-Wesley, New York, p.495<!-- HIGHWIRE ID="1:4:334:19" --><!-- /HIGHWIRE --><P><A NAME="R20"><!-- null --></A>
+<LI VALUE=20> Mizuguchi, K., Deane, C. M., Blundell, T. L., and Overington, J. P.
+(1998) HOMSTRAD: a database of protein structure alignmens for homologous families.
+<I>Protein Sci.</I>
+<B>7, </B>2469
+&#150;2471<!-- HIGHWIRE ID="1:4:334:20" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=protsci&resid=7/11/2469" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R21"><!-- null --></A>
+<LI VALUE=21> Holm, L., and Sander, C.
+(1997) Dali/FSSP classification of three-dimensional protein folds.
+<I>Nucleic Acids Res.</I>
+<B>25, </B>231
+&#150;234<!-- HIGHWIRE ID="1:4:334:21" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=nar&resid=25/1/231" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R22"><!-- null --></A>
+<LI VALUE=22> Taylor, W. R.
+(2002) A periodic table for protein structure.
+<I>Nature</I>
+<B>416, </B>657
+&#150;660<!-- HIGHWIRE ID="1:4:334:22" --><A HREF="/cgi/external_ref?access_num=10.1038/416657a&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11948354&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R23"><!-- null --></A>
+<LI VALUE=23> Taylor, W. R.
+(2000) Searching for the ideal forms of proteins.
+<I>Biochem. Soc. Trans.</I>
+<B>28, </B>264
+&#150;269<!-- HIGHWIRE ID="1:4:334:23" --><A HREF="/cgi/external_ref?access_num=10816140&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R24"><!-- null --></A>
+<LI VALUE=24> Taylor, W. R.
+(2002) in
+<I>Bioinformatics and Genome Analysis</I> (Seidel, H., Mewes, H.-W., and Weiss, B., eds) Vol. 38, pp.133
+&#150;148, Springer-Verlag, Berlin/Heidelberg, Ernst Schering Research Foundation Workshop<!-- HIGHWIRE ID="1:4:334:24" --><!-- /HIGHWIRE --><P><A NAME="R25"><!-- null --></A>
+<LI VALUE=25> Taylor, W. R., May, A. C. W., Brown, N. P., and Asz&oacute;di, A.
+(2001) Protein structure: geometry, topology and classification.
+<I>Rep. Prog. Phys.</I>
+<B>64, </B>517
+&#150;590<!-- HIGHWIRE ID="1:4:334:25" --><A HREF="/cgi/external_ref?access_num=10.1088/0034-4885/64/4/203&link_type=DOI" >[CrossRef]</A><!-- /HIGHWIRE --><P></OL>
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+<BR CLEAR=ALL>
+
+
+
+
+  <FONT FACE="">
+  
+  </FONT>
+<BR CLEAR=ALL>
+<BR CLEAR=ALL>
+
+
+
+<A NAME="otherarticles"><!-- null --></A>
+
+<P>
+</body></html>

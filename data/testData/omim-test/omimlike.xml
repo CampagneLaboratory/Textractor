@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE Mim-entry PUBLIC "-//NCBI//NCBI Mim/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_Mim.dtd">
+<Mim-entry>
+	<Mim-entry_mimNumber>123456</Mim-entry_mimNumber>
+	<Mim-entry_mimType value="none">0</Mim-entry_mimType>
+	<Mim-entry_title>Some title entry</Mim-entry_title>
+	<Mim-entry_copyright>Copyright (c) 1966-2006 Some University</Mim-entry_copyright>
+	<Mim-entry_aliases>
+		<Mim-entry_aliases_E>ALIAS1</Mim-entry_aliases_E>
+		<Mim-entry_aliases_E>ALIAS2</Mim-entry_aliases_E>
+		<Mim-entry_aliases_E>ALIAS3</Mim-entry_aliases_E>
+		<Mim-entry_aliases_E>ALIAS4</Mim-entry_aliases_E>
+	</Mim-entry_aliases>
+	<Mim-entry_text>
+		<Mim-text>
+			<Mim-text_label>TEXT</Mim-text_label>
+			<Mim-text_text>The first mim text entry.</Mim-text_text>
+			<Mim-text_neighbors>
+				<Mim-link>
+					<Mim-link_num>4</Mim-link_num>
+					<Mim-link_uids>123,321,345,543</Mim-link_uids>
+					<Mim-link_numRelevant>0</Mim-link_numRelevant>
+				</Mim-link>
+			</Mim-text_neighbors>
+		</Mim-text>
+	</Mim-entry_text>
+	<Mim-entry_textfields>
+		<Mim-text>
+			<Mim-text_label>CLINICAL FEATURES</Mim-text_label>
+			<Mim-text_text>Some text about climical features</Mim-text_text>
+			<Mim-text_neighbors>
+				<Mim-link>
+					<Mim-link_num>4</Mim-link_num>
+					<Mim-link_uids>9432,2931,2912,432</Mim-link_uids>
+					<Mim-link_numRelevant>0</Mim-link_numRelevant>
+				</Mim-link>
+			</Mim-text_neighbors>
+		</Mim-text>
+	</Mim-entry_textfields>
+	<Mim-entry_hasSummary value="false"/>
+	<Mim-entry_hasSynopsis value="false"/>
+	<Mim-entry_editHistory>
+		<Mim-edit-item>
+			<Mim-edit-item_author>king</Mim-edit-item_author>
+			<Mim-edit-item_modDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>4</Mim-date_month>
+					<Mim-date_day>15</Mim-date_day>
+				</Mim-date>
+			</Mim-edit-item_modDate>
+		</Mim-edit-item>
+		<Mim-edit-item>
+			<Mim-edit-item_author>prince</Mim-edit-item_author>
+			<Mim-edit-item_modDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>6</Mim-date_month>
+					<Mim-date_day>12</Mim-date_day>
+				</Mim-date>
+			</Mim-edit-item_modDate>
+		</Mim-edit-item>
+		<Mim-edit-item>
+			<Mim-edit-item_author>duke</Mim-edit-item_author>
+			<Mim-edit-item_modDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>6</Mim-date_month>
+					<Mim-date_day>9</Mim-date_day>
+				</Mim-date>
+			</Mim-edit-item_modDate>
+		</Mim-edit-item>
+	</Mim-entry_editHistory>
+	<Mim-entry_creationDate>
+		<Mim-edit-item>
+			<Mim-edit-item_author>dutchess</Mim-edit-item_author>
+			<Mim-edit-item_modDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>6</Mim-date_month>
+					<Mim-date_day>9</Mim-date_day>
+				</Mim-date>
+			</Mim-edit-item_modDate>
+		</Mim-edit-item>
+	</Mim-entry_creationDate>
+	<Mim-entry_references>
+		<Mim-reference>
+			<Mim-reference_number>1</Mim-reference_number>
+			<Mim-reference_origNumber>1</Mim-reference_origNumber>
+			<Mim-reference_type value="citation"/>
+			<Mim-reference_authors>
+				<Mim-author>
+					<Mim-author_name>Smith</Mim-author_name>
+					<Mim-author_index>1</Mim-author_index>
+				</Mim-author>
+				<Mim-author>
+					<Mim-author_name>Cunningham, M. L.</Mim-author_name>
+					<Mim-author_index>1</Mim-author_index>
+				</Mim-author>
+			</Mim-reference_authors>
+			<Mim-reference_primaryAuthor>Richard</Mim-reference_primaryAuthor>
+			<Mim-reference_otherAuthors>and Bob</Mim-reference_otherAuthors>
+			<Mim-reference_citationTitle>Some other paper citation</Mim-reference_citationTitle>
+			<Mim-reference_citationType>0</Mim-reference_citationType>
+			<Mim-reference_volume>92</Mim-reference_volume>
+			<Mim-reference_journal>Am. J. Med. Genet.</Mim-reference_journal>
+			<Mim-reference_pubDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>0</Mim-date_month>
+					<Mim-date_day>0</Mim-date_day>
+				</Mim-date>
+			</Mim-reference_pubDate>
+			<Mim-reference_pages>
+				<Mim-page>
+					<Mim-page_from>200</Mim-page_from>
+					<Mim-page_to>205</Mim-page_to>
+				</Mim-page>
+			</Mim-reference_pages>
+			<Mim-reference_pubmedUID>329392</Mim-reference_pubmedUID>
+			<Mim-reference_ambiguous value="false"/>
+			<Mim-reference_noLink value="false"/>
+		</Mim-reference>
+		<Mim-reference>
+			<Mim-reference_number>2</Mim-reference_number>
+			<Mim-reference_origNumber>2</Mim-reference_origNumber>
+			<Mim-reference_type value="citation"/>
+			<Mim-reference_authors>
+				<Mim-author>
+					<Mim-author_name>Blakes</Mim-author_name>
+					<Mim-author_index>1</Mim-author_index>
+				</Mim-author>
+				<Mim-author>
+					<Mim-author_name>Fisher.</Mim-author_name>
+					<Mim-author_index>1</Mim-author_index>
+				</Mim-author>
+			</Mim-reference_authors>
+			<Mim-reference_primaryAuthor>Tom</Mim-reference_primaryAuthor>
+			<Mim-reference_otherAuthors>and Harry</Mim-reference_otherAuthors>
+			<Mim-reference_citationTitle>Yet another paper citation</Mim-reference_citationTitle>
+			<Mim-reference_citationType>0</Mim-reference_citationType>
+			<Mim-reference_volume>92</Mim-reference_volume>
+			<Mim-reference_journal>Am. J. Med. Genet.</Mim-reference_journal>
+			<Mim-reference_pubDate>
+				<Mim-date>
+					<Mim-date_year>2000</Mim-date_year>
+					<Mim-date_month>0</Mim-date_month>
+					<Mim-date_day>0</Mim-date_day>
+				</Mim-date>
+			</Mim-reference_pubDate>
+			<Mim-reference_pages>
+				<Mim-page>
+					<Mim-page_from>200</Mim-page_from>
+					<Mim-page_to>205</Mim-page_to>
+				</Mim-page>
+			</Mim-reference_pages>
+			<Mim-reference_pubmedUID>302340</Mim-reference_pubmedUID>
+			<Mim-reference_ambiguous value="false"/>
+			<Mim-reference_noLink value="false"/>
+		</Mim-reference>
+	</Mim-entry_references>
+	<Mim-entry_numGeneMaps>0</Mim-entry_numGeneMaps>
+	<Mim-entry_medlineLinks>
+		<Mim-link>
+			<Mim-link_num>1</Mim-link_num>
+			<Mim-link_uids>2934923</Mim-link_uids>
+			<Mim-link_numRelevant>0</Mim-link_numRelevant>
+		</Mim-link>
+	</Mim-entry_medlineLinks>
+</Mim-entry>

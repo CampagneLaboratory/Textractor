@@ -1,0 +1,536 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>The candidate</title>
+      <id>info:doi/10.1038/440580a</id>
+      <link href='http://dx.doi.org/10.1038/440580a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Jack McDevitt</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>580</prism:startingPage>
+      <prism:endingPage>580</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='18'>he</otmi:vector>
+              <otmi:vector count='12'>I</otmi:vector>
+              <otmi:vector count='11'>Washington</otmi:vector>
+              <otmi:vector count='10'>have</otmi:vector>
+              <otmi:vector count='9'>said</otmi:vector>
+              <otmi:vector count='7'>not</otmi:vector>
+              <otmi:vector count='7'>He</otmi:vector>
+              <otmi:vector count='7'>at</otmi:vector>
+              <otmi:vector count='7'>like</otmi:vector>
+              <otmi:vector count='6'>people</otmi:vector>
+              <otmi:vector count='5'>could</otmi:vector>
+              <otmi:vector count='5'>candidate</otmi:vector>
+              <otmi:vector count='5'>put</otmi:vector>
+              <otmi:vector count='5'>him</otmi:vector>
+              <otmi:vector count='5'>his</otmi:vector>
+              <otmi:vector count='5'>they</otmi:vector>
+              <otmi:vector count='4'>got</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>about</otmi:vector>
+              <otmi:vector count='4'>would</otmi:vector>
+              <otmi:vector count='4'>&quot;We</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>our</otmi:vector>
+              <otmi:vector count='3'>Democratic</otmi:vector>
+              <otmi:vector count='3'>wasn&apos;t</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>should</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='3'>me</otmi:vector>
+              <otmi:vector count='3'>didn&apos;t</otmi:vector>
+              <otmi:vector count='3'>went</otmi:vector>
+              <otmi:vector count='3'>knew</otmi:vector>
+              <otmi:vector count='3'>Pollock</otmi:vector>
+              <otmi:vector count='3'>really</otmi:vector>
+              <otmi:vector count='3'>some</otmi:vector>
+              <otmi:vector count='3'>who</otmi:vector>
+              <otmi:vector count='3'>George</otmi:vector>
+              <otmi:vector count='3'>my</otmi:vector>
+              <otmi:vector count='3'>election</otmi:vector>
+              <otmi:vector count='3'>been</otmi:vector>
+              <otmi:vector count='3'>&quot;I</otmi:vector>
+              <otmi:vector count='3'>thing</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>But</otmi:vector>
+              <otmi:vector count='3'>Georgia</otmi:vector>
+              <otmi:vector count='3'>software</otmi:vector>
+              <otmi:vector count='3'>born</otmi:vector>
+              <otmi:vector count='3'>So</otmi:vector>
+              <otmi:vector count='2'>down</otmi:vector>
+              <otmi:vector count='2'>President</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>took</otmi:vector>
+              <otmi:vector count='2'>get</otmi:vector>
+              <otmi:vector count='2'>asked</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>tried</otmi:vector>
+              <otmi:vector count='2'>artificial</otmi:vector>
+              <otmi:vector count='2'>Democrats</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>want</otmi:vector>
+              <otmi:vector count='2'>&quot;But</otmi:vector>
+              <otmi:vector count='2'>back</otmi:vector>
+              <otmi:vector count='2'>sir</otmi:vector>
+              <otmi:vector count='2'>thought</otmi:vector>
+              <otmi:vector count='2'>holding</otmi:vector>
+              <otmi:vector count='2'>Will</otmi:vector>
+              <otmi:vector count='2'>night</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>did</otmi:vector>
+              <otmi:vector count='2'>saved</otmi:vector>
+              <otmi:vector count='2'>table</otmi:vector>
+              <otmi:vector count='2'>mean</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>general</otmi:vector>
+              <otmi:vector count='2'>confused</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>up</otmi:vector>
+              <otmi:vector count='2'>360</otmi:vector>
+              <otmi:vector count='2'>campaign</otmi:vector>
+              <otmi:vector count='2'>intelligence</otmi:vector>
+              <otmi:vector count='2'>nation</otmi:vector>
+              <otmi:vector count='2'>few</otmi:vector>
+              <otmi:vector count='2'>White</otmi:vector>
+              <otmi:vector count='2'>appearance</otmi:vector>
+              <otmi:vector count='2'>looked</otmi:vector>
+              <otmi:vector count='2'>know</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>easily</otmi:vector>
+              <otmi:vector count='2'>next</otmi:vector>
+              <otmi:vector count='2'>voters</otmi:vector>
+              <otmi:vector count='2'>president</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>came</otmi:vector>
+              <otmi:vector count='2'>House</otmi:vector>
+              <otmi:vector count='2'>somebody</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>national</otmi:vector>
+              <otmi:vector count='2'>Russert</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>votes</otmi:vector>
+              <otmi:vector count='2'>say</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>&quot;What</otmi:vector>
+              <otmi:vector count='2'>too</otmi:vector>
+              <otmi:vector count='2'>Rainbow</otmi:vector>
+              <otmi:vector count='2'>things</otmi:vector>
+              <otmi:vector count='2'>aside</otmi:vector>
+              <otmi:vector count='2'>base</otmi:vector>
+              <otmi:vector count='2'>When</otmi:vector>
+              <otmi:vector count='1'>Jon</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>Otherwise</otmi:vector>
+              <otmi:vector count='1'>Court</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>couldn&apos;t</otmi:vector>
+              <otmi:vector count='1'>spending</otmi:vector>
+              <otmi:vector count='1'>plunged</otmi:vector>
+              <otmi:vector count='1'>programmed</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>Stuart</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>doubt</otmi:vector>
+              <otmi:vector count='1'>Roe</otmi:vector>
+              <otmi:vector count='1'>adviser</otmi:vector>
+              <otmi:vector count='1'>miscalculated</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>&quot;No</otmi:vector>
+              <otmi:vector count='1'>endless</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>media</otmi:vector>
+              <otmi:vector count='1'>meant</otmi:vector>
+              <otmi:vector count='1'>Indiana</otmi:vector>
+              <otmi:vector count='1'>business</otmi:vector>
+              <otmi:vector count='1'>wooden</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>Washington-equivalent</otmi:vector>
+              <otmi:vector count='1'>Press</otmi:vector>
+              <otmi:vector count='1'>&quot;It</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>Keep</otmi:vector>
+              <otmi:vector count='1'>warmed</otmi:vector>
+              <otmi:vector count='1'>wars</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>Americans</otmi:vector>
+              <otmi:vector count='1'>corruption</otmi:vector>
+              <otmi:vector count='1'>political</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>Intervention</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>radio</otmi:vector>
+              <otmi:vector count='1'>trust</otmi:vector>
+              <otmi:vector count='1'>maybe</otmi:vector>
+              <otmi:vector count='1'>issues</otmi:vector>
+              <otmi:vector count='1'>told</otmi:vector>
+              <otmi:vector count='1'>Stewart</otmi:vector>
+              <otmi:vector count='1'>housed</otmi:vector>
+              <otmi:vector count='1'>picked</otmi:vector>
+              <otmi:vector count='1'>script</otmi:vector>
+              <otmi:vector count='1'>stern</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>Lincoln</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>Do</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>country</otmi:vector>
+              <otmi:vector count='1'>talked</otmi:vector>
+              <otmi:vector count='1'>seminars</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>surprise</otmi:vector>
+              <otmi:vector count='1'>legislation</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>&quot;that</otmi:vector>
+              <otmi:vector count='1'>world</otmi:vector>
+              <otmi:vector count='1'>image</otmi:vector>
+              <otmi:vector count='1'>tell</otmi:vector>
+              <otmi:vector count='1'>moral</otmi:vector>
+              <otmi:vector count='1'>Vote</otmi:vector>
+              <otmi:vector count='1'>express</otmi:vector>
+              <otmi:vector count='1'>&quot;Yes</otmi:vector>
+              <otmi:vector count='1'>race</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>unaffordable</otmi:vector>
+              <otmi:vector count='1'>electronically</otmi:vector>
+              <otmi:vector count='1'>lost</otmi:vector>
+              <otmi:vector count='1'>prefer</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>everybody</otmi:vector>
+              <otmi:vector count='1'>Box</otmi:vector>
+              <otmi:vector count='1'>Candidates</otmi:vector>
+              <otmi:vector count='1'>&quot;Gay</otmi:vector>
+              <otmi:vector count='1'>Frankenstein</otmi:vector>
+              <otmi:vector count='1'>General&apos;s</otmi:vector>
+              <otmi:vector count='1'>talking</otmi:vector>
+              <otmi:vector count='1'>old</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>harmed</otmi:vector>
+              <otmi:vector count='1'>congratulations</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>&quot;Who</otmi:vector>
+              <otmi:vector count='1'>sound</otmi:vector>
+              <otmi:vector count='1'>shock</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>&quot;We&apos;ll</otmi:vector>
+              <otmi:vector count='1'>persuasive</otmi:vector>
+              <otmi:vector count='1'>It&apos;s</otmi:vector>
+              <otmi:vector count='1'>portrait</otmi:vector>
+              <otmi:vector count='1'>kept</otmi:vector>
+              <otmi:vector count='1'>requirement</otmi:vector>
+              <otmi:vector count='1'>held</otmi:vector>
+              <otmi:vector count='1'>vote</otmi:vector>
+              <otmi:vector count='1'>written</otmi:vector>
+              <otmi:vector count='1'>develop</otmi:vector>
+              <otmi:vector count='1'>easy</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>intended</otmi:vector>
+              <otmi:vector count='1'>don&apos;t</otmi:vector>
+              <otmi:vector count='1'>meet</otmi:vector>
+              <otmi:vector count='1'>physicists</otmi:vector>
+              <otmi:vector count='1'>favours</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>hitting</otmi:vector>
+              <otmi:vector count='1'>touch</otmi:vector>
+              <otmi:vector count='1'>Supreme</otmi:vector>
+              <otmi:vector count='1'>strictures</otmi:vector>
+              <otmi:vector count='1'>okay</otmi:vector>
+              <otmi:vector count='1'>moment</otmi:vector>
+              <otmi:vector count='1'>record</otmi:vector>
+              <otmi:vector count='1'>incumbent</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>God</otmi:vector>
+              <otmi:vector count='1'>Peter</otmi:vector>
+              <otmi:vector count='1'>strength</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>2:00</otmi:vector>
+              <otmi:vector count='1'>publicly</otmi:vector>
+              <otmi:vector count='1'>career</otmi:vector>
+              <otmi:vector count='1'>believable</otmi:vector>
+              <otmi:vector count='1'>&quot;Put</otmi:vector>
+              <otmi:vector count='1'>lectured</otmi:vector>
+              <otmi:vector count='1'>dutifully</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>talk</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>decided</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>sleep</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>hair</otmi:vector>
+              <otmi:vector count='1'>age</otmi:vector>
+              <otmi:vector count='1'>stopped</otmi:vector>
+              <otmi:vector count='1'>district</otmi:vector>
+              <otmi:vector count='1'>he&apos;d</otmi:vector>
+              <otmi:vector count='1'>frivolous</otmi:vector>
+              <otmi:vector count='1'>trifle</otmi:vector>
+              <otmi:vector count='1'>People</otmi:vector>
+              <otmi:vector count='1'>everything</otmi:vector>
+              <otmi:vector count='1'>believe</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>competently</otmi:vector>
+              <otmi:vector count='1'>job</otmi:vector>
+              <otmi:vector count='1'>a.m</otmi:vector>
+              <otmi:vector count='1'>vs</otmi:vector>
+              <otmi:vector count='1'>politics</otmi:vector>
+              <otmi:vector count='1'>let</otmi:vector>
+              <otmi:vector count='1'>guess</otmi:vector>
+              <otmi:vector count='1'>willingly</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>medications</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>won&apos;t</otmi:vector>
+              <otmi:vector count='1'>play</otmi:vector>
+              <otmi:vector count='1'>Florida</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>services</otmi:vector>
+              <otmi:vector count='1'>tends</otmi:vector>
+              <otmi:vector count='1'>package</otmi:vector>
+              <otmi:vector count='1'>TV</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>school</otmi:vector>
+              <otmi:vector count='1'>smiled</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>computer</otmi:vector>
+              <otmi:vector count='1'>Karl</otmi:vector>
+              <otmi:vector count='1'>smarter</otmi:vector>
+              <otmi:vector count='1'>hundred</otmi:vector>
+              <otmi:vector count='1'>interview</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>realized</otmi:vector>
+              <otmi:vector count='1'>lot</otmi:vector>
+              <otmi:vector count='1'>someone</otmi:vector>
+              <otmi:vector count='1'>Fortunately</otmi:vector>
+              <otmi:vector count='1'>anger</otmi:vector>
+              <otmi:vector count='1'>opponent&apos;s</otmi:vector>
+              <otmi:vector count='1'>fear</otmi:vector>
+              <otmi:vector count='1'>rounds</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>bigger</otmi:vector>
+              <otmi:vector count='1'>we&apos;d</otmi:vector>
+              <otmi:vector count='1'>rested</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>animated</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>marriage</otmi:vector>
+              <otmi:vector count='1'>willing</otmi:vector>
+              <otmi:vector count='1'>General</otmi:vector>
+              <otmi:vector count='1'>&quot;Are</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>demanded</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>coffee</otmi:vector>
+              <otmi:vector count='1'>spot</otmi:vector>
+              <otmi:vector count='1'>Coreolis</otmi:vector>
+              <otmi:vector count='1'>look</otmi:vector>
+              <otmi:vector count='1'>stood</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>hands</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>they&apos;d</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>court</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>conceded</otmi:vector>
+              <otmi:vector count='1'>follow</otmi:vector>
+              <otmi:vector count='1'>trying</otmi:vector>
+              <otmi:vector count='1'>long-term</otmi:vector>
+              <otmi:vector count='1'>you&apos;ve</otmi:vector>
+              <otmi:vector count='1'>beat</otmi:vector>
+              <otmi:vector count='1'>Meet</otmi:vector>
+              <otmi:vector count='1'>moved</otmi:vector>
+              <otmi:vector count='1'>machine</otmi:vector>
+              <otmi:vector count='1'>belatedly</otmi:vector>
+              <otmi:vector count='1'>Abe</otmi:vector>
+              <otmi:vector count='1'>5000</otmi:vector>
+              <otmi:vector count='1'>cut</otmi:vector>
+              <otmi:vector count='1'>insist</otmi:vector>
+              <otmi:vector count='1'>Wade</otmi:vector>
+              <otmi:vector count='1'>former</otmi:vector>
+              <otmi:vector count='1'>pull</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>Times-Union</otmi:vector>
+              <otmi:vector count='1'>desperate</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>ballot</otmi:vector>
+              <otmi:vector count='1'>cable</otmi:vector>
+              <otmi:vector count='1'>midsummer</otmi:vector>
+              <otmi:vector count='1'>ill-at-ease</otmi:vector>
+              <otmi:vector count='1'>suit</otmi:vector>
+              <otmi:vector count='1'>trot</otmi:vector>
+              <otmi:vector count='1'>&quot;At</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>hardware</otmi:vector>
+              <otmi:vector count='1'>week</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>they&apos;ll</otmi:vector>
+              <otmi:vector count='1'>Gilbert</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>wire</otmi:vector>
+              <otmi:vector count='1'>your</otmi:vector>
+              <otmi:vector count='1'>&quot;And</otmi:vector>
+              <otmi:vector count='1'>runner-up</otmi:vector>
+              <otmi:vector count='1'>mind</otmi:vector>
+              <otmi:vector count='1'>&quot;Will</otmi:vector>
+              <otmi:vector count='1'>screen</otmi:vector>
+              <otmi:vector count='1'>affairs</otmi:vector>
+              <otmi:vector count='1'>liberal</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>governed</otmi:vector>
+              <otmi:vector count='1'>appealed</otmi:vector>
+              <otmi:vector count='1'>gets</otmi:vector>
+              <otmi:vector count='1'>anyone</otmi:vector>
+              <otmi:vector count='1'>careful</otmi:vector>
+              <otmi:vector count='1'>Black</otmi:vector>
+              <otmi:vector count='1'>watched</otmi:vector>
+              <otmi:vector count='1'>man&apos;s</otmi:vector>
+              <otmi:vector count='1'>vast</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>Pollock&apos;s</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>35</otmi:vector>
+              <otmi:vector count='1'>codifying</otmi:vector>
+              <otmi:vector count='1'>going</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>conspiracy</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>returned</otmi:vector>
+              <otmi:vector count='1'>Mr</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>I&apos;m</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>cards</otmi:vector>
+              <otmi:vector count='1'>laugh</otmi:vector>
+              <otmi:vector count='1'>I&apos;ll</otmi:vector>
+              <otmi:vector count='1'>Then</otmi:vector>
+              <otmi:vector count='1'>security</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>(He</otmi:vector>
+              <otmi:vector count='1'>slave-owner</otmi:vector>
+              <otmi:vector count='1'>longer</otmi:vector>
+              <otmi:vector count='1'>called</otmi:vector>
+              <otmi:vector count='1'>gave</otmi:vector>
+              <otmi:vector count='1'>audience</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>passed</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>house</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>bar</otmi:vector>
+              <otmi:vector count='1'>ruled</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>pained</otmi:vector>
+              <otmi:vector count='1'>chief</otmi:vector>
+              <otmi:vector count='1'>phenomenon</otmi:vector>
+              <otmi:vector count='1'>behave</otmi:vector>
+              <otmi:vector count='1'>glitch</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>dead</otmi:vector>
+              <otmi:vector count='1'>suppose</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>Rove.&quot;</otmi:vector>
+              <otmi:vector count='1'>genuinely</otmi:vector>
+              <otmi:vector count='1'>appreciation</otmi:vector>
+              <otmi:vector count='1'>limit</otmi:vector>
+              <otmi:vector count='1'>office</otmi:vector>
+              <otmi:vector count='1'>Well</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>&quot;The</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A Rainbow 360 rested on the coffee table. &quot;We saved the country, Will,&quot; he said. &quot;We&apos;ll get legislation to bar the things from holding office</otmi:snippet>
+              <otmi:snippet>After his appearance with Jon Stewart, there was no longer any doubt. &quot;I would prefer,&quot; he told the vast audience, &quot;that you not vote for me</otmi:snippet>
+              <otmi:snippet>Americans, I thought, don&apos;t like being lectured</otmi:snippet>
+              <otmi:snippet>And I&apos;ll tell you why: people should be governed by other people, not by software</otmi:snippet>
+              <otmi:snippet>And we looked at his record: do we really want a former slave-owner in the White House? We knew we couldn&apos;t touch him on national security, but we demanded to know where he stood on the issues. &quot;What about Roe vs Wade?&quot; &quot;Put it aside for now,&quot; he said. &quot;At the moment, we have bigger problems.&quot; We got some of our base back on that one. &quot;Gay marriage?&quot; &quot;I cannot see that anyone is harmed</otmi:snippet>
+              <otmi:snippet>As to the requirement he be born, the software had been written in Georgia, and the meaning of &quot;born&quot;, said the court, is not limited to biological events</otmi:snippet>
+              <otmi:snippet>But I fear the long-term potential.&quot; So we went after him: doesn&apos;t want the job</otmi:snippet>
+              <otmi:snippet>But a lot of people got confused</otmi:snippet>
+              <otmi:snippet>But if Washington got into the general election, he&apos;d pull votes from the Democrats: we knew our base wasn&apos;t going to support a candidate who wasn&apos;t even human</otmi:snippet>
+              <otmi:snippet>By midsummer he was making the rounds of the network talk shows</otmi:snippet>
+              <otmi:snippet>Candidates have to be born, they said, and have to be at least 35 years old</otmi:snippet>
+              <otmi:snippet>Do it competently, and the world will follow.&quot; We realized, belatedly, that we were in a race</otmi:snippet>
+              <otmi:snippet>Fortunately</otmi:snippet>
+              <otmi:snippet>He didn&apos;t like frivolous spending; didn&apos;t like unaffordable medications; didn&apos;t like corruption</otmi:snippet>
+              <otmi:snippet>He said how we&apos;d saved the nation from a hardware conspiracy. (He tends to say things like that when he gets off script.) When it was over, he took me aside to express his appreciation</otmi:snippet>
+              <otmi:snippet>He was a software package developed at the University of Georgia to play the part of the first president in seminars</otmi:snippet>
+              <otmi:snippet>He was so believable that somebody at the school put him on a local radio show, and next thing he was a national phenomenon: people were desperate for a candidate they could believe in</otmi:snippet>
+              <otmi:snippet>He was therefore clearly well past the minimum age limit</otmi:snippet>
+              <otmi:snippet>I mean, incumbent president and all</otmi:snippet>
+              <otmi:snippet>I thought he came across as wooden, and maybe a trifle stern</otmi:snippet>
+              <otmi:snippet>I was running the Pollock campaign, and we all had a good laugh when they tried to put Washington on the ballot in Georgia</otmi:snippet>
+              <otmi:snippet>I watched Washington on cable, and he was persuasive</otmi:snippet>
+              <otmi:snippet>If the voters insist, I will do my best</otmi:snippet>
+              <otmi:snippet>It should have been easy.&quot; &quot;But—?&quot; &quot;I need someone who won&apos;t be taken by surprise.&quot; I was trying not to let my anger show. &quot;Who did you have in mind, sir?&quot; He smiled at the Rainbow 360. &quot;Will — meet Karl Rove.&quot;</otmi:snippet>
+              <otmi:snippet>It wasn&apos;t really Washington; it was an artificial intelligence programmed to behave like Washington</otmi:snippet>
+              <otmi:snippet>It&apos;s not on the cards, Will.&quot; He looked almost genuinely pained. &quot;We have to look to the future.&quot; That was a shock. &quot;What do you mean, sir?&quot; &quot;It was a near thing, this election</otmi:snippet>
+              <otmi:snippet>Keep your own house in order</otmi:snippet>
+              <otmi:snippet>Otherwise, I guess, they&apos;ll trot out Abe Lincoln next time.&quot; &quot;Yes,&quot; I said. &quot;And congratulations, Mr President.&quot; It meant four more years for me too, as chief political adviser. &quot;No</otmi:snippet>
+              <otmi:snippet>Pollock went on TV after Washington conceded</otmi:snippet>
+              <otmi:snippet>President Pollock&apos;s numbers were down, but the Democratic candidate put everybody to sleep</otmi:snippet>
+              <otmi:snippet>Russert, at first ill-at-ease talking to the machine, warmed to him. &quot;Are you really George Washington?&quot; he asked. &quot;The man&apos;s dead,&quot; said Washington. &quot;But I&apos;m everything he was.&quot; Russert asked about the Intervention, which had become another of those endless wars. &quot;We intended the nation to lead by example,&quot; the General said. &quot;We would not willingly have plunged into the affairs of others</otmi:snippet>
+              <otmi:snippet>So I called in some favours and the Supreme Court ruled they could find no reason to suppose he was not a &quot;Washington-equivalent&quot;</otmi:snippet>
+              <otmi:snippet>So we knew it would be close</otmi:snippet>
+              <otmi:snippet>The Democrats tried to block it</otmi:snippet>
+              <otmi:snippet>The general gave an interview to the Florida Times-Union , the wire services picked it up, and, by God, he did sound like George Washington</otmi:snippet>
+              <otmi:snippet>The high and low points of my career came on the same night: when we beat George Washington, and Peter Pollock returned to the White House for a second term</otmi:snippet>
+              <otmi:snippet>The liberal media decided the Democratic candidate was a lost cause</otmi:snippet>
+              <otmi:snippet>The week before he made his first appearance on Meet the Press , he passed the Democratic candidate and moved into the runner-up spot</otmi:snippet>
+              <otmi:snippet>Then Washington showed up</otmi:snippet>
+              <otmi:snippet>They change too easily.&quot; We got some more of our people back</otmi:snippet>
+              <otmi:snippet>They could simply have done the whole thing electronically, but somebody in his campaign was smarter: he was housed in a Coreolis 5000, and they dutifully set it on a table along with a screen which provided an animated image from the Gilbert Stuart portrait, except they&apos;d cut the General&apos;s hair and put him in a business suit</otmi:snippet>
+              <otmi:snippet>This appealed to voters so we kept hitting it</otmi:snippet>
+              <otmi:snippet>Vote for People, we said</otmi:snippet>
+              <otmi:snippet>We could have stopped it then</otmi:snippet>
+              <otmi:snippet>We found a few physicists who were willing to say publicly that an artificial intelligence could develop a glitch: would you trust the Black Box in the hands of a computer? We held on</otmi:snippet>
+              <otmi:snippet>We miscalculated our opponent&apos;s strength</otmi:snippet>
+              <otmi:snippet>We should be careful about codifying moral strictures</otmi:snippet>
+              <otmi:snippet>We talked about Frankenstein</otmi:snippet>
+              <otmi:snippet>We were still holding at 2:00 a.m. election night, when we went down to the last district in Indiana, but we took the state by a few hundred votes and that put us over the top</otmi:snippet>
+              <otmi:snippet>Well, okay</otmi:snippet>
+              <otmi:snippet>When you&apos;ve been in politics as long as I have, you know how easily people get confused</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

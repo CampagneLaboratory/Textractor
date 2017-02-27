@@ -1,0 +1,224 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Scientists should be heard, but not expect to set policy</title>
+      <id>info:doi/10.1038/440408b</id>
+      <link href='http://dx.doi.org/10.1038/440408b' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>William R. Dickinson</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>408</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='7'>executive</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='5'>scientific</otmi:vector>
+              <otmi:vector count='4'>power</otmi:vector>
+              <otmi:vector count='4'>government</otmi:vector>
+              <otmi:vector count='4'>scientists</otmi:vector>
+              <otmi:vector count='3'>administration</otmi:vector>
+              <otmi:vector count='3'>policy</otmi:vector>
+              <otmi:vector count='3'>would</otmi:vector>
+              <otmi:vector count='3'>branch</otmi:vector>
+              <otmi:vector count='3'>US</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>10.1038</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>public</otmi:vector>
+              <otmi:vector count='2'>2006</otmi:vector>
+              <otmi:vector count='2'>sole</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>439</otmi:vector>
+              <otmi:vector count='2'>term</otmi:vector>
+              <otmi:vector count='2'>&quot;The</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='2'>political</otmi:vector>
+              <otmi:vector count='2'>independent</otmi:vector>
+              <otmi:vector count='2'>unitary</otmi:vector>
+              <otmi:vector count='2'>Nature</otmi:vector>
+              <otmi:vector count='2'>does</otmi:vector>
+              <otmi:vector count='2'>responsibility</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>opinions</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>tone</otmi:vector>
+              <otmi:vector count='1'>Constitution</otmi:vector>
+              <otmi:vector count='1'>he</otmi:vector>
+              <otmi:vector count='1'>community</otmi:vector>
+              <otmi:vector count='1'>agencies</otmi:vector>
+              <otmi:vector count='1'>civil</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>infringe</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>story</otmi:vector>
+              <otmi:vector count='1'>judicial</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>arisen</otmi:vector>
+              <otmi:vector count='1'>extent</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>ignoring</otmi:vector>
+              <otmi:vector count='1'>opposed</otmi:vector>
+              <otmi:vector count='1'>shall</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>gain</otmi:vector>
+              <otmi:vector count='1'>sentence</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>office</otmi:vector>
+              <otmi:vector count='1'>439896a</otmi:vector>
+              <otmi:vector count='1'>advice</otmi:vector>
+              <otmi:vector count='1'>authority</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>Your</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>rhetoric</otmi:vector>
+              <otmi:vector count='1'>throttle</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>stops</otmi:vector>
+              <otmi:vector count='1'>vested</otmi:vector>
+              <otmi:vector count='1'>constitution</otmi:vector>
+              <otmi:vector count='1'>dispute</otmi:vector>
+              <otmi:vector count='1'>notion</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>conclusions</otmi:vector>
+              <otmi:vector count='1'>actions</otmi:vector>
+              <otmi:vector count='1'>Harry</otmi:vector>
+              <otmi:vector count='1'>Science</otmi:vector>
+              <otmi:vector count='1'>ourselves</otmi:vector>
+              <otmi:vector count='1'>ease</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>meddling</otmi:vector>
+              <otmi:vector count='1'>employees</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>licence</otmi:vector>
+              <otmi:vector count='1'>Editorial</otmi:vector>
+              <otmi:vector count='1'>foresee</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>States</otmi:vector>
+              <otmi:vector count='1'>presidential</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>elected</otmi:vector>
+              <otmi:vector count='1'>easy</otmi:vector>
+              <otmi:vector count='1'>Article</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>unelected</otmi:vector>
+              <otmi:vector count='1'>silencing</otmi:vector>
+              <otmi:vector count='1'>439891a</otmi:vector>
+              <otmi:vector count='1'>president</otmi:vector>
+              <otmi:vector count='1'>reference</otmi:vector>
+              <otmi:vector count='1'>govern</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>II</otmi:vector>
+              <otmi:vector count='1'>foolish.</otmi:vector>
+              <otmi:vector count='1'>pronouncements</otmi:vector>
+              <otmi:vector count='1'>clarify</otmi:vector>
+              <otmi:vector count='1'>Truman</otmi:vector>
+              <otmi:vector count='1'>891</otmi:vector>
+              <otmi:vector count='1'>curious</otmi:vector>
+              <otmi:vector count='1'>officials</otmi:vector>
+              <otmi:vector count='1'>players</otmi:vector>
+              <otmi:vector count='1'>unwarrantedly</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>hand</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>benefit</otmi:vector>
+              <otmi:vector count='1'>trivial</otmi:vector>
+              <otmi:vector count='1'>attack</otmi:vector>
+              <otmi:vector count='1'>United</otmi:vector>
+              <otmi:vector count='1'>powers</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>consensus</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>partisan</otmi:vector>
+              <otmi:vector count='1'>sides</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>legislative</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>wise</otmi:vector>
+              <otmi:vector count='1'>primarily</otmi:vector>
+              <otmi:vector count='1'>impart</otmi:vector>
+              <otmi:vector count='1'>friction</otmi:vector>
+              <otmi:vector count='1'>Unitary</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>contradictory</otmi:vector>
+              <otmi:vector count='1'>896</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>897</otmi:vector>
+              <otmi:vector count='1'>News</otmi:vector>
+              <otmi:vector count='1'>appointees</otmi:vector>
+              <otmi:vector count='1'>President</otmi:vector>
+              <otmi:vector count='1'>branches</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Bush</otmi:vector>
+              <otmi:vector count='1'>constitutional</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>multitudinous</otmi:vector>
+              <otmi:vector count='1'>put</otmi:vector>
+              <otmi:vector count='1'>fight</otmi:vector>
+              <otmi:vector count='1'>polity</otmi:vector>
+              <otmi:vector count='1'>America</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>buck</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>Sir</otmi:vector>
+              <otmi:vector count='1'>departments</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>inherent</otmi:vector>
+              <otmi:vector count='1'>service</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>stems</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As Harry Truman put it when he was in office, &quot;The buck stops here.&quot; Unitary executive power does not infringe on the legislative or judicial powers of other branches of government</otmi:snippet>
+              <otmi:snippet>In fact, the term stems from the first sentence of Article II of the US Constitution: &quot;The executive power shall be vested in a President of the United States of America&quot;</otmi:snippet>
+              <otmi:snippet>No administration can gain much by ignoring or silencing the best scientific advice available, either within or outside the government</otmi:snippet>
+              <otmi:snippet>On the other hand, unelected government scientists in the civil service are not independent political players, and have no inherent licence to make pronouncements designed to call established public policy into question</otmi:snippet>
+              <otmi:snippet>Our president has sole (&quot;unitary&quot;) constitutional power to run the executive branch, and also sole responsibility for all its actions</otmi:snippet>
+              <otmi:snippet>Sir Your Editorial &quot;Science under attack&quot; ( Nature 439 , 891 ; 2006 10.1038/439891a ) and News story &quot;US scientists fight political meddling&quot; ( Nature 439 , 896 – 897 ; 2006 10.1038/439896a ), on friction between scientists and the Bush administration, impart a curious and unwarrantedly broad meaning to the term &quot;unitary executive&quot; with reference to the US polity</otmi:snippet>
+              <otmi:snippet>The climate of the present dispute would benefit if both sides would tone down the rhetoric and ease back on the partisan throttle</otmi:snippet>
+              <otmi:snippet>The constitution does not clarify this point, because its authors did not foresee how large the executive branch would eventually become</otmi:snippet>
+              <otmi:snippet>The issue is neither easy nor trivial, for government scientists have many opinions (some opposed or contradictory), but no independent authority and no responsibility for public policy</otmi:snippet>
+              <otmi:snippet>The problem that has arisen between the administration and the scientific community is how the notion of presidential executive power is to be extended (or not) to scientific employees of the multitudinous departments and agencies of the executive branch, and in particular to their strictly scientific opinions (to the extent that those can be separated from policy conclusions)</otmi:snippet>
+              <otmi:snippet>We govern ourselves primarily through elected officials and their appointees, not by scientific consensus — be it wise or foolish.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

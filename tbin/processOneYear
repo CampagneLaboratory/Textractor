@@ -1,0 +1,12 @@
+#!/bin/sh
+dir="$1"
+count="$2"
+
+echo "Converting html to text..."
+bin/html2txt.sh -d $dir -ids $dir/ids -startid $count  
+
+#echo "Marking-up text with terms..."
+#bin/findterms.sh -d $dir -n 50 -e exclude-list -mark -tag freqterm -oe .mtxt  -v >$dir/findterms.log 2>&1
+#perl -p -i.bak -e 's/<freqterm>/ 1ft1 /g' *.mtxt
+#perl -p -i.bak -e 's/<\/freqterm>/ /g' $dir/*.mtxt
+

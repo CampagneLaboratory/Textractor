@@ -1,0 +1,454 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>2020 Computing A two-way street to science&apos;s future</title>
+      <id>info:doi/10.1038/440419a</id>
+      <link href='http://dx.doi.org/10.1038/440419a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Ian Foster</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>419</prism:startingPage>
+      <prism:endingPage>419</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='17'>science</otmi:vector>
+              <otmi:vector count='13'>computing</otmi:vector>
+              <otmi:vector count='12'>will</otmi:vector>
+              <otmi:vector count='8'>computer</otmi:vector>
+              <otmi:vector count='7'>information</otmi:vector>
+              <otmi:vector count='7'>has</otmi:vector>
+              <otmi:vector count='7'>which</otmi:vector>
+              <otmi:vector count='6'>more</otmi:vector>
+              <otmi:vector count='5'>have</otmi:vector>
+              <otmi:vector count='5'>data</otmi:vector>
+              <otmi:vector count='4'>about</otmi:vector>
+              <otmi:vector count='4'>such</otmi:vector>
+              <otmi:vector count='4'>computational</otmi:vector>
+              <otmi:vector count='4'>they</otmi:vector>
+              <otmi:vector count='4'>scientists</otmi:vector>
+              <otmi:vector count='4'>sciences</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>how</otmi:vector>
+              <otmi:vector count='4'>2020</otmi:vector>
+              <otmi:vector count='4'>can</otmi:vector>
+              <otmi:vector count='4'>technology</otmi:vector>
+              <otmi:vector count='4'>new</otmi:vector>
+              <otmi:vector count='4'>their</otmi:vector>
+              <otmi:vector count='4'>scientific</otmi:vector>
+              <otmi:vector count='3'>growing</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>techniques</otmi:vector>
+              <otmi:vector count='3'>think</otmi:vector>
+              <otmi:vector count='3'>fields</otmi:vector>
+              <otmi:vector count='3'>systems</otmi:vector>
+              <otmi:vector count='3'>applied</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='3'>understand</otmi:vector>
+              <otmi:vector count='3'>mathematics</otmi:vector>
+              <otmi:vector count='3'>need</otmi:vector>
+              <otmi:vector count='3'>work</otmi:vector>
+              <otmi:vector count='3'>problems</otmi:vector>
+              <otmi:vector count='3'>system-level</otmi:vector>
+              <otmi:vector count='3'>view</otmi:vector>
+              <otmi:vector count='3'>say</otmi:vector>
+              <otmi:vector count='2'>structures</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>National</otmi:vector>
+              <otmi:vector count='2'>also</otmi:vector>
+              <otmi:vector count='2'>concerns</otmi:vector>
+              <otmi:vector count='2'>behaviour</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>formal</otmi:vector>
+              <otmi:vector count='2'>hardware</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>diverse</otmi:vector>
+              <otmi:vector count='2'>focus</otmi:vector>
+              <otmi:vector count='2'>vibrant</otmi:vector>
+              <otmi:vector count='2'>software</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>algorithms</otmi:vector>
+              <otmi:vector count='2'>training</otmi:vector>
+              <otmi:vector count='2'>importance</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>apparatus</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>tools</otmi:vector>
+              <otmi:vector count='2'>I</otmi:vector>
+              <otmi:vector count='2'>solid</otmi:vector>
+              <otmi:vector count='2'>simulations</otmi:vector>
+              <otmi:vector count='2'>researchers</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>study</otmi:vector>
+              <otmi:vector count='2'>collaborations</otmi:vector>
+              <otmi:vector count='2'>adept</otmi:vector>
+              <otmi:vector count='2'>networks</otmi:vector>
+              <otmi:vector count='2'>transform</otmi:vector>
+              <otmi:vector count='2'>approaches</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>constructed</otmi:vector>
+              <otmi:vector count='2'>implications</otmi:vector>
+              <otmi:vector count='2'>scientist</otmi:vector>
+              <otmi:vector count='2'>Institute</otmi:vector>
+              <otmi:vector count='2'>grounding</otmi:vector>
+              <otmi:vector count='2'>theory</otmi:vector>
+              <otmi:vector count='2'>applying</otmi:vector>
+              <otmi:vector count='2'>innovation</otmi:vector>
+              <otmi:vector count='2'>computers</otmi:vector>
+              <otmi:vector count='2'>know</otmi:vector>
+              <otmi:vector count='2'>Indeed</otmi:vector>
+              <otmi:vector count='2'>innovations</otmi:vector>
+              <otmi:vector count='2'>sensor</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>efficient</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>largest</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>interdisciplinary</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>far-flung</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>sequencing</otmi:vector>
+              <otmi:vector count='1'>drove</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>disciplines</otmi:vector>
+              <otmi:vector count='1'>spatial</otmi:vector>
+              <otmi:vector count='1'>inspired</otmi:vector>
+              <otmi:vector count='1'>don&apos;t</otmi:vector>
+              <otmi:vector count='1'>industry&apos;s</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>motivate</otmi:vector>
+              <otmi:vector count='1'>driving</otmi:vector>
+              <otmi:vector count='1'>organizing</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>accident</otmi:vector>
+              <otmi:vector count='1'>fruitful</otmi:vector>
+              <otmi:vector count='1'>output</otmi:vector>
+              <otmi:vector count='1'>Similarly</otmi:vector>
+              <otmi:vector count='1'>ends</otmi:vector>
+              <otmi:vector count='1'>opportunities</otmi:vector>
+              <otmi:vector count='1'>competent</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>complexity</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>emerging</otmi:vector>
+              <otmi:vector count='1'>focuses</otmi:vector>
+              <otmi:vector count='1'>posed</otmi:vector>
+              <otmi:vector count='1'>hiring</otmi:vector>
+              <otmi:vector count='1'>digital</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>notion</otmi:vector>
+              <otmi:vector count='1'>collection</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>managed</otmi:vector>
+              <otmi:vector count='1'>It&apos;s</otmi:vector>
+              <otmi:vector count='1'>relational</otmi:vector>
+              <otmi:vector count='1'>collect</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>whose</otmi:vector>
+              <otmi:vector count='1'>demand</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>numerical</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>Wide</otmi:vector>
+              <otmi:vector count='1'>centuries</otmi:vector>
+              <otmi:vector count='1'>seventeenth-century</otmi:vector>
+              <otmi:vector count='1'>terabytes</otmi:vector>
+              <otmi:vector count='1'>physics</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>develop</otmi:vector>
+              <otmi:vector count='1'>organizational</otmi:vector>
+              <otmi:vector count='1'>possibilities</otmi:vector>
+              <otmi:vector count='1'>Innovative</otmi:vector>
+              <otmi:vector count='1'>Computation</otmi:vector>
+              <otmi:vector count='1'>departments</otmi:vector>
+              <otmi:vector count='1'>monitoring</otmi:vector>
+              <otmi:vector count='1'>habitat</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>transmit</otmi:vector>
+              <otmi:vector count='1'>wireless</otmi:vector>
+              <otmi:vector count='1'>Dawkins</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>frequent</otmi:vector>
+              <otmi:vector count='1'>playing</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>Why</otmi:vector>
+              <otmi:vector count='1'>underpins</otmi:vector>
+              <otmi:vector count='1'>genomics</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>disks</otmi:vector>
+              <otmi:vector count='1'>organization</otmi:vector>
+              <otmi:vector count='1'>World</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>capable</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>course</otmi:vector>
+              <otmi:vector count='1'>framework</otmi:vector>
+              <otmi:vector count='1'>drives</otmi:vector>
+              <otmi:vector count='1'>intellectual</otmi:vector>
+              <otmi:vector count='1'>favoured</otmi:vector>
+              <otmi:vector count='1'>George</otmi:vector>
+              <otmi:vector count='1'>oozes</otmi:vector>
+              <otmi:vector count='1'>vastly</otmi:vector>
+              <otmi:vector count='1'>challenges</otmi:vector>
+              <otmi:vector count='1'>advances</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>beneficiary</otmi:vector>
+              <otmi:vector count='1'>deluge</otmi:vector>
+              <otmi:vector count='1'>been.</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>attempt</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>goal</otmi:vector>
+              <otmi:vector count='1'>relentless</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>aim</otmi:vector>
+              <otmi:vector count='1'>spurred</otmi:vector>
+              <otmi:vector count='1'>integrative</otmi:vector>
+              <otmi:vector count='1'>becoming</otmi:vector>
+              <otmi:vector count='1'>weaknesses</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>Laboratory</otmi:vector>
+              <otmi:vector count='1'>store</otmi:vector>
+              <otmi:vector count='1'>limitations</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>institutions</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>program</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>advance</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>Computing</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>gels</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>share</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>Academic</otmi:vector>
+              <otmi:vector count='1'>astronomy</otmi:vector>
+              <otmi:vector count='1'>twentieth</otmi:vector>
+              <otmi:vector count='1'>Fruitful</otmi:vector>
+              <otmi:vector count='1'>orderly</otmi:vector>
+              <otmi:vector count='1'>distinct</otmi:vector>
+              <otmi:vector count='1'>pioneering</otmi:vector>
+              <otmi:vector count='1'>Elsewhere</otmi:vector>
+              <otmi:vector count='1'>calculus</otmi:vector>
+              <otmi:vector count='1'>fastest</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>narrative</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>Equally</otmi:vector>
+              <otmi:vector count='1'>overload</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>systematic</otmi:vector>
+              <otmi:vector count='1'>Computer</otmi:vector>
+              <otmi:vector count='1'>throbbing</otmi:vector>
+              <otmi:vector count='1'>simplistic</otmi:vector>
+              <otmi:vector count='1'>areas</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>instilled</otmi:vector>
+              <otmi:vector count='1'>theorists</otmi:vector>
+              <otmi:vector count='1'>continuous</otmi:vector>
+              <otmi:vector count='1'>challenging</otmi:vector>
+              <otmi:vector count='1'>sees</otmi:vector>
+              <otmi:vector count='1'>Argonne</otmi:vector>
+              <otmi:vector count='1'>help</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>job</otmi:vector>
+              <otmi:vector count='1'>formidable</otmi:vector>
+              <otmi:vector count='1'>algorithmic</otmi:vector>
+              <otmi:vector count='1'>machines</otmi:vector>
+              <otmi:vector count='1'>Chicago</otmi:vector>
+              <otmi:vector count='1'>seventeenth</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>attract</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>street</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>atmospheric</otmi:vector>
+              <otmi:vector count='1'>protocols</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>faculty</otmi:vector>
+              <otmi:vector count='1'>forward</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>train</otmi:vector>
+              <otmi:vector count='1'>exploratory</otmi:vector>
+              <otmi:vector count='1'>databases</otmi:vector>
+              <otmi:vector count='1'>industry</otmi:vector>
+              <otmi:vector count='1'>picked</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>inclinations</otmi:vector>
+              <otmi:vector count='1'>quote</otmi:vector>
+              <otmi:vector count='1'>today&apos;s</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>origins</otmi:vector>
+              <otmi:vector count='1'>life</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>transformation</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>high-fidelity</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>concepts</otmi:vector>
+              <otmi:vector count='1'>passive</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>modelling</otmi:vector>
+              <otmi:vector count='1'>occurring</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>Richard</otmi:vector>
+              <otmi:vector count='1'>integration</otmi:vector>
+              <otmi:vector count='1'>principles</otmi:vector>
+              <otmi:vector count='1'>&quot;If</otmi:vector>
+              <otmi:vector count='1'>hopefully</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>indexing</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>directorates</otmi:vector>
+              <otmi:vector count='1'>interplay</otmi:vector>
+              <otmi:vector count='1'>inherent</otmi:vector>
+              <otmi:vector count='1'>producing</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>seismology</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>simulation</otmi:vector>
+              <otmi:vector count='1'>bridge</otmi:vector>
+              <otmi:vector count='1'>encode</otmi:vector>
+              <otmi:vector count='1'>laboratories</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>strengths</otmi:vector>
+              <otmi:vector count='1'>generation</otmi:vector>
+              <otmi:vector count='1'>allows</otmi:vector>
+              <otmi:vector count='1'>discipline</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>sophisticated</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>reward</otmi:vector>
+              <otmi:vector count='1'>Djorgovski</otmi:vector>
+              <otmi:vector count='1'>today</otmi:vector>
+              <otmi:vector count='1'>studying</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>grid</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>partnerships</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>says</otmi:vector>
+              <otmi:vector count='1'>experimentalists</otmi:vector>
+              <otmi:vector count='1'>partner</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>Harvard&apos;s</otmi:vector>
+              <otmi:vector count='1'>odd</otmi:vector>
+              <otmi:vector count='1'>increasingly</otmi:vector>
+              <otmi:vector count='1'>acquiring</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>biology</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>want</otmi:vector>
+              <otmi:vector count='1'>collective</otmi:vector>
+              <otmi:vector count='1'>Third</otmi:vector>
+              <otmi:vector count='1'>algebra</otmi:vector>
+              <otmi:vector count='1'>shift</otmi:vector>
+              <otmi:vector count='1'>two-way</otmi:vector>
+              <otmi:vector count='1'>reductionist</otmi:vector>
+              <otmi:vector count='1'>Web</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A frequent goal is to develop high-fidelity computer simulations as tools for studying system-level behaviour</otmi:snippet>
+              <otmi:snippet>A growing number of sciences, from atmospheric modelling to genomics, would not exist in their current form if it were not for computers</otmi:snippet>
+              <otmi:snippet>A more sophisticated narrative says that science is increasingly about information: its collection, organization and transformation</otmi:snippet>
+              <otmi:snippet>A simplistic analysis of this relationship focuses on hardware, and sees science as largely a passive beneficiary of the computing industry&apos;s relentless innovation, acquiring and applying to its own ends the fastest computers, largest disks and most capable sequencing machines</otmi:snippet>
+              <otmi:snippet>Academic departments are hiring faculty with strong computational inclinations</otmi:snippet>
+              <otmi:snippet>All scientists will be adept at applying existing computational techniques, but they will also understand that progress in their fields will require innovation in computing technology</otmi:snippet>
+              <otmi:snippet>And if we view computer science as &quot;the systematic study of algorithmic processes that describe and transform information&quot; , then computing underpins science in a far more fundamental way</otmi:snippet>
+              <otmi:snippet>Both the data deluge and system-level science demand computing technology in all its forms — hardware, software, algorithms and theory</otmi:snippet>
+              <otmi:snippet>Computer science, as the &quot;science of complexity&quot;, has much to say about how such simulations — which can be considered a new class of experimental apparatus — should be constructed, and how their output should be analysed and compared with experiment </otmi:snippet>
+              <otmi:snippet>Elsewhere, the scientific opportunities that arise from using wireless sensor networks for, say, continuous habitat monitoring are driving innovations in network protocols and algorithms</otmi:snippet>
+              <otmi:snippet>Equally significant is that science is becoming less reductionist and more integrative, as researchers attempt to study the collective behaviour of larger systems</otmi:snippet>
+              <otmi:snippet>First, the scientist of 2020 will be adept in computing: not only will they know how to program, but they will have a solid grounding in, for example, the principles and techniques by which information is managed; the possibilities and limitations of numerical simulation; and the concepts and tools by which large software systems are constructed, tested and evolved</otmi:snippet>
+              <otmi:snippet>Fruitful partnerships Second, successful science collaborations of 2020 will include computer scientists as key members</otmi:snippet>
+              <otmi:snippet>In my view, it is no accident that some of the most vibrant areas in computing today are those tightly coupled to scientific problems</otmi:snippet>
+              <otmi:snippet>In this view, science and computing (as an intellectual discipline) have little to say to each other: it is the computer industry that drives the advances that have an impact on science</otmi:snippet>
+              <otmi:snippet>Indeed, just as during the early days of the sciences, scientific concerns drove mathematics forward (think of the origins of the calculus), so the many challenging problems posed by modern science can help to focus and motivate research in computing</otmi:snippet>
+              <otmi:snippet>Indeed, this fruitful interplay is already occurring: for example, the communication challenges inherent in far-flung physics collaborations inspired the development of the World Wide Web, and the need for efficient indexing of terabytes of digital astronomy data has spurred new approaches to organizing spatial data in relational databases </otmi:snippet>
+              <otmi:snippet>It will be interesting to see which of these interdisciplinary structures work best</otmi:snippet>
+              <otmi:snippet>It&apos;s a two-way street, and always has been.</otmi:snippet>
+              <otmi:snippet>National laboratories have established computational directorates</otmi:snippet>
+              <otmi:snippet>One can argue, as has George Djorgovski, that &quot;applied computer science is now playing the role which mathematics did from the seventeenth through the twentieth centuries: providing an orderly, formal framework and exploratory apparatus for other sciences.&quot; Information overload Why this shift? Of course, there is more information, as technology allows us to collect, store and share vastly more data than before</otmi:snippet>
+              <otmi:snippet>Similarly, information theory provides formidable insight into how biological systems encode, transform and transmit information</otmi:snippet>
+              <otmi:snippet>So they will work with computer scientists to identify computational problems, much as today&apos;s experimentalists and theorists understand the strengths and weaknesses of their favoured methods and know to partner with others when new techniques are needed</otmi:snippet>
+              <otmi:snippet>The growing importance of applied computing also has implications for computer science</otmi:snippet>
+              <otmi:snippet>The growing importance of computing has several implications for the science of 2020, of which I explore three here</otmi:snippet>
+              <otmi:snippet>The idea that you can be a competent scientist without such training will soon seem as odd as the notion that you need not have a solid grounding in seventeenth-century mathematics (such as algebra)</otmi:snippet>
+              <otmi:snippet>These dynamics occur in fields as diverse as sensor networks, data integration and grid computing</otmi:snippet>
+              <otmi:snippet>Third, the scientific disciplines and institutions of 2020 will need to train, attract and reward researchers whose focus is on producing the computing innovations required for science to advance: what we might term &quot;applied computing&quot;</otmi:snippet>
+              <otmi:snippet>This knowledge has been picked up on the job by many pioneering scientists and will hopefully be instilled in the next generation by more formal training</otmi:snippet>
+              <otmi:snippet>Thus, we see new organizational structures, such as the Computation Institute at the University of Chicago and Argonne National Laboratory (for which I work) and Harvard&apos;s Institute for Innovative Computing, that aim to bridge the distinct concerns of computer science and other sciences</otmi:snippet>
+              <otmi:snippet>To quote Richard Dawkins: &quot;If you want to understand life, don&apos;t think about vibrant, throbbing gels and oozes, think about information technology.&quot; Such system-level approaches are emerging in fields as diverse as biology, climate and seismology</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1145/63238.63239</otmi:refid>
+          <otmi:refid>info:doi/10.1145/335191.335439</otmi:refid>
+          <otmi:refsnoid>3</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

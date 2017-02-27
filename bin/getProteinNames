@@ -1,0 +1,4 @@
+
+CP=classes:lib/edu.mssm.crover.cli.jar:lib/jaxb-api.jar:lib/jaxb-libs.jar:lib/jaxb-ri.jar:lib/jaxb-xjc.jar:lib/xerces.jar:lib/htmlparser.jar:lib/jdo.jar:lib/log4j.jar:lib/FastObjects_t7_JDO.jar:lib/mg4j-0.8.3.jar:lib/fastutil-3.1.jar:lib/colt.jar
+
+java -Xmx600m -classpath $CP textractor.tools.getTermsByClass $*

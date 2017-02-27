@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="TrecLoader" className="textractor.chain.loader.Html2TextArticleLoader"
+           directory="/dat/scratch/mjw/trec/2006/"
+           parserClass="textractor.html.Html2TextNoref"
+           recursive="true" appendSentencesInOneDocument="true"
+           extensions="html">
+        <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 basename="index/trec-paice-index"
+                 chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

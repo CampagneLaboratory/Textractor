@@ -1,0 +1,30 @@
+comment: "editor.ExGraphManager File"
+version: "5.0"
+creator: "Graph Editor Toolkit for Java"
+
+graphManager: 0
+{
+	text: 
+	topology:
+	{
+		graph: 1
+		{
+			topology:
+			{
+				node: 2
+				{
+				
+
+				}
+				node: 4
+				{
+				}
+				edge: 6
+				{
+					source: 2
+					target: 4
+				}
+			}
+		}
+	}
+}

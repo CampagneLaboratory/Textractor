@@ -1,0 +1,418 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Membrane biology Permutations of permeability</title>
+      <id>info:doi/10.1038/440427a</id>
+      <link href='http://dx.doi.org/10.1038/440427a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>William N. Zagotta</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>427</prism:startingPage>
+      <prism:endingPage>429</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='25'>channels</otmi:vector>
+              <otmi:vector count='23'>2</otmi:vector>
+              <otmi:vector count='19'>selectivity</otmi:vector>
+              <otmi:vector count='18'>Ca</otmi:vector>
+              <otmi:vector count='17'>K</otmi:vector>
+              <otmi:vector count='14'>NaK</otmi:vector>
+              <otmi:vector count='13'>Na</otmi:vector>
+              <otmi:vector count='12'>filter</otmi:vector>
+              <otmi:vector count='9'>structure</otmi:vector>
+              <otmi:vector count='9'>pore</otmi:vector>
+              <otmi:vector count='8'>sites</otmi:vector>
+              <otmi:vector count='8'>residue</otmi:vector>
+              <otmi:vector count='7'>has</otmi:vector>
+              <otmi:vector count='7'>KcsA</otmi:vector>
+              <otmi:vector count='7'>sequence</otmi:vector>
+              <otmi:vector count='7'>ions</otmi:vector>
+              <otmi:vector count='7'>channel</otmi:vector>
+              <otmi:vector count='7'>Fig</otmi:vector>
+              <otmi:vector count='7'>these</otmi:vector>
+              <otmi:vector count='7'>binding</otmi:vector>
+              <otmi:vector count='6'>CNG</otmi:vector>
+              <otmi:vector count='6'>selective</otmi:vector>
+              <otmi:vector count='5'>acidic</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='5'>backbone</otmi:vector>
+              <otmi:vector count='5'>permeability</otmi:vector>
+              <otmi:vector count='4'>similar</otmi:vector>
+              <otmi:vector count='4'>site</otmi:vector>
+              <otmi:vector count='4'>many</otmi:vector>
+              <otmi:vector count='4'>cell</otmi:vector>
+              <otmi:vector count='4'>block</otmi:vector>
+              <otmi:vector count='4'>extracellular</otmi:vector>
+              <otmi:vector count='4'>at</otmi:vector>
+              <otmi:vector count='4'>can</otmi:vector>
+              <otmi:vector count='4'>ion</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>membrane</otmi:vector>
+              <otmi:vector count='3'>four</otmi:vector>
+              <otmi:vector count='3'>exhibit</otmi:vector>
+              <otmi:vector count='3'>two</otmi:vector>
+              <otmi:vector count='3'>highly</otmi:vector>
+              <otmi:vector count='3'>voltage-gated</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>signature</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='2'>proposed</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>potential</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>Although</otmi:vector>
+              <otmi:vector count='2'>Channels</otmi:vector>
+              <otmi:vector count='2'>mutual</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>side</otmi:vector>
+              <otmi:vector count='2'>inner</otmi:vector>
+              <otmi:vector count='2'>cereus</otmi:vector>
+              <otmi:vector count='2'>divalent</otmi:vector>
+              <otmi:vector count='2'>repulsion</otmi:vector>
+              <otmi:vector count='2'>Jiang</otmi:vector>
+              <otmi:vector count='2'>carbonyls</otmi:vector>
+              <otmi:vector count='2'>basis</otmi:vector>
+              <otmi:vector count='2'>TRP</otmi:vector>
+              <otmi:vector count='2'>ion-binding</otmi:vector>
+              <otmi:vector count='2'>M2</otmi:vector>
+              <otmi:vector count='2'>aspartate</otmi:vector>
+              <otmi:vector count='2'>Both</otmi:vector>
+              <otmi:vector count='2'>refs</otmi:vector>
+              <otmi:vector count='2'>always</otmi:vector>
+              <otmi:vector count='2'>alter</otmi:vector>
+              <otmi:vector count='2'>helix</otmi:vector>
+              <otmi:vector count='2'>seem</otmi:vector>
+              <otmi:vector count='2'>shared</otmi:vector>
+              <otmi:vector count='2'>reveal</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>bind</otmi:vector>
+              <otmi:vector count='2'>electrical</otmi:vector>
+              <otmi:vector count='2'>formed</otmi:vector>
+              <otmi:vector count='2'>finding</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>permeable</otmi:vector>
+              <otmi:vector count='2'>colleagues</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>properties</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>similarity</otmi:vector>
+              <otmi:vector count='2'>helices</otmi:vector>
+              <otmi:vector count='2'>questions</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>subunits</otmi:vector>
+              <otmi:vector count='2'>produce</otmi:vector>
+              <otmi:vector count='2'>structurally</otmi:vector>
+              <otmi:vector count='2'>thought</otmi:vector>
+              <otmi:vector count='2'>causing</otmi:vector>
+              <otmi:vector count='2'>P-loop</otmi:vector>
+              <otmi:vector count='2'>bound</otmi:vector>
+              <otmi:vector count='2'>outer</otmi:vector>
+              <otmi:vector count='2'>concentrations</otmi:vector>
+              <otmi:vector count='1'>opposite</otmi:vector>
+              <otmi:vector count='1'>T</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>electrostatic</otmi:vector>
+              <otmi:vector count='1'>lined</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>transient</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>counterparts</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>weaker</otmi:vector>
+              <otmi:vector count='1'>property</otmi:vector>
+              <otmi:vector count='1'>proton</otmi:vector>
+              <otmi:vector count='1'>protein</otmi:vector>
+              <otmi:vector count='1'>motif</otmi:vector>
+              <otmi:vector count='1'>transmembrane</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>eukaryotic</otmi:vector>
+              <otmi:vector count='1'>Do</otmi:vector>
+              <otmi:vector count='1'>Y</otmi:vector>
+              <otmi:vector count='1'>hydroxyl</otmi:vector>
+              <otmi:vector count='1'>intracellular</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>Overall</otmi:vector>
+              <otmi:vector count='1'>threonine</otmi:vector>
+              <otmi:vector count='1'>membrane-spanning</otmi:vector>
+              <otmi:vector count='1'>away</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>atomic</otmi:vector>
+              <otmi:vector count='1'>third</otmi:vector>
+              <otmi:vector count='1'>flux</otmi:vector>
+              <otmi:vector count='1'>Highly</otmi:vector>
+              <otmi:vector count='1'>amino-acid</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>gatekeepers</otmi:vector>
+              <otmi:vector count='1'>2–4</otmi:vector>
+              <otmi:vector count='1'>diverges</otmi:vector>
+              <otmi:vector count='1'>Can</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>capable</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>vestibule</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>Molecular</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>carbonyl</otmi:vector>
+              <otmi:vector count='1'>-selective</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>hyperpolarization-activated</otmi:vector>
+              <otmi:vector count='1'>TIGE</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>gives</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>570</otmi:vector>
+              <otmi:vector count='1'>accommodate</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>rearrangements</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>Also</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>possess</otmi:vector>
+              <otmi:vector count='1'>structural</otmi:vector>
+              <otmi:vector count='1'>mutations</otmi:vector>
+              <otmi:vector count='1'>glimpse</otmi:vector>
+              <otmi:vector count='1'>replaced</otmi:vector>
+              <otmi:vector count='1'>oxygens</otmi:vector>
+              <otmi:vector count='1'>composed</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>equally</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>presumably</otmi:vector>
+              <otmi:vector count='1'>finely</otmi:vector>
+              <otmi:vector count='1'>emerges</otmi:vector>
+              <otmi:vector count='1'>astonishing</otmi:vector>
+              <otmi:vector count='1'>crystallography</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>entrance</otmi:vector>
+              <otmi:vector count='1'>M1</otmi:vector>
+              <otmi:vector count='1'>excluding</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>exit</otmi:vector>
+              <otmi:vector count='1'>through-space</otmi:vector>
+              <otmi:vector count='1'>TVGYG</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>nature&apos;s</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>-permeable</otmi:vector>
+              <otmi:vector count='1'>tyrosine</otmi:vector>
+              <otmi:vector count='1'>intervening</otmi:vector>
+              <otmi:vector count='1'>4:1</otmi:vector>
+              <otmi:vector count='1'>rearrangement</otmi:vector>
+              <otmi:vector count='1'>-selectivity</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>potassium</otmi:vector>
+              <otmi:vector count='1'>Together</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>raises</otmi:vector>
+              <otmi:vector count='1'>answered</otmi:vector>
+              <otmi:vector count='1'>indirectly</otmi:vector>
+              <otmi:vector count='1'>bacterial</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>cyclic</otmi:vector>
+              <otmi:vector count='1'>clarity</otmi:vector>
+              <otmi:vector count='1'>glycine</otmi:vector>
+              <otmi:vector count='1'>pseudotetrameric</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>virtually</otmi:vector>
+              <otmi:vector count='1'>narrowest</otmi:vector>
+              <otmi:vector count='1'>state-dependent</otmi:vector>
+              <otmi:vector count='1'>aspartic-acid</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>shorter</otmi:vector>
+              <otmi:vector count='1'>extremely</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>Bacillus</otmi:vector>
+              <otmi:vector count='1'>hyper-polarization</otmi:vector>
+              <otmi:vector count='1'>facing</otmi:vector>
+              <otmi:vector count='1'>-binding</otmi:vector>
+              <otmi:vector count='1'>varying</otmi:vector>
+              <otmi:vector count='1'>implicated</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>pass</otmi:vector>
+              <otmi:vector count='1'>representative</otmi:vector>
+              <otmi:vector count='1'>tetrameric</otmi:vector>
+              <otmi:vector count='1'>Each</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>decreasing</otmi:vector>
+              <otmi:vector count='1'>sodium</otmi:vector>
+              <otmi:vector count='1'>subunit</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>breaks</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>TVGD</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>fire</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>approximately</otmi:vector>
+              <otmi:vector count='1'>residues</otmi:vector>
+              <otmi:vector count='1'>nucleotide-gated</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>P-loops</otmi:vector>
+              <otmi:vector count='1'>tetracaine</otmi:vector>
+              <otmi:vector count='1'>overleaf</otmi:vector>
+              <otmi:vector count='1'>carboxylate</otmi:vector>
+              <otmi:vector count='1'>fourth</otmi:vector>
+              <otmi:vector count='1'>per-meability</otmi:vector>
+              <otmi:vector count='1'>involve</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>neurons</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>excitability</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>1,000:1</otmi:vector>
+              <otmi:vector count='1'>intriguing</otmi:vector>
+              <otmi:vector count='1'>electrophysiological</otmi:vector>
+              <otmi:vector count='1'>neurotransmitter</otmi:vector>
+              <otmi:vector count='1'>depolarization</otmi:vector>
+              <otmi:vector count='1'>surrounding</otmi:vector>
+              <otmi:vector count='1'>addressed.</otmi:vector>
+              <otmi:vector count='1'>blocks</otmi:vector>
+              <otmi:vector count='1'>D</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>Could</otmi:vector>
+              <otmi:vector count='1'>Ion</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>B</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>Surprisingly</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>Paradoxically</otmi:vector>
+              <otmi:vector count='1'>decreases</otmi:vector>
+              <otmi:vector count='1'>X-ray</otmi:vector>
+              <otmi:vector count='1'>trigger</otmi:vector>
+              <otmi:vector count='1'>HCN</otmi:vector>
+              <otmi:vector count='1'>cell&apos;s</otmi:vector>
+              <otmi:vector count='1'>Given</otmi:vector>
+              <otmi:vector count='1'>honed</otmi:vector>
+              <otmi:vector count='1'>permeation</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Also, as the K + selectivity decreases, a new feature emerges in these channels — Ca 2+ permeability</otmi:snippet>
+              <otmi:snippet>Although an extracellular Ca 2+ -binding site has been proposed in many Ca 2+ -permeable channels, this site has always been thought to involve the carboxylate of an acidic residue in the selectivity filter</otmi:snippet>
+              <otmi:snippet>Although the sequence similarity is weaker between CNG channels and voltage-gated Ca 2+ and Na + channels ( Fig. 2 ), a similar role for an acidic residue has been suggested in those channels </otmi:snippet>
+              <otmi:snippet>Another intriguing finding in the NaK structure was the presence of a divalent binding site, capable of binding Ca 2+ , at the extracellular entrance to the NaK selectivity filter</otmi:snippet>
+              <otmi:snippet>Both are tetrameric (with four subunits) or pseudotetrameric channels with a &quot;selectivity filter&quot; in the narrowest part of the pore, formed from the P-loop between the inner and outer transmembrane helices ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Both the TRP and CNG channels are highly permeable to Ca 2+ </otmi:snippet>
+              <otmi:snippet>Ca 2+ permeability is thought to arise at high concentrations of Ca 2+ from the binding of multiple Ca 2+ ions that exhibit mutual repulsion </otmi:snippet>
+              <otmi:snippet>Can the charge on this residue exhibit a through-space electrostatic interaction with ions in the pore? Do mutations of this residue alter the backbone structure and so indirectly alter ion-binding sites? Could the position of this acidic residue be different in open channels? And, is the NaK channel pore structure representative of eukaryotic CNG channels and voltage-gated Ca 2+ channels? As always, X-ray crystallography has answered many questions with astonishing clarity, but there are yet more to be addressed.</otmi:snippet>
+              <otmi:snippet>Channels selective for potassium ions allow K + to exit the cell, causing hyper-polarization of the membrane and decreasing the cell&apos;s electrical excitability </otmi:snippet>
+              <otmi:snippet>Channels selective for sodium ions allow Na + to enter the cell, causing depolarization of the membrane</otmi:snippet>
+              <otmi:snippet>Each subunit has two membrane-spanning helices, M1 (outer helix) and M2 (inner helix), with an intervening P-loop ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Given their opposite roles, it is surprising that many Na + channels and K + channels are structurally related</otmi:snippet>
+              <otmi:snippet>Highly K + -selective channels almost all possess the amino-acid signature sequence TVGYG in their selectivity filter</otmi:snippet>
+              <otmi:snippet>In CNG channels, this acidic residue has also been proposed to be involved in regulating a number of permeation and blocking properties, including ion selectivity, divalent block, proton block and state-dependent tetracaine block </otmi:snippet>
+              <otmi:snippet>In NaK, these two binding sites are replaced by a &quot;pore vestibule&quot; that can accommodate just a single ion ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>In the case of neurons, this can trigger the cell to fire an action potential or release a neurotransmitter</otmi:snippet>
+              <otmi:snippet>In this issue, Jiang and colleagues ( page 570 ) reveal the first atomic structure of a channel with both Na + and K + permeability, the NaK channel from Bacillus cereus </otmi:snippet>
+              <otmi:snippet>Ion channels are nature&apos;s gatekeepers: by allowing certain ions to pass across the membrane and excluding others, these proteins control the electrical state of the cell</otmi:snippet>
+              <otmi:snippet>It is composed of four subunits surrounding a central pore</otmi:snippet>
+              <otmi:snippet>Jiang and colleagues reveal that the properties of Na + permeability and Ca 2+ block also seem to be shared by the NaK channel from B. cereus </otmi:snippet>
+              <otmi:snippet>Molecular dynamics simulations implicated the first two binding sites in the selectivity filter of KcsA as the most K + - selective sites </otmi:snippet>
+              <otmi:snippet>NaK contains a selectivity filter sequence (TVGD) similar to that of most CNG channels (TIGE)</otmi:snippet>
+              <otmi:snippet>Overall, the backbone structure of NaK is very similar to that of KcsA</otmi:snippet>
+              <otmi:snippet>Paradoxically, Ca 2+ also blocks some of these channels at low concentrations</otmi:snippet>
+              <otmi:snippet>Surprisingly, in the NaK structure this acidic residue, the aspartate, is facing away from the pore, and the binding site for Ca 2+ is formed by backbone carbonyls of the glycine residues at the extracellular end of the selectivity filter sequence</otmi:snippet>
+              <otmi:snippet>The NaK structure diverges from KcsA in the selectivity filter</otmi:snippet>
+              <otmi:snippet>The approximately 1,000:1 selectivity for K + over Na + of these channels arises from the K + selectivity of these sites and mutual repulsion between the K + ions bound to the sites </otmi:snippet>
+              <otmi:snippet>The finding that the aspartic-acid residue in the NaK structure does not bind directly to the ions raises some interesting questions</otmi:snippet>
+              <otmi:snippet>The hyperpolarization-activated HCN channels exhibit only about a 4:1 selectivity for K + over Na + , and the transient receptor potential (TRP) channels and cyclic nucleotide-gated (CNG) channels are equally selective for K + and Na + (refs 7 , 8 )</otmi:snippet>
+              <otmi:snippet>The pore is lined by the M2 on the intracellular side, and by the P-loops on the extracellular side</otmi:snippet>
+              <otmi:snippet>The similarity of selectivity filter sequences to the signature sequence, however, breaks down as channels become more Na + and Ca 2+ permeable ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>The structural basis for K + selectivity is well established, mainly from work on the bacterial K + channel KcsA (refs 2–4 ), but the basis for Na + per-meability has been unclear</otmi:snippet>
+              <otmi:snippet>The structure of the NaK channel, therefore, gives us our first glimpse into how differences in the sequence of the selectivity filter can produce varying Na + and Ca 2+ permeability in these channels</otmi:snippet>
+              <otmi:snippet>The third and fourth ion-binding sites are structurally very similar to their counterparts in KcsA, but can bind to K + and Na + with virtually no rearrangements in the protein</otmi:snippet>
+              <otmi:snippet>These differences might make the NaK pore seem shorter in electrophysiological and flux studies than the K + channel pore </otmi:snippet>
+              <otmi:snippet>This ion is not bound by carbonyl oxygens, as it would be in KcsA, because of a rearrangement in the backbone of the selectivity filter, presumably caused by the change of tyrosine (Y) in KcsA to aspartate (D) in NaK</otmi:snippet>
+              <otmi:snippet>This motif is shared by many other ion channels that range in selectivity from highly K + -selective to highly Na + - or Ca 2+ -selective ( Fig. 2 , overleaf)</otmi:snippet>
+              <otmi:snippet>This property is finely honed in the voltage-gated Ca 2+ channels to produce extremely high Ca 2+ -selectivity</otmi:snippet>
+              <otmi:snippet>Together with the hydroxyl group of the threonine (T), the backbone carbonyls from the signature sequence form four K + -binding sites in the selectivity filter ( Fig. 2 )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Structure of the KcsA potassium ion channel.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The four subunits of the channel are shown in different colours. They surround a central pore, guarded by the selectivity filter made up of the P-loops from each of the subunits. This filter determines the permeability of the pore to different ions. Dotted lines show the approximate position of the cell membrane.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Mechanism of ion selectivity.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The amino-acid sequences from a range of ion channels (centre) show remarkable similarity in the region of the selectivity filter. Red highlights show the conserved glycines in the &quot;signature&quot; sequence TVGYG found in the potassium ion channel KcsA. Yellow highlights show amino acids that are chemically similar. As the filter sequence becomes less conserved, the channels lose their selectivity for K + over Na + and become more permeable to Ca 2+ . The structure of the nonselective cation channel NaK from Bacillus cereus has been solved by Jiang and colleagues . Comparison of the selectivity filters of NaK and KcsA (left) provides structural clues to sodium-ion permeability.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1126/science.280.5360.69</otmi:refid>
+          <otmi:refid>info:doi/doifinder/10.1038/35102000</otmi:refid>
+          <otmi:refid>info:doi/doifinder/10.1038/35102009</otmi:refid>
+          <otmi:refid>info:doi/doifinder/10.1038/nature04508</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.68.040104.134728</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.68.040204.100431</otmi:refid>
+          <otmi:refid>info:doi/doifinder/10.1038/nature02943</otmi:refid>
+          <otmi:refsnoid>3</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

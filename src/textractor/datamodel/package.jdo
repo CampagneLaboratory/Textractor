@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE jdo PUBLIC "-//Sun Microsystems, Inc.//DTD Java Data Objects Metadata 1.0//EN" "http://java.sun.com/dtd/jdo_1_0.dtd">
+<jdo>
+    <package name="textractor.datamodel">
+        <class name="ArticleInfo" requires-extent="true">
+			<field name="filename" persistence-modifier="persistent"/>
+            <field name="pmid">
+                <extension vendor-name="kodo" key="jdbc-indexed" value="true"/>
+            </field>
+            <field name="link" persistence-modifier="persistent">
+                <extension vendor-name="kodo" key="jdbc-size" value="-1"/>
+            </field>
+            <field name="documentNumberRangeStart" persistence-modifier="persistent"/>
+			<field name="documentNumberRangeLength" persistence-modifier="persistent"/>
+            <extension key="index" value="st_pmid" vendor-name="FastObjects">
+                <extension key="member" value="pmid" vendor-name="FastObjects">
+                    <extension key="lexicalOrder" value="true" vendor-name="FastObjects"/>
+                </extension>
+            </extension>
+        </class>
+
+        <class name="Article" persistence-capable-superclass="textractor.datamodel.ArticleInfo" requires-extent="true">
+            <field name="articleNumber">
+                <extension vendor-name="kodo" key="jdbc-indexed" value="true"/>
+            </field>
+            <field name="frequentTerms" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <field name="termPredictionStatistics" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <field name="targetTermOccurenceIndexAll" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <field name="targetTermOccurenceIndexMulti" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <field name="targetTermOccurenceIndexCombined" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <extension key="index" value="ST_articleNumber" vendor-name="FastObjects">
+                <extension key="member" value="articleNumber" vendor-name="FastObjects">
+                    <extension key="lexicalOrder" value="true" vendor-name="FastObjects"/>
+                </extension>
+            </extension>
+        </class>
+
+        <class name="OtmiArticle" persistence-capable-superclass="textractor.datamodel.Article" requires-extent="true">
+            <field name="doi" persistence-modifier="persistent">
+                <extension vendor-name="kodo" key="jdbc-size" value="-1"/>
+            </field>
+        </class>
+
+        <class name="TextractorDocument" requires-extent="true">
+            <field name="documentNumber">
+                <extension vendor-name="kodo" key="jdbc-indexed" value="true"/>
+            </field>
+            <extension key="index" value="TD_documentNumber" vendor-name="FastObjects">
+                <extension key="member" value="documentNumber" vendor-name="FastObjects">
+                    <extension key="lexicalOrder" value="true" vendor-name="FastObjects"/>
+                </extension>
+            </extension>
+        </class>
+
+        <class name="PaddingDocument" requires-extent="false" persistence-capable-superclass="textractor.datamodel.TextractorDocument"/>
+
+        <class name="Sentence" requires-extent="true" persistence-capable-superclass="textractor.datamodel.TextractorDocument">
+         <!-- Make all strings in this class Unicode. -->
+            <extension vendor-name="FastObjects"
+                       key="unicode"
+                       value="true"/>
+            <field name="maybeProteinMutation">
+                <extension vendor-name="kodo" key="jdbc-indexed" value="true"/>
+            </field>
+            <extension key="index" value="ST_maybeProteinMutation" vendor-name="FastObjects">
+                <extension key="member" value="maybeProteinMutation" vendor-name="FastObjects">
+                </extension>
+            </extension>
+            <field name="article">
+                <extension vendor-name="kodo" key="jdbc-indexed" value="true"/>
+            </field>
+            <extension key="index" value="ST_article" vendor-name="FastObjects">
+                <extension key="member" value="article" vendor-name="FastObjects">
+                </extension>
+            </extension>
+            <field name="text">
+                <extension vendor-name="kodo" key="jdbc-size" value="-1"/>
+                <extension vendor-name="kodo" key="jdbc-field-map-name" value="string-normalize">
+					<extension vendor-name="kodo" key="null-as-blank" value="true"/>
+				</extension>
+            </field>
+            <field name="extraTextFragments">
+                <collection element-type="java.lang.String">
+	                <extension vendor-name="kodo" key="jdbc-size" value="-1"/>
+                </collection>
+	        </field>
+            <field name="potentialMutations" persistence-modifier="persistent">
+				<array/>
+            </field>
+            <field name="positions">
+                <collection element-type="java.lang.Integer"/>
+            </field>
+        </class>
+
+        <class name="TermPredictionStatistics" requires-extent="true">
+            <field name="article" persistence-modifier="persistent"/>
+			<field name="indexedTermSearched" persistence-modifier="persistent">
+				<array/>
+			</field>
+			<field name="termPredictionRatio" persistence-modifier="persistent"/>
+			<field name="termPredictionCount" persistence-modifier="persistent"/>
+			<field name="minDistance" persistence-modifier="persistent"/>
+			<field name="maxDistance" persistence-modifier="persistent"/>
+			<field name="sumDistance" persistence-modifier="persistent"/>
+			<field name="distances" persistence-modifier="persistent">
+				<array/>
+			</field>
+        </class>
+
+        <class name="RunningCounter" requires-extent="false">
+			<field name="number"/>
+        </class>
+
+        <class name="FeatureCreationParameters" requires-extent="true">
+			<field name="windowSize" persistence-modifier="persistent"/>
+			<field name="parameterNumber" persistence-modifier="persistent"/>
+        </class>
+
+        <class name="SingleBagOfWordFeatureCreationParameters"
+               persistence-capable-superclass="textractor.datamodel.FeatureCreationParameters" requires-extent="true">
+			<field name="firstFeatureNumber" persistence-modifier="persistent"/>
+			<field name="terms" persistence-modifier="persistent">
+				<array/>
+			</field>
+			<field name="windowLocation" persistence-modifier="persistent"/>
+        </class>
+
+        <class name="DoubleBagOfWordFeatureCreationParameters"
+               persistence-capable-superclass="textractor.datamodel.FeatureCreationParameters" requires-extent="true">
+				<field name="sfcpA" persistence-modifier="persistent"/>
+				<field name="sfcpB" persistence-modifier="persistent"/>
+         </class>
+
+        <class name="TermOccurrence">
+				<field name="term" persistence-modifier="persistent"/>
+				<field name="count" persistence-modifier="persistent"/>
+				<field name="indexedTerm" persistence-modifier="persistent">
+					<array/>
+				</field>
+
+        </class>
+        <class name="TextractorInfo">
+			<field name="caseSensitiveIndexBasename" persistence-modifier="persistent"/>
+			<field name="stemmedIndexBasename" persistence-modifier="persistent"/>
+			<field name="indexParentheses" persistence-modifier="persistent"/>
+        </class>
+    </package>
+</jdo>

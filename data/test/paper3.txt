@@ -1,0 +1,783 @@
+PNAS -- Baki et al. 98 (5): 2381							         Atlas Arrays from CLONTECHHome Help [Feedback] 
+      [For Subscribers] [Archive] [Search] [Contents]                                                                                                                           QUICK SEARCH:                  [advanced]                                                                                                                                                                    Author:                      Keyword(s):                                          Year:                                             Vol:                                             Page:                                             Institution: Samuel J Wood Library 
+      Sign In as Member / Individual           PNAS | February 27, 2001 | vol. 
+98 | no. 5 | 2381-2386                                         Abstract 
+            of this Article () 
+                   Reprint (PDF) 
+            Version of this Article                    Similar articles found 
+            in:PNAS Online ISI Web of Science PubMed                    PubMed 
+            Citation                    This Article has been cited 
+            by:                   other 
+            online articles                    Search PubMed for articles 
+            by: Baki, 
+            L. || Robakis, 
+            N. K.                    Search for citing articles 
+            in: ISI 
+            Web of Science (33)                    Alert me when: new articles cite this article                   Download to 
+            Citation Manager Cell BiologyPresenilin-1 binds 
+cytoplasmic epithelial cadherin, inhibits cadherin/p120 association, and 
+regulates stability and function of the cadherin/catenin adhesion complex 
+Lia Baki*,dagger, Philippe 
+Marambaud*,dagger, Spiros 
+Efthimiopoulos*, Anastasios Georgakopoulos*, 
+Paul Wen*, Wen Cui*, Junichi 
+Shioi*, Eduard KooDagger, 
+Masayuki Ozawa§, Victor L. Friedrich Jr.¶, and 
+Nikolaos K. Robakis*,|| * Department of Psychiatry and Fishberg Research Center for 
+Neurobiology and ¶ Department of Biochemistry and Molecular 
+Biology, Mount Sinai School of Medicine, New York, NY 10029; Dagger Department of Neuroscience, University of California 
+at San Diego, La Jolla, CA 92093; and § Department of 
+Biochemistry, Faculty of Medicine, Kagoshima University, Kagoshima 
+890-8520, Japan 
+Communicated by Kyriacos C. Nicolaou, Scripps Research Institute, La 
+Jolla, CA, January 4, 2001 (received for review 
+November 13, 2000)                Abstract        Top Abstract Introduction Materials and 
+      Methods Results 
+      Discussion References Here we show that presenilin-1 (PS1), a protein involved in Alzheimer's 
+disease, binds directly to epithelial cadherin (E-cadherin). This 
+binding is mediated by the large cytoplasmic loop of PS1 and requires 
+the membrane-proximal cytoplasmic sequence 604-615 of mature 
+E-cadherin. This sequence is also required for E-cadherin binding of 
+protein p120, a known regulator of cadherin-mediated cell adhesion. 
+Using wild-type and PS1 knockout cells, we found that increasing PS1 
+levels suppresses p120/E-cadherin binding, and increasing p120 levels 
+suppresses PS1/E-cadherin binding. Thus PS1 and p120 bind to and 
+mutually compete for cellular E-cadherin. Furthermore, PS1 stimulates 
+E-cadherin binding to beta- and gamma-catenin, promotes cytoskeletal association of the 
+cadherin/catenin complexes, and increases Ca2+-dependent 
+cell-cell aggregation. Remarkably, PS1 familial Alzheimer disease 
+mutant DeltaE9 
+increased neither the levels of cadherin/catenin complexes nor cell 
+aggregation, suggesting that this familial Alzheimer disease mutation 
+interferes with cadherin-based cell-cell adhesion. These data 
+identify PS1 as an E-cadherin-binding protein and a regulator of 
+E-cadherin function in vivo.                Introduction        Top Abstract Introduction Materials and 
+      Methods Results 
+      Discussion References Presenilin-1 (PS1) mutations are responsible for most cases of early-onset 
+familial Alzheimer's disease (FAD). PS1 is a transmembrane protein 
+expressed in many tissues, including brain, where it is enriched in 
+neurons (1, 2). PS1 crosses the 
+membrane eight times, with the N terminus, the C terminus, and the 
+large hydrophilic loop all located in the cytoplasm. Most cellular 
+PS1 is cleaved within the large cytoplasmic loop to yield N-terminal 
+fragments (PS1/NTF) of approximately 30 kDa and C-terminal 
+fragments (PS1/CTF) of approximately 20 kDa. After cleavage, the 
+PS1 fragments form stable 1:1 heterodimers (3, 4). PS1 facilitates 
+processing of Notch-1 receptor, and amyloid precursor protein (APP) 
+(5, 
+6) 
+stimulates production of Abeta peptide (6) and may 
+play a role in neuroprotection (7, 8). Mice lacking 
+PS1 (PS1-/-) die shortly after birth 
+with skeletal malformations, impaired neurogenesis, and brain 
+hemorrhage (7). 
+Recently, we reported that PS1 concentrates at synaptic and epithelial 
+cell-cell contact sites, where it forms complexes with the 
+cadherin/catenin adhesion system (9). Classic 
+cadherins, including E-cadherin and neuronal cadherin (N-cadherin), 
+are a family of type I transmembrane proteins that mediate 
+Ca2+-dependent cell-cell adhesion and recognition, and control 
+critical events in neurogenesis, tissue development, and tissue 
+homeostasis (10, 11). These 
+functions are mediated by homophilic interactions of the 
+extracellular region of cadherins. The membrane-distal cytoplasmic 
+sequence of cadherins binds either beta-catenin or gamma-catenin (plakoglobin), which in turn binds alpha-catenin. The latter 
+protein binds polymerized actin, thus linking the cadherin/catenin 
+adhesion complex to the cortical cytoskeleton. Cytoskeletal linkage 
+of the cadherin/catenin complexes is crucial for the full 
+expression of the adhesive functions of surface cadherins (12-14). beta-Catenin and 
+gamma-catenin, two 
+highly homologous members of the armadillo family of proteins (for a 
+review see ref. 15), bind the 
+same sequence of cytoplasmic cadherin in a mutually exclusive 
+manner (16, 17). The 
+juxtamembrane (membrane-proximal) region of cytoplasmic cadherins 
+binds p120 (also called p120ctn), a cytosolic protein originally 
+identified as a target for p60v-src kinase and later shown to 
+regulate cadherin-mediated cell-cell adhesion and tumor metastasis 
+(for a review see ref. 18). Although PS1 binds to the cadherin/catenin adhesion complex (9), the mechanism 
+and functional consequences of this association remain obscure. Here 
+we show that PS1 binds directly to juxtamembrane cytoplasmic cadherin 
+and inhibits cadherin binding of p120. Furthermore, PS1 stabilizes 
+the cadherin/catenin complex, promotes its cytoskeletal association, 
+and stimulates Ca2+-dependent cell-cell aggregation. In contrast, PS1 
+FAD mutant DeltaE9 failed to stabilize the cadherin/catenin complex and did 
+not stimulate cell-cell aggregation.                Materials and Methods        Top Abstract Introduction Materials 
+      and Methods Results 
+      Discussion References Antibodies. Rabbit polyclonal antibody R222 specific for 
+PS1/NTF amino acids 2-12 and mouse monoclonal antibody 33B10 specific for 
+PS1/CTF sequence 331-350 were prepared as described (9). 
+Anti-transferrin receptor antibody was from Zymed, and 
+anti-epithelial cadherin (E-cadherin) antibody H108 (rabbit 
+polyclonal) was from Santa Cruz Biotechnology. Other antibodies 
+against E-cadherin, beta-catenin, gamma-catenin, alpha-catenin, and p120 were from 
+Transduction Laboratories (Lexington, KY). Unless otherwise stated, 
+"anti-E-cadherin antibody" refers to anti-cytoplasmic E-cadherin 
+antibody. Cell Cultures, Cell Aggregation, Immunoprecipitations (IPs), 
+and Immunoblotting. Unless otherwise stated, cell cultures were grown in 
+DMEM plus 10% FBS, penicillin, and streptomycin in 5% CO2 at 37°C. 
+Fibroblast cell lines were from wild-type (WT) (PS1 +/+) and PS1 
+knockout (PS1-/-) mice 
+(9), and L cells 
+were from the American Type Culture Collection. Stable transfections 
+of E-cadherin cDNAs cloned into pcDNA3 vector (Invitrogen) were 
+performed as described (2, 9). Transient 
+transfections were performed with Lipofectamine Plus, and cells were 
+processed for IP or cell aggregation 36 h later. Aggregation 
+assays were performed as described (9, 12) in 
+the presence or absence of 2 mM Ca2+. The degree of aggregation 
+and size of aggregates was documented by photography. IPs were 
+performed as described (9) and 
+analyzed on Western blots (WBs). Mouse embryos at day 17 were 
+rinsed in ice-cold PBS and frozen in a dry ice/methanol bath. 
+Genotypes were determined by PCR amplification of tail DNA (7), and frozen 
+PS1+/+ or PS1-/- embryos were homogenized in 
+ice-cold TNE buffer [25 mM Tris·HCl (pH 7.6)/150 mM NaCl/1× complete 
+protease inhibitor mixture/1 mM EDTA] plus 1% Triton X-100. 
+Homogenates were centrifuged at 16,000 × g, and the 
+supernatants were immunoprecipitated and immunoblotted. All 
+experiments were repeated at least three times, except the 
+crosslinking, which was repeated two times. Crosslinking. Confluent cells were rinsed twice with PBS 
+minus Ca2+/Mg2+ and then incubated in the same buffer plus 
+200 µg/ml of dithiobis[succinimidylpropionate] (Pierce) for 
+20 min at room temperature. After that, cells were rinsed as 
+above, incubated 5 min in quenching solution (50 mM glycine 
+in PBS, pH 7.4), and solubilized in RIPA buffer [25 mM Hepes (pH 
+7.4)/1% Nonidet P-40/0.1% SDS/0.5% sodium deoxycholate/complete 
+protease inhibitor mixture (Roche Molecular Biochemicals)]. Preparation of Triton-Insoluble, Urea-Soluble Fractions. 
+Confluent PS1 +/+ or PS1-/- 
+fibroblast cell cultures in 60-mm plates were extracted with 300 µl of TNE 
+buffer plus 1% Triton X-100 and centrifuged at 
+16,000 × g for 30 min, and the Triton 
+X-100-insoluble fraction was solubilized in 100 µl SDS sample 
+buffer plus urea [70 mM Tris·HCl (pH 6.8)/8 M urea/2.5% SDS/0.1 
+M DTT/10% glycerol]. Triton-soluble and insoluble fractions were 
+analyzed on WBs.                Results        Top Abstract Introduction Materials and 
+      Methods Results Discussion 
+      References PS1/E-cadherin Binding Is Independent of Catenins. PS1 is a 
+component of the E-cadherin/beta-catenin adhesion complex (9). Examination of 
+E-cadherin, gamma-catenin, and PS1 IPs prepared from confluent 
+Madin-Darby canine kidney (MDCK) cultures (9) revealed that 
+PS1 is also a component of the E-cadherin/gamma-catenin complex (Fig. 1A). Because 
+PS1 binds beta-catenin 
+(19, 20), we 
+attempted to determine whether PS1 binds E-cadherin independent 
+of catenins. Triton X-100 extracted most of PS1/CTF from a beta-catenin IP 
+but failed to extract any PS1/CTF from an E-cadherin IP, indicating 
+that the PS1/E-cadherin binding might be distinct from the PS1/beta-catenin 
+binding (Fig. 1B, 
+Lower). To further test this hypothesis, we prepared PS1 IPs 
+from L cells transfected with either full-length E-cadherin (EL 
+cells) or with E-cadherin deletion construct EDeltaC71 that lacks the last 
+(membrane-distal) 71 cytoplasmic amino acids that bind beta- and gamma-catenin (EDeltaC71L cells; see Fig. 2A). 
+Untransfected L cells contain no detectable E-cadherin (21), and PS1 IPs 
+from these cells did not react with anti-E-cadherin antibodies 
+(Fig. 2B, lanes 
+1 and 5). In E-cadherin-transfected cells, however, PS1 formed 
+complexes with both full-length and EDeltaC71 cadherins (Fig. 2B, lanes 
+2 and 3 and 6 and 7). Because construct EDeltaC71 lacks the 
+catenin-binding sequence and binds neither beta- nor gamma-catenin (data not shown; 
+see also refs. 14 and 22), our data 
+show that PS1 associates with E-cadherin even when catenins are 
+not bound to E-cadherin. Chemical crosslinking is used to 
+analyze direct protein-protein contacts within protein complexes, 
+including the cadherin/catenin complex (22, 23). PS1 IPs 
+prepared from crosslinked EL or EDeltaC71L cells contained 
+E-cadherin-reactive, SDS-resistant complexes of approximate apparent 
+molecular mass 170 kDa and 160 kDa, respectively (Fig. 2C). The 
+apparent molecular mass of the crosslinked products is in excellent 
+agreement with the predicted molecular mass of a ternary complex 
+containing one molecule each of PS1/CTF, PS1/NTF, and full length or 
+truncated E-cadherin, respectively. These complexes were 
+immunoprecipitated with anti-PS1/NTF antibody R222 and reacted with 
+anti-PS1/CTF antibody 33B10, verifying that they contain both PS1 
+fragments (Fig. 2C). These 
+data show that PS1 binds directly to E-cadherin at a sequence 
+distinct from the catenin-binding site and suggest that the two 
+proteins combine in a 1:1 ratio.                                         View larger version 
+            (35K): [in this 
+            window] [in a new window]            Fig. 1.   (A) 
+            PS1 forms complexes with E-cadherin and gamma-catenin. Extract of 
+            confluent MDCK cells in TNE buffer plus 1% digitonin (9) was 
+            treated with the antibodies indicated at the top of the figure, and 
+            the resulting IPs were probed on WBs with antibodies against the 
+            proteins indicated on the right. For reference, 20 µg of MDCK 
+            cell lysate was also probed. TR, transferrin receptor; PI-R222, 
+            rabbit 222 preimmune serum; I-R222, rabbit 222 antiserum; 
+            33B10, anti-PS1/CTF monoclonal antibody. (B) Triton X-100 
+            effects on PS1/beta-catenin and PS1/E-cadherin complexes. Extracts of 
+            confluent MDCK cells in 1% digitonin were immunoprecipitated with 
+            antibodies against E-cadherin (E-cad) or beta-catenin (beta-cat), and 
+            the resulting IPs were washed in the presence (+) or absence (-) of 1% Triton 
+            X-100 (TX100). The remaining immunocomplexes were collected by 
+            centrifugation and probed on WBs with antibody R222 (PS1/NTF) or 
+            33B10 (PS1/CTF).                                         View larger version 
+            (36K): [in this 
+            window] [in a new window]            Fig. 2.   PS1 binds 
+            E-cadherin independently of beta- or gamma-catenin. Cytoplasmic 
+            residues 604-615 are required for PS1/E-cadherin binding. (A) 
+            Schematic representation of mouse E-cadherin and E-cadherin deletion 
+            constructs EDeltaC71 and EDeltaC71Delta604-615, which is a 
+            derivative of EDeltaC71 and lacks cytoplasmic residues 604-615 (see 
+            text). Constructs were prepared as previously described (25). 
+            (B) PS1 binding to E-cadherin constructs. Extracts (1% 
+            digitonin) from L cells (L, lanes 1, 5, and 9) or L cells 
+            transfected with mouse E-cadherin (EL, lanes 2, 6, and 
+            10), construct EDeltaC71 (EDeltaC71L, lanes 3, 7, and 11), or construct 
+            EDeltaC71Delta604-615 (EDeltaC71Delta604-615L, lanes 
+            4, 8, and 12) were treated with antibody R222 (lanes 5-8) 
+            or anti-p120 antibody (lanes 9-12), and the resulting IPs were 
+            probed on WBs with anti-E-cadherin antibody H108. For reference, 
+            20 µg of cell lysates was probed (lanes 1-4). (C) 
+            Confluent EL or EDeltaC71L cells were incubated either with the 
+            crosslinking agent dithiobis (succinimidylpropionate) (DSP) in DMSO 
+            or with DMSO alone, and cell extracts were then prepared in RIPA 
+            buffer in the presence of SDS to inhibit noncovalent associations. 
+            Lysates were treated with antibody R222 (R222 IP), and the resulting 
+            IPs were probed on WBs with anti-E-cadherin (H108) or anti-PS1/CTF 
+            (33B10) antibodies. Twenty micrograms of cell lysate was probed with 
+            H108 antibody. (D) PS1 construct Delta340-375 does not bind 
+            E-cadherin. HEK293 cells expressing WT PS1 (WT) or a PS1 construct 
+            with amino acid deletion 340-375 (Delta340-375) were lysed in 
+            TNE plus 1% digitonin. Lysates were treated with anti-E-cadherin 
+            antibody (E-cad IP), and the resulting IPs were probed on WBs with 
+            antibody 33B10. Twenty micrograms of cell lysates was also probed. 
+            PS1/CTF Mediates PS1 Binding to Juxtamembrane Cytoplasmic 
+E-cadherin. Triton X-100 treatment of a digitonin E-cadherin IP extracted 
+the PS1/NTF but not the PS1/CTF, which remained associated with 
+E-cadherin (Fig. 1B). This 
+result suggests that PS1 binding to E-cadherin may be mediated by 
+peptide PS1/CTF and is in agreement with recent data that the binding 
+between PS1/NTF and PS1/CTF is sensitive to Triton X-100 extraction 
+(20). Together 
+with the chemical crosslinking data (see above), these results 
+suggest that PS1/CTF, which contains PS1 sequence 299-467 (3), mediates 
+the PS1/E-cadherin binding. In vitro blot overlay assays 
+showed that PS1 sequence 256-410, which includes the entire large 
+cytoplasmic loop, binds to the cytoplasmic sequence of E-cadherin 
+(data not shown). Fig. 2D shows 
+that, whereas full-length PS1/CTF bound E-cadherin in vivo, a 
+PS1/CTF construct lacking sequence 340-375 did not. In contrast, 
+PS1/CTF construct lacking sequence 299-330 bound E-cadherin (data not 
+shown). Combined, these results show that PS1 sequence 340-375 of the 
+large cytoplasmic loop is required for PS1 binding to cytoplasmic 
+E-cadherin. The observation that PS1 binds E-cadherin lacking the last 
+71 cytoplasmic residues, combined with in vitro experiments 
+showing that the PS1 sequence binds cytoplasmic E-cadherin, 
+suggested that PS1 binds within the remaining membrane proximal 
+80 residues of cytoplasmic E-cadherin (Fig. 2A). Because 
+these residues also mediate E-cadherin binding of protein p120, a 
+regulator of cadherin-mediated cell adhesion (21, 24), we asked 
+whether there is an overlap between the E-cadherin sequences that 
+mediate binding of both proteins. Indeed, deletion of E-cadherin 
+cytoplasmic sequence 604-615, which is required for p120 binding to 
+E-cadherin (Fig. 2B, lanes 
+4 and 12; and ref. 21), also 
+abolished E-cadherin-PS1 binding (Fig. 2B, lanes 
+4 and 8), showing that this sequence is critical for E-cadherin 
+binding of both PS1 and p120. 
+PS1 Competes with p120 for E-cadherin Binding in 
+Vivo. That the same E-cadherin sequence is required for binding of both 
+PS1 and p120 suggests that these proteins might compete for 
+E-cadherin binding. Indeed, E-cadherin IPs prepared from PS1-/- mouse embryos contained 
+significantly more p120 than E-cadherin IPs from PS1+/+ embryos (Fig. 
+3A). To 
+further explore this phenomenon, we used fibroblast cells derived 
+from PS1-/- and PS1+/+ mice. Because 
+these cells express undetectable levels of endogenous E-cadherin, we 
+transfected both of them and selected lines expressing similar levels 
+of exogenous human E-cadherin (Fig. 3B). As 
+expected, transfected E-cadherin coimmunoprecipitated with peptide 
+PS1/CTF in PS1+/+ cells but not in PS1-/- cells (Fig. 3C; see also 
+Fig. 5A, 
+Right, for the reverse experiment). E-cadherin IPs prepared 
+from PS1-/- cells contained significantly 
+higher levels of p120 than did E-cadherin IPs from PS1+/+ cells (Fig. 
+3D, 
+Left), even though the two cell lines contain similar levels 
+of cellular p120 (Fig. 3D, Lower 
+Right). In the reverse experiments, p120 IPs from PS1-/- cells contained more E-cadherin 
+than did p120 IPs from PS1+/+ cells (Fig. 3D, Upper 
+Right). Reintroduction of PS1 into PS1-/- cells by transfection reduced the 
+E-cadherin/p120 complex (Fig. 3E Left and 
+Middle) and induced the appearance of the E-cadherin/PS1 
+complex (Fig. 3E Right). 
+These data show that PS1 inhibits p120 binding to E-cadherin. 
+Conversely, overexpression of p120 in EL cells decreased the 
+E-cadherin/PS1 complex while it increased the E-cadherin/p120 complex 
+(Fig. 3F, 
+Lower and Upper, respectively). Thus, p120 is also 
+capable of inhibiting PS1 binding to E-cadherin. In summary, our data 
+show that PS1 binds E-cadherin and promotes the dissociation of the 
+E-cadherin/p120 complex. The reverse is also true; p120 binds 
+E-cadherin and promotes the dissociation of the E-cadherin/PS1 
+complex. Taken together, our results indicate that the two proteins 
+compete for E-cadherin binding in vivo.                                         View larger version 
+            (27K): [in this 
+            window] [in a new window]            Fig. 3.   PS1 
+            inhibits p120 binding to E-cadherin. (A) E-cadherin IPs 
+            (E-cad IP) in TNE plus 1% Triton X-100 from either PS1-/- mouse embryos (-/-) or their PS1+/+ 
+            littermates (+/+) were probed with anti-E-cadherin (E-cad) or 
+            anti-p120 (p120) antibodies. (B) Extracts (1% SDS) of 
+            confluent nontransfected (E-) or E-cadherin-transfected (E+) PS1+/+ (+/+) and 
+            PS1-/- (-/-) mouse fibroblasts were 
+            probed with anti-E-cadherin antibody. (C) Extracts (1% Triton 
+            X-100) of confluent E-cadherin-expressing PS1+/+ (+/+) or PS1-/- (-/-) fibroblasts were 
+            immunoprecipitated with antibody 33B10 (PS1/CTF IP), and the 
+            resulting IPs were probed with anti-E-cadherin (E-cad) antibody. 
+            (D) Extracts (1% Triton X-100) of E-cadherin-transfected PS1 
+            +/+ (+/+) or PS1-/- (-/-) fibroblasts were immunoprecipitated with 
+            anti-E-cadherin (E-cad IP) or anti-p120 (p120 IP) antibodies, and 
+            the resulting IPs were probed with anti-E-cadherin (E-cad) or 
+            anti-p120 (p120) antibodies. (E) E-cadherin-transfected 
+            PS1-/- fibroblasts were 
+            transiently transfected either with vector (VECT) or with WT PS1 
+            (wtPS1), and Triton X-100 extracts were immunoprecipitated with 
+            anti-E-cadherin (E-cad IP), anti-p120 (p120 IP), or anti-PS1/CTF 
+            (PS1/CTF IP) antibodies. The resulting IPs were probed with 
+            anti-E-cadherin (E-cad), anti-p120 (p120), or anti-PS1/CTF 
+            antibodies. FLPS1, full-length PS1. The asterisks indicate IgGs. 
+            (F) Extracts (1% Triton X-100) of untransfected (NT) EL cells 
+            or EL cells transiently transfected with p120 (p120) were treated 
+            with anti-E-cadherin antibodies (E-cad IP), and the resulting IPs 
+            were probed with antibodies against the proteins indicated on the 
+            right. The asterisk indicates IgGs. WT PS1, but Not PS1 DeltaE9 Mutant, Stabilizes the 
+Cadherin/Catenin Complex and Stimulates Ca2+-Dependent Cell-Cell 
+Aggregation. Recent reports suggest that PS1 regulates cell-cell adhesion, 
+but the molecular basis of this regulation remains unknown (9). That 
+PS1 competes with p120 for E-cadherin binding suggests that PS1 may 
+function as an additional regulator of the cadherin-based adhesion 
+system. Indeed, in the presence of Ca2+, E-cadherin-transfected 
+PS1-/- cells aggregated poorly 
+compared with E-cadherin-transfected PS1+/+ cells, suggesting that 
+PS1 stimulates Ca2+-dependent cell-cell aggregation (Fig. 
+4A). 
+Untransfected PS1+/+ cells expressing undetectable levels of 
+E-cadherin showed little aggregation compared with 
+E-cadherin-transfected PS1+/+ cells (Fig. 4A), 
+indicating that aggregation is E-cadherin-mediated. Reintroduction of 
+WT PS1 into PS1-/- cells substantially 
+increased Ca2+-dependent cell-cell aggregation (Fig. 4B). In 
+contrast to WT PS1 that was able to restore cadherin-dependent 
+aggregation, PS1 mutant DeltaE9 was inactive (Fig. 4B).                                         View larger version 
+            (16K): [in this 
+            window] [in a new window]            Fig. 4.   PS1 
+            stimulates Ca2+-dependent cell-cell aggregation. 
+            (A) Nontransfected (-E-cad) PS1 +/+ (+/+) or E-cadherin-transfected 
+            (+E-cad) PS1 +/+ (+/+) and PS1-/- (-/-) fibroblasts were 
+            allowed to aggregate for 4 h in the presence (+Ca2+) 
+            or absence (-Ca2+) of calcium (see Materials and 
+            Methods). (B) E-cadherin-expressing PS1-/- fibroblasts, 
+            transiently transfected with vector (Vector), WT PS1 (wtPS1), or PS1 
+            FAD mutant DeltaE9 (PS1DeltaE9), were assayed for aggregation in the presence or 
+            absence of calcium. (Right) Extracts (1% Triton X-100) from 
+            the transiently transfected cultures shown in B were treated 
+            with antibody 33B10, and the resulting IPs (PS1/CTF IP) were 
+            analyzed for expression of the transfected PS1 proteins. To further explore the possible mechanism by which PS1 stimulates 
+cell-cell adhesion, we determined the PS1 effects on the stability of 
+the cadherin/catenin complexes with the use of E-cadherin-transfected 
+PS1-/- and PS1+/+ fibroblasts expressing 
+similar levels of exogenous E-cadherin (see above). E-cadherin IPs 
+prepared from confluent PS1+/+ cells contained significantly higher 
+levels of gamma-, beta-, and alpha-catenin than 
+E-cadherin IPs from PS1-/- cells 
+(Fig. 5A). 
+In the reverse experiments gamma-, beta-, 
+and alpha-catenin IPs 
+from PS1 +/+ cells contained higher levels of E-cadherin than the 
+corresponding IPs from PS1-/- cells 
+(Fig. 5B). PS1 had 
+a more dramatic effect on the E-cadherin/gamma-catenin association than on the 
+E-cadherin/beta-catenin association (Fig. 5 A and 
+B). Reintroduction of WT PS1 in PS1-/- cells increased the 
+E-cadherin complexes not only with PS1 (Fig. 3E, 
+Right), but also with both beta- and gamma-catenin (Fig. 5 C and 
+D, respectively). Interestingly, in contrast to WT PS1, FAD 
+mutant DeltaE9 failed to stimulate binding of gamma-catenin to E-cadherin (Fig. 
+5D) 
+and was less effective than the WT PS1 in stimulating the 
+E-cadherin/beta-catenin complex (Fig. 5C). 
+Together with the data from the aggregation experiments, these 
+results suggest that WT PS1, but not PS1 mutant DeltaE9, stimulates 
+Ca2+-dependent cell-cell adhesion by stabilizing the 
+cadherin/catenin adhesion complex.                                         View larger version 
+            (32K): [in this 
+            window] [in a new window]            Fig. 5.   PS1 
+            stabilizes the cadherin/catenin complex. (A) Extracts of 
+            confluent E-cadherin-transfected PS1+/+ and PS1-/- fibroblasts in 1% 
+            Triton X-100 were treated with anti-E-cadherin antibody, and the 
+            resulting IPs (E-cad IP, Right), along with total cell lysate 
+            in 1% SDS (Left), were probed on WBs with antibodies against 
+            the proteins indicated at the right of the figure. The asterisk 
+            denotes low-molecular-weight IgGs. (B) Anti-beta-catenin, anti-gamma-catenin, 
+            or anti-alpha-catenin IPs (Top, Middle, and Bottom, 
+            respectively) prepared from E-cadherin-expressing PS1+/+ and PS1-/- fibroblasts were probed 
+            with anti-E-cadherin (E-cad), anti-beta-catenin (beta-cat), 
+            anti-gamma-catenin (gamma-cat), or anti-alpha-catenin 
+            (alpha-cat) 
+            antibodies. (C and D) Extracts (1% Triton X-100) of 
+            E-cadherin-expressing PS1-/- fibroblasts transiently transfected with vector 
+            (VECT), WT PS1 (wtPS1), or PS1 FAD mutant DeltaE9 (PS1DeltaE9) were treated with 
+            anti-E-cadherin (E-cad IP), anti-beta-catenin (beta-cat IP) 
+            (C), or anti-gamma-catenin (gamma-cat IP) (D) 
+            antibodies, and the resulting IPs were probed with antibodies 
+            against the proteins indicated at the right of the figure. E-cad, 
+            E-cadherin; beta-cat, beta-catenin; gamma-cat, gamma-catenin. PS1 Promotes Cytoskeletal Association of the Cadherin/Catenin 
+Complex. Stable cadherin-dependent cell-cell adhesion in intact cells 
+requires linkage of the cadherin/beta- and gamma-catenin complexes to the actin cytoskeleton (12, 13, 23). This linkage 
+is mediated by alpha-catenin (25) and is 
+manifested by an increased insolubility of the cadherin/catenin 
+complex components in Triton X-100 (23). 
+Examination of E-cadherin and alpha-catenin IPs prepared from 
+PS1+/+ and PS1-/- 
+fibroblasts showed that the former cells contained higher levels of 
+the E-cadherin/alpha-catenin complexes than the latter cells (Fig. 5 A and 
+B), suggesting that PS1 may ultimately stimulate the 
+cytoskeletal association of the cadherin/catenin adhesion complexes. 
+Indeed, Fig. 6A shows 
+that in PS1+/+ cells a significantly higher fraction of total gamma-catenin was found in 
+the Triton X-100-insoluble fraction compared with PS1-/- cells, where almost all of the gamma-catenin was 
+found in the Triton X-100-soluble fraction. E-cadherin also showed an 
+increased distribution in the Triton X-100-insoluble fraction in 
+PS1+/+ cells compared with PS1-/- cells, 
+suggesting an increased cytoskeletal association (Fig. 6A). Similar 
+results were obtained for beta-catenin (data not shown). PS1 
+transfection of PS1-/- cells 
+stimulated the cytoskeletal association of E-cadherin, beta-catenin, and gamma-catenin, whereas 
+transfection with the FAD DeltaE9 did not (Fig. 6B), in 
+agreement with the inability of this FAD mutant to stabilize the 
+cadherin/catenin complexes and to stimulate cell-cell adhesion.                                         View larger version 
+            (29K): [in this 
+            window] [in a new window]            Fig. 6.   PS1 
+            promotes cytoskeletal association of the cadherin/catenin complexes. 
+            (A) Confluent cultures of E-cadherin-transfected PS1+/+ or 
+            PS1-/- fibroblasts were 
+            extracted in 1% Triton X-100, and insoluble fractions were 
+            solubilized in urea buffer (see Materials and Methods). Sixty 
+            micrograms of protein of the Triton X-100-soluble fraction or 
+            75 µg of the insoluble fraction was then probed with antibodies 
+            against gamma-catenin (gamma-cat) or E-cadherin 
+            (E-cad). (B) Extracts from E-cadherin-transfected PS1-/- fibroblasts, 
+            transiently transfected with vector (VECT), WT PS1 (wtPS1), or PS1 
+            FAD mutant DeltaE9 (PS1DeltaE9), were prepared and probed as in A, plus 
+            anti-beta-catenin (beta-cat) antibodies.                Discussion        Top Abstract Introduction Materials and 
+      Methods Results 
+      Discussion References Cadherin-based cell-cell adhesion and communication are critical determinants 
+of tissue development, function, and homeostasis (10, 11). The present 
+study shows that PS1 binds directly to E-cadherin. Remarkably, this 
+binding requires mature E-cadherin amino acids 604-615, which are 
+also required for E-cadherin binding of p120, a regulator of 
+cadherin-mediated cell-cell adhesion (21, 24). PS1 displaces 
+p120 from E-cadherin, stabilizes the binding of beta- and gamma-catenins to E-cadherin, increases 
+linkage of the cadherin/catenin complex to the cytoskeleton, and 
+stimulates Ca2+- and cadherin-dependent cell-cell aggregation. These 
+findings show that PS1 regulates the molecular composition and 
+function of the cadherin-based adhesion system and suggest a possible 
+mechanism for PS1-induced stabilization of the cadherin/catenin 
+complex (Fig. 7). PS1/CTF 
+sequence 340-375 binds E-cadherin sequence 604-615 and may tether the 
+membrane-proximal cytoplasmic E-cadherin close to the plasma 
+membrane. At a more distal site on E-cadherin are bound beta- or gamma-catenin (16, 17), which in turn 
+may bind PS1 (19, 20). These 
+interactions could result in the formation of a stable three-member 
+complex, each member of which binds directly to the other two. beta-Catenin or gamma-catenin binds alpha-catenin, which 
+in turn anchors the complexes to the cytoskeleton, consistent 
+with the increased cytoskeletal association of E-cadherin, beta-catenin, and 
+gamma-catenin induced 
+by PS1.                                         View larger version 
+            (49K): [in this 
+            window] [in a new window]            Fig. 7.   Schematic 
+            representation of hypothesized interactions between E-cadherin, beta- or gamma-catenin, 
+            and PS1. beta-Catenin or gamma-catenin binds 
+            E-cadherin at amino acids 677-706. PS1 C-terminal fragment binds 
+            E-cadherin close to the membrane at amino acids 604-615 (required 
+            for PS1/E-cadherin complex formation). For more details see text. 
+            Cadherins are expressed in specific patterns throughout the embryonic and 
+adult life of vertebrates. At least 15 different classic 
+cadherins have been detected in the central nervous system, where 
+they function as guidance molecules in neurite target recognition and 
+synapse formation and regulate synaptic plasticity (10, 11, 26, 27). The cadherin 
+region critical for PS1 binding is conserved in classic cadherins 
+including E-, N-, P- (placental), R- (retinal), and vascular 
+endothelial cadherin (18). This 
+region is crucial for cell adhesion during embryogenesis (28), for 
+N-cadherin-mediated neurite outgrowth (29), cell motility 
+(30), 
+and regulation of N- and vascular endothelial-cadherin expression 
+in endothelial cell junctions (31). Thus PS1 may 
+regulate the function of multiple cadherin systems during development 
+and adult life. That PS1 is important for central nervous system 
+development is suggested by PS1 null mice that die shortly after 
+birth with severe abnormalities of CNS development and impaired 
+vascular integrity (7). Members of the cadherin adhesion complex, including E-cadherin, beta-catenin, and p120, have 
+been identified as important oncogenes (15, 18, 32). That PS1 
+regulates their association suggests that PS1 itself might be 
+involved in cancer development. E-cadherin is the main adhesion 
+molecule of epithelia, and dysfunction of E-cadherin complexes has 
+been implicated in tumorigenesis and metastasis of human epithelial 
+cancer (32). 
+That PS1 promotes cadherin adhesion raises the possibility that loss 
+of PS1 function might decrease cell-cell adhesion and promote cancer 
+development. This model suggests an explanation for the surprising 
+observation that PS1 down-regulation leads to the formation of 
+epidermal tumors in adult mice (33). It is of great interest that in contrast to WT PS1, PS1 FAD mutant DeltaE9 failed to increase 
+cell-cell aggregation and stimulated neither formation of 
+cadherin/catenin complexes nor the cytoskeletal association of 
+cadherin and catenins. This mutant lacks the PS1 cleavage site and is 
+not cleaved intracellularly (3, 4). 
+Thus, the inability of this mutant to stimulate cell-cell adhesion 
+may be due to a lack of functional PS1 fragments. We observed 
+that uncleaved DeltaE9 mutant forms complexes with E-cadherin (S.E. and 
+N.K.R., unpublished observations), suggesting that incorporation of 
+uncleaved PS1 into the cadherin/catenin complex cannot substitute 
+functionally for the PS1 fragments. It remains an interesting 
+question whether the lack of function of mutant DeltaE9 contributes to the 
+development of the FAD phenotype. Recent evidence shows that PS1 forms complexes with APP and Notch-1 receptor 
+and regulates production of Abeta (5, 6). Like 
+E-cadherin, APP and Notch-1 are type I transmembrane proteins, but 
+the mechanism(s) involved in the PS1 binding to APP and Notch-1 
+receptor is still not clear. Our findings on the sequence involved 
+in E-cadherin/PS1 binding suggest a model for PS1 binding to APP 
+and Notch-1 receptors. In addition, cadherin is involved in cell 
+adhesion and signaling, and APP may have similar functions (34, 35). That PS1 
+forms complexes with the APP, Notch-1, and E-cadherin systems 
+suggests that in addition to APP processing, PS1 FAD mutations may 
+target other type I transmembrane protein systems, including Notch-1 
+and cadherins. That PS1 FAD mutants may affect an array of protein 
+systems is in agreement with evidence that Alzheimer's disease is a 
+heterogeneous disorder with multiple systems affected (36, 37).                AcknowledgementsWe thank Drs. Tonegawa and Potter for PS1+/- Tg mice, Dr. P. Saftig for 
+PS1-/- and PS1+/+ fibroblasts, and Dr. 
+Gottardi for human E-cadherin cDNA. This work was supported by 
+National Institute on Aging Grants AG-17926, AG-08200, and AG-05138, 
+and the Alzheimer's Association.                AbbreviationsPS1, presenilin-1; PS1/NTF, PS1 N-terminal fragment; PS1/CTF, PS1 C-terminal 
+fragment; APP, amyloid precursor protein; E-cadherin, epithelial cadherin; 
+N-cadherin, neuronal cadherin; FAD, familial Alzheimer's disease; IPs, 
+immunoprecipitations; WBs, Western blots; WT, wild type. 
+               Footnotesdagger 
+L.B. and P.M. contributed equally to this work. 
+|| To 
+whom reprint requests should be addressed at: Department of Psychiatry and 
+Fishberg Research Center for Neurobiology, Mount Sinai School of 
+Medicine, Box 1229, One Gustave Levy Place, New York, NY 
+10029. E-mail: nikos.robakis@mssm.edu. 
+               References        Top Abstract Introduction Materials and 
+      Methods Results 
+      Discussion References         1. 
+    Sherrington, R. , Rogaev, E. I. , Liang, Y. , Rogaeva, E. 
+      A. , Levesque, G. , Ikeda, M. , Chi, H. , Lin, C. , Li, G. , Holman, K. , 
+      et al. (1995) Nature (London) 375, 754-760[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          2. 
+    Elder, G. A. , Tezapsidis, N. , Carter, J. , Shioi, J. , 
+      Bouras, C. , Li, H. C. , Johnston, J. M. , Efthimiopoulos, S. , Friedrich, 
+      V. L., Jr. & Robakis, N. K. (1996) J. Neurosci. Res. 45, 
+      308-320[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          3. 
+    Podlisny, M. B. , Citron, M. , Amarante, P. , Sherrington, 
+      R. , Xia, W. , Zhang, J. , Diehl, T. , Levesque, G. , Fraser, P. , Haass, 
+      C. , et al. (1997) Neurobiol. Dis. 3, 325-337[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          4. 
+    Thinakaran, G. , Borchelt, D. R. , Lee, M. K. , Slunt, H. 
+      H. , Spitzer, L. , Kim, G. , Ratovitsky, T. , Davenport, F. , Nordstedt, 
+      C. , Seeger, M. , et al. (1996) Neuron 17, 181-190[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          5. 
+    De Strooper, B. , Annaert, W. , Cupers, P. , Saftig, P. , 
+      Craessaerts, K. , Mumm, J. S. , Schroeter, E. H. , Schrijvers, V. , Wolfe, 
+      M. S. , Ray, W. J. , et al. (1999) Nature (London) 
+      398, 518-522[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          6. 
+    De-Strooper, B. , Saftig, P. , Craessaerts, K. , 
+      Vanderstichele, H. , Guhde, G. , Annaert, W. , Von Figura, K. & Van 
+      Leuven, F. (1998) Nature (London) 391, 387-390[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          7. 
+    Shen, J. , Bronson, R. T. , Chen, D. F. , Xia, W. , Selkoe, 
+      D. J. & Tonegawa, S. (1997) Cell 89, 629-639[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          8. 
+    Giannakopoulos, P. , Bouras, C. , Kovari, E. , Shioi, J. , 
+      Tezapsidis, N. , Hof, P. R. & Robakis, N. K. (1997) Am. 
+      J. Pathol. 150, 
+      429-436[Abstract]. 
+          9. 
+    Georgakopoulos, A. , Marambaud, P. , Efthimiopoulos, S. , 
+      Shioi, J. , Cui, W. , Li, H. C. , Schutte, M. , Gordon, R. , Holstein, G. 
+      R. , Martinelli, G. , et al. (1999) Mol. Cell 4, 
+      893-902[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          10. 
+    Gumbiner, B. M. (2000) J. Cell Biol. 148, 
+      399-404[Abstract/Free Full Text]. 
+      11. 
+    Yagi, T. & Takeichi, M. (2000) Genes Dev. 
+      14, 1169-1180[Free Full Text]. 
+      12. 
+    Nagafuchi, A. & Takeichi, M. (1988) EMBO J. 
+      7, 3679-3684[Abstract]. 
+          13. 
+    Nagafuchi, A. & Takeichi, M. (1989) Cell Regul. 
+      1, 37-44[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          14. 
+    Ozawa, M. , Baribault, H. & Kemler, R. (1989) EMBO 
+      J. 8, 1711-1717[Abstract]. 
+          15. 
+    Ben-Ze'ev, A. & Geiger, B. (1998) Curr. Opin. Cell 
+      Biol. 10, 629-639[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          16. 
+    Aberle, H. , Butz, S. , Stappert, J. , Weissig, H. , 
+      Kemler, R. & Hoschuetzky, H. (1994) J. Cell Sci. 107, 
+      3655-3663[Abstract/Free Full Text]. 
+      17. 
+    Jou, T. S. , Stewart, D. B. , Stappert, J. , Nelson, W. J. 
+      & Marrs, J. A. (1995) Proc. Natl. Acad. Sci. USA 92, 
+      5067-5071[Abstract]. 
+          18. 
+    Anastasiadis, P. Z. & Reynolds, A. B. (2000) J. Cell 
+      Sci. 113, 1319-1334[Abstract/Free Full Text]. 
+      19. 
+    Murayama, M. , Tanaka, S. , Palacino, J. , Murayama, O. , 
+      Honda, T. , Sun, X. , Yasutake, K. , Nihonmatsu, N. , Wolozin, B. & 
+      Takashima, A. (1998) FEBS Lett. 433, 73-77[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          20. 
+    Levesque, G. , Yu, G. , Nishimura, M. , Zhang, D. M. , 
+      Levesque, L. , Yu, H. , Xu, D. , Liang, Y. , Rogaeva, E. , Ikeda, M. , 
+      et al. (1999) J. Neurochem. 72, 999-1008[Abstract/Free Full Text]. 
+      21. 
+    Ohkubo, T. & Ozawa, M. (1999) J. Biol. Chem. 
+      274, 21409-21415[Abstract/Free Full Text]. 
+      22. 
+    Ozawa, M. & Kemler, R. (1998) J. Cell Biol. 
+      142, 1605-1613[Abstract/Free Full Text]. 
+      23. 
+    Nathke, I. S. , Hinck, L. , Swedlow, J. R. , Papkoff, J. 
+      & Nelson, W. J. (1994) J. Cell Biol. 125, 1341-1352[Abstract]. 
+          24. 
+    Thoreson, M. A. , Anastasiadis, P. Z. , Daniel, J. M. , 
+      Ireton, R. C. , Wheelock, M. J. , Johnson, K. R. , Hummingbird, D. K. 
+      & Reynolds, A. B. (2000) J. Cell Biol. 148, 189-202[Abstract/Free Full Text]. 
+      25. 
+    Rimm, D. L. , Koslov, E. R. , Kebriaei, P. , Cianci, C. D. 
+      & Morrow, J. S. (1995) Proc. Natl. Acad. Sci. USA 92, 
+      8813-8817[Abstract]. 
+          26. 
+    Tanaka, H. , Shan, W. , Phillips, G. R. , Arndt, K. , 
+      Bozdagi, O. , Shapiro, L. , Huntley, G. W. , Benson, D. L. & Colman, 
+      D. R. (2000) Neuron 25, 93-107[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          27. 
+    Tang, L. , Hung, C. P. & Schuman, E. M. (1998) 
+      Neuron 20, 1165-1175[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          28. 
+    Kintner, C. (1992) Cell 69, 225-236[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          29. 
+    Riehl, R. , Johnson, K. , Bradley, R. , Grunwald, G. B. , 
+      Cornel, E. , Lilienbaum, A. & Holt, C. E. (1996) Neuron 
+      17, 837-848[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          30. 
+    Chen, H. , Paradies, N. E. , Fedor-Chaiken, M. & 
+      Brackenbury, R. (1997) J. Cell Sci. 110, 345-356[Abstract/Free Full Text]. 
+      31. 
+    Navarro, P. , Ruco, L. & Dejana, E. (1998) J. Cell 
+      Biol. 140, 1475-1484[Abstract/Free Full Text]. 
+      32. 
+    Perl, A. K. , Wilgenbus, P. , Dahl, U. , Semb, H. & 
+      Christofori, G. (1998) Nature (London) 392, 190-193[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+          33. 
+    Zheng, X.-F. , Xia, Y. & Wu, X. (2000) Neurobiol. 
+      Aging 21, S133.       34. 
+    Williamson, T. G. , Mok, S. S. , Henry, A. , Cappai, R. , 
+      Lander, A. D. , Nurcombe, V. , Beyreuther, K. , Masters, C. L. & 
+      Small, D. H. (1996) J. Biol. Chem. 271, 31215-31221[Abstract/Free Full Text]. 
+      35. 
+    Wu, A. , Pangalos, M. N. , Efthimiopoulos, S. , Shioi, J. 
+      & Robakis, N. K. (1997) J. Neurosci. 17, 4987-4993[Abstract/Free Full Text]. 
+      36. 
+    Mesulam, M. M. (1999) Neuron 24, 521-529[ISI][Medline] 
+      [Order article via Infotrieve]. 
+          37. 
+    Neve, R. L. & Robakis, N. K. (1998) Trends 
+      Neurosci. 21, 15-19[CrossRef][ISI][Medline] 
+      [Order article via Infotrieve]. 
+    www.pnas.org/cgi/doi/10.1073/pnas.041603398 This article has been cited by other 
+articles: 
+                Home page        J NeurochemHome pageS. N. Sarkar and H. K. 
+      DasRegulatory roles of presenilin-1 and nicastrin in neuronal 
+      differentiation during in vitro neurogenesisJ. Neurochem., 
+      October 15, 2003; 87(2): 333 - 343. [Abstract] 
+      [Full 
+      Text] [PDF]                                      Home page        J. Neurosci.Home pageO. Berezovska, P. Ramdya, J. Skoch, 
+      M. S. Wolfe, B. J. Bacskai, and B. T. HymanAmyloid Precursor 
+      Protein Associates with a Nicastrin-Dependent Docking Site on the 
+      Presenilin 1-{gamma}-Secretase Complex in Cells Demonstrated by 
+      Fluorescence Lifetime ImagingJ. Neurosci., 
+      June 1, 2003; 23(11): 4560 - 4566. [Abstract] 
+      [Full 
+      Text] [PDF]                                      Home page        J. Biol. Chem.Home pageM. Goodwin, E. M. Kovacs, M. A. 
+      Thoreson, A. B. Reynolds, and A. S. YapMinimal Mutation of the 
+      Cytoplasmic Tail Inhibits the Ability of E-cadherin to Activate Rac but 
+      Not Phosphatidylinositol 3-Kinase: DIRECT EVIDENCE OF A ROLE FOR 
+      CADHERIN-ACTIVATED Rac SIGNALING IN ADHESION AND CONTACT 
+      FORMATIONJ. Biol. Chem., June 6, 2003; 278(23): 
+      20533 - 20539. [Abstract] 
+      [Full Text] 
+      [PDF]                                      Home page        Science's STKEHome pageT. E. Golde and C. B. 
+      EckmanPhysiologic and Pathologic Events Mediated by 
+      Intramembranous and Juxtamembranous ProteolysisScience's 
+      STKE, March 4, 2003; 2003(172): re4 - 4. [Abstract] 
+      [Full 
+      Text] [PDF] 
+       
+                                        Home page        J. Cell Biol.Home pageS. H. Myster, R. Cavallo, C. T. 
+      Anderson, D. T. Fox, and M. PeiferDrosophila p120catenin plays 
+      a supporting role in cell adhesion but is not an essential adherens 
+      junction componentJ. Cell Biol., February 3, 2003; 
+      160(3): 433 - 449. [Abstract] [Full Text] [PDF]                                      Home page        J. Biol. Chem.Home pageD. Y. Kim, L. A. M. Ingano, and D. M. 
+      KovacsNectin-1alpha , an Immunoglobulin-like Receptor Involved 
+      in the Formation of Synapses, Is a Substrate for Presenilin/gamma 
+      -Secretase-like CleavageJ. Biol. Chem., 
+      December 20, 2002; 277(51): 49976 - 49981. [Abstract] 
+      [Full Text] 
+      [PDF]                                      Home page        J. Cell Biol.Home pageR. C. Ireton, M. A. Davis, J. van 
+      Hengel, D. J. Mariner, K. Barnes, M. A. Thoreson, P. Z. Anastasiadis, L. 
+      Matrisian, L. M. Bundy, L. Sealy, B. Gilbert, F. van Roy, and A. B. 
+      ReynoldsA novel role for p120 catenin in E-cadherin 
+      functionJ. Cell Biol., November 7, 2002; 159(3): 
+      465 - 476. [Abstract] [Full Text] [PDF]                                      Home page        ScienceHome pageM. N. Arbeitman, E. E. M. Furlong, F. Imam, E. Johnson, B. H. 
+      Null, B. S. Baker, M. A. Krasnow, M. P. Scott, R. W. Davis, and K. P. 
+      WhiteGene Expression During the Life Cycle of Drosophila 
+      melanogasterScience, September 27, 2002; 297(5590): 
+      2270 - 2275. [Abstract] 
+      [Full 
+      Text] [PDF] 
+       
+                                        Home page        J. Biol. Chem.Home pageA. Cedazo-Minguez, B. O. Popescu, M. 
+      Ankarcrona, T. Nishimura, and R. F. CowburnThe Presenilin 1 
+      Delta E9 Mutation Gives Enhanced Basal Phospholipase C Activity and a 
+      Resultant Increase in Intracellular Calcium ConcentrationsJ. 
+      Biol. Chem., September 27, 2002; 277(39): 36646 - 36655. [Abstract] 
+      [Full Text] 
+      [PDF]                                      Home page        Pharmacological ReviewsHome pageY.-H. Suh and F. 
+      CheclerAmyloid Precursor Protein, Presenilins, and alpha 
+      -Synuclein: Molecular Pathogenesis and Pharmacological Applications in 
+      Alzheimer's DiseasePharmacol. Rev., 
+      September 1, 2002; 54(3): 469 - 525. [Abstract] 
+      [Full 
+      Text] [PDF] 
+       
+                                        Home page        J. Biol. Chem.Home pageA. L. Nielsen, I. E. Holm, M. 
+      Johansen, B. Bonven, P. Jorgensen, and A. L. JorgensenA New 
+      Splice Variant of Glial Fibrillary Acidic Protein, GFAPepsilon , Interacts 
+      with the Presenilin ProteinsJ. Biol. Chem., 
+      August 16, 2002; 277(33): 29983 - 29991. [Abstract] 
+      [Full T

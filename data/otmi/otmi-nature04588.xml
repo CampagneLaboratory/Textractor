@@ -1,0 +1,1066 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>An excitable gene regulatory circuit induces transient cellular differentiation</title>
+      <id>info:doi/10.1038/nature04588</id>
+      <link href='http://dx.doi.org/10.1038/nature04588' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Gürol M. Süel</name>
+      </author>
+      <author>
+        <name>Jordi Garcia-Ojalvo</name>
+      </author>
+      <author>
+        <name>Louisa M. Liberman</name>
+      </author>
+      <author>
+        <name>Michael B. Elowitz</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>545</prism:startingPage>
+      <prism:endingPage>550</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Certain types of cellular differentiation are probabilistic and transient . In such systems individual cells can switch to an alternative state and, after some time, switch back again. In Bacillus subtilis, competence is an example of such a transiently differentiated state associated with the capability for DNA uptake from the environment. Individual genes and proteins underlying differentiation into the competent state have been identified , but it has been unclear how these genes interact dynamically in individual cells to control both spontaneous entry into competence and return to vegetative growth. Here we show that this behaviour can be understood in terms of excitability in the underlying genetic circuit. Using quantitative fluorescence time-lapse microscopy, we directly observed the activities of multiple circuit components simultaneously in individual cells, and analysed the resulting data in terms of a mathematical model. We find that an excitable core module containing positive and negative feedback loops can explain both entry into, and exit from, the competent state. We further tested this model by analysing initiation in sister cells, and by re-engineering the gene circuit to specifically block exit. Excitable dynamics driven by noise naturally generate stochastic and transient responses , thereby providing an ideal mechanism for competence regulation.</otmi:rawtext>
+            <otmi:reducedtext>Certain types cellular differentiation probabilistic transient . such systems individual cells can switch alternative state , after some time, switch back again. Bacillus subtilis, competence example such transiently differentiated state associated capability DNA uptake environment. Individual genes proteins underlying differentiation into competent state have been identified , but has been unclear how these genes interact dynamically individual cells control both spontaneous entry into competence return vegetative growth. Here show behaviour can understood terms excitability underlying genetic circuit. Using quantitative fluorescence time-lapse microscopy, directly observed activities multiple circuit components simultaneously individual cells, analysed resulting data terms mathematical model. find excitable core module containing positive negative feedback loops can explain both entry into, exit , competent state. further tested model analysing initiation sister cells, re-engineering gene circuit specifically block exit. Excitable dynamics driven noise naturally generate stochastic transient responses , thereby providing ideal mechanism competence regulation.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>state</otmi:vector>
+              <otmi:vector count='4'>cells</otmi:vector>
+              <otmi:vector count='3'>competence</otmi:vector>
+              <otmi:vector count='3'>can</otmi:vector>
+              <otmi:vector count='3'>circuit</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>individual</otmi:vector>
+              <otmi:vector count='2'>model</otmi:vector>
+              <otmi:vector count='2'>competent</otmi:vector>
+              <otmi:vector count='2'>genes</otmi:vector>
+              <otmi:vector count='2'>differentiation</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>exit</otmi:vector>
+              <otmi:vector count='2'>terms</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>entry</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>switch</otmi:vector>
+              <otmi:vector count='2'>transient</otmi:vector>
+              <otmi:vector count='2'>underlying</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>microscopy</otmi:vector>
+              <otmi:vector count='1'>transiently</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>feedback</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>probabilistic</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>subtilis</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>Excitable</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>excitable</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>mathematical</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>capability</otmi:vector>
+              <otmi:vector count='1'>resulting</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>initiation</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>driven</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>gene</otmi:vector>
+              <otmi:vector count='1'>analysing</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>Individual</otmi:vector>
+              <otmi:vector count='1'>responses</otmi:vector>
+              <otmi:vector count='1'>naturally</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>simultaneously</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>sister</otmi:vector>
+              <otmi:vector count='1'>ideal</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>Bacillus</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>uptake</otmi:vector>
+              <otmi:vector count='1'>regulation.</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>noise</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>Certain</otmi:vector>
+              <otmi:vector count='1'>stochastic</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>module</otmi:vector>
+              <otmi:vector count='1'>return</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>differentiated</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>re-engineering</otmi:vector>
+              <otmi:vector count='1'>vegetative</otmi:vector>
+              <otmi:vector count='1'>dynamically</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>loops</otmi:vector>
+              <otmi:vector count='1'>excitability</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>fluorescence</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>DNA</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>spontaneous</otmi:vector>
+              <otmi:vector count='1'>time-lapse</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Certain types of cellular differentiation are probabilistic and transient </otmi:snippet>
+              <otmi:snippet>Excitable dynamics driven by noise naturally generate stochastic and transient responses , thereby providing an ideal mechanism for competence regulation.</otmi:snippet>
+              <otmi:snippet>Here we show that this behaviour can be understood in terms of excitability in the underlying genetic circuit</otmi:snippet>
+              <otmi:snippet>In Bacillus subtilis, competence is an example of such a transiently differentiated state associated with the capability for DNA uptake from the environment</otmi:snippet>
+              <otmi:snippet>In such systems individual cells can switch to an alternative state and, after some time, switch back again</otmi:snippet>
+              <otmi:snippet>Individual genes and proteins underlying differentiation into the competent state have been identified , but it has been unclear how these genes interact dynamically in individual cells to control both spontaneous entry into competence and return to vegetative growth</otmi:snippet>
+              <otmi:snippet>Using quantitative fluorescence time-lapse microscopy, we directly observed the activities of multiple circuit components simultaneously in individual cells, and analysed the resulting data in terms of a mathematical model</otmi:snippet>
+              <otmi:snippet>We find that an excitable core module containing positive and negative feedback loops can explain both entry into, and exit from, the competent state</otmi:snippet>
+              <otmi:snippet>We further tested this model by analysing initiation in sister cells, and by re-engineering the gene circuit to specifically block exit</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>microscopy</otmi:vector>
+              <otmi:vector count='4'>using</otmi:vector>
+              <otmi:vector count='4'>software</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>37</otmi:vector>
+              <otmi:vector count='3'>C</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>Time-lapse</otmi:vector>
+              <otmi:vector count='2'>analysed</otmi:vector>
+              <otmi:vector count='2'>subtilis</otmi:vector>
+              <otmi:vector count='2'>B</otmi:vector>
+              <otmi:vector count='2'>strain</otmi:vector>
+              <otmi:vector count='2'>RM</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>microscope</otmi:vector>
+              <otmi:vector count='2'>1.5</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>IX-81</otmi:vector>
+              <otmi:vector count='1'>Data</otmi:vector>
+              <otmi:vector count='1'>inverted</otmi:vector>
+              <otmi:vector count='1'>written</otmi:vector>
+              <otmi:vector count='1'>vectors</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>onto</otmi:vector>
+              <otmi:vector count='1'>Visual</otmi:vector>
+              <otmi:vector count='1'>1.8</otmi:vector>
+              <otmi:vector count='1'>microcolonies</otmi:vector>
+              <otmi:vector count='1'>PY79</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>packages</otmi:vector>
+              <otmi:vector count='1'>Custom</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>pSac-Cm</otmi:vector>
+              <otmi:vector count='1'>R</otmi:vector>
+              <otmi:vector count='1'>custom</otmi:vector>
+              <otmi:vector count='1'>integration</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>stage</otmi:vector>
+              <otmi:vector count='1'>camera</otmi:vector>
+              <otmi:vector count='1'>ASI</otmi:vector>
+              <otmi:vector count='1'>Luria</otmi:vector>
+              <otmi:vector count='1'>Olympus</otmi:vector>
+              <otmi:vector count='1'>Model</otmi:vector>
+              <otmi:vector count='1'>Basic</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>Mathematical</otmi:vector>
+              <otmi:vector count='1'>imaging</otmi:vector>
+              <otmi:vector count='1'>Strain</otmi:vector>
+              <otmi:vector count='1'>Preparation</otmi:vector>
+              <otmi:vector count='1'>simulated</otmi:vector>
+              <otmi:vector count='1'>motorized</otmi:vector>
+              <otmi:vector count='1'>yfp</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>time-lapse</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>pad</otmi:vector>
+              <otmi:vector count='1'>fluorescence</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>automate</otmi:vector>
+              <otmi:vector count='1'>coverslip-bottom</otmi:vector>
+              <otmi:vector count='1'>incubation</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>cfp</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>custom-made</otmi:vector>
+              <otmi:vector count='1'>Matlab</otmi:vector>
+              <otmi:vector count='1'>resuspension</otmi:vector>
+              <otmi:vector count='1'>Promoter</otmi:vector>
+              <otmi:vector count='1'>density</otmi:vector>
+              <otmi:vector count='1'>glucose</otmi:vector>
+              <otmi:vector count='1'>supplemented</otmi:vector>
+              <otmi:vector count='1'>AUTO</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>image</otmi:vector>
+              <otmi:vector count='1'>0.5</otmi:vector>
+              <otmi:vector count='1'>DDE-BIFTOOL.</otmi:vector>
+              <otmi:vector count='1'>Hamamatsu</otmi:vector>
+              <otmi:vector count='1'>pPyr-Cm</otmi:vector>
+              <otmi:vector count='1'>continuation</otmi:vector>
+              <otmi:vector count='1'>analytic</otmi:vector>
+              <otmi:vector count='1'>broth</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>construction</otmi:vector>
+              <otmi:vector count='1'>agarose</otmi:vector>
+              <otmi:vector count='1'>re-suspended</otmi:vector>
+              <otmi:vector count='1'>0.02</otmi:vector>
+              <otmi:vector count='1'>fusion</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>J</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>acquisition</otmi:vector>
+              <otmi:vector count='1'>grown</otmi:vector>
+              <otmi:vector count='1'>Growth</otmi:vector>
+              <otmi:vector count='1'>gift</otmi:vector>
+              <otmi:vector count='1'>Supplementary</otmi:vector>
+              <otmi:vector count='1'>Willco</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>dish</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>polymerase</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>cloned</otmi:vector>
+              <otmi:vector count='1'>placed</otmi:vector>
+              <otmi:vector count='1'>Middleton</otmi:vector>
+              <otmi:vector count='1'>ORCA-ER</otmi:vector>
+              <otmi:vector count='1'>min</otmi:vector>
+              <otmi:vector count='1'>optical</otmi:vector>
+              <otmi:vector count='1'>Image</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>Dworkin</otmi:vector>
+              <otmi:vector count='1'>acquired</otmi:vector>
+              <otmi:vector count='1'>fusions</otmi:vector>
+              <otmi:vector count='1'>pDL30</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>After 1.5 h incubation at 37 °C, cells were applied onto a 1.5% agarose pad made with RM and placed into a coverslip-bottom Willco dish for imaging</otmi:snippet>
+              <otmi:snippet>Custom Visual Basic software was used to automate image acquisition and microscope control</otmi:snippet>
+              <otmi:snippet>Data analysis Time-lapse microscopy data were analysed with custom software written in Matlab</otmi:snippet>
+              <otmi:snippet>Dworkin), pPyr-Cm and pSac-Cm (constructed by R</otmi:snippet>
+              <otmi:snippet>Image sets were acquired every 20 min with a Hamamatsu ORCA-ER camera </otmi:snippet>
+              <otmi:snippet>Methods For detailed information on all methods, see Supplementary Information Strain construction Promoter– yfp / cfp fusions were generated using fusion polymerase chain reaction techniques and cloned into B. subtilis integration vectors pDL30 (gift from J</otmi:snippet>
+              <otmi:snippet>Middleton)</otmi:snippet>
+              <otmi:snippet>Model analysis Mathematical models were simulated using custom-made software and further analysed using the analytic continuation software packages AUTO and DDE-BIFTOOL.</otmi:snippet>
+              <otmi:snippet>Preparation of cells for microscopy Cells were grown at 37 °C in Luria broth to an optical density of 1.8 and re-suspended in 0.5 volume of resuspension medium (RM) supplemented with 0.02% glucose</otmi:snippet>
+              <otmi:snippet>The strain background was B. subtilis strain PY79</otmi:snippet>
+              <otmi:snippet>Time-lapse microscopy Growth of microcolonies was observed with fluorescence time-lapse microscopy at 37 °C using an Olympus IX-81 inverted microscope with a motorized stage ( ASI )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='37'>competence</otmi:vector>
+              <otmi:vector count='30'>P</otmi:vector>
+              <otmi:vector count='23'>cells</otmi:vector>
+              <otmi:vector count='21'>ComK</otmi:vector>
+              <otmi:vector count='20'>Fig</otmi:vector>
+              <otmi:vector count='18'>competent</otmi:vector>
+              <otmi:vector count='15'>comG</otmi:vector>
+              <otmi:vector count='14'>cell</otmi:vector>
+              <otmi:vector count='14'>comS</otmi:vector>
+              <otmi:vector count='12'>events</otmi:vector>
+              <otmi:vector count='11'>circuit</otmi:vector>
+              <otmi:vector count='11'>negative</otmi:vector>
+              <otmi:vector count='11'>feedback</otmi:vector>
+              <otmi:vector count='10'>Supplementary</otmi:vector>
+              <otmi:vector count='10'>comK</otmi:vector>
+              <otmi:vector count='10'>ComS</otmi:vector>
+              <otmi:vector count='10'>model</otmi:vector>
+              <otmi:vector count='9'>expression</otmi:vector>
+              <otmi:vector count='9'>not</otmi:vector>
+              <otmi:vector count='8'>FeBy</otmi:vector>
+              <otmi:vector count='8'>n</otmi:vector>
+              <otmi:vector count='7'>exit</otmi:vector>
+              <otmi:vector count='7'>become</otmi:vector>
+              <otmi:vector count='7'>during</otmi:vector>
+              <otmi:vector count='7'>MeKS</otmi:vector>
+              <otmi:vector count='7'>into</otmi:vector>
+              <otmi:vector count='7'>which</otmi:vector>
+              <otmi:vector count='7'>positive</otmi:vector>
+              <otmi:vector count='7'>state</otmi:vector>
+              <otmi:vector count='6'>system</otmi:vector>
+              <otmi:vector count='6'>its</otmi:vector>
+              <otmi:vector count='6'>between</otmi:vector>
+              <otmi:vector count='6'>frequency</otmi:vector>
+              <otmi:vector count='6'>activities</otmi:vector>
+              <otmi:vector count='6'>can</otmi:vector>
+              <otmi:vector count='6'>B</otmi:vector>
+              <otmi:vector count='6'>also</otmi:vector>
+              <otmi:vector count='6'>subtilis</otmi:vector>
+              <otmi:vector count='6'>levels</otmi:vector>
+              <otmi:vector count='6'>all</otmi:vector>
+              <otmi:vector count='6'>strain</otmi:vector>
+              <otmi:vector count='5'>transient</otmi:vector>
+              <otmi:vector count='5'>complex</otmi:vector>
+              <otmi:vector count='5'>module</otmi:vector>
+              <otmi:vector count='5'>dynamics</otmi:vector>
+              <otmi:vector count='5'>shown</otmi:vector>
+              <otmi:vector count='5'>vegetative</otmi:vector>
+              <otmi:vector count='5'>single</otmi:vector>
+              <otmi:vector count='5'>degradation</otmi:vector>
+              <otmi:vector count='5'>two</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>transcriptional</otmi:vector>
+              <otmi:vector count='5'>loop</otmi:vector>
+              <otmi:vector count='5'>correlation</otmi:vector>
+              <otmi:vector count='4'>one</otmi:vector>
+              <otmi:vector count='4'>entry</otmi:vector>
+              <otmi:vector count='4'>wild-type</otmi:vector>
+              <otmi:vector count='4'>significantly</otmi:vector>
+              <otmi:vector count='4'>time</otmi:vector>
+              <otmi:vector count='4'>noise</otmi:vector>
+              <otmi:vector count='4'>sister</otmi:vector>
+              <otmi:vector count='4'>excitable</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='4'>activity</otmi:vector>
+              <otmi:vector count='4'>within</otmi:vector>
+              <otmi:vector count='4'>MecA</otmi:vector>
+              <otmi:vector count='4'>behaviour</otmi:vector>
+              <otmi:vector count='4'>stochastic</otmi:vector>
+              <otmi:vector count='4'>out</otmi:vector>
+              <otmi:vector count='4'>interactions</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='4'>different</otmi:vector>
+              <otmi:vector count='4'>inputs</otmi:vector>
+              <otmi:vector count='3'>known</otmi:vector>
+              <otmi:vector count='3'>show</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>phase</otmi:vector>
+              <otmi:vector count='3'>Information</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='3'>under</otmi:vector>
+              <otmi:vector count='3'>genes</otmi:vector>
+              <otmi:vector count='3'>eventually</otmi:vector>
+              <otmi:vector count='3'>return</otmi:vector>
+              <otmi:vector count='3'>important</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>test</otmi:vector>
+              <otmi:vector count='3'>initiation</otmi:vector>
+              <otmi:vector count='3'>induction</otmi:vector>
+              <otmi:vector count='3'>observed</otmi:vector>
+              <otmi:vector count='3'>Movie</otmi:vector>
+              <otmi:vector count='3'>same</otmi:vector>
+              <otmi:vector count='3'>process</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>network</otmi:vector>
+              <otmi:vector count='3'>S1</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='3'>promoter</otmi:vector>
+              <otmi:vector count='3'>way</otmi:vector>
+              <otmi:vector count='3'>systems</otmi:vector>
+              <otmi:vector count='3'>promoters</otmi:vector>
+              <otmi:vector count='3'>expressing</otmi:vector>
+              <otmi:vector count='3'>prediction</otmi:vector>
+              <otmi:vector count='3'>their</otmi:vector>
+              <otmi:vector count='3'>1b</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>excitability</otmi:vector>
+              <otmi:vector count='3'>necessary</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>intact</otmi:vector>
+              <otmi:vector count='2'>microscopy</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>consistent</otmi:vector>
+              <otmi:vector count='2'>cycle</otmi:vector>
+              <otmi:vector count='2'>microcolony</otmi:vector>
+              <otmi:vector count='2'>shuts</otmi:vector>
+              <otmi:vector count='2'>limitation</otmi:vector>
+              <otmi:vector count='2'>however</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>containing</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>division</otmi:vector>
+              <otmi:vector count='2'>intracellular</otmi:vector>
+              <otmi:vector count='2'>yfp</otmi:vector>
+              <otmi:vector count='2'>regulation</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>structure</otmi:vector>
+              <otmi:vector count='2'>suggested</otmi:vector>
+              <otmi:vector count='2'>ComS-mediated</otmi:vector>
+              <otmi:vector count='2'>activates</otmi:vector>
+              <otmi:vector count='2'>Box</otmi:vector>
+              <otmi:vector count='2'>cfp</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>fluorescence</otmi:vector>
+              <otmi:vector count='2'>loops</otmi:vector>
+              <otmi:vector count='2'>0.7</otmi:vector>
+              <otmi:vector count='2'>nutrient</otmi:vector>
+              <otmi:vector count='2'>favours</otmi:vector>
+              <otmi:vector count='2'>components</otmi:vector>
+              <otmi:vector count='2'>difficult</otmi:vector>
+              <otmi:vector count='2'>septation</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>obtained</otmi:vector>
+              <otmi:vector count='2'>hand</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>time-lapse</otmi:vector>
+              <otmi:vector count='2'>expressed</otmi:vector>
+              <otmi:vector count='2'>space</otmi:vector>
+              <otmi:vector count='2'>large</otmi:vector>
+              <otmi:vector count='2'>indirect</otmi:vector>
+              <otmi:vector count='2'>affect</otmi:vector>
+              <otmi:vector count='2'>simultaneously</otmi:vector>
+              <otmi:vector count='2'>constructed</otmi:vector>
+              <otmi:vector count='2'>allowing</otmi:vector>
+              <otmi:vector count='2'>conditions</otmi:vector>
+              <otmi:vector count='2'>built</otmi:vector>
+              <otmi:vector count='2'>Upon</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>timescale</otmi:vector>
+              <otmi:vector count='2'>resulting</otmi:vector>
+              <otmi:vector count='2'>generate</otmi:vector>
+              <otmi:vector count='2'>suggests</otmi:vector>
+              <otmi:vector count='2'>returns</otmi:vector>
+              <otmi:vector count='2'>measured</otmi:vector>
+              <otmi:vector count='2'>data</otmi:vector>
+              <otmi:vector count='2'>3.6</otmi:vector>
+              <otmi:vector count='2'>strains</otmi:vector>
+              <otmi:vector count='2'>stress</otmi:vector>
+              <otmi:vector count='2'>biological</otmi:vector>
+              <otmi:vector count='2'>degree</otmi:vector>
+              <otmi:vector count='2'>previously</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>suggesting</otmi:vector>
+              <otmi:vector count='2'>role</otmi:vector>
+              <otmi:vector count='2'>footage</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>excursions</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>film</otmi:vector>
+              <otmi:vector count='2'>natural</otmi:vector>
+              <otmi:vector count='2'>off</otmi:vector>
+              <otmi:vector count='2'>initiate</otmi:vector>
+              <otmi:vector count='2'>overexpression</otmi:vector>
+              <otmi:vector count='2'>activation</otmi:vector>
+              <otmi:vector count='2'>growth</otmi:vector>
+              <otmi:vector count='2'>relatively</otmi:vector>
+              <otmi:vector count='2'>autoregulation</otmi:vector>
+              <otmi:vector count='2'>3b</otmi:vector>
+              <otmi:vector count='2'>trigger</otmi:vector>
+              <otmi:vector count='2'>overall</otmi:vector>
+              <otmi:vector count='2'>studies</otmi:vector>
+              <otmi:vector count='2'>probabilistic</otmi:vector>
+              <otmi:vector count='2'>design</otmi:vector>
+              <otmi:vector count='2'>pairs</otmi:vector>
+              <otmi:vector count='2'>therefore</otmi:vector>
+              <otmi:vector count='2'>minority</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>strong</otmi:vector>
+              <otmi:vector count='2'>increases</otmi:vector>
+              <otmi:vector count='2'>small</otmi:vector>
+              <otmi:vector count='2'>biology</otmi:vector>
+              <otmi:vector count='2'>representative</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>collectively</otmi:vector>
+              <otmi:vector count='1'>evaluates</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>differentiation—an</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>terminal</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>recorded</otmi:vector>
+              <otmi:vector count='1'>competitively</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>regime</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>differ</otmi:vector>
+              <otmi:vector count='1'>feedbacks</otmi:vector>
+              <otmi:vector count='1'>traces</otmi:vector>
+              <otmi:vector count='1'>striking</otmi:vector>
+              <otmi:vector count='1'>heart</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>automated</otmi:vector>
+              <otmi:vector count='1'>degradation—that</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>returning</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>copies</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>image</otmi:vector>
+              <otmi:vector count='1'>dual</otmi:vector>
+              <otmi:vector count='1'>decreases</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>Expression</otmi:vector>
+              <otmi:vector count='1'>rewiring</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>encountering</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>anti-correlation</otmi:vector>
+              <otmi:vector count='1'>cell–cell</otmi:vector>
+              <otmi:vector count='1'>express</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>3c</otmi:vector>
+              <otmi:vector count='1'>stationary</otmi:vector>
+              <otmi:vector count='1'>inserted</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>architecture</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>threshold-crossing</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>controlling</otmi:vector>
+              <otmi:vector count='1'>frames</otmi:vector>
+              <otmi:vector count='1'>3d</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>native</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>suppress</otmi:vector>
+              <otmi:vector count='1'>modification</otmi:vector>
+              <otmi:vector count='1'>plasticity</otmi:vector>
+              <otmi:vector count='1'>escape</otmi:vector>
+              <otmi:vector count='1'>725</otmi:vector>
+              <otmi:vector count='1'>anticipate</otmi:vector>
+              <otmi:vector count='1'>Interestingly</otmi:vector>
+              <otmi:vector count='1'>19</otmi:vector>
+              <otmi:vector count='1'>stabilize</otmi:vector>
+              <otmi:vector count='1'>large-amplitude</otmi:vector>
+              <otmi:vector count='1'>exhibits</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>consequently</otmi:vector>
+              <otmi:vector count='1'>destined</otmi:vector>
+              <otmi:vector count='1'>episodes</otmi:vector>
+              <otmi:vector count='1'>mathematical</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>9</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>signalling</otmi:vector>
+              <otmi:vector count='1'>slower</otmi:vector>
+              <otmi:vector count='1'>Differentiation</otmi:vector>
+              <otmi:vector count='1'>degraded</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>151</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>differential</otmi:vector>
+              <otmi:vector count='1'>comprise</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>master</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>136</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>naturally</otmi:vector>
+              <otmi:vector count='1'>combinations</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>754</otmi:vector>
+              <otmi:vector count='1'>inhibits</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>movies</otmi:vector>
+              <otmi:vector count='1'>61</otmi:vector>
+              <otmi:vector count='1'>affects</otmi:vector>
+              <otmi:vector count='1'>analogous</otmi:vector>
+              <otmi:vector count='1'>clock</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>synchronized</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>peptide</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>operates</otmi:vector>
+              <otmi:vector count='1'>transiently</otmi:vector>
+              <otmi:vector count='1'>Escape</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>4.1</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>4.2</otmi:vector>
+              <otmi:vector count='1'>frequencies</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>5c</otmi:vector>
+              <otmi:vector count='1'>initial</otmi:vector>
+              <otmi:vector count='1'>leaving</otmi:vector>
+              <otmi:vector count='1'>5b</otmi:vector>
+              <otmi:vector count='1'>leaves</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>regulate</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>ComS-modulated</otmi:vector>
+              <otmi:vector count='1'>accounts</otmi:vector>
+              <otmi:vector count='1'>5a</otmi:vector>
+              <otmi:vector count='1'>Evidently</otmi:vector>
+              <otmi:vector count='1'>differentiate</otmi:vector>
+              <otmi:vector count='1'>neuronal</otmi:vector>
+              <otmi:vector count='1'>properties</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>traditional</otmi:vector>
+              <otmi:vector count='1'>indirectly</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>evident</otmi:vector>
+              <otmi:vector count='1'>multiprotein</otmi:vector>
+              <otmi:vector count='1'>copy</otmi:vector>
+              <otmi:vector count='1'>re-initiation</otmi:vector>
+              <otmi:vector count='1'>exhibit</otmi:vector>
+              <otmi:vector count='1'>commit</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>initiates</otmi:vector>
+              <otmi:vector count='1'>revealing</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>successive</otmi:vector>
+              <otmi:vector count='1'>basal</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>exceed</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>re-initiate</otmi:vector>
+              <otmi:vector count='1'>proteases</otmi:vector>
+              <otmi:vector count='1'>solution</otmi:vector>
+              <otmi:vector count='1'>populations</otmi:vector>
+              <otmi:vector count='1'>suite</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>repression</otmi:vector>
+              <otmi:vector count='1'>changing</otmi:vector>
+              <otmi:vector count='1'>became</otmi:vector>
+              <otmi:vector count='1'>interpreted</otmi:vector>
+              <otmi:vector count='1'>amplitude</otmi:vector>
+              <otmi:vector count='1'>circuitry</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>pre-competence</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>resemble</otmi:vector>
+              <otmi:vector count='1'>characteristics</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>fast</otmi:vector>
+              <otmi:vector count='1'>monitored</otmi:vector>
+              <otmi:vector count='1'>induce</otmi:vector>
+              <otmi:vector count='1'>Pairwise</otmi:vector>
+              <otmi:vector count='1'>sufficiently</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>consecutive</otmi:vector>
+              <otmi:vector count='1'>lineage</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>duration</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>dynamical</otmi:vector>
+              <otmi:vector count='1'>uses</otmi:vector>
+              <otmi:vector count='1'>Correspondingly</otmi:vector>
+              <otmi:vector count='1'>differentiation</otmi:vector>
+              <otmi:vector count='1'>chromosomal</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>degrees</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>Later</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>reflects</otmi:vector>
+              <otmi:vector count='1'>varying</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>Kolmogorov–Smirnov</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>map</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>via</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>memory-less</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>equation</otmi:vector>
+              <otmi:vector count='1'>regulated</otmi:vector>
+              <otmi:vector count='1'>consider</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>uncorrelated</otmi:vector>
+              <otmi:vector count='1'>retain</otmi:vector>
+              <otmi:vector count='1'>2.0</otmi:vector>
+              <otmi:vector count='1'>variability</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>bypass</otmi:vector>
+              <otmi:vector count='1'>together</otmi:vector>
+              <otmi:vector count='1'>motifs</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>(26</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>Even</otmi:vector>
+              <otmi:vector count='1'>elongated</otmi:vector>
+              <otmi:vector count='1'>generating</otmi:vector>
+              <otmi:vector count='1'>inducing</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>0.8</otmi:vector>
+              <otmi:vector count='1'>driving</otmi:vector>
+              <otmi:vector count='1'>bistability</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>auto-activation</otmi:vector>
+              <otmi:vector count='1'>subsequently</otmi:vector>
+              <otmi:vector count='1'>decline</otmi:vector>
+              <otmi:vector count='1'>incorporates</otmi:vector>
+              <otmi:vector count='1'>Repeated</otmi:vector>
+              <otmi:vector count='1'>transformed</otmi:vector>
+              <otmi:vector count='1'>Reduction</otmi:vector>
+              <otmi:vector count='1'>463</otmi:vector>
+              <otmi:vector count='1'>0.9</otmi:vector>
+              <otmi:vector count='1'>sporulation</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>favoured</otmi:vector>
+              <otmi:vector count='1'>begins</otmi:vector>
+              <otmi:vector count='1'>represses</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>Quantitative</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>dynamic</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>problems.</otmi:vector>
+              <otmi:vector count='1'>blocked</otmi:vector>
+              <otmi:vector count='1'>memory</otmi:vector>
+              <otmi:vector count='1'>tuned</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>turn</otmi:vector>
+              <otmi:vector count='1'>irreversibly</otmi:vector>
+              <otmi:vector count='1'>Excitability</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>DNA</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>rendered</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>makes</otmi:vector>
+              <otmi:vector count='1'>ClpP–ClpC</otmi:vector>
+              <otmi:vector count='1'>Independent</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>chromosome</otmi:vector>
+              <otmi:vector count='1'>biochemical</otmi:vector>
+              <otmi:vector count='1'>endogenous</otmi:vector>
+              <otmi:vector count='1'>55</otmi:vector>
+              <otmi:vector count='1'>interfering</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>elucidated</otmi:vector>
+              <otmi:vector count='1'>events—changes</otmi:vector>
+              <otmi:vector count='1'>37</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>neurons</otmi:vector>
+              <otmi:vector count='1'>Combinations</otmi:vector>
+              <otmi:vector count='1'>Extensive</otmi:vector>
+              <otmi:vector count='1'>sisters</otmi:vector>
+              <otmi:vector count='1'>perturbations</otmi:vector>
+              <otmi:vector count='1'>Noise-driven</otmi:vector>
+              <otmi:vector count='1'>oscillators</otmi:vector>
+              <otmi:vector count='1'>networks</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>uptake</otmi:vector>
+              <otmi:vector count='1'>36</otmi:vector>
+              <otmi:vector count='1'>fail</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>observing</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>supported</otmi:vector>
+              <otmi:vector count='1'>ineffective</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>6.0</otmi:vector>
+              <otmi:vector count='1'>protein</otmi:vector>
+              <otmi:vector count='1'>Figure</otmi:vector>
+              <otmi:vector count='1'>needs</otmi:vector>
+              <otmi:vector count='1'>defect</otmi:vector>
+              <otmi:vector count='1'>otherwise</otmi:vector>
+              <otmi:vector count='1'>Positive</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>upon</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>positive–negative</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>non-competent</otmi:vector>
+              <otmi:vector count='1'>assembly</otmi:vector>
+              <otmi:vector count='1'>evidence</otmi:vector>
+              <otmi:vector count='1'>conditional</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>generators</otmi:vector>
+              <otmi:vector count='1'>microbial</otmi:vector>
+              <otmi:vector count='1'>again</otmi:vector>
+              <otmi:vector count='1'>spends</otmi:vector>
+              <otmi:vector count='1'>successfully</otmi:vector>
+              <otmi:vector count='1'>sporulate</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>transcription</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>well-characterized</otmi:vector>
+              <otmi:vector count='1'>circadian</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>non-synchronous</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>Within</otmi:vector>
+              <otmi:vector count='1'>behave</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>2a</otmi:vector>
+              <otmi:vector count='1'>refer</otmi:vector>
+              <otmi:vector count='1'>operon</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>S6</otmi:vector>
+              <otmi:vector count='1'>2b</otmi:vector>
+              <otmi:vector count='1'>activated</otmi:vector>
+              <otmi:vector count='1'>implies</otmi:vector>
+              <otmi:vector count='1'>culture</otmi:vector>
+              <otmi:vector count='1'>2c</otmi:vector>
+              <otmi:vector count='1'>31</otmi:vector>
+              <otmi:vector count='1'>suppressed</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A fundamental question is whether initiation of competence is stochastic or affected by memory of previous events</otmi:snippet>
+              <otmi:snippet>As P comG and P comK activities decline during exit from competence, the elongated cell undergoes multiple septation events and returns to the vegetative state</otmi:snippet>
+              <otmi:snippet>As described in Box 1 , the MeKS model is a dynamical system that exhibits excitability: relatively small, threshold-crossing perturbations trigger large-amplitude excursions in phase space that eventually return the system to its initial state </otmi:snippet>
+              <otmi:snippet>As in wild-type cells, a negative correlation between P comG and P comS is observed in FeBy cells ( Fig. 5c )</otmi:snippet>
+              <otmi:snippet>As shown in Fig. 3a and Supplementary Movie 2 , all cells express P comS to varying degrees</otmi:snippet>
+              <otmi:snippet>At the heart of this circuit is the ComK ‘master’ transcription factor ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>By expressing additional ComS in this way, the natural negative feedback is rendered ineffective</otmi:snippet>
+              <otmi:snippet>Cells were not significantly more or less likely to become competent if their sister became competent (conditional frequency = 4.1 ± 0.9%, n = 19 events out of 463)</otmi:snippet>
+              <otmi:snippet>ComK activates expression of a suite of genes necessary for competence, including the comG operon ( Fig. 1b ) </otmi:snippet>
+              <otmi:snippet>ComK also activates its own expression, and two recent studies have shown that this positive feedback loop is critical for the induction of competence </otmi:snippet>
+              <otmi:snippet>Combinations of positive and negative feedbacks are crucial elements of dynamic processes in biology such as the cell cycle </otmi:snippet>
+              <otmi:snippet>Correspondingly, in the cell, stochastic effects in gene expression have been shown to generate significant variability </otmi:snippet>
+              <otmi:snippet>Despite the important role of ComS in inducing competence, its expression is activated by stress and cell–cell signalling and is therefore high in all cells under stress, not just those destined to become competent </otmi:snippet>
+              <otmi:snippet>Differentiation into the competent state is difficult to study by traditional methods that average over large populations: the process affects a small minority of cells in a non-synchronous manner</otmi:snippet>
+              <otmi:snippet>Escape from competence returns promoter activities to pre-competence levels, suggesting the possibility of successive episodes of competence</otmi:snippet>
+              <otmi:snippet>Even in well-characterized cellular networks, it is generally difficult to connect circuit structure to circuit dynamics </otmi:snippet>
+              <otmi:snippet>Evidently, analogous functional roles for excitable dynamics exist in microbial and neuronal systems</otmi:snippet>
+              <otmi:snippet>Excitability is found in biological systems that process information such as neurons, where the frequency of events, but not their shape or amplitude, needs to be tuned </otmi:snippet>
+              <otmi:snippet>Expression of ComS thus favours induction of competence by allowing ComK levels to build up sufficiently to enable full ComK activation by positive autoregulation</otmi:snippet>
+              <otmi:snippet>Extensive research has elucidated a detailed map of molecular interactions that comprise the B. subtilis competence control circuit ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Figure 2a shows frames from recorded film footage of a B. subtilis microcolony under nutrient limitation conditions, in which most cells eventually sporulate (see also Supplementary Movie 1 )</otmi:snippet>
+              <otmi:snippet>Furthermore, the negative correlation is specific to competence, as is evident from the behaviour of the non-competent sister cell in Fig. 3b </otmi:snippet>
+              <otmi:snippet>Here we built strains in which activities of different pairs of promoters within the circuit could be monitored simultaneously in the same cell, revealing interactions between circuit components that could not be obtained by observing the same genes one at a time</otmi:snippet>
+              <otmi:snippet>How does the circuit generate transient competence events? This behaviour is caused by the combination of a fast positive and slow negative feedback</otmi:snippet>
+              <otmi:snippet>In a wild-type culture, 61% of cells successfully exit competence ( n = 136), compared to only 12% of FeBy cells ( n = 55)</otmi:snippet>
+              <otmi:snippet>In cells that become competent, P comG activity increases as P comS activity decreases</otmi:snippet>
+              <otmi:snippet>In fact, re-initiation occurred with a frequency of 6.0 ± 2.0% ( n = 9 events out of 151), not significantly different from the overall competence frequency (3.6 ± 0.7%)</otmi:snippet>
+              <otmi:snippet>In the FeBy strain, a single rewiring step transformed a transient differentiation process into a terminal one</otmi:snippet>
+              <otmi:snippet>In the MeKS model, ComK indirectly represses ComS, generating an anti-correlation between P comG and P comS activities</otmi:snippet>
+              <otmi:snippet>In the present system, noise can induce escape from the otherwise stable vegetative state and turn the system ‘on’ via the ComK positive feedback, as suggested previously by other groups </otmi:snippet>
+              <otmi:snippet>In this example, a single cell within the microcolony becomes competent and consequently its cell division is blocked, as previously reported </otmi:snippet>
+              <otmi:snippet>In this model, two feedback loops regulate ComK: the positive loop is based on direct transcriptional auto-activation; the negative loop is indirect and involves ComS-modulated degradation of ComK ( Fig. 1a , Box 1 and Supplementary Information )</otmi:snippet>
+              <otmi:snippet>In this way, ComS has a dual role in the system: on the one hand it is necessary to initiate competence, by blocking degradation of ComK and allowing positive autoregulation to take effect; on the other hand, repression of ComS is necessary for exit from competence, because reduction in ComS levels favours ComK degradation by MecA</otmi:snippet>
+              <otmi:snippet>Indeed, as shown in Fig. 3d , two consecutive competence events can be observed in a single cell lineage, showing that cells retain the potential to re-initiate competence</otmi:snippet>
+              <otmi:snippet>Independent studies have shown that the ComS peptide competitively inhibits ComK degradation by the MecA complex </otmi:snippet>
+              <otmi:snippet>Interestingly, overexpression of ComK was suggested to suppress expression of comS </otmi:snippet>
+              <otmi:snippet>Later, as P comG activity shuts off and septation begins, P comS activity increases again</otmi:snippet>
+              <otmi:snippet>Noise-driven excitable systems naturally exhibit the two key characteristics of competence: probabilistic and transient activation</otmi:snippet>
+              <otmi:snippet>Notably, the architecture of this circuit is similar to the circadian clock and cell cycle oscillators, which also contain combined positive–negative feedback loops </otmi:snippet>
+              <otmi:snippet>On a slower timescale, this initiates the ComS-mediated negative feedback</otmi:snippet>
+              <otmi:snippet>Our results show that excitability also operates in an intracellular genetic network controlling transient differentiation—an event on a very different timescale that uses completely different molecular components</otmi:snippet>
+              <otmi:snippet>P comG and P comK are both regulated by ComK, but P comK also has many other important transcriptional inputs ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>P comG expression levels in competent FeBy cells do not significantly exceed those in wild-type cells, suggesting that the defect in exit is not simply due to overexpression of ComK</otmi:snippet>
+              <otmi:snippet>Pairwise combinations of the promoters P comG , P comK and P comS expressing yfp or cfp were inserted into standard sites within the B. subtilis chromosome, leaving the endogenous genes intact (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>Positive feedback motifs are well known generators of bistability in cell biology </otmi:snippet>
+              <otmi:snippet>Quantitative time traces of the fluorescence levels show strong correlation between P comG and P comK in this film footage ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Reduction in ComS levels eventually shuts the system back ‘off’ through an increase in ComK degradation, returning the cell to its vegetative state</otmi:snippet>
+              <otmi:snippet>Repeated competence events are neither favoured nor suppressed</otmi:snippet>
+              <otmi:snippet>S1 )</otmi:snippet>
+              <otmi:snippet>S1 ) </otmi:snippet>
+              <otmi:snippet>S1 ) </otmi:snippet>
+              <otmi:snippet>S6 )</otmi:snippet>
+              <otmi:snippet>Such biochemical ‘noise’ can initiate a sequence of intracellular events—changes in gene expression and protein degradation—that cause cells to transiently differentiate into the competent state and subsequently return to vegetative growth</otmi:snippet>
+              <otmi:snippet>The excitable model of competence induction makes a strong prediction: interfering with the ComS-mediated negative feedback loop should stabilize the competent state without changing the frequency with which cells become competent ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The high degree of correlation between P comG and P comK suggests that other transcriptional inputs to the ComK promoter do not significantly affect ComK expression during competence</otmi:snippet>
+              <otmi:snippet>The regulation of comS is, however, known to be complex, having several transcriptional inputs ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The resulting data can be interpreted in terms of a mathematical model of the MeKS module</otmi:snippet>
+              <otmi:snippet>The resulting movies show that FeBy cells become competent at normal frequencies (4.2 ± 0.8%; n = 32 out of 754), but most of these competent cells fail to return to vegetative growth</otmi:snippet>
+              <otmi:snippet>Therefore, we consider here interactions among the MecA complex, comK and comS , which we collectively refer to as the ‘MeKS’ module</otmi:snippet>
+              <otmi:snippet>These results are consistent with a stochastic and memory-less model for competence initiation and duration</otmi:snippet>
+              <otmi:snippet>This behaviour is representative of all measured events in this strain ( n = 37) ( Fig. 2c )</otmi:snippet>
+              <otmi:snippet>This behaviour is representative of data obtained from all competent cells of the same strain ( n = 31) ( Fig. 3c ), and is consistent with negative regulation of comS by ComK</otmi:snippet>
+              <otmi:snippet>This evidence for stochastic initiation of competence is further supported by analysis of competence events in sister cell pairs ( Supplementary Information )</otmi:snippet>
+              <otmi:snippet>This experiment evaluates the significance of these other transcriptional inputs into P comK during competence</otmi:snippet>
+              <otmi:snippet>This implies the existence of an indirect negative feedback loop acting upon ComK, which might affect exit from competence ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>This model contains a regime in which noise in the production of either ComK or ComS can trigger large excursions in phase space that resemble experimental observations ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>This modification leaves the native competence network intact: the added comS gene is expressed only in competent cells</otmi:snippet>
+              <otmi:snippet>This reflects a degree of plasticity in the excitable circuit module</otmi:snippet>
+              <otmi:snippet>This striking negative correlation between P comG and P comS activities is present during both entry and exit from competence, although it is more closely synchronized during entry ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>This suggests that during competence not all of the known interactions within the larger competence circuit are important all of the time</otmi:snippet>
+              <otmi:snippet>Thus, the FeBy cells behave similarly to wild-type cells during entry into competence, and differ specifically in their reduced ability to exit</otmi:snippet>
+              <otmi:snippet>Thus, this model of excitability accounts in a natural way for the dynamics of competence observed in experiments</otmi:snippet>
+              <otmi:snippet>To explore these properties further, we first simultaneously measured P comG and P comK promoter activities in single competent cells</otmi:snippet>
+              <otmi:snippet>To test the prediction of the MeKS model we constructed a strain containing copies of the P comG and P comS promoters expressing cfp and yfp , respectively</otmi:snippet>
+              <otmi:snippet>To test this prediction, we constructed a feedback bypass (FeBy) strain of B. subtilis containing a single chromosomal copy of P comG driving the expression of comS ( Fig. 5a )</otmi:snippet>
+              <otmi:snippet>To understand how the network structure supports the dynamics of competence, we built a differential equation model of the MeKS module that incorporates noise</otmi:snippet>
+              <otmi:snippet>Upon encountering nutrient limitation, a minority of B. subtilis cells become competent for DNA uptake while most commit irreversibly to sporulation ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Upon entry into stationary phase, comK is expressed at a basal level, but is also rapidly degraded by the MecA complex, a multiprotein assembly that includes the ClpP–ClpC proteases </otmi:snippet>
+              <otmi:snippet>We analysed these strains using automated time-lapse fluorescence microscopy, and quantitative image analysis , under conditions where the overall frequency of competence events was 3.6 ± 0.7% (26 out of 725 cell division events generated competent cells)</otmi:snippet>
+              <otmi:snippet>We anticipate that this circuit design may therefore represent a general solution to a range of biological design problems.</otmi:snippet>
+              <otmi:snippet>We performed time-lapse microscopy on the FeBy strain ( Fig. 5b and Supplementary Movie 3 )</otmi:snippet>
+              <otmi:snippet>When two sisters do become competent together, the amount of time one spends in competence is uncorrelated with that of its sister cell (Kolmogorov–Smirnov test; n = 36)</otmi:snippet>
+              <otmi:snippet>Within the complex B. subtilis competence circuitry however, the relatively simple MeKS module can explain the transient and probabilistic features of competence dynamics</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Stress response in B. subtilis and the core competence circuit.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Snapshot of a B. subtilis microcolony in nutrient-limited conditions. cfp expression from P comG is shown in red. Inset: a flow chart illustrating developmental paths connecting the vegetative, spore forming and competent states. b , Map of interactions within the core competence circuit (MeKS). The transcriptional autoregulatory positive feedback loop of ComK and the ComS-mediated indirect negative feedback loop are depicted in orange and purple, respectively. ComS competes with ComK for degradation by the MecA–ClpP–ClpC complex, effectively interfering with degradation of ComK (curved purple inhibitory arrow). The dashed purple line from ComK to P comS denotes indirect repression. The activities of the promoters labelled in red, blue and green were measured in this study. These colours are used to represent the corresponding promoters throughout the figures.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Activities of P comK and P comG promoters are highly correlated during competence.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Frames from film footage of a typical competence event. yfp expressed from P comK and cfp expressed from P comG are coloured blue and red, respectively (see also Supplementary Movie 1). Overlapping dynamics of P comK and P comG result in the purple (red plus blue) colour of the competent cell. Time (in hours) is indicated for each frame. b , Quantitative time series of P comK – yfp (blue line) and P comG – cfp (red line) obtained through semi-automated data processing of the competence event shown in a . P comK and P comG activities exhibit nearly identical dynamics. a.u., arbitrary units. c , Plot of P comK – yfp versus P comG – cfp obtained from all ( n = 37) competence events in this strain. The traces are smoothed for visual clarification. Note the positive correlation between P comK – yfp and P comG – cfp . Highlighted in black is the competence time trace depicted in b .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Promoter activities of P comS and P comG are anti-correlated during competence.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Frames from film footage of a typical competence event with P comS – yfp and P comG – cfp expression shown in green and red, respectively (see inset) (see also Supplementary Movie 2). Time (in hours) is indicated for each frame. b , Quantitative time series of P comS – yfp (green line) and P comG – cfp (red lines) for the competence event shown in a . Depicted in faint green and faint red are P comS and P comG activities obtained from the non-competent sister cell. Note that the negative correlation between P comS and P comG expression dynamics is only observed in the competent cell. c , Plot of P comS – yfp versus P comG – cfp obtained from all ( n = 31) competence events in this strain. The traces are smoothed for visual clarification. Note the negative correlation between P comS – yfp and P comG – cfp . Highlighted in black is the competence time trace depicted in b . d , Quantitative time traces of consecutive competence events within a single cell lineage. The colour scheme is identical to that described for b . e , Quantitative time traces of P comS – yfp and P comG – cfp measured in sister cells that both undergo competence. The colour scheme is identical to that described for b . Note the different durations of competence in sister cells (see Supplementary Fig. S7).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Modelling of the core competence network reveals an excitable system.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Phase plane diagram formed by the system of equations shown in Box 1. Nullclines for equations (1) and (2) are shown in blue and green, respectively. Grey arrows represent the vector field of the dynamical system. The stable steady-state corresponding to vegetative growth is indicated with a black filled circle. The saddle and the unstable competent fixed points are indicated with open circles. A set of excursion trajectories is shown in pink, with a single representative trajectory of the system highlighted in purple. Initiation of excursions in phase space is triggered by noise (Box 1), and trajectories are determined by the phase space vector field. b , Simulations of ComS (green) and ComK (blue) activities as a function of time. Note the negative correlation between the ComS and ComK levels during competence, consistent with experimental observations.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Competence lock through feedback bypass.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Network schematic depicting in blue the extra link introduced to bypass the native ComS-mediated negative feedback loop (FeBy strain). Note that the native network is left intact (see Fig. 1a). b , Frames from film footage of a typical competence event in the FeBy strain, with P comS and P comG activities depicted in green and red, respectively (see also Supplementary Movie 3). c , Quantitative time series of P comS – yfp (green line) and P comG – cfp (red line) for the event shown in b . The FeBy cell enters competence, but cannot exit from competence and eventually lyses (note the sudden drop after nearly 80 h).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1073/pnas.0831229100</otmi:refid>
+          <otmi:refid>info:doi/10.1210/me.2004-0034</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s00203-002-0476-5</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.ge.29.120195.002401</otmi:refid>
+          <otmi:refid>info:doi/10.1099/mic.0.26003-0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.physrep.2003.10.015</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-2958.1996.371407.x</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1365-2958.2005.04592.x</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1365-2958.2005.04488.x</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/17.22.6730</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-2958.1999.01399.x</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1106914</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng869</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1070919</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-2958.2001.02363.x</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.1332628100</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02089</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cell.2005.06.016</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng1293</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cub.2005.08.019</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.092133899</otmi:refid>
+          <otmi:refsnoid>7</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

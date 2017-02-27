@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<project name="textractor-kodo" default="enhance" basedir="..">
+    <property name="lib" location="lib"/>
+    <property name="src" location="src"/>
+    <property name="jdosrc" location=""/>
+    <property name="classes" location="classes"/>
+    <property name="config" location="config"/>
+	<property name="build" location="build"/>
+    <property name="propertyFilename" value="textractor.properties"/>
+
+    <property file="${config}/${propertyFilename}" />
+
+    <taskdef resource="net/sf/antcontrib/antlib.xml" onerror="fail">
+        <classpath>
+            <pathelement location="${lib}/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <condition property="oracle">
+        <equals arg1="${javax.jdo.option.ConnectionDriverName}" arg2="oracle.jdbc.driver.OracleDriver" />
+    </condition>
+    <condition property="mysql">
+        <equals arg1="${javax.jdo.option.ConnectionDriverName}" arg2="com.mysql.jdbc.Driver" />
+    </condition>
+
+	<if>
+		<isset property="oracle"/>
+		<then>
+			<property name="database" value="oracle"/>
+		</then>
+		<elseif>
+			<isset property="mysql"/>
+			<then>
+				<property name="database" value="mysql"/>
+			</then>
+		</elseif>
+		<else>
+			<property name="database" value="generic"/>
+		</else>
+	</if>
+	
+	<echo level="verbose" message="Using database: ${database}"/>
+
+	<path id="jdo.compile.classpath">
+        <fileset dir="${lib}/kodo">
+            <exclude name="kodo-jdo-runtime.jar"/>
+        </fileset>
+        <fileset dir="${lib}">
+            <include name="log4j*.jar" />
+        </fileset>
+        <fileset dir="${lib}/jdbc">
+            <include name="ojdbc14.jar" if="oracle"/>
+            <include name="mysql-connector*.jar" if="mysql"/>
+        </fileset>
+    </path>
+
+    <path id="jdo.run.classpath">
+        <fileset dir="${lib}/kodo">
+            <exclude name="kodo-jdo.jar"/>
+        </fileset>
+        <fileset dir="${lib}">
+            <include name="log4j*.jar" />
+        </fileset>
+        <fileset dir="${lib}/jdbc">
+            <include name="ojdbc14.jar" if="oracle"/>
+            <include name="mysql-connector*.jar" if="mysql"/>
+        </fileset>
+        <pathelement path="${src}"/>
+    </path>
+
+    <!-- Kodo task definitions -->
+    <taskdef file="${config}/ant/kodo-tasks.properties" onerror="fail">
+        <classpath>
+            <pathelement location="${config}" />
+            <path refid="jdo.compile.classpath"/>
+        </classpath>
+    </taskdef>
+
+    <!-- define basic targets to be overidden in the main build file(s) -->
+    <target name="init"/>      <!-- nothing to be done here -->
+    <target name="compile"/>   <!-- nothing to be done here -->
+
+	<target name="enhance" depends="init,compile" description="Run the enhancer">
+        <jdoc haltonerror="true">
+            <config licenseKey="${kodo.LicenseKey}" log="log4j"/>
+            <classpath>
+                <path refid="compile.classpath"/>
+                <path refid="jdo.run.classpath"/>
+                <pathelement location="${src}"/>
+                <pathelement location="${classes}"/>
+            </classpath>
+            <fileset dir="${src}">
+                <include name="**/*.jdo" />
+            </fileset>
+        </jdoc>
+    </target>
+
+    <target name="refresh" depends="enhance" description="Refresh/Create the database">
+        <mappingtool action="refresh" haltonerror="true" droptables="true">
+            <config propertiesFile="${config}/${propertyFilename}"/>
+            <classpath>
+                <path refid="compile.classpath"/>
+                <path refid="jdo.run.classpath" />
+                <pathelement location="${src}" />
+            </classpath>
+            <fileset dir="${src}">
+                <include name="**/*.jdo" />
+            </fileset>
+        </mappingtool>
+    </target>
+
+	<target name="sql-mapping" depends="enhance" description="Generate all the SQL necessary to create the tables used by the jdo mappings">
+        <mappingtool action="refresh" schemaaction="build" sqlfile="${basedir}/create-${database}.sql" haltonerror="true">
+            <config licenseKey="${kodo.LicenseKey}" log="log4j"
+	            	connectionDriverName="${javax.jdo.option.ConnectionDriverName}"
+		        	DBDictionary="${kodo.jdbc.DBDictionary}"
+	            	ConnectionURL="${javax.jdo.option.ConnectionURL}"
+                    ConnectionUserName="${javax.jdo.option.ConnectionUserName}"
+            	    ConnectionPassword="${javax.jdo.option.ConnectionPassword}"/>
+            <classpath>
+                <path refid="compile.classpath"/>
+                <path refid="jdo.run.classpath" />
+                <pathelement location="${src}" />
+            </classpath>
+            <fileset dir="${src}">
+                <include name="**/*.jdo" />
+            </fileset>
+        </mappingtool>
+	</target>
+
+    <target name="createdb" depends="drop, refresh"/>
+
+    <target name="drop" description="Drop the database">
+    	<!--
+    		TODO:
+    		There seems to be a problem dropping oracle tables with kodo
+    		so hack it for now and drop everything with direct SQL if
+    		we're using oracle.
+    	-->
+        <if>
+        	<not>
+        		<isset property="oracle"/>
+        	</not>
+        	<then>
+                <schematool action="dropDB">
+                    <config propertiesFile="${config}/${propertyFilename}"/>
+                </schematool>
+        	</then>
+        	<else>
+            	<sql driver="${javax.jdo.option.ConnectionDriverName}"
+                     url="${javax.jdo.option.ConnectionURL}"
+                     userid="${javax.jdo.option.ConnectionUserName}"
+                     password="${javax.jdo.option.ConnectionPassword}"
+            		 classpathref="jdo.run.classpath"
+            	     delimiter="/"
+            	     delimitertype="row"
+            	     keepformat="yes">
+            		<![CDATA[
+	            		declare
+    	        		   table_name varchar2(30);
+        	    		   cursor usertables is select * from user_tables where table_name not like 'BIN$%';
+            			begin
+            			   for next_row in usertables
+            			   loop
+            		    	  execute immediate 'drop table ' || next_row.table_name || ' cascade constraints';
+	            		   end loop;
+    	        		end;
+            		]]>
+            	</sql>
+        	</else>
+       	</if>
+    </target>
+</project>

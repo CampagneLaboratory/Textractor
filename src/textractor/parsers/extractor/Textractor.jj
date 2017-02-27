@@ -1,0 +1,117 @@
+
+
+options {
+
+  LOOKAHEAD = 1;
+  CHOICE_AMBIGUITY_CHECK = 2;
+  OTHER_AMBIGUITY_CHECK = 1;
+  STATIC = false;
+  DEBUG_PARSER = false;
+  DEBUG_LOOKAHEAD = false;
+  DEBUG_TOKEN_MANAGER = false;
+  ERROR_REPORTING = true;
+  JAVA_UNICODE_ESCAPE = false;
+  UNICODE_INPUT = false;
+  IGNORE_CASE = false;
+  USER_TOKEN_MANAGER = true;
+  USER_CHAR_STREAM = false;
+  BUILD_PARSER = true;
+  BUILD_TOKEN_MANAGER = false;
+  SANITY_CHECK = true;
+  FORCE_LA_CHECK = true;
+}
+
+PARSER_BEGIN(ExtractionEngine)
+package textractor.parsers.extractor;
+
+import it.unimi.dsi.mg4j.util.MutableString;
+import textractor.database.DocumentIndexManager;
+
+import javax.naming.ConfigurationException;
+import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
+import java.net.URISyntaxException;
+
+public class ExtractionEngine {
+
+  public static void main(final String args[]) throws ParseException,
+    ConfigurationException, IOException,
+    org.apache.commons.configuration.ConfigurationException,
+    NoSuchMethodException, IllegalAccessException, InvocationTargetException,
+    InstantiationException, ClassNotFoundException, URISyntaxException  {
+    final int[] input = { 1, 2, 3 };
+    final String basename = "index/doc-token-manager";
+
+    final DocumentIndexManager docmanager = new DocumentIndexManager(basename);
+
+    final ExtractionEngine parser =
+        new ExtractionEngine(new DocumentTokenManager(input, docmanager));
+    parser.sentence();
+  }
+}
+
+PARSER_END(ExtractionEngine)
+
+void sentence() :
+{}
+{
+/** It is required that the first mention of the WORD token names the %WORD% class, as shown below: */
+    (<WORD: "%WORD%">)* <EOF>
+}
+
+void diseasesSuchAs(final java.util.List<String> diseases) :
+{
+String d;
+// precondition: current token will match the disease word.
+}
+{
+ <DISEASES: "diseases"> <SUCH: "such"> <AS: "as"> d=disease() {diseases.add(d); }
+ 
+}
+
+String disease() :
+{  Token t;
+   MutableString disease=new MutableString();
+}
+{
+    (t=<WORD> { disease.append(t.image); disease.append(' '); })+
+    ( <EOF> | <PERIOD : "."> | <COMMA : ","> | <SEMICOLON : ";"> )
+    {return disease.toString().trim();}
+}
+
+void enumeration(java.util.List<String> list) :
+{
+String element = null;
+}
+{
+ (
+  element=listOfWords()                           { list.add(element); }
+   [ ( <AND: "and"> | <OR: "or"> | <COMMA>) enumeration(list) ]
+
+ )
+ | <EOF>
+
+}
+
+void diseasesE_g(final java.util.List<String> diseases) :
+{
+String disease;
+// precondition: current token will match the "diseases" word.
+}
+{
+ <DISEASES> ( <OPENPAREN: "("> <EXEMPLIGRATIA: "e.g."> <COMMA> enumeration(diseases) <CLOSEPAREN: ")">  |
+               <EXEMPLIGRATIA> <COMMA> disease=listOfWords() <COMMA>            {diseases.add(disease);}
+            )
+
+}
+
+String listOfWords() :
+{  Token t;
+   final MutableString nGram = new MutableString();
+}
+{
+   (t=<WORD>                {nGram.append(t.image); nGram.append(' ');}
+             )+ [<EOF>]
+
+   {return nGram.toString().trim();}
+}

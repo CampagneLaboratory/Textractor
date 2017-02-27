@@ -1,0 +1,45 @@
+.doc-group1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; COLOR: white; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #0072a8
+}
+.doc-group2 {
+	FONT-WEIGHT: bold; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: center
+}
+.doc-group3 {
+	FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Arial, sans-serif; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: center
+}
+.doc-group4 {
+	
+}
+.toc-supp-link {
+	FONT-SIZE: 75%; COLOR: #e64a00; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+.toc-highlight1 {
+	BACKGROUND-COLOR: #ffffd0
+}
+.toc-highlight2 {
+	BACKGROUND-COLOR: #ace4ff
+}
+.head1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; COLOR: white; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #0072a8; TEXT-ALIGN: center
+}
+.head1A {
+	FONT-WEIGHT: bold; COLOR: #004080; FONT-FAMILY: Arial, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+.append-head1 {
+	FONT-WEIGHT: bold; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: center
+}
+.colorbar-link {
+	COLOR: #ffffff
+}
+.head1 A:link {
+	COLOR: white
+}
+.head1 A:visited {
+	COLOR: white
+}
+.head1A A:link {
+	COLOR: white
+}
+.head1A A:visited {
+	COLOR: white
+}

@@ -1,0 +1,1588 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Glutamate receptors at atomic resolution</title>
+      <id>info:doi/10.1038/nature04709</id>
+      <link href='http://dx.doi.org/10.1038/nature04709' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Mark L. Mayer</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>456</prism:startingPage>
+      <prism:endingPage>462</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>At synapses throughout the brain and spinal cord, the amino-acid glutamate is the major excitatory neurotransmitter. During evolution, a family of glutamate-receptor ion channels seems to have been assembled from a kit consisting of discrete ligand-binding, ion-channel, modulatory and cytoplasmic domains. Crystallographic studies that exploit this unique architecture have greatly aided structural analysis of the ligand-binding core, but the results also pose a formidable challenge, namely that of resolving the allosteric mechanisms by which individual domains communicate and function in an intact receptor.</otmi:rawtext>
+          <otmi:reducedtext>At synapses throughout brain spinal cord, amino-acid glutamate major excitatory neurotransmitter. During evolution, family glutamate-receptor ion channels seems have been assembled kit consisting discrete ligand-binding, ion-channel, modulatory cytoplasmic domains. Crystallographic studies exploit unique architecture have greatly aided structural analysis ligand-binding core, but results also pose formidable challenge, namely resolving allosteric mechanisms which individual domains communicate function intact receptor.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='2'>domains</otmi:vector>
+            <otmi:vector count='2'>have</otmi:vector>
+            <otmi:vector count='2'>ligand-binding</otmi:vector>
+            <otmi:vector count='1'>analysis</otmi:vector>
+            <otmi:vector count='1'>results</otmi:vector>
+            <otmi:vector count='1'>structural</otmi:vector>
+            <otmi:vector count='1'>exploit</otmi:vector>
+            <otmi:vector count='1'>studies</otmi:vector>
+            <otmi:vector count='1'>kit</otmi:vector>
+            <otmi:vector count='1'>glutamate-receptor</otmi:vector>
+            <otmi:vector count='1'>neurotransmitter</otmi:vector>
+            <otmi:vector count='1'>but</otmi:vector>
+            <otmi:vector count='1'>cytoplasmic</otmi:vector>
+            <otmi:vector count='1'>been</otmi:vector>
+            <otmi:vector count='1'>excitatory</otmi:vector>
+            <otmi:vector count='1'>amino-acid</otmi:vector>
+            <otmi:vector count='1'>namely</otmi:vector>
+            <otmi:vector count='1'>glutamate</otmi:vector>
+            <otmi:vector count='1'>individual</otmi:vector>
+            <otmi:vector count='1'>formidable</otmi:vector>
+            <otmi:vector count='1'>seems</otmi:vector>
+            <otmi:vector count='1'>receptor.</otmi:vector>
+            <otmi:vector count='1'>brain</otmi:vector>
+            <otmi:vector count='1'>aided</otmi:vector>
+            <otmi:vector count='1'>allosteric</otmi:vector>
+            <otmi:vector count='1'>During</otmi:vector>
+            <otmi:vector count='1'>function</otmi:vector>
+            <otmi:vector count='1'>also</otmi:vector>
+            <otmi:vector count='1'>spinal</otmi:vector>
+            <otmi:vector count='1'>intact</otmi:vector>
+            <otmi:vector count='1'>challenge</otmi:vector>
+            <otmi:vector count='1'>discrete</otmi:vector>
+            <otmi:vector count='1'>assembled</otmi:vector>
+            <otmi:vector count='1'>major</otmi:vector>
+            <otmi:vector count='1'>communicate</otmi:vector>
+            <otmi:vector count='1'>mechanisms</otmi:vector>
+            <otmi:vector count='1'>greatly</otmi:vector>
+            <otmi:vector count='1'>architecture</otmi:vector>
+            <otmi:vector count='1'>Crystallographic</otmi:vector>
+            <otmi:vector count='1'>ion-channel</otmi:vector>
+            <otmi:vector count='1'>which</otmi:vector>
+            <otmi:vector count='1'>ion</otmi:vector>
+            <otmi:vector count='1'>family</otmi:vector>
+            <otmi:vector count='1'>cord</otmi:vector>
+            <otmi:vector count='1'>At</otmi:vector>
+            <otmi:vector count='1'>resolving</otmi:vector>
+            <otmi:vector count='1'>core</otmi:vector>
+            <otmi:vector count='1'>consisting</otmi:vector>
+            <otmi:vector count='1'>channels</otmi:vector>
+            <otmi:vector count='1'>evolution</otmi:vector>
+            <otmi:vector count='1'>throughout</otmi:vector>
+            <otmi:vector count='1'>pose</otmi:vector>
+            <otmi:vector count='1'>unique</otmi:vector>
+            <otmi:vector count='1'>modulatory</otmi:vector>
+            <otmi:vector count='1'>synapses</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>At synapses throughout the brain and spinal cord, the amino-acid glutamate is the major excitatory neurotransmitter</otmi:snippet>
+            <otmi:snippet>Crystallographic studies that exploit this unique architecture have greatly aided structural analysis of the ligand-binding core, but the results also pose a formidable challenge, namely that of resolving the allosteric mechanisms by which individual domains communicate and function in an intact receptor.</otmi:snippet>
+            <otmi:snippet>During evolution, a family of glutamate-receptor ion channels seems to have been assembled from a kit consisting of discrete ligand-binding, ion-channel, modulatory and cytoplasmic domains</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='49'>receptors</otmi:vector>
+              <otmi:vector count='38'>which</otmi:vector>
+              <otmi:vector count='34'>domain</otmi:vector>
+              <otmi:vector count='32'>ligand-binding</otmi:vector>
+              <otmi:vector count='30'>dimer</otmi:vector>
+              <otmi:vector count='28'>glutamate</otmi:vector>
+              <otmi:vector count='27'>AMPA</otmi:vector>
+              <otmi:vector count='26'>have</otmi:vector>
+              <otmi:vector count='25'>NMDA</otmi:vector>
+              <otmi:vector count='23'>iGluRs</otmi:vector>
+              <otmi:vector count='22'>structures</otmi:vector>
+              <otmi:vector count='22'>channel</otmi:vector>
+              <otmi:vector count='21'>receptor</otmi:vector>
+              <otmi:vector count='20'>at</otmi:vector>
+              <otmi:vector count='18'>agonist</otmi:vector>
+              <otmi:vector count='17'>subunits</otmi:vector>
+              <otmi:vector count='17'>2</otmi:vector>
+              <otmi:vector count='16'>kainate</otmi:vector>
+              <otmi:vector count='16'>agonists</otmi:vector>
+              <otmi:vector count='16'>iGluR</otmi:vector>
+              <otmi:vector count='16'>has</otmi:vector>
+              <otmi:vector count='15'>partial</otmi:vector>
+              <otmi:vector count='15'>NR1</otmi:vector>
+              <otmi:vector count='14'>been</otmi:vector>
+              <otmi:vector count='14'>not</otmi:vector>
+              <otmi:vector count='13'>desensitization</otmi:vector>
+              <otmi:vector count='13'>binding</otmi:vector>
+              <otmi:vector count='13'>ion-channel</otmi:vector>
+              <otmi:vector count='13'>site</otmi:vector>
+              <otmi:vector count='13'>studies</otmi:vector>
+              <otmi:vector count='13'>also</otmi:vector>
+              <otmi:vector count='12'>pore</otmi:vector>
+              <otmi:vector count='12'>than</otmi:vector>
+              <otmi:vector count='12'>closure</otmi:vector>
+              <otmi:vector count='12'>allosteric</otmi:vector>
+              <otmi:vector count='12'>mechanism</otmi:vector>
+              <otmi:vector count='11'>cores</otmi:vector>
+              <otmi:vector count='11'>subunit</otmi:vector>
+              <otmi:vector count='11'>assembly</otmi:vector>
+              <otmi:vector count='11'>but</otmi:vector>
+              <otmi:vector count='11'>conformation</otmi:vector>
+              <otmi:vector count='11'>both</otmi:vector>
+              <otmi:vector count='10'>structural</otmi:vector>
+              <otmi:vector count='10'>crystal</otmi:vector>
+              <otmi:vector count='10'>how</otmi:vector>
+              <otmi:vector count='10'>occurs</otmi:vector>
+              <otmi:vector count='10'>symmetry</otmi:vector>
+              <otmi:vector count='10'>model</otmi:vector>
+              <otmi:vector count='10'>revealed</otmi:vector>
+              <otmi:vector count='10'>1</otmi:vector>
+              <otmi:vector count='10'>gating</otmi:vector>
+              <otmi:vector count='10'>dimers</otmi:vector>
+              <otmi:vector count='10'>proteins</otmi:vector>
+              <otmi:vector count='10'>protein</otmi:vector>
+              <otmi:vector count='9'>complex</otmi:vector>
+              <otmi:vector count='9'>their</otmi:vector>
+              <otmi:vector count='9'>mechanisms</otmi:vector>
+              <otmi:vector count='9'>Fig</otmi:vector>
+              <otmi:vector count='9'>all</otmi:vector>
+              <otmi:vector count='9'>major</otmi:vector>
+              <otmi:vector count='9'>contacts</otmi:vector>
+              <otmi:vector count='9'>antagonists</otmi:vector>
+              <otmi:vector count='8'>NR2A</otmi:vector>
+              <otmi:vector count='8'>these</otmi:vector>
+              <otmi:vector count='8'>key</otmi:vector>
+              <otmi:vector count='8'>more</otmi:vector>
+              <otmi:vector count='8'>different</otmi:vector>
+              <otmi:vector count='8'>much</otmi:vector>
+              <otmi:vector count='8'>ligands</otmi:vector>
+              <otmi:vector count='8'>extent</otmi:vector>
+              <otmi:vector count='8'>state</otmi:vector>
+              <otmi:vector count='8'>its</otmi:vector>
+              <otmi:vector count='8'>can</otmi:vector>
+              <otmi:vector count='8'>ion</otmi:vector>
+              <otmi:vector count='8'>between</otmi:vector>
+              <otmi:vector count='8'>will</otmi:vector>
+              <otmi:vector count='8'>open</otmi:vector>
+              <otmi:vector count='8'>side</otmi:vector>
+              <otmi:vector count='7'>possible</otmi:vector>
+              <otmi:vector count='7'>core</otmi:vector>
+              <otmi:vector count='7'>same</otmi:vector>
+              <otmi:vector count='7'>ATD</otmi:vector>
+              <otmi:vector count='7'>when</otmi:vector>
+              <otmi:vector count='7'>channels</otmi:vector>
+              <otmi:vector count='7'>about</otmi:vector>
+              <otmi:vector count='7'>mutation</otmi:vector>
+              <otmi:vector count='7'>Although</otmi:vector>
+              <otmi:vector count='7'>structure</otmi:vector>
+              <otmi:vector count='7'>result</otmi:vector>
+              <otmi:vector count='7'>experiments</otmi:vector>
+              <otmi:vector count='7'>bind</otmi:vector>
+              <otmi:vector count='6'>group</otmi:vector>
+              <otmi:vector count='6'>sites</otmi:vector>
+              <otmi:vector count='6'>individual</otmi:vector>
+              <otmi:vector count='6'>domains</otmi:vector>
+              <otmi:vector count='6'>However</otmi:vector>
+              <otmi:vector count='6'>NR2</otmi:vector>
+              <otmi:vector count='6'>membrane</otmi:vector>
+              <otmi:vector count='6'>bacterial</otmi:vector>
+              <otmi:vector count='6'>measured</otmi:vector>
+              <otmi:vector count='6'>there</otmi:vector>
+              <otmi:vector count='6'>role</otmi:vector>
+              <otmi:vector count='6'>four-fold</otmi:vector>
+              <otmi:vector count='6'>cleft</otmi:vector>
+              <otmi:vector count='6'>family</otmi:vector>
+              <otmi:vector count='6'>genes</otmi:vector>
+              <otmi:vector count='6'>functional</otmi:vector>
+              <otmi:vector count='6'>segments</otmi:vector>
+              <otmi:vector count='6'>details</otmi:vector>
+              <otmi:vector count='6'>affinity</otmi:vector>
+              <otmi:vector count='6'>crystallographic</otmi:vector>
+              <otmi:vector count='6'>many</otmi:vector>
+              <otmi:vector count='6'>solved</otmi:vector>
+              <otmi:vector count='6'>glycine</otmi:vector>
+              <otmi:vector count='6'>interface</otmi:vector>
+              <otmi:vector count='5'>greatly</otmi:vector>
+              <otmi:vector count='5'>activity</otmi:vector>
+              <otmi:vector count='5'>results</otmi:vector>
+              <otmi:vector count='5'>K</otmi:vector>
+              <otmi:vector count='5'>acid</otmi:vector>
+              <otmi:vector count='5'>effects</otmi:vector>
+              <otmi:vector count='5'>less</otmi:vector>
+              <otmi:vector count='5'>potassium</otmi:vector>
+              <otmi:vector count='5'>during</otmi:vector>
+              <otmi:vector count='5'>molecular</otmi:vector>
+              <otmi:vector count='5'>each</otmi:vector>
+              <otmi:vector count='5'>bound</otmi:vector>
+              <otmi:vector count='5'>through</otmi:vector>
+              <otmi:vector count='5'>activation</otmi:vector>
+              <otmi:vector count='5'>does</otmi:vector>
+              <otmi:vector count='5'>even</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>analysis</otmi:vector>
+              <otmi:vector count='5'>modulators</otmi:vector>
+              <otmi:vector count='5'>stability</otmi:vector>
+              <otmi:vector count='5'>models</otmi:vector>
+              <otmi:vector count='5'>only</otmi:vector>
+              <otmi:vector count='5'>contrast</otmi:vector>
+              <otmi:vector count='5'>closed</otmi:vector>
+              <otmi:vector count='5'>pocket</otmi:vector>
+              <otmi:vector count='5'>steric</otmi:vector>
+              <otmi:vector count='5'>subtypes</otmi:vector>
+              <otmi:vector count='5'>But</otmi:vector>
+              <otmi:vector count='5'>two</otmi:vector>
+              <otmi:vector count='5'>cytoplasmic</otmi:vector>
+              <otmi:vector count='5'>These</otmi:vector>
+              <otmi:vector count='5'>surface</otmi:vector>
+              <otmi:vector count='5'>coupled</otmi:vector>
+              <otmi:vector count='5'>efficacy</otmi:vector>
+              <otmi:vector count='5'>4</otmi:vector>
+              <otmi:vector count='5'>GluR0</otmi:vector>
+              <otmi:vector count='5'>agonist-binding</otmi:vector>
+              <otmi:vector count='5'>large</otmi:vector>
+              <otmi:vector count='5'>chain</otmi:vector>
+              <otmi:vector count='4'>explain</otmi:vector>
+              <otmi:vector count='4'>location</otmi:vector>
+              <otmi:vector count='4'>mutagenesis</otmi:vector>
+              <otmi:vector count='4'>because</otmi:vector>
+              <otmi:vector count='4'>deactivation</otmi:vector>
+              <otmi:vector count='4'>determined</otmi:vector>
+              <otmi:vector count='4'>segment</otmi:vector>
+              <otmi:vector count='4'>binds</otmi:vector>
+              <otmi:vector count='4'>S2</otmi:vector>
+              <otmi:vector count='4'>kinetics</otmi:vector>
+              <otmi:vector count='4'>time</otmi:vector>
+              <otmi:vector count='4'>work</otmi:vector>
+              <otmi:vector count='4'>ligand</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>observed</otmi:vector>
+              <otmi:vector count='4'>present</otmi:vector>
+              <otmi:vector count='4'>one</otmi:vector>
+              <otmi:vector count='4'>encoded</otmi:vector>
+              <otmi:vector count='4'>simulations</otmi:vector>
+              <otmi:vector count='4'>extracellular</otmi:vector>
+              <otmi:vector count='4'>reduced</otmi:vector>
+              <otmi:vector count='4'>subtype</otmi:vector>
+              <otmi:vector count='4'>second</otmi:vector>
+              <otmi:vector count='4'>amino</otmi:vector>
+              <otmi:vector count='4'>suggests</otmi:vector>
+              <otmi:vector count='4'>complexes</otmi:vector>
+              <otmi:vector count='4'>no</otmi:vector>
+              <otmi:vector count='4'>roles</otmi:vector>
+              <otmi:vector count='4'>first</otmi:vector>
+              <otmi:vector count='4'>such</otmi:vector>
+              <otmi:vector count='4'>issue</otmi:vector>
+              <otmi:vector count='4'>if</otmi:vector>
+              <otmi:vector count='4'>far</otmi:vector>
+              <otmi:vector count='4'>modulation</otmi:vector>
+              <otmi:vector count='4'>TM</otmi:vector>
+              <otmi:vector count='4'>either</otmi:vector>
+              <otmi:vector count='4'>linker</otmi:vector>
+              <otmi:vector count='4'>transmembrane</otmi:vector>
+              <otmi:vector count='4'>homology</otmi:vector>
+              <otmi:vector count='4'>I</otmi:vector>
+              <otmi:vector count='4'>periplasmic</otmi:vector>
+              <otmi:vector count='4'>high</otmi:vector>
+              <otmi:vector count='4'>endogenous</otmi:vector>
+              <otmi:vector count='4'>formation</otmi:vector>
+              <otmi:vector count='4'>approaches</otmi:vector>
+              <otmi:vector count='4'>eukaryotic</otmi:vector>
+              <otmi:vector count='4'>aniracetam</otmi:vector>
+              <otmi:vector count='4'>sequence</otmi:vector>
+              <otmi:vector count='4'>M3</otmi:vector>
+              <otmi:vector count='4'>shown</otmi:vector>
+              <otmi:vector count='4'>review</otmi:vector>
+              <otmi:vector count='4'>act</otmi:vector>
+              <otmi:vector count='3'>tyrosine</otmi:vector>
+              <otmi:vector count='3'>majority</otmi:vector>
+              <otmi:vector count='3'>M2</otmi:vector>
+              <otmi:vector count='3'>several</otmi:vector>
+              <otmi:vector count='3'>carboxyl</otmi:vector>
+              <otmi:vector count='3'>yet</otmi:vector>
+              <otmi:vector count='3'>our</otmi:vector>
+              <otmi:vector count='3'>members</otmi:vector>
+              <otmi:vector count='3'>could</otmi:vector>
+              <otmi:vector count='3'>would</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>MD</otmi:vector>
+              <otmi:vector count='3'>mismatch</otmi:vector>
+              <otmi:vector count='3'>potential</otmi:vector>
+              <otmi:vector count='3'>suggest</otmi:vector>
+              <otmi:vector count='3'>given</otmi:vector>
+              <otmi:vector count='3'>together</otmi:vector>
+              <otmi:vector count='3'>additional</otmi:vector>
+              <otmi:vector count='3'>variety</otmi:vector>
+              <otmi:vector count='3'>high-resolution</otmi:vector>
+              <otmi:vector count='3'>required</otmi:vector>
+              <otmi:vector count='3'>enormous</otmi:vector>
+              <otmi:vector count='3'>organization</otmi:vector>
+              <otmi:vector count='3'>entrance</otmi:vector>
+              <otmi:vector count='3'>resolution</otmi:vector>
+              <otmi:vector count='3'>coupling</otmi:vector>
+              <otmi:vector count='3'>alanine</otmi:vector>
+              <otmi:vector count='3'>techniques</otmi:vector>
+              <otmi:vector count='3'>desensitized</otmi:vector>
+              <otmi:vector count='3'>rate</otmi:vector>
+              <otmi:vector count='3'>crystallization</otmi:vector>
+              <otmi:vector count='3'>difference</otmi:vector>
+              <otmi:vector count='3'>amino-acid</otmi:vector>
+              <otmi:vector count='3'>ifenprodil</otmi:vector>
+              <otmi:vector count='3'>related</otmi:vector>
+              <otmi:vector count='3'>hydrogen</otmi:vector>
+              <otmi:vector count='3'>active</otmi:vector>
+              <otmi:vector count='3'>action</otmi:vector>
+              <otmi:vector count='3'>region</otmi:vector>
+              <otmi:vector count='3'>increased</otmi:vector>
+              <otmi:vector count='3'>based</otmi:vector>
+              <otmi:vector count='3'>size</otmi:vector>
+              <otmi:vector count='3'>hydrophobic</otmi:vector>
+              <otmi:vector count='3'>recently</otmi:vector>
+              <otmi:vector count='3'>recent</otmi:vector>
+              <otmi:vector count='3'>glutamate-receptor</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>forms</otmi:vector>
+              <otmi:vector count='3'>understanding</otmi:vector>
+              <otmi:vector count='3'>using</otmi:vector>
+              <otmi:vector count='3'>level</otmi:vector>
+              <otmi:vector count='3'>competitive</otmi:vector>
+              <otmi:vector count='3'>information</otmi:vector>
+              <otmi:vector count='3'>approach</otmi:vector>
+              <otmi:vector count='3'>synaptic</otmi:vector>
+              <otmi:vector count='3'>conformational</otmi:vector>
+              <otmi:vector count='3'>motif</otmi:vector>
+              <otmi:vector count='3'>chemistry</otmi:vector>
+              <otmi:vector count='3'>changes</otmi:vector>
+              <otmi:vector count='3'>diseases</otmi:vector>
+              <otmi:vector count='3'>so</otmi:vector>
+              <otmi:vector count='3'>well</otmi:vector>
+              <otmi:vector count='3'>identified</otmi:vector>
+              <otmi:vector count='3'>characteristic</otmi:vector>
+              <otmi:vector count='3'>suggested</otmi:vector>
+              <otmi:vector count='3'>residue</otmi:vector>
+              <otmi:vector count='3'>intact</otmi:vector>
+              <otmi:vector count='3'>slows</otmi:vector>
+              <otmi:vector count='3'>contains</otmi:vector>
+              <otmi:vector count='3'>coassemble</otmi:vector>
+              <otmi:vector count='3'>differs</otmi:vector>
+              <otmi:vector count='3'>helix</otmi:vector>
+              <otmi:vector count='3'>suggesting</otmi:vector>
+              <otmi:vector count='3'>probably</otmi:vector>
+              <otmi:vector count='3'>Zn</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>subsequently</otmi:vector>
+              <otmi:vector count='3'>potent</otmi:vector>
+              <otmi:vector count='3'>solution</otmi:vector>
+              <otmi:vector count='3'>unique</otmi:vector>
+              <otmi:vector count='3'>single</otmi:vector>
+              <otmi:vector count='2'>identical</otmi:vector>
+              <otmi:vector count='2'>high-affinity</otmi:vector>
+              <otmi:vector count='2'>advances</otmi:vector>
+              <otmi:vector count='2'>remains</otmi:vector>
+              <otmi:vector count='2'>LIVBP</otmi:vector>
+              <otmi:vector count='2'>Surprisingly</otmi:vector>
+              <otmi:vector count='2'>mainly</otmi:vector>
+              <otmi:vector count='2'>prokaryotic</otmi:vector>
+              <otmi:vector count='2'>view</otmi:vector>
+              <otmi:vector count='2'>seems</otmi:vector>
+              <otmi:vector count='2'>explained</otmi:vector>
+              <otmi:vector count='2'>respectively</otmi:vector>
+              <otmi:vector count='2'>short</otmi:vector>
+              <otmi:vector count='2'>instead</otmi:vector>
+              <otmi:vector count='2'>ligand-gated</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>emerged</otmi:vector>
+              <otmi:vector count='2'>There</otmi:vector>
+              <otmi:vector count='2'>arginine</otmi:vector>
+              <otmi:vector count='2'>auxiliary</otmi:vector>
+              <otmi:vector count='2'>indicating</otmi:vector>
+              <otmi:vector count='2'>homoquinolinic</otmi:vector>
+              <otmi:vector count='2'>states</otmi:vector>
+              <otmi:vector count='2'>concentrations</otmi:vector>
+              <otmi:vector count='2'>concentration</otmi:vector>
+              <otmi:vector count='2'>understood</otmi:vector>
+              <otmi:vector count='2'>must</otmi:vector>
+              <otmi:vector count='2'>movement</otmi:vector>
+              <otmi:vector count='2'>selectivity</otmi:vector>
+              <otmi:vector count='2'>negative</otmi:vector>
+              <otmi:vector count='2'>unexpected</otmi:vector>
+              <otmi:vector count='2'>possibly</otmi:vector>
+              <otmi:vector count='2'>rearrangement</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>GluR2</otmi:vector>
+              <otmi:vector count='2'>replaced</otmi:vector>
+              <otmi:vector count='2'>ions</otmi:vector>
+              <otmi:vector count='2'>solvent-filled</otmi:vector>
+              <otmi:vector count='2'>owing</otmi:vector>
+              <otmi:vector count='2'>AMPA-receptor</otmi:vector>
+              <otmi:vector count='2'>agonist-bound</otmi:vector>
+              <otmi:vector count='2'>better</otmi:vector>
+              <otmi:vector count='2'>stargazer</otmi:vector>
+              <otmi:vector count='2'>animal</otmi:vector>
+              <otmi:vector count='2'>whereas</otmi:vector>
+              <otmi:vector count='2'>recording</otmi:vector>
+              <otmi:vector count='2'>blockers</otmi:vector>
+              <otmi:vector count='2'>unambiguously</otmi:vector>
+              <otmi:vector count='2'>stabilizing</otmi:vector>
+              <otmi:vector count='2'>generated</otmi:vector>
+              <otmi:vector count='2'>GluR5</otmi:vector>
+              <otmi:vector count='2'>D</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>constant</otmi:vector>
+              <otmi:vector count='2'>conserved</otmi:vector>
+              <otmi:vector count='2'>transition</otmi:vector>
+              <otmi:vector count='2'>editing</otmi:vector>
+              <otmi:vector count='2'>little</otmi:vector>
+              <otmi:vector count='2'>scale</otmi:vector>
+              <otmi:vector count='2'>triggered</otmi:vector>
+              <otmi:vector count='2'>synapses</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>First</otmi:vector>
+              <otmi:vector count='2'>foot-in-the-door</otmi:vector>
+              <otmi:vector count='2'>hope</otmi:vector>
+              <otmi:vector count='2'>cavity</otmi:vector>
+              <otmi:vector count='2'>reinforced</otmi:vector>
+              <otmi:vector count='2'>multiple</otmi:vector>
+              <otmi:vector count='2'>native</otmi:vector>
+              <otmi:vector count='2'>within</otmi:vector>
+              <otmi:vector count='2'>future</otmi:vector>
+              <otmi:vector count='2'>linked</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>bond</otmi:vector>
+              <otmi:vector count='2'>move</otmi:vector>
+              <otmi:vector count='2'>directly</otmi:vector>
+              <otmi:vector count='2'>identify</otmi:vector>
+              <otmi:vector count='2'>consequence</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>range</otmi:vector>
+              <otmi:vector count='2'>produce</otmi:vector>
+              <otmi:vector count='2'>base</otmi:vector>
+              <otmi:vector count='2'>residues</otmi:vector>
+              <otmi:vector count='2'>produces</otmi:vector>
+              <otmi:vector count='2'>Partial</otmi:vector>
+              <otmi:vector count='2'>resulting</otmi:vector>
+              <otmi:vector count='2'>assemblies</otmi:vector>
+              <otmi:vector count='2'>useful</otmi:vector>
+              <otmi:vector count='2'>properties</otmi:vector>
+              <otmi:vector count='2'>point</otmi:vector>
+              <otmi:vector count='2'>express</otmi:vector>
+              <otmi:vector count='2'>extraordinary</otmi:vector>
+              <otmi:vector count='2'>gene</otmi:vector>
+              <otmi:vector count='2'>CX614</otmi:vector>
+              <otmi:vector count='2'>axis</otmi:vector>
+              <otmi:vector count='2'>tip</otmi:vector>
+              <otmi:vector count='2'>pair</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>lower</otmi:vector>
+              <otmi:vector count='2'>single-channel</otmi:vector>
+              <otmi:vector count='2'>shape</otmi:vector>
+              <otmi:vector count='2'>attenuated</otmi:vector>
+              <otmi:vector count='2'>hindrance</otmi:vector>
+              <otmi:vector count='2'>alone</otmi:vector>
+              <otmi:vector count='2'>site-directed</otmi:vector>
+              <otmi:vector count='2'>full</otmi:vector>
+              <otmi:vector count='2'>vivo</otmi:vector>
+              <otmi:vector count='2'>mutants</otmi:vector>
+              <otmi:vector count='2'>Q</otmi:vector>
+              <otmi:vector count='2'>modelled</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>showed</otmi:vector>
+              <otmi:vector count='2'>R</otmi:vector>
+              <otmi:vector count='2'>contact</otmi:vector>
+              <otmi:vector count='2'>picture</otmi:vector>
+              <otmi:vector count='2'>vast</otmi:vector>
+              <otmi:vector count='2'>except</otmi:vector>
+              <otmi:vector count='2'>central</otmi:vector>
+              <otmi:vector count='2'>clear</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>saturating</otmi:vector>
+              <otmi:vector count='2'>area</otmi:vector>
+              <otmi:vector count='2'>common</otmi:vector>
+              <otmi:vector count='2'>tested</otmi:vector>
+              <otmi:vector count='2'>pore-loop</otmi:vector>
+              <otmi:vector count='2'>transitions</otmi:vector>
+              <otmi:vector count='2'>Single-channel</otmi:vector>
+              <otmi:vector count='2'>modification</otmi:vector>
+              <otmi:vector count='2'>observation</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>advance</otmi:vector>
+              <otmi:vector count='2'>L650T</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>soluble</otmi:vector>
+              <otmi:vector count='2'>two-fold</otmi:vector>
+              <otmi:vector count='2'>isolated</otmi:vector>
+              <otmi:vector count='2'>blocker</otmi:vector>
+              <otmi:vector count='2'>resting</otmi:vector>
+              <otmi:vector count='2'>reasonable</otmi:vector>
+              <otmi:vector count='2'>emerge</otmi:vector>
+              <otmi:vector count='2'>rapid</otmi:vector>
+              <otmi:vector count='2'>diverse</otmi:vector>
+              <otmi:vector count='2'>known</otmi:vector>
+              <otmi:vector count='2'>glutamate-binding</otmi:vector>
+              <otmi:vector count='2'>principle</otmi:vector>
+              <otmi:vector count='2'>linkers</otmi:vector>
+              <otmi:vector count='2'>discussed</otmi:vector>
+              <otmi:vector count='2'>brain</otmi:vector>
+              <otmi:vector count='2'>Mutations</otmi:vector>
+              <otmi:vector count='2'>situation</otmi:vector>
+              <otmi:vector count='2'>Ca</otmi:vector>
+              <otmi:vector count='2'>perhaps</otmi:vector>
+              <otmi:vector count='2'>similar</otmi:vector>
+              <otmi:vector count='2'>recognition</otmi:vector>
+              <otmi:vector count='2'>S1–S2</otmi:vector>
+              <otmi:vector count='2'>life</otmi:vector>
+              <otmi:vector count='2'>covalent</otmi:vector>
+              <otmi:vector count='2'>require</otmi:vector>
+              <otmi:vector count='2'>finding</otmi:vector>
+              <otmi:vector count='2'>motion</otmi:vector>
+              <otmi:vector count='2'>challenge</otmi:vector>
+              <otmi:vector count='2'>anticipated</otmi:vector>
+              <otmi:vector count='2'>water</otmi:vector>
+              <otmi:vector count='2'>top</otmi:vector>
+              <otmi:vector count='2'>form</otmi:vector>
+              <otmi:vector count='2'>somewhat</otmi:vector>
+              <otmi:vector count='2'>give</otmi:vector>
+              <otmi:vector count='2'>Second</otmi:vector>
+              <otmi:vector count='2'>decreased</otmi:vector>
+              <otmi:vector count='2'>near</otmi:vector>
+              <otmi:vector count='2'>loop</otmi:vector>
+              <otmi:vector count='2'>excessive</otmi:vector>
+              <otmi:vector count='2'>intriguing</otmi:vector>
+              <otmi:vector count='2'>apo</otmi:vector>
+              <otmi:vector count='2'>lysine</otmi:vector>
+              <otmi:vector count='2'>bonds</otmi:vector>
+              <otmi:vector count='2'>formed</otmi:vector>
+              <otmi:vector count='2'>movements</otmi:vector>
+              <otmi:vector count='2'>acts</otmi:vector>
+              <otmi:vector count='2'>dissociation</otmi:vector>
+              <otmi:vector count='2'>ability</otmi:vector>
+              <otmi:vector count='2'>initial</otmi:vector>
+              <otmi:vector count='2'>cyclothiazide</otmi:vector>
+              <otmi:vector count='2'>trafficking</otmi:vector>
+              <otmi:vector count='2'>striking</otmi:vector>
+              <otmi:vector count='2'>around</otmi:vector>
+              <otmi:vector count='2'>topology</otmi:vector>
+              <otmi:vector count='2'>Cyclothiazide</otmi:vector>
+              <otmi:vector count='2'>towards</otmi:vector>
+              <otmi:vector count='2'>d</otmi:vector>
+              <otmi:vector count='2'>response</otmi:vector>
+              <otmi:vector count='2'>chains</otmi:vector>
+              <otmi:vector count='2'>close</otmi:vector>
+              <otmi:vector count='2'>remain</otmi:vector>
+              <otmi:vector count='2'>excitatory</otmi:vector>
+              <otmi:vector count='2'>subconductance</otmi:vector>
+              <otmi:vector count='2'>arranged</otmi:vector>
+              <otmi:vector count='2'>free</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='2'>structurally</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>toxins</otmi:vector>
+              <otmi:vector count='2'>interact</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>body</otmi:vector>
+              <otmi:vector count='2'>postsynaptic</otmi:vector>
+              <otmi:vector count='2'>confirmed</otmi:vector>
+              <otmi:vector count='2'>G-protein-coupled</otmi:vector>
+              <otmi:vector count='2'>varies</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>great</otmi:vector>
+              <otmi:vector count='2'>neurodegeneration</otmi:vector>
+              <otmi:vector count='2'>hydrogen-bond</otmi:vector>
+              <otmi:vector count='2'>Two</otmi:vector>
+              <otmi:vector count='2'>implied</otmi:vector>
+              <otmi:vector count='2'>data</otmi:vector>
+              <otmi:vector count='2'>course</otmi:vector>
+              <otmi:vector count='2'>seem</otmi:vector>
+              <otmi:vector count='2'>makes</otmi:vector>
+              <otmi:vector count='2'>undergo</otmi:vector>
+              <otmi:vector count='2'>classical</otmi:vector>
+              <otmi:vector count='2'>explains</otmi:vector>
+              <otmi:vector count='2'>p</otmi:vector>
+              <otmi:vector count='2'>Unfortunately</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>At</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>NMDA-receptor</otmi:vector>
+              <otmi:vector count='2'>discovered</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>440</otmi:vector>
+              <otmi:vector count='1'>drug</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>Subsequent</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>spirit</otmi:vector>
+              <otmi:vector count='1'>stroke</otmi:vector>
+              <otmi:vector count='1'>figure</otmi:vector>
+              <otmi:vector count='1'>structured</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>650</otmi:vector>
+              <otmi:vector count='1'>Cys-loop</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>complementary</otmi:vector>
+              <otmi:vector count='1'>namely</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>polypeptide</otmi:vector>
+              <otmi:vector count='1'>modelling</otmi:vector>
+              <otmi:vector count='1'>Third</otmi:vector>
+              <otmi:vector count='1'>pairs</otmi:vector>
+              <otmi:vector count='1'>helices</otmi:vector>
+              <otmi:vector count='1'>varied</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>supporting</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>inactive</otmi:vector>
+              <otmi:vector count='1'>determines</otmi:vector>
+              <otmi:vector count='1'>448</otmi:vector>
+              <otmi:vector count='1'>signature</otmi:vector>
+              <otmi:vector count='1'>lined</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>amino-terminal</otmi:vector>
+              <otmi:vector count='1'>projects</otmi:vector>
+              <otmi:vector count='1'>synthetic</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>traditional</otmi:vector>
+              <otmi:vector count='1'>neurodegenerative</otmi:vector>
+              <otmi:vector count='1'>KcsA-based</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>widely</otmi:vector>
+              <otmi:vector count='1'>closed-cleft</otmi:vector>
+              <otmi:vector count='1'>occurring</otmi:vector>
+              <otmi:vector count='1'>named</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>M1</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>Future</otmi:vector>
+              <otmi:vector count='1'>surge</otmi:vector>
+              <otmi:vector count='1'>macroscopic</otmi:vector>
+              <otmi:vector count='1'>located</otmi:vector>
+              <otmi:vector count='1'>homoquinolate</otmi:vector>
+              <otmi:vector count='1'>achievement</otmi:vector>
+              <otmi:vector count='1'>psychiatric</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>member</otmi:vector>
+              <otmi:vector count='1'>heterodimer</otmi:vector>
+              <otmi:vector count='1'>influx</otmi:vector>
+              <otmi:vector count='1'>removal</otmi:vector>
+              <otmi:vector count='1'>field</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>rigorously</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>truncated</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>attention</otmi:vector>
+              <otmi:vector count='1'>constructing</otmi:vector>
+              <otmi:vector count='1'>2-amino-3-(4-bromo-3-hydroxy-isoxazol-5-yl)propionic</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>millimolar</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>40</otmi:vector>
+              <otmi:vector count='1'>Until</otmi:vector>
+              <otmi:vector count='1'>glued</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>prospects</otmi:vector>
+              <otmi:vector count='1'>underlies</otmi:vector>
+              <otmi:vector count='1'>adopted</otmi:vector>
+              <otmi:vector count='1'>spontaneous</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>relieving</otmi:vector>
+              <otmi:vector count='1'>ion-permeation</otmi:vector>
+              <otmi:vector count='1'>inverted</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>ischaemia</otmi:vector>
+              <otmi:vector count='1'>discrete</otmi:vector>
+              <otmi:vector count='1'>potency</otmi:vector>
+              <otmi:vector count='1'>fluorescense</otmi:vector>
+              <otmi:vector count='1'>appeal</otmi:vector>
+              <otmi:vector count='1'>sedimentation</otmi:vector>
+              <otmi:vector count='1'>spends</otmi:vector>
+              <otmi:vector count='1'>discuss</otmi:vector>
+              <otmi:vector count='1'>tetramer</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>lost</otmi:vector>
+              <otmi:vector count='1'>Sine</otmi:vector>
+              <otmi:vector count='1'>clinically</otmi:vector>
+              <otmi:vector count='1'>perspective</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>subsequent</otmi:vector>
+              <otmi:vector count='1'>activate</otmi:vector>
+              <otmi:vector count='1'>drugs</otmi:vector>
+              <otmi:vector count='1'>hints</otmi:vector>
+              <otmi:vector count='1'>thinking</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>classes</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>Also</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>phenotype</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>cooperative</otmi:vector>
+              <otmi:vector count='1'>GYKI</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>phosphatases</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>themes</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>especially</otmi:vector>
+              <otmi:vector count='1'>formidable</otmi:vector>
+              <otmi:vector count='1'>wide</otmi:vector>
+              <otmi:vector count='1'>Lurcher</otmi:vector>
+              <otmi:vector count='1'>pharmacological</otmi:vector>
+              <otmi:vector count='1'>nine</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>exciting</otmi:vector>
+              <otmi:vector count='1'>orientation</otmi:vector>
+              <otmi:vector count='1'>willardiines</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>Monod–Wyman–Changeux</otmi:vector>
+              <otmi:vector count='1'>kainic</otmi:vector>
+              <otmi:vector count='1'>Leu</otmi:vector>
+              <otmi:vector count='1'>notably</otmi:vector>
+              <otmi:vector count='1'>alternative</otmi:vector>
+              <otmi:vector count='1'>kainate-receptor</otmi:vector>
+              <otmi:vector count='1'>imagine</otmi:vector>
+              <otmi:vector count='1'>locate</otmi:vector>
+              <otmi:vector count='1'>broader</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>three-dimensional</otmi:vector>
+              <otmi:vector count='1'>respect</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>conductance</otmi:vector>
+              <otmi:vector count='1'>FRET</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>fruitful</otmi:vector>
+              <otmi:vector count='1'>compound</otmi:vector>
+              <otmi:vector count='1'>remainder</otmi:vector>
+              <otmi:vector count='1'>encode</otmi:vector>
+              <otmi:vector count='1'>stabilize</otmi:vector>
+              <otmi:vector count='1'>Ashcroft</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>fivefold</otmi:vector>
+              <otmi:vector count='1'>exactly</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>intersubunit</otmi:vector>
+              <otmi:vector count='1'>appreciably</otmi:vector>
+              <otmi:vector count='1'>supply</otmi:vector>
+              <otmi:vector count='1'>representative</otmi:vector>
+              <otmi:vector count='1'>voltage</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>summarize</otmi:vector>
+              <otmi:vector count='1'>low-affinity</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>stabilized</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>generation</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>excluding</otmi:vector>
+              <otmi:vector count='1'>monitor</otmi:vector>
+              <otmi:vector count='1'>genetically</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>lacks</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>Confirming</otmi:vector>
+              <otmi:vector count='1'>-activated</otmi:vector>
+              <otmi:vector count='1'>purify</otmi:vector>
+              <otmi:vector count='1'>clam-shell-like</otmi:vector>
+              <otmi:vector count='1'>cerebellar</otmi:vector>
+              <otmi:vector count='1'>coordination</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>80</otmi:vector>
+              <otmi:vector count='1'>pathophysiology</otmi:vector>
+              <otmi:vector count='1'>modulate</otmi:vector>
+              <otmi:vector count='1'>MWC-like</otmi:vector>
+              <otmi:vector count='1'>electrophysiological</otmi:vector>
+              <otmi:vector count='1'>periphery</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>33</otmi:vector>
+              <otmi:vector count='1'>tackled.</otmi:vector>
+              <otmi:vector count='1'>databank</otmi:vector>
+              <otmi:vector count='1'>NR2B</otmi:vector>
+              <otmi:vector count='1'>resolved</otmi:vector>
+              <otmi:vector count='1'>snapshot</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>Five</otmi:vector>
+              <otmi:vector count='1'>retrospect</otmi:vector>
+              <otmi:vector count='1'>learned</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>variation</otmi:vector>
+              <otmi:vector count='1'>seven</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>extension</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>uncoupling</otmi:vector>
+              <otmi:vector count='1'>secondary-structure</otmi:vector>
+              <otmi:vector count='1'>potassium-selective</otmi:vector>
+              <otmi:vector count='1'>clues</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>profound</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>modifies</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>molecules</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>exchange</otmi:vector>
+              <otmi:vector count='1'>helix-bundle</otmi:vector>
+              <otmi:vector count='1'>reflects</otmi:vector>
+              <otmi:vector count='1'>modular</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>S2–M3</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>closer</otmi:vector>
+              <otmi:vector count='1'>modulator</otmi:vector>
+              <otmi:vector count='1'>NR2A–D</otmi:vector>
+              <otmi:vector count='1'>MWC</otmi:vector>
+              <otmi:vector count='1'>mediating</otmi:vector>
+              <otmi:vector count='1'>interest</otmi:vector>
+              <otmi:vector count='1'>desensitizing</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>extend</otmi:vector>
+              <otmi:vector count='1'>outward</otmi:vector>
+              <otmi:vector count='1'>caught</otmi:vector>
+              <otmi:vector count='1'>Competitive</otmi:vector>
+              <otmi:vector count='1'>disulphide-linked</otmi:vector>
+              <otmi:vector count='1'>connects</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>g-carboxyl</otmi:vector>
+              <otmi:vector count='1'>fuzzy</otmi:vector>
+              <otmi:vector count='1'>transmission</otmi:vector>
+              <otmi:vector count='1'>mouse</otmi:vector>
+              <otmi:vector count='1'>greatest</otmi:vector>
+              <otmi:vector count='1'>homologue</otmi:vector>
+              <otmi:vector count='1'>homologues</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>fourth</otmi:vector>
+              <otmi:vector count='1'>hint</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>biochemical</otmi:vector>
+              <otmi:vector count='1'>contraction</otmi:vector>
+              <otmi:vector count='1'>Notably</otmi:vector>
+              <otmi:vector count='1'>peptide</otmi:vector>
+              <otmi:vector count='1'>efforts</otmi:vector>
+              <otmi:vector count='1'>two-state</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>ATDs</otmi:vector>
+              <otmi:vector count='1'>Each</otmi:vector>
+              <otmi:vector count='1'>continue</otmi:vector>
+              <otmi:vector count='1'>fine-tuning</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>density</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>tetrameric</otmi:vector>
+              <otmi:vector count='1'>immediate</otmi:vector>
+              <otmi:vector count='1'>granule</otmi:vector>
+              <otmi:vector count='1'>Glutamate</otmi:vector>
+              <otmi:vector count='1'>small-molecule</otmi:vector>
+              <otmi:vector count='1'>accommodate</otmi:vector>
+              <otmi:vector count='1'>shares</otmi:vector>
+              <otmi:vector count='1'>Memantine</otmi:vector>
+              <otmi:vector count='1'>closest</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>1980s</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>cation</otmi:vector>
+              <otmi:vector count='1'>lowers</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>500</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>resolutions</otmi:vector>
+              <otmi:vector count='1'>microscopy</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>sophisticated</otmi:vector>
+              <otmi:vector count='1'>ACBC</otmi:vector>
+              <otmi:vector count='1'>halogen-substituted</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>begin</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>noncompetitive</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>vary</otmi:vector>
+              <otmi:vector count='1'>Coupling</otmi:vector>
+              <otmi:vector count='1'>investment</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>food</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>presynaptic</otmi:vector>
+              <otmi:vector count='1'>permeation</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>lurcher</otmi:vector>
+              <otmi:vector count='1'>prevented</otmi:vector>
+              <otmi:vector count='1'>main-chain</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>diversity</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>considers</otmi:vector>
+              <otmi:vector count='1'>conceptualize</otmi:vector>
+              <otmi:vector count='1'>Na</otmi:vector>
+              <otmi:vector count='1'>experimentally</otmi:vector>
+              <otmi:vector count='1'>S</otmi:vector>
+              <otmi:vector count='1'>plausible</otmi:vector>
+              <otmi:vector count='1'>Modular</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>pulled</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>proximity</otmi:vector>
+              <otmi:vector count='1'>albeit</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>mutations</otmi:vector>
+              <otmi:vector count='1'>microsecond-to-millisecond</otmi:vector>
+              <otmi:vector count='1'>measure</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>behavioural</otmi:vector>
+              <otmi:vector count='1'>attenuate</otmi:vector>
+              <otmi:vector count='1'>NMR</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>replacement</otmi:vector>
+              <otmi:vector count='1'>crevice</otmi:vector>
+              <otmi:vector count='1'>exhibit</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>Binding</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>disruption</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>interrupted</otmi:vector>
+              <otmi:vector count='1'>activated</otmi:vector>
+              <otmi:vector count='1'>communicate</otmi:vector>
+              <otmi:vector count='1'>S1</otmi:vector>
+              <otmi:vector count='1'>disease</otmi:vector>
+              <otmi:vector count='1'>K-channel</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>leaving</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>receptor–ligand</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>DRPEER</otmi:vector>
+              <otmi:vector count='1'>Experimental</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>selective</otmi:vector>
+              <otmi:vector count='1'>easy</otmi:vector>
+              <otmi:vector count='1'>occupies</otmi:vector>
+              <otmi:vector count='1'>detectors</otmi:vector>
+              <otmi:vector count='1'>Ligand</otmi:vector>
+              <otmi:vector count='1'>nanosecond</otmi:vector>
+              <otmi:vector count='1'>MthK</otmi:vector>
+              <otmi:vector count='1'>purified</otmi:vector>
+              <otmi:vector count='1'>stabilization</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>opens</otmi:vector>
+              <otmi:vector count='1'>pull</otmi:vector>
+              <otmi:vector count='1'>0.8</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>States</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>solvent</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>maximum</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>glutamate-bound</otmi:vector>
+              <otmi:vector count='1'>coactivation</otmi:vector>
+              <otmi:vector count='1'>barrier</otmi:vector>
+              <otmi:vector count='1'>allows</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>electric</otmi:vector>
+              <otmi:vector count='1'>homodimers</otmi:vector>
+              <otmi:vector count='1'>earnest</otmi:vector>
+              <otmi:vector count='1'>M</otmi:vector>
+              <otmi:vector count='1'>overexpress</otmi:vector>
+              <otmi:vector count='1'>vertebrate</otmi:vector>
+              <otmi:vector count='1'>jam</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>State-dependent</otmi:vector>
+              <otmi:vector count='1'>accessory</otmi:vector>
+              <otmi:vector count='1'>availability</otmi:vector>
+              <otmi:vector count='1'>subtle</otmi:vector>
+              <otmi:vector count='1'>absolute</otmi:vector>
+              <otmi:vector count='1'>hetero-dimer</otmi:vector>
+              <otmi:vector count='1'>convulsants</otmi:vector>
+              <otmi:vector count='1'>glutamate-gated</otmi:vector>
+              <otmi:vector count='1'>excise</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>hyperactivation</otmi:vector>
+              <otmi:vector count='1'>coassembly</otmi:vector>
+              <otmi:vector count='1'>opening</otmi:vector>
+              <otmi:vector count='1'>sophistication</otmi:vector>
+              <otmi:vector count='1'>interpretation</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>conceptually</otmi:vector>
+              <otmi:vector count='1'>20-ns</otmi:vector>
+              <otmi:vector count='1'>bearing</otmi:vector>
+              <otmi:vector count='1'>threonine</otmi:vector>
+              <otmi:vector count='1'>suitable</otmi:vector>
+              <otmi:vector count='1'>sheet</otmi:vector>
+              <otmi:vector count='1'>Engel</otmi:vector>
+              <otmi:vector count='1'>severe</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>United</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>limiting</otmi:vector>
+              <otmi:vector count='1'>incredibly</otmi:vector>
+              <otmi:vector count='1'>obligate</otmi:vector>
+              <otmi:vector count='1'>J</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>folded</otmi:vector>
+              <otmi:vector count='1'>arrangement</otmi:vector>
+              <otmi:vector count='1'>array</otmi:vector>
+              <otmi:vector count='1'>definitive</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>immediately</otmi:vector>
+              <otmi:vector count='1'>Mutation</otmi:vector>
+              <otmi:vector count='1'>restores</otmi:vector>
+              <otmi:vector count='1'>breaks</otmi:vector>
+              <otmi:vector count='1'>AMPA-bound</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>calcium</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>permitting</otmi:vector>
+              <otmi:vector count='1'>goes</otmi:vector>
+              <otmi:vector count='1'>requirement</otmi:vector>
+              <otmi:vector count='1'>dead</otmi:vector>
+              <otmi:vector count='1'>accepted</otmi:vector>
+              <otmi:vector count='1'>insertion</otmi:vector>
+              <otmi:vector count='1'>restricted</otmi:vector>
+              <otmi:vector count='1'>trigger</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>trapped</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>assume</otmi:vector>
+              <otmi:vector count='1'>receptor-subtype</otmi:vector>
+              <otmi:vector count='1'>handle</otmi:vector>
+              <otmi:vector count='1'>Desensitization</otmi:vector>
+              <otmi:vector count='1'>Algorithms</otmi:vector>
+              <otmi:vector count='1'>tempered</otmi:vector>
+              <otmi:vector count='1'>atomic-resolution</otmi:vector>
+              <otmi:vector count='1'>glycine-binding</otmi:vector>
+              <otmi:vector count='1'>naturally</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>rotate</otmi:vector>
+              <otmi:vector count='1'>counter</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>glutamine</otmi:vector>
+              <otmi:vector count='1'>cysteine</otmi:vector>
+              <otmi:vector count='1'>Tyr</otmi:vector>
+              <otmi:vector count='1'>cytoskeletal</otmi:vector>
+              <otmi:vector count='1'>wild-type</otmi:vector>
+              <otmi:vector count='1'>readily</otmi:vector>
+              <otmi:vector count='1'>as-yet-unidentified</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>excitement</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>proceed</otmi:vector>
+              <otmi:vector count='1'>mimicked</otmi:vector>
+              <otmi:vector count='1'>European</otmi:vector>
+              <otmi:vector count='1'>uncertain</otmi:vector>
+              <otmi:vector count='1'>cysteine-scanning</otmi:vector>
+              <otmi:vector count='1'>F</otmi:vector>
+              <otmi:vector count='1'>entry</otmi:vector>
+              <otmi:vector count='1'>demonstration</otmi:vector>
+              <otmi:vector count='1'>mutant</otmi:vector>
+              <otmi:vector count='1'>positioned</otmi:vector>
+              <otmi:vector count='1'>NR2A–NR2D</otmi:vector>
+              <otmi:vector count='1'>separate</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>caps</otmi:vector>
+              <otmi:vector count='1'>three-helix</otmi:vector>
+              <otmi:vector count='1'>GluR6</otmi:vector>
+              <otmi:vector count='1'>architecture</otmi:vector>
+              <otmi:vector count='1'>coincidence</otmi:vector>
+              <otmi:vector count='1'>shaped</otmi:vector>
+              <otmi:vector count='1'>Kainate</otmi:vector>
+              <otmi:vector count='1'>neuroprotective</otmi:vector>
+              <otmi:vector count='1'>indirect</otmi:vector>
+              <otmi:vector count='1'>tryptophan</otmi:vector>
+              <otmi:vector count='1'>stretches</otmi:vector>
+              <otmi:vector count='1'>Impetus</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>subfamily</otmi:vector>
+              <otmi:vector count='1'>deeper</otmi:vector>
+              <otmi:vector count='1'>atomic</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>Biophysical</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>simultaneous</otmi:vector>
+              <otmi:vector count='1'>Biochemical</otmi:vector>
+              <otmi:vector count='1'>attracted</otmi:vector>
+              <otmi:vector count='1'>static</otmi:vector>
+              <otmi:vector count='1'>according</otmi:vector>
+              <otmi:vector count='1'>mediators</otmi:vector>
+              <otmi:vector count='1'>Suprisingly</otmi:vector>
+              <otmi:vector count='1'>entirely</otmi:vector>
+              <otmi:vector count='1'>crossing</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>profoundly</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>crystals</otmi:vector>
+              <otmi:vector count='1'>arose</otmi:vector>
+              <otmi:vector count='1'>solvent-mediated</otmi:vector>
+              <otmi:vector count='1'>maximal</otmi:vector>
+              <otmi:vector count='1'>KA1</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>environmental</otmi:vector>
+              <otmi:vector count='1'>served</otmi:vector>
+              <otmi:vector count='1'>KA2</otmi:vector>
+              <otmi:vector count='1'>a-amino</otmi:vector>
+              <otmi:vector count='1'>heteromeric</otmi:vector>
+              <otmi:vector count='1'>salt</otmi:vector>
+              <otmi:vector count='1'>apart</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>bacteria</otmi:vector>
+              <otmi:vector count='1'>verified</otmi:vector>
+              <otmi:vector count='1'>converts</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>compelling</otmi:vector>
+              <otmi:vector count='1'>sample</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>interior</otmi:vector>
+              <otmi:vector count='1'>equilibrium</otmi:vector>
+              <otmi:vector count='1'>combining</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>leucine-isoleucine-valine-binding</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>eukaryotes</otmi:vector>
+              <otmi:vector count='1'>bundle</otmi:vector>
+              <otmi:vector count='1'>More</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>kinases</otmi:vector>
+              <otmi:vector count='1'>enthusiasm</otmi:vector>
+              <otmi:vector count='1'>Union</otmi:vector>
+              <otmi:vector count='1'>easier</otmi:vector>
+              <otmi:vector count='1'>naming</otmi:vector>
+              <otmi:vector count='1'>dementia</otmi:vector>
+              <otmi:vector count='1'>tunnel</otmi:vector>
+              <otmi:vector count='1'>traced</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>Even</otmi:vector>
+              <otmi:vector count='1'>protomers</otmi:vector>
+              <otmi:vector count='1'>partners</otmi:vector>
+              <otmi:vector count='1'>excludes</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>approval</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>forces</otmi:vector>
+              <otmi:vector count='1'>opposed</otmi:vector>
+              <otmi:vector count='1'>productive</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>despite</otmi:vector>
+              <otmi:vector count='1'>stepwise</otmi:vector>
+              <otmi:vector count='1'>scissors-like</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>GluR1</otmi:vector>
+              <otmi:vector count='1'>nervous</otmi:vector>
+              <otmi:vector count='1'>conformations</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>cycle</otmi:vector>
+              <otmi:vector count='1'>scheme</otmi:vector>
+              <otmi:vector count='1'>5-position</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>crosslinking</otmi:vector>
+              <otmi:vector count='1'>strain</otmi:vector>
+              <otmi:vector count='1'>flux</otmi:vector>
+              <otmi:vector count='1'>permeability</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>agents</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>systematic</otmi:vector>
+              <otmi:vector count='1'>se</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>complicated</otmi:vector>
+              <otmi:vector count='1'>resolve</otmi:vector>
+              <otmi:vector count='1'>oligomerization</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>visits</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>conformationally</otmi:vector>
+              <otmi:vector count='1'>underlie</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>detail</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>allo-steric</otmi:vector>
+              <otmi:vector count='1'>visualized</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>note</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>electron</otmi:vector>
+              <otmi:vector count='1'>underlying</otmi:vector>
+              <otmi:vector count='1'>advanced</otmi:vector>
+              <otmi:vector count='1'>adopt</otmi:vector>
+              <otmi:vector count='1'>crystallography</otmi:vector>
+              <otmi:vector count='1'>resonance</otmi:vector>
+              <otmi:vector count='1'>MK801</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>infer</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>connecting</otmi:vector>
+              <otmi:vector count='1'>means</otmi:vector>
+              <otmi:vector count='1'>dissect</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>relief</otmi:vector>
+              <otmi:vector count='1'>calmodulin</otmi:vector>
+              <otmi:vector count='1'>NR3B</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>Purkinje</otmi:vector>
+              <otmi:vector count='1'>modulatory</otmi:vector>
+              <otmi:vector count='1'>raise</otmi:vector>
+              <otmi:vector count='1'>acids</otmi:vector>
+              <otmi:vector count='1'>intermolecular</otmi:vector>
+              <otmi:vector count='1'>900–1400</otmi:vector>
+              <otmi:vector count='1'>calorimetry</otmi:vector>
+              <otmi:vector count='1'>tuned</otmi:vector>
+              <otmi:vector count='1'>NR1–NR2A</otmi:vector>
+              <otmi:vector count='1'>Fourth</otmi:vector>
+              <otmi:vector count='1'>vital</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>ACPC</otmi:vector>
+              <otmi:vector count='1'>NR3A</otmi:vector>
+              <otmi:vector count='1'>subtype-selective</otmi:vector>
+              <otmi:vector count='1'>discovery</otmi:vector>
+              <otmi:vector count='1'>fusion</otmi:vector>
+              <otmi:vector count='1'>sense</otmi:vector>
+              <otmi:vector count='1'>aspartate</otmi:vector>
+              <otmi:vector count='1'>terminus</otmi:vector>
+              <otmi:vector count='1'>dependence</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>perfect</otmi:vector>
+              <otmi:vector count='1'>metabotropic</otmi:vector>
+              <otmi:vector count='1'>overwhelming</otmi:vector>
+              <otmi:vector count='1'>promote</otmi:vector>
+              <otmi:vector count='1'>polyamines</otmi:vector>
+              <otmi:vector count='1'>trapping</otmi:vector>
+              <otmi:vector count='1'>diminished</otmi:vector>
+              <otmi:vector count='1'>structure–function</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>splicing</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>gates</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>Further</otmi:vector>
+              <otmi:vector count='1'>scanning</otmi:vector>
+              <otmi:vector count='1'>computational</otmi:vector>
+              <otmi:vector count='1'>assumes</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>increasingly</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>hydroxyl</otmi:vector>
+              <otmi:vector count='1'>agonist-triggered</otmi:vector>
+              <otmi:vector count='1'>coexpression</otmi:vector>
+              <otmi:vector count='1'>bridges</otmi:vector>
+              <otmi:vector count='1'>later</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>exclusively</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A fourth family encoded by two δ subunits is much less well understood </otmi:snippet>
+              <otmi:snippet>A major challenge for the future will be to identify the conformation of the ligand-binding cores in the desensitized state of a dimer assembly</otmi:snippet>
+              <otmi:snippet>A subsequent systematic analysis of dimer contacts observed in the crystal structure was performed by site-directed mutagenesis, and changes in the kinetics of desensitization were measured </otmi:snippet>
+              <otmi:snippet>AMPA receptors are encoded by four genes ( GluR1 – 4 ), kainate receptors by three genes for &quot;low-affinity&quot; subunits ( GluR5 – 7 ) and two for &quot;high-affinity&quot; subunits ( KA1 and KA2 ), and NMDA receptors by seven genes ( NR1 , NR2A–D , NR3A and NR3B )</otmi:snippet>
+              <otmi:snippet>AMPA receptors have key roles in mediating the rapid excitatory synaptic current, the kinetics of which is tuned over about a fivefold range in different structures of the brain </otmi:snippet>
+              <otmi:snippet>Algorithms for secondary-structure prediction indicate only short stretches of α-helix and β-sheet, suggesting that this region acts as more of a handle for cytoskeletal and cytoplasmic proteins, where the recognition sites are encoded not by classical three-dimensional structured domains, but rather by relatively short primary signature sequences</otmi:snippet>
+              <otmi:snippet>All of the K-channel structures solved so far exhibit four-fold symmetry, but coordination of K + ions does not require this per se , so perhaps the structure of even the GluR0 pore is somewhat different</otmi:snippet>
+              <otmi:snippet>Also significant is the observation that the GYKI family of noncompetitive AMPA receptor antagonists seem to interact with the S2–M3 linker </otmi:snippet>
+              <otmi:snippet>Although functional experiments have yet to begin in earnest, two results are of particular note</otmi:snippet>
+              <otmi:snippet>Although many details remain to be resolved, it seems reasonable to assume that gating of the ion channel in iGluRs results from movement of the TM segments that are pulled open by contraction of the ligand-binding cores in a dimer assembly</otmi:snippet>
+              <otmi:snippet>Although many important details will be learned in the immediate future from crystallization of the ligand-binding cores of additional iGluR subtypes and complexes, the major challenge is to extend this approach to other receptor domains, perhaps to an intact receptor, and to figure out how the domains communicate with each other</otmi:snippet>
+              <otmi:snippet>Although the homology model developed for the NR2A glutamate complex differs in detail from the subsequently published NR2A crystal structure , and assumes that the extent of domain closure is identical for homoquinolate and glutamate, the approach of combining high-resolution single-channel recording with MD simulations based on experimentally determined crystal structures has great potential</otmi:snippet>
+              <otmi:snippet>Although the majority are for agonist and partial agonist complexes with GluR2, structures have also been solved for the kainate receptor GluR5 and GluR6 subunits, the NMDA receptor NR1 and NR2A subunits, and for several competitive antagonists</otmi:snippet>
+              <otmi:snippet>Although the same is true in NMDA receptors, additional intersubunit contacts between domains 1 and 2 suggest mechanisms for allosteric coupling between the glutamate- and glycine-binding sites</otmi:snippet>
+              <otmi:snippet>Although this principle is probably the same for NMDA receptors the details are much less well understood</otmi:snippet>
+              <otmi:snippet>An intriguing extension of this model, which could explain negative allosteric modulation by ligands such as Zn 2+ and ifenprodil, is possible if one considers that domain closure of the ATD will pull apart the protomers in a ligand-binding core dimer assembly ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>Another important difference is that for all potassium channel structures solved so far, the subunits are arranged with perfect four-fold symmetry</otmi:snippet>
+              <otmi:snippet>As a consequence of our limited ability to overexpress and purify eukaryotic membrane proteins, it is far from clear when or if this will be possible</otmi:snippet>
+              <otmi:snippet>As a result the g-carboxyl group projects towards helix F in all iGluR structures</otmi:snippet>
+              <otmi:snippet>As a result, details of the ion-permeation process, the binding sites for channel blockers, and the site of interactions with recently identified accessory membrane proteins remain to be determined</otmi:snippet>
+              <otmi:snippet>As discussed below, such dimers have a key role in coupling the binding of glutamate to the activation of ion-channel gating</otmi:snippet>
+              <otmi:snippet>At both the structural and functional level this is a vast area to explore</otmi:snippet>
+              <otmi:snippet>At the macroscopic level this can be modelled as resulting from either block of entry into the desensitized state (as occurs for cyclothiazide) or stabilization of the open state (as occurs for aniracetam )</otmi:snippet>
+              <otmi:snippet>Because each subunit contains a complete agonist-binding site, which is coupled to TM segments in the same subunit, it is easy to imagine how the activation of individual subunits could generate partial opening of the ion channel</otmi:snippet>
+              <otmi:snippet>Binding of either glutamate or glycine alone does not trigger ion-channel gating, and when the channel does open, it visits only one subconductance state, suggesting a cooperative gating scheme involving simultaneous, or tightly coupled, transitions by pairs of channel gates </otmi:snippet>
+              <otmi:snippet>Biochemical and crystallographic experiments have established that both classes of compound bind in a solvent-filled hydrophobic crevice at the base of the ligand-binding core dimer, but at different sites</otmi:snippet>
+              <otmi:snippet>Biophysical studies have revealed many intriguing features for these channels, such as the unique requirement for coactivation of NMDA receptors by both glycine and glutamate, which bind to NR1 and NR2 subunits, respectively</otmi:snippet>
+              <otmi:snippet>But M3 is vital for channel activity in eukaryotes, and its removal, together with the associated cytoplasmic C terminus, produces inactive receptors</otmi:snippet>
+              <otmi:snippet>But in the absence of structural data, it is not possible to explain how this occurs </otmi:snippet>
+              <otmi:snippet>But the difference is much more subtle than observed for AMPA receptor partial agonists</otmi:snippet>
+              <otmi:snippet>But the most exciting recent advance is the solution of high-resolution crystal structures for the ligand-binding cores for individual iGluR subunits</otmi:snippet>
+              <otmi:snippet>But this experiment also revealed a second mechanism closer in spirit to the widely accepted Monod–Wyman–Changeux (MWC) model for allosteric gating </otmi:snippet>
+              <otmi:snippet>Competitive antagonists jam the ligand-binding cores in their resting conformation by a foot-in-the-door mechanism</otmi:snippet>
+              <otmi:snippet>Confirming this picture are additional crystal structures for individual structurally diverse partial agonists for both AMPA and kainate receptors including ( S )-2-amino-3-(4-bromo-3-hydroxy-isoxazol-5-yl)propionic acid and kainic acid </otmi:snippet>
+              <otmi:snippet>Coupling of ion-channel activity to agonist binding A dimer is present in the vast majority of iGluR crystal structures, including the recently solved NMDA receptor NR1/NR2A hetero-dimer </otmi:snippet>
+              <otmi:snippet>Cyclothiazide binds to a pair of sites at the periphery of the dimer, whereas aniracetam and CX614 bind to a single site located on the molecular two-fold axis of symmetry </otmi:snippet>
+              <otmi:snippet>Cyclothiazide slows desensitization by greatly stabilizing the dimer interface, whereas aniracetam slows deactivation by stabilizing the ligand-binding domain in the agonist-bound, closed-cleft, active conformation</otmi:snippet>
+              <otmi:snippet>Desensitization and allosteric modulation The gating model shown in Fig. 4 can explain how the channel opens because dimer assembly occurs mainly through the domain 1 surface, leaving domain 2 free to move</otmi:snippet>
+              <otmi:snippet>Despite this, evidence for a dimer of dimers is now overwhelming</otmi:snippet>
+              <otmi:snippet>Each subtype has a unique role</otmi:snippet>
+              <otmi:snippet>Even with (or without) this information, studies using a variety of experimental approaches including calorimetry, fluorescense resonance energy transfer (FRET), electron microscopy, NMR, and of course electrophysiological techniques, will be required to bring life to the static iGluR structures revealed by crystallography</otmi:snippet>
+              <otmi:snippet>Experimental tests to define exactly how this occurs have yet to be reported </otmi:snippet>
+              <otmi:snippet>Finally, the ligand-binding cavity contains trapped water molecules that have key roles in the agonist-binding mechanism</otmi:snippet>
+              <otmi:snippet>First, as shown in Fig. 3 , the ligand-binding core is much larger than is necessary to accommodate glutamate</otmi:snippet>
+              <otmi:snippet>First, the slow deactivation of NMDA receptors, which is key to their biological function at synapses , occurs in part as a result of an amino-acid difference in the NR1 subunit in which a tyrosine residue at the base of the dimer interface occupies the site to which aniracetam binds in AMPA receptors</otmi:snippet>
+              <otmi:snippet>Five key themes emerge from comparison of these structures</otmi:snippet>
+              <otmi:snippet>For AMPA receptors, these methods showed that agonist efficacy is directly coupled to the extent of domain closure </otmi:snippet>
+              <otmi:snippet>Fourth, competitive antagonists work by a foot-in-the-door mechanism, trapping the ligand-binding domain in a wide open conformation </otmi:snippet>
+              <otmi:snippet>From a structural perspective the most fruitful have been cysteine-scanning mutagenesis experiments in which the rate of covalent modification of cysteine side chains was measured </otmi:snippet>
+              <otmi:snippet>From these structures, plausible models have been rigorously tested to identify in broad terms the mechanisms underlying activation and desensitization, and the action of some allosteric modulators on the ligand-binding domain</otmi:snippet>
+              <otmi:snippet>Further investment in computational studies is another approach with great potential, but major advances will require the development of techniques to describe protein motion on the microsecond-to-millisecond time scale</otmi:snippet>
+              <otmi:snippet>Future prospects The extraordinary advances in understanding the ligand-binding mechanisms of iGluRs arose largely from crystallographic efforts</otmi:snippet>
+              <otmi:snippet>Glutamate receptors and disease The availability of selective and potent NMDA receptor antagonists, especially the channel blocker MK801, triggered an enormous research effort in the 1980s when it was discovered that excessive calcium influx through NMDA receptors triggered neurodegeneration in animal models of ischaemia</otmi:snippet>
+              <otmi:snippet>Here the mechanism is easier to conceptualize, although the lack of structural data for the alanine mutant means that a definitive interpretation is not possible</otmi:snippet>
+              <otmi:snippet>However, for GluR0, which is highly potassium-selective, the situation is less clear </otmi:snippet>
+              <otmi:snippet>However, for NMDA receptors in which the NR1 and NR2 subunits form obligate heteromeric assemblies, the symmetry mismatch goes as far as the tip of the pore loop</otmi:snippet>
+              <otmi:snippet>However, for kainate the L650T mutation increased both the efficacy and the extent of domain closure, indicating that ligands can activate receptors by more than one mechanism</otmi:snippet>
+              <otmi:snippet>However, in all iGluRs the channel orientation in the membrane is inverted compared with that found in classical potassium channels</otmi:snippet>
+              <otmi:snippet>However, the chemistry of the ligand-binding pocket in periplasmic proteins, and even in the prokaryotic iGluR homologue GluR0 (ref. 33 ), differs appreciably from that for vertebrate iGluRs</otmi:snippet>
+              <otmi:snippet>However, the issue is not dead, and there is reasonable hope that, by fine-tuning receptor-subtype selectivity and affinity, clinically useful drugs will eventually emerge</otmi:snippet>
+              <otmi:snippet>Impetus for this is a growing body of evidence that glutamate receptors have key roles in a much broader variety of neurodegenerative and psychiatric diseases than first anticipated and the approval of the NMDA-receptor channel blocker Memantine for treatment of dementia in the United States and the European Union </otmi:snippet>
+              <otmi:snippet>In NMDA receptors, the ATD of the NR2A and NR2B subunits bind the negative allosteric modulators Zn 2+ and the drug ifenprodil, respectively </otmi:snippet>
+              <otmi:snippet>In NMDA receptors, this glutamate is replaced by an aspartate, and in the NR2A complex the direct hydrogen bond to the agonist α-amino group is replaced by a solvent-mediated contact</otmi:snippet>
+              <otmi:snippet>In addition, its location relative to M1 and M2 is uncertain</otmi:snippet>
+              <otmi:snippet>In all nine AMPA and kainate receptor genes, the ligand a-amino group is bound by a conserved glutamate side chain</otmi:snippet>
+              <otmi:snippet>In all of these structures an arginine side chain on helix D forms the major binding site for the ligand α-carboxyl group ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>In all subtypes of iGluR, the ligand-binding core dimers are &quot;glued&quot; together by hydrophobic contacts made by the surface of helices D and J in domain 1, together with hydrogen bonds and salt bridges, the details of which vary according to receptor subtype</otmi:snippet>
+              <otmi:snippet>In conceptually related experiments, scanning mutagenesis with glutamate, alanine and tryptophan residues has given clues about the surface topology at the cytoplasmic entrance to the pore and the location of the binding site for polyamines, which act as endogenous pore blockers for AMPA and kainate receptors with a glutamine at the Q/R editing site </otmi:snippet>
+              <otmi:snippet>In contrast to its role in G-protein-coupled glutamate receptors, in iGluRs the ATD does not bind glutamate but instead forms dimers that are major assembly control points limiting oligomerization to members of the same iGluR subfamily </otmi:snippet>
+              <otmi:snippet>In contrast, crystallographic structures reveal a snapshot of proteins caught in one of the many different conformations they sample during their functional life cycle</otmi:snippet>
+              <otmi:snippet>In contrast, domain 1 shares a common shape and chemistry in all iGluR subtypes, consistent with its role in binding the α-amino and α-carboxyl groups, which are common to all iGluR agonists</otmi:snippet>
+              <otmi:snippet>In contrast, the agonist-binding domains of iGluRs are arranged as dimers of dimers</otmi:snippet>
+              <otmi:snippet>In retrospect there is no compelling reason to expect four-fold symmetry within the ion-channel pore for any eukaryotic glutamate receptor</otmi:snippet>
+              <otmi:snippet>In sedimentation equilibrium experiments using purified GluR2 ligand-binding cores, both cyclothiazide and CX614 greatly stabilized the dimer</otmi:snippet>
+              <otmi:snippet>In this model, the movement of domain 2 towards domain 1 during the transition from the open cleft of the apo state to the closed cleft of the glutamate-bound complex produces a scissors-like outward motion of the linkers connecting the ion-channel transmembrane (TM) segments to the ligand-binding core ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>In this review I discuss the molecular organization of iGluRs; I explain how crystallographic studies have shaped our thinking about how agonists open the channel; and I summarize what we know about the rapid desensitization and allosteric modulation of AMPA receptors</otmi:snippet>
+              <otmi:snippet>In this sense, our understanding of Cys-loop receptors, for which structures are available for the intact protein, albeit at lower resolution, is more advanced (see the review by Sine and Engel, p. 448 in this issue)</otmi:snippet>
+              <otmi:snippet>Indeed, iGluRs are the only ligand-gated ion channels for which there is any structural basis for the mechanism of action of allosteric modulators</otmi:snippet>
+              <otmi:snippet>It also verified that the stability of the dimer assembly in the resting and active state is generated by a network of intermolecular contacts that are distributed over an area of about 900–1400 Å 2 </otmi:snippet>
+              <otmi:snippet>It is also possible that the ATD of many iGluRs has lost the ability to bind endogenous ligands and that its major role now is to control assembly</otmi:snippet>
+              <otmi:snippet>Kainate receptors have a major modulatory role at both presynaptic and postsynaptic sites, and kainate-receptor agonists have long been known to be potent convulsants and environmental toxins in the food supply </otmi:snippet>
+              <otmi:snippet>Ligand binding at atomic resolution The general principle that glutamate, or glycine in the case of the NMDA receptor NR1 subunit, binds in the cleft of a clam-shell-like motif formed from the S1–S2 segments of a single iGluR subunit was anticipated from earlier structural analysis of bacterial periplasmic ligand-binding proteins</otmi:snippet>
+              <otmi:snippet>Lurcher is produced by a point mutation in the second TM segment of the δ2 subunit</otmi:snippet>
+              <otmi:snippet>MD simulations on the AMPA-receptor glutamate complex, which measured the stability of hydrogen bonds and hydrophobic contacts, give a hint of what is possible for studies on the nanosecond timescale </otmi:snippet>
+              <otmi:snippet>Many agonist and partial agonist structures have been solved, and this enormous body of new information is discussed in depth later in this review</otmi:snippet>
+              <otmi:snippet>Modular organization of iGluR subunits The iGluRs have a characteristic modular architecture that seems to have been formed by fusion of three genetically discrete gene segments that in bacteria encode individual proteins ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>More recent work, also on AMPA receptors, revealed for the first time transitions from the open to closed cleft conformation during 20-ns simulations </otmi:snippet>
+              <otmi:snippet>Most probably, dimer formation occurs readily in vitro owing to the high protein concentrations present in crystals</otmi:snippet>
+              <otmi:snippet>Mutation of Leu 650 to Tyr in the AMPA receptor reduced the steric hindrance that prevented kainate from acting as a full agonist</otmi:snippet>
+              <otmi:snippet>Mutations in the ligand-binding pocket can also profoundly affect desensitization: notably, replacement by alanine of a tyrosine side chain that caps the binding site in AMPA receptors converts kainate from a very weak partial agonist into a potent and strongly desensitizing ligand, most probably because of relief of steric hindrance and increased domain closure </otmi:snippet>
+              <otmi:snippet>Mutations outside the dimer interface, in the linker from S2 to the second transmembrane segment, attenuate desensitization in both AMPA and kainate receptors</otmi:snippet>
+              <otmi:snippet>NMDA receptors, which have attracted enormous interest, act as coincidence detectors</otmi:snippet>
+              <otmi:snippet>NMDA-receptor dimer assemblies The recent crystallization of a heterodimer of the ligand-binding cores of the NR1–NR2A complex, and the biochemical demonstration using disulphide-linked receptors that this assembly is the native form, as opposed to separate NR1 and NR2 homodimers, is a major achievement that explains several unique functional properties of NMDA receptors </otmi:snippet>
+              <otmi:snippet>NR1 has a binding pocket just about the right size for this smaller residue, and therefore excludes glutamate by steric effects </otmi:snippet>
+              <otmi:snippet>Notably, in the dimer assembly of AMPA and kainate receptors, domain 2 is free to move in the transition from the apo to agonist-bound conformation</otmi:snippet>
+              <otmi:snippet>Partial agonists Partial agonists are ligands that when applied at a saturating concentration to a receptor produce less than the maximal response</otmi:snippet>
+              <otmi:snippet>Second, in contrast to the situation for AMPA and kainate receptors, in which the ligand-binding core dimer interface is generated exclusively by domain 1 contacts, in NMDA receptors both domain 1 and domain 2 contribute to the dimer interface</otmi:snippet>
+              <otmi:snippet>Second, subtype selectivity arises from amino-acid differences in domain 2, which shape the size and chemistry of the ligand-binding pocket; steric effects have key roles in permitting the binding of subtype-selective agonists and excluding other ligands </otmi:snippet>
+              <otmi:snippet>Single-channel analysis of the partial agonist action of homoquinolinic acid on the glutamate-binding site of the NR2A subunit revealed a reduced rate constant for channel activation, which was linked to different binding mechanisms for glutamate and homoquinolinic acid, predicted by molecular dynamics (MD) simulations </otmi:snippet>
+              <otmi:snippet>Single-channel recording can measure, on an absolute scale, the fraction of time that a channel spends in the open state </otmi:snippet>
+              <otmi:snippet>State-dependent crosslinking experiments on AMPA receptors suggest that the top of the helix-bundle crossing implied by a KcsA-based structural model is better modelled as a dimer of dimers rather than a tetramer, indicating that if a symmetry mismatch does occurs its location is deeper in the channel </otmi:snippet>
+              <otmi:snippet>Subsequent studies on NMDA receptors have reinforced the view that different mechanisms can underlie partial agonist activity</otmi:snippet>
+              <otmi:snippet>Suprisingly, coexpression of M3 and truncated receptors restores activity, showing that there is no need for a covalent link between M3 and S2 during receptor activation </otmi:snippet>
+              <otmi:snippet>Surprisingly, in humans there are no diseases that have been unambiguously linked to mutations in glutamate-receptor genes, although several animal diseases have been discovered, which have provided us with useful mouse models</otmi:snippet>
+              <otmi:snippet>Surprisingly, the γ-carboxyl group is not bound by a counter charge from a lysine or arginine side chain, but instead makes hydrogen-bond contacts with the main-chain peptide bond and the hydroxyl group of a conserved threonine side chain</otmi:snippet>
+              <otmi:snippet>The MWC-like mechanism, in which the affinity of ligands for a single active conformation determines their efficacy, was suggested by the observation that the L650T mutation reduced the efficacy but did not reduce the extent of domain closure for the complex with AMPA</otmi:snippet>
+              <otmi:snippet>The above studies are striking examples of how the combination of crystallographic and functional studies can dissect complex allosteric mechanisms</otmi:snippet>
+              <otmi:snippet>The agonist-binding domain of iGluRs is encoded by two polypeptide segments named S1 and S2, which as shown in Fig. 1 are interrupted by insertion of the ion-channel pore </otmi:snippet>
+              <otmi:snippet>The amino-terminal domain (ATD) has homology with leucine-isoleucine-valine-binding protein (LIVBP), a bacterial periplasmic binding protein, as well as with the structurally related glutamate-binding domain of the G-protein-coupled metabotropic receptors</otmi:snippet>
+              <otmi:snippet>The appeal of this partial agonist mechanism is that it also explains the stepwise increase in single-channel conductance observed during dissociation of competitive antagonists from an AMPA receptor in the presence of a saturating concentration of glutamate </otmi:snippet>
+              <otmi:snippet>The cavity is completely closed off from the extracellular solution, except for NR2A, for which a solvent-filled tunnel connects the glutamate ligand in the interior of the protein to the extracellular environment</otmi:snippet>
+              <otmi:snippet>The conformation adopted by glutamate is similar in AMPA, kainate and NMDA receptor NR2 subunits</otmi:snippet>
+              <otmi:snippet>The dimer of dimers model implied by the crystal structures of the ligand-binding cores has not been confirmed at a structural level, and no tetrameric assembly has yet been visualized at a resolution sufficient to resolve how the individual subunits are positioned with respect to each other</otmi:snippet>
+              <otmi:snippet>The dissociation constant, K d , for dimer formation by the isolated ligand-binding cores is in the millimolar range for wild-type iGluRs, except for GluR0, for which the K d is 0.8 µM</otmi:snippet>
+              <otmi:snippet>The effects on dimer stability measured for isolated S1–S2 constructs correlated with the extent of desensitization measured in intact receptors bearing the same mutants </otmi:snippet>
+              <otmi:snippet>The exception is NR1, which binds glycine</otmi:snippet>
+              <otmi:snippet>The existence of a large number of genes, coupled with alternative splicing and RNA editing , makes the functional analysis of native glutamate receptors a formidable task</otmi:snippet>
+              <otmi:snippet>The extent of domain closure for the NR1 subunit partial agonists ACPC and ACBC, which produce only 80% and 40% of the maximum response, is the same as that for full agonists </otmi:snippet>
+              <otmi:snippet>The finding that AMPA receptors in vivo coassemble with an auxiliary subunit, and that this modifies their affinity for agonists and their kinetics of deactivation and desensitization, was entirely unexpected</otmi:snippet>
+              <otmi:snippet>The gating model for iGluRs, based on movements of the linker regions in the ligand-binding core crystal dimers, suggests that the top of the channel, near the extracellular surface, must undergo large conformational movements</otmi:snippet>
+              <otmi:snippet>The glutamate-receptor ion channels (iGluRs), namely AMPA, kainate and NMDA receptors, are the major mediators of excitatory synaptic transmission in the central nervous system </otmi:snippet>
+              <otmi:snippet>The greatest diversity among iGluR subtypes is found in their cytoplasmic domain, which varies in size from less than 20 to around 500 amino acids</otmi:snippet>
+              <otmi:snippet>The high-resolution crystal structures solved for the NR1 subunit partial agonists revealed local conformational changes in the ligand-binding site, with the consequence that despite identical domain closure, the structures of the NR1 agonist and partial agonist complexes are indeed different</otmi:snippet>
+              <otmi:snippet>The initial surge of excitement was rapidly tempered by studies that showed that NMDA receptor antagonists had severe behavioural side effects</otmi:snippet>
+              <otmi:snippet>The ion channel A variety of approaches subsequently revealed the transmembrane topology of iGluRs</otmi:snippet>
+              <otmi:snippet>The ion-channel pore is lined mainly by residues from M2, the second transmembrane segment, with Ca 2+ permeability determined both by the amino acid at the tip of the pore loop (the Q/R site) and by the DRPEER sequence in the linker between M2 and S2 in NMDA receptors </otmi:snippet>
+              <otmi:snippet>The ion-channel pore of iGluRs has striking sequence homology with that of bacterial potassium channels, suggesting that iGluRs also contain a pore-loop motif first identified in crystal structures of bacterial potassium channels (see also the review in this issue by Ashcroft, p. 440 )</otmi:snippet>
+              <otmi:snippet>The past five years have been incredibly productive and I hope progress will continue at this rate as more complex structural problems are tackled.</otmi:snippet>
+              <otmi:snippet>The picture that has emerged from these studies ( Fig. 5 ) suggests a three-helix bundle supporting a pore-loop motif that forms the closest point of contact with ions near the cytoplasmic entrance to the channel </otmi:snippet>
+              <otmi:snippet>The process of gating and desensitization is of course more complex than can be explained by the simple two-state models shown in Fig. 4 </otmi:snippet>
+              <otmi:snippet>The profound desensitization of AMPA receptors is strongly attenuated by small-molecule, positive allosteric modulators that seem to act through two somewhat related mechanisms</otmi:snippet>
+              <otmi:snippet>The results of site-directed mutagenesis and molecular modelling studies, which suggest that Zn 2+ and ifenprodil promote domain closure and stabilize a closed cleft conformation of the ATD, raise the question of whether there are as-yet-unidentified endogenous modulators that bind to other members of the iGluR family </otmi:snippet>
+              <otmi:snippet>The same mutation also greatly reduces the potency for glutamate, possibly as a result of disruption of hydrogen-bond contacts and solvent structure in the ligand-binding site</otmi:snippet>
+              <otmi:snippet>The stargazer phenotype results from a loss of AMPA-receptor trafficking to synapses on cerebellar granule cells, which has been traced to a mutation in the γ2 member of a family of auxiliary membrane proteins, which modulate both AMPA receptor trafficking and gating kinetics </otmi:snippet>
+              <otmi:snippet>The structure of the dimer assembly in iGluRs immediately suggested a mechanism for ion-channel gating</otmi:snippet>
+              <otmi:snippet>The tyrosine thus acts as an endogenous allosteric modulator that slows deactivation </otmi:snippet>
+              <otmi:snippet>There is a large array of proteins that coassemble in the postsynaptic density, and many of these interact with glutamate receptors, either directly or through intermediate partners </otmi:snippet>
+              <otmi:snippet>There is indirect evidence that for eukaryotic iGluRs, which do not discriminate between Na + and K + , the extracellular pore entrance itself lacks four-fold symmetry </otmi:snippet>
+              <otmi:snippet>These experiments have reached a high degree of sophistication such that the voltage dependence of modification has been measured to locate the position of side chains in the membrane electric field </otmi:snippet>
+              <otmi:snippet>These monitor changes in membrane potential and the presence of glutamate in the synaptic cleft </otmi:snippet>
+              <otmi:snippet>These receptors were identified through traditional pharmacological approaches, and their naming reflects this: AMPA, kainate and NMDA are synthetic agonists and naturally occurring toxins not found in the brain </otmi:snippet>
+              <otmi:snippet>These results confirmed that in AMPA receptors the dimer interface must undergo a rearrangement in order for desensitization to proceed</otmi:snippet>
+              <otmi:snippet>These served as the initial models for the ligand-binding domains of iGluRs </otmi:snippet>
+              <otmi:snippet>Third, the extent of agonist-triggered domain closure varies between receptor subtypes, and also for individual agonists, partial agonists and antagonists </otmi:snippet>
+              <otmi:snippet>This conclusion was based on analysis of a series of 5-position halogen-substituted willardiines, partial agonists for which the extent of domain closure varied owing to steric effects</otmi:snippet>
+              <otmi:snippet>This domain also has sequence and structural homology with bacterial periplasmic proteins but it differs in structure from LIVBP and the ATD of iGluRs</otmi:snippet>
+              <otmi:snippet>This finding was unexpected because structure–function studies with conformationally restricted ligands suggested that glutamate would adopt an extended conformation when bound to NMDA receptors but a folded conformation when bound to NMDA receptors </otmi:snippet>
+              <otmi:snippet>This has been achieved for representative members from each gene family, providing for the first time a detailed understanding of agonist recognition in a diverse family of ligand-gated ion channels</otmi:snippet>
+              <otmi:snippet>This information was used to infer the structure of the channel</otmi:snippet>
+              <otmi:snippet>This is a key site of allosteric modulation by calmodulin, protein kinases and phosphatases </otmi:snippet>
+              <otmi:snippet>This is an extraordinary advance that required the solution of multiple receptor–ligand complexes, the large majority at resolutions better than 2 Å, and at present the protein databank contains structures for more than 60 iGluR structures</otmi:snippet>
+              <otmi:snippet>This is not surprising given the different amino-acid sequence in the NR1 and NR2 subunits in this region</otmi:snippet>
+              <otmi:snippet>This mechanism is similar to that subsequently proposed for the Ca 2+ -activated K channel MthK </otmi:snippet>
+              <otmi:snippet>This model was tested by constructing mutants that either increased or decreased the stability of dimer formation</otmi:snippet>
+              <otmi:snippet>This mutation causes spontaneous ion-channel activity, possibly as a result of attenuated desensitization, which leads to excessive cation flux and neurodegeneration of Purkinje cells, which express δ2 at high levels </otmi:snippet>
+              <otmi:snippet>This potentially forces the issue of a mismatch between the expected four-fold symmetry of the ion-channel pore, and the two-fold symmetry required by the dimer of dimers arrangement, but only if the ion-channel pore has four-fold symmetry</otmi:snippet>
+              <otmi:snippet>This residue is essential for the high-affinity binding of glutamate or glycine, and its mutation, even to lysine, greatly lowers agonist affinity</otmi:snippet>
+              <otmi:snippet>This result hints that that the reduced efficacy occurs because of a decreased stability of the fully activated AMPA-bound state</otmi:snippet>
+              <otmi:snippet>This suggests a mechanism for allo-steric coupling between NR2 and NR1, which underlies the large variation in glycine affinity observed on coassembly with the NR2A–NR2D subunits</otmi:snippet>
+              <otmi:snippet>This suggests a model in which desensitization occurs when the dimer undergoes a conformational rearrangement that breaks contacts at the domain 1 surface</otmi:snippet>
+              <otmi:snippet>This uncoupling allows the pair of subunits in a dimer to rotate around the central axis, relieving strain on the ion-channel linkers and allowing the ion channel to close, even though the agonist remains bound with high affinity</otmi:snippet>
+              <otmi:snippet>This view was reinforced by the discovery of GluR0, a bacterial glutamate-gated potassium channel </otmi:snippet>
+              <otmi:snippet>This work also revealed that as a result of differences in domain closure, water exchange rates within the ligand-binding pocket were much faster for the partial agonist kainate than for glutamate</otmi:snippet>
+              <otmi:snippet>This would be mimicked in vivo by the close proximity of the ligand-binding cores resulting from dimer formation by the ATDs that coassemble at much lower protein concentrations</otmi:snippet>
+              <otmi:snippet>This would lead to the generation of multiple subconductance states characteristic of AMPA and kainate subtype iGluRs</otmi:snippet>
+              <otmi:snippet>This, coupled with increasingly sophisticated research on stroke mechanisms that revealed a pathophysiology much more complicated than could be explained by hyperactivation of NMDA receptors alone, greatly diminished enthusiasm for further work with glutamate-receptor antagonists as neuroprotective agents</otmi:snippet>
+              <otmi:snippet>Two complementary techniques have revealed how these ligands act</otmi:snippet>
+              <otmi:snippet>Two of the most interesting are lurcher and stargazer</otmi:snippet>
+              <otmi:snippet>Unfortunately the details are fuzzy and even the location of the barrier to ion permeation in the closed and desensitized states remains to be unambiguously determined</otmi:snippet>
+              <otmi:snippet>Unfortunately very little is known about the molecular organization of this region</otmi:snippet>
+              <otmi:snippet>Until recently little attention was given to the M3 segment, which is present in all eukaryotic iGluRs but not their prokaryotic homologues</otmi:snippet>
+              <otmi:snippet>What has emerged from crystallographic studies of the ligand-binding cores is atomic-resolution knowledge of the mechanisms that give each receptor its characteristic ligand-binding properties</otmi:snippet>
+              <otmi:snippet>With genetic approaches it is possible to excise the agonist-binding domain from the remainder of an iGluR subunit and express just this as a soluble domain as a soluble protein suitable for crystallization </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Modular organization of a glutamate receptor.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Diagrammatic representation of the amino-terminal domain (ATD), the two domain (D1 and D2) ligand-binding core encoded by the S1 (cyan) S2 (orange) peptide segments, the ion-channel domain with three membrane-spanning segments and a pore-loop (P), and the intracellular C terminus. b , Molecular architecture illustrated by the crystal structures of the mGluR1 ligand-binding domain dimer (green), the GluR5 ligand-binding core dimer (S1, cyan; S2 orange) and two subunits from the KcsA tetramer (grey). Note that S1 and S2 contribute to both domains of the ligand-binding core owing to the crossover of S1 into D2 and S2 in D1. An intact glutamate receptor is believed to assemble as a dimer of dimers.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Conserved structural elements in the agonist-binding site of iGluRs.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , The sequence alignment and secondary-structure assignment for GluR2 (α-helix in pink; β-sheet in yellow) indicate conserved features in the binding sites of AMPA, kainate and NMDA receptors. Key side chains that bind glutamate are highlighted in blue, red or cyan and marked with an asterisk; black and grey boxes indicate identical and conserved amino acids. b , The crystal structure for the GluR6 glutamate complex shows, as ball-and-stick models, the Arg (R492), Glu (E707) and Thr (T659) side chains that bind glutamate. Dashed lines indicate hydrogen bonds with main-chain and side-chain atoms. Not shown are four additional solvent-mediated hydrogen bonds that connect the agonist molecule with the ligand-binding site.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Solvent-accessible surfaces of the ligand-binding cavity in iGluR agonist crystal structures.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Superposition of the cavity interior in GluR2 (blue), GluR5 (green) and GluR6 (red); the bound ligand is glutamate plus seven water molecules shown as red spheres in the GluR5 complex. b , Cavities for NR1 (yellow) and NR2A (blue); the bound ligands are glycine for NR1 and glutamate plus four water molecules (green) in the NR2A complex; water molecules in the tunnel are shown as red spheres. Note that the glutamate ligand is much larger than can be accommodated by the NR1 cavity.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Activation of iGluR gating, resulting from agonist-induced expansion of the ligand-binding core dimer.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Diagrammatic representations of the resting, activated and desensitized states to illustrate how domain closure is linked to separation of the ligand-binding core dimer domain 2 segments. Lower panel, crystal structures of the GluR5 ligand-binding core dimer in the resting (antagonist bound) and active glutamate-bound conformations . Currently no structure for the desensitized state has been reported. b , Diagrammatic representations indicating a hypothetical model of how binding of an allosteric modulator to the ATD could pull the agonist-binding core dimer apart and trigger channel closure. Small red circles represent glutamate.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>The pore region of the KcsA potassium channel used as a template to map the results of site-directed mutagenesis on iGluR channel block by polyamines.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>At the tip of the pore loop (P), but nowhere else in the channel, introduction of tryptophan produces a pM affinity-binding site for polyamines. At the cytoplasmic entrance to the channel, red spheres indicate amino-acid α-carbon atom positions for which introduction of glutamate side chains supports polyamine block. In the linker from M2 to the ligand-binding domain, the DRPEER sequence probably contributes to a Ca 2+ -binding site near the entrance to the channel .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1146/annurev.pa.21.040181.001121</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0301-0082(87)90011-6</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0166-2236(95)93868-X</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0896-6273(95)90076-4</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nrn1118</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(91)90371-5</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0896-6273(94)90464-2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(01)00333-6</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M408413200</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)00163-X</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M208349200</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0896-6273(94)90420-0</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.117.4.345</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0166-2236(02)00010-3</otmi:refid>
+          <otmi:refid>info:doi/10.1038/45568</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(04)00008-X</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0166-2236(99)01490-3</otmi:refid>
+          <otmi:refid>info:doi/10.1124/mol.61.3.595</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M400103200</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.271.26.15299</otmi:refid>
+          <otmi:refid>info:doi/10.1006/jmbi.2001.4884</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0165-6147(90)90038-A</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/cdg005</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.neuron.2005.01.031</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)00094-5</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nn1091</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0022-2836(02)00650-2</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.0123-06.2005</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.280.5369.1596</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.1037393100</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.neuron.2005.05.022</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.neuron.2005.05.022</otmi:refid>
+          <otmi:refid>info:doi/10.1124/mol.104.008185</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature04089</otmi:refid>
+          <otmi:refid>info:doi/10.1088/1478-3975/2/4/S08</otmi:refid>
+          <otmi:refid>info:doi/10.1088/1478-3975/2/4/S08</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nn1000</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2005.095349</otmi:refid>
+          <otmi:refid>info:doi/10.1038/417245a</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(04)00018-2</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.2567-05.2005</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.0757-04.2004</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M507800200</otmi:refid>
+          <otmi:refid>info:doi/10.1038/346565a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0922-4106(94)90058-2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80165-8</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80710-2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.tins.2004.04.005</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.neuron.2005.09.024</otmi:refid>
+          <otmi:refid>info:doi/10.1038/42009</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.0660-04.2004</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03624</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.1108-05.2005</otmi:refid>
+          <otmi:refid>info:doi/10.1523/JNEUROSCI.4834-04.2005</otmi:refid>
+          <otmi:refsnoid>21</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,336 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Avian flu Influenza virus receptors in the human airway</title>
+      <id>info:doi/10.1038/440435a</id>
+      <link href='http://dx.doi.org/10.1038/440435a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Kyoko Shinya</name>
+      </author>
+      <author>
+        <name>Masahito Ebina</name>
+      </author>
+      <author>
+        <name>Shinya Yamada</name>
+      </author>
+      <author>
+        <name>Masao Ono</name>
+      </author>
+      <author>
+        <name>Noriyuki Kasai</name>
+      </author>
+      <author>
+        <name>Yoshihiro Kawaoka</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>435</prism:startingPage>
+      <prism:endingPage>436</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Although more than 100 people have been infected by H5N1 influenza A viruses, human-to-human transmission is rare . What are the molecular barriers limiting human-to-human transmission? Here we demonstrate an anatomical difference in the distribution in the human airway of the different binding molecules preferred by the avian and human influenza viruses. The respective molecules are sialic acid linked to galactose by an α-2,3 linkage (SAα2,3Gal) and by an α-2,6 linkage (SAα2,6Gal) . Our findings may provide a rational explanation for why H5N1 viruses at present rarely infect and spread between humans although they can replicate efficiently in the lungs.</otmi:rawtext>
+            <otmi:reducedtext>Although more than 100 people have been infected H5N1 influenza viruses, human--human transmission rare . molecular barriers limiting human--human transmission? Here demonstrate anatomical difference distribution human airway different binding molecules preferred avian human influenza viruses. respective molecules sialic acid linked galactose α-2,3 linkage (SAα2,3Gal) α-2,6 linkage (SAα2,6Gal) . Our findings may provide rational explanation why H5N1 viruses at present rarely infect spread between humans although they can replicate efficiently lungs.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='3'>viruses</otmi:vector>
+              <otmi:vector count='2'>human-to-human</otmi:vector>
+              <otmi:vector count='2'>transmission</otmi:vector>
+              <otmi:vector count='2'>H5N1</otmi:vector>
+              <otmi:vector count='2'>influenza</otmi:vector>
+              <otmi:vector count='2'>linkage</otmi:vector>
+              <otmi:vector count='2'>molecules</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>lungs.</otmi:vector>
+              <otmi:vector count='1'>avian</otmi:vector>
+              <otmi:vector count='1'>infected</otmi:vector>
+              <otmi:vector count='1'>efficiently</otmi:vector>
+              <otmi:vector count='1'>explanation</otmi:vector>
+              <otmi:vector count='1'>rational</otmi:vector>
+              <otmi:vector count='1'>SAα2,3Gal</otmi:vector>
+              <otmi:vector count='1'>2,3</otmi:vector>
+              <otmi:vector count='1'>linked</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>galactose</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>airway</otmi:vector>
+              <otmi:vector count='1'>preferred</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>2,6</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>SAα2,6Gal</otmi:vector>
+              <otmi:vector count='1'>anatomical</otmi:vector>
+              <otmi:vector count='1'>limiting</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>rarely</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>respective</otmi:vector>
+              <otmi:vector count='1'>acid</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>replicate</otmi:vector>
+              <otmi:vector count='1'>sialic</otmi:vector>
+              <otmi:vector count='1'>binding</otmi:vector>
+              <otmi:vector count='1'>infect</otmi:vector>
+              <otmi:vector count='1'>findings</otmi:vector>
+              <otmi:vector count='1'>barriers</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Although more than 100 people have been infected by H5N1 influenza A viruses, human-to-human transmission is rare </otmi:snippet>
+              <otmi:snippet>Our findings may provide a rational explanation for why H5N1 viruses at present rarely infect and spread between humans although they can replicate efficiently in the lungs.</otmi:snippet>
+              <otmi:snippet>The respective molecules are sialic acid linked to galactose by an α-2,3 linkage (SAα2,3Gal) and by an α-2,6 linkage (SAα2,6Gal) </otmi:snippet>
+              <otmi:snippet>What are the molecular barriers limiting human-to-human transmission? Here we demonstrate an anatomical difference in the distribution in the human airway of the different binding molecules preferred by the avian and human influenza viruses</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='23'>cells</otmi:vector>
+              <otmi:vector count='10'>SAα2,3Gal</otmi:vector>
+              <otmi:vector count='10'>SAα2,6Gal</otmi:vector>
+              <otmi:vector count='9'>alveolar</otmi:vector>
+              <otmi:vector count='8'>viruses</otmi:vector>
+              <otmi:vector count='7'>epithelial</otmi:vector>
+              <otmi:vector count='5'>supplementary</otmi:vector>
+              <otmi:vector count='5'>H5N1</otmi:vector>
+              <otmi:vector count='5'>preferentially</otmi:vector>
+              <otmi:vector count='5'>see</otmi:vector>
+              <otmi:vector count='5'>information</otmi:vector>
+              <otmi:vector count='4'>virus</otmi:vector>
+              <otmi:vector count='4'>bronchial</otmi:vector>
+              <otmi:vector count='4'>avian</otmi:vector>
+              <otmi:vector count='4'>human</otmi:vector>
+              <otmi:vector count='4'>bronchi</otmi:vector>
+              <otmi:vector count='4'>respiratory</otmi:vector>
+              <otmi:vector count='4'>infected</otmi:vector>
+              <otmi:vector count='3'>can</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>Fig</otmi:vector>
+              <otmi:vector count='3'>bound</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>replicate</otmi:vector>
+              <otmi:vector count='3'>recognizing</otmi:vector>
+              <otmi:vector count='3'>recognize</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>extensively</otmi:vector>
+              <otmi:vector count='3'>express</otmi:vector>
+              <otmi:vector count='3'>efficiently</otmi:vector>
+              <otmi:vector count='2'>indicate</otmi:vector>
+              <otmi:vector count='2'>213</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>isolated</otmi:vector>
+              <otmi:vector count='2'>lining</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>molecules</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>could</otmi:vector>
+              <otmi:vector count='2'>Kong</otmi:vector>
+              <otmi:vector count='2'>Hong</otmi:vector>
+              <otmi:vector count='2'>surfactant</otmi:vector>
+              <otmi:vector count='2'>airway</otmi:vector>
+              <otmi:vector count='2'>protein</otmi:vector>
+              <otmi:vector count='2'>shown</otmi:vector>
+              <otmi:vector count='2'>confer</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>tract</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>molecule</otmi:vector>
+              <otmi:vector count='2'>transmission</otmi:vector>
+              <otmi:vector count='2'>Human-derived</otmi:vector>
+              <otmi:vector count='2'>ability</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>viral</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>type-II</otmi:vector>
+              <otmi:vector count='2'>03</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>bronchiole</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>SAα2,6Gal-binding</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>nasal</otmi:vector>
+              <otmi:vector count='1'>mucosa</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>alveolus</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>SAα2,3Gal-positive</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>differentiated</otmi:vector>
+              <otmi:vector count='1'>humans.</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>2c</otmi:vector>
+              <otmi:vector count='1'>prevalence</otmi:vector>
+              <otmi:vector count='1'>coughing</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>lectins</otmi:vector>
+              <otmi:vector count='1'>sialyloligosaccharides</otmi:vector>
+              <otmi:vector count='1'>pharynx</otmi:vector>
+              <otmi:vector count='1'>inefficient</otmi:vector>
+              <otmi:vector count='1'>upper</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>2a</otmi:vector>
+              <otmi:vector count='1'>recognizes</otmi:vector>
+              <otmi:vector count='1'>anatomical</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>preferential</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>Alveolar</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>restriction</otmi:vector>
+              <otmi:vector count='1'>haemagglutinin</otmi:vector>
+              <otmi:vector count='1'>pandemic</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>bronchioles</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>widely</otmi:vector>
+              <otmi:vector count='1'>terminal</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>sinuses</otmi:vector>
+              <otmi:vector count='1'>readily</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>sneezing</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>virus-binding</otmi:vector>
+              <otmi:vector count='1'>avian-virus</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>wall</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>patient</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>antibody</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>substitutions</otmi:vector>
+              <otmi:vector count='1'>non-ciliated</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>junction</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>proteins</otmi:vector>
+              <otmi:vector count='1'>amino-acid</otmi:vector>
+              <otmi:vector count='1'>prevalent</otmi:vector>
+              <otmi:vector count='1'>b</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>tracheal</otmi:vector>
+              <otmi:vector count='1'>bronchiolar</otmi:vector>
+              <otmi:vector count='1'>findings</otmi:vector>
+              <otmi:vector count='1'>trachea</otmi:vector>
+              <otmi:vector count='1'>paranasal</otmi:vector>
+              <otmi:vector count='1'>transmitted</otmi:vector>
+              <otmi:vector count='1'>d</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>unimpeded</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>Epithelial</otmi:vector>
+              <otmi:vector count='1'>lesser</otmi:vector>
+              <otmi:vector count='1'>dominant</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>PB2</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>cuboidal</otmi:vector>
+              <otmi:vector count='1'>acquisition</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>reacted</otmi:vector>
+              <otmi:vector count='1'>enable</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>birds</otmi:vector>
+              <otmi:vector count='1'>human-to-human</otmi:vector>
+              <otmi:vector count='1'>occasionally</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>Mutations</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>artificially</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>suggests</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Although not quantitative, these results indicate that there could be functional significance in the preferential expression of SAα2,3Gal and SAα2,6Gal molecules on human airway cells</otmi:snippet>
+              <otmi:snippet>Alveolar type-II cells have been shown to be infected with H5N1 virus in a patient </otmi:snippet>
+              <otmi:snippet>As shown in a virus-binding assay, A/Hong Kong/213/03 infected both alveolar cells and epithelial cells in bronchi (see supplementary information )</otmi:snippet>
+              <otmi:snippet>But the anatomical distribution and prevalence of SAα2,3Gal and SAα2,6Gal in the human airway was unknown</otmi:snippet>
+              <otmi:snippet>Epithelial cells in the paranasal sinuses, the pharynx, the trachea and the bronchi mainly express SAα2,6Gal ( Fig. 1 , and see supplementary information )</otmi:snippet>
+              <otmi:snippet>Human-derived viruses preferentially recognizing SAα2,6Gal efficiently infected epithelial cells lining the bronchi and alveolar cells ( Fig. 2a, b ), whereas avian viruses preferentially recognizing SAα2,3Gal infected alveolar cells but not bronchial epithelial cells ( Fig. 2c, d , and see supplementary information )</otmi:snippet>
+              <otmi:snippet>Human-derived viruses that preferentially recognize SAα2,6Gal bound extensively to epithelial cells in the bronchi and, to a lesser degree, to alveolar cells; by contrast, avian viruses that preferentially recognize SAα2,3Gal bound extensively to alveolar cells but less widely to bronchial epithelial cells (see supplementary information )</otmi:snippet>
+              <otmi:snippet>In the terminal and respiratory bronchioles, epithelial cells also express SAα2,6Gal sialyloligosaccharides</otmi:snippet>
+              <otmi:snippet>It is interesting that the A/Hong Kong/213/03 (H5N1) virus, which was isolated from a human and recognizes both SAα2,3Gal and SAα2,6Gal (ref. 6 ), bound extensively to both bronchial and alveolar cells</otmi:snippet>
+              <otmi:snippet>Mutations in the viral haemagglutinin molecule would be necessary to confer SAα2,6Gal-binding ability on H5N1 avian viruses, although amino-acid substitutions in other viral proteins, including PB2 (refs 7 , 8 ), may be required to confer pandemic potential on avian viruses that can efficiently replicate in humans.</otmi:snippet>
+              <otmi:snippet>Our findings indicate that although H5N1 viruses preferentially recognizing SAα2,3Gal can be transmitted from birds to humans, they can replicate efficiently only in cells in the lower region of the respiratory tract, where the avian-virus receptor is prevalent</otmi:snippet>
+              <otmi:snippet>SAα2,3Gal molecules have been found on cells artificially differentiated from isolated human tracheal and bronchial cells in vitro </otmi:snippet>
+              <otmi:snippet>SAα2,3Gal was found on non-ciliated cuboidal bronchiolar cells at the junction between the respiratory bronchiole and alveolus, however, and a substantial number of cells lining the alveolar wall also expressed this molecule</otmi:snippet>
+              <otmi:snippet>The SAα2,3Gal-positive alveolar cells also reacted to an antibody against surfactant protein A; this suggests that they were alveolar type-II cells (which express surfactant protein A)</otmi:snippet>
+              <otmi:snippet>This change would enable the virus to replicate in the upper region of the respiratory tract, where it could be readily spread by sneezing and coughing</otmi:snippet>
+              <otmi:snippet>This restriction may contribute to the inefficient human-to-human transmission of H5N1 viruses seen so far, and indicates that unimpeded transmission of the virus might require acquisition of the ability to recognize SAα2,6Gal</otmi:snippet>
+              <otmi:snippet>Using lectins specific for SAα2,3Gal and SAα2,6Gal, we found that SAα2,6Gal is dominant on epithelial cells in nasal mucosa, with SAα2,3Gal being occasionally detected (for details and methods, see supplementary information )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Reactivity of human respiratory tissues with lectins specific for different sialic acid linkages.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a, Nasal mucosa; b, paranasal sinuses; c, bronchus; d, bronchiole; e, alveolus. Res, respiratory bronchiole (adjacent to alveoli); Ter, terminal bronchiole (distal to alveoli); Alv, alveolus. Green, reaction with Sambucus nigra lectin, indicating the presence of sialic acid linked to galactose by an α2,6-linkage (SAα2,6Gal). Red, reaction with Maackia amurensis lectin, indicating the presence of SAα2,3Gal. Cells were counterstained with DAPI (4,6-diamidino-2-phenylindole).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Infection of human respiratory tissue by influenza A viruses.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a, Extensive infection of bronchial epithelial cells by human A/Kawasaki/173/01 (H1N1) virus. b, Infection of alveolar cells by the human virus. c, Bronchial epithelial cells are not infected by A/duck/Mongolia/301/01 (H3N2) virus. d, Infection of alveolar cells by the avian virus. The results obtained with other human viruses, A/Yokohama/2057/03 (H3N2) and A/Kawasaki/176/02 (H1N1), were similar to those obtained with A/Kawasaki/173/01, and those obtained with the avian viruses A/duck/Czechoslovakia/56 (H4N6) and A/duck/Vietnam/5001/05 (H5N1) were similar to those obtained with A/duck/Mongolia/301/01. Infected cells are stained brown.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references />
+      </otmi:data>
+    </entry>

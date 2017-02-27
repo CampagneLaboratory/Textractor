@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="TrecLoader" className="textractor.chain.loader.Html2TextArticleLoader"
+           directory="/dat/scratch/mjw/trec/2006/"
+           parserClass="textractor.html.Html2TextNoref"
+           recursive="true" appendSentencesInOneDocument="true"
+           extensions="html">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+                 basename="index/trec-paice-index"
+                 chunk-size="100" batch-size="20Mi"
+                 parenthesesAreWords="true" skips="true"
+                 wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+                 termProcessorClass="textractor.mg4j.index.PaiceHuskStemmingTermProcessor"/>
+    </chain>
+</catalog>

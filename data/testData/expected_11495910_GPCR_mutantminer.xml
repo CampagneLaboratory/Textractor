@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_articleSet>
+    <_article PMID="11495910" xsi:type="_article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <_primaryProtein>
+            <_protein>
+                <_spName>acetylcholineR</_spName>
+                <_synonyms>
+                    <_synonym>muscarinic receptors</_synonym>
+                    <_synonym>muscarinic receptor</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>ADA1B</_spName>
+                <_synonyms>
+                    <_synonym>alpha1b receptor</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>ACM1</_spName>
+                <_synonyms>
+                    <_synonym>M1</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>OL139</_spName>
+                <_synonyms>
+                    <_synonym>M5</_synonym>
+                </_synonyms>
+            </_protein>
+            <_protein>
+                <_spName>ACM5</_spName>
+                <_synonyms>
+                    <_synonym>M5</_synonym>
+                </_synonyms>
+            </_protein>
+        </_primaryProtein>
+        <_globalInfo>
+            <_biologicalEntity name="mutant">
+                <_biologicalEntityName>Y115A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>F259A</_biologicalEntityName>
+                <possible>ADA1B|</possible>
+                <_biologicalEntityName>Y295A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>N198A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>H4S</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>W256A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>N297A</_biologicalEntityName>
+                <possible>ACM1|</possible>
+                <_biologicalEntityName>Q228A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>N113A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>D202A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>W256H</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>W253F</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>N113H</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>H256A</_biologicalEntityName>
+                <possible>ADA1B|</possible>
+                <_biologicalEntityName>W256Q</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>T263A</_biologicalEntityName>
+                <possible>ADA1B|</possible>
+                <_biologicalEntityName>Y292F</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>P258A</_biologicalEntityName>
+                <possible>ACM5|</possible>
+                <_biologicalEntityName>Q288A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>F259H</_biologicalEntityName>
+                <possible>ADA1B|</possible>
+                <_biologicalEntityName>N111A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>D284A</_biologicalEntityName>
+                <possible></possible>
+                <_biologicalEntityName>W256F</_biologicalEntityName>
+                <possible></possible>
+            </_biologicalEntity>
+            <_biologicalEntity name="species">
+                <_biologicalEntityName>rat</_biologicalEntityName>
+                <_biologicalEntityName>human</_biologicalEntityName>
+            </_biologicalEntity>
+            <_biologicalEntity name="cell">
+                <_biologicalEntityName>COS-7 cells</_biologicalEntityName>
+            </_biologicalEntity>
+        </_globalInfo>
+    </_article>
+
+</_articleSet>

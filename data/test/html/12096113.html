@@ -1,0 +1,506 @@
+<html>
+<body>
+<H2>
+A Strategy for the Rapid Identification of Phosphorylation Sites in the Phosphoproteome <A NAME="RFN4"></A><SUP><A HREF="#FN4">*</A></SUP>
+</H2>
+
+<STRONG>
+</NOBR><NOBR>Justin A. MacDonald<SUP><IMG SRC="/math/Dagger.gif" ALT="{ddagger}" BORDER="0"></SUP><A NAME="RFN5"></A><SUP>,<A HREF="#FN5"><IMG SRC="/math/link//sect.gif" ALT="&#167;" BORDER="0"></A></SUP></NOBR>, 
+<NOBR>Aaron J. Mackey<A NAME="RFN5"></A><SUP><A HREF="#FN5"><IMG SRC="/math/link//sect.gif" ALT="&#167;" BORDER="0"></A></SUP><SUP>,&#182;</SUP></NOBR>, 
+<NOBR>William R. Pearson<SUP>||</SUP></NOBR> and 
+<NOBR>Timothy A. J. Haystead<SUP><IMG SRC="/math/Dagger.gif" ALT="{ddagger}" BORDER="0"></SUP><SUP>,<A HREF="#COR1">**</A></SUP></NOBR>
+</STRONG><P>
+<FONT SIZE=-1>
+<SUP>&#182;</SUP> Department of Microbiology, University of Virginia, Charlottesville, Virginia 22908<BR>
+<SUP>||</SUP> Department of Biochemistry and Molecular Genetics, University of Virginia, Charlottesville, Virginia 22908<BR>
+<SUP><IMG SRC="/math/Dagger.gif" ALT="{ddagger}" BORDER="0"></SUP> Department of Pharmacology and Cancer Biology, Duke University, Durham, North Carolina 27710
+</FONT><P>
+
+
+
+
+
+
+<P>
+<A NAME="ABS"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ABSTRACT
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>ABSTRACT</FONT><BR>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+
+Edman phosphate (<SUP>32</SUP>P) release sequencing provides a high sensitivity<SUP> </SUP>means of identifying phosphorylation sites in proteins that<SUP> </SUP>complements mass spectrometry techniques. We have developed<SUP> </SUP>a bioinformatic assessment tool, the cleavage of radiolabeled<SUP> </SUP>protein (CRP) program, which enables experimental identification<SUP> </SUP>of phosphorylation sites via <SUP>32</SUP>P labeling and Edman degradation<SUP> </SUP>of cleaved proteins obtained at femtomole levels. By observing<SUP> </SUP>the Edman cycle(s) in which radioactivity is found, candidate<SUP> </SUP>phosphorylation sites are identified by determining which residues<SUP> </SUP>occur at the observed number of cycles downstream from a peptide<SUP> </SUP>cleavage site. In cases where more than one residue could be<SUP> </SUP>responsible for the observed radioactivity, additional experiments<SUP> </SUP>with cleavage reagents having alternative specificities may<SUP> </SUP>resolve the ambiguity. Given a protein sequence and a cleavage<SUP> </SUP>site, CRP performs these experiments <I>in silico</I>, identifying<SUP> </SUP>resolved sites based on user-supplied experimental data, as<SUP> </SUP>well as suggesting combinations of reagents for additional analyses.<SUP> </SUP>Analysis of the PhosphoBase protein sequence database suggests<SUP> </SUP>that CRP data from two cleavage experiments can be used to identify<SUP> </SUP>unambiguously 60% of known phosphorylation sites. Data from<SUP> </SUP>additional cleavage experiments may increase the overall coverage<SUP> </SUP>to 70% of known sites. By comparing theoretical data obtained<SUP> </SUP>from the CRP program with <SUP>32</SUP>P release data obtained from an<SUP> </SUP>Edman sequencer, a known phosphorylation site was identified<SUP> </SUP>unambiguously and correctly. In addition, our results show that<SUP> </SUP><I>in vivo</I> phosphorylation sites can be determined routinely by<SUP> </SUP>differential proteolysis analysis and Edman cycling with less<SUP> </SUP>than 1 fmol of protein and 1000 cpm.<SUP> </SUP><P>
+
+<HR NOSHADE SIZE=1 WIDTH="50%" ALIGN="CENTER">
+
+
+Proteomic technologies have transformed the manner in which<SUP> </SUP>proteins and their contributions to cellular function are viewed<SUP> </SUP>(for review see Refs. <A HREF="#R1">1</A>&#150;<A HREF="#R3">3</A>). The completed human genome<SUP> </SUP>map represents an invaluable tool that presents a comprehensive<SUP> </SUP>account of the structure and sequence of human genes. However,<SUP> </SUP>it offers limited insight regarding the various post-translational<SUP> </SUP>modifications, such as phosphorylation, that occur on proteins<SUP> </SUP>in the cell. Contemporary proteomic analysis uses two-dimensional<SUP> </SUP>gel electrophoresis to separate cellular proteins and mass spectrometry<SUP> </SUP>to identify the proteins in these gels. The identification of<SUP> </SUP>a protein can usually be achieved at the femtomole level with<SUP> </SUP>the employment of tandem mass spectrometry to decode the primary<SUP> </SUP>amino acid sequences. Numerous advances in proteomics tools,<SUP> </SUP>including advances in high sensitivity protein staining and<SUP> </SUP>two-dimensional electrophoresis techniques, refinements in ampholytic<SUP> </SUP>technology, and the advent of accurate, sensitive, and affordable<SUP> </SUP>mass spectrometers including matrix-assisted laser desorption<SUP> </SUP>ionization mass spectrometers and quadrupole tandem mass spectrometers<SUP> </SUP>has allowed a shift to high throughput analysis of large numbers<SUP> </SUP>of candidate proteins. Recent functional proteomic analyses<SUP> </SUP>are now being employed specifically to describe the architecture<SUP> </SUP>of signal transduction pathways at the level of the individual<SUP> </SUP>kinase or phosphatase (<A HREF="#R4">4</A>, <A HREF="#R5">5</A>); however, significant barriers<SUP> </SUP>still limit the ability to identify individual phosphoproteins<SUP> </SUP>and their sites of phosphorylation within a proteome analysis.<SUP> </SUP><P>
+
+Phosphoproteins are often a small fraction of the individual<SUP> </SUP>protein concentration and present at low copy number in cells.<SUP> </SUP>Prediction of the phosphorylation status of proteins from sequence<SUP> </SUP>patterns or more sophisticated neural network motifs has limited<SUP> </SUP>sensitivity and greatly lacks specificity (<A HREF="#R6">6</A>). Protein phosphorylation<SUP> </SUP>must therefore be observed directly. We have developed a bioinformatic<SUP> </SUP>assessment tool, CRP, <A NAME="RFN1"></A><SUP><A HREF="#FN1">1</A></SUP> that enables access via <SUP>32</SUP>P labeling<SUP> </SUP>and Edman sequencing to concentrations of phosphorylation sites<SUP> </SUP>that are below the femtomole level.<SUP> </SUP><P>
+
+<A NAME="SEC1"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+EXPERIMENTAL PROCEDURES
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>EXPERIMENTAL PROCEDURES</FONT><BR>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<STRONG><EM>Materials&#151;</EM></STRONG><BR>
+
+Mouse submaxillary gland endoproteinase Arg-C and <I>Staphylococcus<SUP> </SUP>aureus</I> V8 protease (endoproteinase Glu-C) were from Sigma. <I>Achromobacter<SUP> </SUP>lyticus</I> endoproteinase Lys-C was from Wako Bioproducts Inc.<SUP> </SUP>(Richmond, VA). The cAMP-dependent protein kinase catalytic<SUP> </SUP>subunit and mouse monoclonal anti-Hsp27 antibody were from Calbiochem.<SUP> </SUP>C18 Zip-Tips were purchased from Millipore (Bedford, MA). Cyanogen<SUP> </SUP>bromide and skatol were obtained from Pierce.<SUP> </SUP><P>
+
+<STRONG><EM>Preparation of <SUP>32</SUP>P-Phosphorylated Recombinant Proteins&#151;</EM></STRONG><BR>
+
+Recombinant proteins were prepared and phosphorylated following<SUP> </SUP>protocols reported previously. Phosphorylation of proteins was<SUP> </SUP>performed at 25&#176;C for 3 h in 0.5-ml reactions containing<SUP> </SUP>5 m<FONT SIZE=-2>M</FONT> MgCl<SUB>2</SUB>, 0.3 m<FONT SIZE=-2>M</FONT> [<IMG SRC="/math/ggr.gif" ALT="{gamma}" BORDER="0">-<SUP>32</SUP>P]ATP (250 cpm/nmol). Telokin was phosphorylated<SUP> </SUP>with the cAMP-dependent protein kinase catalytic subunit as<SUP> </SUP>described previously (<A HREF="#R7">7</A>).<SUP> </SUP><P>
+
+<STRONG><EM>Identification of Phosphoproteins in Human Platelets by Mixed Peptide Sequencing&#151;</EM></STRONG><BR>
+
+Platelet-rich plasma (PRP) was prepared from whole human blood<SUP> </SUP>anticoagulated with ACD (sodium citrate, citric acid, dextrose)<SUP> </SUP>by differential centrifugation in 50-ml tubes (200g, 20 min,<SUP> </SUP>25&#176;C). The top layer containing platelet-rich plasma was<SUP> </SUP>separated from the red cell layer and used as a source of platelets<SUP> </SUP>in all studies. Washed platelets were prepared from PRP by the<SUP> </SUP>method of Mustard <I>et al.</I> (<A HREF="#R8">8</A>). ACD (0.05 volumes), apyrase (7.5<SUP> </SUP>units/ml ADPase activity), and indomethacin (1 &#181;g/ml)<SUP> </SUP>were added to PRP. Platelets were then sedimented from PRP (620<SUP> </SUP>g, 20 min, 25&#176;C) and resuspended in Buffer I (10 m<FONT SIZE=-2>M</FONT> HEPES,<SUP> </SUP>pH 7.4, 0.34 m<FONT SIZE=-2>M</FONT> Na<SUB>2</SUB>HPO<SUB>4</SUB>, 140 m<FONT SIZE=-2>M</FONT> NaCl, 2.9 m<FONT SIZE=-2>M</FONT> KCl, 5 m<FONT SIZE=-2>M</FONT> glucose,<SUP> </SUP>2 m<FONT SIZE=-2>M</FONT> MgCl<SUB>2</SUB>, 12 m<FONT SIZE=-2>M</FONT> NaHCO<SUB>3</SUB>). The platelets were treated with 18.5<SUP> </SUP>MBq of [<SUP>32</SUP>P]orthophosphate for 90 min and harvested by centrifugation<SUP> </SUP>(800 <FONT FACE="arial,helvetica">x</FONT> <I>g</I> for 10 min). Platelets were resuspended in Buffer I<SUP> </SUP>and stored at room temperature with gentle rocking until use.<SUP> </SUP>Platelet aggregation was stimulated by the addition of 0.05<SUP> </SUP>units/ml of thrombin in the presence of 10 &#181;<FONT SIZE=-2>M</FONT> calyculin<SUP> </SUP>A. Platelets were lysed with the addition of a 5<FONT FACE="arial,helvetica">x</FONT> lysis buffer<SUP> </SUP>(200 m<FONT SIZE=-2>M</FONT> Tris, pH 8.0, 750 m<FONT SIZE=-2>M</FONT> NaCl, 5% (v/v) Nonidet P-40).<SUP> </SUP><P>
+
+Protein maps were prepared by two-dimensional electrophoresis<SUP> </SUP>as described in Ref.<A HREF="#R4">4</A>. The proteins were electroblotted to PVM<SUP> </SUP>at 30 V overnight. The transferred proteins were stained with<SUP> </SUP>Amido Black. After destaining, the membrane was applied to x-ray<SUP> </SUP>film for autoradiography. The autoradiograph from each gel was<SUP> </SUP>compared using Melanie software (Bio-Rad). Spots of interest<SUP> </SUP>were aligned to the membrane, and the corresponding stained<SUP> </SUP>bands were excised. The excised pieces were treated with 200<SUP> </SUP>&#181;l of cyanogen bromide solution (500 mg/ml cyanogen bromide<SUP> </SUP>in 70% formic acid) for 90 min. The treated piece of PVM was<SUP> </SUP>placed in an Applied Biosystem 494 protein sequencer, and 8&#150;18<SUP> </SUP>cycles of pulsed liquid chemistry were carried out. The mixed<SUP> </SUP>peptide sequences generated were sorted and matched against<SUP> </SUP>the yeast protein databases by the FASTF algorithm (<A HREF="#R9">9</A>).<SUP> </SUP><P>
+
+<STRONG><EM>Sample Preparation and Edman Sequencing&#151;</EM></STRONG><BR>
+
+Phosphorylated protein samples from the <I>in vitro</I> phosphorylation<SUP> </SUP>of telokin were incubated overnight at 37&#176;C with the endopeptidase<SUP> </SUP>of choice. Cleavage with cyanogen bromide (0.1 mg/ml) was completed<SUP> </SUP>overnight at 5&#176;C in 70% (v/v) formic acid. Cleavage with<SUP> </SUP>skatol (0.1 mg/ml) was completed at 70&#176;C in 70% acetic acid<SUP> </SUP>for 3 h in the dark. The digests were acidified by the addition<SUP> </SUP>of trifluoroacetic acid and spun through a Zip-Tip equilibrated<SUP> </SUP>previously in 0.1% trifluoroacetic acid. The tip was washed<SUP> </SUP>three times with 0.1% trifluoroacetic acid (5 &#181;l) before<SUP> </SUP>peptides were eluted with 70% acetonitrile/0.1% trifluoroacetic<SUP> </SUP>acid (5 &#181;l).<SUP> </SUP><P>
+
+Peptides were immobilized to a 2.5 <FONT FACE="arial,helvetica">x</FONT> 2.5-mm piece of Immobilon<SUP> </SUP>membrane (Millipore) following the manufacturer&#146;s instructions.<SUP> </SUP>The membrane was washed sequentially with 1 volume of 100% trifluoroacetic<SUP> </SUP>acid and 50 ml of 0.1% trifluoroacetic acid in distilled H<SUB>2</SUB>O.<SUP> </SUP>The membrane piece was placed into a 494 Procise sequencing<SUP> </SUP>cartridge. Vapor phase amino acid sequencing was performed using<SUP> </SUP>an instrument that allowed for the collection of the Edman sequencing<SUP> </SUP>reactions, in our case an Applied Biosystems 494 cLc protein<SUP> </SUP>sequencer. Phosphorylated residues were located by determining<SUP> </SUP>the cycles in which <SUP>32</SUP>P was released when samples were subjected<SUP> </SUP>to sequential Edman degradation under conditions that optimized<SUP> </SUP>recovery of <SUP>32</SUP>P (<A HREF="#R10">10</A>).<SUP> </SUP><P>
+
+Phosphorylated Hsp27 was immunoprecipitated from the <I>in vivo</I><SUP> </SUP><SUP>32</SUP>P-labeled platelet lysate. The lysate was pre-cleared with<SUP> </SUP>protein G-agarose beads (1 h at 5&#176;C). Platelet lysate was<SUP> </SUP>incubated overnight with 10 &#181;g of monoclonal mouse anti-Hsp27<SUP> </SUP>followed by harvest with protein G-agarose. Immunoprecipitated<SUP> </SUP>proteins were eluted from protein G with 50 m<FONT SIZE=-2>M</FONT> glycine, pH 2.0.<SUP> </SUP>The pH of the eluate was quickly neutralized with 1 <FONT SIZE=-2>M</FONT> phosphate<SUP> </SUP>buffer, pH 8. The protein samples were incubated overnight at<SUP> </SUP>37&#176;C with the protease of choice; the resulting peptides<SUP> </SUP>were processed for Edman sequencing as described above.<SUP> </SUP><P>
+
+<STRONG><EM>CRP Program World Wide Web Interface&#151;</EM></STRONG><BR>
+
+The acquired <SUP>32</SUP>P release data were interpreted using the CRP<SUP> </SUP>program, accessible at fasta.bioch.virginia.edu/crp/. The program<SUP> </SUP>allows for the input of protein sequence data in the same fashion<SUP> </SUP>as a normal BLAST query, either a raw sequence or a FASTA-formatted<SUP> </SUP>sequence or via a unique sequence identifier (see <A HREF="http://www.ncbi.nlm.nih.gov/blast/html/search.html">www.ncbi.nlm.nih.gov/blast/html/search.html</A><SUP> </SUP>for details). As an example, the sequence for myelin basic protein,<SUP> </SUP>a commonly used protein kinase substrate protein, was processed<SUP> </SUP>by the CRP program (<A HREF="#F1">Fig. 1<I>A</I></A>). CRP-generated theoretical cleavage<SUP> </SUP>data were obtained by selecting the specific carboxyl-terminal<SUP> </SUP>amino acid at which to cut, in this case, at Arg residues. CRP<SUP> </SUP>displays results of the <I>in silico</I> cleavage as a table of the<SUP> </SUP>Edman cycles in which radioactivity might be observed, listing<SUP> </SUP>each associated potential site (<A HREF="#F1">Fig. 1<I>B</I></A>). The percent coverage,<SUP> </SUP>or the cumulative number of observable potential phosphorylation<SUP> </SUP>sites, is also provided. With myelin basic protein and proteolysis<SUP> </SUP>with endoproteinase Arg-C, 21 cycles are required to ensure<SUP> </SUP>100% coverage of 35 possible phosphorylation sites. The program<SUP> </SUP>highlights sites that agree with known phosphorylation target<SUP> </SUP>consensus sequences and provides a link to the EXPASY PROSITE<SUP> </SUP>database (<A HREF="#R11">11</A>), where information pertaining to the consensus<SUP> </SUP>site is available.<SUP> </SUP><P>
+
+<A NAME="F1"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/314/F1"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=126 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw042003601a.gif" ALT=" "></A><BR>
+<A HREF="/cgi/content/full/1/4/314/F1"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=145 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw042003601c.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (62K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/314/F1">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/314/F1"
+    onClick="startTarget('F1', 470, 1080); this.href='/cgi/content-nw/full/1/4/314/F1'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F1">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 1. <B>The CRP program interface.</B> <I>A</I>, initial data entry screen allowing accession number or protein sequence inputs. The sequence of myelin basic protein is shown in the protein sequence input box, and cleavage with endoproteinase Arg-C has been selected. By submitting the query, a histogram of expected hot spots is presented (<I>B</I>). The theoretical data displayed include the following: <I>Cycle #</I>, corresponds to the Edman sequence cycle number; <I>Potential Phosphorylation Sites</I>, any Ser, Thr, or Tyr residues present in the protein; <I># in Cycle</I>, the number of phosphorylatable residues present in a particular cycle number; <I>Coverage</I>, the cumulative percentage of phosphorylatable residues included in a particular number of Edman sequencing cycles or cycle numbers. By selecting (<IMG SRC="/math/check.gif" ALT="{checkmark}" BORDER="0">) one or more particular cycle number(s) and clicking on "Submit Query," a new screen showing a table of the cycle position of the potential phosphorylation residues when cut at specific cleavage sites is obtained (<I>C</I>). These data show all the phosphorylation sites within the selected cycle number(s) along the <I>top</I> of the table and all amino acids along the <I>side</I> of the table. By orienting a particular residue with a particular cleavage site, the cycle number in which <SUP>32</SUP>P release should occur is obtained. For ease of use, the potential phosphorylation sites for ascending cycle numbers for each cleavage site are also presented (<I>D</I>).<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+If radioactivity was observed in a cycle containing multiple<SUP> </SUP>potential phosphorylation sites, the determination becomes ambiguous;<SUP> </SUP>by selecting all cycles (<IMG SRC="/math/check.gif" ALT="{checkmark}" BORDER="0">) in which radioactivity was actually<SUP> </SUP>observed (including any unambiguous, as well as the ambiguous<SUP> </SUP>cycles), CRP provides a second table (<A HREF="#F1">Fig. 1<I>C</I></A>), detailing the<SUP> </SUP>new cycle positions of the potential phosphorylation residues<SUP> </SUP>when the original protein is cut at different cleavage sites.<SUP> </SUP>These data permit the selection of proteases for second, and<SUP> </SUP>if necessary, third cleavages that could yield unambiguous data.<SUP> </SUP><P>
+
+<A NAME="SEC2"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+RESULTS
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>RESULTS</FONT><BR>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">DISCUSSION<BR></A>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<STRONG><EM>Theoretical Potential for the CRP-based Analysis of Phosphoproteins&#151;</EM></STRONG><BR>
+
+We analyzed the ability of the CRP technique to determine the<SUP> </SUP>phosphorylation site(s) of proteins <I>in silico</I>, using either<SUP> </SUP>the SwissProt (<A HREF="#R11">11</A>) or PhosphoBase (<A HREF="#R12">12</A>) protein sequence databases.<SUP> </SUP>We selected an arbitrary Edman cycle cutoff limit of 25 cycles;<SUP> </SUP>any residues appearing after 25 cycles were considered unresolved<SUP> </SUP>by the experiment. Residues that appeared within 25 cycles but<SUP> </SUP>were found in a cycle containing other residues were also considered<SUP> </SUP>unresolved. Therefore, within a single cleavage experiment,<SUP> </SUP>any residue found alone within a cycle below the cutoff was<SUP> </SUP>considered resolved; <I>i.e.</I> if radioactivity were observed in<SUP> </SUP>that cycle, it would identify unambiguously that residue as<SUP> </SUP>phosphorylated.<SUP> </SUP><P>
+
+The <I>left panel</I> of <A HREF="#F2">Fig. 2</A> demonstrates the percent coverage from<SUP> </SUP>theoretically obtained data using each of five cleavage agents<SUP> </SUP>that target methionine (<I>M</I>), tryptophan (<I>W</I>), phenylalanine (<I>F</I>),<SUP> </SUP>lysine (<I>K</I>), or arginine (<I>R</I>). Coverage is measured for all potential<SUP> </SUP>phosphorylation sites in SwissProt (<I>SP</I>) and PhosphoBase (<I>PB</I>),<SUP> </SUP>as well as only in terms of known phosphorylation sites as described<SUP> </SUP>by PhosphoBase annotations (<I>PB*</I>). In SwissProt, around 14% of<SUP> </SUP>Ser, Thr, or Tyr sites are resolvable by a single cleavage experiment.<SUP> </SUP>Approximately 20% of the known phosphorylation sites from PhosphoBase<SUP> </SUP>are resolvable. The relative performance of the various cleavage<SUP> </SUP>agents reflects the frequencies of their cleavage sites. Sites<SUP> </SUP>that occur more frequently in a protein will lead to a larger<SUP> </SUP>number of shorter fragments, increasing the coverage achievable<SUP> </SUP>within 25 cycles, but also increasing the chance of ambiguity.<SUP> </SUP>Sites that occur less frequently will lead to a smaller number<SUP> </SUP>of longer fragments. Therefore, for single cleavage experiments,<SUP> </SUP>use of a cleavage reagent with rare-cutting properties increases<SUP> </SUP>the number of unambiguous assignments but reduces the total<SUP> </SUP>coverage.<SUP> </SUP><P>
+
+<A NAME="F2"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/314/F2"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=148 SRC="/content/vol1/issue4/images/small/jw0420036002.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (24K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/314/F2">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/314/F2"
+    onClick="startTarget('F2', 590, 526); this.href='/cgi/content-nw/full/1/4/314/F2'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F2">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 2. <B>Theoretical ability of CRP analysis to uniquely identify phosphorylation sites.</B> For all of the potential phosphorylation sites (all Ser (<I>S</I>), Thr (<I>T</I>), and Tyr (<I>Y</I>) residues) in SwissProt (<I>SP</I>) and PhosphoBase (<I>PB</I>) or only PhosphoBase-annotated known phosphorylation sites (<I>PB*</I>), the percentage of sites that could be resolved uniquely with only 25 Edman cycles was measured. Cleavage sites used were Met (<I>M</I>), Trp (<I>W</I>), Phe (<I>F</I>), Lys (<I>K</I>), and Arg (<I>R</I>); the frequencies at which these residues occur in SwissProt are listed in the <I>inset</I>. Shown are boxplots of the coverage exhibited by each experimental methodology; the <I>midline</I> of each boxplot indicates the median (50th percentile), whereas the boxed area demarcates the 25th and 75th percentiles. The lines <I>above</I> and <I>below</I> the boxes represent the 10th and 90th percentiles. Single residue labels in the <I>left panel</I> represent the order in which the data occur. Labels in subsequent panels represent the worst and best combination of cleavage sites.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+Additional cleavage experiments with different endopeptidases<SUP> </SUP>may be performed to disambiguate cycles containing multiple<SUP> </SUP>residues. For double or triple cleavage experiments (where two<SUP> </SUP>or three separate and unique cleavage experiments are performed),<SUP> </SUP>we continued to define an unresolved site as either a phosphorylation<SUP> </SUP>site that could be seen within 25 cycles in a previous experiment,<SUP> </SUP>but ambiguities left the site unresolved, or one that would<SUP> </SUP>occur after 25 cycles. Performing additional cleavage experiment<SUP> </SUP>increases dramatically the theoretical coverage for both databases<SUP> </SUP>(<A HREF="#F2">Fig. 2</A>, <I>center</I>), identifying 50&#150;60% of known phosphorylation<SUP> </SUP>sites. In contrast to the single cleavage experiment, here cleavage<SUP> </SUP>reagents that cut more frequently are more effective, as the<SUP> </SUP>number of potential sites that fall within 25 cycles is greater,<SUP> </SUP>and, in combination, they are more informative. Additional cleavage<SUP> </SUP>experiments (<A HREF="#F2">Fig. 2</A>, <I>right</I>) can improve coverage marginally.<SUP> </SUP>However, most of the remaining sites remain unresolved because<SUP> </SUP>of stretches of sequence longer than 25 residues that cannot<SUP> </SUP>be cleaved, leaving the phosphorylation sites above the 25-cycle<SUP> </SUP>threshold. Increasing the cycle threshold to 40, for instance,<SUP> </SUP>increases dramatically coverage at all levels of measurement<SUP> </SUP>(achieving nearly 90% coverage with some triple cleavage experiments).<SUP> </SUP><P>
+
+For the sake of simplicity, these theoretical experiments assume<SUP> </SUP>that only one residue in the protein is phosphorylated. If radioactivity<SUP> </SUP>is found in more than one cycle, then additional experiments<SUP> </SUP>would produce more candidate residues, increasing the possibility<SUP> </SUP>of continued ambiguity. However, a lower limit on coverage may<SUP> </SUP>be easily calculated as simply the sum of residues resolvable<SUP> </SUP>by each single cleavage; for a triple cleavage experiment, the<SUP> </SUP>coverage could be as low as 30%. This represents the worst-case<SUP> </SUP>scenario; all of the potential sites of a protein are phosphorylated.<SUP> </SUP><P>
+
+To increase the probability of uniquely identifying phosphorylation<SUP> </SUP>sites, a phosphoamino acid analysis can be completed on an aliquot<SUP> </SUP>of the phosphoprotein prior to Edman cycle analysis to determine<SUP> </SUP>whether the phosphorylation site is a phospho-Ser, -Thr, or<SUP> </SUP>-Tyr. By limiting the total number of residues under consideration,<SUP> </SUP>this information reduces dramatically the complexity of the<SUP> </SUP>CRP results and further resolves assignment ambiguities, increasing<SUP> </SUP>the theoretical coverage to nearly 100% in most triple cleavage<SUP> </SUP>experiments (data not shown).<SUP> </SUP><P>
+
+<STRONG><EM>Application of CRP Analysis in the Identification of Phosphorylation Sites&#151;</EM></STRONG><BR>
+
+To test our strategy, we took advantage of the <I>in vitro</I> phosphorylation<SUP> </SUP>of telokin documented previously (<A HREF="#R7">7</A>). Telokin is a small acidic<SUP> </SUP>protein (17 kDa) with a serine/threonine-rich amino terminus<SUP> </SUP>and contains substrate recognition sequences for a variety of<SUP> </SUP>kinases, including cAMP-dependent protein kinase. Using conventional<SUP> </SUP>methods, we have identified previously a single site of <I>in vitro</I><SUP> </SUP>phosphorylation on telokin by cAMP-dependent protein kinase<SUP> </SUP>as Ser-13 (<A HREF="#R7">7</A>).<SUP> </SUP><P>
+
+As shown in <A HREF="#F3">Fig. 3<I>A</I></A>, when peptides from an endoproteinase Lys-C<SUP> </SUP>digest were applied to the Edman sequencer, <SUP>32</SUP>P release was<SUP> </SUP>observed in cycle 2; when peptides from a cyanogen bromide digest<SUP> </SUP>were applied to the Edman sequencer, <SUP>32</SUP>P release was observed<SUP> </SUP>in cycle 10. The theoretical results for an endoproteinase Lys-C<SUP> </SUP>digest of telokin are displayed in <A HREF="#F3">Fig. 3<I>B</I></A>. In theory, <SUP>32</SUP>P release<SUP> </SUP>in cycle 2 could be the result of phosphorylation at three different<SUP> </SUP>sites, Ser-13, Tyr-50, and/or Thr-121. By selecting cycle 2<SUP> </SUP>(<IMG SRC="/math/check.gif" ALT="{checkmark}" BORDER="0">) a new Table is created (<A HREF="#F3">Fig. 3<I>C</I></A>) that displays the new cycle<SUP> </SUP>position of the potential phosphorylation residues when the<SUP> </SUP>original protein is cut with a different protease. In this example,<SUP> </SUP>cleavage of phosphotelokin with cyanogen bromide would result<SUP> </SUP>in <SUP>32</SUP>P release for residues Ser-13, Tyr-50, and Thr-121 in cycle<SUP> </SUP>10, 47, and 118, respectively. By comparing the theoretical<SUP> </SUP>data in <A HREF="#F3">Fig. 3<I>C</I></A> with the <SUP>32</SUP>P release data obtained from the<SUP> </SUP>sequencer (<A HREF="#F3">Fig. 3<I>A</I></A>), the identity of the phosphorylation site<SUP> </SUP>is assigned unambiguously.<SUP> </SUP><P>
+
+<A NAME="F3"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/314/F3"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=178 HEIGHT=200 SRC="/content/vol1/issue4/images/small/jw0420036003.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (25K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/314/F3">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/314/F3"
+    onClick="startTarget('F3', 542, 640); this.href='/cgi/content-nw/full/1/4/314/F3'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F3">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 3. <B>Identification of phosphorylation sites from telokin using the CRP analysis program.</B> <I>A</I>, recombinant telokin was phosphorylated with cAMP-dependent protein kinase to a stoichiometry of 0.9 mol phosphate/mol of protein prior to endoproteinase Lys-C or CnBr digestion. The results represent the amount of <SUP>32</SUP>P released in each cycle when the peptide digests (<IMG SRC="/math/sim.gif" ALT="~" BORDER="0">25,000 cpm) were subjected to sequential Edman solid-phase sequencing. <I>B</I>, the theoretical results obtained from the CRP-program for an endoproteinase Lys-C digest of telokin are presented. <I>C</I>, CRP-program display of the new cycle positions of the potential phosphorylation residues when telokin is cut with different proteases.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<STRONG><EM>Identification of Thrombin-sensitive Phosphorylation Sites on Hsp27 in Vivo&#151;</EM></STRONG><BR>
+
+We used human platelets as a model system to test the CRP method<SUP> </SUP>of phosphorylation site identification on <I>in vivo</I>target proteins.<SUP> </SUP>The cellular ATP stores of platelets can be spiked easily by<SUP> </SUP>[<SUP>32</SUP>P]orthophosphate isotope labeling, and there is a large and<SUP> </SUP>rapidly growing body of information on the different phosphoproteins<SUP> </SUP>that emerge within platelets from agonist stimulation (<A HREF="#R13">13</A>, <A HREF="#R14">14</A>).<SUP> </SUP>A number of proteins exhibit increased phosphorylation in response<SUP> </SUP>to thrombin stimulation (<A HREF="#F4">Fig. 4</A>). Fourteen phosphoproteins were<SUP> </SUP>selected for mixed-peptide sequencing, and one of those proteins,<SUP> </SUP>Hsp27, was selected as a candidate phosphoprotein for CRP analysis.<SUP> </SUP><P>
+
+<A NAME="F4"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/314/F4"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=95 SRC="/content/vol1/issue4/images/small/jw0420036004.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (71K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/314/F4">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/314/F4"
+    onClick="startTarget('F4', 590, 410); this.href='/cgi/content-nw/full/1/4/314/F4'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F4">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 4. <B>Identification of phosphoproteins in human platelets by mixed peptide sequencing.</B> Platelets from 1.0 ml of human blood were <SUP>32</SUP>P-labeled for 90 min and then treated with thrombin (0.2 units) in the presence of calyculin A (10 &#181;<FONT SIZE=-2>M</FONT>) for 1 min. Preliminary experiments determined that calyculin treatment alone did not enhance significantly the level of phosphorylation. Phosphoproteins were characterized on two-dimensional SDS-PAGE gels. The separated proteins were transferred to PVM, stained with Amido Black, and autoradiographed. <SUP>32</SUP>P-Labeled proteins that corresponded to stained proteins were cut from the PVM, treated with CnBr solution, and sequenced by mixed peptide sequencing. Proteins that were identified ranged from 2 to 0.2 pmol. Isoelectric values (<I>pI</I>) are theoretical values based on the primary sequence of the identified proteins and were determined using the EXPASY program (expasy.hcuge.ch/ch2d/pi_tool.html). <I>1</I>, myosin light chain 20, pI 5.09, 19.8 kDa; <I>2</I>, Rho-guanine nucleotide dissociation inhibitor (Rho GDI), pI 5.1, 23.0 kDa; <I>3</I>, neurogranin, pI 6.53, 7.4 kDa; <I>4</I>, RAP1A, pI 6.39, 20.9 kDa; <I>5</I>, tubulin, pI 4.75, 49.7 kDa; <I>6</I>, Pleckstrin, pI 8.32, 40.1 kDa; <I>7</I>, GPIIIa-II, pI 5.3, 84.6 kDa; <I>8</I>, Rho-GAP, pI 5.91, 105 kDa; <I>9</I>, ESTAA059313; <I>10</I>, HSP27, pI 5.98, 22.7 kDa; <I>11</I>, c-Raf oncogenic fusion protein, pI 5.15, 47.0 kDa; <I>12</I>, amphiphysin homologue, pI 4.95, 64.0 kDa; <I>13</I>, HSP90, pI 4.94, 84.6 kDa; <I>14</I>, pleckstrin fragments.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+We immunoprecipitated Hsp27 from <SUP>32</SUP>P-labeled platelets treated<SUP> </SUP>with thrombin. All of the potential phosphorylation sites and<SUP> </SUP>the theoretical results of an endoproteinase Arg-C digest of<SUP> </SUP>Hsp27 were identified using the CRP program (<A HREF="#F5">Fig. 5<I>A</I></A>). This<SUP> </SUP>analysis showed that 25 rounds of Edman sequencing were sufficient<SUP> </SUP>to cover 87% of all serine, threonine, and tyrosine residues<SUP> </SUP>present in Hsp27. Twenty-five rounds of Edman degradation chemistry<SUP> </SUP>were carried out on the <SUP>32</SUP>P-labeled peptides obtained from the<SUP> </SUP>endoproteinase Arg-C digest of the immunoprecipitated Hsp27.<SUP> </SUP>This analysis yielded radioactivity only in cycle 3. Inspection<SUP> </SUP>of the analysis shown in <A HREF="#F5">Fig. 5</A> shows that six potential phosphorylation<SUP> </SUP>sites would produce a signal in cycle 3. Further analysis of<SUP> </SUP>these sites by the CRP program algorithm indicated that digestion<SUP> </SUP>at Glu followed by Edman cycle analysis would identify uniquely<SUP> </SUP>the position of the thrombin-stimulated <I>in vivo</I> phosphorylation<SUP> </SUP>site(s). Indeed, Edman degradation chemistry carried out on<SUP> </SUP>the peptides obtained from the endoproteinase Glu-C digest yielded<SUP> </SUP>radioactivity in cycles 12, 14, and 18. Thus, Ser-15, Ser-78,<SUP> </SUP>and Ser-82 were identified unambiguously as major <I>in vivo</I> thrombin-sensitive<SUP> </SUP>phosphorylation sites in Hsp27.<SUP> </SUP><P>
+
+<A NAME="F5"><!-- null --></A>
+<BR CLEAR=all><CENTER><TABLE WIDTH=95% CELLPADDING=0 
+CELLSPACING=0><TR BGCOLOR=e1e1e1><TD><TABLE CELLPADDING=2 CELLSPACING=2>
+<TR BGCOLOR=e1e1e1><TD ALIGN=center VALIGN=top BGCOLOR=ffffff>
+<A HREF="/cgi/content/full/1/4/314/F5"><IMG HSPACE=10 VSPACE=5 BORDER=2 WIDTH=200 HEIGHT=83 SRC="/content/vol1/issue4/images/small/jw0420036005.gif" ALT=" "></A><BR>
+
+<STRONG>View larger version</STRONG> (22K):<BR>
+<NOBR><A HREF="/cgi/content/full/1/4/314/F5">[in this window]</A><BR>
+<A HREF="/cgi/content-nw/full/1/4/314/F5"
+    onClick="startTarget('F5', 590, 382); this.href='/cgi/content-nw/full/1/4/314/F5'"
+ 	onMouseOver="window.status='View figure in a separate window'; return true"
+ 	TARGET="F5">[in a new window]</A><BR>&#160;</NOBR>
+</TD><TD ALIGN=left VALIGN=top>
+F<FONT SIZE=-2>IG</FONT>. 5. <B>Identification of thrombin-sensitive phosphorylation sites on Hsp27 by CRP analysis.</B> <I>A</I>, theoretical results were obtained from the CRP program for an endoproteinase Arg-C digest of Hsp27. <I>B</I>, Hsp27 was immunoprecipitated from <SUP>32</SUP>P-labeled platelets treated with thrombin and calyculin A for 5 min. Peptides (<IMG SRC="/math/sim.gif" ALT="~" BORDER="0">1000 cpm) obtained from endoproteinase Arg-C digestion were cross-linked to Immobilon P (Perspective Biosystems), and the membrane was placed in an Applied Biosystems Procise 494cLc automated sequenator. Twenty-five cycles of Edman degradation chemistry were carried out, and the released phenylthiohydantoin (PTH) amino acids were collected, and their radioactivity was determined by Cerenkov counting. <I>C</I>, CRP program display of the new cycle positions of the potential phosphorylation residues when Hsp27 is cut with different proteases. <I>D</I>, the results of <SUP>32</SUP>P release from peptides (<IMG SRC="/math/sim.gif" ALT="~" BORDER="0">2500 cpm) obtained from an endoproteinase Glu-C digest of immunoprecipitated Hsp27 are presented.<P>
+
+
+</TD></TR></TABLE>
+</TD></TR></TABLE></CENTER>&nbsp;<BR>
+
+
+<A NAME="SEC3"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+DISCUSSION
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>DISCUSSION</FONT><BR>
+<A  HREF="#BIBL"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/darrow.gif">REFERENCES<BR></A>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+Traditionally, protein phosphorylation sites are located by<SUP> </SUP>enzymatic cleavage of a <SUP>32</SUP>P-radiolabeled phosphoprotein into<SUP> </SUP>peptides followed by HPLC C18 reverse phase chromatography or<SUP> </SUP>two-dimensional thin layer chromatography to isolate and separate<SUP> </SUP>the <SUP>32</SUP>P phosphopeptide. The sequence of the phosphopeptide is<SUP> </SUP>then obtained by Edman sequencing. The need for a large amount<SUP> </SUP>of starting material (more than pmol amounts of protein) and<SUP> </SUP>the length of time to completion has made this procedure prohibitive<SUP> </SUP>to high throughput studies of the phosphoproteome. We have developed<SUP> </SUP>a strategy that permits identification of phosphorylation sites<SUP> </SUP>from <I>in vivo</I> or <I>in vitro</I> <SUP>32</SUP>P-labeled proteins of known sequence<SUP> </SUP>at the sub-femtomolar level.<SUP> </SUP><P>
+
+From our initial assessment of the thrombin-stimulated platelet<SUP> </SUP>phosphoproteome (<A HREF="#F4">Fig. 4</A>), we selected Hsp27 as a phosphoprotein<SUP> </SUP>for CRP analysis. In human platelets, increased phosphorylation<SUP> </SUP>of Hsp27 through the p38/mitogen-activated protein kinase-activated<SUP> </SUP>protein kinase 2 pathway in response to thrombin treatment has<SUP> </SUP>been observed previously (<A HREF="#R15">15</A>). Hsp27 phosphorylation is associated<SUP> </SUP>with platelet aggregation and regulation of microfilament organization.<SUP> </SUP>Activation of p38/mitogen-activated protein kinase-activated<SUP> </SUP>protein kinase 2 pathway after thrombin stimulation leads to<SUP> </SUP>a marked shift from the 27-kDa unphosphorylated form to at least<SUP> </SUP>three major phosphorylated forms. The phosphorylation sites<SUP> </SUP>on Hsp27 (<A HREF="#R16">16</A>, <A HREF="#R17">17</A>) have been mapped previously using conventional<SUP> </SUP>methods, <I>i.e.</I> proteolytic digestion and fractionation of the<SUP> </SUP>peptides by reverse phase HPLC followed by Edman sequence analysis.<SUP> </SUP>The sites phosphorylated by mitogen-activated protein kinase-activated<SUP> </SUP>protein kinase 2 after <I>in vivo</I> thrombin treatment were identified<SUP> </SUP>as Ser-15, -78, and -82 (<A HREF="#R16">16</A>, <A HREF="#R17">17</A>). The present study confirms<SUP> </SUP>Hsp27 as a target of phosphorylation during thrombin stimulation<SUP> </SUP>but more importantly demonstrates the ability of the CRP analysis<SUP> </SUP>to ascertain multiple sites of phosphorylation on a target phosphoprotein<SUP> </SUP>isolated from an <I>in vivo</I> source.<SUP> </SUP><P>
+
+Some limitations to the CRP methodology do exist; phosphorylation<SUP> </SUP>sites directly adjacent to Lys or Arg may not cut because of<SUP> </SUP>steric occlusion of the protease, the 3&#176; structure of the<SUP> </SUP>protein may prevent proteolysis at every site hence giving rise<SUP> </SUP>to missed cleavages, and ragged cuts at frequently occurring<SUP> </SUP>Lys-Lys or Arg-Lys motifs may lead to ambiguous results. However,<SUP> </SUP>with experience and careful consideration of the amino acid<SUP> </SUP>sequence of the phosphoprotein, these limitations are circumventable.<SUP> </SUP>We have had much success using the CRP methodology for the identification<SUP> </SUP>of <I>in vitro</I> phosphorylation sites. Although telokin is at the<SUP> </SUP>lower end of degree of difficulty, we have successfully used<SUP> </SUP>the methodology to determine multiple phosphorylation sites<SUP> </SUP>on proteins with molecular masses of up to 130 kDa. With minimal<SUP> </SUP>starting product (<I>i.e.</I> &lt;10 fmol of protein) we have identified<SUP> </SUP>multiple sites of phosphorylation on the protein kinase C phosphatase<SUP> </SUP>inhibitor protein, CPI-17 (<A HREF="#R18">18</A>), the myosin targeting subunit<SUP> </SUP>(MYPT1) of smooth muscle myosin phosphatase, <A NAME="RFN2"></A><SUP><A HREF="#FN2">2</A></SUP> and the transcriptional<SUP> </SUP>co-activator cAMP-response element-binding protein-binding protein<SUP> </SUP>(CBP)/p300. <A NAME="RFN3"></A><SUP><A HREF="#FN3">3</A></SUP> To increase the probability of uniquely identifying<SUP> </SUP>phosphorylation sites, a phosphoamino acid analysis can be completed<SUP> </SUP>on an aliquot of the phosphoprotein prior to Edman cycle analysis<SUP> </SUP>to determine whether the phosphorylation site is a phospho-Ser,<SUP> </SUP>-Thr, and/or -Tyr. By limiting the total number of residues<SUP> </SUP>under consideration, this information reduces dramatically the<SUP> </SUP>complexity of the CRP results and resolves further assignment<SUP> </SUP>ambiguities, increasing the theoretical coverage to nearly 100%<SUP> </SUP>in most triple cleavage experiments. The CRP analysis methodology<SUP> </SUP>complements existing mass spectrometry techniques (<A HREF="#R19">19</A>&#150;<A HREF="#R21">21</A>)<SUP> </SUP>for phosphorylation site identification, because it presents<SUP> </SUP>an alternative method of identification in situations where<SUP> </SUP>peptides are unable to be resolved by mass spectrometry.<SUP> </SUP><P>
+
+<SUP> </SUP><P>
+
+
+<A NAME="ACK"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+ACKNOWLEDGMENTS
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+We thank Applied Biosystems for supporting the Haystead laboratory.<SUP> </SUP><P>
+
+
+<A NAME="FN"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+FOOTNOTES
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+Received, January 19, 2002, and in revised form, March 22, 2002.<P>
+
+<A NAME=""><!-- null --></A>
+Published, MCP Papers in Press, March 25, 2002, DOI 10.1074/mcp.M200002-MCP200<SUP> </SUP><P>
+
+<A NAME="FN1"><!-- null --></A>
+<SUP><SUP>1</SUP></SUP> The abbreviations used are: CRP, cleavage of radiolabeled protein;<SUP> </SUP>PVM, modified polyvinylidene difluoride membrane; PRP, platelet<SUP> </SUP>rich plasma; HPLC, high pressure liquid chromatography.<SUP> </SUP><A HREF="#RFN1"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN2"><!-- null --></A>
+<SUP><SUP>2</SUP></SUP> M. A. Borman, J. A. MacDonald, A. Muranji, D. Hartshorne, and<SUP> </SUP>T. A. J. Haystead (2002) Smooth muscle myosin phosphatase-associated<SUP> </SUP>kinase induces Ca<SUP>2+</SUP>-independent contraction via myosin phosphatase<SUP> </SUP>inhibition. <I>J. Biol. Chem.</I>, submitted for publication.<SUP> </SUP><A HREF="#RFN2"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN3"><!-- null --></A>
+<SUP><SUP>3</SUP></SUP> E. E. Corcoran, J. D. Joseph, J. A. MacDonald, T. A. J. Haystead,<SUP> </SUP>and A. R. Means, unpublished results.<SUP> </SUP><A HREF="#RFN3"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN4"><!-- null --></A>
+<SUP>*</SUP> This work was supported in part by a Natural Sciences and Engineering<SUP> </SUP>Research Council of Canada post-doctoral fellowship (to J. A.<SUP> </SUP>M.), by National Library of Medicine Grant LM04969 (to W. R.<SUP> </SUP>P. and A. J. M.), and by National Institutes of Health Grant<SUP> </SUP>HL19242-24 (to T. A. J. H.).<SUP> </SUP><A HREF="#RFN4"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+<A NAME="FN5"><!-- null --></A>
+<SUP><IMG SRC="/math/sect.gif" ALT="&#167;" BORDER="0"></SUP> Contributed equally.<SUP> </SUP><A HREF="#RFN5"><IMG BORDER=0 WIDTH=12 HEIGHT=12 ALT="Back"
+SRC="/icons/back.gif"></A><P>
+
+
+<A NAME="COR1"><!-- null --></A>
+<SUP>**</SUP> To whom correspondence should be addressed: Dept. of Pharmacology and Cancer Biology, Box 3813, Duke University, Durham, NC 27710. Tel.: 919-613-8606; Fax: 919-668-0977; E-mail: <span id="em0">hayst001{at}mc.duke.edu</span><script type="text/javascript"><!--
+ var u = "hayst001", d = "mc.duke.edu"; document.getElementById("em0").innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '<\/a>'//--></script><P>
+
+<A NAME="BIBL"><!-- null --></A>
+<BR CLEAR=right><TABLE WIDTH=100% BGCOLOR=e1e1e1 CELLPADDING=0 CELLSPACING=0>
+ <TR><TD ALIGN=left VALIGN=middle WIDTH=5% BGCOLOR=ffffff><IMG WIDTH=10 HEIGHT=21 HSPACE=5 ALT=" "
+SRC="/icons/toc/rarrow.gif"></TD>
+ <TH ALIGN=left VALIGN=middle WIDTH=95%><FONT SIZE=+2>&nbsp;&nbsp;
+REFERENCES
+</FONT></TH></TR></TABLE>
+<TABLE ALIGN=right CELLPADDING=5 BORDER><TR><TH
+ALIGN=left><FONT SIZE=-1>
+<A HREF="#top"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">TOP<BR></A>
+<A  HREF="#ABS"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">ABSTRACT<BR></A>
+<A  HREF="#SEC1"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">EXPERIMENTAL PROCEDURES<BR></A>
+<A  HREF="#SEC2"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">RESULTS<BR></A>
+<A  HREF="#SEC3"><IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/uarrow.gif">DISCUSSION<BR></A>
+<IMG WIDTH=11 HEIGHT=9 BORDER=0 HSPACE=5 ALT=" "
+SRC="/icons/toc/dot.gif"><FONT COLOR=464c53>REFERENCES</FONT><BR>
+</FONT></TH></TR></TABLE>
+&nbsp;<BR>
+
+<OL COMPACT>
+<A NAME="R1"><!-- null --></A>
+<LI VALUE=1> Godovac-Zimmermann, J., and Brown, L. R.
+(2001) Perspectives for mass spectrometry and functional proteomics.
+<I>Mass Spectrom. Rev.</I>
+<B>20, </B>1
+&#150;57<!-- HIGHWIRE ID="1:4:314:1" --><A HREF="/cgi/external_ref?access_num=10.1002/1098-2787(2001)20:1<1::AID-MAS1001>3.0.CO;2-J&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11223909&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R2"><!-- null --></A>
+<LI VALUE=2> Gygi, S. P., and Aebersold, R.
+(2000) Mass spectrometry and proteomics.
+<I>Curr. Opin. Chem. Biol.</I>
+<B>4, </B>489
+&#150;494<!-- HIGHWIRE ID="1:4:314:2" --><A HREF="/cgi/external_ref?access_num=10.1016/S1367-5931(00)00121-6&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11006534&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R3"><!-- null --></A>
+<LI VALUE=3> Jung, E., Heller, M., Sanchez, J. C., and Hochstrasser, D. F.
+(2000) Proteomics meets cell biology: the establishment of subcellular proteomes.
+<I>Electrophoresis</I>
+<B>21, </B>3369
+&#150;3377<!-- HIGHWIRE ID="1:4:314:3" --><A HREF="/cgi/external_ref?access_num=10.1002/1522-2683(20001001)21:16<3369::AID-ELPS3369>3.0.CO;2-7&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11079557&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R4"><!-- null --></A>
+<LI VALUE=4> Alms, G. R., Sanz, P., Carlson, M., and Haystead, T. A. J.
+(1999) Reg1p targets protein phosphatase 1 to dephosphorylate hexokinase II in <I>Saccharomyces cerevisiae</I>: characterizing the effects of a phosphatase subunit on the yeast proteome.
+<I>EMBO J.</I>
+<B>18, </B>4157
+&#150;4168<!-- HIGHWIRE ID="1:4:314:4" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=emboj&resid=18/15/4157" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R5"><!-- null --></A>
+<LI VALUE=5> MacDonald, J. A., Borman, M. A., Muranji, A., Somlyo, A. V., Hartshorne, D. J., and Haystead, T. A. J.
+(2001) Identification of the endogenous smooth muscle myosin phosphatase-associated kinase.
+<I>Proc. Natl. Acad. Sci. U. S. A.</I>
+<B>98, </B>2419
+&#150;2424<!-- HIGHWIRE ID="1:4:314:5" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=pnas&resid=98/5/2419" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R6"><!-- null --></A>
+<LI VALUE=6> Blom, N., Gammeltoft, S., and Brunak, S.
+(1999) Sequence and structure-based prediction of eukaryotic protein phosphorylation sites.
+<I>J. Mol. Biol.</I>
+<B>294, </B>1351
+&#150;1362<!-- HIGHWIRE ID="1:4:314:6" --><A HREF="/cgi/external_ref?access_num=10.1006/jmbi.1999.3310&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10600390&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R7"><!-- null --></A>
+<LI VALUE=7> MacDonald, J. A., Walker, L. A., Gorenne, I., Nakamoto, R., Somlyo, A. V., Somlyo, A. P., and Haystead, T. A. J.
+(2000) Phosphorylation of telokin by cyclic nucleotide kinases and the identification of <I>in vivo</I> phosphorylation sites in smooth muscle.
+<I>FEBS Lett.</I>
+<B>479, </B>83
+&#150;88<!-- HIGHWIRE ID="1:4:314:7" --><A HREF="/cgi/external_ref?access_num=10.1016/S0014-5793(00)01884-6&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=10981712&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R8"><!-- null --></A>
+<LI VALUE=8> Mustard, J. F., Perry, D. W., Ardlie, N. G., and Packham, M. A.
+(1972) Preparation of suspensions of washed platelets from humans.
+<I>Br. J. Haematol.</I>
+<B>22, </B>193
+&#150;204<!-- HIGHWIRE ID="1:4:314:8" --><A HREF="/cgi/external_ref?access_num=4333433&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R9"><!-- null --></A>
+<LI VALUE=9> Damer, C. K., Partridge, J., Pearson, W. R., and Haystead, T. A. J.
+(1998) Rapid identification of protein phosphatase 1-binding proteins by mixed peptide sequencing and data base searching. Characterization of a novel holoenzymic form of protein phosphatase 1.
+<I>J. Biol. Chem.</I>
+<B>273, </B>24396
+&#150;24405<!-- HIGHWIRE ID="1:4:314:9" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=jbc&resid=273/38/24396" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R10"><!-- null --></A>
+<LI VALUE=10> Russo, G. L., Vandenberg, M. T., Yu, I. J., Bae, Y. S., Franza, B. R., Jr., and Marshak, D. R.
+(1992) Casein kinase II phosphorylates p34cdc2 kinase in G1 phase of the HeLa cell division cycle.
+<I>J. Biol. Chem.</I>
+<B>267, </B>20317
+&#150;20325<!-- HIGHWIRE ID="1:4:314:10" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=jbc&resid=267/28/20317" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R11"><!-- null --></A>
+<LI VALUE=11> Bairoch, A., and Apweiler, R.
+(2000) The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000.
+<I>Nucleic Acids Res.</I>
+<B>28, </B>45
+&#150;48<!-- HIGHWIRE ID="1:4:314:11" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=nar&resid=28/1/45" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R12"><!-- null --></A>
+<LI VALUE=12> Kreegipuu, A., Blom, N., and Brunak, S.
+(1999) PhosphoBase, a database of phosphorylation sites: release 2.0.
+<I>Nucleic Acids Res.</I>
+<B>27, </B>237
+&#150;239<!-- HIGHWIRE ID="1:4:314:12" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=nar&resid=27/1/237" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R13"><!-- null --></A>
+<LI VALUE=13> Wadman, I. A., Virdee, K., Fernandez, D. S., Wasunna, C. L., and Farndale, R. W.
+(1996)
+<I>Platelets: A Practical Approach</I> (Watson, S. P., and Authi, K. S., eds) pp.173
+&#150;198, Oxford University Press, New York<!-- HIGHWIRE ID="1:4:314:13" --><!-- /HIGHWIRE --><P><A NAME="R14"><!-- null --></A>
+<LI VALUE=14> Clark, E. A., and Brugge, J. S.
+(1996)
+<I>Platelets: A Practical Approach</I> (Watson, S. P., and Authi, K. S., eds) pp.199
+&#150;216, Oxford University Press, New York<!-- HIGHWIRE ID="1:4:314:14" --><!-- /HIGHWIRE --><P><A NAME="R15"><!-- null --></A>
+<LI VALUE=15> Mendelsohn, M. E., Zhu, Y., and O&#146;Neill, S.
+(1991) The 29-kDa proteins phosphorylated in thrombin-activated human platelets are forms of the estrogen receptor-related 27-kDa heat shock protein.
+<I>Proc. Natl. Acad. Sci. U. S. A.</I>
+<B>88, </B>11212
+&#150;11216<!-- HIGHWIRE ID="1:4:314:15" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=pnas&resid=88/24/11212" >[Abstract]</A><!-- /HIGHWIRE --><P><A NAME="R16"><!-- null --></A>
+<LI VALUE=16> Landry, J., Lambert, H., Zhou, M., Lavoie, J. N., Hickey, E., Weber, L. A., and Anderson, C. W.
+(1992) Human HSP27 is phosphorylated at serines 78 and 82 by heat shock and mitogen-activated kinases that recognize the same amino acid motif as S6 kinase II.
+<I>J. Biol. Chem.</I>
+<B>267, </B>794
+&#150;803<!-- HIGHWIRE ID="1:4:314:16" --><A HREF="/cgi/ijlink?linkType=ABST&journalCode=jbc&resid=267/2/794" ><nobr>[Abstract/<font COLOR="CC0000">Free</font> Full&nbsp;Text]</nobr></A><!-- /HIGHWIRE --><P><A NAME="R17"><!-- null --></A>
+<LI VALUE=17> Stokoe, D., Engel, K., Campbell, D. G., Cohen, P., and Gaestel, M.
+(1992) Identification of MAPKAP kinase 2 as a major enzyme responsible for the phosphorylation of the small mammalian heat shock proteins.
+<I>FEBS Lett.</I>
+<B>313, </B>307
+&#150;313<!-- HIGHWIRE ID="1:4:314:17" --><A HREF="/cgi/external_ref?access_num=10.1016/0014-5793(92)81216-9&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=1332886&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R18"><!-- null --></A>
+<LI VALUE=18> MacDonald, J. A., Eto, M., Borman, M. A., Brautigan, D. L., and Haystead, T. A. J.
+(2001) Dual Ser and Thr phosphorylation of CPI-17, an inhibitor of myosin phosphatase, by MYPT-associated kinase.
+<I>FEBS Lett.</I>
+<B>493, </B>91
+&#150;94<!-- HIGHWIRE ID="1:4:314:18" --><A HREF="/cgi/external_ref?access_num=10.1016/S0014-5793(01)02277-3&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11287002&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R19"><!-- null --></A>
+<LI VALUE=19> Ficarro, S. B., McCleland, M. L., Stukenberg, P. T., Burke, D. J., Ross, M. M., Shabanowitz, J., Hunt, D. F., and White, F. M.
+(2002) Phosphoproteome analysis by mass spectrometry and its application to
+<I>Saccharomyces cerevisiae. Nat. Biotechnol.</I>
+<B>20, </B>301
+&#150;305<!-- HIGHWIRE ID="1:4:314:19" --><!-- /HIGHWIRE --><P><A NAME="R20"><!-- null --></A>
+<LI VALUE=20> Zhou, H., Watts, J., and Aebersold, R. A.
+(2001) A systematic approach to the analysis of protein phosphorylation.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>375
+&#150;378<!-- HIGHWIRE ID="1:4:314:20" --><A HREF="/cgi/external_ref?access_num=10.1038/86777&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11283598&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P><A NAME="R21"><!-- null --></A>
+<LI VALUE=21> Oda, Y., Nagasu, T., and Chait, B.
+(2001) Enrichment analysis of phosphorylated proteins as a tool for probing the phosphoproteome.
+<I>Nat. Biotechnol.</I>
+<B>19, </B>379
+&#150;382<!-- HIGHWIRE ID="1:4:314:21" --><A HREF="/cgi/external_ref?access_num=10.1038/86783&link_type=DOI" >[CrossRef]</A><A HREF="/cgi/external_ref?access_num=11283599&link_type=MED" >[Medline]</A><!-- /HIGHWIRE --><P></OL>
+
+
+		
+        
+        
+	
+	
+	
+	
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+<BR CLEAR=ALL>
+
+
+
+
+  <FONT FACE="">
+  
+  </FONT>
+<BR CLEAR=ALL>
+<BR CLEAR=ALL>
+
+
+
+<A NAME="otherarticles"><!-- null --></A>
+
+<P>
+</body></html>

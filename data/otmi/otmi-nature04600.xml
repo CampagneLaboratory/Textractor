@@ -1,0 +1,1182 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>CHIP-mediated stress recovery by sequential ubiquitination of substrates and Hsp70</title>
+      <id>info:doi/10.1038/nature04600</id>
+      <link href='http://dx.doi.org/10.1038/nature04600' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Shu-Bing Qian</name>
+      </author>
+      <author>
+        <name>Holly McDonough</name>
+      </author>
+      <author>
+        <name>Frank Boellmann</name>
+      </author>
+      <author>
+        <name>Douglas M. Cyr</name>
+      </author>
+      <author>
+        <name>Cam Patterson</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>551</prism:startingPage>
+      <prism:endingPage>555</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Exposure of cells to various stresses often leads to the induction of a group of proteins called heat shock proteins (HSPs, molecular chaperones) . Hsp70 is one of the most highly inducible molecular chaperones, but its expression must be maintained at low levels under physiological conditions to permit constitutive cellular activities to proceed . Heat shock transcription factor 1 (HSF1) is the transcriptional regulator of HSP gene expression , but it remains poorly understood how newly synthesized HSPs return to basal levels when HSF1 activity is attenuated. CHIP (carboxy terminus of Hsp70-binding protein), a dual-function co-chaperone/ubiquitin ligase, targets a broad range of chaperone substrates for proteasomal degradation . Here we show that CHIP not only enhances Hsp70 induction during acute stress but also mediates its turnover during the stress recovery process. Central to this dual-phase regulation is its substrate dependence: CHIP preferentially ubiquitinates chaperone-bound substrates, whereas degradation of Hsp70 by CHIP-dependent targeting to the ubiquitin–proteasome system occurs when misfolded substrates have been depleted. The sequential catalysis of the CHIP-associated chaperone adaptor and its bound substrate provides an elegant mechanism for maintaining homeostasis by tuning chaperone levels appropriately to reflect the status of protein folding within the cytoplasm.</otmi:rawtext>
+            <otmi:reducedtext>Exposure cells various stresses often leads induction group proteins called heat shock proteins (HSPs, molecular chaperones) . Hsp70 one most highly inducible molecular chaperones, but its expression must maintained at low levels under physiological conditions permit constitutive cellular activities proceed . Heat shock transcription factor 1 (HSF1) transcriptional regulator HSP gene expression , but remains poorly understood how newly synthesized HSPs return basal levels when HSF1 activity attenuated. CHIP (carboxy terminus Hsp70-binding protein), dual-function co-chaperone/ubiquitin ligase, targets broad range chaperone substrates proteasomal degradation . Here show CHIP not only enhances Hsp70 induction during acute stress but also mediates its turnover during stress recovery process. Central dual-phase regulation its substrate dependence: CHIP preferentially ubiquitinates chaperone-bound substrates, whereas degradation Hsp70 CHIP-dependent targeting ubiquitin–proteasome system occurs when misfolded substrates have been depleted. sequential catalysis CHIP-associated chaperone adaptor its bound substrate provides elegant mechanism maintaining homeostasis tuning chaperone levels appropriately reflect status protein folding within cytoplasm.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>its</otmi:vector>
+              <otmi:vector count='3'>substrates</otmi:vector>
+              <otmi:vector count='3'>Hsp70</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>chaperone</otmi:vector>
+              <otmi:vector count='3'>levels</otmi:vector>
+              <otmi:vector count='3'>CHIP</otmi:vector>
+              <otmi:vector count='2'>when</otmi:vector>
+              <otmi:vector count='2'>during</otmi:vector>
+              <otmi:vector count='2'>shock</otmi:vector>
+              <otmi:vector count='2'>proteins</otmi:vector>
+              <otmi:vector count='2'>chaperones</otmi:vector>
+              <otmi:vector count='2'>protein</otmi:vector>
+              <otmi:vector count='2'>HSPs</otmi:vector>
+              <otmi:vector count='2'>induction</otmi:vector>
+              <otmi:vector count='2'>expression</otmi:vector>
+              <otmi:vector count='2'>HSF1</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>substrate</otmi:vector>
+              <otmi:vector count='2'>stress</otmi:vector>
+              <otmi:vector count='2'>degradation</otmi:vector>
+              <otmi:vector count='1'>bound</otmi:vector>
+              <otmi:vector count='1'>maintained</otmi:vector>
+              <otmi:vector count='1'>Heat</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>dependence</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>co-chaperone</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>Exposure</otmi:vector>
+              <otmi:vector count='1'>cells</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>ubiquitin–proteasome</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>HSP</otmi:vector>
+              <otmi:vector count='1'>constitutive</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>targeting</otmi:vector>
+              <otmi:vector count='1'>permit</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>inducible</otmi:vector>
+              <otmi:vector count='1'>terminus</otmi:vector>
+              <otmi:vector count='1'>appropriately</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>basal</otmi:vector>
+              <otmi:vector count='1'>physiological</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>adaptor</otmi:vector>
+              <otmi:vector count='1'>proteasomal</otmi:vector>
+              <otmi:vector count='1'>acute</otmi:vector>
+              <otmi:vector count='1'>reflect</otmi:vector>
+              <otmi:vector count='1'>transcription</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>carboxy</otmi:vector>
+              <otmi:vector count='1'>Hsp70-binding</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>proceed</otmi:vector>
+              <otmi:vector count='1'>called</otmi:vector>
+              <otmi:vector count='1'>ligase</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>depleted</otmi:vector>
+              <otmi:vector count='1'>Central</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>sequential</otmi:vector>
+              <otmi:vector count='1'>mediates</otmi:vector>
+              <otmi:vector count='1'>recovery</otmi:vector>
+              <otmi:vector count='1'>cytoplasm.</otmi:vector>
+              <otmi:vector count='1'>homeostasis</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>tuning</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>regulator</otmi:vector>
+              <otmi:vector count='1'>dual-phase</otmi:vector>
+              <otmi:vector count='1'>ubiquitin</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>enhances</otmi:vector>
+              <otmi:vector count='1'>chaperone-bound</otmi:vector>
+              <otmi:vector count='1'>gene</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>attenuated</otmi:vector>
+              <otmi:vector count='1'>status</otmi:vector>
+              <otmi:vector count='1'>CHIP-associated</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>catalysis</otmi:vector>
+              <otmi:vector count='1'>elegant</otmi:vector>
+              <otmi:vector count='1'>newly</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>heat</otmi:vector>
+              <otmi:vector count='1'>CHIP-dependent</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>maintaining</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>turnover</otmi:vector>
+              <otmi:vector count='1'>stresses</otmi:vector>
+              <otmi:vector count='1'>ubiquitinates</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>misfolded</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>return</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>transcriptional</otmi:vector>
+              <otmi:vector count='1'>targets</otmi:vector>
+              <otmi:vector count='1'>folding</otmi:vector>
+              <otmi:vector count='1'>dual-function</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>CHIP (carboxy terminus of Hsp70-binding protein), a dual-function co-chaperone/ubiquitin ligase, targets a broad range of chaperone substrates for proteasomal degradation </otmi:snippet>
+              <otmi:snippet>Central to this dual-phase regulation is its substrate dependence: CHIP preferentially ubiquitinates chaperone-bound substrates, whereas degradation of Hsp70 by CHIP-dependent targeting to the ubiquitin–proteasome system occurs when misfolded substrates have been depleted</otmi:snippet>
+              <otmi:snippet>Exposure of cells to various stresses often leads to the induction of a group of proteins called heat shock proteins (HSPs, molecular chaperones) </otmi:snippet>
+              <otmi:snippet>Heat shock transcription factor 1 (HSF1) is the transcriptional regulator of HSP gene expression , but it remains poorly understood how newly synthesized HSPs return to basal levels when HSF1 activity is attenuated</otmi:snippet>
+              <otmi:snippet>Here we show that CHIP not only enhances Hsp70 induction during acute stress but also mediates its turnover during the stress recovery process</otmi:snippet>
+              <otmi:snippet>Hsp70 is one of the most highly inducible molecular chaperones, but its expression must be maintained at low levels under physiological conditions to permit constitutive cellular activities to proceed </otmi:snippet>
+              <otmi:snippet>The sequential catalysis of the CHIP-associated chaperone adaptor and its bound substrate provides an elegant mechanism for maintaining homeostasis by tuning chaperone levels appropriately to reflect the status of protein folding within the cytoplasm.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='9'>CHIP</otmi:vector>
+              <otmi:vector count='7'>M</otmi:vector>
+              <otmi:vector count='7'>1</otmi:vector>
+              <otmi:vector count='6'>mM</otmi:vector>
+              <otmi:vector count='6'>2</otmi:vector>
+              <otmi:vector count='5'>luciferase</otmi:vector>
+              <otmi:vector count='4'>containing</otmi:vector>
+              <otmi:vector count='4'>Monoclonal</otmi:vector>
+              <otmi:vector count='3'>assay</otmi:vector>
+              <otmi:vector count='3'>50</otmi:vector>
+              <otmi:vector count='3'>cell</otmi:vector>
+              <otmi:vector count='3'>indicated</otmi:vector>
+              <otmi:vector count='3'>10</otmi:vector>
+              <otmi:vector count='3'>vitro</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>samples</otmi:vector>
+              <otmi:vector count='2'>activity</otmi:vector>
+              <otmi:vector count='2'>promoter</otmi:vector>
+              <otmi:vector count='2'>MgCl</otmi:vector>
+              <otmi:vector count='2'>CHIP(K30A</otmi:vector>
+              <otmi:vector count='2'>gene</otmi:vector>
+              <otmi:vector count='2'>GFP</otmi:vector>
+              <otmi:vector count='2'>Hsp70</otmi:vector>
+              <otmi:vector count='2'>HSF1</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>anti-Hsp70</otmi:vector>
+              <otmi:vector count='2'>mixture</otmi:vector>
+              <otmi:vector count='2'>heated</otmi:vector>
+              <otmi:vector count='2'>Promega</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>reaction</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>lines</otmi:vector>
+              <otmi:vector count='2'>DMEM</otmi:vector>
+              <otmi:vector count='2'>performed</otmi:vector>
+              <otmi:vector count='2'>7.5</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>Sigma</otmi:vector>
+              <otmi:vector count='2'>ml</otmi:vector>
+              <otmi:vector count='2'>antibody</otmi:vector>
+              <otmi:vector count='2'>purified</otmi:vector>
+              <otmi:vector count='2'>firefly</otmi:vector>
+              <otmi:vector count='2'>pH</otmi:vector>
+              <otmi:vector count='2'>described</otmi:vector>
+              <otmi:vector count='2'>BioMol</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>SDS–PAGE</otmi:vector>
+              <otmi:vector count='2'>UbcH5a</otmi:vector>
+              <otmi:vector count='2'>ATP</otmi:vector>
+              <otmi:vector count='2'>sequence</otmi:vector>
+              <otmi:vector count='2'>included</otmi:vector>
+              <otmi:vector count='2'>After</otmi:vector>
+              <otmi:vector count='2'>transfection</otmi:vector>
+              <otmi:vector count='2'>target</otmi:vector>
+              <otmi:vector count='2'>assays</otmi:vector>
+              <otmi:vector count='1'>duration</otmi:vector>
+              <otmi:vector count='1'>Reactions</otmi:vector>
+              <otmi:vector count='1'>Renilla</otmi:vector>
+              <otmi:vector count='1'>efficiency</otmi:vector>
+              <otmi:vector count='1'>Tris-buffered</otmi:vector>
+              <otmi:vector count='1'>Recombinant</otmi:vector>
+              <otmi:vector count='1'>SPA810</otmi:vector>
+              <otmi:vector count='1'>antibodies</otmi:vector>
+              <otmi:vector count='1'>Dharmacon</otmi:vector>
+              <otmi:vector count='1'>5′-AACGAGAAGCGCGAUCACAUG-3</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>beads</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>PBS</otmi:vector>
+              <otmi:vector count='1'>Ron</otmi:vector>
+              <otmi:vector count='1'>26S</otmi:vector>
+              <otmi:vector count='1'>vectors</otmi:vector>
+              <otmi:vector count='1'>Aliquots</otmi:vector>
+              <otmi:vector count='1'>incubated</otmi:vector>
+              <otmi:vector count='1'>T</otmi:vector>
+              <otmi:vector count='1'>durations</otmi:vector>
+              <otmi:vector count='1'>embryonic</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>SPA815</otmi:vector>
+              <otmi:vector count='1'>reconstitution</otmi:vector>
+              <otmi:vector count='1'>Qiagen</otmi:vector>
+              <otmi:vector count='1'>U</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>ubiquitination</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>bath</otmi:vector>
+              <otmi:vector count='1'>agarose</otmi:vector>
+              <otmi:vector count='1'>saline</otmi:vector>
+              <otmi:vector count='1'>Antibodies</otmi:vector>
+              <otmi:vector count='1'>murine</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>ice</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>short</otmi:vector>
+              <otmi:vector count='1'>mg</otmi:vector>
+              <otmi:vector count='1'>driven</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>dual-luciferase</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>Roche</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>Double-stranded</otmi:vector>
+              <otmi:vector count='1'>Ni</otmi:vector>
+              <otmi:vector count='1'>coli</otmi:vector>
+              <otmi:vector count='1'>appropriate</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>Whole</otmi:vector>
+              <otmi:vector count='1'>adult</otmi:vector>
+              <otmi:vector count='1'>43</otmi:vector>
+              <otmi:vector count='1'>resolved</otmi:vector>
+              <otmi:vector count='1'>(SPA845</otmi:vector>
+              <otmi:vector count='1'>reporter</otmi:vector>
+              <otmi:vector count='1'>Triton</otmi:vector>
+              <otmi:vector count='1'>interfering</otmi:vector>
+              <otmi:vector count='1'>adenoviruses</otmi:vector>
+              <otmi:vector count='1'>Hdj2</otmi:vector>
+              <otmi:vector count='1'>E1</otmi:vector>
+              <otmi:vector count='1'>pcDNA3.1</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>radiolabelled</otmi:vector>
+              <otmi:vector count='1'>S]Met</otmi:vector>
+              <otmi:vector count='1'>cBSA</otmi:vector>
+              <otmi:vector count='1'>degradation</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>anti-luciferase</otmi:vector>
+              <otmi:vector count='1'>dithiothreitol</otmi:vector>
+              <otmi:vector count='1'>HEK-293</otmi:vector>
+              <otmi:vector count='1'>antigen</otmi:vector>
+              <otmi:vector count='1'>Dual</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>kindly</otmi:vector>
+              <otmi:vector count='1'>fibroblast</otmi:vector>
+              <otmi:vector count='1'>chased</otmi:vector>
+              <otmi:vector count='1'>0.5</otmi:vector>
+              <otmi:vector count='1'>Polyclonal</otmi:vector>
+              <otmi:vector count='1'>Ci</otmi:vector>
+              <otmi:vector count='1'>rabbit</otmi:vector>
+              <otmi:vector count='1'>transfections</otmi:vector>
+              <otmi:vector count='1'>Stressgen</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>Reporter</otmi:vector>
+              <otmi:vector count='1'>G</otmi:vector>
+              <otmi:vector count='1'>expressing</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>BL21(DE3</otmi:vector>
+              <otmi:vector count='1'>nM</otmi:vector>
+              <otmi:vector count='1'>5′-GGAGCAGGGCAAUCGUCUG-3</otmi:vector>
+              <otmi:vector count='1'>ubiquitin</otmi:vector>
+              <otmi:vector count='1'>FBS</otmi:vector>
+              <otmi:vector count='1'>His-tagged</otmi:vector>
+              <otmi:vector count='1'>Gal</otmi:vector>
+              <otmi:vector count='1'>immunoprecipitation</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>Met</otmi:vector>
+              <otmi:vector count='1'>Heat</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>SV40</otmi:vector>
+              <otmi:vector count='1'>Benjamin</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>immunoblotting</otmi:vector>
+              <otmi:vector count='1'>DNase</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>stress-regulated</otmi:vector>
+              <otmi:vector count='1'>chilled</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>RNAs</otmi:vector>
+              <otmi:vector count='1'>brief</otmi:vector>
+              <otmi:vector count='1'>Protein</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>purification</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>Lysates</otmi:vector>
+              <otmi:vector count='1'>viruses</otmi:vector>
+              <otmi:vector count='1'>D</otmi:vector>
+              <otmi:vector count='1'>anti-His</otmi:vector>
+              <otmi:vector count='1'>lungs</otmi:vector>
+              <otmi:vector count='1'>Cruz</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>plasmids</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>35</otmi:vector>
+              <otmi:vector count='1'>min</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>37</otmi:vector>
+              <otmi:vector count='1'>fibroblasts</otmi:vector>
+              <otmi:vector count='1'>Tris-HCl</otmi:vector>
+              <otmi:vector count='1'>Mammalian</otmi:vector>
+              <otmi:vector count='1'>Hsp70B</otmi:vector>
+              <otmi:vector count='1'>transcriptional</otmi:vector>
+              <otmi:vector count='1'>monoclonal</otmi:vector>
+              <otmi:vector count='1'>anti-Hsp90</otmi:vector>
+              <otmi:vector count='1'>coated</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>excess</otmi:vector>
+              <otmi:vector count='1'>SPA810).</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>Santa</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>purchased</otmi:vector>
+              <otmi:vector count='1'>Pulse–chase</otmi:vector>
+              <otmi:vector count='1'>Escherichia</otmi:vector>
+              <otmi:vector count='1'>washing</otmi:vector>
+              <otmi:vector count='1'>anti-Grp78</otmi:vector>
+              <otmi:vector count='1'>X-100</otmi:vector>
+              <otmi:vector count='1'>maintained</otmi:vector>
+              <otmi:vector count='1'>proteasomes</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>lysates</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>anti-β-actin</otmi:vector>
+              <otmi:vector count='1'>unlabelled</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>Cell</otmi:vector>
+              <otmi:vector count='1'>cytomegalovirus</otmi:vector>
+              <otmi:vector count='1'>-nitrilotriacetate</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>anti-Hsc70</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>After being heated, samples were quickly chilled in an ice bath</otmi:snippet>
+              <otmi:snippet>After washing with PBS containing excess unlabelled Met (1 mg ml -1 ), cells were chased in the complete DMEM for the indicated duration</otmi:snippet>
+              <otmi:snippet>Aliquots were incubated in the reaction mixture as indicated above</otmi:snippet>
+              <otmi:snippet>Antibodies and short interfering RNAs Monoclonal anti-Hsp70 (SPA810) , anti-Hsp90α (SPA845) and anti-Hsc70 (SPA815) were purchased from Stressgen </otmi:snippet>
+              <otmi:snippet>Benjamin</otmi:snippet>
+              <otmi:snippet>CHIP +/+ and CHIP -/- cell lines were established from fibroblasts isolated from adult lungs of CHIP +/+ and CHIP -/- mice by transfection with SV40 large T antigen (kindly provided by D</otmi:snippet>
+              <otmi:snippet>Double-stranded RNA for CHIP (target sequence 5′-GGAGCAGGGCAAUCGUCUG-3′) and GFP (target sequence 5′-AACGAGAAGCGCGAUCACAUG-3′) were synthesized by Dharmacon </otmi:snippet>
+              <otmi:snippet>Dual luciferase assay A firefly luciferase gene under the control of the strictly stress-regulated human Hsp70B promoter was used to assess HSF1 transcriptional activity</otmi:snippet>
+              <otmi:snippet>For in vitro degradation assays, 50 nM purified 26S proteasomes ( BioMol ) was included in the reaction mixture</otmi:snippet>
+              <otmi:snippet>Heat treatment of firefly luciferase was described elsewhere </otmi:snippet>
+              <otmi:snippet>In brief, 0.5 µM luciferase was heated at 43 °C for 10 min with 1 µM Hsp70 and 1 µM Hdj2 on the presence of 4 mM ATP in 50 mM Tris-HCl pH 7.5 containing 2 mM MgCl 2 </otmi:snippet>
+              <otmi:snippet>In vitro reconstitution assay His-tagged CHIP, and UbcH5a, were produced in Escherichia coli BL21(DE3) followed by purification with Ni 2+ -nitrilotriacetate agarose</otmi:snippet>
+              <otmi:snippet>In vitro ubiquitination assays were performed in the presence of 0.1 µM purified rabbit E1 ( BioMol ), 2 µM UbcH5a, 3 µM CHIP, 50 µM ubiquitin ( Sigma ), 1 mM dithiothreitol, 2 mM MgCl 2 and 4 mM ATP</otmi:snippet>
+              <otmi:snippet>Lysates were either directly resolved by SDS–PAGE or used for immunoprecipitation with Protein G beads coated in monoclonal anti-Hsp70 (SPA810).</otmi:snippet>
+              <otmi:snippet>Mammalian expression vectors for β-Gal, cBSA, Hsp70, CHIP and CHIP(K30A) are based on pcDNA3.1</otmi:snippet>
+              <otmi:snippet>Methods Cell lines, plasmids and viruses HEK-293 cells were maintained in DMEM medium containing 10% FBS</otmi:snippet>
+              <otmi:snippet>Monoclonal anti-Grp78 antibody was from Santa Cruz </otmi:snippet>
+              <otmi:snippet>Monoclonal anti-His antibody was from Qiagen </otmi:snippet>
+              <otmi:snippet>Monoclonal anti-β-actin was from Sigma </otmi:snippet>
+              <otmi:snippet>Polyclonal anti-luciferase was from Promega </otmi:snippet>
+              <otmi:snippet>Pulse–chase analysis Cells were radiolabelled with [ 35 S]Met (100 µCi) for the indicated durations</otmi:snippet>
+              <otmi:snippet>Reactions were performed at 37 °C, and samples were analysed by SDS–PAGE and immunoblotting with appropriate antibodies</otmi:snippet>
+              <otmi:snippet>Recombinant adenoviruses expressing CHIP, CHIP(K30A) or GFP have been described previously </otmi:snippet>
+              <otmi:snippet>Reporter activity was determined with a dual-luciferase reporter assay ( Promega )</otmi:snippet>
+              <otmi:snippet>Ron)</otmi:snippet>
+              <otmi:snippet>The HSF1 -/- murine embryonic fibroblast cell line was provided by I</otmi:snippet>
+              <otmi:snippet>To control for the differences in transfection efficiency and other effects, a Renilla luciferase gene driven by a cytomegalovirus promoter was included in all transfections </otmi:snippet>
+              <otmi:snippet>Whole cell lysates were made in Tris-buffered saline pH 7.5 containing 1% Triton X-100 and 10 U ml -1 DNase A ( Roche )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='68'>Hsp70</otmi:vector>
+              <otmi:vector count='67'>CHIP</otmi:vector>
+              <otmi:vector count='25'>Fig</otmi:vector>
+              <otmi:vector count='20'>degradation</otmi:vector>
+              <otmi:vector count='19'>cells</otmi:vector>
+              <otmi:vector count='16'>stress</otmi:vector>
+              <otmi:vector count='14'>levels</otmi:vector>
+              <otmi:vector count='13'>HSF1</otmi:vector>
+              <otmi:vector count='12'>chaperone</otmi:vector>
+              <otmi:vector count='11'>these</otmi:vector>
+              <otmi:vector count='11'>not</otmi:vector>
+              <otmi:vector count='10'>ubiquitin</otmi:vector>
+              <otmi:vector count='10'>proteins</otmi:vector>
+              <otmi:vector count='10'>during</otmi:vector>
+              <otmi:vector count='9'>shock</otmi:vector>
+              <otmi:vector count='9'>heat</otmi:vector>
+              <otmi:vector count='9'>after</otmi:vector>
+              <otmi:vector count='9'>recovery</otmi:vector>
+              <otmi:vector count='9'>observed</otmi:vector>
+              <otmi:vector count='9'>expression</otmi:vector>
+              <otmi:vector count='8'>activity</otmi:vector>
+              <otmi:vector count='8'>response</otmi:vector>
+              <otmi:vector count='8'>substrate</otmi:vector>
+              <otmi:vector count='8'>turnover</otmi:vector>
+              <otmi:vector count='8'>its</otmi:vector>
+              <otmi:vector count='8'>misfolded</otmi:vector>
+              <otmi:vector count='8'>Hsc70</otmi:vector>
+              <otmi:vector count='7'>overexpression</otmi:vector>
+              <otmi:vector count='7'>whereas</otmi:vector>
+              <otmi:vector count='7'>effects</otmi:vector>
+              <otmi:vector count='7'>further</otmi:vector>
+              <otmi:vector count='7'>which</otmi:vector>
+              <otmi:vector count='7'>both</otmi:vector>
+              <otmi:vector count='6'>phase</otmi:vector>
+              <otmi:vector count='6'>luciferase</otmi:vector>
+              <otmi:vector count='6'>ubiquitination</otmi:vector>
+              <otmi:vector count='6'>protein</otmi:vector>
+              <otmi:vector count='6'>have</otmi:vector>
+              <otmi:vector count='6'>level</otmi:vector>
+              <otmi:vector count='6'>2</otmi:vector>
+              <otmi:vector count='6'>CHIP(K30A</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='6'>h</otmi:vector>
+              <otmi:vector count='6'>our</otmi:vector>
+              <otmi:vector count='5'>absence</otmi:vector>
+              <otmi:vector count='5'>ligase</otmi:vector>
+              <otmi:vector count='5'>their</otmi:vector>
+              <otmi:vector count='5'>but</otmi:vector>
+              <otmi:vector count='5'>C</otmi:vector>
+              <otmi:vector count='5'>observations</otmi:vector>
+              <otmi:vector count='5'>kinetics</otmi:vector>
+              <otmi:vector count='5'>much</otmi:vector>
+              <otmi:vector count='5'>examined</otmi:vector>
+              <otmi:vector count='5'>vivo</otmi:vector>
+              <otmi:vector count='5'>cell</otmi:vector>
+              <otmi:vector count='5'>availability</otmi:vector>
+              <otmi:vector count='5'>role</otmi:vector>
+              <otmi:vector count='5'>adaptor</otmi:vector>
+              <otmi:vector count='5'>presence</otmi:vector>
+              <otmi:vector count='5'>t</otmi:vector>
+              <otmi:vector count='5'>However</otmi:vector>
+              <otmi:vector count='4'>found</otmi:vector>
+              <otmi:vector count='4'>degraded</otmi:vector>
+              <otmi:vector count='4'>clearance</otmi:vector>
+              <otmi:vector count='4'>under</otmi:vector>
+              <otmi:vector count='4'>vitro</otmi:vector>
+              <otmi:vector count='4'>binding</otmi:vector>
+              <otmi:vector count='4'>between</otmi:vector>
+              <otmi:vector count='4'>min</otmi:vector>
+              <otmi:vector count='4'>basal</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>also</otmi:vector>
+              <otmi:vector count='4'>does</otmi:vector>
+              <otmi:vector count='4'>indicate</otmi:vector>
+              <otmi:vector count='4'>steady-state</otmi:vector>
+              <otmi:vector count='4'>induction</otmi:vector>
+              <otmi:vector count='4'>mechanism</otmi:vector>
+              <otmi:vector count='4'>regulate</otmi:vector>
+              <otmi:vector count='4'>CHIP-mediated</otmi:vector>
+              <otmi:vector count='4'>proteasome</otmi:vector>
+              <otmi:vector count='4'>might</otmi:vector>
+              <otmi:vector count='4'>such</otmi:vector>
+              <otmi:vector count='4'>containing</otmi:vector>
+              <otmi:vector count='4'>conditions</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>substrates</otmi:vector>
+              <otmi:vector count='3'>back</otmi:vector>
+              <otmi:vector count='3'>resulted</otmi:vector>
+              <otmi:vector count='3'>cBSA</otmi:vector>
+              <otmi:vector count='3'>rapid</otmi:vector>
+              <otmi:vector count='3'>demonstrated</otmi:vector>
+              <otmi:vector count='3'>CHIP(H260Q</otmi:vector>
+              <otmi:vector count='3'>ability</otmi:vector>
+              <otmi:vector count='3'>stability</otmi:vector>
+              <otmi:vector count='3'>stress-induced</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>U-box</otmi:vector>
+              <otmi:vector count='3'>Supplementary</otmi:vector>
+              <otmi:vector count='3'>clients</otmi:vector>
+              <otmi:vector count='3'>differential</otmi:vector>
+              <otmi:vector count='3'>effect</otmi:vector>
+              <otmi:vector count='3'>addition</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='3'>required</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>proteasome-dependent</otmi:vector>
+              <otmi:vector count='3'>acute</otmi:vector>
+              <otmi:vector count='3'>been</otmi:vector>
+              <otmi:vector count='3'>different</otmi:vector>
+              <otmi:vector count='3'>fibroblasts</otmi:vector>
+              <otmi:vector count='3'>denatured</otmi:vector>
+              <otmi:vector count='3'>42</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>previous</otmi:vector>
+              <otmi:vector count='3'>decrease</otmi:vector>
+              <otmi:vector count='3'>than</otmi:vector>
+              <otmi:vector count='3'>assays</otmi:vector>
+              <otmi:vector count='3'>sustained</otmi:vector>
+              <otmi:vector count='3'>followed</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>expected</otmi:vector>
+              <otmi:vector count='3'>through</otmi:vector>
+              <otmi:vector count='3'>indicated</otmi:vector>
+              <otmi:vector count='3'>Because</otmi:vector>
+              <otmi:vector count='3'>activation</otmi:vector>
+              <otmi:vector count='3'>results</otmi:vector>
+              <otmi:vector count='3'>regulation</otmi:vector>
+              <otmi:vector count='3'>predicted</otmi:vector>
+              <otmi:vector count='3'>observation</otmi:vector>
+              <otmi:vector count='3'>proteasomal</otmi:vector>
+              <otmi:vector count='3'>therefore</otmi:vector>
+              <otmi:vector count='3'>3a</otmi:vector>
+              <otmi:vector count='3'>2a</otmi:vector>
+              <otmi:vector count='3'>adding</otmi:vector>
+              <otmi:vector count='3'>F-box</otmi:vector>
+              <otmi:vector count='3'>3b</otmi:vector>
+              <otmi:vector count='2'>normal</otmi:vector>
+              <otmi:vector count='2'>however</otmi:vector>
+              <otmi:vector count='2'>substrate-dependent</otmi:vector>
+              <otmi:vector count='2'>26S</otmi:vector>
+              <otmi:vector count='2'>Taken</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>adaptors</otmi:vector>
+              <otmi:vector count='2'>cellular</otmi:vector>
+              <otmi:vector count='2'>hypothesis</otmi:vector>
+              <otmi:vector count='2'>affected</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>chaperones</otmi:vector>
+              <otmi:vector count='2'>instead</otmi:vector>
+              <otmi:vector count='2'>steps</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>reintroducing</otmi:vector>
+              <otmi:vector count='2'>pulse–chase</otmi:vector>
+              <otmi:vector count='2'>After</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>depleted</otmi:vector>
+              <otmi:vector count='2'>confirmed</otmi:vector>
+              <otmi:vector count='2'>contrast</otmi:vector>
+              <otmi:vector count='2'>until</otmi:vector>
+              <otmi:vector count='2'>mouse</otmi:vector>
+              <otmi:vector count='2'>threshold</otmi:vector>
+              <otmi:vector count='2'>ATP</otmi:vector>
+              <otmi:vector count='2'>single</otmi:vector>
+              <otmi:vector count='2'>AdV</otmi:vector>
+              <otmi:vector count='2'>HEK-293</otmi:vector>
+              <otmi:vector count='2'>consistent</otmi:vector>
+              <otmi:vector count='2'>HSP</otmi:vector>
+              <otmi:vector count='2'>maintained</otmi:vector>
+              <otmi:vector count='2'>decreased</otmi:vector>
+              <otmi:vector count='2'>indicates</otmi:vector>
+              <otmi:vector count='2'>incubation</otmi:vector>
+              <otmi:vector count='2'>CHIP-dependent</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>4a</otmi:vector>
+              <otmi:vector count='2'>while</otmi:vector>
+              <otmi:vector count='2'>E1</otmi:vector>
+              <otmi:vector count='2'>markedly</otmi:vector>
+              <otmi:vector count='2'>higher</otmi:vector>
+              <otmi:vector count='2'>chronic</otmi:vector>
+              <otmi:vector count='2'>unfoldable</otmi:vector>
+              <otmi:vector count='2'>residues</otmi:vector>
+              <otmi:vector count='2'>biphasic</otmi:vector>
+              <otmi:vector count='2'>functions</otmi:vector>
+              <otmi:vector count='2'>appropriate</otmi:vector>
+              <otmi:vector count='2'>E2</otmi:vector>
+              <otmi:vector count='2'>activating</otmi:vector>
+              <otmi:vector count='2'>immunoprecipitation</otmi:vector>
+              <otmi:vector count='2'>means</otmi:vector>
+              <otmi:vector count='2'>overexpressing</otmi:vector>
+              <otmi:vector count='2'>explore</otmi:vector>
+              <otmi:vector count='2'>GFP</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>before</otmi:vector>
+              <otmi:vector count='2'>imply</otmi:vector>
+              <otmi:vector count='2'>together</otmi:vector>
+              <otmi:vector count='2'>multiple</otmi:vector>
+              <otmi:vector count='2'>stable</otmi:vector>
+              <otmi:vector count='2'>susceptible</otmi:vector>
+              <otmi:vector count='2'>additional</otmi:vector>
+              <otmi:vector count='2'>transcriptional</otmi:vector>
+              <otmi:vector count='2'>ubiquitinate</otmi:vector>
+              <otmi:vector count='2'>expressing</otmi:vector>
+              <otmi:vector count='2'>regulates</otmi:vector>
+              <otmi:vector count='2'>supporting</otmi:vector>
+              <otmi:vector count='2'>8</otmi:vector>
+              <otmi:vector count='2'>relationship</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>Consistent</otmi:vector>
+              <otmi:vector count='2'>reaction</otmi:vector>
+              <otmi:vector count='2'>incubated</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>amount</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>infected</otmi:vector>
+              <otmi:vector count='2'>shorter</otmi:vector>
+              <otmi:vector count='2'>mutant</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>capable</otmi:vector>
+              <otmi:vector count='2'>interact</otmi:vector>
+              <otmi:vector count='2'>lower</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>excess</otmi:vector>
+              <otmi:vector count='2'>wild-type</otmi:vector>
+              <otmi:vector count='2'>SCF</otmi:vector>
+              <otmi:vector count='2'>rapidly</otmi:vector>
+              <otmi:vector count='2'>reconstituted</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>less</otmi:vector>
+              <otmi:vector count='2'>negatively</otmi:vector>
+              <otmi:vector count='2'>2c</otmi:vector>
+              <otmi:vector count='2'>30</otmi:vector>
+              <otmi:vector count='2'>test</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>improve</otmi:vector>
+              <otmi:vector count='1'>Intriguingly</otmi:vector>
+              <otmi:vector count='1'>inducible</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>selective</otmi:vector>
+              <otmi:vector count='1'>competition</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>sample</otmi:vector>
+              <otmi:vector count='1'>enforced</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>reintroduced</otmi:vector>
+              <otmi:vector count='1'>41</otmi:vector>
+              <otmi:vector count='1'>Without</otmi:vector>
+              <otmi:vector count='1'>induced</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>native</otmi:vector>
+              <otmi:vector count='1'>autocatalysis</otmi:vector>
+              <otmi:vector count='1'>independently</otmi:vector>
+              <otmi:vector count='1'>minimally</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>reconstitution</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>inactive</otmi:vector>
+              <otmi:vector count='1'>stressful</otmi:vector>
+              <otmi:vector count='1'>Equal</otmi:vector>
+              <otmi:vector count='1'>elicits</otmi:vector>
+              <otmi:vector count='1'>mechanism.</otmi:vector>
+              <otmi:vector count='1'>impaired</otmi:vector>
+              <otmi:vector count='1'>purified</otmi:vector>
+              <otmi:vector count='1'>knockdown</otmi:vector>
+              <otmi:vector count='1'>consequently</otmi:vector>
+              <otmi:vector count='1'>hierarchy</otmi:vector>
+              <otmi:vector count='1'>plasmid-mediated</otmi:vector>
+              <otmi:vector count='1'>non-canonical</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>linear</otmi:vector>
+              <otmi:vector count='1'>Immunoblotting</otmi:vector>
+              <otmi:vector count='1'>Skp1–Cdc53</otmi:vector>
+              <otmi:vector count='1'>apparent</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>Remarkably</otmi:vector>
+              <otmi:vector count='1'>ubiquitinating</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>investigated</otmi:vector>
+              <otmi:vector count='1'>remarkably</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>elegant</otmi:vector>
+              <otmi:vector count='1'>dominant-negative</otmi:vector>
+              <otmi:vector count='1'>identical</otmi:vector>
+              <otmi:vector count='1'>access</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>ubiquitin–proteasome</otmi:vector>
+              <otmi:vector count='1'>E3</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>bovine</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>dsRNA)-dependent</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>interacts</otmi:vector>
+              <otmi:vector count='1'>reporter</otmi:vector>
+              <otmi:vector count='1'>C-terminal</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>transiently</otmi:vector>
+              <otmi:vector count='1'>recapitulated</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>distinct</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>adenovirus</otmi:vector>
+              <otmi:vector count='1'>elevated</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>moderate</otmi:vector>
+              <otmi:vector count='1'>activate</otmi:vector>
+              <otmi:vector count='1'>interfere</otmi:vector>
+              <otmi:vector count='1'>CHIP-targeted</otmi:vector>
+              <otmi:vector count='1'>partners</otmi:vector>
+              <otmi:vector count='1'>autoregulation</otmi:vector>
+              <otmi:vector count='1'>variation</otmi:vector>
+              <otmi:vector count='1'>sequential</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>proteotoxic</otmi:vector>
+              <otmi:vector count='1'>paradoxically</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>mutants</otmi:vector>
+              <otmi:vector count='1'>dose-dependent</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>thermally</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>Previous</otmi:vector>
+              <otmi:vector count='1'>integrally</otmi:vector>
+              <otmi:vector count='1'>UbcH5a</otmi:vector>
+              <otmi:vector count='1'>layers</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>fall</otmi:vector>
+              <otmi:vector count='1'>acquiring</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>manipulated</otmi:vector>
+              <otmi:vector count='1'>dsRNA</otmi:vector>
+              <otmi:vector count='1'>cytosolic</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>1a</otmi:vector>
+              <otmi:vector count='1'>bearing</otmi:vector>
+              <otmi:vector count='1'>inoperative</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>transfected</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>multisubunit</otmi:vector>
+              <otmi:vector count='1'>manipulation</otmi:vector>
+              <otmi:vector count='1'>postulated</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>amounts</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>1c</otmi:vector>
+              <otmi:vector count='1'>overexpressed</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>acts</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>1d</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>serum</otmi:vector>
+              <otmi:vector count='1'>Lys</otmi:vector>
+              <otmi:vector count='1'>inhibition</otmi:vector>
+              <otmi:vector count='1'>HSF1-independent</otmi:vector>
+              <otmi:vector count='1'>1e</otmi:vector>
+              <otmi:vector count='1'>pattern</otmi:vector>
+              <otmi:vector count='1'>Purified</otmi:vector>
+              <otmi:vector count='1'>48-linked</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>induce</otmi:vector>
+              <otmi:vector count='1'>resolution</otmi:vector>
+              <otmi:vector count='1'>proteasomes</otmi:vector>
+              <otmi:vector count='1'>inhibitor</otmi:vector>
+              <otmi:vector count='1'>exposed</otmi:vector>
+              <otmi:vector count='1'>status</otmi:vector>
+              <otmi:vector count='1'>Grp78</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>heat-denatured</otmi:vector>
+              <otmi:vector count='1'>Non-denatured</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>accounts</otmi:vector>
+              <otmi:vector count='1'>examine</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>HSF1-mediated</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>first-order</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>green</otmi:vector>
+              <otmi:vector count='1'>reactions</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>immortalized</otmi:vector>
+              <otmi:vector count='1'>targets</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>bind</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>incubating</otmi:vector>
+              <otmi:vector count='1'>chains</otmi:vector>
+              <otmi:vector count='1'>recovered</otmi:vector>
+              <otmi:vector count='1'>dispensable</otmi:vector>
+              <otmi:vector count='1'>high-molecular-weight</otmi:vector>
+              <otmi:vector count='1'>inactivation</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>cycloheximide</otmi:vector>
+              <otmi:vector count='1'>double-stranded</otmi:vector>
+              <otmi:vector count='1'>differentially</otmi:vector>
+              <otmi:vector count='1'>MG132</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>counteract</otmi:vector>
+              <otmi:vector count='1'>panel</otmi:vector>
+              <otmi:vector count='1'>incapable</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>albumin</otmi:vector>
+              <otmi:vector count='1'>Several</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>viable</otmi:vector>
+              <otmi:vector count='1'>equivalent</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>stresses</otmi:vector>
+              <otmi:vector count='1'>conformation</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>maintains</otmi:vector>
+              <otmi:vector count='1'>AdV)-mediated</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>galactosidase</otmi:vector>
+              <otmi:vector count='1'>fluorescent</otmi:vector>
+              <otmi:vector count='1'>triggered</otmi:vector>
+              <otmi:vector count='1'>catalysis</otmi:vector>
+              <otmi:vector count='1'>endoplasmic</otmi:vector>
+              <otmi:vector count='1'>function</otmi:vector>
+              <otmi:vector count='1'>buffer</otmi:vector>
+              <otmi:vector count='1'>Further</otmi:vector>
+              <otmi:vector count='1'>approximates</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>operate</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>begins</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>firefly</otmi:vector>
+              <otmi:vector count='1'>regulatory</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>lysine</otmi:vector>
+              <otmi:vector count='1'>simultaneously</otmi:vector>
+              <otmi:vector count='1'>mutual</otmi:vector>
+              <otmi:vector count='1'>homeostasis</otmi:vector>
+              <otmi:vector count='1'>removing</otmi:vector>
+              <otmi:vector count='1'>restoration</otmi:vector>
+              <otmi:vector count='1'>4b</otmi:vector>
+              <otmi:vector count='1'>canonical</otmi:vector>
+              <otmi:vector count='1'>4c</otmi:vector>
+              <otmi:vector count='1'>facilitated</otmi:vector>
+              <otmi:vector count='1'>proteasome-mediated</otmi:vector>
+              <otmi:vector count='1'>competitive</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>concomitantly</otmi:vector>
+              <otmi:vector count='1'>emerge</otmi:vector>
+              <otmi:vector count='1'>4d</otmi:vector>
+              <otmi:vector count='1'>susceptibility</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>target</otmi:vector>
+              <otmi:vector count='1'>orchestrating</otmi:vector>
+              <otmi:vector count='1'>Its</otmi:vector>
+              <otmi:vector count='1'>4e</otmi:vector>
+              <otmi:vector count='1'>inducing</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>diminished</otmi:vector>
+              <otmi:vector count='1'>flanking</otmi:vector>
+              <otmi:vector count='1'>render</otmi:vector>
+              <otmi:vector count='1'>reticulum-localized</otmi:vector>
+              <otmi:vector count='1'>insults</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>echoes</otmi:vector>
+              <otmi:vector count='1'>degradative</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>facilitating</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>Hsp90</otmi:vector>
+              <otmi:vector count='1'>accelerated</otmi:vector>
+              <otmi:vector count='1'>peak</otmi:vector>
+              <otmi:vector count='1'>prolonged</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>deficient</otmi:vector>
+              <otmi:vector count='1'>divergent</otmi:vector>
+              <otmi:vector count='1'>specificity</otmi:vector>
+              <otmi:vector count='1'>labile</otmi:vector>
+              <otmi:vector count='1'>intensities</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>correlation</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>Cul1–F-box</otmi:vector>
+              <otmi:vector count='1'>elevation</otmi:vector>
+              <otmi:vector count='1'>phases</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>stress-inducible</otmi:vector>
+              <otmi:vector count='1'>buffering</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>sensitive</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>array</otmi:vector>
+              <otmi:vector count='1'>HSPs</otmi:vector>
+              <otmi:vector count='1'>subtraction</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>surprise</otmi:vector>
+              <otmi:vector count='1'>37</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>dock</otmi:vector>
+              <otmi:vector count='1'>governed</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>modest</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>assigned</otmi:vector>
+              <otmi:vector count='1'>Conversely</otmi:vector>
+              <otmi:vector count='1'>selectively</otmi:vector>
+              <otmi:vector count='1'>intrinsic</otmi:vector>
+              <otmi:vector count='1'>principles</otmi:vector>
+              <otmi:vector count='1'>stimulation</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>facilitate</otmi:vector>
+              <otmi:vector count='1'>cytoplasmic</otmi:vector>
+              <otmi:vector count='1'>autocatalytic</otmi:vector>
+              <otmi:vector count='1'>affinities</otmi:vector>
+              <otmi:vector count='1'>concordance</otmi:vector>
+              <otmi:vector count='1'>co-chaperone</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>bottom</otmi:vector>
+              <otmi:vector count='1'>refolded</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>folded</otmi:vector>
+              <otmi:vector count='1'>initiate</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>EEVD</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>underwent</otmi:vector>
+              <otmi:vector count='1'>targeting</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>mild</otmi:vector>
+              <otmi:vector count='1'>net</otmi:vector>
+              <otmi:vector count='1'>actively</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>engaged</otmi:vector>
+              <otmi:vector count='1'>accelerates</otmi:vector>
+              <otmi:vector count='1'>Gal</otmi:vector>
+              <otmi:vector count='1'>Recombinant</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>active</otmi:vector>
+              <otmi:vector count='1'>compete</otmi:vector>
+              <otmi:vector count='1'>cytoplasmically</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>notion</otmi:vector>
+              <otmi:vector count='1'>2d</otmi:vector>
+              <otmi:vector count='1'>fibroblast</otmi:vector>
+              <otmi:vector count='1'>coordinated</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>chaperone-bound</otmi:vector>
+              <otmi:vector count='1'>stably</otmi:vector>
+              <otmi:vector count='1'>mechanisms</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>plateau</otmi:vector>
+              <otmi:vector count='1'>enhancing</otmi:vector>
+              <otmi:vector count='1'>amino-acid</otmi:vector>
+              <otmi:vector count='1'>E2(UbcH5a</otmi:vector>
+              <otmi:vector count='1'>2b</otmi:vector>
+              <otmi:vector count='1'>ligases</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>prominent</otmi:vector>
+              <otmi:vector count='1'>balance</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>After a mild heat shock, the amount of Hsp70 was largely sustained in cells expressing CHIP(H260Q), whereas overexpression of CHIP accelerated both the elevation and restoration of Hsp70 levels ( Fig. 4e )</otmi:snippet>
+              <otmi:snippet>After subtraction of their different turnover rates in the absence of CHIP, the most prominent net effect of CHIP was found on Hsp70 ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Although CHIP is capable of targeting both chaperones for ubiquitination, Hsp70 was much more susceptible ( Fig. 2c )</otmi:snippet>
+              <otmi:snippet>As a co-chaperone ubiquitin ligase, CHIP is capable of ubiquitinating its associated chaperone partners in vivo and in vitro , although it has not been apparent that this leads to their proteasomal degradation, nor have physiological roles for CHIP-dependent chaperone ubiquitination been assigned</otmi:snippet>
+              <otmi:snippet>As expected from previous observations, adding back CHIP, but not CHIP(K30A), resulted in enhanced Hsp70 induction after heat shock, which was consistent with the role of CHIP in activating HSF1 ( Fig. 4b )</otmi:snippet>
+              <otmi:snippet>As expected, HSF1 -/- cells were less viable when CHIP was overexpressed during incubation at 41 °C than were cells overexpressing CHIP(K30A) ( Fig. 1e )</otmi:snippet>
+              <otmi:snippet>At the same time, CHIP is required for proteasome-dependent clearance of unfoldable proteins and the recovery from the stress response by means of Hsp70 degradation</otmi:snippet>
+              <otmi:snippet>Because Hsc70 and Hsp70 have nearly identical amino-acid sequences except for residues near the C-terminal region that are responsible for CHIP binding, it is possible that divergent residues flanking the binding sequence EEVD contribute partly to the differential activity of CHIP</otmi:snippet>
+              <otmi:snippet>Because proteotoxic insults such as heat shock have various cellular effects, we performed these experiments with cytoplasmically expressed bovine serum albumin (cBSA)</otmi:snippet>
+              <otmi:snippet>Because the basal level of Hsp70 in mouse fibroblasts is very low, the infected cells were transiently exposed to 42 °C for 30 min and recovered at 37 °C for 6 h</otmi:snippet>
+              <otmi:snippet>CHIP(H260Q), a U-box mutant that does not bind E2, shows dominant-negative effects in HEK-293 cells</otmi:snippet>
+              <otmi:snippet>Consistent with their reduced stress response in the absence of CHIP was our observation that CHIP -/- cells demonstrated much lower Hsp70 induction after heat shock (42 °C, 15 min; Fig. 1c )</otmi:snippet>
+              <otmi:snippet>Consistent with this notion is the observation that in vitro binding assays have shown different binding affinities of Hsc70 and Hsp70 for CHIP </otmi:snippet>
+              <otmi:snippet>Conversely, cells depleted of CHIP by dsRNA had lower basal levels of HSF1 activity</otmi:snippet>
+              <otmi:snippet>During the recovery phase, however, a rapid decrease in steady-state levels of Hsp70 was observed only in the presence of wild-type CHIP</otmi:snippet>
+              <otmi:snippet>Equal amounts of Hsc70 and Hsp70 were incubated in a reaction containing E1, E2 (UbcH5a), CHIP, ubiquitin and ATP</otmi:snippet>
+              <otmi:snippet>Finally, CHIP-mediated sequential catalysis of the chaperone adaptor and substrate indicates an elegant and simple mechanism to regulate the target specificity for a single ubiquitin ligase</otmi:snippet>
+              <otmi:snippet>First, CHIP-mediated Hsp70 turnover represents a novel regulatory mechanism for Hsp70 in addition to HSF1-mediated transcriptional regulation</otmi:snippet>
+              <otmi:snippet>For example, our previous data indicate that CHIP elicits the transcriptional activation of HSF1, independently of its ability to facilitate the clearance of misfolded proteins in the cell </otmi:snippet>
+              <otmi:snippet>Further supporting the model that threshold levels of misfolded substrates determine when the clearance of excess Hsp70 begins, there is a close correlation between the intensities of applied stress and the sustained period of Hsp70 expression ( Supplementary Fig. 3 )</otmi:snippet>
+              <otmi:snippet>However, HSF1 also seems to have additional layers of regulation in the cell </otmi:snippet>
+              <otmi:snippet>However, Lys 48-linked high-molecular-weight species were selectively observed in reactions containing Hsp70 but not in those containing Hsc70 ( Fig. 2d ), which probably accounts for their differential susceptibility to proteasome-mediated degradation</otmi:snippet>
+              <otmi:snippet>However, adding back CHIP resulted in much shorter t 1/2 for Hsp70 (less than 4 h), whereas little change in t 1/2 was observed by adding back CHIP(K30A)</otmi:snippet>
+              <otmi:snippet>However, the basal Hsp70 level before heat shock was paradoxically higher in CHIP -/- than in CHIP +/+ cells</otmi:snippet>
+              <otmi:snippet>However, there is no mutual competition between Hsp70 turnover and substrate degradation because Hsp70 overexpression does not interfere with the degradation of cBSA ( Supplementary Fig. 2 )</otmi:snippet>
+              <otmi:snippet>Hsp70 was rapidly induced to its peak level about 4 h after heat shock (42 °C, 10 min) and maintained its steady-state level for about 8 h, followed by a decrease ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>Hsp70 was remarkably stable ( t 1/2 &gt;8 h) in the absence of CHIP ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Immunoblotting demonstrated elevated levels of Hsp70 as expected</otmi:snippet>
+              <otmi:snippet>In addition to Hsp70, CHIP interacts with Hsc70 and Hsp90, and CHIP also affected the stability of these proteins ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>In concordance with our previous observations, CHIP overexpression triggered the activation of HSF1 in a dose-dependent manner as indicated by luciferase reporter assays ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>In contrast, cells infected with AdV expressing GFP or CHIP(K30A) showed a prolonged plateau of Hsp70 levels</otmi:snippet>
+              <otmi:snippet>In contrast, heat-denatured luciferase underwent rapid degradation ( t 1/2 ≈ 30 min)</otmi:snippet>
+              <otmi:snippet>In the case of CHIP, Hsp70 acts as an adaptor, or ‘F-box equivalent’, for CHIP to ubiquitinate chaperone clients; degradation of Hsp70 may therefore be a substrate-dependent variation on this autocatalytic mechanism.</otmi:snippet>
+              <otmi:snippet>In the multisubunit ubiquitin ligases such as Skp1–Cdc53/Cul1–F-box (SCF), the F-box adaptor targets a distinct array of substrates for ubiquitination and proteasomal degradation </otmi:snippet>
+              <otmi:snippet>Indeed, we observed a much higher basal level of Hsp70 in cells transfected with CHIP(H260Q) ( Fig. 4d )</otmi:snippet>
+              <otmi:snippet>Intriguingly, most F-box adaptors in the SCF complex are labile proteins as a result of autocatalysis by the intrinsic E3 activity </otmi:snippet>
+              <otmi:snippet>Its degradation by the proteasome can be further facilitated by CHIP overexpression ( Supplementary Fig. 1 )</otmi:snippet>
+              <otmi:snippet>No proteasomal degradation of Hsp70 was observed in the absence of CHIP ( Fig. 2c , bottom panel)</otmi:snippet>
+              <otmi:snippet>Non-denatured luciferase was minimally degraded even after incubation for 3 h, whereas Hsp70 was degraded with linear kinetics in the same sample ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>On the basis of these observations, we further predicted that stress-induced Hsp70 undergoes CHIP-mediated autoregulation during stress recovery in which most misfolded proteins are degraded or refolded </otmi:snippet>
+              <otmi:snippet>Our observations indicate that the effect of CHIP on Hsp70 might not counteract its active role in the clearance of misfolded proteins and that both functions might instead be integrally related during the stress response and recovery process</otmi:snippet>
+              <otmi:snippet>Previous studies have indicated that HSF1 -/- cells are sensitive to stress because they lack an appropriate heat shock response </otmi:snippet>
+              <otmi:snippet>Purified Hsp70, in the presence of native firefly luciferase or thermally denatured luciferase (a known CHIP substrate ), was incubated with E1, E2(UbcH5a) and CHIP in reaction buffer containing ubiquitin, ATP and 26S proteasome</otmi:snippet>
+              <otmi:snippet>Recombinant adenovirus (AdV)-mediated CHIP overexpression markedly decreased Hsp70 in these cells, whereas no such effect was observed by overexpressing an inactive mutant of CHIP, CHIP(K30A), that does not dock with chaperones ( Fig. 1d )</otmi:snippet>
+              <otmi:snippet>Remarkably, under these conditions the steady-state level of Hsp70 was stable until most denatured luciferase had been degraded</otmi:snippet>
+              <otmi:snippet>Second, these data indicate that there are multiple coordinated steps by which the chaperone and ubiquitin–proteasome systems interact to regulate the stress response</otmi:snippet>
+              <otmi:snippet>Several principles emerge from our results</otmi:snippet>
+              <otmi:snippet>Taken together, these experiments imply that CHIP regulates Hsp70 expression through mechanisms that operate differentially under physiological and stressful conditions</otmi:snippet>
+              <otmi:snippet>Taken together, these observations indicate a role for CHIP in multiple steps of the stress response: while activating HSF1 and consequently inducing HSP expression, CHIP also negatively regulates steady-state levels of Hsp70 through an HSF1-independent mechanism</otmi:snippet>
+              <otmi:snippet>The U-box is required for CHIP ubiquitin ligase activity but is dispensable in the stimulation of HSF1 activity </otmi:snippet>
+              <otmi:snippet>The activation status of HSF1 is governed in large part by the balance between the amount of misfolded proteins and the chaperone availability in the cell </otmi:snippet>
+              <otmi:snippet>The addition of purified 26S proteasomes resulted in rapid degradation of Hsp70, whereas only modest proteasome-dependent degradation was observed for Hsc70</otmi:snippet>
+              <otmi:snippet>The biphasic kinetics of Hsp70 degradation under these conditions is markedly different from the kinetics in the absence of denatured substrate, supporting the concept of a hierarchy in the CHIP-targeted degradation of its chaperone adaptors and their associated substrates</otmi:snippet>
+              <otmi:snippet>The data in Fig. 3a imply that misfolded proteins compete with Hsp70 for the ubiquitin ligase activity of CHIP</otmi:snippet>
+              <otmi:snippet>The degradation of misfolded proteins approximates first-order kinetics ( Fig. 3a ), whereas the stability of Hsp70 is maintained until substrate concentrations fall below a threshold, at which time Hsp70 degradation accelerates rapidly (Figs 3b and 4a )</otmi:snippet>
+              <otmi:snippet>The degradative effects of CHIP on stress-inducible Hsp70 were further investigated by using ubiquitin mutants bearing a single lysine</otmi:snippet>
+              <otmi:snippet>The differential effects of CHIP on Hsc70 and Hsp70 were further confirmed in a pulse–chase analysis followed by immunoprecipitation ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>The results presented here show a previously unknown mechanism to regulate inducible HSP expression and resolution of the stress response</otmi:snippet>
+              <otmi:snippet>The role of CHIP in the regulation of Hsp70 availability was further confirmed by pulse–chase analysis followed by immunoprecipitation, which indicated that the t 1/2 of Hsp70 was much shorter during the stress recovery phase when CHIP was reintroduced into CHIP -/- cells ( Fig. 4c )</otmi:snippet>
+              <otmi:snippet>The stability of Grp78, an endoplasmic reticulum-localized chaperone that does not interact with CHIP, was not affected by the manipulation of CHIP levels</otmi:snippet>
+              <otmi:snippet>The turnover of stress-induced Hsp70 was examined by incubating cells in the presence of the protein synthesis inhibitor cycloheximide</otmi:snippet>
+              <otmi:snippet>These results confirm that the ubiquitin ligase activity of CHIP is required for Hsp70 degradation during stress recovery in vivo </otmi:snippet>
+              <otmi:snippet>This biphasic pattern echoes the substrate-dependent Hsp70 turnover observed in reconstitution assays in vitro ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>This indicates that CHIP might preferentially ubiquitinate chaperone-bound substrates, whereas chaperone ubiquitination occurs after substrate abundance is depleted</otmi:snippet>
+              <otmi:snippet>This protein is incapable of acquiring its normal conformation in the reducing cytosolic environment </otmi:snippet>
+              <otmi:snippet>Thus, it is unlikely that CHIP could negatively regulate Hsp70 availability while simultaneously facilitating the degradation of chaperone clients</otmi:snippet>
+              <otmi:snippet>Thus, the presence of CHIP actively maintains cellular homeostasis not only by enhancing Hsp70 induction during the acute phase of stress but also by removing excess Hsp70 during the recovery process</otmi:snippet>
+              <otmi:snippet>To assess the effects of CHIP on Hsp70 availability under conditions in which its ability to activate HSF1 is inoperative, we used an immortalized fibroblast cell line derived from HSF1 -/- mice</otmi:snippet>
+              <otmi:snippet>To define the role of CHIP in orchestrating both phases, we examined the behaviour of Hsp70 in CHIP -/- cells during acute stress and the chronic recovery phase before and after reintroducing CHIP with the use of AdV</otmi:snippet>
+              <otmi:snippet>To examine the physiological kinetics of stress-induced Hsp70 expression in vivo , we measured total Hsp70 levels in normal mouse fibroblasts during the acute phase of the stress response and the chronic phase of stress recovery</otmi:snippet>
+              <otmi:snippet>To explore this observation further, we analysed Hsp70 expression in CHIP -/- and wild-type fibroblasts</otmi:snippet>
+              <otmi:snippet>To explore this relationship further, we examined turnover of HSPs in CHIP -/- cells after reintroducing either CHIP, CHIP(K30A) or green fluorescent protein (GFP) alone as an additional control</otmi:snippet>
+              <otmi:snippet>To improve our understanding of the effects of CHIP on both HSF1 activity and chaperone availability, we manipulated CHIP expression levels in HEK-293 cells by plasmid-mediated overexpression or double-stranded RNA (dsRNA)-dependent knockdown</otmi:snippet>
+              <otmi:snippet>To our surprise, however, no decrease in Hsp70 levels was observed in these cells, and instead we found a moderate but consistent induction of Hsp70 protein levels ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>To test this hypothesis directly, we reconstituted CHIP-dependent degradation by means of the proteasome</otmi:snippet>
+              <otmi:snippet>To test this hypothesis in vivo , we first examined the turnover of Hsp70 in the enforced presence of unfoldable cytoplasmic protein</otmi:snippet>
+              <otmi:snippet>We found that CHIP was able to initiate both canonical and non-canonical ubiquitin chains on both Hsc70 and Hsp70</otmi:snippet>
+              <otmi:snippet>We found that expression of cBSA significantly decreased the proteasome-dependent turnover of Hsp70 (as demonstrated through proteasome inhibition with MG132) in comparison with the expression of β-galactosidase (β-Gal), a stably folded protein that is not a CHIP substrate ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>We next examined whether the selective effects of CHIP on Hsp70 in vivo can be recapitulated in vitro with a reconstituted ubiquitination and degradation system</otmi:snippet>
+              <otmi:snippet>We predicted that the diminished levels of Hsp70 after CHIP overexpression should render these cells more susceptible to stresses such as heat shock</otmi:snippet>
+              <otmi:snippet>We therefore postulated that a competitive relationship might exist in CHIP-mediated ubiquitination between adaptor and substrate</otmi:snippet>
+              <otmi:snippet>We therefore predicted that inactivation of the CHIP U-box would lead to sustained high levels of Hsp70 in the cell after heat shock</otmi:snippet>
+              <otmi:snippet>When engaged by CHIP, Hsp70 functions as an adaptor for CHIP to access chaperone clients</otmi:snippet>
+              <otmi:snippet>Without appropriate CHIP function, there is impaired ability to induce Hsp70 during stress and concomitantly a deficient buffering of misfolded proteins</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>CHIP regulates Hsp70 availability.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , HEK-293 cells were transfected with plasmids as indicated with 0 µg (white bars), 0.1 µg (grey bars) and 0.5 µg (black bars) per well in a six-well plate. HSF1 activity was measured by dual luciferase reporter assay. Hsp70 levels were determined by immunoblotting. b , HEK-293 cells were transfected with dsRNA as indicated. Both HSF1 activity and Hsp70 levels were determined. c , Immortalized CHIP +/+ and CHIP -/- cell lines were heat shocked for 15 min at 42 °C (HS) and left to recover for 4 h at 37 °C. Cell lysates from before and after heat shock were immunoblotted with Hsp70 antibody. d , HSF1 -/- cells were infected with AdV expressing CHIP or CHIP(K30A). Hsp70 levels were determined at different times after infection by immunoblotting of whole cell lysates. e , AdV-infected HSF1 -/- cells were incubated at 41 °C for various durations and cell viability was measured. Triangles, AdV/CHIP; squares, AdV/CHIP(K30A). Values are means ± s.d.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Selective effects of CHIP on Hsp70 in vivo and in vitro .</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , CHIP -/- cells were infected with AdV expressing GFP, CHIP or CHIP(K30A). Infected cells were incubated for 30 min at 42 °C and left to recover for 6 h at 37 °C to induce Hsp expression. Cycloheximide (CHX) was then added and cell aliquots were collected at the times indicated. Whole cell lysates were immunoblotted with a panel of antibodies. The effects of CHIP on Hsp levels were quantified by subtracting their turnover in the presence of GFP. Squares, Hsp70; diamonds, Hsp90; triangles, Hsc70; circles, Grp78. Values are means ± s.d. b , AdV-infected CHIP -/- cells were radiolabelled with [ 35 S]methionine for 30 min at 3 h after heat shock and chased with unlabelled methionine for up to 8 h. Immunoprecipitations were performed with monoclonal antibody against Hsp70 or Hsc70. c , In vitro ubiquitination assays were performed by incubating equal amounts of Hsc70 and Hsp70 in reactions containing E1, E2 (UbcH5a), CHIP, ubiquitin (Ub) and ATP. Purified 26S proteasomes were included in the reaction mixture for the coupled degradation assay. Levels of Hsc70 (squares) and Hsp70 (diamonds) were determined by immunoblotting and quantified by densitometry. Values are means ± s.d. d , In vitro ubiquitination assays were performed with ubiquitin mutants bearing a single lysine as indicated, and the reaction was stopped after 120 min incubation. WT, wild-type.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Substrate-regulated Hsp70 turnover in vivo and in vitro .</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , HEK-293 cells were co-transfected with plasmids expressing CHIP, Flag-Hsp70 and cBSA (squares) or β-Gal (diamonds). The turnover of Hsp70 was determined with the use of a cycloheximide (CHX) chase followed by immunoblotting. ‘180 + ’ indicates the presence of 20 µM MG132 during the chase. Values are means ± s.d. b , In vitro degradation assays were performed with Hsp70 (open circles) and luciferase (Luc; filled circles) as substrates. For heat-denatured luciferase, luciferase was heated at 43 °C for 10 min with Hsp70 and Hdj2 (ref. 20). Both the luciferase and Hsp70 levels were determined in the same samples by immunoblotting and quantified by densitometry. Values are means ± s.d.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>CHIP orchestrates both stress response and recovery processes.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Mouse fibroblasts were heat shocked (HS) at 42 °C for 10 min, and aliquots were collected every 4 h during recovery at 37 °C. Hsp70 levels were determined by immunoblotting. Values are means ± s.d. b , CHIP -/- cells were infected with AdV expressing GFP (squares), CHIP (diamonds) or CHIP(K30A) (triangles). Infected cells were heat shocked at 42 °C for 10 min, and aliquots were collected every 2 h during recovery at 37 °C. Hsp70 levels were determined by immunoblotting and quantified by densitometry. c , The same AdV-infected CHIP -/- cells as in b were heat shocked at 42 °C for 10 min, and radiolabelled with [ 35 S]methionine for 30 min at 3 h after HS and chased with unlabelled methionine for up to 6 h. Immunoprecipitation was performed with a Hsp70-specific antibody and quantified with a PhosphorImager. Symbols are as in b . Values are means ± s.d. d , HEK-293 cells were transfected with plasmids as indicated with 0, 0.1 and 0.5 µg per well in a six-well plate. Hsp70 levels were determined by immunoblotting. e , Transfected HEK-293 cells were heat shocked 42 °C for 5 min, and aliquots were collected every 2 h during recovery at 37 °C. Hsp70 levels were determined by immunoblotting.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1146/ANNUREV.GENET.27.1.437</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.onc.1202525</otmi:refid>
+          <otmi:refid>info:doi/10.1146/ANNUREV.CELLBIO.11.1.441</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0968-0004(02)02125-4</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0960-9822(01)00487-0</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.202365899</otmi:refid>
+          <otmi:refid>info:doi/10.1379/1466-1268(2003)008&lt;0303:CALBTC&gt;2.0.CO;2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)81588-3</otmi:refid>
+          <otmi:refid>info:doi/10.1101/gad.1044503</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/cdg529</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.273.13.7523</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M101968200</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M105931200</otmi:refid>
+          <otmi:refid>info:doi/10.1093/embo-reports/kve246</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cell.2004.11.027</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nrm1547</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.96.16.9124</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(00)80156-2</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ncb1241</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0304768101</otmi:refid>
+          <otmi:refsnoid>6</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

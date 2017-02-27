@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2009//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>239707</PMID>
+        <DateCreated>
+            <Year>1975</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1975</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0264-6021</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>148</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1975</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The stimulation by transmitter substances and putative transmitter substances of the net activity of phospholipase A2 of synaptic membranes of cortex of guinea-pig brain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-208</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>1. The distribution of the hydrolyses of phosphatidylcholine by phospholipase A2 and phospholipase A1, and the hydrolysis of lysophosphatidylcholine by lysophospholipase, in subcellular and subsynaptosomal fractions of cerebral cortices of guinea-pig brain, was determined. 2. Noradrenaline stimulated hydrolysis by phospholipase A2 in whole synaptosomes, synaptic membranes and fractions containing synaptic vesicles. 3. Stimulation of hydrolysis by phospholipase A2 in synaptic membranes by noradrenaline was enhanced by CaCl2, and by a mixture of ATP and MgCl2. The optimum concentration of CaCl2, in the presence of ATP and MgCl2, for stimulation by 10 muM-noradrenaline was in the range 1-10muM. The optimum concentration for ATP-2MgCl2 in the presence of 1 muM-CaCl2 was in the range 0.1-1mM. 4. Hydrolysis by phospholipase A2 of synaptic membranes was also stimulated by acetylcholine, carbamoylcholine, 5-hydroxytryptamine, dopamine (3,4-dihydroxyphenethylamine), histamine, psi-aminobutyric acid, glutamic acid and aspartic acid. With appropriate concentrations of cofactors, sigmoidal dose-response curves were obtained, half-maximum stimulations being obtained with concentrations of stimulant in the range 0.1-1muM. 5. Taurine also stimulated hydrolysis of phosphatidylcholine by phospholipase A2. There were only slight stimulations with methylamine, ethylenediamine or spermidine. No stimulation was obtained with glucagon.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gullis</LastName>
+                    <ForeName>R J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowe</LastName>
+                    <ForeName>C E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Retracted Publication</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glutamates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neurotransmitter Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Oleic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphatidylcholines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>10043-52-4</RegistryNumber>
+                <NameOfSubstance>Calcium Chloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-67-9</RegistryNumber>
+                <NameOfSubstance>Serotonin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>51-41-2</RegistryNumber>
+                <NameOfSubstance>Norepinephrine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>51-45-6</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>51-83-2</RegistryNumber>
+                <NameOfSubstance>Carbachol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>51-84-3</RegistryNumber>
+                <NameOfSubstance>Acetylcholine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56-12-2</RegistryNumber>
+                <NameOfSubstance>gamma-Aminobutyric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56-65-5</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56-84-8</RegistryNumber>
+                <NameOfSubstance>Aspartic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7439-95-4</RegistryNumber>
+                <NameOfSubstance>Magnesium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance>Phospholipases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1961 Sep;80(3):557-62</RefSource>
+                <PMID>16748924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1964 Feb;90(2):293-303</RefSource>
+                <PMID>5834239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Oil Chem Soc. 1965 Jun;42:465-7</RefSource>
+                <PMID>14300200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1959 Jul;34:244-5</RefSource>
+                <PMID>13832326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1960 Feb 26;38:340-2</RefSource>
+                <PMID>14427684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1960 Aug;235:2233-7</RefSource>
+                <PMID>14413818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1962 Sep;1:804-10</RefSource>
+                <PMID>13974345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1962 Sep;84:626-37</RefSource>
+                <PMID>13909665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1962 Feb;237:329-33</RefSource>
+                <PMID>13900748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1958 Jul;69(3):458-66</RefSource>
+                <PMID>13560391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1957 May;226(1):497-509</RefSource>
+                <PMID>13428781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1951 Nov;193(1):265-75</RefSource>
+                <PMID>14907713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 1973 Jul;1(4):849</RefSource>
+                <PMID>4620957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1970 Oct 6;218(1):1-10</RefSource>
+                <PMID>5473492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1971 Aug;18(8):1379-85</RefSource>
+                <PMID>4328510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1972 Apr;19(4):1099-116</RefSource>
+                <PMID>4401681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1971 Nov 12;234(5324):107-8</RefSource>
+                <PMID>4331550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1964 Feb;90(2):374-8</RefSource>
+                <PMID>4284220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hoppe Seylers Z Physiol Chem. 1973 Jan;354(1):90-100</RefSource>
+                <PMID>4807791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1973 Feb;132(2):233-48</RefSource>
+                <PMID>4725038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1972 Feb;126(3):575-85</RefSource>
+                <PMID>5075269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1972 Aug 9;274(2):426-46</RefSource>
+                <PMID>5049005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1972 Feb;19(2):333-40</RefSource>
+                <PMID>5010080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1971 Dec 10;35(1):215-20</RefSource>
+                <PMID>5134226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1970 Nov;17(11):1543-54</RefSource>
+                <PMID>5474656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Physiol Lat Am. 1971;21(2):101-6</RefSource>
+                <PMID>5143304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1932;26(2):292-7</RefSource>
+                <PMID>16744823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1970 Feb 20;38(4):670-7</RefSource>
+                <PMID>5443709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1969 Feb;16(2):205-14</RefSource>
+                <PMID>5795935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1968 Oct 22;164(2):439-41</RefSource>
+                <PMID>5721041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1968 Jun 4;159(2):304-16</RefSource>
+                <PMID>5657461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1966 Jul 20;24(2):169-72</RefSource>
+                <PMID>5965223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1964 Jul;92(1):91-100</RefSource>
+                <PMID>5840391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionIn">
+                <RefSource>Rowe CE. Biochem J. 1977 Apr 15;164(1):287-8</RefSource>
+                <PMID>195582</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acetylcholine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aspartic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium Chloride</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carbachol</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebral Cortex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dopamine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glutamates</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Guinea Pigs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Magnesium</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neurotransmitter Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Norepinephrine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oleic Acids</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylcholines</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phospholipases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serotonin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Membranes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">gamma-Aminobutyric Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1165527</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1975</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1975</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1975</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">239707</ArticleId>
+            <ArticleId IdType="pmc">PMC1165527</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

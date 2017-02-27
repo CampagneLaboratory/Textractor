@@ -1,0 +1,467 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Trauma trials leave ethicists uneasy</title>
+      <id>info:doi/10.1038/440390b</id>
+      <link href='http://dx.doi.org/10.1038/440390b' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Rex Dalton</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>390</prism:startingPage>
+      <prism:endingPage>391</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='13'>study</otmi:vector>
+              <otmi:vector count='10'>patients</otmi:vector>
+              <otmi:vector count='9'>trial</otmi:vector>
+              <otmi:vector count='9'>about</otmi:vector>
+              <otmi:vector count='7'>have</otmi:vector>
+              <otmi:vector count='7'>PolyHeme</otmi:vector>
+              <otmi:vector count='7'>blood</otmi:vector>
+              <otmi:vector count='7'>trauma</otmi:vector>
+              <otmi:vector count='7'>Northfield</otmi:vector>
+              <otmi:vector count='5'>results</otmi:vector>
+              <otmi:vector count='5'>not</otmi:vector>
+              <otmi:vector count='5'>they</otmi:vector>
+              <otmi:vector count='5'>consent</otmi:vector>
+              <otmi:vector count='5'>at</otmi:vector>
+              <otmi:vector count='4'>patient</otmi:vector>
+              <otmi:vector count='4'>hospitals</otmi:vector>
+              <otmi:vector count='4'>But</otmi:vector>
+              <otmi:vector count='4'>been</otmi:vector>
+              <otmi:vector count='4'>ethicists</otmi:vector>
+              <otmi:vector count='4'>says</otmi:vector>
+              <otmi:vector count='3'>enrolled</otmi:vector>
+              <otmi:vector count='3'>Diego</otmi:vector>
+              <otmi:vector count='3'>given</otmi:vector>
+              <otmi:vector count='3'>such</otmi:vector>
+              <otmi:vector count='3'>experimental</otmi:vector>
+              <otmi:vector count='3'>say</otmi:vector>
+              <otmi:vector count='3'>San</otmi:vector>
+              <otmi:vector count='3'>substitute</otmi:vector>
+              <otmi:vector count='3'>concern</otmi:vector>
+              <otmi:vector count='3'>information</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>which</otmi:vector>
+              <otmi:vector count='3'>University</otmi:vector>
+              <otmi:vector count='3'>way</otmi:vector>
+              <otmi:vector count='3'>who</otmi:vector>
+              <otmi:vector count='3'>communities</otmi:vector>
+              <otmi:vector count='3'>emergency</otmi:vector>
+              <otmi:vector count='2'>inadequate</otmi:vector>
+              <otmi:vector count='2'>trial&apos;s</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>being</otmi:vector>
+              <otmi:vector count='2'>consultation</otmi:vector>
+              <otmi:vector count='2'>concerned</otmi:vector>
+              <otmi:vector count='2'>year</otmi:vector>
+              <otmi:vector count='2'>newspaper</otmi:vector>
+              <otmi:vector count='2'>lot</otmi:vector>
+              <otmi:vector count='2'>Journal</otmi:vector>
+              <otmi:vector count='2'>areas</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>saline</otmi:vector>
+              <otmi:vector count='2'>Carolina</otmi:vector>
+              <otmi:vector count='2'>give</otmi:vector>
+              <otmi:vector count='2'>solution</otmi:vector>
+              <otmi:vector count='2'>involved</otmi:vector>
+              <otmi:vector count='2'>ROC</otmi:vector>
+              <otmi:vector count='2'>risks</otmi:vector>
+              <otmi:vector count='2'>United</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>various</otmi:vector>
+              <otmi:vector count='2'>Some</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>receiving</otmi:vector>
+              <otmi:vector count='2'>North</otmi:vector>
+              <otmi:vector count='2'>cannot</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>part</otmi:vector>
+              <otmi:vector count='2'>doing</otmi:vector>
+              <otmi:vector count='2'>&quot;We</otmi:vector>
+              <otmi:vector count='2'>heart-attack</otmi:vector>
+              <otmi:vector count='2'>Bioethics</otmi:vector>
+              <otmi:vector count='2'>Albany</otmi:vector>
+              <otmi:vector count='2'>UCSD</otmi:vector>
+              <otmi:vector count='2'>least</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>issues</otmi:vector>
+              <otmi:vector count='2'>officials</otmi:vector>
+              <otmi:vector count='2'>project</otmi:vector>
+              <otmi:vector count='2'>details</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>King</otmi:vector>
+              <otmi:vector count='2'>conditions</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>test</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>treatments</otmi:vector>
+              <otmi:vector count='2'>trials</otmi:vector>
+              <otmi:vector count='2'>set</otmi:vector>
+              <otmi:vector count='2'>medical</otmi:vector>
+              <otmi:vector count='2'>critics</otmi:vector>
+              <otmi:vector count='2'>prior</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>States</otmi:vector>
+              <otmi:vector count='2'>clinical</otmi:vector>
+              <otmi:vector count='2'>problems</otmi:vector>
+              <otmi:vector count='2'>transfusions</otmi:vector>
+              <otmi:vector count='2'>under</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>director</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>continues</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>suffered</otmi:vector>
+              <otmi:vector count='1'>pays</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>refused</otmi:vector>
+              <otmi:vector count='1'>intend</otmi:vector>
+              <otmi:vector count='1'>supposed</otmi:vector>
+              <otmi:vector count='1'>initiative</otmi:vector>
+              <otmi:vector count='1'>utmost</otmi:vector>
+              <otmi:vector count='1'>10,000</otmi:vector>
+              <otmi:vector count='1'>conflates</otmi:vector>
+              <otmi:vector count='1'>Paediatric</otmi:vector>
+              <otmi:vector count='1'>temporarily</otmi:vector>
+              <otmi:vector count='1'>February</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>wrote</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>College</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>worry</otmi:vector>
+              <otmi:vector count='1'>educated</otmi:vector>
+              <otmi:vector count='1'>Initiated</otmi:vector>
+              <otmi:vector count='1'>lessons</otmi:vector>
+              <otmi:vector count='1'>50-million</otmi:vector>
+              <otmi:vector count='1'>enrolling</otmi:vector>
+              <otmi:vector count='1'>York</otmi:vector>
+              <otmi:vector count='1'>Duke</otmi:vector>
+              <otmi:vector count='1'>protect</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>ambulances</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>haemoglobin</otmi:vector>
+              <otmi:vector count='1'>rushed</otmi:vector>
+              <otmi:vector count='1'>aspects</otmi:vector>
+              <otmi:vector count='1'>wristband</otmi:vector>
+              <otmi:vector count='1'>public</otmi:vector>
+              <otmi:vector count='1'>once</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>Reader</otmi:vector>
+              <otmi:vector count='1'>unsuccessfully</otmi:vector>
+              <otmi:vector count='1'>requests</otmi:vector>
+              <otmi:vector count='1'>consists</otmi:vector>
+              <otmi:vector count='1'>taking</otmi:vector>
+              <otmi:vector count='1'>later</otmi:vector>
+              <otmi:vector count='1'>feasible</otmi:vector>
+              <otmi:vector count='1'>sufficiently</otmi:vector>
+              <otmi:vector count='1'>lieu</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>&quot;This</otmi:vector>
+              <otmi:vector count='1'>Alden</otmi:vector>
+              <otmi:vector count='1'>Tong</otmi:vector>
+              <otmi:vector count='1'>2001</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>decade</otmi:vector>
+              <otmi:vector count='1'>Consortium</otmi:vector>
+              <otmi:vector count='1'>attacks</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>liaisons</otmi:vector>
+              <otmi:vector count='1'>works</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>nationwide</otmi:vector>
+              <otmi:vector count='1'>deal</otmi:vector>
+              <otmi:vector count='1'>restarted</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>poor</otmi:vector>
+              <otmi:vector count='1'>coming</otmi:vector>
+              <otmi:vector count='1'>blue</otmi:vector>
+              <otmi:vector count='1'>learning</otmi:vector>
+              <otmi:vector count='1'>aneurysms</otmi:vector>
+              <otmi:vector count='1'>2003</otmi:vector>
+              <otmi:vector count='1'>programme</otmi:vector>
+              <otmi:vector count='1'>rights</otmi:vector>
+              <otmi:vector count='1'>questions</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>Street</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>awareness</otmi:vector>
+              <otmi:vector count='1'>opt</otmi:vector>
+              <otmi:vector count='1'>disclose</otmi:vector>
+              <otmi:vector count='1'>abiding</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>&quot;I</otmi:vector>
+              <otmi:vector count='1'>wear</otmi:vector>
+              <otmi:vector count='1'>seeks</otmi:vector>
+              <otmi:vector count='1'>UCSD&apos;s</otmi:vector>
+              <otmi:vector count='1'>wasn&apos;t</otmi:vector>
+              <otmi:vector count='1'>gather</otmi:vector>
+              <otmi:vector count='1'>Laboratories</otmi:vector>
+              <otmi:vector count='1'>relating</otmi:vector>
+              <otmi:vector count='1'>care</otmi:vector>
+              <otmi:vector count='1'>McGee</otmi:vector>
+              <otmi:vector count='1'>disclosing</otmi:vector>
+              <otmi:vector count='1'>giving</otmi:vector>
+              <otmi:vector count='1'>starts</otmi:vector>
+              <otmi:vector count='1'>Resuscitation</otmi:vector>
+              <otmi:vector count='1'>profound</otmi:vector>
+              <otmi:vector count='1'>disclosure</otmi:vector>
+              <otmi:vector count='1'>blood-substitute</otmi:vector>
+              <otmi:vector count='1'>counters</otmi:vector>
+              <otmi:vector count='1'>abdominal</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>disclosed</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>workers</otmi:vector>
+              <otmi:vector count='1'>withheld</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>publication</otmi:vector>
+              <otmi:vector count='1'>circumstances</otmi:vector>
+              <otmi:vector count='1'>spur</otmi:vector>
+              <otmi:vector count='1'>programmes</otmi:vector>
+              <otmi:vector count='1'>investigators</otmi:vector>
+              <otmi:vector count='1'>Hill</otmi:vector>
+              <otmi:vector count='1'>financial</otmi:vector>
+              <otmi:vector count='1'>hospitalized</otmi:vector>
+              <otmi:vector count='1'>sued</otmi:vector>
+              <otmi:vector count='1'>suspend</otmi:vector>
+              <otmi:vector count='1'>scientists</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>Glenn</otmi:vector>
+              <otmi:vector count='1'>delay</otmi:vector>
+              <otmi:vector count='1'>Northfield&apos;s</otmi:vector>
+              <otmi:vector count='1'>US</otmi:vector>
+              <otmi:vector count='1'>officer</otmi:vector>
+              <otmi:vector count='1'>cardiologist</otmi:vector>
+              <otmi:vector count='1'>product</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>safety</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>81</otmi:vector>
+              <otmi:vector count='1'>dying</otmi:vector>
+              <otmi:vector count='1'>believes</otmi:vector>
+              <otmi:vector count='1'>Institute</otmi:vector>
+              <otmi:vector count='1'>NIH</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>vocal</otmi:vector>
+              <otmi:vector count='1'>ethical</otmi:vector>
+              <otmi:vector count='1'>prompted</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>letter</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>Illinois</otmi:vector>
+              <otmi:vector count='1'>National</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>interviews</otmi:vector>
+              <otmi:vector count='1'>interests</otmi:vector>
+              <otmi:vector count='1'>learn</otmi:vector>
+              <otmi:vector count='1'>insists</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>aortic</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>Tracey</otmi:vector>
+              <otmi:vector count='1'>&quot;Any</otmi:vector>
+              <otmi:vector count='1'>March</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>high-salt</otmi:vector>
+              <otmi:vector count='1'>oxygen-carrying</otmi:vector>
+              <otmi:vector count='1'>situations</otmi:vector>
+              <otmi:vector count='1'>Gan</otmi:vector>
+              <otmi:vector count='1'>hospital</otmi:vector>
+              <otmi:vector count='1'>prevent</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>Nancy</otmi:vector>
+              <otmi:vector count='1'>learned</otmi:vector>
+              <otmi:vector count='1'>NIH&apos;s</otmi:vector>
+              <otmi:vector count='1'>researcher</otmi:vector>
+              <otmi:vector count='1'>suing</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>advertisements</otmi:vector>
+              <otmi:vector count='1'>injured</otmi:vector>
+              <otmi:vector count='1'>heart</otmi:vector>
+              <otmi:vector count='1'>contract</otmi:vector>
+              <otmi:vector count='1'>privacy</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>funded</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>enquiries</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>disservice</otmi:vector>
+              <otmi:vector count='1'>promptly</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>ethnic</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>begin</otmi:vector>
+              <otmi:vector count='1'>Institutes</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>720</otmi:vector>
+              <otmi:vector count='1'>enrol</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>December</otmi:vector>
+              <otmi:vector count='1'>education</otmi:vector>
+              <otmi:vector count='1'>construction</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>criticizing</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>week</otmi:vector>
+              <otmi:vector count='1'>protected</otmi:vector>
+              <otmi:vector count='1'>Over</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>stirring</otmi:vector>
+              <otmi:vector count='1'>halted</otmi:vector>
+              <otmi:vector count='1'>company</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>Outcomes</otmi:vector>
+              <otmi:vector count='1'>Health</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>fire</otmi:vector>
+              <otmi:vector count='1'>Evanston</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>22</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>Wall</otmi:vector>
+              <otmi:vector count='1'>interview</otmi:vector>
+              <otmi:vector count='1'>perfect</otmi:vector>
+              <otmi:vector count='1'>Michael</otmi:vector>
+              <otmi:vector count='1'>avoid</otmi:vector>
+              <otmi:vector count='1'>authorized</otmi:vector>
+              <otmi:vector count='1'>conducting</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>attorney</otmi:vector>
+              <otmi:vector count='1'>institution</otmi:vector>
+              <otmi:vector count='1'>protecting</otmi:vector>
+              <otmi:vector count='1'>argue</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>website</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>he</otmi:vector>
+              <otmi:vector count='1'>principal</otmi:vector>
+              <otmi:vector count='1'>directing</otmi:vector>
+              <otmi:vector count='1'>Hoke</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>Canada</otmi:vector>
+              <otmi:vector count='1'>Caligiuri</otmi:vector>
+              <otmi:vector count='1'>covered</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>benefits</otmi:vector>
+              <otmi:vector count='1'>adverse</otmi:vector>
+              <otmi:vector count='1'>practice</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>Medical</otmi:vector>
+              <otmi:vector count='1'>replace</otmi:vector>
+              <otmi:vector count='1'>Advocates</otmi:vector>
+              <otmi:vector count='1'>states</otmi:vector>
+              <otmi:vector count='1'>company&apos;s</otmi:vector>
+              <otmi:vector count='1'>600</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>shock</otmi:vector>
+              <otmi:vector count='1'>victims</otmi:vector>
+              <otmi:vector count='1'>committed</otmi:vector>
+              <otmi:vector count='1'>five-year</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>California</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>community</otmi:vector>
+              <otmi:vector count='1'>increasingly</otmi:vector>
+              <otmi:vector count='1'>want</otmi:vector>
+              <otmi:vector count='1'>services</otmi:vector>
+              <otmi:vector count='1'>meetings</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>American</otmi:vector>
+              <otmi:vector count='1'>communities.&quot;</otmi:vector>
+              <otmi:vector count='1'>Chapel</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>minorities</otmi:vector>
+              <otmi:vector count='1'>proportions</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Advocates say that the tests are the only way to gather critical information in emergency situations — but critics argue that patients&apos; rights are not being sufficiently protected</otmi:snippet>
+              <otmi:snippet>Another concern is a lack of information about the trial&apos;s results</otmi:snippet>
+              <otmi:snippet>But critics say there have been inadequate advertisements and education meetings, and interviews with members of the emergency services and community liaisons suggest that the level of awareness of the trial is very low</otmi:snippet>
+              <otmi:snippet>But ethicists worry that, in at least some of the areas involved, consultation has been inadequate and there is little public knowledge about the risks, and how to avoid taking part</otmi:snippet>
+              <otmi:snippet>But such trials are set to increase under an initiative to test treatments for trauma and heart-attack victims</otmi:snippet>
+              <otmi:snippet>But the results prompted at least four hospitals, including Albany Medical College in New York, to temporarily suspend the trauma study</otmi:snippet>
+              <otmi:snippet>In San Diego, one of the study sites, Northfield unsuccessfully sued the Reader newspaper in December to block disclosure of details of the study</otmi:snippet>
+              <otmi:snippet>In the United States, for example, the practice was authorized in limited circumstances only a decade ago</otmi:snippet>
+              <otmi:snippet>In the blood-substitute study, communities are supposed to be educated about the programme in lieu of each individual giving prior consent</otmi:snippet>
+              <otmi:snippet>Initiated in 2003, the study seeks to enrol 720 patients as they are rushed to 32 hospitals nationwide, with about 600 people having been enrolled so far</otmi:snippet>
+              <otmi:snippet>It consists of treated haemoglobin from human blood, and is designed to replace the saline solution given by emergency workers to prevent shock from blood loss</otmi:snippet>
+              <otmi:snippet>It is rare for experimental treatments to be given without consent</otmi:snippet>
+              <otmi:snippet>King is one of three medical ethicists who last week wrote an open letter criticizing the trial&apos;s construction to the American Journal of Bioethics </otmi:snippet>
+              <otmi:snippet>Michael Caligiuri, UCSD&apos;s director of clinical research programmes, counters that those involved with the trial are doing their best to deal with the ethical issues as they arise. &quot;This is not a perfect system,&quot; he says. &quot;We are learning a lot from the PolyHeme study.&quot; In the coming months, a National Institutes of Health (NIH) research project called the Resuscitation Outcomes Consortium (ROC) is likely to spur similar questions as it starts enrolling patients</otmi:snippet>
+              <otmi:snippet>Northfield is also under fire for not promptly disclosing the results of a previous study that tested PolyHeme in patients with abdominal aortic aneurysms</otmi:snippet>
+              <otmi:snippet>Northfield officials refused interview requests, directing enquiries to the company&apos;s website, which states that &quot;Northfield is committed to conducting its study with the utmost concern for patient safety&quot;</otmi:snippet>
+              <otmi:snippet>Northfield says it did not delay publication and that PolyHeme wasn&apos;t responsible for the problems</otmi:snippet>
+              <otmi:snippet>On 22 February The Wall Street Journal reported that 10 of 81 patients suffered heart attacks — with two dying — after receiving PolyHeme</otmi:snippet>
+              <otmi:snippet>One problem is that the product is often provided in poor communities with high proportions of ethnic minorities, as these can have higher numbers of trauma cases</otmi:snippet>
+              <otmi:snippet>Over the past year, ethicists have become increasingly vocal about various issues relating to the trial</otmi:snippet>
+              <otmi:snippet>Paediatric cardiologist Tracey Hoke, the NIH&apos;s medical officer for the ROC, insists that lessons from the PolyHeme trial will have been learned: &quot;We intend to fully disclose risks and benefits to the communities.&quot;</otmi:snippet>
+              <otmi:snippet>San Diego A US trial of an experimental blood substitute given to trauma patients who cannot give consent is stirring concern about the way that such &quot;no consent&quot; trials are run</otmi:snippet>
+              <otmi:snippet>Some ethicists are particularly concerned about blood transfusions being withheld from patients once they are hospitalized, to see how well the blood substitute works. &quot;I have a lot of problems&quot; with various aspects of the work, says attorney Nancy King of the University of North Carolina in Chapel Hill</otmi:snippet>
+              <otmi:snippet>Some have since restarted the trial. &quot;Any institution that continues this trial without additional consultation with communities is doing a profound disservice,&quot; says Glenn McGee, director of the Alden March Bioethics Institute at Albany</otmi:snippet>
+              <otmi:snippet>The first such study, of a high-salt saline solution for trauma patients, is set to begin later this year</otmi:snippet>
+              <otmi:snippet>The newspaper is itself suing the University of California, San Diego (UCSD), which has enrolled about 25 trauma patients, for information about what it believes are adverse study results</otmi:snippet>
+              <otmi:snippet>The only way to opt out of receiving PolyHeme if injured in areas covered by the trial is to wear a particular blue wristband</otmi:snippet>
+              <otmi:snippet>The oxygen-carrying blood substitute, called PolyHeme, is made by Northfield Laboratories in Evanston, Illinois</otmi:snippet>
+              <otmi:snippet>The study is funded by Northfield, which pays the hospital $10,000 per enrolled patient, and the company doesn&apos;t want the details disclosed to protect its financial interests</otmi:snippet>
+              <otmi:snippet>The study was halted in 2001</otmi:snippet>
+              <otmi:snippet>They are concerned that the trial conflates conditions in ambulances, where blood transfusions are not a feasible part of patient care, with conditions in hospitals, where they are</otmi:snippet>
+              <otmi:snippet>This $50-million, five-year project at ten hospitals in the United States and Canada will test experimental techniques on trauma and heart-attack patients who cannot give prior consent</otmi:snippet>
+              <otmi:snippet>Tong Gan, a clinical researcher at Duke University in North Carolina, and other principal investigators on the study have argued for the full results to be published so that scientists can learn from them</otmi:snippet>
+              <otmi:snippet>UCSD officials say they are protecting patient privacy and abiding by Northfield&apos;s contract</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1080/15265160600668644 </otmi:refid>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

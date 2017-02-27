@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<project name="textractor-fastobjects" default="enhance" basedir="..">
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="classes" location="classes"/>
+    <property name="src" location="src"/>
+    <property name="jdosrc" location="extsrc/fastobjects"/>
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+
+    <path id="jdo.compile.classpath">
+        <fileset dir="${lib}/fastobjects">
+            <exclude name="FastObjects_t7_JDO.jar"/>
+        </fileset>
+    </path>
+
+    <path id="jdo.run.classpath">
+        <fileset dir="${lib}/fastobjects">
+            <exclude name="FastObjects_t7_SDK.jar"/>
+        </fileset>
+    </path>
+
+    <!-- Define the FastObjects enhancer task definition. -->
+    <taskdef name="fastobjects_enhancer_task"
+             classname="com.poet.tools.ptj.ant.PtjAntTask"
+             classpathref="jdo.compile.classpath">
+    </taskdef>
+
+    <!-- define basic targets to be overidden in the main build file(s) -->
+    <target name="init"/>      <!-- nothing to be done here -->
+    <target name="compile"/>   <!-- nothing to be done here -->
+
+    <target name="copymetafiles" depends="copyjdofiles, modifyjdofiles"
+            description="Copies the .jdo metafiles to the output directory">
+    </target>
+
+    <target name="copyjdofiles" description="Copies the .jdo metafiles to the output directory">
+        <echo level="info" message="Deleting the .jdo files in the output directory..."/>
+        <delete>
+            <fileset dir="${classes}" includes="**/*.jdo"/>
+        </delete>
+        <echo level="info" message="Copying the .jdo files into the output directory..."/>
+        <copy todir="${classes}">
+            <fileset dir="${src}" includes="**/*.jdo"/>
+        </copy>
+    </target>
+
+    <target name="modifyjdofiles" depends="copyjdofiles"
+            description="Modify all .jdo files for the FastObjects enhancer">
+        <replace dir="${classes}" summary="yes">
+            <replacefilter token="!--FASTOBJECTSBEGIN" value="!--Interfaces enabled for FastObjects--"/>
+            <replacefilter token="FASTOBJECTSEND--" value="!--Interfaces enabled for FastObjects--"/>
+            <include name="**/*.jdo"/>
+        </replace>
+    </target>
+
+    <target name="enhance" depends="init,compile,copymetafiles"
+            description="Run the enhancer">
+        <!-- Invoke the JDOEnhancer on all .jdo files below the current directory. -->
+        <fastobjects_enhancer_task
+                enhance="true"
+                register="false"
+                odmg="true"
+                enhancepath="${classes}">
+        </fastobjects_enhancer_task>
+    </target>
+
+    <target name="createschema_fastobjects"
+           depends="init, drop, compile, enhance"
+           description="Creates new FastObjects Textractor Schema">
+        <!--  Create a new schema root (and database because of the new schema)-->
+        <delete dir="${com.fastobjects.database.physical}"/>
+        <mkdir dir="${com.fastobjects.database.physical}"/>
+
+        <!-- TODO: the database and schema should be config properties -->
+        <fastobjects_enhancer_task
+                enhance="false"
+                register="true"
+                regmethod="create"
+                schema="textractor_dict"
+                database="textractor_base"
+                workingDir="${com.fastobjects.database.physical}"
+                enhancepath="${classes}">
+        </fastobjects_enhancer_task>
+        <chmod perm="g+w" type="both" defaultexcludes="no">
+            <fileset dir="${com.fastobjects.database.physical}">
+                <include name="**"/>
+            </fileset>
+        </chmod>
+    </target>
+
+    <target name="createdb"
+            depends="init, enhance, drop"
+            description="Creates a new database for FastObjects">
+
+        <!-- At this point we assume that the dictionary(schema) is already in place   -->
+        <exec executable="ptadmin" failonerror="true">
+            <arg line="-server ${com.fastobjects.database.server} -schema=${com.fastobjects.dictionary.name} -create ${com.fastobjects.database.name}"/>
+        </exec>
+    </target>
+
+    <target name="drop" depends="init"
+            description="Drops the database for FastObjects">
+
+        <!-- this target deletes only the database (directory and files) -->
+        <exec executable="ptadmin" failonerror="false">
+            <arg line="-server ${com.fastobjects.database.server} -delete ${com.fastobjects.database.name}"/>
+        </exec>
+    </target>
+
+    <target name="updatedb" depends="init"
+            description="Update existing FastObjects Database">
+        <fastobjects_enhancer_task
+                enhance="false"
+                register="true"
+                schema="${com.fastobjects.dictionary.name}"
+                regmethod="update"
+                workingDir="${com.fastobjects.database.physical}"
+                enhancepath="${classes}">
+        </fastobjects_enhancer_task>
+    </target>
+</project>

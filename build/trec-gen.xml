@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<project name="trec-gen" default="trec-2007" basedir="..">
+    <description>
+        This is the Ant build file for maintaining and using the
+        TREC corpus with Textractor.
+    </description>
+
+    <property name="build" location="build"/>
+
+    <!-- Java properties -->
+    <property name="debug" value="off"/>
+    <property name="fork" value="yes"/>
+    <property name="debug.jvm" value="-Ddummy=true"/>
+    <property name="debug.remote" value="-Ddummy=true"/>
+
+    <property name="classes" location="classes"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="src" location="src"/>
+    <property name="output" location="output"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <property name="trec-2004-corpus-dir" value="/home/icb/db/trec/trec-gen/2004/corpus/"/>
+
+    <property name="max-memory" value="600m"/>
+    <property name="chunk-size" value="1000"/>
+
+    <property name="cclastgoodbuildtimestamp" value="19700101000000"/>
+
+    <tstamp>
+        <format property="cctimestamp" pattern="yyyyMMddHHmmss"/>
+    </tstamp>
+
+    <taskdef resource="net/sf/antcontrib/antlib.xml" onerror="fail">
+        <classpath>
+            <pathelement location="${lib}/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <condition property="nojdo">
+        <equals arg1="${textractor.JdoImplementation}"
+                arg2="nojdo" casesensitive="no"/>
+    </condition>
+    <!-- import jdo specific imlementations of database targets -->
+    <import file="${build}/${textractor.JdoImplementation}.xml"/>
+
+
+    <path id="run.classpath">
+        <pathelement location="${config}"/>
+        <pathelement location="${classes}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+        <path refid="jdo.run.classpath"/>
+    </path>
+
+    <target name="init">
+        <mkdir dir="output"/>
+    </target>
+
+    <macrodef name="build-case-insensitive-store" description="Build Case Insensitive Store">
+        <attribute name="basename"/>
+
+        <sequential>
+            <java dir="${basedir}" fork="true" failonerror="true"
+                  classname="textractor.caseInsensitive.CaseInsensitiveBuilder"
+                  maxmemory="${max-memory}">
+                <classpath refid="run.classpath"/>
+                <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+                <arg value="--basename"/>
+                <arg value="@{basename}"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+
+    <target name="enhance">
+        <ant antfile="${build}/build.xml" target="enhance" inheritrefs="true"/>
+    </target>
+
+    <target name="compile">
+        <ant antfile="${build}/build.xml" target="compile" inheritrefs="true"/>
+    </target>
+
+    <target name="clean">
+        <ant antfile="${build}/build.xml" target="clean" inheritrefs="true"/>
+    </target>
+
+    <macrodef name="build-didyoumean-index">
+        <attribute name="basename"/>
+        <attribute name="options" default=""/>
+        <attribute name="threshold" default="5"/>
+        <attribute name="batch-size" default="10000"/>
+        <attribute name="max-memory" default="1600m"/>
+        <sequential>
+            <java dir="${basedir}" fork="true" failonerror="true"
+                  classname="textractor.didyoumean.DidYouMeanIndexer" maxmemory="@{max-memory}">
+                <classpath refid="run.classpath"/>
+                <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+                <arg value="-basename"/>
+                <arg value="@{basename}"/>
+                <arg value="-threshold"/>
+                <arg value="@{threshold}"/>
+                <arg value="-batch-size"/>
+                <arg value="@{batch-size}"/>
+                <arg line="@{options}"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <target name="build-dym" description="Build DidYouMean index">
+        <input message="Basename of the index to create (e.g., trec-2004/index)?"
+               addproperty="basename" defaultvalue="trec-2004/index"/>
+        <input message="Threshold. Minimum number of term matches for inclusion in DYM index (e.g., 5)?"
+               addproperty="threshold" defaultvalue="5"/>
+
+        <build-didyoumean-index basename="${basename}" threshold="${threshold}"/>
+    </target>
+
+    <macrodef name="tf-idf" description="Build tf-idf">
+        <attribute name="basename"/>
+        <attribute name="mindf" default="0.00001"/>
+        <attribute name="maxdf" default="0.2"/>
+        <sequential>
+            <java dir="${basedir}"
+                  fork="true"
+                  failonerror="true"
+                  classname="textractor.tools.docstore.DocStore2TfIdf"
+                  maxmemory="${max-memory}">
+                <classpath refid="run.classpath"/>
+                <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+                <arg value="-basename"/>
+                <arg value="@{basename}"/>
+                <arg value="-mindf"/>
+                <arg value="@{mindf}"/>
+                <arg value="-maxdf"/>
+                <arg value="@{maxdf}"/>
+                <jvmarg value="${debug.jvm}"/>
+                <jvmarg value="${debug.remote}"/>
+            </java>
+        </sequential>
+    </macrodef>
+
+    <target name="trec-index-2004" depends="compile">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2004/indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-docstore-2004-chain" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2004/docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-2004" depends="clean, trec-index-2004, trec-docstore-2004-chain"
+            description="Trec 2004 load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index/trec-2004-index"/>
+        <build-case-insensitive-store basename="index/trec-2004-index"/>
+        <tf-idf basename="index/trec-2004-index" maxdf="0.2" mindf="0.00001"/>
+    </target>
+
+    <target name="trec-index-2006" depends="compile">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2006/indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-index-2007" depends="compile">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2007/indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="abner-index-2007" depends="compile" description="Index using abner substitution">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="'file:///${config}/log4j.properties'"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2007/abner-indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="abner-docstore-2007" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2007/abner-docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+  <target name="trec-index-2006-paragraph" depends="compile" description="index trec 2006 at the paragraph level">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2006/paragraph-indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-docstore-2006" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2006/docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-docstore-2007" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2007/docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+     <target name="trec-docstore-2006-paragraph-chain" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/2006/paragraph-docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-2006" depends="clean, trec-index-2006, trec-docstore-2006"
+            description="Trec load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index/trec-index"/>
+        <build-case-insensitive-store basename="index/trec-index"/>
+        <tf-idf basename="index/trec-index" maxdf="0.8" mindf="0.00001"/>
+    </target>
+
+    <target name="trec-2007" depends="clean, trec-index-2007, trec-docstore-2007"
+            description="Trec load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index/trec-index"/>
+        <build-case-insensitive-store basename="index/trec-index"/>
+        <tf-idf basename="index/trec-index" maxdf="0.8" mindf="0.00001"/>
+    </target>
+
+    <target name="abner-2007" depends="clean, abner-index-2007, abner-docstore-2007"
+            description="Trec load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index/trec-index"/>
+        <build-case-insensitive-store basename="index/trec-index"/>
+        <tf-idf basename="index/trec-index" maxdf="0.8" mindf="0.00001"/>
+    </target>
+
+     <target name="trec-2006-paragraph" depends="clean, trec-index-2006-paragraph, trec-docstore-2006-paragraph-chain"
+            description="Trec load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index-paragraph/trec-paragraph-index"/>
+        <build-case-insensitive-store basename="index-paragraph/trec-paragraph-index"/>
+        <tf-idf basename="index-paragraph/trec-paragraph-index" maxdf="0.8" mindf="0.00001"/>
+    </target>
+
+    <target name="trec-gov2" depends="clean, trec-index-gov2, trec-docstore-gov2"
+            description="Trec load/index using the chain implementation">
+        <!-- Note: basename is hardcoded for now since it's defined in the chain files -->
+        <build-didyoumean-index basename="index/trec-gov2-index"/>
+        <build-case-insensitive-store basename="index/trec-gov2-index"/>
+        <tf-idf basename="index/trec-gov2-index" maxdf="0.8" mindf="0.00001"/>
+    </target>
+
+    <target name="trec-index-gov2" depends="compile">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/gov2/indexer.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="trec-docstore-gov2" depends="compile">
+        <!-- docstore -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg value="-u"/>
+            <arg value="file:///${config}/catalogs/trec/gov2/docstore.xml"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+</project>

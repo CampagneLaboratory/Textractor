@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2009//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>15817129</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2005</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC bioinformatics</Title>
+                <ISOAbbreviation>BMC Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Building a protein name dictionary from full text: a machine learning term extraction approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>88</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>BACKGROUND: The majority of information in the biological literature resides in full text articles, instead of abstracts. Yet, abstracts remain the focus of many publicly available literature data mining tools. Most literature mining tools rely on pre-existing lexicons of biological names, often extracted from curated gene or protein databases. This is a limitation, because such databases have low coverage of the many name variants which are used to refer to biological entities in the literature. RESULTS: We present an approach to recognize named entities in full text. The approach collects high frequency terms in an article, and uses support vector machines (SVM) to identify biological entity names. It is also computationally efficient and robust to noise commonly found in full text material. We use the method to create a protein name dictionary from a set of 80,528 full text articles. Only 8.3% of the names in this dictionary match SwissProt description lines. We assess the quality of the dictionary by studying its protein name recognition performance in full text. CONCLUSION: This dictionary term lookup method compares favourably to other published methods, supporting the significance of our direct extraction approach. The method is strong in recognizing name variants not found in SwissProt.</AbstractText>
+            </Abstract>
+            <Affiliation>Institute for Computational Biomedicine, Dept. of Physiology and Biophysics, Weill Cornell Medical College, 1300 York Ave, New York, NY 10021, USA. les2007@med.cornell.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campagne</LastName>
+                    <ForeName>Fabien</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>04</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Bioinformatics</MedlineTA>
+            <NlmUniqueID>100965194</NlmUniqueID>
+            <ISSNLinking>1471-2105</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2000 Dec 23;259(1-2):245-52</RefSource>
+                <PMID>11163982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2005;6:5</RefSource>
+                <PMID>15642112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2001;17 Suppl 1:S97-106</RefSource>
+                <PMID>11472998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Med Inform. 2002 Dec 4;67(1-3):49-61</RefSource>
+                <PMID>12460631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2003 Aug;17(8):1555-67</RefSource>
+                <PMID>12738764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Inform. 2002 Aug;35(4):247-59</RefSource>
+                <PMID>12755519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003;19 Suppl 1:i331-9</RefSource>
+                <PMID>12855478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D35-40</RefSource>
+                <PMID>14681353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Jan 22;20(2):216-25</RefSource>
+                <PMID>14734313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 6;101 Suppl 1:5241-8</RefSource>
+                <PMID>14757821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 May 1;20(7):1178-90</RefSource>
+                <PMID>14871877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Mar 1;20(4):557-68</RefSource>
+                <PMID>14990452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Inform. 2004 Feb;37(1):43-53</RefSource>
+                <PMID>15016385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Nov 1;20(16):2597-604</RefSource>
+                <PMID>15130936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Nov 22;20(17):3206-13</RefSource>
+                <PMID>15231534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Aug 4;20 Suppl 1:i241-7</RefSource>
+                <PMID>15262805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bioinform Comput Biol. 2004 Jan;1(4):611-26</RefSource>
+                <PMID>15290756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stud Health Technol Inform. 2004;107(Pt 2):773-7</RefSource>
+                <PMID>15360917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2004 Nov;2(11):e309</RefSource>
+                <PMID>15383839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D289-93</RefSource>
+                <PMID>15608198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2001 May;28(1):21-8</RefSource>
+                <PMID>11326270</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Abstracting and Indexing as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bibliometrics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Databases, Bibliographic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Databases, Protein</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dictionaries as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Information Dissemination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Information Services</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Information Storage and Retrieval</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MEDLINE</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Names</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Natural Language Processing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">classification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">PubMed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Systems Integration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Terminology as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">User-Computer Interface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1090555</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2005</Year>
+                <Month>2</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2105-6-88</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2105-6-88</ArticleId>
+            <ArticleId IdType="pubmed">15817129</ArticleId>
+            <ArticleId IdType="pmc">PMC1090555</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

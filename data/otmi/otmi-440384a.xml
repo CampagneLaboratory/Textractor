@@ -1,0 +1,294 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>A colourful past</title>
+      <id>info:doi/10.1038/440384a</id>
+      <link href='http://dx.doi.org/10.1038/440384a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>384</prism:startingPage>
+      <prism:endingPage>384</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>dye</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>century</otmi:vector>
+              <otmi:vector count='3'>good</otmi:vector>
+              <otmi:vector count='3'>Perkin&apos;s</otmi:vector>
+              <otmi:vector count='3'>chemists</otmi:vector>
+              <otmi:vector count='3'>companies</otmi:vector>
+              <otmi:vector count='3'>who</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>molecular</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>story</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>William</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>colour</otmi:vector>
+              <otmi:vector count='2'>industry</otmi:vector>
+              <otmi:vector count='2'>production</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>expertise</otmi:vector>
+              <otmi:vector count='2'>alizarin</otmi:vector>
+              <otmi:vector count='2'>early</otmi:vector>
+              <otmi:vector count='2'>synthetic</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>Carl</otmi:vector>
+              <otmi:vector count='2'>setting</otmi:vector>
+              <otmi:vector count='2'>mauve</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>route</otmi:vector>
+              <otmi:vector count='2'>scientific</otmi:vector>
+              <otmi:vector count='2'>structure</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>pure</otmi:vector>
+              <otmi:vector count='2'>business</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>understand</otmi:vector>
+              <otmi:vector count='2'>chemical</otmi:vector>
+              <otmi:vector count='2'>demand</otmi:vector>
+              <otmi:vector count='2'>organic</otmi:vector>
+              <otmi:vector count='2'>quickly</otmi:vector>
+              <otmi:vector count='2'>mordanting</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>up</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>mere</otmi:vector>
+              <otmi:vector count='1'>Hoechst</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>supply</otmi:vector>
+              <otmi:vector count='1'>needs</otmi:vector>
+              <otmi:vector count='1'>mason</otmi:vector>
+              <otmi:vector count='1'>Cullen</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>notably</otmi:vector>
+              <otmi:vector count='1'>payroll</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>complexities</otmi:vector>
+              <otmi:vector count='1'>delight</otmi:vector>
+              <otmi:vector count='1'>science</otmi:vector>
+              <otmi:vector count='1'>something</otmi:vector>
+              <otmi:vector count='1'>philosopher</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>multicolour</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>Humphry</otmi:vector>
+              <otmi:vector count='1'>began</otmi:vector>
+              <otmi:vector count='1'>pharmaceuticals</otmi:vector>
+              <otmi:vector count='1'>preoccupied</otmi:vector>
+              <otmi:vector count='1'>acquired</otmi:vector>
+              <otmi:vector count='1'>cement</otmi:vector>
+              <otmi:vector count='1'>BASF</otmi:vector>
+              <otmi:vector count='1'>compounds</otmi:vector>
+              <otmi:vector count='1'>Scottish</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>moved</otmi:vector>
+              <otmi:vector count='1'>colourfast</otmi:vector>
+              <otmi:vector count='1'>reality</otmi:vector>
+              <otmi:vector count='1'>attempts</otmi:vector>
+              <otmi:vector count='1'>favourite</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>bleach</otmi:vector>
+              <otmi:vector count='1'>youth</otmi:vector>
+              <otmi:vector count='1'>trial-and-error</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>coal-gas</otmi:vector>
+              <otmi:vector count='1'>evident</otmi:vector>
+              <otmi:vector count='1'>Thénard</otmi:vector>
+              <otmi:vector count='1'>Traditionally</otmi:vector>
+              <otmi:vector count='1'>compound</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>Vauquelin</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>profits</otmi:vector>
+              <otmi:vector count='1'>Ciba</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>anniversary</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>ensue</otmi:vector>
+              <otmi:vector count='1'>academia</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>extraordinary</otmi:vector>
+              <otmi:vector count='1'>1868</otmi:vector>
+              <otmi:vector count='1'>dyer</otmi:vector>
+              <otmi:vector count='1'>rights</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>residue</otmi:vector>
+              <otmi:vector count='1'>fabric</otmi:vector>
+              <otmi:vector count='1'>Nicolas-Louis</otmi:vector>
+              <otmi:vector count='1'>fabrics</otmi:vector>
+              <otmi:vector count='1'>1869</otmi:vector>
+              <otmi:vector count='1'>dyes</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>skilled</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>Riese</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>his</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Badische</otmi:vector>
+              <otmi:vector count='1'>secrets</otmi:vector>
+              <otmi:vector count='1'>pigments</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>fortune</otmi:vector>
+              <otmi:vector count='1'>excuse</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>mysterious</otmi:vector>
+              <otmi:vector count='1'>plant</otmi:vector>
+              <otmi:vector count='1'>twentieth</otmi:vector>
+              <otmi:vector count='1'>engendered</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>sure</otmi:vector>
+              <otmi:vector count='1'>time-honoured</otmi:vector>
+              <otmi:vector count='1'>announced</otmi:vector>
+              <otmi:vector count='1'>indigo</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>divisions</otmi:vector>
+              <otmi:vector count='1'>bleacher</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>dye-making</otmi:vector>
+              <otmi:vector count='1'>salts</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>printing</otmi:vector>
+              <otmi:vector count='1'>branched</otmi:vector>
+              <otmi:vector count='1'>cemented</otmi:vector>
+              <otmi:vector count='1'>gamble</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>Bayer</otmi:vector>
+              <otmi:vector count='1'>repetition</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>black</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>retell</otmi:vector>
+              <otmi:vector count='1'>mid-nineteenth</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>nineteenth</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>eighteenth</otmi:vector>
+              <otmi:vector count='1'>Making</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>riches</otmi:vector>
+              <otmi:vector count='1'>rote</otmi:vector>
+              <otmi:vector count='1'>drive</otmi:vector>
+              <otmi:vector count='1'>mass-produce</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>realized</otmi:vector>
+              <otmi:vector count='1'>manufacturing</otmi:vector>
+              <otmi:vector count='1'>Liebermann</otmi:vector>
+              <otmi:vector count='1'>flowed</otmi:vector>
+              <otmi:vector count='1'>150th</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>chemist</otmi:vector>
+              <otmi:vector count='1'>brighter</otmi:vector>
+              <otmi:vector count='1'>experimentation</otmi:vector>
+              <otmi:vector count='1'>wanted</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>developing</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>chemistry&apos;s</otmi:vector>
+              <otmi:vector count='1'>today&apos;s</otmi:vector>
+              <otmi:vector count='1'>Geigy</otmi:vector>
+              <otmi:vector count='1'>inorganic</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>owed</otmi:vector>
+              <otmi:vector count='1'>audacity</otmi:vector>
+              <otmi:vector count='1'>Graebe</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>company</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>429</otmi:vector>
+              <otmi:vector count='1'>madder</otmi:vector>
+              <otmi:vector count='1'>integration</otmi:vector>
+              <otmi:vector count='1'>chromatic</otmi:vector>
+              <otmi:vector count='1'>Ferdinand</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>stimulated</otmi:vector>
+              <otmi:vector count='1'>tale</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>aniline</otmi:vector>
+              <otmi:vector count='1'>sharpened</otmi:vector>
+              <otmi:vector count='1'>unlocked</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>means</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>obtained</otmi:vector>
+              <otmi:vector count='1'>Perkin</otmi:vector>
+              <otmi:vector count='1'>recipe-followers</otmi:vector>
+              <otmi:vector count='1'>chemistry</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>recipes</otmi:vector>
+              <otmi:vector count='1'>craft</otmi:vector>
+              <otmi:vector count='1'>aspect</otmi:vector>
+              <otmi:vector count='1'>synthesize</otmi:vector>
+              <otmi:vector count='1'>scientists.</otmi:vector>
+              <otmi:vector count='1'>metal</otmi:vector>
+              <otmi:vector count='1'>greatest</otmi:vector>
+              <otmi:vector count='1'>&quot;it</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>Louis-Jacques</otmi:vector>
+              <otmi:vector count='1'>unpromising</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>today</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>Davy</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Another was Perkin</otmi:snippet>
+              <otmi:snippet>Both the need to understand molecular structure and the demand for synthetic methods were sharpened by chemists&apos; attempts to synthesize indigo and alizarin (the natural colour obtained from the madder plant)</otmi:snippet>
+              <otmi:snippet>But perhaps the most important aspect of the story is the relationship that it engendered between pure and applied science</otmi:snippet>
+              <otmi:snippet>Making inorganic pigments preoccupied some of the greatest chemists of the early nineteenth century, notably Nicolas-Louis Vauquelin, Louis-Jacques Thénard and Humphry Davy</otmi:snippet>
+              <otmi:snippet>One of those who found a better route in 1869 was Ferdinand Riese, who was already working for Hoechst</otmi:snippet>
+              <otmi:snippet>Perkin&apos;s mauve, however, was an organic compound and so, in the mid-nineteenth century, was rather more mysterious than metal salts</otmi:snippet>
+              <otmi:snippet>That was when the Scottish chemist William Cullen announced that if the mason wanted cement, the dyer a dye and the bleacher a bleach, &quot;it is the chemical philosopher who must supply these&quot;</otmi:snippet>
+              <otmi:snippet>The 150th anniversary of William Perkin&apos;s synthesis of aniline mauve dye (see page 429 ) is more than just an excuse to retell a favourite story from chemistry&apos;s past</otmi:snippet>
+              <otmi:snippet>The demand for new, brighter and more colourfast synthetic dyes, along with new means of setting them on to fabrics (&quot;mordanting&quot;), stimulated manufacturing companies to set up their own research divisions, and thus cemented interactions between industry and academia that were just developing at the time</otmi:snippet>
+              <otmi:snippet>The drive to understand the molecular structure of carbon compounds during this period is often presented today as &quot;pure&quot; chemistry, but in reality it owed much at the time to the profits that might ensue if the molecular secrets of organic colour could be unlocked</otmi:snippet>
+              <otmi:snippet>The idea that chemical production required real scientific expertise did not arise until the eighteenth century, when the complexities of mordanting and multicolour fabric printing moved beyond the expertise of mere recipe-followers</otmi:snippet>
+              <otmi:snippet>These and other dye companies, including Bayer, Ciba and Geigy, had seen the value of having highly skilled chemists on their payroll — something that was even more evident when they branched into pharmaceuticals early in the twentieth century</otmi:snippet>
+              <otmi:snippet>Thus, today&apos;s integration of scientific research into industry first began to take shape, as companies realized that good business needs good scientists.</otmi:snippet>
+              <otmi:snippet>To be sure, the tale contains much to delight in: Perkin&apos;s extraordinary youth and good fortune, the audacity of his gamble in setting up a business to mass-produce the dye, and the chromatic riches that so quickly flowed from an unpromising black residue of coal-gas production</otmi:snippet>
+              <otmi:snippet>Traditionally, dye-making was a craft, a combination of trial-and-error experimentation and the rote repetition of time-honoured recipes</otmi:snippet>
+              <otmi:snippet>When Carl Graebe and Carl Liebermann found a route to making alizarin in 1868, the Badische dye company, soon to become BASF, quickly acquired the rights</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

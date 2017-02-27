@@ -1,0 +1,548 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>A lethal giant kinase in cell polarity - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n4';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=98490FB5A67E63AA411141C1">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html#nv">News &amp; Views</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><input xmlns="" value="nv" id="categ" type="hidden"><input xmlns="" value="" id="arch_categ" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">News &amp; Views</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><!--<table width="450" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td valign="top" bgcolor="#546D9F"><img src="/ncb/images/membrane_header_sm.gif" width="450" height="20" alt="Membrane Traffic"></td></tr>
+	<tr><td valign="top" bgcolor="#546D9F"><img src="/ncb/images/spacer.gif" width="1" height="1" alt="" /></td></tr>
+	<tr><td bgcolor="#DFE9FD" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n6/index.html" class="leftnav3">June 2004 Contents</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="/ncb/webfocus/membrane/index.html" class="leftnav3">Archive</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#DFE9FD" align="center"><a href="mailto:s.swaminathan@nature.com" class="leftnav3">Feedback</a></td>
+					<td bgcolor="#DFE9FD"><img src="/ncb/images/spacer.gif" width="7" height="22" alt="" /></td>
+					<td bgcolor="#546d9f"><img src="/ncb/images/spacer.gif" width="1" height="22" alt="" /></td></tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td valign="top" bgcolor="#546D9F"><img src="/ncb/images/spacer.gif" width="1" height="1" alt="" /></td></tr>
+</table>--><br xmlns=""><br xmlns=""><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>
+&nbsp;<b>5</b>, 273 - 274 (2003)
+ <br>doi:10.1038/ncb0403-273
+</span><h2 xmlns="">A lethal giant kinase in cell polarity</h2><span xmlns="" class="author">Nicholas J. Justice
+&amp;&nbsp;Yuh Nung Jan<p class="blacksml">Nicholas J. Justice and Yuh Nung Jan are at the Howard Hughes Medical Institute, Departments of Physiology and Biochemistry, University of California at San Francisco, San Francisco, CA 94143-0725, USA</p><span class="blacksml">
+Correspondence should be addressed to Nicholas J. Justice <a href="mailto:njustice@phy.ucsf.edu">njustice@phy.ucsf.edu</a></span></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>The coordinated action of several conserved multiprotein complexes establishes polarity in an asymmetrically dividing cell. How apically localized cues affect the basal distribution of proteins has remained unclear. However, new studies provides a direct link between the two poles, showing that the apical Par6&#150;aPKC complex directly regulates Lethal giant larvae (Lgl).</b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Cellular diversity arises when two daughters of a dividing cell become different from one another. Asymmetric cell division is one such mechanism that creates differences between daughter cells and is used in development to select neural precursors, to specify terminal cell fates and to maintain multipotent stem cell populations. During asymmetric cell division, a polarity cue in the mother cell is used to direct the asymmetric localization of cell-fate determinants. Asymmetrically dividing cells often rely on the earlier establishment of polarity in an epithelial cell layer for such a polarizing cue. For example, in the <i>Drosophila melanogaster</i> embryo, neural precursor cells termed 'neuroblasts' delaminate from a polarized epithelium, inheriting polarity cues at the apical cortex that will direct basal formation of a crescent containing the cell-fate determinants Numb and Prospero (<a href="#f1">Fig. 1</a>). These proteins, together with their adaptors Partner-of-Numb and Miranda (Mir), are then asymmetrically segregated to the basal daughter cell during cell division. The apical Par complex directs their basal localization and consists of three factors: Bazooka (ASIP or mPar-3 in mammals, Par-3 in <i>Caenorhabditis elegans</i>), dPar-6 (mPar-6 in mammals, Par-6 in <i>C. elegans</i>) and aPKC (PKC<img border=0 src="/__chars/lambda/black/med/base/glyph.gif" align="bottom" alt="lambda">/PKC<img border=0 src="/__chars/zeta/black/med/base/glyph.gif" align="middle" alt="zeta"> in mammals, PKC-3 in <i>C. elegans</i>). Importantly, mutations in any one of these genes delocalizes the Par complex, resulting in a failure of basal crescent formation and subsequent changes in the cell fates produced by the division.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html">Figure&nbsp;1.</a>&nbsp;A model for directing asymmetry: Lgl is apically phosphorylated by aPKC.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb0403-273-f1.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml">Neuroblasts delaminate from a polarized epithelium, inheriting Par complex proteins at the apical cortex (green). Apically localized Par-6 (yellow) and aPKC (blue) bind to Lgl (red) at the apical cortex. As the neuroblast divides, aPKC phosphorylates Lgl, resulting in local dissociation of Lgl from the cortical cytoskeleton. At the opposite pole, basally localized Lgl is not phosphorylated, and therefore maintains cytoskeletal association, where it functions to target and retain proteins selectively at the basal cortex (light blue). Basally localized anchors recruit the adaptor proteins Miranda and Pon for cell fate determinants Pros and Numb that together form a basal crescent (purple). Basally localized Numb and Pros will be asymmetrically segregated to the basal daughter during cell division, where they will function to specify cell fate. A gap is often observed between apical and basal crescents along the lateral cortex, suggesting that additional components may function to further restrict the apical and basal crescents as the cell progresses through the cell cycle (adapted from ref. <a href="#B4">4</a>).</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb0403-273_F1.html">Full Figure and legend (118K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">So how do apically localized proteins affect basal crescent formation at the basal pole? The first clue came from the discovery that Lgl, a WD protein originally identified in <i>Drosophila</i> as an epithelial tumour suppressor<sup><a href="#B1">1</a></sup>, is required specifically for basal crescent formation<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. In <i>lgl</i> mutants, the Par complex forms normally at the apical cortex; however, the basal crescent fails to form. This requirement for Lgl suggests that it functions in a mechanism that couples the apical Par complex to basal crescent formation. Now, the connection between Lgl and the Par complex in this mechanism has become clear. Betschiger <i>et al</i>. in <i>Nature</i><sup><a href="#B4">4</a></sup> and Plant <i>et al</i>. on <a href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb948.html">page 301</a> of this issue of <i>Nature Cell Biology</i><sup><a href="#B5">5</a></sup> independently report that Par-6, aPKC and Lgl physically interact in a complex, and that Lgl is in fact a substrate of aPKC. The direct interaction between apical proteins and those required for basal crescent formation reveals a functional link between the polarity complexes that is essential for cell polarization and asymmetric cell division.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Betschiger <i>et al</i>. set out to find what factors might mediate <i>Drosophila</i> Par complex activity by using antibodies against Par-6 to immunoprecipitate proteins that interact with the Par complex. This approach identified Lgl in a complex with Par-6 and aPKC. Independently, Plant <i>et al</i>. isolated an analogous complex from mammalian neural tissue. Kinase assays performed in both systems show that Lgl is phosphorylated at conserved PKC consensus sites by aPKC, raising the possibility that the apical Par complex regulates Lgl through phosphorylation to direct basal crescent formation. Indeed, when Betschiger <i>et al</i>. expressed an Lgl mutant that cannot be phosphorylated, Mir &#151; a protein that is normally restricted to the basal crescent &#151; became uniformly localized around the cell cortex in dividing neuroblasts. Moreover, expression of an aPKC mutant that lacks the Par-6-binding domain resulted in uniform cortical localization of aPKC and a redistribution of Miranda to the cytoplasm, similar to the altered localization of Miranda observed in <i>lgl</i> mutants. Thus, it seems that localized phosphorylation of Lgl at the apical cortex is necessary for proper basal crescent formation. The fact that phosphorylation of aPKC causes Lgl to disassociate from membranes and the cytoskeleton indicates that phosphorylation inhibits the cortical localization of Lgl. Taken together, these observations suggest a parsimonious model to explain how the apical Par complex directs basal formation of a crescent in the dividing neuroblast. Apically localized Par-6&#150;aPKC activity results in phosphorylation of Lgl on the apical side of the cell, causing Lgl to disassociate from the cytoskeleton selectively at the apical cortex. Basally localized Lgl remains non-phosphorylated and therefore maintains an association with the cortical cytoskeleton, where it targets and/or retains anchors for cell fate determinants and their adaptor proteins. These proteins form a basal crescent that will be segregated to the basal daughter cell at cell division (<a href="#f1">Fig. 1</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">This model, although attractive in its simplicity, may need some additional elements to explain observations that have been made in asymmetrically dividing neuroblasts. For instance, if the basal crescent forms as a result of Lgl dissociating from the apical cortex, why is it that the basal Miranda crescent does not abut the apical Par complex, but instead seems to be separated from the apical crescent by a gap? One explanation may be that the apical and basal crescents initially meet, but then, after Lgl is inactivated apically, proceed to separate along the lateral cortex through the action of myosins, such as Zipper or Jaguar<sup><a href="#B6">6</a></sup>. Another possible explanation for this gap is the spreading of Par-6&#150;aPKC activity beyond the apical crescent. As Par-6&#150;aPKC releases apical Par-3/Baz and binds Lgl, consistent with observations that Par-6&#150;aPKC&#150;Lgl complexes do not contain Par-3/Baz, the complex might dissociate from the apical cortex. In the absence of an apical tether, aPKC activity could spread beyond the detectable apical crescent, phosphorylating cortical Lgl localized to the lateral cortex and creating a gap between apical and basal crescents.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Studies of mammalian homologues of the Par complex have identified many proteins that physically interact with Par-6&#150;aPKC to influence polarity<sup><a href="#B7">7</a></sup>. For example, mPar6 has been shown to interact with Par-3 (refs <a href="#B8">8</a>,<a href="#B9">9</a>), Pals/Sdt<sup><a href="#B10">10</a></sup> and Cdc42 (refs <a href="#B8">8</a>,<a href="#B9">9</a>). Furthermore, interaction of Par-6 with activated Cdc42 at the leading edge of astrocytes polarizes their migration in response to integrin signalling<sup><a href="#B11">11</a></sup>, as shown in the scratch wound assay. The recent report that Par-6 interacts with GSK3<img border=0 src="/__chars/beta/black/med/base/glyph.gif" align="middle" alt="beta"><sup><a href="#B12">12</a></sup> to influence cell migration (reviewed in a News and Views piece on <a href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/00000.html">page 275</a> of this issue), further supports a central role for Par-6 in organizing cell polarity. But is the interaction of Par-6, aPKC and Lgl important in establishing mammalian cell polarity? Plant <i>et al</i>. show that endogenous mLgl localizes to post-Golgi complexes, as well as to the leading edge of polarizing astroctyes. aPKC activity at the leading edge might be predicted to locally phosphorylate Lgl, thereby influencing polarization. Indeed, when Plant <i>et al</i>. microinjected astrocytes with constructs encoding a mutant of <i>Lgl</i> that lacks aPKC phosphorylation sites, they observed a significant decrease (19%) in the number of cells that could polarize in response to scratch wounding. This finding suggests that phosphorylation of Lgl is an important step, mediated by association with Par-6 and activated aPKC, that influences the acquisition of mammalian cellular polarity.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">How might Lgl activity establish polarity? Lgl has been proposed to function in epithelial polarization by regulating the delivery of vesicles to specific domains through its interaction with vesicle/membrane-associated SNARE proteins and non-muscle myosin II (called Zipper in <i>Drosophila</i>)<sup><a href="#B13">13, 
+</a></sup><sup><a href="#B14">14</a></sup>. Consistent with this role for Lgl, yeast Lgl homologues have been shown to be required for vesicular transport and secretion<sup><a href="#B15">15</a></sup>. How this function for Lgl correlates with the phosphorylation-dependent association of Lgl with the cell cortex is unclear. Previous studies of Lgl suggest that Lgl phosphorylation inhibits its interaction with myosins, which might result in dissociation of Lgl from cytoskeletal contacts<sup><a href="#B16">16</a></sup>. In this way, a specific domain could be targeted for vesicle/protein delivery by spatially restricting the cytoskeletal localization of Lgl by phosphorylation, as seems to be the case during crescent formation in the asymmetrically dividing neuroblast.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">The mechanism of cell polarization and migration in mammalian cells and the interactions critical for asymmetric segregation of fate determinants in the <i>Drosophila</i> neuroblast reveal the importance of Lgl phosphorylation in both cases. However, the extent to which phosphorylation by aPKC regulates Lgl is not yet known. Betschiger <i>et al</i>. note that although expression of a phosphorylation-defective Lgl mutant disrupts asymmetry in the neuroblast, it has little or no effect on the polarity of adjacent epithelial cells, which also require Lgl function to polarize appropriately. This suggests that Lgl may be regulated by alternative mechanisms in epithelial cells. Parallel studies in these systems, as well as in additional contexts where Lgl and aPKC are known to function, will be able to address how general the regulation of Lgl by phosphorylation is in coordinating cell polarity.</span><br xmlns=""><br xmlns=""><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Gateff, E. <i>Science</i> <b>200</b>, 1448&#150;1459 (1978).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=96525&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1978FD14000005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:CSeB3cvhslw%3D&pissn=1465-7392&pyear=2003&md5=99cea4bd8469fbf3a69a86083dc13540" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Ohshiro, T., Yagami, T., Zhang, C. &amp; Matsuzaki, F. <i>Nature</i> <b>408</b>, 593&#150;596 (2000).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35046087" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11117747&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000165548600120&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXovFWrsbs%3D&pissn=1465-7392&pyear=2003&md5=d9f9f3958dc7629e9651cec89c6e76f0" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Peng, C.Y., Manning, L., Albertson, R. &amp; Doe, C.Q. <i>Nature</i> <b>408</b>, 596&#150;600 (2000).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35046094" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11117748&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000165548600121&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXovFWqu7g%3D&pissn=1465-7392&pyear=2003&md5=0a87156ac69b43c8fe7a661e12a06309" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Betschinger, J., Mechtler, K. &amp; Knoblich, J.A. <b>422</b>, 326&#150;330 <i>Nature</i> (2003).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnature01486" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12629552&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000181637300043&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXitFKmu7w%3D&pissn=1465-7392&pyear=2003&md5=d0199d51434d4c2b858eba3b5066195c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Plant, P.J. <i>et al</i>. <i>Nature Cell Biol.</i> <b>5</b>, 301&#150;308 (2003).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fncb948" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12629547&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000182080700013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXisFWrt70%3D&pissn=1465-7392&pyear=2003&md5=8f7cead0fa61985248ff03c904291b75" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Petritsch, C., Tavosanis, G., Turck, C.W., Jan, L.Y. &amp; Jan, Y.N. <i>Dev. Cell</i> <b>4</b>, 273&#150;281 (2003).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12586070&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000180984600017&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXhsFKntrc%3D&pissn=1465-7392&pyear=2003&md5=645672df3f40277c3d2bbc45c0a9eff5" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Ohno, S. <i>Curr. Opin. Cell Biol.</i> <b>13</b>, 641&#150;648 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0955-0674%2800%2900264-7" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11544035&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170832100018&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmsFersbk%3D&pissn=1465-7392&pyear=2003&md5=f757e3d8125c8fed98d766fae36814d4" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Lin, D. <i>et al</i>. <i>Nature Cell Biol.</i> <b>2</b>, 540&#150;547 (2000).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35019582" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10934475&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000088605000020&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXlslymt7c%3D&pissn=1465-7392&pyear=2003&md5=4c945f602c8919f29e9a9ad6d6857433" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Joberty, G., Petersen, C., Gao, L. &amp; Macara, I.G. <i>Nature Cell Biol.</i> <b>2</b>, 531&#150;539 (2000).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35019573" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10934474&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000088605000019&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXlslymt7Y%3D&pissn=1465-7392&pyear=2003&md5=0e6d7648395a3026461c4166f446569d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+Hurd, T.W., Gao, L., Roh, M.H., Macara, I.G. &amp; Margolis, B. <i>Nature Cell Biol.</i> <b>5</b>, 137&#150;142 (2003).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fncb923" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12545177&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000180802100013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXot12quw%3D%3D&pissn=1465-7392&pyear=2003&md5=43e685d4f5e81ec0797392613d99ed64" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+Etienne-Manneville, S. &amp; Hall, A. <i>Cell</i> <b>106</b>, 489&#150;498 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11525734&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170665200012&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXmsFOitbc%3D&pissn=1465-7392&pyear=2003&md5=d05154a42865d2e9fe4c024f314444ea" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Etienne-Manneville, S. &amp; Hall, A. <i>Nature</i> <b>421</b>, 753&#150;756 (2003).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnature01423" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12610628&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000180938000046&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3sXhsV2rtrs%3D&pissn=1465-7392&pyear=2003&md5=a037de919d340ede40bc3df1fd837985" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Strand, D. <i>et al</i>. <i>J. Cell Biol.</i> <b>127</b>, 1361&#150;1373 (1994).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7962095&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1994PU78100015&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2cXmslOjtro%3D&pissn=1465-7392&pyear=2003&md5=de9866f811b0227651c8fa444d132aec" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+Bilder, D., Li, M. &amp; Perrimon, N. <i>Science</i> <b>289</b>, 113&#150;116 (2000).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.289.5476.113" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10884224&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000088090400044&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXlt1elt70%3D&pissn=1465-7392&pyear=2003&md5=e397f5251240d1f066be21b5b7d8cdcf" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Lehman, K., Rossi, G., Adamo, J.E. &amp; Brennwald, P. <i>J. Cell Biol.</i> <b>146</b>, 125&#150;140 (1999).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10402465&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000081509500010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXksFCjs78%3D&pissn=1465-7392&pyear=2003&md5=92edf1ef2de402b4cb250c59437748f5" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+Kalmes, A., Merdes, G., Neumann, B., Strand, D. &amp; Mechler, B.M. <i>J. Cell Sci.</i> <b>109</b>, 1359&#150;1368 (1996).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8799824&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996UU35900019&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XktVamu78%3D&pissn=1465-7392&pyear=2003&md5=64fb89fdff016313a6f9c81374c179e5" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-271.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-275.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb0403-273.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n4/fig_tab/ncb0403-273_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb0403-273.ris" target="_blank" class="breadcrumblink">Export citation</a></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb0403-273refs.ris" target="_blank" class="breadcrumblink">Export references</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '486';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/ncb/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb0403-273&type=NV&src_title=A%20lethal%20giant%20kinase%20in%20cell%20polarity&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=273-274&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_front;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_front;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="/copyright/copyright_ncb.html" onClick="window.open('/copyright/copyright_ncb.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003&nbsp;Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_front;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

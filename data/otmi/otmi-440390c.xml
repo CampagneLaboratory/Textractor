@@ -1,0 +1,251 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Chemists shrug off unseemly spotlight</title>
+      <id>info:doi/10.1038/440390c</id>
+      <link href='http://dx.doi.org/10.1038/440390c' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Emma Marris</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>390</prism:startingPage>
+      <prism:endingPage>391</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>at</otmi:vector>
+              <otmi:vector count='4'>hydrogen</otmi:vector>
+              <otmi:vector count='4'>University</otmi:vector>
+              <otmi:vector count='3'>think</otmi:vector>
+              <otmi:vector count='3'>carbon</otmi:vector>
+              <otmi:vector count='3'>says</otmi:vector>
+              <otmi:vector count='3'>published</otmi:vector>
+              <otmi:vector count='3'>lab</otmi:vector>
+              <otmi:vector count='3'>would</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>will</otmi:vector>
+              <otmi:vector count='3'>Sames</otmi:vector>
+              <otmi:vector count='3'>because</otmi:vector>
+              <otmi:vector count='3'>something</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>chemists</otmi:vector>
+              <otmi:vector count='3'>field</otmi:vector>
+              <otmi:vector count='2'>wrong</otmi:vector>
+              <otmi:vector count='2'>make</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>group</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>don&apos;t</otmi:vector>
+              <otmi:vector count='2'>atoms</otmi:vector>
+              <otmi:vector count='2'>replace</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>papers</otmi:vector>
+              <otmi:vector count='2'>say</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>exciting</otmi:vector>
+              <otmi:vector count='2'>Sezen</otmi:vector>
+              <otmi:vector count='2'>applications</otmi:vector>
+              <otmi:vector count='2'>bonds</otmi:vector>
+              <otmi:vector count='2'>functionalization</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>news</otmi:vector>
+              <otmi:vector count='2'>unlikely</otmi:vector>
+              <otmi:vector count='2'>get</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>his</otmi:vector>
+              <otmi:vector count='2'>C–H</otmi:vector>
+              <otmi:vector count='2'>New</otmi:vector>
+              <otmi:vector count='2'>Columbia</otmi:vector>
+              <otmi:vector count='2'>ten</otmi:vector>
+              <otmi:vector count='2'>molecules</otmi:vector>
+              <otmi:vector count='2'>&quot;I</otmi:vector>
+              <otmi:vector count='2'>Berkeley</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>student</otmi:vector>
+              <otmi:vector count='1'>damaged</otmi:vector>
+              <otmi:vector count='1'>third</otmi:vector>
+              <otmi:vector count='1'>dozens</otmi:vector>
+              <otmi:vector count='1'>hitting</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>carbon-bound</otmi:vector>
+              <otmi:vector count='1'>Robert</otmi:vector>
+              <otmi:vector count='1'>practical</otmi:vector>
+              <otmi:vector count='1'>launched</otmi:vector>
+              <otmi:vector count='1'>attached</otmi:vector>
+              <otmi:vector count='1'>laments</otmi:vector>
+              <otmi:vector count='1'>aims</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>replacing</otmi:vector>
+              <otmi:vector count='1'>synthetic</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>Bonds</otmi:vector>
+              <otmi:vector count='1'>postdoc</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>blunt</otmi:vector>
+              <otmi:vector count='1'>targeted</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>survey</otmi:vector>
+              <otmi:vector count='1'>hit</otmi:vector>
+              <otmi:vector count='1'>ever</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>bond</otmi:vector>
+              <otmi:vector count='1'>Sames&apos;s</otmi:vector>
+              <otmi:vector count='1'>&quot;This</otmi:vector>
+              <otmi:vector count='1'>anyone</otmi:vector>
+              <otmi:vector count='1'>reusable</otmi:vector>
+              <otmi:vector count='1'>withdraw</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>Piscataway</otmi:vector>
+              <otmi:vector count='1'>Beng</otmi:vector>
+              <otmi:vector count='1'>Jersey</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>repeat</otmi:vector>
+              <otmi:vector count='1'>co-author</otmi:vector>
+              <otmi:vector count='1'>author</otmi:vector>
+              <otmi:vector count='1'>Williams</otmi:vector>
+              <otmi:vector count='1'>reactions</otmi:vector>
+              <otmi:vector count='1'>selectivity</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>else</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>going</otmi:vector>
+              <otmi:vector count='1'>employing</otmi:vector>
+              <otmi:vector count='1'>Rutgers</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>chemical</otmi:vector>
+              <otmi:vector count='1'>York</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>organic</otmi:vector>
+              <otmi:vector count='1'>right.&quot;</otmi:vector>
+              <otmi:vector count='1'>prepared</otmi:vector>
+              <otmi:vector count='1'>asked</otmi:vector>
+              <otmi:vector count='1'>she</otmi:vector>
+              <otmi:vector count='1'>retraction</otmi:vector>
+              <otmi:vector count='1'>reproduce</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>badly</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>left</otmi:vector>
+              <otmi:vector count='1'>Travis</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>shadow</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>headache</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>Bergman</otmi:vector>
+              <otmi:vector count='1'>meanwhile</otmi:vector>
+              <otmi:vector count='1'>investigation</otmi:vector>
+              <otmi:vector count='1'>technique</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>method</otmi:vector>
+              <otmi:vector count='1'>breaking</otmi:vector>
+              <otmi:vector count='1'>industrial</otmi:vector>
+              <otmi:vector count='1'>Goldman</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>Unfortunately</otmi:vector>
+              <otmi:vector count='1'>world</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>break</otmi:vector>
+              <otmi:vector count='1'>outrageous</otmi:vector>
+              <otmi:vector count='1'>furore</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>indiscriminately</otmi:vector>
+              <otmi:vector count='1'>materials</otmi:vector>
+              <otmi:vector count='1'>art</otmi:vector>
+              <otmi:vector count='1'>Dalibor</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>decision</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>Alan</otmi:vector>
+              <otmi:vector count='1'>atom</otmi:vector>
+              <otmi:vector count='1'>lustre</otmi:vector>
+              <otmi:vector count='1'>pharmaceuticals</otmi:vector>
+              <otmi:vector count='1'>area&apos;s</otmi:vector>
+              <otmi:vector count='1'>catalytic</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>&quot;If</otmi:vector>
+              <otmi:vector count='1'>Chemist</otmi:vector>
+              <otmi:vector count='1'>delicate</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>graduate</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>California</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>catalysts</otmi:vector>
+              <otmi:vector count='1'>unwanted</otmi:vector>
+              <otmi:vector count='1'>cut</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>matter</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>raw</otmi:vector>
+              <otmi:vector count='1'>unable</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>retractions</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>phenyl</otmi:vector>
+              <otmi:vector count='1'>am</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>fuels</otmi:vector>
+              <otmi:vector count='1'>fashion</otmi:vector>
+              <otmi:vector count='1'>molecule</otmi:vector>
+              <otmi:vector count='1'>serious</otmi:vector>
+              <otmi:vector count='1'>stands</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>sanguine</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>supervision</otmi:vector>
+              <otmi:vector count='1'>attention</otmi:vector>
+              <otmi:vector count='1'>sorry</otmi:vector>
+              <otmi:vector count='1'>commercial</otmi:vector>
+              <otmi:vector count='1'>dim</otmi:vector>
+              <otmi:vector count='1'>&quot;There</otmi:vector>
+              <otmi:vector count='1'>ubiquitous</otmi:vector>
+              <otmi:vector count='1'>cast</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>hundreds</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>But the furore seems unlikely to dim the area&apos;s lustre</otmi:snippet>
+              <otmi:snippet>Chemist Robert Bergman at the University of California, Berkeley, is sanguine about the technique breaking out of the lab. &quot;If you asked people ten years ago whether anyone would ever come up with a catalytic method to do this, they would have said no</otmi:snippet>
+              <otmi:snippet>Columbia University, meanwhile, has launched an investigation into the matter</otmi:snippet>
+              <otmi:snippet>C–H functionalization — the art of replacing carbon-bound hydrogen atoms in organic molecules with something more interesting — is unlikely to be badly damaged. &quot;There are dozens, even hundreds, of exciting papers published every year,&quot; says Alan Goldman of Rutgers University in Piscataway, New Jersey, author of a recent survey of the field. &quot;I don&apos;t think the retractions will cast any shadow.&quot; Bonds between carbon and hydrogen atoms are ubiquitous in the raw materials from which synthetic chemists make new molecules</otmi:snippet>
+              <otmi:snippet>I don&apos;t think it is outrageous to say that in five or ten years there will be commercial applications.&quot; &quot;This should have hit the news because it was right and exciting, instead of hitting the news because it was wrong,&quot; laments Travis Williams, a postdoc in the field at Berkeley. &quot;I am sorry that the world is going to think that chemists get it wrong, because, almost always, chemists get it right.&quot;</otmi:snippet>
+              <otmi:snippet>Most techniques will indiscriminately break all such bonds in any given molecule</otmi:snippet>
+              <otmi:snippet>Sames says in his retraction that his group at Columbia University in New York has been unable to reproduce the published results since graduate student and co-author Bengü Sezen left the lab</otmi:snippet>
+              <otmi:snippet>Sezen stands by the results and says that she is prepared to repeat the work under Sames&apos;s supervision</otmi:snippet>
+              <otmi:snippet>Such selectivity would have practical applications in industrial processes to make pharmaceuticals or fuels</otmi:snippet>
+              <otmi:snippet>The decision by Dalibor Sames to withdraw two published papers and part of a third has drawn unwanted attention to the chemical field of C–H functionalization</otmi:snippet>
+              <otmi:snippet>The work at the Sames lab and elsewhere aims to replace this blunt approach with something more delicate: employing reusable catalysts to fashion reactions targeted at specific bonds</otmi:snippet>
+              <otmi:snippet>Unfortunately, it is a serious headache to cut the strong bond between a particular hydrogen atom and the carbon to which it is attached and replace that hydrogen with something else: another carbon, say, or a phenyl group</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1021/ja045402b</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja050269o</otmi:refid>
+          <otmi:refid>info:doi/10.1021/ja042510p</otmi:refid>
+          <otmi:refsnoid>1</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

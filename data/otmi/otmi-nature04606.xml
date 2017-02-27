@@ -1,0 +1,1061 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>CD69 acts downstream of interferon-α/β to inhibit S1P 1 and lymphocyte egress from lymphoid organs</title>
+      <id>info:doi/10.1038/nature04606</id>
+      <link href='http://dx.doi.org/10.1038/nature04606' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Lawrence R. Shiow</name>
+      </author>
+      <author>
+        <name>David B. Rosen</name>
+      </author>
+      <author>
+        <name>Nadezda Brdickov´</name>
+      </author>
+      <author>
+        <name>Ying Xu</name>
+      </author>
+      <author>
+        <name>Jinping An</name>
+      </author>
+      <author>
+        <name>Lewis L. Lanier</name>
+      </author>
+      <author>
+        <name>Jason G. Cyster</name>
+      </author>
+      <author>
+        <name>Mehrdad Matloubian</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>540</prism:startingPage>
+      <prism:endingPage>544</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Naive lymphocytes continually enter and exit lymphoid organs in a recirculation process that is essential for immune surveillance. During immune responses, the egress process can be shut down transiently . When this occurs locally it increases lymphocyte numbers in the responding lymphoid organ; when it occurs systemically it can lead to immunosuppression as a result of the depletion of recirculating lymphocytes. Several mediators of the innate immune system are known to cause shutdown, including interferon α/β (IFN-α/β) and tumour necrosis factor , but the mechanism has been unclear. Here we show that treatment with the IFN-α/β inducer polyinosine polycytidylic acid (hereafter ‘poly(I:C)’) inhibited egress by a mechanism that was partly lymphocyte-intrinsic. The transmembrane C-type lectin CD69 was rapidly induced and CD69 -/- cells were poorly retained in lymphoid tissues after treatment with poly(I:C) or infection with lymphocytic choriomeningitis virus. Lymphocyte egress requires sphingosine 1-phosphate receptor-1 (S1P 1 ), and IFN-α/β was found to inhibit lymphocyte responsiveness to S1P. By contrast, CD69 -/- cells retained S1P 1 function after exposure to IFN-α/β. In coexpression experiments, CD69 inhibited S1P 1 chemotactic function and led to downmodulation of S1P 1 . In a reporter assay, S1P 1 crosslinking led to co-crosslinking and activation of a CD69–CD3ζ chimaera. CD69 co-immunoprecipitated with S1P 1 but not the related receptor, S1P 3 . These observations indicate that CD69 forms a complex with and negatively regulates S1P 1 and that it functions downstream of IFN-α/β, and possibly other activating stimuli, to promote lymphocyte retention in lymphoid organs.</otmi:rawtext>
+            <otmi:reducedtext>Naive lymphocytes continually enter exit lymphoid organs recirculation process essential immune surveillance. During immune responses, egress process can shut down transiently . When occurs locally increases lymphocyte numbers responding lymphoid organ; when occurs systemically can lead immunosuppression result depletion recirculating lymphocytes. Several mediators innate immune system known cause shutdown, including interferon α/β (IFN-α/β) tumour necrosis factor , but mechanism has been unclear. Here show treatment IFN-α/β inducer polyinosine polycytidylic acid (hereafter ‘poly(I:C)’) inhibited egress mechanism partly lymphocyte-intrinsic. transmembrane C-type lectin CD69 rapidly induced CD69 -/- cells poorly retained lymphoid tissues after treatment poly(I:C) infection lymphocytic choriomeningitis virus. Lymphocyte egress requires sphingosine 1-phosphate receptor-1 (S1P 1 ), IFN-α/β found inhibit lymphocyte responsiveness S1P. contrast, CD69 -/- cells retained S1P 1 function after exposure IFN-α/β. coexpression experiments, CD69 inhibited S1P 1 chemotactic function led downmodulation S1P 1 . reporter assay, S1P 1 crosslinking led co-crosslinking activation CD69–CD3ζ chimaera. CD69 co-immunoprecipitated S1P 1 but not related receptor, S1P 3 . These observations indicate CD69 forms complex negatively regulates S1P 1 functions downstream IFN-α/β, possibly other activating stimuli, promote lymphocyte retention lymphoid organs.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='9'>S1P</otmi:vector>
+              <otmi:vector count='7'>1</otmi:vector>
+              <otmi:vector count='6'>CD69</otmi:vector>
+              <otmi:vector count='5'>IFN</otmi:vector>
+              <otmi:vector count='4'>lymphoid</otmi:vector>
+              <otmi:vector count='3'>immune</otmi:vector>
+              <otmi:vector count='3'>lymphocyte</otmi:vector>
+              <otmi:vector count='3'>egress</otmi:vector>
+              <otmi:vector count='2'>function</otmi:vector>
+              <otmi:vector count='2'>retained</otmi:vector>
+              <otmi:vector count='2'>treatment</otmi:vector>
+              <otmi:vector count='2'>led</otmi:vector>
+              <otmi:vector count='2'>lymphocytes</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>occurs</otmi:vector>
+              <otmi:vector count='2'>inhibited</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>cells</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>poly(I:C</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>regulates</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>necrosis</otmi:vector>
+              <otmi:vector count='1'>acid</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>recirculating</otmi:vector>
+              <otmi:vector count='1'>continually</otmi:vector>
+              <otmi:vector count='1'>locally</otmi:vector>
+              <otmi:vector count='1'>co-immunoprecipitated</otmi:vector>
+              <otmi:vector count='1'>chimaera</otmi:vector>
+              <otmi:vector count='1'>chemotactic</otmi:vector>
+              <otmi:vector count='1'>organs</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>shut</otmi:vector>
+              <otmi:vector count='1'>activation</otmi:vector>
+              <otmi:vector count='1'>Several</otmi:vector>
+              <otmi:vector count='1'>responsiveness</otmi:vector>
+              <otmi:vector count='1'>inducer</otmi:vector>
+              <otmi:vector count='1'>innate</otmi:vector>
+              <otmi:vector count='1'>interferon</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>responses</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>sphingosine</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>1-phosphate</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>depletion</otmi:vector>
+              <otmi:vector count='1'>organ</otmi:vector>
+              <otmi:vector count='1'>Naive</otmi:vector>
+              <otmi:vector count='1'>polycytidylic</otmi:vector>
+              <otmi:vector count='1'>downmodulation</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>lymphocytic</otmi:vector>
+              <otmi:vector count='1'>hereafter</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>organs.</otmi:vector>
+              <otmi:vector count='1'>shutdown</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>Lymphocyte</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>immunosuppression</otmi:vector>
+              <otmi:vector count='1'>negatively</otmi:vector>
+              <otmi:vector count='1'>virus</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>tumour</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>inhibit</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>systemically</otmi:vector>
+              <otmi:vector count='1'>promote</otmi:vector>
+              <otmi:vector count='1'>lymphocyte-intrinsic</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>infection</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>retention</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>activating</otmi:vector>
+              <otmi:vector count='1'>recirculation</otmi:vector>
+              <otmi:vector count='1'>exposure</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>mediators</otmi:vector>
+              <otmi:vector count='1'>polyinosine</otmi:vector>
+              <otmi:vector count='1'>stimuli</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>reporter</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>possibly</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>coexpression</otmi:vector>
+              <otmi:vector count='1'>transmembrane</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>co-crosslinking</otmi:vector>
+              <otmi:vector count='1'>lectin</otmi:vector>
+              <otmi:vector count='1'>transiently</otmi:vector>
+              <otmi:vector count='1'>tissues</otmi:vector>
+              <otmi:vector count='1'>downstream</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>choriomeningitis</otmi:vector>
+              <otmi:vector count='1'>receptor-1</otmi:vector>
+              <otmi:vector count='1'>exit</otmi:vector>
+              <otmi:vector count='1'>surveillance</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>crosslinking</otmi:vector>
+              <otmi:vector count='1'>responding</otmi:vector>
+              <otmi:vector count='1'>induced</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>CD69–CD3</otmi:vector>
+              <otmi:vector count='1'>C-type</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>By contrast, CD69 -/- cells retained S1P 1 function after exposure to IFN-α/β</otmi:snippet>
+              <otmi:snippet>CD69 co-immunoprecipitated with S1P 1 but not the related receptor, S1P 3 </otmi:snippet>
+              <otmi:snippet>During immune responses, the egress process can be shut down transiently </otmi:snippet>
+              <otmi:snippet>Here we show that treatment with the IFN-α/β inducer polyinosine polycytidylic acid (hereafter ‘poly(I:C)’) inhibited egress by a mechanism that was partly lymphocyte-intrinsic</otmi:snippet>
+              <otmi:snippet>In a reporter assay, S1P 1 crosslinking led to co-crosslinking and activation of a CD69–CD3ζ chimaera</otmi:snippet>
+              <otmi:snippet>In coexpression experiments, CD69 inhibited S1P 1 chemotactic function and led to downmodulation of S1P 1 </otmi:snippet>
+              <otmi:snippet>Lymphocyte egress requires sphingosine 1-phosphate receptor-1 (S1P 1 ), and IFN-α/β was found to inhibit lymphocyte responsiveness to S1P</otmi:snippet>
+              <otmi:snippet>Naive lymphocytes continually enter and exit lymphoid organs in a recirculation process that is essential for immune surveillance</otmi:snippet>
+              <otmi:snippet>Several mediators of the innate immune system are known to cause shutdown, including interferon α/β (IFN-α/β) and tumour necrosis factor , but the mechanism has been unclear</otmi:snippet>
+              <otmi:snippet>The transmembrane C-type lectin CD69 was rapidly induced and CD69 -/- cells were poorly retained in lymphoid tissues after treatment with poly(I:C) or infection with lymphocytic choriomeningitis virus</otmi:snippet>
+              <otmi:snippet>These observations indicate that CD69 forms a complex with and negatively regulates S1P 1 and that it functions downstream of IFN-α/β, and possibly other activating stimuli, to promote lymphocyte retention in lymphoid organs.</otmi:snippet>
+              <otmi:snippet>When this occurs locally it increases lymphocyte numbers in the responding lymphoid organ; when it occurs systemically it can lead to immunosuppression as a result of the depletion of recirculating lymphocytes</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='7'>cells</otmi:vector>
+              <otmi:vector count='7'>mM</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='6'>mice</otmi:vector>
+              <otmi:vector count='5'>described</otmi:vector>
+              <otmi:vector count='4'>Methods</otmi:vector>
+              <otmi:vector count='4'>h</otmi:vector>
+              <otmi:vector count='4'>6</otmi:vector>
+              <otmi:vector count='4'>previously</otmi:vector>
+              <otmi:vector count='3'>adoptive</otmi:vector>
+              <otmi:vector count='3'>injected</otmi:vector>
+              <otmi:vector count='3'>containing</otmi:vector>
+              <otmi:vector count='3'>poly(I:C</otmi:vector>
+              <otmi:vector count='3'>Supplementary</otmi:vector>
+              <otmi:vector count='3'>10</otmi:vector>
+              <otmi:vector count='3'>intravenously</otmi:vector>
+              <otmi:vector count='2'>cell</otmi:vector>
+              <otmi:vector count='2'>generations</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>B6</otmi:vector>
+              <otmi:vector count='2'>100</otmi:vector>
+              <otmi:vector count='2'>PCR</otmi:vector>
+              <otmi:vector count='2'>CD69</otmi:vector>
+              <otmi:vector count='2'>retroviral</otmi:vector>
+              <otmi:vector count='2'>transfers</otmi:vector>
+              <otmi:vector count='2'>Tris-HCl</otmi:vector>
+              <otmi:vector count='2'>S1P</otmi:vector>
+              <otmi:vector count='2'>Molecular</otmi:vector>
+              <otmi:vector count='2'>M</otmi:vector>
+              <otmi:vector count='2'>Sigma</otmi:vector>
+              <otmi:vector count='2'>Probes</otmi:vector>
+              <otmi:vector count='2'>transduction</otmi:vector>
+              <otmi:vector count='2'>WEHI231</otmi:vector>
+              <otmi:vector count='2'>Immunoprecipitation</otmi:vector>
+              <otmi:vector count='2'>pH</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>lysed</otmi:vector>
+              <otmi:vector count='2'>NaCl</otmi:vector>
+              <otmi:vector count='2'>procedures</otmi:vector>
+              <otmi:vector count='1'>protease</otmi:vector>
+              <otmi:vector count='1'>backcrossed</otmi:vector>
+              <otmi:vector count='1'>n-dodecyl</otmi:vector>
+              <otmi:vector count='1'>transduced</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>unless</otmi:vector>
+              <otmi:vector count='1'>t</otmi:vector>
+              <otmi:vector count='1'>purification</otmi:vector>
+              <otmi:vector count='1'>C305</otmi:vector>
+              <otmi:vector count='1'>TCR</otmi:vector>
+              <otmi:vector count='1'>wild-type</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>NaF</otmi:vector>
+              <otmi:vector count='1'>CFSE</otmi:vector>
+              <otmi:vector count='1'>Lymph</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>fivefold</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>ester</otmi:vector>
+              <otmi:vector count='1'>transcript</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>National</otmi:vector>
+              <otmi:vector count='1'>7.4</otmi:vector>
+              <otmi:vector count='1'>T</otmi:vector>
+              <otmi:vector count='1'>preparations</otmi:vector>
+              <otmi:vector count='1'>saline</otmi:vector>
+              <otmi:vector count='1'>36–40</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>transwell</otmi:vector>
+              <otmi:vector count='1'>Pefabloc</otmi:vector>
+              <otmi:vector count='1'>EDTA</otmi:vector>
+              <otmi:vector count='1'>7.5</otmi:vector>
+              <otmi:vector count='1'>ascites</otmi:vector>
+              <otmi:vector count='1'>strain</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>Treatment</otmi:vector>
+              <otmi:vector count='1'>V</otmi:vector>
+              <otmi:vector count='1'>NaN</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>treatments</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>six</otmi:vector>
+              <otmi:vector count='1'>150</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>together</otmi:vector>
+              <otmi:vector count='1'>lymphocytes</otmi:vector>
+              <otmi:vector count='1'>97</otmi:vector>
+              <otmi:vector count='1'>CMTMR</otmi:vector>
+              <otmi:vector count='1'>thymocytes</otmi:vector>
+              <otmi:vector count='1'>cytometry</otmi:vector>
+              <otmi:vector count='1'>plaque-forming</otmi:vector>
+              <otmi:vector count='1'>diluted</otmi:vector>
+              <otmi:vector count='1'>Nonidet</otmi:vector>
+              <otmi:vector count='1'>Mice</otmi:vector>
+              <otmi:vector count='1'>equivalent</otmi:vector>
+              <otmi:vector count='1'>C57BL</otmi:vector>
+              <otmi:vector count='1'>1:1,000</otmi:vector>
+              <otmi:vector count='1'>succinimidyl</otmi:vector>
+              <otmi:vector count='1'>Student&apos;s</otmi:vector>
+              <otmi:vector count='1'>otherwise</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>diacetate</otmi:vector>
+              <otmi:vector count='1'>0.875</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>MSCV2.2</otmi:vector>
+              <otmi:vector count='1'>Details</otmi:vector>
+              <otmi:vector count='1'>NFAT-GFP</otmi:vector>
+              <otmi:vector count='1'>Calbiochem</otmi:vector>
+              <otmi:vector count='1'>labelled</otmi:vector>
+              <otmi:vector count='1'>2B4</otmi:vector>
+              <otmi:vector count='1'>paired</otmi:vector>
+              <otmi:vector count='1'>antibody</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>stimulated</otmi:vector>
+              <otmi:vector count='1'>Ifnar1</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>infection</otmi:vector>
+              <otmi:vector count='1'>two-tailed</otmi:vector>
+              <otmi:vector count='1'>0.02</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>Statistical</otmi:vector>
+              <otmi:vector count='1'>co-transduced</otmi:vector>
+              <otmi:vector count='1'>5-(and-6)-(((4-chloromethyl)benzoyl)amino)tetramethylrhodamine</otmi:vector>
+              <otmi:vector count='1'>buffer</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>Transfected</otmi:vector>
+              <otmi:vector count='1'>Armstrong</otmi:vector>
+              <otmi:vector count='1'>Brij</otmi:vector>
+              <otmi:vector count='1'>reporter</otmi:vector>
+              <otmi:vector count='1'>Quantitative</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>d</otmi:vector>
+              <otmi:vector count='1'>Transduced</otmi:vector>
+              <otmi:vector count='1'>collection</otmi:vector>
+              <otmi:vector count='1'>units</otmi:vector>
+              <otmi:vector count='1'>migration</otmi:vector>
+              <otmi:vector count='1'>spleen</otmi:vector>
+              <otmi:vector count='1'>node</otmi:vector>
+              <otmi:vector count='1'>inhibitors</otmi:vector>
+              <otmi:vector count='1'>0.125</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>Cancer</otmi:vector>
+              <otmi:vector count='1'>CD45.1</otmi:vector>
+              <otmi:vector count='1'>Flow</otmi:vector>
+              <otmi:vector count='1'>Institute</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>B</otmi:vector>
+              <otmi:vector count='1'>Procedures</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>maltoside</otmi:vector>
+              <otmi:vector count='1'>P40</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>obtained</otmi:vector>
+              <otmi:vector count='1'>g</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>B6-CD45.1</otmi:vector>
+              <otmi:vector count='1'>assays</otmi:vector>
+              <otmi:vector count='1'>anti-Jurkat</otmi:vector>
+              <otmi:vector count='1'>Jurkat</otmi:vector>
+              <otmi:vector count='1'>lymph</otmi:vector>
+              <otmi:vector count='1'>Constructs</otmi:vector>
+              <otmi:vector count='1'>recipients</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>Reporter</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>5-(and6-)-carboxyfluorescein</otmi:vector>
+              <otmi:vector count='1'>LCMV</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>After 36–40 h, mice were injected intravenously with 100 µg of poly(I:C) ( Sigma ) or an equivalent volume of saline</otmi:snippet>
+              <otmi:snippet>Constructs and retroviral transduction Details on MSCV2.2 retroviral constructs and transduction procedures are provided in Supplementary Methods </otmi:snippet>
+              <otmi:snippet>Flow cytometry, transwell migration assays, cell purification and quantitative PCR Procedures were similar to those described previously and are detailed in Supplementary Methods </otmi:snippet>
+              <otmi:snippet>For adoptive transfers, spleen and lymph node cells were labelled with either 1 µM 5-(and-6)-(((4-chloromethyl)benzoyl)amino)tetramethylrhodamine ( CMTMR ; Molecular Probes ) or 1 µM 5-(and6-)-carboxyfluorescein diacetate succinimidyl ester ( CFSE ; Molecular Probes ) and mixed together or with wild-type control CD45.1 lymphocytes and injected intravenously into recipients</otmi:snippet>
+              <otmi:snippet>For infection with LCMV, 2 × 10 6 plaque-forming units of Armstrong strain were injected intravenously 24 h after adoptive transfer</otmi:snippet>
+              <otmi:snippet>Ifnar1 -/- mice were ten generations and CD69 -/- mice six generations backcrossed to B6 mice</otmi:snippet>
+              <otmi:snippet>Immunoprecipitation Transduced WEHI231 cells were lysed in 0.875% Brij 97, 0.125% Nonidet P40, 150 mM NaCl, 10 mM Tris-HCl pH 7.4, 0.02% NaN 3 buffer containing protease inhibitors ( Sigma )</otmi:snippet>
+              <otmi:snippet>Immunoprecipitation was by standard procedures as described in Supplementary Methods .</otmi:snippet>
+              <otmi:snippet>Lymph collection was as described previously </otmi:snippet>
+              <otmi:snippet>Methods Mice, adoptive transfers and treatments C57BL/6 (B6) and B6-CD45.1 mice were obtained from the National Cancer Institute </otmi:snippet>
+              <otmi:snippet>Quantitative PCR analysis of total S1P 1 and CD69 transcript abundance in two preparations of co-transduced WEHI231 cells showed they were within fivefold of the levels in T cells isolated from mice 6 h after treatment with poly(I:C)</otmi:snippet>
+              <otmi:snippet>Reporter cell assay 2B4 cells containing an NFAT-GFP reporter were transduced and analysed as described previously </otmi:snippet>
+              <otmi:snippet>S1P 1 -/- thymocytes and B cells were generated as described previously </otmi:snippet>
+              <otmi:snippet>Statistical analysis was with a paired two-tailed Student&apos;s t -test</otmi:snippet>
+              <otmi:snippet>Transfected Jurkat cells were stimulated or not with anti-Jurkat TCR Vβ antibody C305 (ascites diluted 1:1,000) and lysed with 1% n-dodecyl-β- d -maltoside ( Calbiochem ) in 20 mM Tris-HCl pH 7.5 containing 100 mM NaCl, 10 mM EDTA, 50 mM NaF and 1 mM Pefabloc</otmi:snippet>
+              <otmi:snippet>Treatment with poly(I:C) was for 6 h unless otherwise indicated</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='59'>CD69</otmi:vector>
+              <otmi:vector count='48'>cells</otmi:vector>
+              <otmi:vector count='47'>1</otmi:vector>
+              <otmi:vector count='45'>S1P</otmi:vector>
+              <otmi:vector count='44'>Fig</otmi:vector>
+              <otmi:vector count='18'>surface</otmi:vector>
+              <otmi:vector count='16'>T</otmi:vector>
+              <otmi:vector count='15'>Flag-S1P</otmi:vector>
+              <otmi:vector count='13'>GFP</otmi:vector>
+              <otmi:vector count='11'>after</otmi:vector>
+              <otmi:vector count='11'>wild-type</otmi:vector>
+              <otmi:vector count='10'>lymphocytes</otmi:vector>
+              <otmi:vector count='9'>treatment</otmi:vector>
+              <otmi:vector count='9'>lymphocyte</otmi:vector>
+              <otmi:vector count='9'>Supplementary</otmi:vector>
+              <otmi:vector count='9'>B</otmi:vector>
+              <otmi:vector count='8'>expression</otmi:vector>
+              <otmi:vector count='8'>poly(I:C</otmi:vector>
+              <otmi:vector count='8'>human</otmi:vector>
+              <otmi:vector count='7'>receptor</otmi:vector>
+              <otmi:vector count='7'>cell</otmi:vector>
+              <otmi:vector count='7'>IFN</otmi:vector>
+              <otmi:vector count='7'>egress</otmi:vector>
+              <otmi:vector count='7'>these</otmi:vector>
+              <otmi:vector count='7'>effect</otmi:vector>
+              <otmi:vector count='7'>responsiveness</otmi:vector>
+              <otmi:vector count='6'>observed</otmi:vector>
+              <otmi:vector count='6'>molecules</otmi:vector>
+              <otmi:vector count='6'>lymph</otmi:vector>
+              <otmi:vector count='6'>expressed</otmi:vector>
+              <otmi:vector count='6'>amounts</otmi:vector>
+              <otmi:vector count='6'>might</otmi:vector>
+              <otmi:vector count='6'>activation</otmi:vector>
+              <otmi:vector count='6'>expressing</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='6'>These</otmi:vector>
+              <otmi:vector count='6'>downmodulation</otmi:vector>
+              <otmi:vector count='6'>transduced</otmi:vector>
+              <otmi:vector count='6'>also</otmi:vector>
+              <otmi:vector count='5'>4a</otmi:vector>
+              <otmi:vector count='5'>3</otmi:vector>
+              <otmi:vector count='5'>mice</otmi:vector>
+              <otmi:vector count='5'>findings</otmi:vector>
+              <otmi:vector count='5'>mouse</otmi:vector>
+              <otmi:vector count='5'>showed</otmi:vector>
+              <otmi:vector count='5'>response</otmi:vector>
+              <otmi:vector count='5'>protein</otmi:vector>
+              <otmi:vector count='5'>found</otmi:vector>
+              <otmi:vector count='5'>whether</otmi:vector>
+              <otmi:vector count='5'>when</otmi:vector>
+              <otmi:vector count='5'>IFNAR1</otmi:vector>
+              <otmi:vector count='5'>indicate</otmi:vector>
+              <otmi:vector count='5'>analysis</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='5'>CD69–CD3</otmi:vector>
+              <otmi:vector count='5'>co-transduced</otmi:vector>
+              <otmi:vector count='5'>into</otmi:vector>
+              <otmi:vector count='5'>has</otmi:vector>
+              <otmi:vector count='4'>induction</otmi:vector>
+              <otmi:vector count='4'>only</otmi:vector>
+              <otmi:vector count='4'>low</otmi:vector>
+              <otmi:vector count='4'>3e</otmi:vector>
+              <otmi:vector count='4'>G</otmi:vector>
+              <otmi:vector count='4'>blood</otmi:vector>
+              <otmi:vector count='4'>mRNA</otmi:vector>
+              <otmi:vector count='4'>effects</otmi:vector>
+              <otmi:vector count='4'>h</otmi:vector>
+              <otmi:vector count='4'>evidence</otmi:vector>
+              <otmi:vector count='4'>domain</otmi:vector>
+              <otmi:vector count='4'>further</otmi:vector>
+              <otmi:vector count='4'>cause</otmi:vector>
+              <otmi:vector count='4'>3a</otmi:vector>
+              <otmi:vector count='4'>numbers</otmi:vector>
+              <otmi:vector count='4'>factor</otmi:vector>
+              <otmi:vector count='4'>stimuli</otmi:vector>
+              <otmi:vector count='4'>coexpressed</otmi:vector>
+              <otmi:vector count='4'>observations</otmi:vector>
+              <otmi:vector count='4'>sequestration</otmi:vector>
+              <otmi:vector count='3'>there</otmi:vector>
+              <otmi:vector count='3'>4b</otmi:vector>
+              <otmi:vector count='3'>decreased</otmi:vector>
+              <otmi:vector count='3'>test</otmi:vector>
+              <otmi:vector count='3'>function</otmi:vector>
+              <otmi:vector count='3'>anti-Flag</otmi:vector>
+              <otmi:vector count='3'>addition</otmi:vector>
+              <otmi:vector count='3'>required</otmi:vector>
+              <otmi:vector count='3'>partly</otmi:vector>
+              <otmi:vector count='3'>altered</otmi:vector>
+              <otmi:vector count='3'>b</otmi:vector>
+              <otmi:vector count='3'>i</otmi:vector>
+              <otmi:vector count='3'>led</otmi:vector>
+              <otmi:vector count='3'>deficient</otmi:vector>
+              <otmi:vector count='3'>may</otmi:vector>
+              <otmi:vector count='3'>did</otmi:vector>
+              <otmi:vector count='3'>B-cell</otmi:vector>
+              <otmi:vector count='3'>inhibited</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>same</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='3'>transmembrane</otmi:vector>
+              <otmi:vector count='3'>contrast</otmi:vector>
+              <otmi:vector count='3'>indicating</otmi:vector>
+              <otmi:vector count='3'>than</otmi:vector>
+              <otmi:vector count='3'>levels</otmi:vector>
+              <otmi:vector count='3'>alone</otmi:vector>
+              <otmi:vector count='3'>signalling</otmi:vector>
+              <otmi:vector count='3'>hCD4</otmi:vector>
+              <otmi:vector count='3'>lymphoid</otmi:vector>
+              <otmi:vector count='3'>Ifnar1</otmi:vector>
+              <otmi:vector count='3'>cytoplasmic</otmi:vector>
+              <otmi:vector count='3'>Similarly</otmi:vector>
+              <otmi:vector count='3'>complex</otmi:vector>
+              <otmi:vector count='3'>retained</otmi:vector>
+              <otmi:vector count='3'>due</otmi:vector>
+              <otmi:vector count='3'>6</otmi:vector>
+              <otmi:vector count='3'>because</otmi:vector>
+              <otmi:vector count='3'>occurred</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>induced</otmi:vector>
+              <otmi:vector count='3'>2a</otmi:vector>
+              <otmi:vector count='3'>association</otmi:vector>
+              <otmi:vector count='3'>abundance</otmi:vector>
+              <otmi:vector count='3'>Flag-tagged</otmi:vector>
+              <otmi:vector count='3'>CD23</otmi:vector>
+              <otmi:vector count='3'>antibody</otmi:vector>
+              <otmi:vector count='3'>activated</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>Although</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>promote</otmi:vector>
+              <otmi:vector count='2'>1e</otmi:vector>
+              <otmi:vector count='2'>1c</otmi:vector>
+              <otmi:vector count='2'>1b</otmi:vector>
+              <otmi:vector count='2'>transgenic</otmi:vector>
+              <otmi:vector count='2'>3c</otmi:vector>
+              <otmi:vector count='2'>decrease</otmi:vector>
+              <otmi:vector count='2'>1f</otmi:vector>
+              <otmi:vector count='2'>inhibition</otmi:vector>
+              <otmi:vector count='2'>construct</otmi:vector>
+              <otmi:vector count='2'>WEHI-231</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>inhibit</otmi:vector>
+              <otmi:vector count='2'>retrovirus</otmi:vector>
+              <otmi:vector count='2'>ectodomain</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>cytometric</otmi:vector>
+              <otmi:vector count='2'>single-positive</otmi:vector>
+              <otmi:vector count='2'>co-immunoprecipitate</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>lysates</otmi:vector>
+              <otmi:vector count='2'>epitope-tagged</otmi:vector>
+              <otmi:vector count='2'>GPCR</otmi:vector>
+              <otmi:vector count='2'>inhibitory</otmi:vector>
+              <otmi:vector count='2'>LCMV</otmi:vector>
+              <otmi:vector count='2'>needed</otmi:vector>
+              <otmi:vector count='2'>detectable</otmi:vector>
+              <otmi:vector count='2'>animals</otmi:vector>
+              <otmi:vector count='2'>lymphocyte-intrinsic</otmi:vector>
+              <otmi:vector count='2'>When</otmi:vector>
+              <otmi:vector count='2'>sites</otmi:vector>
+              <otmi:vector count='2'>C-type</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='2'>another</otmi:vector>
+              <otmi:vector count='2'>toxin</otmi:vector>
+              <otmi:vector count='2'>lacked</otmi:vector>
+              <otmi:vector count='2'>together</otmi:vector>
+              <otmi:vector count='2'>infection</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>reporter</otmi:vector>
+              <otmi:vector count='2'>introduced</otmi:vector>
+              <otmi:vector count='2'>whereas</otmi:vector>
+              <otmi:vector count='2'>lectin</otmi:vector>
+              <otmi:vector count='2'>transferred</otmi:vector>
+              <otmi:vector count='2'>chemotaxis</otmi:vector>
+              <otmi:vector count='2'>involved</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>WEHI231</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>amount</otmi:vector>
+              <otmi:vector count='2'>assays</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>prepared</otmi:vector>
+              <otmi:vector count='2'>PCR</otmi:vector>
+              <otmi:vector count='2'>cross-linking</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>marker</otmi:vector>
+              <otmi:vector count='2'>largely</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>overexpression</otmi:vector>
+              <otmi:vector count='2'>expected</otmi:vector>
+              <otmi:vector count='2'>negative</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>antibodies</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>downmodulated</otmi:vector>
+              <otmi:vector count='2'>vitro</otmi:vector>
+              <otmi:vector count='2'>poly(I:C)-treated</otmi:vector>
+              <otmi:vector count='2'>glycosylation</otmi:vector>
+              <otmi:vector count='2'>CD3</otmi:vector>
+              <otmi:vector count='2'>studies</otmi:vector>
+              <otmi:vector count='2'>naive</otmi:vector>
+              <otmi:vector count='2'>lymphoma</otmi:vector>
+              <otmi:vector count='2'>pertussis</otmi:vector>
+              <otmi:vector count='2'>loss</otmi:vector>
+              <otmi:vector count='2'>mediated</otmi:vector>
+              <otmi:vector count='2'>less</otmi:vector>
+              <otmi:vector count='2'>chemotactic</otmi:vector>
+              <otmi:vector count='2'>downregulated</otmi:vector>
+              <otmi:vector count='2'>2b</otmi:vector>
+              <otmi:vector count='2'>small</otmi:vector>
+              <otmi:vector count='2'>greater</otmi:vector>
+              <otmi:vector count='2'>approach</otmi:vector>
+              <otmi:vector count='2'>3d</otmi:vector>
+              <otmi:vector count='2'>3b</otmi:vector>
+              <otmi:vector count='2'>2c</otmi:vector>
+              <otmi:vector count='2'>2d</otmi:vector>
+              <otmi:vector count='2'>express</otmi:vector>
+              <otmi:vector count='2'>increased</otmi:vector>
+              <otmi:vector count='1'>Jurkat</otmi:vector>
+              <otmi:vector count='1'>S1P-poor</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>library</otmi:vector>
+              <otmi:vector count='1'>FTY720-phosphate</otmi:vector>
+              <otmi:vector count='1'>characterize</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>co-crosslinking</otmi:vector>
+              <otmi:vector count='1'>involvement</otmi:vector>
+              <otmi:vector count='1'>plotted</otmi:vector>
+              <otmi:vector count='1'>Agonist-induced</otmi:vector>
+              <otmi:vector count='1'>IFNAR1-mediated</otmi:vector>
+              <otmi:vector count='1'>mediate</otmi:vector>
+              <otmi:vector count='1'>recovery</otmi:vector>
+              <otmi:vector count='1'>Consistent</otmi:vector>
+              <otmi:vector count='1'>downregulation</otmi:vector>
+              <otmi:vector count='1'>staining</otmi:vector>
+              <otmi:vector count='1'>highest</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>3f</otmi:vector>
+              <otmi:vector count='1'>co-precipitated</otmi:vector>
+              <otmi:vector count='1'>marked</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>3g</otmi:vector>
+              <otmi:vector count='1'>tumour</otmi:vector>
+              <otmi:vector count='1'>Activating</otmi:vector>
+              <otmi:vector count='1'>western</otmi:vector>
+              <otmi:vector count='1'>augmentation</otmi:vector>
+              <otmi:vector count='1'>blot</otmi:vector>
+              <otmi:vector count='1'>proportional</otmi:vector>
+              <otmi:vector count='1'>anti-tumour</otmi:vector>
+              <otmi:vector count='1'>NFAT)-GFP</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>speculate</otmi:vector>
+              <otmi:vector count='1'>entered</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>retroviral</otmi:vector>
+              <otmi:vector count='1'>ask</otmi:vector>
+              <otmi:vector count='1'>efficient</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>coupling</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>anti-T</otmi:vector>
+              <otmi:vector count='1'>Co-transduction</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>excluding</otmi:vector>
+              <otmi:vector count='1'>readily</otmi:vector>
+              <otmi:vector count='1'>treating</otmi:vector>
+              <otmi:vector count='1'>relevance</otmi:vector>
+              <otmi:vector count='1'>splenocyte</otmi:vector>
+              <otmi:vector count='1'>inducer</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>modulation</otmi:vector>
+              <otmi:vector count='1'>regulate</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>Flow</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>considerable</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>appear</otmi:vector>
+              <otmi:vector count='1'>collagen-induced</otmi:vector>
+              <otmi:vector count='1'>currently</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>acquire</otmi:vector>
+              <otmi:vector count='1'>transduction</otmi:vector>
+              <otmi:vector count='1'>reside</otmi:vector>
+              <otmi:vector count='1'>CD69-surface</otmi:vector>
+              <otmi:vector count='1'>T-cell</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>dominate</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>G-protein-coupled</otmi:vector>
+              <otmi:vector count='1'>basal</otmi:vector>
+              <otmi:vector count='1'>mimetic</otmi:vector>
+              <otmi:vector count='1'>2B4</otmi:vector>
+              <otmi:vector count='1'>IFN-α</otmi:vector>
+              <otmi:vector count='1'>confirmed</otmi:vector>
+              <otmi:vector count='1'>resistant</otmi:vector>
+              <otmi:vector count='1'>proportion</otmi:vector>
+              <otmi:vector count='1'>cytoplasmic-domain</otmi:vector>
+              <otmi:vector count='1'>Therapeutic</otmi:vector>
+              <otmi:vector count='1'>account</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>migrate</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>N-linked</otmi:vector>
+              <otmi:vector count='1'>pretreated</otmi:vector>
+              <otmi:vector count='1'>CD69–CD3ζ-transduced</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>thymocytes</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>exposed</otmi:vector>
+              <otmi:vector count='1'>interferon</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>heterotrimeric</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>examined</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>encoding</otmi:vector>
+              <otmi:vector count='1'>1g</otmi:vector>
+              <otmi:vector count='1'>inhibitor</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>Lymphocytes</otmi:vector>
+              <otmi:vector count='1'>trafficking</otmi:vector>
+              <otmi:vector count='1'>inflammatory</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>cultures</otmi:vector>
+              <otmi:vector count='1'>functioning</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>regulating</otmi:vector>
+              <otmi:vector count='1'>cross-inhibition</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>entry</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>transforming</otmi:vector>
+              <otmi:vector count='1'>responses</otmi:vector>
+              <otmi:vector count='1'>coimmunoprecipitated</otmi:vector>
+              <otmi:vector count='1'>membrane</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>internal</otmi:vector>
+              <otmi:vector count='1'>abundant</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>formed</otmi:vector>
+              <otmi:vector count='1'>exclusion</otmi:vector>
+              <otmi:vector count='1'>cDNA</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>organs</otmi:vector>
+              <otmi:vector count='1'>green</otmi:vector>
+              <otmi:vector count='1'>IRES</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>fluorescent</otmi:vector>
+              <otmi:vector count='1'>thymic</otmi:vector>
+              <otmi:vector count='1'>associate</otmi:vector>
+              <otmi:vector count='1'>deficiency</otmi:vector>
+              <otmi:vector count='1'>agonist</otmi:vector>
+              <otmi:vector count='1'>transcriptionally</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>site</otmi:vector>
+              <otmi:vector count='1'>promoting</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>hours</otmi:vector>
+              <otmi:vector count='1'>double-stranded</otmi:vector>
+              <otmi:vector count='1'>Exposure</otmi:vector>
+              <otmi:vector count='1'>downstream</otmi:vector>
+              <otmi:vector count='1'>depletion</otmi:vector>
+              <otmi:vector count='1'>partial</otmi:vector>
+              <otmi:vector count='1'>CD69–IRES-GFP</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>ribosomal</otmi:vector>
+              <otmi:vector count='1'>remaining</otmi:vector>
+              <otmi:vector count='1'>nuclear</otmi:vector>
+              <otmi:vector count='1'>chemokine</otmi:vector>
+              <otmi:vector count='1'>mutual</otmi:vector>
+              <otmi:vector count='1'>incubation</otmi:vector>
+              <otmi:vector count='1'>truncated</otmi:vector>
+              <otmi:vector count='1'>plus</otmi:vector>
+              <otmi:vector count='1'>fusion</otmi:vector>
+              <otmi:vector count='1'>molecule</otmi:vector>
+              <otmi:vector count='1'>functionally</otmi:vector>
+              <otmi:vector count='1'>regard</otmi:vector>
+              <otmi:vector count='1'>suppressor</otmi:vector>
+              <otmi:vector count='1'>thymus</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>adoptively</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>inhibiting</otmi:vector>
+              <otmi:vector count='1'>intracellular</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>non-modulating</otmi:vector>
+              <otmi:vector count='1'>prevented</otmi:vector>
+              <otmi:vector count='1'>immunosuppression</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>choriomeningitis</otmi:vector>
+              <otmi:vector count='1'>sevenfold</otmi:vector>
+              <otmi:vector count='1'>chimaera</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>Lymphocytic</otmi:vector>
+              <otmi:vector count='1'>inset</otmi:vector>
+              <otmi:vector count='1'>cells.</otmi:vector>
+              <otmi:vector count='1'>c</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>ex</otmi:vector>
+              <otmi:vector count='1'>Quantitative</otmi:vector>
+              <otmi:vector count='1'>d</otmi:vector>
+              <otmi:vector count='1'>physiological</otmi:vector>
+              <otmi:vector count='1'>markedly</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>method</otmi:vector>
+              <otmi:vector count='1'>upregulation</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>β-receptor-1</otmi:vector>
+              <otmi:vector count='1'>maximal</otmi:vector>
+              <otmi:vector count='1'>4c</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>CD69-mediated</otmi:vector>
+              <otmi:vector count='1'>targeted</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>extrinsic</otmi:vector>
+              <otmi:vector count='1'>antibody-mediated</otmi:vector>
+              <otmi:vector count='1'>hosts</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>finding</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>CXCL12</otmi:vector>
+              <otmi:vector count='1'>engage</otmi:vector>
+              <otmi:vector count='1'>calling</otmi:vector>
+              <otmi:vector count='1'>continued</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>transferring</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>II</otmi:vector>
+              <otmi:vector count='1'>inducing</otmi:vector>
+              <otmi:vector count='1'>transcriptional</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>polymerase</otmi:vector>
+              <otmi:vector count='1'>vivo</otmi:vector>
+              <otmi:vector count='1'>endogenous</otmi:vector>
+              <otmi:vector count='1'>sixfold</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>conserved</otmi:vector>
+              <otmi:vector count='1'>anti-CD69</otmi:vector>
+              <otmi:vector count='1'>domains</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>IRF)-7</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>undetectable</otmi:vector>
+              <otmi:vector count='1'>recombinant</otmi:vector>
+              <otmi:vector count='1'>vice</otmi:vector>
+              <otmi:vector count='1'>forming</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>notable</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>virus</otmi:vector>
+              <otmi:vector count='1'>versa</otmi:vector>
+              <otmi:vector count='1'>failed</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>egressed</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>evolutionarily</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>CD69–IRES</otmi:vector>
+              <otmi:vector count='1'>fourfold</otmi:vector>
+              <otmi:vector count='1'>selectively</otmi:vector>
+              <otmi:vector count='1'>stimulation</otmi:vector>
+              <otmi:vector count='1'>necrosis</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>intrinsic</otmi:vector>
+              <otmi:vector count='1'>Immunoprecipitation</otmi:vector>
+              <otmi:vector count='1'>extent</otmi:vector>
+              <otmi:vector count='1'>SDF1</otmi:vector>
+              <otmi:vector count='1'>arthritis</otmi:vector>
+              <otmi:vector count='1'>screen</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>sensitive</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>crosslinking</otmi:vector>
+              <otmi:vector count='1'>co-transfection</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>transcription</otmi:vector>
+              <otmi:vector count='1'>concordance</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>sequestered</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>tissues</otmi:vector>
+              <otmi:vector count='1'>band</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>CD69-deficient</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>antigen</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>efficiently</otmi:vector>
+              <otmi:vector count='1'>stimulated</otmi:vector>
+              <otmi:vector count='1'>CD4</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>Mouse</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>mode</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>reaching</otmi:vector>
+              <otmi:vector count='1'>2e</otmi:vector>
+              <otmi:vector count='1'>course</otmi:vector>
+              <otmi:vector count='1'>markers</otmi:vector>
+              <otmi:vector count='1'>mature</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Activating stimuli can also cause S1P 1 transcriptional downregulation and this would be expected to decrease the amounts of CD69 needed to dominate and inhibit any remaining S1P 1 </otmi:snippet>
+              <otmi:snippet>Agonist-induced downmodulation might account for the ability of the S1P receptor agonist FTY720-phosphate to cause CD69 downmodulation in single-positive thymocytes that normally reside in an S1P-poor environment </otmi:snippet>
+              <otmi:snippet>Although B cells migrate poorly to S1P directly ex vivo , they acquire increased chemotactic responsiveness after several hours in vitro incubation ( Fig. 1f )</otmi:snippet>
+              <otmi:snippet>Although CD69 has been well studied as a lymphocyte activation marker and is transcriptionally induced by many activation stimuli , naive CD69-surface negative lymphocytes express considerable amounts of basal CD69 mRNA (Figs 2a and 3d ) and have detectable intracellular CD69 protein </otmi:snippet>
+              <otmi:snippet>Although not excluding the involvement of additional molecules, these findings provide evidence for an evolutionarily conserved interaction between CD69 and S1P 1 in lymphocytes</otmi:snippet>
+              <otmi:snippet>As a further approach to test whether S1P 1 and CD69 formed a complex, we examined whether these molecules could be coimmunoprecipitated</otmi:snippet>
+              <otmi:snippet>By flow cytometric analysis, S1P 1 was downregulated from the surface of wild-type T cells but was only partly downregulated on CD69 -/- T cells after treatment with poly(I:C) ( Fig. 2e ) or infection with LCMV ( Supplementary Fig. 3c )</otmi:snippet>
+              <otmi:snippet>CD69 deficiency has effects on anti-tumour responses and the course of collagen-induced arthritis </otmi:snippet>
+              <otmi:snippet>CD69 failed to co-immunoprecipitate with Flag-S1P 3 ( Fig. 4b )</otmi:snippet>
+              <otmi:snippet>CD69 was readily detectable on the surface of GFP low cells after transduction with the CD69 construct alone ( Fig. 3f )</otmi:snippet>
+              <otmi:snippet>Cells were transduced with a retrovirus encoding Flag-tagged mouse S1P 1 , an internal ribosomal entry site (IRES) and cytoplasmic-domain truncated human CD4 (hCD4) as a reporter</otmi:snippet>
+              <otmi:snippet>Co-transduction of Flag-S1P 1 -expressing cells with another C-type lectin, mouse CD23, did not lead to downmodulation of surface expression and did not affect the function of S1P 1 ( Fig. 3b , c )</otmi:snippet>
+              <otmi:snippet>Consistent with CD69 functioning to promote sequestration of human lymphocytes is the observation that human CD69 + T cells are rare in blood compared with lymphoid tissues and inflammatory sites </otmi:snippet>
+              <otmi:snippet>Exposure of the splenocyte cultures to poly(I:C) or to recombinant IFN-α/β inhibited the B-cell response to S1P ( Fig. 1f )</otmi:snippet>
+              <otmi:snippet>Flow cytometric analysis demonstrated that the CD69–CD3ζ chimaera was coexpressed on the cell surface together with Flag-S1P 1 ( Supplementary Fig. 4a )</otmi:snippet>
+              <otmi:snippet>GFP induction was also observed after anti-Flag antibody treatment of cells co-transduced with CD69–CD3ζ and Flag-S1P 1 , whereas no GFP induction occurred after anti-Flag treatment of cells transduced with Flag-S1P 1 alone ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>However, CD69-deficient mice had normal thymic egress, calling into question the physiological relevance of the transgenic studies </otmi:snippet>
+              <otmi:snippet>However, when the CD69–IRES-GFP retrovirus was introduced into the Flag-S1P 1 -expressing cells, there was a loss of surface Flag-S1P 1 staining in cells expressing the highest amounts of GFP ( Fig. 3a , b ), and in chemotaxis assays these cells showed little response to S1P but retained responsiveness to the chemokine SDF1 (CXCL12) ( Fig. 3c )</otmi:snippet>
+              <otmi:snippet>IFN-α/β is a strong inducer of the cell surface activation marker, CD69 ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Immunoprecipitation of endogenous CD69 was found to co-immunoprecipitate epitope-tagged S1P 1 and vice versa ( Fig. 4c )</otmi:snippet>
+              <otmi:snippet>In S1P 1 -deficient B and T cells, CD69 is found on the cell surface, although these cells do not express other activation markers or show evidence of increased cell size </otmi:snippet>
+              <otmi:snippet>In addition to IFN-α/β, CD69 transcription is induced in response to most stimuli that cause lymphocyte activation, including other stimuli that are known to cause lymphocyte sequestration, such as tumour necrosis factor and antigen stimulation </otmi:snippet>
+              <otmi:snippet>In addition to lymphocyte-intrinsic effects, our findings indicate that IFN-α/β has extrinsic effects that regulate egress</otmi:snippet>
+              <otmi:snippet>In cells transduced with Flag-S1P 3 and CD69–CD3ζ, no GFP induction occurred after treatment with anti-Flag antibody ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>In chemotaxis assays, T lymphocytes taken from mice that had been pretreated with poly(I:C) showed markedly reduced responsiveness to S1P ( Fig. 1e )</otmi:snippet>
+              <otmi:snippet>In concordance with these observations, human S1P 1 was identified in a retroviral cDNA library overexpression screen as a suppressor of human CD69 surface expression </otmi:snippet>
+              <otmi:snippet>In contrast to wild-type T cells, CD69 -/- T cells retained a substantial fraction of their S1P responsiveness after treatment with poly(I:C) ( Fig. 2d )</otmi:snippet>
+              <otmi:snippet>In contrast with the marked loss of S1P chemotactic responsiveness, quantitative polymerase chain reaction (PCR) analysis showed that S1P 1 mRNA was only partly decreased in abundance in T and B cells from poly(I:C)-treated mice ( Fig. 1g )</otmi:snippet>
+              <otmi:snippet>In particular, Ifnar1 -/- T cells egressed into the lymph of poly(I:C)-treated animals in fourfold greater numbers than wild-type control cells present in the same animals, and Ifnar1 -/- B cells entered the lymph in sixfold to sevenfold greater numbers ( Fig. 1c , d )</otmi:snippet>
+              <otmi:snippet>In this assay, GFP expression is induced after CD3ζ cytoplasmic domain cross-linking and, as expected, GFP induction was observed after treatment of the CD69–CD3ζ-transduced cells with anti-CD69 antibodies ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>In this regard, it is notable that CD69 has been found to be associated with a heterotrimeric G protein and that some effects of CD69 cross-linking antibodies are sensitive to pertussis toxin </otmi:snippet>
+              <otmi:snippet>In two independent studies, it was found that transgenic overexpression of CD69 causes decreased egress of mature single-positive T cells from the thymus </otmi:snippet>
+              <otmi:snippet>Indeed, when we plotted Flag-S1P 1 against CD69 in total GFP + hCD4 + co-transduced WEHI-231 cells we observed that there was mutual exclusion of surface expression ( Fig. 3e )</otmi:snippet>
+              <otmi:snippet>Lymphocytes that lacked IFNAR1 were largely resistant to this effect, indicating that it was due to intrinsic IFNAR1 signalling ( Fig. 1e )</otmi:snippet>
+              <otmi:snippet>Lymphocytic choriomeningitis virus (LCMV) infection also caused a decrease in T-cell and B-cell numbers in lymph and blood, and this effect was strongly inhibited when the lymphocytes lacked CD69 ( Fig. 2c , and Supplementary Fig. 3a, b )</otmi:snippet>
+              <otmi:snippet>Moreover, S1P 1 -deficient B and T cells have the same amounts of CD69 mRNA as control B and T cells ( Fig. 3d )</otmi:snippet>
+              <otmi:snippet>Mouse CD69, CD23, S1P 1 and S1P 3 have N-linked glycosylation sites, and the broad band detected for each molecule in western blot analysis is most probably due to the glycosylation</otmi:snippet>
+              <otmi:snippet>Our observations indicate that CD69, a type II transmembrane protein, might engage in a novel mode of GPCR negative regulation by forming a complex with S1P 1 , promoting downmodulation and inhibiting the function of this receptor in lymphocyte egress</otmi:snippet>
+              <otmi:snippet>Quantitative PCR analysis for interferon response factor (IRF)-7 confirmed that the CD69 -/- and wild-type cells were similarly activated ( Supplementary Fig. 2b ) and S1P 1 mRNA abundance was reduced to the same extent as that observed in wild-type cells ( Supplementary Fig. 2c )</otmi:snippet>
+              <otmi:snippet>S1P 1 is a G i -coupled receptor , and treatment of the cells co-transduced with S1P 1 and CD69 for 6 h with pertussis toxin, a G i inhibitor, led to partial recovery of CD69 surface expression in the S1P 1 + GFP low cells ( Fig. 3e , h )</otmi:snippet>
+              <otmi:snippet>S1P 1 is currently being targeted by small molecules as a mechanism of inducing lymphocyte sequestration and immunosuppression </otmi:snippet>
+              <otmi:snippet>Similarly, CD69 -/- B cells exposed to IFN-α/β in vitro retained much of their S1P responsiveness ( Fig. 2d )</otmi:snippet>
+              <otmi:snippet>Similarly, cells transduced with a mouse CD69–IRES- green fluorescent protein (GFP) construct expressed CD69 on the surface in proportion to the amount of GFP expressed ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>Similarly, the sequestration and depletion of T and B lymphocytes from blood was less complete for CD69 -/- cells than for wild-type cells ( Supplementary Fig. 2a )</otmi:snippet>
+              <otmi:snippet>The CD69 + Flag-S1P 1 - cells ( Fig. 3e , region 1) expressed high levels of GFP ( Fig. 3a , b ); by contrast, cells expressing only Flag-S1P 1 on the surface were GFP low ( Fig. 3e , region 2 and inset)</otmi:snippet>
+              <otmi:snippet>The effect of IFN-α/β was, in part, lymphocyte-intrinsic because adoptively transferred Ifnar1 -/- lymphocytes were less efficiently sequestered than wild-type cells after treatment with poly(I:C) ( Fig. 1c , and Supplementary Fig. 1b )</otmi:snippet>
+              <otmi:snippet>The recent finding that S1P 1 , a G-protein-coupled receptor (GPCR), is required within lymphocytes for egress from lymphoid organs led us to ask whether IFNAR1 signalling altered lymphocyte S1P responsiveness</otmi:snippet>
+              <otmi:snippet>Therapeutic augmentation of CD69 levels may be a new method for regulating S1P 1 function in lymphoid cells.</otmi:snippet>
+              <otmi:snippet>These cells expressed the Flag-tagged receptor on the surface in amounts proportional to the amount of hCD4 expressed ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>These findings indicate that antibody-mediated crosslinking of Flag-S1P 1 led to co-crosslinking and activation of CD69–CD3ζ, providing further evidence that these molecules closely associate on the membrane and indicating that the CD69 ectodomain and transmembrane domains are sufficient to mediate this association</otmi:snippet>
+              <otmi:snippet>These findings indicate that in cells with abundant CD69, S1P 1 is selectively downmodulated and functionally inhibited</otmi:snippet>
+              <otmi:snippet>These findings indicate that in naive wild-type lymphocytes the small amounts of CD69 that are expressed might be prevented from surface expression by S1P 1 </otmi:snippet>
+              <otmi:snippet>These observations indicated that CD69 might be required for maximal S1P 1 downmodulation</otmi:snippet>
+              <otmi:snippet>These observations showed that CD69 is required downstream of IFNAR1 to inhibit lymphocyte egress</otmi:snippet>
+              <otmi:snippet>This effect was largely mediated by IFN-α/β because mice deficient in IFN-α/β-receptor-1 (IFNAR1) showed only a weak response ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>This effect was specific for CD69 and S1P 1 because CD69 and S1P 3 were coexpressed on the surface of cells without any evidence of cross-inhibition ( Fig. 3g )</otmi:snippet>
+              <otmi:snippet>This has been suggested to be due to altered production of transforming growth factor-β , but altered trafficking of activated lymphocytes may also be involved</otmi:snippet>
+              <otmi:snippet>This was also observed when WEHI231 cells were co-transduced with these constructs ( Supplementary Fig. 4b ), indicating that the intact CD69 cytoplasmic domain is needed for efficient downmodulation of the coexpressed molecules from the cell surface</otmi:snippet>
+              <otmi:snippet>Thus, S1P 1 -mediated modulation of CD69 was at least partly dependent on G i coupling</otmi:snippet>
+              <otmi:snippet>Thus, in addition to the inhibitory effect of high CD69 expression on surface Flag-S1P 1 levels, there was an inhibitory effect of S1P 1 on surface CD69 expression when the abundance of CD69 was low</otmi:snippet>
+              <otmi:snippet>To further characterize the mechanism of CD69-mediated inhibition of S1P 1 , we used a co-transfection approach in the WEHI-231 B-cell line</otmi:snippet>
+              <otmi:snippet>To test further for an association between CD69 and S1P 1 , 2B4 T lymphoma cells expressing a nuclear factor of activated T cells (NFAT)-GFP reporter were transduced with a mouse CD69 ectodomain and transmembrane domain plus human CD3ζ cytoplasmic domain fusion protein (CD69–CD3ζ) alone or together with Flag-tagged S1P 1 </otmi:snippet>
+              <otmi:snippet>To test whether an association also occurred between human CD69 and S1P 1 , we prepared lysates from Jurkat T lymphoma cells that had been transduced with epitope-tagged human S1P 1 and stimulated with anti-T cell receptor antibody to promote the upregulation of CD69</otmi:snippet>
+              <otmi:snippet>Using lysates prepared from co-transduced WEHI231 B cells we found that mouse CD69 co-precipitated with Flag-S1P 1 , whereas another C-type lectin, CD23, did not ( Fig. 4b )</otmi:snippet>
+              <otmi:snippet>We speculate that in some cell types, S1P 1 and CD69 may be coexpressed as a non-modulating complex and that this might allow CD69 signalling through associated S1P 1 molecules</otmi:snippet>
+              <otmi:snippet>We tested whether CD69 might be involved in the IFNAR1-mediated inhibition of lymphocyte egress by transferring wild-type and CD69 -/- cells into wild-type hosts and treating them with poly(I:C)</otmi:snippet>
+              <otmi:snippet>When CD69 was introduced into cells expressing Flag-S1P 3 , the receptor was not downmodulated ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>When mice were treated with poly(I:C), a double-stranded RNA mimetic, we observed that lymphocyte numbers in blood and lymph decreased rapidly, reaching a minimum by 6 h ( Fig. 1a , and Supplementary Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Whereas transferred wild-type cells were almost undetectable in the lymph 6 h after treatment with poly(I:C), CD69 -/- cells continued to appear in the lymph ( Fig. 2b )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Lymphocyte-intrinsic IFNAR1 requirement during poly(I:C)-induced lymphocyte sequestration and downregulation of S1P 1 by IFN-α/β.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Mice were injected with phosphate-buffered saline (PBS) or poly(I:C) and at the indicated times B-cell and T-cell numbers in the lymph were determined. Results show means ± s.d. for three poly(I:C)-treated mice per time point. The ‘0’ h data are from mice injected 6 h earlier with PBS. b , Wild-type mice (open columns) and Ifnar1 -/- mice (filled columns) were treated with poly(I:C) for 6 h; cell frequency in lymph is shown as a percentage of the PBS-treated controls ( n = 4). c , d , Wild-type and IFNAR1-deficient lymphocytes were labelled with CFSE and CMTMR, respectively, and transferred into wild-type mice. At 6 h after treatment with poly(I:C) (filled columns) or PBS (open columns), lymph was analysed for the number of transferred cells ( c ) and the ratio of transferred IFNAR1-deficient cells to wild-type cells ( d ). Columns represent averages and open circles individual animals from two experiments, representative of five. e , Migration assay of transferred T cells from recipients treated as in c . f , Migration assay of B cells from wild-type mice after incubation for 10 h in vehicle (diamonds), 20 µg ml -1 poly(I:C) or 1,000 U ml -1 IFN-α. In e and f , data points show the mean of duplicates and bars the range for one of three experiments. g , Quantitative PCR analysis of S1P 1 in T and B cells from wild-type mice treated with poly(I:C) (filled columns) or PBS (open columns). Double-positive thymocytes from an untreated mouse are shown (grey column) as an example of cells lacking S1P 1 (ref. 6).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>CD69-deficient cells are less efficiently sequestered after treatment with poly(I:C) and LCMV infection and retain S1P responsiveness.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Quantitative PCR (left panel) and flow cytometric analysis (right panels) of CD69 in spleen T and B cells from mice treated with poly(I:C) (filled columns) or PBS (open columns). Staining of cells from PBS-treated mice was identical to the staining of CD69 -/- cells (not shown). PIC, poly(I:C). b , Wild-type and CD69-deficient lymphocytes were labelled and transferred into recipient mice that were treated and analysed as in Fig. 1c. Filled columns, poly(I:C); open columns, PBS. c , Recipients of labelled wild-type and CD69-deficient lymphocytes were uninfected (open columns) or infected (filled columns) with LCMV and analysed at 18 h for cell numbers in lymph. Data are representative of three experiments. d , Left: migration assay of transferred T cells from recipients of wild-type (squares) and CD69 -/- (circles) lymphocytes treated with PBS or poly(I:C). Data are means ± s.d. for nine mice from three experiments. Right: migration assay of B cells from wild-type (squares) and CD69 -/- (circles) mice after incubation for 6 h in the absence or presence of 1,000 U ml -1 IFN-α. Data are from one experiment, representative of three. e , Flow cytometric analysis of S1P 1 on splenic CD4 + L-selectin high T cells from the indicated mice after treatment with poly(I:C) (PIC) or PBS. Control antibody staining is shown shaded in grey. Data are representative of ten mice of each type analysed in six experiments.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>CD69 interacts with S1P 1 causing downregulation and inhibition of S1P 1 function.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Diagram of retroviral constructs, and flow cytometric analysis of WEHI-231 cells transduced and stained to detect Flag-S1P 1 , CD69 or hCD4, or showing GFP fluorescence as indicated. The plot of co-transduced cells shows the GFP high gating strategy used in b and c . b , Flag-S1P 1 or Flag-S1P 3 expression in GFP high hCD4 + cells co-transduced with empty vector (EV), CD69 or CD23. The grey histogram shows staining of non-transduced WEHI-231 cells. Data are representative of three to six experiments. c , Migration assay of untransduced WEHI-231 cells (control) and GFP high hCD4 + Flag-S1P 1 WEHI-231 cells co-transduced with EV, CD69 or CD23. Results are means ± s.d. for three experiments. d , Quantitative PCR analysis of CD69 abundance in sorted B cells and mature CD4 single-positive (SP) L-selectin high thymocytes from mice reconstituted with wild-type (open columns) or S1p 1 -/- (filled columns) fetal liver cells. Transcripts obtained from total brain are shown for comparison. e , Flag-S1P 1 and CD69 expression on total GFP + hCD4 + Flag-S1P 1 WEHI-231 cells co-transduced with CD69. Inset: GFP levels of cells in regions 1 and 2. f , CD69 expression on GFP low cells transduced with CD69 alone or co-transduced with Flag-S1P 1 . The grey histogram shows staining of non-transduced WEHI-231 cells. g , Flag-S1P 3 and CD69 expression on Flag-S1P 3 WEHI-231 cells co-transduced with CD69. h , Flag-S1P 1 and CD69 expression on Flag-S1P 1 WEHI-231 cells co-transduced with CD69 and incubated for 6 h with 200 ng ml -1 pertussis toxin.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Mouse and human CD69 interact with S1P 1 .</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , 2B4 NFAT-GFP reporter cells were singly transduced or co-transduced as indicated. Receptors were crosslinked with plate-bound antibodies (open columns, isotype control; grey column, anti-CD69; black columns, anti-Flag) and the expression of GFP, shown as geometric mean fluorescence intensity (MFI), was analysed 16 h later. Data are shown as means ± s.d. and are pooled from three experiments. b , Lysates of WEHI-231 cells transduced with the indicated retroviral constructs were immunoprecipitated (IP) with anti-Flag. Coimmunoprecipitated proteins were detected by using anti-haemagglutinin (anti-HA) or anti-Flag antibodies. Data shown are representative of four independent experiments. NS, non-specific band; WB, western blot. c , Lysates of Jurkat cells transfected with S1P 1 -Myc or an empty vector and stimulated or not with anti-TCR antibody C305 to upregulate CD69 expression were immunoprecipitated with anti-CD69 or anti-Myc antibodies. Coimmunoprecipitated proteins were detected on western blots by using anti-CD69 and anti-Myc antibodies. Data shown are representative of three independent experiments. All markers are in kDa.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1002/1521-4141(200001)30:1&lt;327::AID-IMMU327&gt;3.0.CO;2-T</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02284</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M314291200</otmi:refid>
+          <otmi:refid>info:doi/10.1093/intimm/dxf020</otmi:refid>
+          <otmi:refid>info:doi/10.1093/intimm/dxg102</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0167-5699(94)90193-7</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.it.2004.12.006</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ni1083</otmi:refid>
+          <otmi:refid>info:doi/10.1186/1475-4924-2-21</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1600-6143.2004.00476.x</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.1832725100</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1113640</otmi:refid>
+          <otmi:refid>info:doi/10.1126/SCIENCE.1070884</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.270.37.21545</otmi:refid>
+          <otmi:refid>info:doi/10.1096/fj.02-0548com</otmi:refid>
+          <otmi:refid>info:doi/10.1084/jem.20021337</otmi:refid>
+          <otmi:refid>info:doi/10.1084/jem.180.3.1147</otmi:refid>
+          <otmi:refid>info:doi/10.1038/80841</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1367-5931(03)00085-1</otmi:refid>
+          <otmi:refid>info:doi/10.1084/jem.20041509</otmi:refid>
+          <otmi:refsnoid>10</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

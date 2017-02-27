@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<project name="textractor-config" default="fastobjects" basedir="..">
+    <property name="config" location="config"/>
+    <property name="defaultdir" location="config/default"/>
+    <property name="templatedir" location="config/template"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+
+	<property name="defaultIndex" value="index/junit-test"/>
+
+	<property name="defaultDatabase" value="textractor_dev"/>
+    <property name="defaultDictionary" value="textractor_dev_dict"/>
+
+	<property name="defaultPCPhysical" value="c:/textractor_db"/>
+    <property name="defaultUNIXPhysical" value="/var/FastObjects/textractor_db"/>
+
+   	<macrodef name="create-properties-file">
+   		<attribute name="jdoImplementation"/>
+   		<element name="properties" implicit="yes" optional="yes"/>
+   		<sequential>
+   			<properties/>
+   			<available file="${templatedir}/@{jdoImplementation}.properties" property="database-isset"/>
+   			<fail unless="database-isset" message="No template database file found at ${templatedir}/@{jdoImplementation}.properties"/>
+   			<concat destfile="${config}/${propertyFilename}" fixlastline="yes">
+   				<fileset dir="${templatedir}">
+   					<include name="textractor.properties"/>
+   					<include name="@{jdoImplementation}.properties"/>
+   				</fileset>
+   				<filterchain>
+   					<expandproperties/>
+   				</filterchain>
+   			</concat>
+   			<chmod perm="-x" file="${config}/${propertyFilename}"/>
+   		</sequential>
+   	</macrodef>
+
+	<target name="fastobjects" description="Create a default configuration for textractor">
+		<create-properties-file jdoImplementation="fastobjects">
+			<property file="${defaultdir}/textractor.properties"/>
+			<property file="${defaultdir}/fastobjects.properties"/>
+			<property name="com.fastobjects.dictionary.name" value="${defaultDictionary}"/>
+			<property name="com.fastobjects.database.name" value="${defaultDatabase}"/>
+			<property name="com.fastobjects.database.server" value="localhost"/>
+			<property name="com.fastobjects.database.physical" value="c:/textractor_db"/>
+			<property name="javax.jdo.option.ConnectionURL" value="FastObjects://localhost/textractor_dev"/>
+			<property name="com.fastobjects.license" value="ZAFLA-IFKAA-FOADK-HPZZZ"/>
+		</create-properties-file>
+    </target>
+
+    <target name="nojdo" description="Create a default configuration for textractor">
+        <create-properties-file jdoImplementation="nojdo">
+            <property file="${defaultdir}/textractor.properties"/>
+            <property file="config/template/nojdo.properties"/>
+        </create-properties-file>
+    </target>
+
+	<target name="release" description="Create configuration for a binary release">
+		<create-properties-file jdoImplementation="kodo">
+			<property file="${defaultdir}/textractor.properties"/>
+			<property file="${defaultdir}/kodo.properties"/>
+			<property file="${defaultdir}/${database}.properties"/>
+		</create-properties-file>
+	</target>
+
+    <target name="kodo-oracle" description="Create configuration for kodo/oracle">
+        <antcall target="release">
+            <param name="database" value="oracle"/>
+        </antcall>
+    </target>
+
+    <target name="kodo-mysql" description="Create configuration for kodo/mysql">
+        <antcall target="release">
+            <param name="database" value="mysql"/>
+        </antcall>
+    </target>
+
+
+    <!-- ==================== User Campagne configuration =================================== -->
+    <target name="config_pc_fc"
+            description="Configure database to run on Fabien's Machine with FastObjects">
+      <create-properties-file jdoImplementation="fastobjects">
+			<property file="${defaultdir}/textractor.properties"/>
+			<property file="${defaultdir}/fastobjects.properties"/>
+			<property name="com.fastobjects.dictionary.name" value="${defaultDictionary}"/>
+			<property name="com.fastobjects.database.name" value="${defaultDatabase}"/>
+			<property name="com.fastobjects.database.server" value="localhost"/>
+			<property name="com.fastobjects.database.physical" value="c:/textractor_db/textractor_dev"/>
+			<property name="javax.jdo.option.ConnectionURL" value="FastObjects://localhost/textractor_dev"/>
+			<property name="com.fastobjects.license" value="ZAFLA-IFKAA-FOADK-HPZZZ"/>
+		</create-properties-file>
+    </target>
+
+    <target name="config_unix" description="Configure database to run on Lorax">
+        <replace dir="${config}" summary="yes">
+            <include name="${propertyFilename}"/>
+            <replacefilter token="FOLicense" value="${FOLicenseUNIX}"/>
+            <replacefilter token="defaultDatabase" value="${defaultDatabase}"/>
+            <replacefilter token="defaultDictionary" value="${defaultDictionary}"/>
+            <replacefilter token="defaultServer" value="${defaultUNIXDatabaseServer}"/>
+            <replacefilter token="defaultPhysical" value="${defaultUNIXPhysical}"/>
+            <replacefilter token="defaultFullTextRoot" value="${defaultUNIXFullTextRoot}"/>
+            <replacefilter token="defaultDatasetAPath" value="/home/textractor/datasets/textractor-dataset-a"/>
+            <replacefilter token="defaultMedlineRoot" value="${medline-base-unix}"/>
+        </replace>
+    </target>
+
+
+    <target name="check_parameters" description="Check if all the required parameters are given from command line">
+        <condition property="isJournalNotSet">
+            <equals arg1="${journal}" arg2="" casesensitive="false"/>
+        </condition>
+        <condition property="isYearNotSet">
+            <equals arg1="${year}" arg2="" casesensitive="false"/>
+        </condition>
+        <condition property="isHtDatabaseNumberNotSet">
+            <equals arg1="${htDatabaseNumber}" arg2="" casesensitive="false"/>
+        </condition>
+
+        <condition property="parameters_Unkown">
+            <or>
+                <isset property="isJournalNotSet"/>
+                <isset property="isYearNotSet"/>
+                <isset property="isHtDatabaseNumberNotSet"/>
+            </or>
+        </condition>
+        <fail message="There are unknown parameters." if="parameters_Unkown"/>
+    </target>
+
+    <target name="config_cruisecontrol" description="Configure database to run cruisecontrol with FastObjects">
+        <create-properties-file jdoImplementation="fastobjects">
+            <property file="${defaultdir}/textractor.properties"/>
+            <property file="${defaultdir}/fastobjects.properties"/>
+            <property name="com.fastobjects.dictionary.name" value="textractor_cruisecontrol_dict"/>
+            <property name="com.fastobjects.database.name" value="textractor_cruisecontrol"/>
+            <property name="com.fastobjects.database.server" value="groucho.med.cornell.edu"/>
+            <property name="com.fastobjects.database.physical" value="/var/FastObjects/textractor_cruisecontrol"/>
+            <property name="javax.jdo.option.ConnectionURL" value="FastObjects://groucho.med.cornell.edu/textractor_cruisecontrol"/>
+        </create-properties-file>
+    </target>
+
+    <target name="config_unix_pubmed" description="Configure database to run on Groucho">
+        <replace dir="${config}" summary="yes">
+            <include name="${propertyFilename}"/>
+            <replacefilter token="FOLicense" value="${FOLicenseUNIX}"/>
+            <replacefilter token="defaultDatabase" value="textractor_pubmed"/>
+            <replacefilter token="defaultDictionary" value="textractor_pubmed_dict"/>
+            <replacefilter token="defaultServer" value="groucho.med.cornell.edu"/>
+            <replacefilter token="defaultPhysical" value="/var/FastObjects/fonfstest_db"/>
+            <replacefilter token="defaultFullTextRoot" value="${defaultUNIXFullTextRoot}"/>
+        </replace>
+    </target>
+
+    <target name="config_unix_trec" description="Configure database to run on Groucho">
+        <replace dir="${config}" summary="yes">
+            <include name="${propertyFilename}"/>
+            <replacefilter token="FOLicense" value="${FOLicenseUNIX}"/>
+            <replacefilter token="defaultDatabase" value="medline_trec"/>
+            <replacefilter token="defaultDictionary" value="medline_trec_dict"/>
+            <replacefilter token="defaultServer" value="groucho.med.cornell.edu"/>
+            <replacefilter token="defaultPhysical" value="/var/FastObjects/fonfstest_db"/>
+        </replace>
+    </target>
+</project>

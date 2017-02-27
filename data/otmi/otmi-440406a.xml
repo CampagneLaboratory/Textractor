@@ -1,0 +1,574 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Drive for drugs leads to baby clinical trials</title>
+      <id>info:doi/10.1038/440406a</id>
+      <link href='http://dx.doi.org/10.1038/440406a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>406</prism:startingPage>
+      <prism:endingPage>407</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='15'>says</otmi:vector>
+              <otmi:vector count='13'>phase</otmi:vector>
+              <otmi:vector count='10'>will</otmi:vector>
+              <otmi:vector count='10'>drug</otmi:vector>
+              <otmi:vector count='9'>he</otmi:vector>
+              <otmi:vector count='9'>zero</otmi:vector>
+              <otmi:vector count='8'>time</otmi:vector>
+              <otmi:vector count='8'>trials</otmi:vector>
+              <otmi:vector count='8'>at</otmi:vector>
+              <otmi:vector count='6'>drugs</otmi:vector>
+              <otmi:vector count='6'>studies</otmi:vector>
+              <otmi:vector count='6'>FDA</otmi:vector>
+              <otmi:vector count='6'>I</otmi:vector>
+              <otmi:vector count='6'>them</otmi:vector>
+              <otmi:vector count='6'>make</otmi:vector>
+              <otmi:vector count='5'>cancer</otmi:vector>
+              <otmi:vector count='5'>more</otmi:vector>
+              <otmi:vector count='5'>rules</otmi:vector>
+              <otmi:vector count='5'>testing</otmi:vector>
+              <otmi:vector count='5'>experimental</otmi:vector>
+              <otmi:vector count='5'>Curiel</otmi:vector>
+              <otmi:vector count='5'>his</otmi:vector>
+              <otmi:vector count='5'>not</otmi:vector>
+              <otmi:vector count='5'>early</otmi:vector>
+              <otmi:vector count='4'>compounds</otmi:vector>
+              <otmi:vector count='4'>people</otmi:vector>
+              <otmi:vector count='4'>changes</otmi:vector>
+              <otmi:vector count='4'>some</otmi:vector>
+              <otmi:vector count='4'>But</otmi:vector>
+              <otmi:vector count='4'>small</otmi:vector>
+              <otmi:vector count='4'>manufacturing</otmi:vector>
+              <otmi:vector count='4'>same</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>up</otmi:vector>
+              <otmi:vector count='4'>before</otmi:vector>
+              <otmi:vector count='4'>had</otmi:vector>
+              <otmi:vector count='4'>companies</otmi:vector>
+              <otmi:vector count='4'>development</otmi:vector>
+              <otmi:vector count='3'>requirements</otmi:vector>
+              <otmi:vector count='3'>guidelines</otmi:vector>
+              <otmi:vector count='3'>million</otmi:vector>
+              <otmi:vector count='3'>director</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>data</otmi:vector>
+              <otmi:vector count='3'>very</otmi:vector>
+              <otmi:vector count='3'>deputy</otmi:vector>
+              <otmi:vector count='3'>&quot;We</otmi:vector>
+              <otmi:vector count='3'>doses</otmi:vector>
+              <otmi:vector count='3'>could</otmi:vector>
+              <otmi:vector count='3'>five</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>researchers</otmi:vector>
+              <otmi:vector count='3'>going</otmi:vector>
+              <otmi:vector count='3'>allow</otmi:vector>
+              <otmi:vector count='3'>He</otmi:vector>
+              <otmi:vector count='3'>benefit</otmi:vector>
+              <otmi:vector count='3'>trial</otmi:vector>
+              <otmi:vector count='3'>put</otmi:vector>
+              <otmi:vector count='3'>candidates</otmi:vector>
+              <otmi:vector count='3'>molecules</otmi:vector>
+              <otmi:vector count='3'>animal</otmi:vector>
+              <otmi:vector count='3'>so</otmi:vector>
+              <otmi:vector count='3'>part</otmi:vector>
+              <otmi:vector count='3'>can</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>money</otmi:vector>
+              <otmi:vector count='3'>clinical</otmi:vector>
+              <otmi:vector count='3'>patients</otmi:vector>
+              <otmi:vector count='3'>&quot;The</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='2'>healthy</otmi:vector>
+              <otmi:vector count='2'>last</otmi:vector>
+              <otmi:vector count='2'>&quot;It&apos;s</otmi:vector>
+              <otmi:vector count='2'>New</otmi:vector>
+              <otmi:vector count='2'>she</otmi:vector>
+              <otmi:vector count='2'>instead</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>estimates</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='2'>year</otmi:vector>
+              <otmi:vector count='2'>Wolfe</otmi:vector>
+              <otmi:vector count='2'>risk</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>cost</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>these</otmi:vector>
+              <otmi:vector count='2'>who</otmi:vector>
+              <otmi:vector count='2'>use</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>early-stage</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>subjects</otmi:vector>
+              <otmi:vector count='2'>operations</otmi:vector>
+              <otmi:vector count='2'>York</otmi:vector>
+              <otmi:vector count='2'>multiple</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>production</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>required</otmi:vector>
+              <otmi:vector count='2'>At</otmi:vector>
+              <otmi:vector count='2'>London</otmi:vector>
+              <otmi:vector count='2'>begin</otmi:vector>
+              <otmi:vector count='2'>Birmingham</otmi:vector>
+              <otmi:vector count='2'>drugmaking</otmi:vector>
+              <otmi:vector count='2'>save</otmi:vector>
+              <otmi:vector count='2'>conducted</otmi:vector>
+              <otmi:vector count='2'>exploratory</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>him</otmi:vector>
+              <otmi:vector count='2'>hopes</otmi:vector>
+              <otmi:vector count='2'>&quot;you&apos;re</otmi:vector>
+              <otmi:vector count='2'>us</otmi:vector>
+              <otmi:vector count='2'>preclinical</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>centre</otmi:vector>
+              <otmi:vector count='2'>&quot;It</otmi:vector>
+              <otmi:vector count='2'>drugmakers</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>volunteers</otmi:vector>
+              <otmi:vector count='2'>Woodcock</otmi:vector>
+              <otmi:vector count='2'>allowing</otmi:vector>
+              <otmi:vector count='2'>facility</otmi:vector>
+              <otmi:vector count='2'>eight</otmi:vector>
+              <otmi:vector count='2'>US</otmi:vector>
+              <otmi:vector count='2'>change</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>balance</otmi:vector>
+              <otmi:vector count='2'>chief</otmi:vector>
+              <otmi:vector count='2'>run</otmi:vector>
+              <otmi:vector count='2'>however</otmi:vector>
+              <otmi:vector count='1'>lab</otmi:vector>
+              <otmi:vector count='1'>corner</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>regulations</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>Keep</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>according</otmi:vector>
+              <otmi:vector count='1'>&quot;In</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>Complying</otmi:vector>
+              <otmi:vector count='1'>men</otmi:vector>
+              <otmi:vector count='1'>welcomes</otmi:vector>
+              <otmi:vector count='1'>other</otmi:vector>
+              <otmi:vector count='1'>broad-scale</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>Others</otmi:vector>
+              <otmi:vector count='1'>warmly</otmi:vector>
+              <otmi:vector count='1'>suffered</otmi:vector>
+              <otmi:vector count='1'>conducting</otmi:vector>
+              <otmi:vector count='1'>biotechnology</otmi:vector>
+              <otmi:vector count='1'>bottlenecks</otmi:vector>
+              <otmi:vector count='1'>January</otmi:vector>
+              <otmi:vector count='1'>US$4</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>Infinity</otmi:vector>
+              <otmi:vector count='1'>sure</otmi:vector>
+              <otmi:vector count='1'>vector</otmi:vector>
+              <otmi:vector count='1'>Tim</otmi:vector>
+              <otmi:vector count='1'>free</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>exposure</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>university</otmi:vector>
+              <otmi:vector count='1'>notes</otmi:vector>
+              <otmi:vector count='1'>soar</otmi:vector>
+              <otmi:vector count='1'>crossing</otmi:vector>
+              <otmi:vector count='1'>toxicology</otmi:vector>
+              <otmi:vector count='1'>goal</otmi:vector>
+              <otmi:vector count='1'>Ratcliffe</otmi:vector>
+              <otmi:vector count='1'>choose</otmi:vector>
+              <otmi:vector count='1'>staffing</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>told</otmi:vector>
+              <otmi:vector count='1'>ease</otmi:vector>
+              <otmi:vector count='1'>we&apos;ve</otmi:vector>
+              <otmi:vector count='1'>horrific</otmi:vector>
+              <otmi:vector count='1'>concerned</otmi:vector>
+              <otmi:vector count='1'>Liam</otmi:vector>
+              <otmi:vector count='1'>policy</otmi:vector>
+              <otmi:vector count='1'>organ</otmi:vector>
+              <otmi:vector count='1'>light</otmi:vector>
+              <otmi:vector count='1'>&quot;Study</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>ventilation</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>gather</otmi:vector>
+              <otmi:vector count='1'>Novartis</otmi:vector>
+              <otmi:vector count='1'>president</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>palace</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>tell</otmi:vector>
+              <otmi:vector count='1'>Einstein</otmi:vector>
+              <otmi:vector count='1'>specialists</otmi:vector>
+              <otmi:vector count='1'>desire</otmi:vector>
+              <otmi:vector count='1'>Certainly</otmi:vector>
+              <otmi:vector count='1'>repeat</otmi:vector>
+              <otmi:vector count='1'>planning</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>&quot;If</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>released</otmi:vector>
+              <otmi:vector count='1'>rejected</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>troublesome</otmi:vector>
+              <otmi:vector count='1'>Sidney</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>receiving</otmi:vector>
+              <otmi:vector count='1'>deter</otmi:vector>
+              <otmi:vector count='1'>tremendous</otmi:vector>
+              <otmi:vector count='1'>old</otmi:vector>
+              <otmi:vector count='1'>1.5</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>promising</otmi:vector>
+              <otmi:vector count='1'>can&apos;t</otmi:vector>
+              <otmi:vector count='1'>Wright</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>participants</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>six</otmi:vector>
+              <otmi:vector count='1'>Cancer</otmi:vector>
+              <otmi:vector count='1'>specify</otmi:vector>
+              <otmi:vector count='1'>market</otmi:vector>
+              <otmi:vector count='1'>National</otmi:vector>
+              <otmi:vector count='1'>consuming</otmi:vector>
+              <otmi:vector count='1'>&quot;There</otmi:vector>
+              <otmi:vector count='1'>organic</otmi:vector>
+              <otmi:vector count='1'>examine</otmi:vector>
+              <otmi:vector count='1'>therapy</otmi:vector>
+              <otmi:vector count='1'>complicated</otmi:vector>
+              <otmi:vector count='1'>Tomaszewski</otmi:vector>
+              <otmi:vector count='1'>worth</otmi:vector>
+              <otmi:vector count='1'>dealing</otmi:vector>
+              <otmi:vector count='1'>agree</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>&quot;Who</otmi:vector>
+              <otmi:vector count='1'>Food</otmi:vector>
+              <otmi:vector count='1'>failing</otmi:vector>
+              <otmi:vector count='1'>panel</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>convenient</otmi:vector>
+              <otmi:vector count='1'>Until</otmi:vector>
+              <otmi:vector count='1'>state-of-the-art</otmi:vector>
+              <otmi:vector count='1'>gene</otmi:vector>
+              <otmi:vector count='1'>Garrison</otmi:vector>
+              <otmi:vector count='1'>&quot;Which</otmi:vector>
+              <otmi:vector count='1'>company&apos;s</otmi:vector>
+              <otmi:vector count='1'>isn&apos;t</otmi:vector>
+              <otmi:vector count='1'>failure</otmi:vector>
+              <otmi:vector count='1'>snaring</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>protect</otmi:vector>
+              <otmi:vector count='1'>Julian</otmi:vector>
+              <otmi:vector count='1'>partners</otmi:vector>
+              <otmi:vector count='1'>mass-produce</otmi:vector>
+              <otmi:vector count='1'>pursuing</otmi:vector>
+              <otmi:vector count='1'>Medicine</otmi:vector>
+              <otmi:vector count='1'>loosened</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>experience</otmi:vector>
+              <otmi:vector count='1'>David</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>billion</otmi:vector>
+              <otmi:vector count='1'>white-elephant</otmi:vector>
+              <otmi:vector count='1'>health-research</otmi:vector>
+              <otmi:vector count='1'>cheaper</otmi:vector>
+              <otmi:vector count='1'>got</otmi:vector>
+              <otmi:vector count='1'>welcome</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>person</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>medical</otmi:vector>
+              <otmi:vector count='1'>Pfizer</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>decrease</otmi:vector>
+              <otmi:vector count='1'>blocks</otmi:vector>
+              <otmi:vector count='1'>laboratory</otmi:vector>
+              <otmi:vector count='1'>Not</otmi:vector>
+              <otmi:vector count='1'>delivery</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>help</otmi:vector>
+              <otmi:vector count='1'>Thomas</otmi:vector>
+              <otmi:vector count='1'>everything</otmi:vector>
+              <otmi:vector count='1'>start</otmi:vector>
+              <otmi:vector count='1'>Adams</otmi:vector>
+              <otmi:vector count='1'>doing</otmi:vector>
+              <otmi:vector count='1'>Grassley</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>College</otmi:vector>
+              <otmi:vector count='1'>Earlier</otmi:vector>
+              <otmi:vector count='1'>Now</otmi:vector>
+              <otmi:vector count='1'>tiny</otmi:vector>
+              <otmi:vector count='1'>profound</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>front</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>loosening</otmi:vector>
+              <otmi:vector count='1'>oncologist</otmi:vector>
+              <otmi:vector count='1'>let</otmi:vector>
+              <otmi:vector count='1'>dedicated</otmi:vector>
+              <otmi:vector count='1'>relax</otmi:vector>
+              <otmi:vector count='1'>equipment</otmi:vector>
+              <otmi:vector count='1'>adding</otmi:vector>
+              <otmi:vector count='1'>big</otmi:vector>
+              <otmi:vector count='1'>won&apos;t</otmi:vector>
+              <otmi:vector count='1'>interested</otmi:vector>
+              <otmi:vector count='1'>scientific</otmi:vector>
+              <otmi:vector count='1'>bluntly</otmi:vector>
+              <otmi:vector count='1'>drugmaker</otmi:vector>
+              <otmi:vector count='1'>staff</otmi:vector>
+              <otmi:vector count='1'>get</otmi:vector>
+              <otmi:vector count='1'>forced</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>smarter</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>lot</otmi:vector>
+              <otmi:vector count='1'>Murray</otmi:vector>
+              <otmi:vector count='1'>Joe</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>nothing</otmi:vector>
+              <otmi:vector count='1'>batches</otmi:vector>
+              <otmi:vector count='1'>Drug</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>typical</otmi:vector>
+              <otmi:vector count='1'>industrial</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>developer</otmi:vector>
+              <otmi:vector count='1'>brief</otmi:vector>
+              <otmi:vector count='1'>half</otmi:vector>
+              <otmi:vector count='1'>full-scale</otmi:vector>
+              <otmi:vector count='1'>pick</otmi:vector>
+              <otmi:vector count='1'>majority</otmi:vector>
+              <otmi:vector count='1'>advocacy</otmi:vector>
+              <otmi:vector count='1'>Washington-based</otmi:vector>
+              <otmi:vector count='1'>offering</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>arm</otmi:vector>
+              <otmi:vector count='1'>difficult</otmi:vector>
+              <otmi:vector count='1'>scramble</otmi:vector>
+              <otmi:vector count='1'>controls</otmi:vector>
+              <otmi:vector count='1'>jettison</otmi:vector>
+              <otmi:vector count='1'>officer</otmi:vector>
+              <otmi:vector count='1'>&quot;To</otmi:vector>
+              <otmi:vector count='1'>easier.&quot;</otmi:vector>
+              <otmi:vector count='1'>reins</otmi:vector>
+              <otmi:vector count='1'>opportunity</otmi:vector>
+              <otmi:vector count='1'>Center</otmi:vector>
+              <otmi:vector count='1'>explains</otmi:vector>
+              <otmi:vector count='1'>Public</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>follow</otmi:vector>
+              <otmi:vector count='1'>safety</otmi:vector>
+              <otmi:vector count='1'>hall</otmi:vector>
+              <otmi:vector count='1'>building</otmi:vector>
+              <otmi:vector count='1'>eat</otmi:vector>
+              <otmi:vector count='1'>Pharmaceuticals</otmi:vector>
+              <otmi:vector count='1'>shot</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>Massachusetts</otmi:vector>
+              <otmi:vector count='1'>taking</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>thrilled</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>cut</otmi:vector>
+              <otmi:vector count='1'>administered</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>FDA&apos;s</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>instance</otmi:vector>
+              <otmi:vector count='1'>hardware</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>strict</otmi:vector>
+              <otmi:vector count='1'>statement</otmi:vector>
+              <otmi:vector count='1'>ethically</otmi:vector>
+              <otmi:vector count='1'>Time</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>commissioner</otmi:vector>
+              <otmi:vector count='1'>built</otmi:vector>
+              <otmi:vector count='1'>quality</otmi:vector>
+              <otmi:vector count='1'>Republican</otmi:vector>
+              <otmi:vector count='1'>something</otmi:vector>
+              <otmi:vector count='1'>really</otmi:vector>
+              <otmi:vector count='1'>opportunities</otmi:vector>
+              <otmi:vector count='1'>week</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>dying</otmi:vector>
+              <otmi:vector count='1'>Hastings</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>twofold</otmi:vector>
+              <otmi:vector count='1'>streamline</otmi:vector>
+              <otmi:vector count='1'>batch</otmi:vector>
+              <otmi:vector count='1'>everyone</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>twice</otmi:vector>
+              <otmi:vector count='1'>asks</otmi:vector>
+              <otmi:vector count='1'>walk</otmi:vector>
+              <otmi:vector count='1'>tip</otmi:vector>
+              <otmi:vector count='1'>Janet</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>saved</otmi:vector>
+              <otmi:vector count='1'>first-class</otmi:vector>
+              <otmi:vector count='1'>head</otmi:vector>
+              <otmi:vector count='1'>anticoagulant</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>spent</otmi:vector>
+              <otmi:vector count='1'>&quot;I&apos;m</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>dramatically</otmi:vector>
+              <otmi:vector count='1'>workshop</otmi:vector>
+              <otmi:vector count='1'>frequently</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>pay</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>fail</otmi:vector>
+              <otmi:vector count='1'>pharma</otmi:vector>
+              <otmi:vector count='1'>Iowa</otmi:vector>
+              <otmi:vector count='1'>wasn&apos;t</otmi:vector>
+              <otmi:vector count='1'>company</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>Senator</otmi:vector>
+              <otmi:vector count='1'>Cy</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>Stein</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>plans</otmi:vector>
+              <otmi:vector count='1'>body</otmi:vector>
+              <otmi:vector count='1'>pharmaceutical</otmi:vector>
+              <otmi:vector count='1'>plant</otmi:vector>
+              <otmi:vector count='1'>academics</otmi:vector>
+              <otmi:vector count='1'>plaudits</otmi:vector>
+              <otmi:vector count='1'>Swiss</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>Chuck</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>388</otmi:vector>
+              <otmi:vector count='1'>giving</otmi:vector>
+              <otmi:vector count='1'>bringing</otmi:vector>
+              <otmi:vector count='1'>Phase</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>September</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>bioethicist</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>campus</otmi:vector>
+              <otmi:vector count='1'>Administration</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>targeting</otmi:vector>
+              <otmi:vector count='1'>propelled</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>moving</otmi:vector>
+              <otmi:vector count='1'>gene-therapy</otmi:vector>
+              <otmi:vector count='1'>chemist</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>deliver</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>saves</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>effectiveness</otmi:vector>
+              <otmi:vector count='1'>cannibalizing</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>Citizen</otmi:vector>
+              <otmi:vector count='1'>metabolism</otmi:vector>
+              <otmi:vector count='1'>seven</otmi:vector>
+              <otmi:vector count='1'>Albert</otmi:vector>
+              <otmi:vector count='1'>announced</otmi:vector>
+              <otmi:vector count='1'>capitalize</otmi:vector>
+              <otmi:vector count='1'>shaved</otmi:vector>
+              <otmi:vector count='1'>design</otmi:vector>
+              <otmi:vector count='1'>global</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>Alabama</otmi:vector>
+              <otmi:vector count='1'>clinic</otmi:vector>
+              <otmi:vector count='1'>absolutely</otmi:vector>
+              <otmi:vector count='1'>Institute</otmi:vector>
+              <otmi:vector count='1'>goes</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>drive</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>And he won&apos;t have to scramble for more money to run the centre: the FDA had told him that it would need five dedicated staff. &quot;Who was going to pay for that?&quot; he asks</otmi:snippet>
+              <otmi:snippet>At the same time, it loosened manufacturing requirements for early-stage drug candidates — so Curiel will be free to make his delivery molecules in a cheaper and more convenient workshop. &quot;We built a palace,&quot; says Curiel, director of the gene-therapy centre at the University of Alabama, Birmingham. &quot;If these guidelines had been in place five years ago, we would have saved a lot of time and effort.&quot; Nonetheless, like other medical researchers, Curiel warmly welcomes the rules, which will let him walk down the hall to pick up a batch of vector molecules, instead of crossing eight blocks of the Birmingham campus</otmi:snippet>
+              <otmi:snippet>But in cancer, &quot;you&apos;re dealing with dying patients,&quot; says Cy Stein, an oncologist at Albert Einstein College of Medicine in New York. &quot;In phase I, at least we can tell them: &quot;We really think we&apos;ve got something here&quot;.&quot; But in phase zero, he says, &quot;you&apos;re offering nothing</otmi:snippet>
+              <otmi:snippet>But it doesn&apos;t save you time.&quot; At the US National Cancer Institute, however, plans are under way to make use of both changes to the system, says Joe Tomaszewski, deputy director of cancer treatment</otmi:snippet>
+              <otmi:snippet>By reducing the preclinical testing required before an experimental drug goes into humans, says Wolfe, the FDA &quot;increases the risk to the subjects&quot;</otmi:snippet>
+              <otmi:snippet>Certainly not to save big pharma some time.&quot; Others, including Sidney Wolfe, director of the health-research arm of Public Citizen, a Washington-based advocacy group, have argued that phase zero studies are ethically troublesome</otmi:snippet>
+              <otmi:snippet>Complying with the old rules was &quot;complicated, difficult and time consuming&quot;, he says. &quot;The new guidelines will make all of this dramatically easier.&quot;</otmi:snippet>
+              <otmi:snippet>David Curiel has just spent four years and US$4 million building a state-of-the-art plant to make molecules that could deliver gene therapy to patients</otmi:snippet>
+              <otmi:snippet>Earlier this year the US Food and Drug Administration (FDA) announced new rules that will allow small doses of experimental drugs to be tested in people before full-scale clinical trials begin</otmi:snippet>
+              <otmi:snippet>For instance, they allow more than one drug to be made at the same facility, and specify that production and quality control can be done by the same person in small operations</otmi:snippet>
+              <otmi:snippet>He estimates that one of the studies, conducted on eight volunteers last September, shaved five months off the development time of an anticoagulant. &quot;It&apos;s a welcome change,&quot; he says</otmi:snippet>
+              <otmi:snippet>He rejected both. &quot;It just wasn&apos;t worth it for us,&quot; he says. &quot;It saves some money up front</otmi:snippet>
+              <otmi:snippet>He says that production and preclinical toxicology now cost between $1 million and $1.5 million for a typical cancer drug. &quot;To get into a phase zero trial, you could cut that in half</otmi:snippet>
+              <otmi:snippet>I can&apos;t agree to that</otmi:snippet>
+              <otmi:snippet>In London last week, six healthy men suffered multiple organ failure after taking part in a phase I trial of a biological drug candidate (see page 388 )</otmi:snippet>
+              <otmi:snippet>In healthy volunteers, this need not be an issue</otmi:snippet>
+              <otmi:snippet>In light of this, some question whether this is the time to ease up on controls</otmi:snippet>
+              <otmi:snippet>Julian Adams, an organic chemist and chief scientific officer at Infinity Pharmaceuticals, a Massachusetts developer of cancer drugs, says that he has had two opportunities so far to run phase zero trials</otmi:snippet>
+              <otmi:snippet>Keep the balance The London event was &quot;absolutely horrific&quot;, says Thomas Murray, a bioethicist and president of the Hastings Center in Garrison, New York. &quot;There will be a profound desire not to repeat this experience, and to make sure that the FDA policy changes do not tip the balance too much towards speed and risk.&quot; The rules are part of an FDA drive to open bottlenecks and streamline drug development as estimates of the cost of bringing an original drug to market soar above $1 billion. &quot;The problem is that researchers conducting very early studies were required to follow the same manufacturing procedures as companies that mass-produce products for broad-scale distribution,&quot; explains Janet Woodcock, the FDA&apos;s deputy commissioner for operations</otmi:snippet>
+              <otmi:snippet>Not everyone is so thrilled with the change</otmi:snippet>
+              <otmi:snippet>Now it may never be needed</otmi:snippet>
+              <otmi:snippet>Pfizer has already conducted two phase zero studies, and is planning more, according to Liam Ratcliffe, the company&apos;s global chief of clinical research and development</otmi:snippet>
+              <otmi:snippet>Phase zero studies do not examine safety or effectiveness; instead, they gather data on the targeting, action and metabolism of a drug in the body</otmi:snippet>
+              <otmi:snippet>Senator Chuck Grassley (Iowa, Republican) put it more bluntly in a statement when the regulations were released. &quot;The FDA is loosening the reins on drug companies,&quot; he said. &quot;I&apos;m concerned for those who will be receiving these experimental drugs.&quot; But Woodcock says the approach will protect patients. &quot;Study in people early in the process is going to decrease human exposure to compounds that ultimately fail,&quot; she says, &quot;Which right now is the majority of them.&quot; Curiel, for his part, hopes to capitalize on the manufacturing changes, cannibalizing the first-class hardware and equipment of his white-elephant facility and moving it to a corner of his existing lab</otmi:snippet>
+              <otmi:snippet>So you could put twice as many compounds in the clinic.&quot; Some cancer specialists point out that, at the tiny doses administered in phase zero trials, there isn&apos;t going to be any benefit to trial participants</otmi:snippet>
+              <otmi:snippet>That has drawn plaudits from drugmakers, who are frequently forced to use animal data alone to choose the one drug from a panel of candidates that will be propelled into phase I trials. &quot;We are very interested in pursuing this,&quot; says Tim Wright, the deputy head of exploratory clinical development at Swiss drugmaker Novartis. &quot;It&apos;s a tremendous opportunity for us to rapidly explore multiple compounds&quot; with limited laboratory and animal testing, he says, adding that his company hopes to start several of the early trials within a year</otmi:snippet>
+              <otmi:snippet>The changes should benefit academics, she notes, by allowing them to make small batches of experimental drugs and do early testing in people — giving them a better shot at snaring industrial partners to take drugs further</otmi:snippet>
+              <otmi:snippet>The goal is twofold: to allow drugmakers to identify and jettison failing candidates early, and to generate data that will help them design smarter phase I studies of promising compounds</otmi:snippet>
+              <otmi:snippet>The manufacturing guidelines relax strict requirements for early-stage drugmaking</otmi:snippet>
+              <otmi:snippet>The rules on testing in people will mostly benefit the large pharmaceutical companies, by allowing &quot;phase zero&quot; or &quot;exploratory&quot; trials</otmi:snippet>
+              <otmi:snippet>These are brief trials — of seven days or less — in which human subjects are given very low doses of experimental drugs before standard in vitro and animal testing is complete</otmi:snippet>
+              <otmi:snippet>Time or money? The phase zero trials eat up some time before phase I can begin, however, and this may deter small biotechnology companies from doing them</otmi:snippet>
+              <otmi:snippet>Until January, requirements about everything from ventilation to staffing levels had put drugmaking beyond the reach of most university researchers</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="Indexer" className="textractor.chain.loader.SfnArticleLoader"
+           file="/sfn-2006/AS_DataNameDP.ds" appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary ">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+            basename="index/sfn-index"
+            parenthesesAreWords="true" skips="true"
+            wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+            termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"/>
+    </chain>
+</catalog>

@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2009//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>195582</PMID>
+        <DateCreated>
+            <Year>1977</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1977</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0264-6021</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>164</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1977</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Net activity of phospholipase A2 in brain and the lack of stimulation of the phospholipase A2-acylation stem.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>287-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Certain observations reported previously from this laboratory have not proved reproducible. These are (1) the relatively rapid hydrolysis of added phosphatidylcholine by phospholipase A2 of tissue from the cerebral cortex of the guinea pig and (2) the stimulation by 10 micron-noradrenaline and by 1.0nM-cyclic AMP of the phospholipase A2-acylation system of isolated synaptic membranes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rowe</LastName>
+                    <ForeName>C E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Retraction of Publication</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 1976;72:211-25</RefSource>
+                <PMID>181960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 1976 Jun;26(6):1217-30</RefSource>
+                <PMID>778343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 1973 Jul;1(4):849</RefSource>
+                <PMID>4620957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1971 Nov 5;248(2):245-53</RefSource>
+                <PMID>4331782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1962 Sep;1:804-10</RefSource>
+                <PMID>13974345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1975 Jun;148(3):567-81</RefSource>
+                <PMID>173287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1975 Jun;148(3):557-65</RefSource>
+                <PMID>993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1976 Sep 1;67(3):256-9</RefSource>
+                <PMID>183981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1975 May;148(2):197-208</RefSource>
+                <PMID>239707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1977 Feb 24;265(5596):764</RefSource>
+                <PMID>400964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionOf">
+                <RefSource>Gullis RJ, Rowe CE. Biochem Soc Trans. 1973 Jul;1(4):849</RefSource>
+                <PMID>4620957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionOf">
+                <RefSource>Gullis RJ, Rowe CE. Biochem J. 1975 Jun;148(3):567-81</RefSource>
+                <PMID>173287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionOf">
+                <RefSource>Gullis RJ, Rowe CE. Biochem J. 1975 Jun;148(3):557-65</RefSource>
+                <PMID>993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionOf">
+                <RefSource>Gullis RJ, Rowe CE. Biochem J. 1975 May;148(2):197-208</RefSource>
+                <PMID>239707</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC1164788</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">195582</ArticleId>
+            <ArticleId IdType="pmc">PMC1164788</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>18146</PMID>
+        <DateCreated>
+            <Year>1977</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1977</Year>
+            <Month>08</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0264-6021</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>164</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1977</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Guanylate cyclase activity and cyclic nucleotide concentrations during liver regeneration after experimental injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>33-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Cyclic nucleotide concentrations and guanylate cyclase activity were measured in regenerating rat liver. Previous work has shown that in livers of partially hepatectomized rats the activity of a membrane-bound guanylate cyclase increases considerably during the early replicative phase [Kimura &amp; Murad (1975) Proc. Natl. Acad. Sci. U.S.A.72, 1965-1969; Goridis &amp; Reutter (1975) Nature (London) 257, 698-700]. Over the same time period after partial hepatectomy, increased tissue concentrations of cyclic GMP were found when the rats were killed under pentobarbital anaesthesia, but not when anaesthesia was omitted. The results obtained on hepatectomized livers were compared with the changes in guanylate cyclase activity and cyclic nucleotide concentrations during the response to galactosamine treatment. Here, a peak of guanylate cyclase activity and of cyclic GMP concentrations occurred at 8h, that is before the beginning of the proliferative response. Both parameters were normal at the time of increased DNA synthesis. There does not, therefore, seem to be a consistent correlation between changes in guanylate cyclase activity or concentrations of cyclic GMP and an increase in liver DNA synthesis. A modest rise in cyclic AMP concentrations was found, however, in livers of galactosamine-treated rats, which was coincident with the time of DNA synthesis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goridis</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zwiller</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reutter</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nucleotides, Cyclic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7535-00-4</RegistryNumber>
+                <NameOfSubstance>Galactosamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance>DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.6.1.2</RegistryNumber>
+                <NameOfSubstance>Guanylate Cyclase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1952 Sep;198(1):297-303</RefSource>
+                <PMID>12999744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Naturwissenschaften. 1968 Oct;55(10):497</RefSource>
+                <PMID>5701857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pflugers Arch Gesamte Physiol Menschen Tiere. 1960;270:399-412</RefSource>
+                <PMID>13845757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1964 Jul 15;90:126-45</RefSource>
+                <PMID>14201146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 1963;15:245-300</RefSource>
+                <PMID>14283580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1951 Nov;193(1):265-75</RefSource>
+                <PMID>14907713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1975 May 25;250(10):3602-6</RefSource>
+                <PMID>165178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1975;44:491-522</RefSource>
+                <PMID>166606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>In Vitro. 1976 Jan;12(1):1-18</RefSource>
+                <PMID>172436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1976 Jan;70(1):195-202</RefSource>
+                <PMID>176900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1976 May 28;428(3):702-6</RefSource>
+                <PMID>179584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1975 Feb 19;377(2):463-72</RefSource>
+                <PMID>235309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1975 May;72(5):1965-9</RefSource>
+                <PMID>239404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1975 Oct 23;257(5528):698-700</RefSource>
+                <PMID>241938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1974 Aug 30;250(5469):741-2, 773-4</RefSource>
+                <PMID>4153265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1974 Nov;144(2):361-9</RefSource>
+                <PMID>4156833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1972 Dec 4;49(5):1201-7</RefSource>
+                <PMID>4345670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1973 Dec;56(2):394-407</RefSource>
+                <PMID>4358193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1974 May 24;343(3):519-28</RefSource>
+                <PMID>4366102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1974 Oct 4;251(5474):417-9</RefSource>
+                <PMID>4371074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Kinet. 1973 May;6(3):315-23</RefSource>
+                <PMID>4700045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Mol Pathol. 1968 Oct;9(2):279-90</RefSource>
+                <PMID>4952077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Mol Pathol. 1970 Feb;12(1):58-69</RefSource>
+                <PMID>5418074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biophys Biochem Cytol. 1960 Oct;8:413-22</RefSource>
+                <PMID>13728607</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Galactosamine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Guanylate Cyclase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hepatectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Liver Regeneration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nucleotides, Cyclic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1164755</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1977</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18146</ArticleId>
+            <ArticleId IdType="pmc">PMC1164755</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

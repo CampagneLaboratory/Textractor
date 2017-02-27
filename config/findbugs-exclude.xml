@@ -1,0 +1,16 @@
+<FindBugsFilter>
+    <!-- castor generated code -->
+    <Match classregex="textractor.acronyms.xml.*"/>
+    <Match classregex="textractor.xml.uniprot.xml.*"/>
+    <Match classregex="textractor.xml.pubmed.xml.*"/>
+    <Match classregex="textractor.xml.pubmedabstracts.xml.*"/>
+    <Match classregex="textractor.xml.yapex.xml.*"/>
+
+    <!-- javacc generated code -->
+    <Match class="textractor.parsers.extractor.ExtractionEngine"/>
+    <Match class="textractor.parsers.extractor.ExtractionEngineConstants"/>
+    <Match class="textractor.parsers.extractor.ParseException"/>
+    <Match class="textractor.parsers.extractor.Token"/>
+    <Match class="textractor.parsers.extractor.TokenManager"/>
+    <Match class="textractor.parsers.extractor.TokenMgrError"/>
+</FindBugsFilter>

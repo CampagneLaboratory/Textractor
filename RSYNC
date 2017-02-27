@@ -1,0 +1,2 @@
+cd c:/dev
+rsync  -avz  --rsh=/usr/bin/ssh textractor/textractor/classes campagne@zeppo.med.cornell.edu:/dat/scratch/dev/textractor

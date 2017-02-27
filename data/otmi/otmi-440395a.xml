@@ -1,0 +1,277 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Microwave data refine picture of Universe</title>
+      <id>info:doi/10.1038/440395a</id>
+      <link href='http://dx.doi.org/10.1038/440395a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Jenny Hogan</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>395</prism:startingPage>
+      <prism:endingPage>395</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>data</otmi:vector>
+              <otmi:vector count='4'>Universe</otmi:vector>
+              <otmi:vector count='4'>polarization</otmi:vector>
+              <otmi:vector count='4'>its</otmi:vector>
+              <otmi:vector count='4'>team</otmi:vector>
+              <otmi:vector count='4'>first</otmi:vector>
+              <otmi:vector count='3'>inflation</otmi:vector>
+              <otmi:vector count='3'>WMAP</otmi:vector>
+              <otmi:vector count='3'>says</otmi:vector>
+              <otmi:vector count='3'>results</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='3'>after</otmi:vector>
+              <otmi:vector count='3'>get</otmi:vector>
+              <otmi:vector count='3'>just</otmi:vector>
+              <otmi:vector count='3'>which</otmi:vector>
+              <otmi:vector count='2'>parameter</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>temperature</otmi:vector>
+              <otmi:vector count='2'>find</otmi:vector>
+              <otmi:vector count='2'>Page</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>satellite</otmi:vector>
+              <otmi:vector count='2'>ever</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>times</otmi:vector>
+              <otmi:vector count='2'>dark</otmi:vector>
+              <otmi:vector count='2'>calculated</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>hold</otmi:vector>
+              <otmi:vector count='2'>million</otmi:vector>
+              <otmi:vector count='2'>maps</otmi:vector>
+              <otmi:vector count='2'>2003</otmi:vector>
+              <otmi:vector count='2'>patterns</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>map</otmi:vector>
+              <otmi:vector count='2'>noise</otmi:vector>
+              <otmi:vector count='2'>Big</otmi:vector>
+              <otmi:vector count='2'>day</otmi:vector>
+              <otmi:vector count='2'>formed</otmi:vector>
+              <otmi:vector count='2'>signal</otmi:vector>
+              <otmi:vector count='1'>revealed</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>Charles</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>properties</otmi:vector>
+              <otmi:vector count='1'>launched</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>0.95</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>measurement</otmi:vector>
+              <otmi:vector count='1'>lingering</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>property</otmi:vector>
+              <otmi:vector count='1'>clues</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>mapped</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>signals</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>400</otmi:vector>
+              <otmi:vector count='1'>cosmic</otmi:vector>
+              <otmi:vector count='1'>spurt</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>goes</otmi:vector>
+              <otmi:vector count='1'>submitted</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>Hinshaw</otmi:vector>
+              <otmi:vector count='1'>request</otmi:vector>
+              <otmi:vector count='1'>latest</otmi:vector>
+              <otmi:vector count='1'>2001</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>Anisotropy</otmi:vector>
+              <otmi:vector count='1'>analysing</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>funding</otmi:vector>
+              <otmi:vector count='1'>allowed</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>reflect</otmi:vector>
+              <otmi:vector count='1'>lives</otmi:vector>
+              <otmi:vector count='1'>Lyman</otmi:vector>
+              <otmi:vector count='1'>estimate</otmi:vector>
+              <otmi:vector count='1'>released</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>tiny</otmi:vector>
+              <otmi:vector count='1'>detail</otmi:vector>
+              <otmi:vector count='1'>&quot;We</otmi:vector>
+              <otmi:vector count='1'>moments</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>submit</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>precisely</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>Jersey</otmi:vector>
+              <otmi:vector count='1'>things</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>March</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>WMAP&apos;s</otmi:vector>
+              <otmi:vector count='1'>trace</otmi:vector>
+              <otmi:vector count='1'>instrument</otmi:vector>
+              <otmi:vector count='1'>microwaves</otmi:vector>
+              <otmi:vector count='1'>artefacts</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>six</otmi:vector>
+              <otmi:vector count='1'>observable</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>contaminating</otmi:vector>
+              <otmi:vector count='1'>Universe&apos;s</otmi:vector>
+              <otmi:vector count='1'>&quot;At</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>NASA</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>all-consuming</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>introduces</otmi:vector>
+              <otmi:vector count='1'>his</otmi:vector>
+              <otmi:vector count='1'>Often</otmi:vector>
+              <otmi:vector count='1'>microwave</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>investigator</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>kelvin</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>conclusions</otmi:vector>
+              <otmi:vector count='1'>try</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>matter</otmi:vector>
+              <otmi:vector count='1'>cosmos</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>atoms</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>colleagues</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>stars</otmi:vector>
+              <otmi:vector count='1'>fluctuations</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>Princeton</otmi:vector>
+              <otmi:vector count='1'>equal</otmi:vector>
+              <otmi:vector count='1'>oh</otmi:vector>
+              <otmi:vector count='1'>Theories</otmi:vector>
+              <otmi:vector count='1'>Bennett</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>uncertainty</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>gosh</otmi:vector>
+              <otmi:vector count='1'>Bang</otmi:vector>
+              <otmi:vector count='1'>broadly</otmi:vector>
+              <otmi:vector count='1'>composition</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>radiation</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>wouldn&apos;t</otmi:vector>
+              <otmi:vector count='1'>Astrophysical</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>gruesome</otmi:vector>
+              <otmi:vector count='1'>measuring</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>team&apos;s</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>Journal</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>powerful</otmi:vector>
+              <otmi:vector count='1'>full-sky</otmi:vector>
+              <otmi:vector count='1'>Wilkinson</otmi:vector>
+              <otmi:vector count='1'>spent</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>detect</otmi:vector>
+              <otmi:vector count='1'>&quot;It</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>afterglow</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>characterizing</otmi:vector>
+              <otmi:vector count='1'>pixels</otmi:vector>
+              <otmi:vector count='1'>meant</otmi:vector>
+              <otmi:vector count='1'>improve</otmi:vector>
+              <otmi:vector count='1'>principal</otmi:vector>
+              <otmi:vector count='1'>millionths</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>easy</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>Bang&apos;s</otmi:vector>
+              <otmi:vector count='1'>Probe</otmi:vector>
+              <otmi:vector count='1'>amplifier</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>0.02</otmi:vector>
+              <otmi:vector count='1'>coordinated</otmi:vector>
+              <otmi:vector count='1'>Gary</otmi:vector>
+              <otmi:vector count='1'>optical</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>turning</otmi:vector>
+              <otmi:vector count='1'>fainter</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>Microwave</otmi:vector>
+              <otmi:vector count='1'>on.</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>going</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>But turning data from the Wilkinson Microwave Anisotropy Probe (WMAP) into a map of the Big Bang&apos;s afterglow has been an all-consuming task. &quot;We just had to get this out to get on with our lives,&quot; says Lyman Page of Princeton University, New Jersey</otmi:snippet>
+              <otmi:snippet>For example, an amplifier on the satellite introduces complex noise into the data by contaminating each observation with a lingering trace of its previous measurement</otmi:snippet>
+              <otmi:snippet>From the polarization maps, the team precisely calculated the Universe&apos;s &quot;optical depth&quot;, one of the six fundamental properties of the cosmos</otmi:snippet>
+              <otmi:snippet>It calculated another basic property, know as the inflation parameter, to be 0.95 with an uncertainty of less than 0.02</otmi:snippet>
+              <otmi:snippet>Often, they would try an approach only to find that it introduced new artefacts. &quot;It was just gruesome detail day after day,&quot; says Charles Bennett, WMAP&apos;s principal investigator</otmi:snippet>
+              <otmi:snippet>Page and his colleagues have spent the past three years analysing the latest data from WMAP, a satellite launched in 2001 to study patterns in the radiation known as the cosmic microwave background</otmi:snippet>
+              <otmi:snippet>The 2003 data provided powerful support for the idea that the Universe was dominated by things not directly observable — dark matter and dark energy</otmi:snippet>
+              <otmi:snippet>The results, submitted to The Astrophysical Journal , were released four days before the WMAP team was due to submit a request for further funding to NASA</otmi:snippet>
+              <otmi:snippet>The team had to find a way to correct for this across the 3 million pixels of the full-sky map</otmi:snippet>
+              <otmi:snippet>The team&apos;s results, revealed on 16 March, broadly confirm its first conclusions — presented in 2003 after analysis of a single year of data</otmi:snippet>
+              <otmi:snippet>The temperature signals are tiny (between 30 and 70 millionths of a kelvin); the polarization signal is 100 times fainter still</otmi:snippet>
+              <otmi:snippet>The work goes ever on.</otmi:snippet>
+              <otmi:snippet>Theories of inflation, which hold that the Universe had a dramatic growth spurt in its first moments, predict that the inflation parameter should not be equal to one</otmi:snippet>
+              <otmi:snippet>These patterns, which reflect the state of the Universe at the time the first atoms formed, hold clues to its structure, history and composition</otmi:snippet>
+              <otmi:snippet>This allowed it to estimate that the first stars formed 400 million years after the Big Bang</otmi:snippet>
+              <otmi:snippet>To detect the polarization signal meant characterizing completely the noise in the instrument. &quot;At times you just thought, oh my gosh, how are we ever going to get this right?&quot; says Gary Hinshaw, who coordinated the analysis</otmi:snippet>
+              <otmi:snippet>To improve on these results, which were based on maps of temperature fluctuations, the team mapped the polarization of the microwaves</otmi:snippet>
+              <otmi:snippet>You probably wouldn&apos;t expect measuring the Universe to be easy</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

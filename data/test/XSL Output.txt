@@ -1,0 +1,205 @@
+comment: "editorExGraphManager File"
+version: "50"
+creator: "Graph Editor Toolkit for Java"
+
+graphManager: 0
+{
+	text: 
+	topology:
+	{
+		graph: 1
+		{
+		topology:
+			{
+		node: 20 { text:  
+		 } 
+		node: 90 { text:   a
+		 } 
+		node: 60 { text:  a
+		 } 
+		node: 80 { text:  b
+		 } 
+		node: 10 { text: a
+		 } 
+		node: 40 { text: a 
+		 } 
+		node: 50 { text: aa
+		 } 
+		node: 100 { text: aaa
+		 } 
+		node: 70 { text: ab
+		 } 
+		node: 30 { text: b
+		 }  edge: 2299 { source: 10 target:  20 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 2599 { source: 30 target:  20 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 21599 { source: 60 target:  20 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 2399 { source: 100 target:  20 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 6899 { source: 20 target:  60 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 61199 { source: 40 target:  60 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 81399 { source: 20 target:  80 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1199 { source: 10 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1399 { source: 20 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1799 { source: 30 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1599 { source: 40 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1699 { source: 50 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 1999 { source: 60 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 11499 { source: 80 target:  10 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 4399 { source: 10 target:  40 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 4499 { source: 50 target:  40 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 5199 { source: 10 target:  50 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 5799 { source: 50 target:  50 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 51099 { source: 60 target:  50 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 10199 { source: 10 target:  100 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 10299 { source: 50 target:  100 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 3499 { source: 10 target:  30 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 3699 { source: 20 target:  30 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					edge: 31299 { source: 60 target:  30 
+				ui:
+					{
+						name: comtomsawyereditorxuiTSEDashedEdgeUI
+						width: 1
+					}
+				}	
+					
+			}
+		}
+	}
+}

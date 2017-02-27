@@ -1,0 +1,1677 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>ClC chloride channels viewed through a transporter lens</title>
+      <id>info:doi/10.1038/nature04713</id>
+      <link href='http://dx.doi.org/10.1038/nature04713' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Christopher Miller</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>484</prism:startingPage>
+      <prism:endingPage>489</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>Since its discovery, the ClC family of chloride channels has presented biophysicists with unexpected behaviours and unusual surprises. The latest of these is the realization that not only does the family feature genuine chloride channels, it also includes proton-coupled chloride transporters, which move chloride ions and protons across the membrane in opposite directions. The crystal structure of such a transporter serves as a useful platform for understanding ClC channels, and features of chloride/proton exchange-transport may provide a key for comprehending voltage-dependent gating of the channels.</otmi:rawtext>
+          <otmi:reducedtext>Since its discovery, ClC family chloride channels has presented biophysicists unexpected behaviours unusual surprises. latest these realization not only does family feature genuine chloride channels, also includes proton-coupled chloride transporters, which move chloride ions protons across membrane opposite directions. crystal structure such transporter serves useful platform understanding ClC channels, features chloride/proton exchange-transport may provide key comprehending voltage-dependent gating channels.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='5'>chloride</otmi:vector>
+            <otmi:vector count='3'>channels</otmi:vector>
+            <otmi:vector count='2'>family</otmi:vector>
+            <otmi:vector count='2'>ClC</otmi:vector>
+            <otmi:vector count='1'>useful</otmi:vector>
+            <otmi:vector count='1'>proton-coupled</otmi:vector>
+            <otmi:vector count='1'>also</otmi:vector>
+            <otmi:vector count='1'>feature</otmi:vector>
+            <otmi:vector count='1'>behaviours</otmi:vector>
+            <otmi:vector count='1'>gating</otmi:vector>
+            <otmi:vector count='1'>platform</otmi:vector>
+            <otmi:vector count='1'>structure</otmi:vector>
+            <otmi:vector count='1'>only</otmi:vector>
+            <otmi:vector count='1'>exchange-transport</otmi:vector>
+            <otmi:vector count='1'>directions</otmi:vector>
+            <otmi:vector count='1'>across</otmi:vector>
+            <otmi:vector count='1'>protons</otmi:vector>
+            <otmi:vector count='1'>unusual</otmi:vector>
+            <otmi:vector count='1'>does</otmi:vector>
+            <otmi:vector count='1'>surprises</otmi:vector>
+            <otmi:vector count='1'>understanding</otmi:vector>
+            <otmi:vector count='1'>transporter</otmi:vector>
+            <otmi:vector count='1'>crystal</otmi:vector>
+            <otmi:vector count='1'>includes</otmi:vector>
+            <otmi:vector count='1'>presented</otmi:vector>
+            <otmi:vector count='1'>has</otmi:vector>
+            <otmi:vector count='1'>transporters</otmi:vector>
+            <otmi:vector count='1'>which</otmi:vector>
+            <otmi:vector count='1'>Since</otmi:vector>
+            <otmi:vector count='1'>voltage-dependent</otmi:vector>
+            <otmi:vector count='1'>provide</otmi:vector>
+            <otmi:vector count='1'>may</otmi:vector>
+            <otmi:vector count='1'>discovery</otmi:vector>
+            <otmi:vector count='1'>comprehending</otmi:vector>
+            <otmi:vector count='1'>proton</otmi:vector>
+            <otmi:vector count='1'>move</otmi:vector>
+            <otmi:vector count='1'>unexpected</otmi:vector>
+            <otmi:vector count='1'>features</otmi:vector>
+            <otmi:vector count='1'>such</otmi:vector>
+            <otmi:vector count='1'>these</otmi:vector>
+            <otmi:vector count='1'>latest</otmi:vector>
+            <otmi:vector count='1'>biophysicists</otmi:vector>
+            <otmi:vector count='1'>channels.</otmi:vector>
+            <otmi:vector count='1'>serves</otmi:vector>
+            <otmi:vector count='1'>membrane</otmi:vector>
+            <otmi:vector count='1'>not</otmi:vector>
+            <otmi:vector count='1'>ions</otmi:vector>
+            <otmi:vector count='1'>its</otmi:vector>
+            <otmi:vector count='1'>key</otmi:vector>
+            <otmi:vector count='1'>genuine</otmi:vector>
+            <otmi:vector count='1'>opposite</otmi:vector>
+            <otmi:vector count='1'>realization</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>Since its discovery, the ClC family of chloride channels has presented biophysicists with unexpected behaviours and unusual surprises</otmi:snippet>
+            <otmi:snippet>The crystal structure of such a transporter serves as a useful platform for understanding ClC channels, and features of chloride/proton exchange-transport may provide a key for comprehending voltage-dependent gating of the channels.</otmi:snippet>
+            <otmi:snippet>The latest of these is the realization that not only does the family feature genuine chloride channels, it also includes proton-coupled chloride transporters, which move chloride ions and protons across the membrane in opposite directions</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='90'>Cl</otmi:vector>
+              <otmi:vector count='45'>channels</otmi:vector>
+              <otmi:vector count='43'>ClC</otmi:vector>
+              <otmi:vector count='36'>Glu</otmi:vector>
+              <otmi:vector count='34'>channel</otmi:vector>
+              <otmi:vector count='31'>H</otmi:vector>
+              <otmi:vector count='29'>ex</otmi:vector>
+              <otmi:vector count='26'>gating</otmi:vector>
+              <otmi:vector count='22'>which</otmi:vector>
+              <otmi:vector count='20'>transporter</otmi:vector>
+              <otmi:vector count='20'>not</otmi:vector>
+              <otmi:vector count='20'>but</otmi:vector>
+              <otmi:vector count='20'>at</otmi:vector>
+              <otmi:vector count='17'>pore</otmi:vector>
+              <otmi:vector count='17'>protein</otmi:vector>
+              <otmi:vector count='17'>intracellular</otmi:vector>
+              <otmi:vector count='17'>structure</otmi:vector>
+              <otmi:vector count='17'>voltage</otmi:vector>
+              <otmi:vector count='15'>binding</otmi:vector>
+              <otmi:vector count='15'>ion</otmi:vector>
+              <otmi:vector count='13'>fast</otmi:vector>
+              <otmi:vector count='13'>region</otmi:vector>
+              <otmi:vector count='13'>extracellular</otmi:vector>
+              <otmi:vector count='12'>pathway</otmi:vector>
+              <otmi:vector count='12'>have</otmi:vector>
+              <otmi:vector count='11'>membrane</otmi:vector>
+              <otmi:vector count='11'>open</otmi:vector>
+              <otmi:vector count='10'>exchange</otmi:vector>
+              <otmi:vector count='10'>two</otmi:vector>
+              <otmi:vector count='10'>between</otmi:vector>
+              <otmi:vector count='10'>external</otmi:vector>
+              <otmi:vector count='10'>mechanism</otmi:vector>
+              <otmi:vector count='10'>can</otmi:vector>
+              <otmi:vector count='10'>bacterial</otmi:vector>
+              <otmi:vector count='10'>ions</otmi:vector>
+              <otmi:vector count='10'>side</otmi:vector>
+              <otmi:vector count='10'>site</otmi:vector>
+              <otmi:vector count='10'>gate</otmi:vector>
+              <otmi:vector count='9'>opening</otmi:vector>
+              <otmi:vector count='9'>But</otmi:vector>
+              <otmi:vector count='9'>so</otmi:vector>
+              <otmi:vector count='9'>These</otmi:vector>
+              <otmi:vector count='9'>its</otmi:vector>
+              <otmi:vector count='9'>protons</otmi:vector>
+              <otmi:vector count='9'>does</otmi:vector>
+              <otmi:vector count='9'>such</otmi:vector>
+              <otmi:vector count='9'>central</otmi:vector>
+              <otmi:vector count='9'>been</otmi:vector>
+              <otmi:vector count='9'>proteins</otmi:vector>
+              <otmi:vector count='8'>all</otmi:vector>
+              <otmi:vector count='8'>their</otmi:vector>
+              <otmi:vector count='8'>2</otmi:vector>
+              <otmi:vector count='8'>would</otmi:vector>
+              <otmi:vector count='8'>work</otmi:vector>
+              <otmi:vector count='8'>about</otmi:vector>
+              <otmi:vector count='8'>Fig</otmi:vector>
+              <otmi:vector count='8'>movement</otmi:vector>
+              <otmi:vector count='8'>will</otmi:vector>
+              <otmi:vector count='8'>through</otmi:vector>
+              <otmi:vector count='8'>anions</otmi:vector>
+              <otmi:vector count='8'>also</otmi:vector>
+              <otmi:vector count='8'>has</otmi:vector>
+              <otmi:vector count='8'>these</otmi:vector>
+              <otmi:vector count='7'>solution</otmi:vector>
+              <otmi:vector count='7'>dependence</otmi:vector>
+              <otmi:vector count='7'>upon</otmi:vector>
+              <otmi:vector count='7'>must</otmi:vector>
+              <otmi:vector count='7'>family</otmi:vector>
+              <otmi:vector count='7'>them</otmi:vector>
+              <otmi:vector count='7'>ClCs</otmi:vector>
+              <otmi:vector count='7'>now</otmi:vector>
+              <otmi:vector count='7'>only</otmi:vector>
+              <otmi:vector count='7'>permeation</otmi:vector>
+              <otmi:vector count='7'>proton</otmi:vector>
+              <otmi:vector count='7'>conformational</otmi:vector>
+              <otmi:vector count='6'>I</otmi:vector>
+              <otmi:vector count='6'>near</otmi:vector>
+              <otmi:vector count='6'>here</otmi:vector>
+              <otmi:vector count='6'>required</otmi:vector>
+              <otmi:vector count='6'>cytoplasmic</otmi:vector>
+              <otmi:vector count='6'>structures</otmi:vector>
+              <otmi:vector count='6'>internal</otmi:vector>
+              <otmi:vector count='6'>because</otmi:vector>
+              <otmi:vector count='6'>pH</otmi:vector>
+              <otmi:vector count='6'>transporters</otmi:vector>
+              <otmi:vector count='6'>residue</otmi:vector>
+              <otmi:vector count='6'>movements</otmi:vector>
+              <otmi:vector count='6'>residues</otmi:vector>
+              <otmi:vector count='6'>transport</otmi:vector>
+              <otmi:vector count='6'>transfer</otmi:vector>
+              <otmi:vector count='5'>anion</otmi:vector>
+              <otmi:vector count='5'>access</otmi:vector>
+              <otmi:vector count='5'>along</otmi:vector>
+              <otmi:vector count='5'>structural</otmi:vector>
+              <otmi:vector count='5'>activation</otmi:vector>
+              <otmi:vector count='5'>anion-binding</otmi:vector>
+              <otmi:vector count='5'>then</otmi:vector>
+              <otmi:vector count='5'>both</otmi:vector>
+              <otmi:vector count='5'>do</otmi:vector>
+              <otmi:vector count='5'>glutamate</otmi:vector>
+              <otmi:vector count='5'>each</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>carboxylate</otmi:vector>
+              <otmi:vector count='5'>change</otmi:vector>
+              <otmi:vector count='5'>sites</otmi:vector>
+              <otmi:vector count='5'>transmembrane</otmi:vector>
+              <otmi:vector count='5'>ClC-0</otmi:vector>
+              <otmi:vector count='5'>charge</otmi:vector>
+              <otmi:vector count='5'>us</otmi:vector>
+              <otmi:vector count='4'>large</otmi:vector>
+              <otmi:vector count='4'>some</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>molecular</otmi:vector>
+              <otmi:vector count='4'>1b</otmi:vector>
+              <otmi:vector count='4'>located</otmi:vector>
+              <otmi:vector count='4'>found</otmi:vector>
+              <otmi:vector count='4'>than</otmi:vector>
+              <otmi:vector count='4'>no</otmi:vector>
+              <otmi:vector count='4'>into</otmi:vector>
+              <otmi:vector count='4'>close</otmi:vector>
+              <otmi:vector count='4'>chain</otmi:vector>
+              <otmi:vector count='4'>charged</otmi:vector>
+              <otmi:vector count='4'>conductance</otmi:vector>
+              <otmi:vector count='4'>permeant</otmi:vector>
+              <otmi:vector count='4'>they</otmi:vector>
+              <otmi:vector count='4'>high</otmi:vector>
+              <otmi:vector count='4'>subunit</otmi:vector>
+              <otmi:vector count='4'>Tyr</otmi:vector>
+              <otmi:vector count='4'>strong</otmi:vector>
+              <otmi:vector count='4'>closed</otmi:vector>
+              <otmi:vector count='4'>same</otmi:vector>
+              <otmi:vector count='4'>should</otmi:vector>
+              <otmi:vector count='4'>Ser</otmi:vector>
+              <otmi:vector count='4'>conduction</otmi:vector>
+              <otmi:vector count='4'>mutations</otmi:vector>
+              <otmi:vector count='4'>low</otmi:vector>
+              <otmi:vector count='4'>where</otmi:vector>
+              <otmi:vector count='4'>function</otmi:vector>
+              <otmi:vector count='4'>single-channel</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>roughly</otmi:vector>
+              <otmi:vector count='4'>linked</otmi:vector>
+              <otmi:vector count='4'>much</otmi:vector>
+              <otmi:vector count='4'>4</otmi:vector>
+              <otmi:vector count='4'>3</otmi:vector>
+              <otmi:vector count='4'>groups</otmi:vector>
+              <otmi:vector count='4'>if</otmi:vector>
+              <otmi:vector count='4'>three</otmi:vector>
+              <otmi:vector count='4'>within</otmi:vector>
+              <otmi:vector count='4'>how</otmi:vector>
+              <otmi:vector count='4'>At</otmi:vector>
+              <otmi:vector count='4'>exchangers</otmi:vector>
+              <otmi:vector count='4'>several</otmi:vector>
+              <otmi:vector count='4'>protonation</otmi:vector>
+              <otmi:vector count='4'>sequence</otmi:vector>
+              <otmi:vector count='4'>behaviour</otmi:vector>
+              <otmi:vector count='4'>negative</otmi:vector>
+              <otmi:vector count='4'>concentration</otmi:vector>
+              <otmi:vector count='4'>muscle-type</otmi:vector>
+              <otmi:vector count='4'>eukaryotic</otmi:vector>
+              <otmi:vector count='3'>outward</otmi:vector>
+              <otmi:vector count='3'>known</otmi:vector>
+              <otmi:vector count='3'>question</otmi:vector>
+              <otmi:vector count='3'>ref</otmi:vector>
+              <otmi:vector count='3'>c</otmi:vector>
+              <otmi:vector count='3'>recently</otmi:vector>
+              <otmi:vector count='3'>properties</otmi:vector>
+              <otmi:vector count='3'>type</otmi:vector>
+              <otmi:vector count='3'>involve</otmi:vector>
+              <otmi:vector count='3'>seen</otmi:vector>
+              <otmi:vector count='3'>sense</otmi:vector>
+              <otmi:vector count='3'>short</otmi:vector>
+              <otmi:vector count='3'>instead</otmi:vector>
+              <otmi:vector count='3'>experimental</otmi:vector>
+              <otmi:vector count='3'>favoured</otmi:vector>
+              <otmi:vector count='3'>suggest</otmi:vector>
+              <otmi:vector count='3'>role</otmi:vector>
+              <otmi:vector count='3'>itself</otmi:vector>
+              <otmi:vector count='3'>swings</otmi:vector>
+              <otmi:vector count='3'>denoted</otmi:vector>
+              <otmi:vector count='3'>simultaneously</otmi:vector>
+              <otmi:vector count='3'>coordinates</otmi:vector>
+              <otmi:vector count='3'>allosteric</otmi:vector>
+              <otmi:vector count='3'>latter</otmi:vector>
+              <otmi:vector count='3'>selective</otmi:vector>
+              <otmi:vector count='3'>currents</otmi:vector>
+              <otmi:vector count='3'>makes</otmi:vector>
+              <otmi:vector count='3'>many</otmi:vector>
+              <otmi:vector count='3'>examine</otmi:vector>
+              <otmi:vector count='3'>somehow</otmi:vector>
+              <otmi:vector count='3'>impermeant</otmi:vector>
+              <otmi:vector count='3'>small</otmi:vector>
+              <otmi:vector count='3'>end</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>second</otmi:vector>
+              <otmi:vector count='3'>view</otmi:vector>
+              <otmi:vector count='3'>How</otmi:vector>
+              <otmi:vector count='3'>our</otmi:vector>
+              <otmi:vector count='3'>electropositivity</otmi:vector>
+              <otmi:vector count='3'>block</otmi:vector>
+              <otmi:vector count='3'>ideas</otmi:vector>
+              <otmi:vector count='3'>basic</otmi:vector>
+              <otmi:vector count='3'>picture</otmi:vector>
+              <otmi:vector count='3'>surface</otmi:vector>
+              <otmi:vector count='3'>expected</otmi:vector>
+              <otmi:vector count='3'>too</otmi:vector>
+              <otmi:vector count='3'>half</otmi:vector>
+              <otmi:vector count='3'>So</otmi:vector>
+              <otmi:vector count='3'>structure&apos;s</otmi:vector>
+              <otmi:vector count='3'>little</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>pores</otmi:vector>
+              <otmi:vector count='3'>summarized</otmi:vector>
+              <otmi:vector count='3'>electrophysiological</otmi:vector>
+              <otmi:vector count='3'>very</otmi:vector>
+              <otmi:vector count='3'>subclass</otmi:vector>
+              <otmi:vector count='3'>membrane-embedded</otmi:vector>
+              <otmi:vector count='3'>leads</otmi:vector>
+              <otmi:vector count='3'>functional</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='3'>help</otmi:vector>
+              <otmi:vector count='3'>location</otmi:vector>
+              <otmi:vector count='3'>isoform</otmi:vector>
+              <otmi:vector count='3'>why</otmi:vector>
+              <otmi:vector count='3'>result</otmi:vector>
+              <otmi:vector count='3'>completely</otmi:vector>
+              <otmi:vector count='3'>ClC-ec1</otmi:vector>
+              <otmi:vector count='3'>might</otmi:vector>
+              <otmi:vector count='3'>during</otmi:vector>
+              <otmi:vector count='3'>well</otmi:vector>
+              <otmi:vector count='3'>viewed</otmi:vector>
+              <otmi:vector count='3'>need</otmi:vector>
+              <otmi:vector count='3'>downhill</otmi:vector>
+              <otmi:vector count='3'>positive</otmi:vector>
+              <otmi:vector count='3'>whereas</otmi:vector>
+              <otmi:vector count='3'>rather</otmi:vector>
+              <otmi:vector count='3'>certain</otmi:vector>
+              <otmi:vector count='3'>part</otmi:vector>
+              <otmi:vector count='3'>Br</otmi:vector>
+              <otmi:vector count='3'>selectivity</otmi:vector>
+              <otmi:vector count='3'>mutated</otmi:vector>
+              <otmi:vector count='3'>protonated</otmi:vector>
+              <otmi:vector count='3'>mutation</otmi:vector>
+              <otmi:vector count='3'>pore&apos;s</otmi:vector>
+              <otmi:vector count='3'>solvent</otmi:vector>
+              <otmi:vector count='3'>results</otmi:vector>
+              <otmi:vector count='3'>Ca</otmi:vector>
+              <otmi:vector count='3'>level</otmi:vector>
+              <otmi:vector count='3'>domain</otmi:vector>
+              <otmi:vector count='3'>membranes</otmi:vector>
+              <otmi:vector count='3'>review</otmi:vector>
+              <otmi:vector count='3'>First</otmi:vector>
+              <otmi:vector count='3'>human</otmi:vector>
+              <otmi:vector count='3'>present</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>Finally</otmi:vector>
+              <otmi:vector count='2'>contrast</otmi:vector>
+              <otmi:vector count='2'>concentrations</otmi:vector>
+              <otmi:vector count='2'>positively</otmi:vector>
+              <otmi:vector count='2'>naturally</otmi:vector>
+              <otmi:vector count='2'>needed</otmi:vector>
+              <otmi:vector count='2'>SO</otmi:vector>
+              <otmi:vector count='2'>analogous</otmi:vector>
+              <otmi:vector count='2'>understood</otmi:vector>
+              <otmi:vector count='2'>directly</otmi:vector>
+              <otmi:vector count='2'>feature</otmi:vector>
+              <otmi:vector count='2'>suppose</otmi:vector>
+              <otmi:vector count='2'>biology</otmi:vector>
+              <otmi:vector count='2'>unknown</otmi:vector>
+              <otmi:vector count='2'>beyond</otmi:vector>
+              <otmi:vector count='2'>disrupt</otmi:vector>
+              <otmi:vector count='2'>permeates</otmi:vector>
+              <otmi:vector count='2'>like</otmi:vector>
+              <otmi:vector count='2'>separate</otmi:vector>
+              <otmi:vector count='2'>pump</otmi:vector>
+              <otmi:vector count='2'>direct</otmi:vector>
+              <otmi:vector count='2'>far</otmi:vector>
+              <otmi:vector count='2'>excluded</otmi:vector>
+              <otmi:vector count='2'>common</otmi:vector>
+              <otmi:vector count='2'>display</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>tested</otmi:vector>
+              <otmi:vector count='2'>argue</otmi:vector>
+              <otmi:vector count='2'>absolute</otmi:vector>
+              <otmi:vector count='2'>chemistry</otmi:vector>
+              <otmi:vector count='2'>conditions</otmi:vector>
+              <otmi:vector count='2'>protein&apos;s</otmi:vector>
+              <otmi:vector count='2'>observed</otmi:vector>
+              <otmi:vector count='2'>diffusion</otmi:vector>
+              <otmi:vector count='2'>recent</otmi:vector>
+              <otmi:vector count='2'>diseases</otmi:vector>
+              <otmi:vector count='2'>Dutzler</otmi:vector>
+              <otmi:vector count='2'>simply</otmi:vector>
+              <otmi:vector count='2'>past</otmi:vector>
+              <otmi:vector count='2'>size</otmi:vector>
+              <otmi:vector count='2'>7</otmi:vector>
+              <otmi:vector count='2'>alter</otmi:vector>
+              <otmi:vector count='2'>effects</otmi:vector>
+              <otmi:vector count='2'>every</otmi:vector>
+              <otmi:vector count='2'>occludes</otmi:vector>
+              <otmi:vector count='2'>while</otmi:vector>
+              <otmi:vector count='2'>physiology</otmi:vector>
+              <otmi:vector count='2'>explanation</otmi:vector>
+              <otmi:vector count='2'>route</otmi:vector>
+              <otmi:vector count='2'>big</otmi:vector>
+              <otmi:vector count='2'>means</otmi:vector>
+              <otmi:vector count='2'>arise</otmi:vector>
+              <otmi:vector count='2'>voltage-dependent</otmi:vector>
+              <otmi:vector count='2'>non-equilibrium</otmi:vector>
+              <otmi:vector count='2'>nearly</otmi:vector>
+              <otmi:vector count='2'>Na</otmi:vector>
+              <otmi:vector count='2'>shown</otmi:vector>
+              <otmi:vector count='2'>simple</otmi:vector>
+              <otmi:vector count='2'>raises</otmi:vector>
+              <otmi:vector count='2'>signals</otmi:vector>
+              <otmi:vector count='2'>occupied</otmi:vector>
+              <otmi:vector count='2'>conserved</otmi:vector>
+              <otmi:vector count='2'>proposal</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>dependent</otmi:vector>
+              <otmi:vector count='2'>unexplained</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='2'>activator</otmi:vector>
+              <otmi:vector count='2'>pumps</otmi:vector>
+              <otmi:vector count='2'>occupancy</otmi:vector>
+              <otmi:vector count='2'>above</otmi:vector>
+              <otmi:vector count='2'>negatively</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>fact</otmi:vector>
+              <otmi:vector count='2'>firm</otmi:vector>
+              <otmi:vector count='2'>requires</otmi:vector>
+              <otmi:vector count='2'>ionic</otmi:vector>
+              <otmi:vector count='2'>Several</otmi:vector>
+              <otmi:vector count='2'>correspondences</otmi:vector>
+              <otmi:vector count='2'>features</otmi:vector>
+              <otmi:vector count='2'>account</otmi:vector>
+              <otmi:vector count='2'>phenomena</otmi:vector>
+              <otmi:vector count='2'>crystal</otmi:vector>
+              <otmi:vector count='2'>against</otmi:vector>
+              <otmi:vector count='2'>NO</otmi:vector>
+              <otmi:vector count='2'>C-terminal</otmi:vector>
+              <otmi:vector count='2'>mM</otmi:vector>
+              <otmi:vector count='2'>putative</otmi:vector>
+              <otmi:vector count='2'>towards</otmi:vector>
+              <otmi:vector count='2'>larger</otmi:vector>
+              <otmi:vector count='2'>away</otmi:vector>
+              <otmi:vector count='2'>binds</otmi:vector>
+              <otmi:vector count='2'>ion-transport</otmi:vector>
+              <otmi:vector count='2'>former</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>changes</otmi:vector>
+              <otmi:vector count='2'>testable</otmi:vector>
+              <otmi:vector count='2'>line</otmi:vector>
+              <otmi:vector count='2'>solved</otmi:vector>
+              <otmi:vector count='2'>partly</otmi:vector>
+              <otmi:vector count='2'>high-resolution</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>cycle</otmi:vector>
+              <otmi:vector count='2'>knowledge</otmi:vector>
+              <otmi:vector count='2'>degraded</otmi:vector>
+              <otmi:vector count='2'>functions</otmi:vector>
+              <otmi:vector count='2'>especially</otmi:vector>
+              <otmi:vector count='2'>cations</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>operate</otmi:vector>
+              <otmi:vector count='2'>Second</otmi:vector>
+              <otmi:vector count='2'>wild-type</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>provides</otmi:vector>
+              <otmi:vector count='2'>answer</otmi:vector>
+              <otmi:vector count='2'>wide</otmi:vector>
+              <otmi:vector count='2'>independent</otmi:vector>
+              <otmi:vector count='2'>thus</otmi:vector>
+              <otmi:vector count='2'>remarkable</otmi:vector>
+              <otmi:vector count='2'>handle</otmi:vector>
+              <otmi:vector count='2'>cannot</otmi:vector>
+              <otmi:vector count='2'>exchange-transporter</otmi:vector>
+              <otmi:vector count='2'>dissociate</otmi:vector>
+              <otmi:vector count='2'>group</otmi:vector>
+              <otmi:vector count='2'>narrow</otmi:vector>
+              <otmi:vector count='2'>degraded-transporter</otmi:vector>
+              <otmi:vector count='2'>electrostatic</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>familiar</otmi:vector>
+              <otmi:vector count='2'>Another</otmi:vector>
+              <otmi:vector count='2'>hints</otmi:vector>
+              <otmi:vector count='2'>neutral</otmi:vector>
+              <otmi:vector count='2'>idea</otmi:vector>
+              <otmi:vector count='2'>soon</otmi:vector>
+              <otmi:vector count='2'>transporter&apos;s</otmi:vector>
+              <otmi:vector count='2'>third</otmi:vector>
+              <otmi:vector count='2'>rates</otmi:vector>
+              <otmi:vector count='2'>underlying</otmi:vector>
+              <otmi:vector count='2'>elements</otmi:vector>
+              <otmi:vector count='2'>K</otmi:vector>
+              <otmi:vector count='2'>appears</otmi:vector>
+              <otmi:vector count='2'>often</otmi:vector>
+              <otmi:vector count='2'>crystallographically</otmi:vector>
+              <otmi:vector count='2'>illuminate</otmi:vector>
+              <otmi:vector count='2'>opposite</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>electropositive</otmi:vector>
+              <otmi:vector count='2'>sides</otmi:vector>
+              <otmi:vector count='2'>relevance</otmi:vector>
+              <otmi:vector count='2'>resolution</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>among</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>opens</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>current</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>coupled</otmi:vector>
+              <otmi:vector count='2'>lacks</otmi:vector>
+              <otmi:vector count='2'>mechanisms</otmi:vector>
+              <otmi:vector count='2'>Where</otmi:vector>
+              <otmi:vector count='2'>50</otmi:vector>
+              <otmi:vector count='2'>analogies</otmi:vector>
+              <otmi:vector count='2'>reason</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>long</otmi:vector>
+              <otmi:vector count='2'>coli</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>almost</otmi:vector>
+              <otmi:vector count='2'>Indeed</otmi:vector>
+              <otmi:vector count='2'>Accardi</otmi:vector>
+              <otmi:vector count='2'>together</otmi:vector>
+              <otmi:vector count='2'>presumed</otmi:vector>
+              <otmi:vector count='2'>helices</otmi:vector>
+              <otmi:vector count='2'>still</otmi:vector>
+              <otmi:vector count='2'>step</otmi:vector>
+              <otmi:vector count='2'>seems</otmi:vector>
+              <otmi:vector count='2'>studied</otmi:vector>
+              <otmi:vector count='2'>electrical</otmi:vector>
+              <otmi:vector count='2'>subtypes</otmi:vector>
+              <otmi:vector count='2'>SCN</otmi:vector>
+              <otmi:vector count='2'>recognized</otmi:vector>
+              <otmi:vector count='2'>pathways</otmi:vector>
+              <otmi:vector count='2'>gates</otmi:vector>
+              <otmi:vector count='2'>acts</otmi:vector>
+              <otmi:vector count='2'>up</otmi:vector>
+              <otmi:vector count='2'>nor</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>thoroughly</otmi:vector>
+              <otmi:vector count='2'>offer</otmi:vector>
+              <otmi:vector count='2'>deprotonated</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>similar</otmi:vector>
+              <otmi:vector count='2'>proton-transfer</otmi:vector>
+              <otmi:vector count='2'>throughout</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>workings</otmi:vector>
+              <otmi:vector count='2'>explains</otmi:vector>
+              <otmi:vector count='1'>discord</otmi:vector>
+              <otmi:vector count='1'>belonging</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>diverge</otmi:vector>
+              <otmi:vector count='1'>Miller</otmi:vector>
+              <otmi:vector count='1'>decoding</otmi:vector>
+              <otmi:vector count='1'>29</otmi:vector>
+              <otmi:vector count='1'>mapping</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>Gastarbeiter</otmi:vector>
+              <otmi:vector count='1'>identifies</otmi:vector>
+              <otmi:vector count='1'>accompany</otmi:vector>
+              <otmi:vector count='1'>33</otmi:vector>
+              <otmi:vector count='1'>bizarre</otmi:vector>
+              <otmi:vector count='1'>lie</otmi:vector>
+              <otmi:vector count='1'>pseudo-repeat</otmi:vector>
+              <otmi:vector count='1'>surprise</otmi:vector>
+              <otmi:vector count='1'>copies</otmi:vector>
+              <otmi:vector count='1'>axis</otmi:vector>
+              <otmi:vector count='1'>party</otmi:vector>
+              <otmi:vector count='1'>27</otmi:vector>
+              <otmi:vector count='1'>onto</otmi:vector>
+              <otmi:vector count='1'>dissociable</otmi:vector>
+              <otmi:vector count='1'>details</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>sparse</otmi:vector>
+              <otmi:vector count='1'>Opening</otmi:vector>
+              <otmi:vector count='1'>purists</otmi:vector>
+              <otmi:vector count='1'>propagating</otmi:vector>
+              <otmi:vector count='1'>straddle</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>intriguing</otmi:vector>
+              <otmi:vector count='1'>36</otmi:vector>
+              <otmi:vector count='1'>analytical</otmi:vector>
+              <otmi:vector count='1'>neurons</otmi:vector>
+              <otmi:vector count='1'>sequence-elements</otmi:vector>
+              <otmi:vector count='1'>alarming</otmi:vector>
+              <otmi:vector count='1'>pertinent</otmi:vector>
+              <otmi:vector count='1'>multi-ion</otmi:vector>
+              <otmi:vector count='1'>customarily</otmi:vector>
+              <otmi:vector count='1'>delicately</otmi:vector>
+              <otmi:vector count='1'>pump-inspired</otmi:vector>
+              <otmi:vector count='1'>detection</otmi:vector>
+              <otmi:vector count='1'>moving</otmi:vector>
+              <otmi:vector count='1'>topology</otmi:vector>
+              <otmi:vector count='1'>precedes</otmi:vector>
+              <otmi:vector count='1'>controlled</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>renders</otmi:vector>
+              <otmi:vector count='1'>synapse</otmi:vector>
+              <otmi:vector count='1'>horizon</otmi:vector>
+              <otmi:vector count='1'>sweat</otmi:vector>
+              <otmi:vector count='1'>met</otmi:vector>
+              <otmi:vector count='1'>sole</otmi:vector>
+              <otmi:vector count='1'>employs</otmi:vector>
+              <otmi:vector count='1'>removal</otmi:vector>
+              <otmi:vector count='1'>millisecond</otmi:vector>
+              <otmi:vector count='1'>hydroxyls</otmi:vector>
+              <otmi:vector count='1'>exclusion</otmi:vector>
+              <otmi:vector count='1'>predictions</otmi:vector>
+              <otmi:vector count='1'>cousins</otmi:vector>
+              <otmi:vector count='1'>favour</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>fold</otmi:vector>
+              <otmi:vector count='1'>purpose</otmi:vector>
+              <otmi:vector count='1'>accompanies</otmi:vector>
+              <otmi:vector count='1'>fluctuations</otmi:vector>
+              <otmi:vector count='1'>exposing</otmi:vector>
+              <otmi:vector count='1'>echo</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>regarding</otmi:vector>
+              <otmi:vector count='1'>hydrophobicity</otmi:vector>
+              <otmi:vector count='1'>originally</otmi:vector>
+              <otmi:vector count='1'>Ion</otmi:vector>
+              <otmi:vector count='1'>position</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>mediation</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>up-close</otmi:vector>
+              <otmi:vector count='1'>switch</otmi:vector>
+              <otmi:vector count='1'>message</otmi:vector>
+              <otmi:vector count='1'>oppositely</otmi:vector>
+              <otmi:vector count='1'>questions</otmi:vector>
+              <otmi:vector count='1'>experimentally</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>synonym</otmi:vector>
+              <otmi:vector count='1'>S</otmi:vector>
+              <otmi:vector count='1'>collection</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>R</otmi:vector>
+              <otmi:vector count='1'>appearing</otmi:vector>
+              <otmi:vector count='1'>conservative</otmi:vector>
+              <otmi:vector count='1'>adventitiously</otmi:vector>
+              <otmi:vector count='1'>termini</otmi:vector>
+              <otmi:vector count='1'>favours</otmi:vector>
+              <otmi:vector count='1'>Qualitatively</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>violating</otmi:vector>
+              <otmi:vector count='1'>monovalents</otmi:vector>
+              <otmi:vector count='1'>polypeptide</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>disruption</otmi:vector>
+              <otmi:vector count='1'>Third</otmi:vector>
+              <otmi:vector count='1'>445</otmi:vector>
+              <otmi:vector count='1'>pairs</otmi:vector>
+              <otmi:vector count='1'>light</otmi:vector>
+              <otmi:vector count='1'>lineaments</otmi:vector>
+              <otmi:vector count='1'>probability</otmi:vector>
+              <otmi:vector count='1'>directed</otmi:vector>
+              <otmi:vector count='1'>Considering</otmi:vector>
+              <otmi:vector count='1'>supporting</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>reliance</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>cation-conducting</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>Among</otmi:vector>
+              <otmi:vector count='1'>subtype</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>pressing</otmi:vector>
+              <otmi:vector count='1'>mechanistic</otmi:vector>
+              <otmi:vector count='1'>avidity</otmi:vector>
+              <otmi:vector count='1'>pair</otmi:vector>
+              <otmi:vector count='1'>2.5</otmi:vector>
+              <otmi:vector count='1'>notable</otmi:vector>
+              <otmi:vector count='1'>evokes</otmi:vector>
+              <otmi:vector count='1'>parallel</otmi:vector>
+              <otmi:vector count='1'>Substitution</otmi:vector>
+              <otmi:vector count='1'>ionic-cleansing</otmi:vector>
+              <otmi:vector count='1'>carry</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>aspects</otmi:vector>
+              <otmi:vector count='1'>persists</otmi:vector>
+              <otmi:vector count='1'>N</otmi:vector>
+              <otmi:vector count='1'>confronts</otmi:vector>
+              <otmi:vector count='1'>background</otmi:vector>
+              <otmi:vector count='1'>locus</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>construction</otmi:vector>
+              <otmi:vector count='1'>symmetry</otmi:vector>
+              <otmi:vector count='1'>influx</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>Taken</otmi:vector>
+              <otmi:vector count='1'>black-and-white</otmi:vector>
+              <otmi:vector count='1'>aqueous</otmi:vector>
+              <otmi:vector count='1'>puzzles</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>schemes</otmi:vector>
+              <otmi:vector count='1'>struck</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>adjacent</otmi:vector>
+              <otmi:vector count='1'>recordings</otmi:vector>
+              <otmi:vector count='1'>aristocratic</otmi:vector>
+              <otmi:vector count='1'>highlighting</otmi:vector>
+              <otmi:vector count='1'>proton-coupled</otmi:vector>
+              <otmi:vector count='1'>unified</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>vacated</otmi:vector>
+              <otmi:vector count='1'>repeated</otmi:vector>
+              <otmi:vector count='1'>plug</otmi:vector>
+              <otmi:vector count='1'>arranged</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>high-profile</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>Much</otmi:vector>
+              <otmi:vector count='1'>scrutiny</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>reproduced</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>appeal</otmi:vector>
+              <otmi:vector count='1'>bifurcate</otmi:vector>
+              <otmi:vector count='1'>resides</otmi:vector>
+              <otmi:vector count='1'>dipole</otmi:vector>
+              <otmi:vector count='1'>Proton</otmi:vector>
+              <otmi:vector count='1'>dendrites</otmi:vector>
+              <otmi:vector count='1'>ad</otmi:vector>
+              <otmi:vector count='1'>meet</otmi:vector>
+              <otmi:vector count='1'>built</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>blocks</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>activating</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>aside</otmi:vector>
+              <otmi:vector count='1'>focusing</otmi:vector>
+              <otmi:vector count='1'>coordinating</otmi:vector>
+              <otmi:vector count='1'>outset</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>unlike</otmi:vector>
+              <otmi:vector count='1'>connections</otmi:vector>
+              <otmi:vector count='1'>unpublished</otmi:vector>
+              <otmi:vector count='1'>attractive</otmi:vector>
+              <otmi:vector count='1'>depolarizing</otmi:vector>
+              <otmi:vector count='1'>expense</otmi:vector>
+              <otmi:vector count='1'>versa</otmi:vector>
+              <otmi:vector count='1'>Accordingly</otmi:vector>
+              <otmi:vector count='1'>10–15</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>Channels</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>attractant</otmi:vector>
+              <otmi:vector count='1'>mess</otmi:vector>
+              <otmi:vector count='1'>tackled</otmi:vector>
+              <otmi:vector count='1'>virtue</otmi:vector>
+              <otmi:vector count='1'>exposure</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>thermodynamically</otmi:vector>
+              <otmi:vector count='1'>alert</otmi:vector>
+              <otmi:vector count='1'>discordant</otmi:vector>
+              <otmi:vector count='1'>deep</otmi:vector>
+              <otmi:vector count='1'>nine</otmi:vector>
+              <otmi:vector count='1'>ion&apos;s</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>Looking</otmi:vector>
+              <otmi:vector count='1'>Let</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>answers</otmi:vector>
+              <otmi:vector count='1'>crystallized</otmi:vector>
+              <otmi:vector count='1'>am</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>crosslink</otmi:vector>
+              <otmi:vector count='1'>dissociation</otmi:vector>
+              <otmi:vector count='1'>genome</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>reflect</otmi:vector>
+              <otmi:vector count='1'>physiologies</otmi:vector>
+              <otmi:vector count='1'>suffered</otmi:vector>
+              <otmi:vector count='1'>asymptotically</otmi:vector>
+              <otmi:vector count='1'>bewildering</otmi:vector>
+              <otmi:vector count='1'>irony</otmi:vector>
+              <otmi:vector count='1'>reasons</otmi:vector>
+              <otmi:vector count='1'>popular</otmi:vector>
+              <otmi:vector count='1'>203</otmi:vector>
+              <otmi:vector count='1'>sits</otmi:vector>
+              <otmi:vector count='1'>abundant</otmi:vector>
+              <otmi:vector count='1'>closed–open</otmi:vector>
+              <otmi:vector count='1'>overcome</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>variables</otmi:vector>
+              <otmi:vector count='1'>subunits</otmi:vector>
+              <otmi:vector count='1'>unfashionable</otmi:vector>
+              <otmi:vector count='1'>current-carriers</otmi:vector>
+              <otmi:vector count='1'>exchange-transport</otmi:vector>
+              <otmi:vector count='1'>reactions</otmi:vector>
+              <otmi:vector count='1'>comprises</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>outlined</otmi:vector>
+              <otmi:vector count='1'>localized</otmi:vector>
+              <otmi:vector count='1'>1807</otmi:vector>
+              <otmi:vector count='1'>haven&apos;t</otmi:vector>
+              <otmi:vector count='1'>steady</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>anion-hunger</otmi:vector>
+              <otmi:vector count='1'>discussion</otmi:vector>
+              <otmi:vector count='1'>origin</otmi:vector>
+              <otmi:vector count='1'>holes</otmi:vector>
+              <otmi:vector count='1'>surrounded</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>relations</otmi:vector>
+              <otmi:vector count='1'>tolerate</otmi:vector>
+              <otmi:vector count='1'>determination</otmi:vector>
+              <otmi:vector count='1'>epithelial</otmi:vector>
+              <otmi:vector count='1'>transporter-type</otmi:vector>
+              <otmi:vector count='1'>mirror</otmi:vector>
+              <otmi:vector count='1'>instance</otmi:vector>
+              <otmi:vector count='1'>conspicuous</otmi:vector>
+              <otmi:vector count='1'>extract</otmi:vector>
+              <otmi:vector count='1'>somewhat</otmi:vector>
+              <otmi:vector count='1'>reagent</otmi:vector>
+              <otmi:vector count='1'>essence</otmi:vector>
+              <otmi:vector count='1'>F</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>ion-selectivity</otmi:vector>
+              <otmi:vector count='1'>remnant</otmi:vector>
+              <otmi:vector count='1'>qualitatively</otmi:vector>
+              <otmi:vector count='1'>anticipated</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>water</otmi:vector>
+              <otmi:vector count='1'>hungry</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>E</otmi:vector>
+              <otmi:vector count='1'>words</otmi:vector>
+              <otmi:vector count='1'>reviewed</otmi:vector>
+              <otmi:vector count='1'>shaping</otmi:vector>
+              <otmi:vector count='1'>divalent</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>pore-blocker</otmi:vector>
+              <otmi:vector count='1'>mind</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>precisely</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>unavoidably</otmi:vector>
+              <otmi:vector count='1'>likewise</otmi:vector>
+              <otmi:vector count='1'>compelling</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>computations</otmi:vector>
+              <otmi:vector count='1'>curiosities</otmi:vector>
+              <otmi:vector count='1'>uniqueness</otmi:vector>
+              <otmi:vector count='1'>unsettling</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>usher</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>constants</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>dispersed</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>permeating</otmi:vector>
+              <otmi:vector count='1'>effluvia</otmi:vector>
+              <otmi:vector count='1'>interanionic</otmi:vector>
+              <otmi:vector count='1'>face</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>shared</otmi:vector>
+              <otmi:vector count='1'>oddities</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>entryway</otmi:vector>
+              <otmi:vector count='1'>region&apos;s</otmi:vector>
+              <otmi:vector count='1'>Mutations</otmi:vector>
+              <otmi:vector count='1'>Mutual</otmi:vector>
+              <otmi:vector count='1'>drama</otmi:vector>
+              <otmi:vector count='1'>interfaces</otmi:vector>
+              <otmi:vector count='1'>facts</otmi:vector>
+              <otmi:vector count='1'>unspecified</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>representing</otmi:vector>
+              <otmi:vector count='1'>unwanted</otmi:vector>
+              <otmi:vector count='1'>presents</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>dimer</otmi:vector>
+              <otmi:vector count='1'>accept</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>androgynous</otmi:vector>
+              <otmi:vector count='1'>remarkably</otmi:vector>
+              <otmi:vector count='1'>Within</otmi:vector>
+              <otmi:vector count='1'>accounts</otmi:vector>
+              <otmi:vector count='1'>biophysics</otmi:vector>
+              <otmi:vector count='1'>unpack</otmi:vector>
+              <otmi:vector count='1'>appreciate</otmi:vector>
+              <otmi:vector count='1'>alterations</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>rapid</otmi:vector>
+              <otmi:vector count='1'>microseconds</otmi:vector>
+              <otmi:vector count='1'>plausibility</otmi:vector>
+              <otmi:vector count='1'>vestibules</otmi:vector>
+              <otmi:vector count='1'>conformations</otmi:vector>
+              <otmi:vector count='1'>harmony</otmi:vector>
+              <otmi:vector count='1'>labourers</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>element</otmi:vector>
+              <otmi:vector count='1'>mutagenesis</otmi:vector>
+              <otmi:vector count='1'>unprecedented</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>eighteen</otmi:vector>
+              <otmi:vector count='1'>coupling</otmi:vector>
+              <otmi:vector count='1'>Pusch</otmi:vector>
+              <otmi:vector count='1'>organic</otmi:vector>
+              <otmi:vector count='1'>character</otmi:vector>
+              <otmi:vector count='1'>biologically</otmi:vector>
+              <otmi:vector count='1'>requiring</otmi:vector>
+              <otmi:vector count='1'>mucus</otmi:vector>
+              <otmi:vector count='1'>odour</otmi:vector>
+              <otmi:vector count='1'>homologues</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>extensive</otmi:vector>
+              <otmi:vector count='1'>survive</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>shoehorning</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>inhibition</otmi:vector>
+              <otmi:vector count='1'>positions</otmi:vector>
+              <otmi:vector count='1'>gradient</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>Does</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>clashes</otmi:vector>
+              <otmi:vector count='1'>threaded</otmi:vector>
+              <otmi:vector count='1'>accordingly</otmi:vector>
+              <otmi:vector count='1'>determinedly</otmi:vector>
+              <otmi:vector count='1'>solutions</otmi:vector>
+              <otmi:vector count='1'>inspection</otmi:vector>
+              <otmi:vector count='1'>endosomes</otmi:vector>
+              <otmi:vector count='1'>cleaning</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>palpable</otmi:vector>
+              <otmi:vector count='1'>occluded</otmi:vector>
+              <otmi:vector count='1'>precludes</otmi:vector>
+              <otmi:vector count='1'>challenges</otmi:vector>
+              <otmi:vector count='1'>micelles</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>jumping-off</otmi:vector>
+              <otmi:vector count='1'>triggering</otmi:vector>
+              <otmi:vector count='1'>lowers</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>endows</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>ATPase</otmi:vector>
+              <otmi:vector count='1'>bear</otmi:vector>
+              <otmi:vector count='1'>vastly</otmi:vector>
+              <otmi:vector count='1'>transporter-like</otmi:vector>
+              <otmi:vector count='1'>begin</otmi:vector>
+              <otmi:vector count='1'>reside</otmi:vector>
+              <otmi:vector count='1'>exposed</otmi:vector>
+              <otmi:vector count='1'>ideally</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>accumulate</otmi:vector>
+              <otmi:vector count='1'>unsurprising</otmi:vector>
+              <otmi:vector count='1'>traverses</otmi:vector>
+              <otmi:vector count='1'>double-barrelled</otmi:vector>
+              <otmi:vector count='1'>retain</otmi:vector>
+              <otmi:vector count='1'>abolished</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>Lin</otmi:vector>
+              <otmi:vector count='1'>50-kDa</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>hydroxyl</otmi:vector>
+              <otmi:vector count='1'>inference</otmi:vector>
+              <otmi:vector count='1'>conventional</otmi:vector>
+              <otmi:vector count='1'>straightforwardly</otmi:vector>
+              <otmi:vector count='1'>axons</otmi:vector>
+              <otmi:vector count='1'>hold</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>examining</otmi:vector>
+              <otmi:vector count='1'>Let&apos;s</otmi:vector>
+              <otmi:vector count='1'>exclusively</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>rotates</otmi:vector>
+              <otmi:vector count='1'>plausible</otmi:vector>
+              <otmi:vector count='1'>helps</otmi:vector>
+              <otmi:vector count='1'>107</otmi:vector>
+              <otmi:vector count='1'>tackling</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>impeded</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>differently</otmi:vector>
+              <otmi:vector count='1'>forward</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>anion-permeation</otmi:vector>
+              <otmi:vector count='1'>proximity</otmi:vector>
+              <otmi:vector count='1'>poor</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>solve</otmi:vector>
+              <otmi:vector count='1'>Recent</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>PO</otmi:vector>
+              <otmi:vector count='1'>variously</otmi:vector>
+              <otmi:vector count='1'>Lobet</otmi:vector>
+              <otmi:vector count='1'>Binding</otmi:vector>
+              <otmi:vector count='1'>reveals</otmi:vector>
+              <otmi:vector count='1'>substrates</otmi:vector>
+              <otmi:vector count='1'>designed</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>ligands</otmi:vector>
+              <otmi:vector count='1'>channel-like</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>interface</otmi:vector>
+              <otmi:vector count='1'>near-ubiquity</otmi:vector>
+              <otmi:vector count='1'>engulfed</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>activated</otmi:vector>
+              <otmi:vector count='1'>somewhere</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>exposes</otmi:vector>
+              <otmi:vector count='1'>divide</otmi:vector>
+              <otmi:vector count='1'>idiosyncratically</otmi:vector>
+              <otmi:vector count='1'>upside</otmi:vector>
+              <otmi:vector count='1'>quietly</otmi:vector>
+              <otmi:vector count='1'>milliseconds</otmi:vector>
+              <otmi:vector count='1'>enhancement</otmi:vector>
+              <otmi:vector count='1'>mutants</otmi:vector>
+              <otmi:vector count='1'>operates</otmi:vector>
+              <otmi:vector count='1'>longstanding</otmi:vector>
+              <otmi:vector count='1'>straddles</otmi:vector>
+              <otmi:vector count='1'>occupy</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>apparent</otmi:vector>
+              <otmi:vector count='1'>drastic</otmi:vector>
+              <otmi:vector count='1'>Engh</otmi:vector>
+              <otmi:vector count='1'>vague</otmi:vector>
+              <otmi:vector count='1'>tenfold</otmi:vector>
+              <otmi:vector count='1'>reversibility</otmi:vector>
+              <otmi:vector count='1'>accords</otmi:vector>
+              <otmi:vector count='1'>selection</otmi:vector>
+              <otmi:vector count='1'>thermodynamic</otmi:vector>
+              <otmi:vector count='1'>posits</otmi:vector>
+              <otmi:vector count='1'>obstacles</otmi:vector>
+              <otmi:vector count='1'>crystallize</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>non-zero</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>electrostatically</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>prominent</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>colleagues</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>defies</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>residing</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>Linkage</otmi:vector>
+              <otmi:vector count='1'>grasp</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>emit</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>permeate</otmi:vector>
+              <otmi:vector count='1'>electric</otmi:vector>
+              <otmi:vector count='1'>homodimers</otmi:vector>
+              <otmi:vector count='1'>redolent</otmi:vector>
+              <otmi:vector count='1'>Proton-transit</otmi:vector>
+              <otmi:vector count='1'>rationalized</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>antiporters</otmi:vector>
+              <otmi:vector count='1'>clue</otmi:vector>
+              <otmi:vector count='1'>populated</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>permit</otmi:vector>
+              <otmi:vector count='1'>decreasing</otmi:vector>
+              <otmi:vector count='1'>ones</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>search</otmi:vector>
+              <otmi:vector count='1'>solution-access</otmi:vector>
+              <otmi:vector count='1'>conduct</otmi:vector>
+              <otmi:vector count='1'>perception</otmi:vector>
+              <otmi:vector count='1'>exploiting</otmi:vector>
+              <otmi:vector count='1'>speculative</otmi:vector>
+              <otmi:vector count='1'>phenomenology</otmi:vector>
+              <otmi:vector count='1'>failure</otmi:vector>
+              <otmi:vector count='1'>displace</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>participates</otmi:vector>
+              <otmi:vector count='1'>similarity</otmi:vector>
+              <otmi:vector count='1'>substitute</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>clarify</otmi:vector>
+              <otmi:vector count='1'>helical</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>supplement</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>pore-lining</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>dipolar</otmi:vector>
+              <otmi:vector count='1'>Buried</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>focus</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>aromatic</otmi:vector>
+              <otmi:vector count='1'>neurotransmitter</otmi:vector>
+              <otmi:vector count='1'>purposes</otmi:vector>
+              <otmi:vector count='1'>Experiments</otmi:vector>
+              <otmi:vector count='1'>time-asymmetric</otmi:vector>
+              <otmi:vector count='1'>jobs</otmi:vector>
+              <otmi:vector count='1'>go</otmi:vector>
+              <otmi:vector count='1'>sure</otmi:vector>
+              <otmi:vector count='1'>quirks</otmi:vector>
+              <otmi:vector count='1'>Exploiting</otmi:vector>
+              <otmi:vector count='1'>produces</otmi:vector>
+              <otmi:vector count='1'>uncovered</otmi:vector>
+              <otmi:vector count='1'>inside</otmi:vector>
+              <otmi:vector count='1'>invisible</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>outcome</otmi:vector>
+              <otmi:vector count='1'>source</otmi:vector>
+              <otmi:vector count='1'>constitutive</otmi:vector>
+              <otmi:vector count='1'>undermine</otmi:vector>
+              <otmi:vector count='1'>Protonation</otmi:vector>
+              <otmi:vector count='1'>decade</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>unaccustomed</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>Suppose</otmi:vector>
+              <otmi:vector count='1'>potentials</otmi:vector>
+              <otmi:vector count='1'>substantiated</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>roles</otmi:vector>
+              <otmi:vector count='1'>lengths</otmi:vector>
+              <otmi:vector count='1'>abuts</otmi:vector>
+              <otmi:vector count='1'>worth</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>assigns</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>observable</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>attention</otmi:vector>
+              <otmi:vector count='1'>share</otmi:vector>
+              <otmi:vector count='1'>things</otmi:vector>
+              <otmi:vector count='1'>Biology</otmi:vector>
+              <otmi:vector count='1'>lowering</otmi:vector>
+              <otmi:vector count='1'>fish</otmi:vector>
+              <otmi:vector count='1'>conservation</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>mimic</otmi:vector>
+              <otmi:vector count='1'>heavy-ion</otmi:vector>
+              <otmi:vector count='1'>waveforms</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>repel</otmi:vector>
+              <otmi:vector count='1'>reproductive</otmi:vector>
+              <otmi:vector count='1'>proteins.</otmi:vector>
+              <otmi:vector count='1'>ClC-mediated</otmi:vector>
+              <otmi:vector count='1'>fast-gating</otmi:vector>
+              <otmi:vector count='1'>isoforms</otmi:vector>
+              <otmi:vector count='1'>stretch</otmi:vector>
+              <otmi:vector count='1'>founding</otmi:vector>
+              <otmi:vector count='1'>plants</otmi:vector>
+              <otmi:vector count='1'>cysteine</otmi:vector>
+              <otmi:vector count='1'>5–30</otmi:vector>
+              <otmi:vector count='1'>fit</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>glutamine</otmi:vector>
+              <otmi:vector count='1'>attests</otmi:vector>
+              <otmi:vector count='1'>enhance</otmi:vector>
+              <otmi:vector count='1'>inhibited</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>physical</otmi:vector>
+              <otmi:vector count='1'>fresh</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>filters</otmi:vector>
+              <otmi:vector count='1'>newly</otmi:vector>
+              <otmi:vector count='1'>always-neutral</otmi:vector>
+              <otmi:vector count='1'>depths</otmi:vector>
+              <otmi:vector count='1'>dropping</otmi:vector>
+              <otmi:vector count='1'>proper</otmi:vector>
+              <otmi:vector count='1'>aim</otmi:vector>
+              <otmi:vector count='1'>arcane</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>exchanger</otmi:vector>
+              <otmi:vector count='1'>148</otmi:vector>
+              <otmi:vector count='1'>intricacy</otmi:vector>
+              <otmi:vector count='1'>inferred</otmi:vector>
+              <otmi:vector count='1'>endeavouring</otmi:vector>
+              <otmi:vector count='1'>repulsion</otmi:vector>
+              <otmi:vector count='1'>world</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>subject</otmi:vector>
+              <otmi:vector count='1'>neuronal</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>hairpins</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>synapses</otmi:vector>
+              <otmi:vector count='1'>arising</otmi:vector>
+              <otmi:vector count='1'>architecture</otmi:vector>
+              <otmi:vector count='1'>through-space</otmi:vector>
+              <otmi:vector count='1'>indirect</otmi:vector>
+              <otmi:vector count='1'>thiol</otmi:vector>
+              <otmi:vector count='1'>realization</otmi:vector>
+              <otmi:vector count='1'>modify</otmi:vector>
+              <otmi:vector count='1'>unglamorous</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>aquaporins</otmi:vector>
+              <otmi:vector count='1'>foundation</otmi:vector>
+              <otmi:vector count='1'>membrane-spanning</otmi:vector>
+              <otmi:vector count='1'>inertness</otmi:vector>
+              <otmi:vector count='1'>subfamily</otmi:vector>
+              <otmi:vector count='1'>deeper</otmi:vector>
+              <otmi:vector count='1'>differs</otmi:vector>
+              <otmi:vector count='1'>tread</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>forsaking</otmi:vector>
+              <otmi:vector count='1'>modulates</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>differentially</otmi:vector>
+              <otmi:vector count='1'>crystallization</otmi:vector>
+              <otmi:vector count='1'>gross</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>revisiting</otmi:vector>
+              <otmi:vector count='1'>neutralizing</otmi:vector>
+              <otmi:vector count='1'>homodimer</otmi:vector>
+              <otmi:vector count='1'>homology</otmi:vector>
+              <otmi:vector count='1'>deeply</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>turns</otmi:vector>
+              <otmi:vector count='1'>openings</otmi:vector>
+              <otmi:vector count='1'>vice</otmi:vector>
+              <otmi:vector count='1'>evolutionary</otmi:vector>
+              <otmi:vector count='1'>confer</otmi:vector>
+              <otmi:vector count='1'>constant</otmi:vector>
+              <otmi:vector count='1'>enjoyed</otmi:vector>
+              <otmi:vector count='1'>approximation</otmi:vector>
+              <otmi:vector count='1'>drawing</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>severely</otmi:vector>
+              <otmi:vector count='1'>hoc</otmi:vector>
+              <otmi:vector count='1'>leaks</otmi:vector>
+              <otmi:vector count='1'>swiftly</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>blockers</otmi:vector>
+              <otmi:vector count='1'>inescapable</otmi:vector>
+              <otmi:vector count='1'>re-entrant</otmi:vector>
+              <otmi:vector count='1'>sending</otmi:vector>
+              <otmi:vector count='1'>transporter-ghost</otmi:vector>
+              <otmi:vector count='1'>carboxyl</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>housekeeping</otmi:vector>
+              <otmi:vector count='1'>absent</otmi:vector>
+              <otmi:vector count='1'>interior</otmi:vector>
+              <otmi:vector count='1'>anion-coordinating</otmi:vector>
+              <otmi:vector count='1'>pore-associated</otmi:vector>
+              <otmi:vector count='1'>scepticism</otmi:vector>
+              <otmi:vector count='1'>equilibrium</otmi:vector>
+              <otmi:vector count='1'>secretion</otmi:vector>
+              <otmi:vector count='1'>permeation-linked</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>values</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>structure–mechanism</otmi:vector>
+              <otmi:vector count='1'>initiating</otmi:vector>
+              <otmi:vector count='1'>rotating</otmi:vector>
+              <otmi:vector count='1'>membrane&apos;s</otmi:vector>
+              <otmi:vector count='1'>neatly</otmi:vector>
+              <otmi:vector count='1'>blockage</otmi:vector>
+              <otmi:vector count='1'>Chen</otmi:vector>
+              <otmi:vector count='1'>genes</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>Neither</otmi:vector>
+              <otmi:vector count='1'>open-channel</otmi:vector>
+              <otmi:vector count='1'>pre-structural</otmi:vector>
+              <otmi:vector count='1'>prokaryotes</otmi:vector>
+              <otmi:vector count='1'>Strong</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>acidification</otmi:vector>
+              <otmi:vector count='1'>arginine</otmi:vector>
+              <otmi:vector count='1'>rough-hewn</otmi:vector>
+              <otmi:vector count='1'>rises</otmi:vector>
+              <otmi:vector count='1'>undermines</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>perplexing</otmi:vector>
+              <otmi:vector count='1'>experienced</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>encoding</otmi:vector>
+              <otmi:vector count='1'>striking</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>manoeuvres</otmi:vector>
+              <otmi:vector count='1'>pseudo-symmetry</otmi:vector>
+              <otmi:vector count='1'>unexpected</otmi:vector>
+              <otmi:vector count='1'>channel-based</otmi:vector>
+              <otmi:vector count='1'>remained</otmi:vector>
+              <otmi:vector count='1'>HPO</otmi:vector>
+              <otmi:vector count='1'>behaviours</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>uphill</otmi:vector>
+              <otmi:vector count='1'>conductances</otmi:vector>
+              <otmi:vector count='1'>emerges</otmi:vector>
+              <otmi:vector count='1'>mixed-ion</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>quantitatively</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>Table</otmi:vector>
+              <otmi:vector count='1'>tell</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>flux</otmi:vector>
+              <otmi:vector count='1'>plainly</otmi:vector>
+              <otmi:vector count='1'>organism</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>agrees</otmi:vector>
+              <otmi:vector count='1'>mV</otmi:vector>
+              <otmi:vector count='1'>lysine</otmi:vector>
+              <otmi:vector count='1'>kinetic</otmi:vector>
+              <otmi:vector count='1'>bulk</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>Cations</otmi:vector>
+              <otmi:vector count='1'>digestive</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>gated</otmi:vector>
+              <otmi:vector count='1'>complicated</otmi:vector>
+              <otmi:vector count='1'>monovalent</otmi:vector>
+              <otmi:vector count='1'>underlie</otmi:vector>
+              <otmi:vector count='1'>net</otmi:vector>
+              <otmi:vector count='1'>deals</otmi:vector>
+              <otmi:vector count='1'>pathological</otmi:vector>
+              <otmi:vector count='1'>recapitulate</otmi:vector>
+              <otmi:vector count='1'>outrage</otmi:vector>
+              <otmi:vector count='1'>prokaryotic</otmi:vector>
+              <otmi:vector count='1'>promotes</otmi:vector>
+              <otmi:vector count='1'>stoichiometrically</otmi:vector>
+              <otmi:vector count='1'>twofold</otmi:vector>
+              <otmi:vector count='1'>Electrical</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>effortlessly</otmi:vector>
+              <otmi:vector count='1'>compartments</otmi:vector>
+              <otmi:vector count='1'>Maduke</otmi:vector>
+              <otmi:vector count='1'>satisfactory</otmi:vector>
+              <otmi:vector count='1'>mid-level</otmi:vector>
+              <otmi:vector count='1'>correlate</otmi:vector>
+              <otmi:vector count='1'>lurks</otmi:vector>
+              <otmi:vector count='1'>Charge</otmi:vector>
+              <otmi:vector count='1'>expectations</otmi:vector>
+              <otmi:vector count='1'>ATP</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>concerted</otmi:vector>
+              <otmi:vector count='1'>reagents</otmi:vector>
+              <otmi:vector count='1'>preference</otmi:vector>
+              <otmi:vector count='1'>replaces</otmi:vector>
+              <otmi:vector count='1'>entering</otmi:vector>
+              <otmi:vector count='1'>lysosomes</otmi:vector>
+              <otmi:vector count='1'>CBS</otmi:vector>
+              <otmi:vector count='1'>currently</otmi:vector>
+              <otmi:vector count='1'>resembling</otmi:vector>
+              <otmi:vector count='1'>dissonant</otmi:vector>
+              <otmi:vector count='1'>clues</otmi:vector>
+              <otmi:vector count='1'>uses</otmi:vector>
+              <otmi:vector count='1'>conjectural</otmi:vector>
+              <otmi:vector count='1'>via</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>independently</otmi:vector>
+              <otmi:vector count='1'>emerge</otmi:vector>
+              <otmi:vector count='1'>applied</otmi:vector>
+              <otmi:vector count='1'>subtlety</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>reinforcing</otmi:vector>
+              <otmi:vector count='1'>pumping</otmi:vector>
+              <otmi:vector count='1'>synergism</otmi:vector>
+              <otmi:vector count='1'>detergent</otmi:vector>
+              <otmi:vector count='1'>inhibitory</otmi:vector>
+              <otmi:vector count='1'>secondary</otmi:vector>
+              <otmi:vector count='1'>single-molecule</otmi:vector>
+              <otmi:vector count='1'>microscopic</otmi:vector>
+              <otmi:vector count='1'>widespread</otmi:vector>
+              <otmi:vector count='1'>me</otmi:vector>
+              <otmi:vector count='1'>mutually</otmi:vector>
+              <otmi:vector count='1'>evoke</otmi:vector>
+              <otmi:vector count='1'>suppressed</otmi:vector>
+              <otmi:vector count='1'>structure–function</otmi:vector>
+              <otmi:vector count='1'>pathologies</otmi:vector>
+              <otmi:vector count='1'>methods</otmi:vector>
+              <otmi:vector count='1'>signalling</otmi:vector>
+              <otmi:vector count='1'>Escherichia</otmi:vector>
+              <otmi:vector count='1'>half-saturation</otmi:vector>
+              <otmi:vector count='1'>traditionally</otmi:vector>
+              <otmi:vector count='1'>identification</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>returns</otmi:vector>
+              <otmi:vector count='1'>ClC-1</otmi:vector>
+              <otmi:vector count='1'>dehydrated</otmi:vector>
+              <otmi:vector count='1'>confers</otmi:vector>
+              <otmi:vector count='1'>adding</otmi:vector>
+              <otmi:vector count='1'>plasma</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>employ</otmi:vector>
+              <otmi:vector count='1'>ClC-2</otmi:vector>
+              <otmi:vector count='1'>come</otmi:vector>
+              <otmi:vector count='1'>suggests</otmi:vector>
+              <otmi:vector count='1'>crystallographic</otmi:vector>
+              <otmi:vector count='1'>inconspicuous</otmi:vector>
+              <otmi:vector count='1'>acidifying</otmi:vector>
+              <otmi:vector count='1'>elaborate</otmi:vector>
+              <otmi:vector count='1'>blocker&apos;s</otmi:vector>
+              <otmi:vector count='1'>entered</otmi:vector>
+              <otmi:vector count='1'>fluids</otmi:vector>
+              <otmi:vector count='1'>compete</otmi:vector>
+              <otmi:vector count='1'>weakly</otmi:vector>
+              <otmi:vector count='1'>originate</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A pump-inspired proposal for ClC channel gating For the bacterial transporter, very little is known about the Cl - /H + exchange mechanism beyond the basic properties outlined above, including the proton-transfer roles of Glu in and Glu ex </otmi:snippet>
+              <otmi:snippet>A recent crystal structure of the C-terminal domain of ClC-0 (ref. 27 ) does not reveal its function but does suggest how this domain is arranged relative to the membrane-embedded part of the protein</otmi:snippet>
+              <otmi:snippet>A satisfactory picture of fast gating should also include activation by Cl - </otmi:snippet>
+              <otmi:snippet>A second and somewhat alarming prediction is that ClC channels cannot be ideally Cl - selective</otmi:snippet>
+              <otmi:snippet>A second glutamate residue (Glu 203, denoted Glu in ), located near the intracellular surface and appearing only in the transporter subclass, is similarly required for H + transport and appears to act as an internal H + -transfer site </otmi:snippet>
+              <otmi:snippet>Accardi, S</otmi:snippet>
+              <otmi:snippet>Accordingly, this discussion will begin with the structure of ClC-ec1 from Escherichia coli , a transporter-type isoform</otmi:snippet>
+              <otmi:snippet>All eukaryotic ClCs (and some prokaryotic homologues) carry a large cytoplasmic C-terminal sequence that is absent in the E. coli protein</otmi:snippet>
+              <otmi:snippet>Among permeant anions only Cl - is biologically abundant (except in plants, which also handle NO 3 - ; ref. 29 ), so strong interanionic selectivity is not needed</otmi:snippet>
+              <otmi:snippet>An irony confronts us at the outset: although most functional work on ClCs has been done on Cl - channels, the structures solved are all of the Cl - /H + exchange-transporter subtype</otmi:snippet>
+              <otmi:snippet>Another discordant observation is that certain aromatic organic anions, which are much too large to fit in a pore resembling the structure&apos;s Cl - -binding region, seem to permeate a muscle-type ClC channel </otmi:snippet>
+              <otmi:snippet>Another notable feature is a pseudo-repeat produced by rotating the first half of the sequence 1807 around an axis parallel to the membrane, so that the second half is &quot;upside down&quot;</otmi:snippet>
+              <otmi:snippet>As a pump, the bacterial ClC cannot tolerate a membrane-spanning pore</otmi:snippet>
+              <otmi:snippet>As protons are crystallographically invisible here, we have no direct information about where they go during exchange for Cl - </otmi:snippet>
+              <otmi:snippet>As voltage becomes very negative, the intracellular route is suppressed, but the external solution persists as a steady source of activating protons</otmi:snippet>
+              <otmi:snippet>At positive voltage, for example, an extracellular Cl - ion that binds to the pore-associated activation site will be drawn through the pore and dissociate into the opposite solution as soon as the channel opens</otmi:snippet>
+              <otmi:snippet>At the level of systems biology (or physiology, its unfashionable synonym), we need to know why acidification of internal compartments such as lysosomes and endosomes so determinedly employs Cl - /H + exchangers rather than channels</otmi:snippet>
+              <otmi:snippet>At the molecular level, a pressing aim is to crystallize and solve the structure of a proper ClC channel, so as to clarify much that is now vague, indirect and conjectural, as in this review</otmi:snippet>
+              <otmi:snippet>At this point, we haven&apos;t a clue</otmi:snippet>
+              <otmi:snippet>Binding of extracellular Cl - to the closed channel evokes an unspecified voltage-dependent step that precedes opening ; indeed, complete removal of extracellular Cl - renders channel opening nearly independent of voltage</otmi:snippet>
+              <otmi:snippet>Both are apparent by inspection of single-channel recordings ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>Br - permeates at roughly half the rate of Cl - , whereas I - and SCN - , by virtue of higher avidity for the pore, are &quot;permeant blockers&quot; </otmi:snippet>
+              <otmi:snippet>Buried within each subunit there is a prominent active site — an anion-coordinating region occupied by a pair of Cl - ions in proximity ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>But I am struck by how naturally correspondences emerge</otmi:snippet>
+              <otmi:snippet>But an electrostatically dissonant feature is found close to the central Cl - : the negatively charged carboxylate group of a glutamate residue (Glu 148, denoted the &quot;external&quot; glutamate, Glu ex )</otmi:snippet>
+              <otmi:snippet>But anion-permeation behaviour also reveals clashes with structural expectations</otmi:snippet>
+              <otmi:snippet>But even this sparse knowledge helps to illuminate ClC channel gating</otmi:snippet>
+              <otmi:snippet>But if a transporter-ghost lurks within the channels, protons might also reach Glu ex by means of &quot;transport&quot; from the intracellular medium</otmi:snippet>
+              <otmi:snippet>But inhibition rates remained roughly constant (within a factor of 3) over a large voltage range, independent of whether the channel was closed or open during exposure to reagent</otmi:snippet>
+              <otmi:snippet>But it does not account for voltage or Cl - dependence and accordingly has met with some scepticism, especially because the transporter structure shows &quot;gates&quot; on both sides of the anion-binding region, with the central Ser and Tyr blocking off the cytoplasmic end</otmi:snippet>
+              <otmi:snippet>But its Cl - -binding region ( Fig. 1b, c ) presents itself as a first approximation to a Cl - -selective diffusion pathway, providing testable clues about ionic permeation in the channel subfamily</otmi:snippet>
+              <otmi:snippet>But this picture has two big holes</otmi:snippet>
+              <otmi:snippet>Cations are completely excluded, as are larger anions such as H 2 PO 4 - and SO 4 2- </otmi:snippet>
+              <otmi:snippet>Channels that employ Cl - , aside from their role at inhibitory synapses, have been traditionally viewed as inconspicuous molecular labourers supporting housekeeping physiologies that operate in the background, often associated with epithelial secretion of fluids such as mucus, sweat, and digestive and reproductive effluvia</otmi:snippet>
+              <otmi:snippet>Charge movement that confers voltage dependence upon opening is somehow linked to Cl - ions entering the pore from the extracellular solution , and activation by intracellular, but not extracellular, H + is voltage dependent </otmi:snippet>
+              <otmi:snippet>ClC Cl - channels The gross architecture of ClC channels — homodimers with a gated pore in each subunit — was inferred long ago from the single-molecule properties of the thoroughly studied muscle-type isoform ClC-0 from electric fish </otmi:snippet>
+              <otmi:snippet>ClC channel gating ClC channels open and close by two separate processes called &quot;fast gating&quot; and &quot;common gating&quot;</otmi:snippet>
+              <otmi:snippet>ClC channels offer no direct evidence for this, but a mutually reinforcing transmembrane Cl - –H + interaction is redolent of the allosteric coupling required for exchange transport</otmi:snippet>
+              <otmi:snippet>ClC channels plainly bear the lineaments of transporters, and for this reason, channel gating is worth revisiting with the transporter in mind</otmi:snippet>
+              <otmi:snippet>Considering the pathological conditions required for crystallization — an outrage to physiological purists — agreement is remarkably good between Cl - equilibrium dissociation constants measured crystallographically, 5–30 mM (ref. 7 ), and half-saturation concentrations for single-channel conductance of 50 mM (refs 30 , 33 , 36 )</otmi:snippet>
+              <otmi:snippet>Does ClC-mediated proton movement work with or against primary proton pumping by the H + -ATPase? Is its purpose to accumulate anions in intracellular membranes and, if so, why? Biology is sending a message here, the decoding of which will help unpack the intracellular membrane pathologies that underlie several ClC diseases</otmi:snippet>
+              <otmi:snippet>Dutzler and colleagues tested the relevance of this small conformational change to fast gating by examining single ClC-0 channels mutated at Glu ex </otmi:snippet>
+              <otmi:snippet>Dutzler, unpublished)</otmi:snippet>
+              <otmi:snippet>Electrical signalling in neurons almost exclusively uses Na + , K + , Ca 2+ and H + — cations — as current-carriers</otmi:snippet>
+              <otmi:snippet>Experiments using mixed-ion conditions suggest that several ions simultaneously occupy the pore during conduction </otmi:snippet>
+              <otmi:snippet>Exploiting an intracellular pore-blocker that binds differentially to the closed and open channels, they showed that certain mutations near the pore&apos;s cytoplasmic end enhance the blocker&apos;s conformational preference</otmi:snippet>
+              <otmi:snippet>Finally, certain ClCs that had been presumed to be channels are now recognized instead as belonging to a class of membrane &quot;pump&quot; proteins , variously known as secondary active transporters, exchangers or antiporters</otmi:snippet>
+              <otmi:snippet>Finally, we need to supplement structures of the Cl - /H + exchangers with detailed analysis of their ion-transport functions, while being alert for hints provided by the channels</otmi:snippet>
+              <otmi:snippet>First is the location of the Cl - allosteric site, which must be on the extracellular side of the Glu ex gate, where no anion is found in the transporter structure</otmi:snippet>
+              <otmi:snippet>First, at high negative voltage, the channel should not close fully, but instead should asymptotically approach a non-zero open probability, the value of which rises with decreasing external pH</otmi:snippet>
+              <otmi:snippet>First, the molecular identification of the founding ClC channel led swiftly to the realization that this is a large molecular family, with isoforms expressed in nearly every cell of every eukaryotic organism — the human genome has nine — and in many prokaryotes as well </otmi:snippet>
+              <otmi:snippet>For more than 50 years, the study of ion channels has been dominated by these membrane proteins&apos; neuronal functions: initiating action potentials at the synapse, propagating signals along axons and dendrites, shaping electrical waveforms and triggering neurotransmitter release through Ca 2+ influx</otmi:snippet>
+              <otmi:snippet>For this reason, it seems that towards the external side of the protein, Cl - and H + share transport pathways, which then bifurcate somewhere near Glu ex and diverge towards the internal side ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Glu ex can be protonated from both extracellular and intracellular solutions, but only the latter reaction is voltage dependent </otmi:snippet>
+              <otmi:snippet>Glu ex resides in the Cl - -binding region, but Glu in is located far away from it</otmi:snippet>
+              <otmi:snippet>How does the channel protein usher the favoured ion through the pore while forsaking all others? How does it switch between open and closed conformations? The answers lie in the proteins&apos; structures</otmi:snippet>
+              <otmi:snippet>How far can we stretch bacterial transporter structure to explain eukaryotic channel function? It turns out that the electrophysiological quirks of ClC channels have been dropping hints of transporter-like behaviour for the past 20 years; likewise, the newly recognized Cl - /H + transporters display channel-like features</otmi:snippet>
+              <otmi:snippet>I will examine correspondences between channel function and transporter structure, highlighting points of harmony and of discord and endeavouring to extract from the bacterial ClC transporter new ideas about the workings of ClC channels</otmi:snippet>
+              <otmi:snippet>If ClC channels remain as narrow as the Cl - -binding region shown in the structure all along their lengths, then impermeant anions would be excluded simply by size, and the pore&apos;s electropositive character would not lead to unwanted block</otmi:snippet>
+              <otmi:snippet>If an analogous effect is at work in the channels, the control of fast gating by voltage, pH and Cl - could be neatly unified as an evolutionary remnant of the exchange-transport cycle</otmi:snippet>
+              <otmi:snippet>In addition, this mechanism can explain, without too much shoehorning, the bewildering alterations in voltage dependence known to arise from mutations dispersed throughout the protein sequence, mutations that might disrupt the proton pathway</otmi:snippet>
+              <otmi:snippet>In contrast, Accardi and Pusch argue that a conformational change in the intracellular region accompanies gating</otmi:snippet>
+              <otmi:snippet>In my view, the conformational change at Glu ex makes this residue an attractive focus for studies of the fast-gating mechanism, but as for the uniqueness of this protein movement, the outcome is still too early to call; transporters require coupled movements throughout the protein to bring about Cl - /H + exchange, and analogous movements might also operate in the channels</otmi:snippet>
+              <otmi:snippet>In other words, gate opening is linked to the transfer of a Cl - ion thermodynamically downhill, a non-equilibrium process that is experimentally observable as time-asymmetric single-channel fluctuations violating microscopic reversibility </otmi:snippet>
+              <otmi:snippet>In pre-structural times, many groups mutated eukaryotic ClC channels to alter open-channel currents , and these manoeuvres, now extended in light of the structure and of homology models threaded upon it, make sense, as is thoroughly summarized by Engh and Maduke </otmi:snippet>
+              <otmi:snippet>In striking contrast to structures of familiar ion channels, ClC-ec1 lacks a transmembrane pore</otmi:snippet>
+              <otmi:snippet>In the bacterial ClC, we have seen that the Glu ex carboxylate blocks extracellular access of the Cl - -binding region and that upon protonation the side chain rotates outward to open this pathway</otmi:snippet>
+              <otmi:snippet>In the most deeply studied channels, fast gating is controlled by three physiological variables: pH, Cl - concentration and voltage</otmi:snippet>
+              <otmi:snippet>In the past decade, however, Cl - channels of the widespread ClC family have enjoyed some unaccustomed attention for four reasons</otmi:snippet>
+              <otmi:snippet>Indeed, mutations that alter common gating are often found near the dimer interface </otmi:snippet>
+              <otmi:snippet>Indeed, synergism such as this is observed in the ClC Cl - /H + transporter itself, where binding of Cl - to the anion pathway favours H + transfer between Glu in and Glu ex by an unknown mechanism (A</otmi:snippet>
+              <otmi:snippet>Ion permeation and selectivity The pertinent facts regarding ion permeation in ClC channels can be quickly summarized</otmi:snippet>
+              <otmi:snippet>It is mostly membrane-embedded, with short cytoplasmic N and C termini</otmi:snippet>
+              <otmi:snippet>It signals that membrane proteins built along similar structural lines can support ion-transport mechanisms that are vastly different in thermodynamic essence</otmi:snippet>
+              <otmi:snippet>Let us suppose that this unknown step is simply the movement of intracellular protons to the gate; the role of Cl - would then be to somehow permit this transmembrane proton transfer</otmi:snippet>
+              <otmi:snippet>Let&apos;s face it: in the world of membrane physiology and biophysics, Cl - channels have long suffered as poor cousins in an aristocratic family</otmi:snippet>
+              <otmi:snippet>Lin and Chen constructed cysteine mutants at putative pore-lining residues in order to search for positions inhibited by intracellular thiol reagents only when the channel is open</otmi:snippet>
+              <otmi:snippet>Linkage of Cl - , H + and voltage in this way accounts qualitatively for the basic phenomena underlying fast gating</otmi:snippet>
+              <otmi:snippet>Lobet, C</otmi:snippet>
+              <otmi:snippet>Looking forward No subtlety is required to appreciate the questions before us or the obstacles that must be overcome to answer them</otmi:snippet>
+              <otmi:snippet>Miller and R</otmi:snippet>
+              <otmi:snippet>Most impermeant ions do not block Cl - currents even when applied at high concentrations , an &quot;inertness&quot; unprecedented in any other type of ion channel</otmi:snippet>
+              <otmi:snippet>Much work is needed to test the ideas quantitatively, to elaborate details and to examine channels such as ClC-2, for instance, which gates so differently from ClC-0 and ClC-1 </otmi:snippet>
+              <otmi:snippet>Mutations here severely disrupt channel behaviour , and ATP binding to this part of a muscle-type ClC channel modulates its gating </otmi:snippet>
+              <otmi:snippet>Mutual repulsion experienced by Cl - ions close together in the same pore may account for rapid permeation , although the conductances of most ClC channels are so low that it is not clear to me that any such explanation is called for</otmi:snippet>
+              <otmi:snippet>Neither lysine nor arginine directly coordinates Cl - , but several positively charged residues located 10–15 Å away emit a strong electropositive odour in this region </otmi:snippet>
+              <otmi:snippet>Nonetheless, a degraded-transporter mechanism, with its key element the separate pathways for Cl - permeation and transmembrane H + access, is a useful jumping-off place for a deeper understanding of ClC channels</otmi:snippet>
+              <otmi:snippet>One of the most unsettling is that mutation of the strictly conserved central Tyr ( Fig. 1b, c ), which in the transporter structure directly coordinates Cl - through its hydroxyl dipole, has only small effects on channel conductance </otmi:snippet>
+              <otmi:snippet>Opening is favoured by low pH, high Cl - and depolarizing voltage (that is, inside positive)</otmi:snippet>
+              <otmi:snippet>Proton transfer between the solvent and the protein interior is likely to involve dissociable residues near the aqueous interfaces , mutation of which would be expected to undermine the protein&apos;s ability to handle protons</otmi:snippet>
+              <otmi:snippet>Proton-transit rates along this pathway need not be as fast as Cl - conduction, because channels open in milliseconds whereas Cl - permeates in microseconds</otmi:snippet>
+              <otmi:snippet>Protonation of Glu ex via this route would then transfer electrical charge across the membrane and would thus confer voltage dependence upon opening</otmi:snippet>
+              <otmi:snippet>Qualitatively, Cl - activation makes sense because the permeant anion and the Glu ex carboxylate compete for the same binding site in the pore and because Cl - ions in the pore repel Glu ex and favour gate opening</otmi:snippet>
+              <otmi:snippet>Recent work on the bacterial ClC has uncovered two such proton-transfer residues — one for each side of the membrane</otmi:snippet>
+              <otmi:snippet>Second is the ad hoc idea that binding of Cl - to this site promotes access of intracellular H + to Glu ex </otmi:snippet>
+              <otmi:snippet>Second, the electrophysiological behaviours of ClC channels, and the structures underlying them, are idiosyncratically unlike those of the cation-conducting channels, and they present analytical challenges for which our extensive knowledge of those familiar, high-profile proteins is of little relevance</otmi:snippet>
+              <otmi:snippet>Several other ClCs display similar single-channel behaviour , and this &quot;double-barrelled&quot; construction can be considered established for the entire family, both channels and transporters</otmi:snippet>
+              <otmi:snippet>So protons are not required to contribute significantly to net current, but it is intriguing that an unexpected, unexplained proton flux was recently shown to accompany Cl - current through a muscle-type ClC channel </otmi:snippet>
+              <otmi:snippet>So the ClC family straddles a line between pumps and leaks that is customarily viewed as an absolute black-and-white divide</otmi:snippet>
+              <otmi:snippet>So the question naturally arises: does fast gating involve protein movements other than at Glu ex ? Several groups have tackled this question by focusing on the intracellular side of ClC-0</otmi:snippet>
+              <otmi:snippet>Strong through-space electropositivity as the origin of anion selection raises the question of why impermeant anions do not block Cl - currents, especially intracellular divalent anions such as HPO 4 2- and SO 4 2- , which should displace monovalents and plug up the pore through an ionic-cleansing mechanism </otmi:snippet>
+              <otmi:snippet>Substitution with an always-neutral glutamine to mimic a protonated carboxyl results in two remarkable structural changes ( Fig. 1b, c )</otmi:snippet>
+              <otmi:snippet>Suppose that the channels retain in some form the transporter&apos;s proton pathway, running from the intracellular surface to meet the Cl - -selective pore near Glu ex , and suppose further that this pathway is &quot;degraded&quot;, so that protons enter and move across it requiring neither mediation by Glu in nor concerted Cl - exchange ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>Taken together, these results imply an overall similarity in structure between the Cl - -binding region of the bacterial transporter and the conduction pores of ClC channels</otmi:snippet>
+              <otmi:snippet>The &quot;central&quot; Cl - -binding site is located roughly at the membrane&apos;s mid-level, whereas the &quot;internal&quot; site abuts the protein&apos;s cytoplasmic surface</otmi:snippet>
+              <otmi:snippet>The ClC structure provides a plausible explanation: it lacks wide, positively charged vestibules that would offer binding sites to these larger ions</otmi:snippet>
+              <otmi:snippet>The anticipated tenfold enhancement of opening per 60 mV agrees with experimental values , and computations suggest the electrostatic plausibility of such a pathway </otmi:snippet>
+              <otmi:snippet>The bacterial ClC Cl - /H + exchange transporter For all types of ion channel, structure–function analysis means tackling two things: ion permeation and gating</otmi:snippet>
+              <otmi:snippet>The basic result from this mutagenesis work is that adding negative (or positive) charge to the putative pore region lowers (or raises) Cl - conductance, as expected, if electropositivity here acts as an attractant for Cl - </otmi:snippet>
+              <otmi:snippet>The central Cl - is dehydrated and completely surrounded by coordinating groups from the protein, among them hydroxyls from two conserved residues, Ser 107 and Tyr 445, here denoted the &quot;central&quot; Ser and Tyr</otmi:snippet>
+              <otmi:snippet>The external glutamate described above is one of them; if Glu ex is mutated to a neutral residue, movement of H + , but not of Cl - , is completely abolished </otmi:snippet>
+              <otmi:snippet>The former, acting on the millisecond timescale, is a simple closed–open conformational change that occurs within each subunit independently of the other </otmi:snippet>
+              <otmi:snippet>The inescapable inference — that the ClC family comprises channel and transporter subtypes, the former residing in plasma membranes and the latter in acidifying intracellular membranes — was a big surprise</otmi:snippet>
+              <otmi:snippet>The internal Cl - ion, 7Å below the central Cl - , is partly exposed to water and partly engulfed by protein dipolar groups</otmi:snippet>
+              <otmi:snippet>The latter occludes or exposes both pores simultaneously and therefore requires communication between subunits</otmi:snippet>
+              <otmi:snippet>The near-ubiquity of ClCs attests to their functional importance, as is now substantiated by the growing collection of human diseases arising from disruption of the genes encoding these proteins ( Table 1 )</otmi:snippet>
+              <otmi:snippet>The protein is α-helical with a complicated transmembrane topology that defies hydrophobicity analysis; eighteen membrane-embedded helices are present in each subunit, eight of them in &quot;re-entrant hairpins&quot;, where the polypeptide traverses only part of the membrane and then returns to the side from which it entered</otmi:snippet>
+              <otmi:snippet>The region&apos;s strong electropositivity effortlessly explains the exclusion of cations as well as the anion-hunger that leads to multiple Cl - occupancy and its presumed functional correlate, multi-ion conduction in the channels</otmi:snippet>
+              <otmi:snippet>The side chain swings outward to open a pathway to the external solution, and a third Cl - ion appears in precisely the location thus vacated</otmi:snippet>
+              <otmi:snippet>The structure of the bacterial ClC, along with the strong conservation of anion-binding residues, suggests that up-close chemistry also operates on permeating Cl - ions</otmi:snippet>
+              <otmi:snippet>The structure&apos;s resolution precludes absolute determination of Cl - occupancy, but crystallographic experiments exploiting Br - as a heavy-ion substitute argue that all three sites can be simultaneously occupied at physiological Cl - concentration </otmi:snippet>
+              <otmi:snippet>The voltage dependence of gating is currently thought to arise from movement of extracellular Cl - ions into the depths of the channel protein , but this new proposal, which instead identifies H + as the gating charge, assigns to Cl - a different function: allosteric control of H + access to Glu ex </otmi:snippet>
+              <otmi:snippet>These activities appeal to our sense of drama for their central position in human biology, their mechanistic intricacy at the level of protein chemistry and the reliance, for their detection, on high-resolution experimental methods</otmi:snippet>
+              <otmi:snippet>These are necessary jobs, to be sure, but unglamorous ones that evoke the popular perception of Cl - channels as the Gastarbeiter of membrane transport, quietly cleaning up the mess after the party</otmi:snippet>
+              <otmi:snippet>These bizarre features of ClC channel gating (oppositely directed Cl - and H + movements to activation sites, downhill movement of Cl - ions linked to opening and non-equilibrium gating) are all elements of Cl - /H + exchange mechanisms</otmi:snippet>
+              <otmi:snippet>These channel transporter analogies are rough-hewn, and I do not expect them all to survive future scrutiny</otmi:snippet>
+              <otmi:snippet>These channels are specific to small monovalent anions (Cl - , Br - , I - , NO 3 - , SCN - but not F - )</otmi:snippet>
+              <otmi:snippet>These effects have all been observed as unexplained experimental oddities and can be straightforwardly reproduced by kinetic schemes representing the degraded-transporter mechanism</otmi:snippet>
+              <otmi:snippet>These phenomena have been viewed as arcane curiosities, but the ClC transporter structure endows them with fresh significance</otmi:snippet>
+              <otmi:snippet>These proteins stoichiometrically exchange Cl - for H + through a cycle of conformational changes</otmi:snippet>
+              <otmi:snippet>These structural elements are unsurprising in an anion-binding locus</otmi:snippet>
+              <otmi:snippet>They found that neutralizing this residue produces almost full opening, as does exposing wild-type channels to low external pH </otmi:snippet>
+              <otmi:snippet>They must also conduct H + , because activator protons from the internal solution will dissociate into the external solvent as soon as the Glu ex gate swings open — another testable, but not yet tested, example of permeation-linked gating</otmi:snippet>
+              <otmi:snippet>Third, high-resolution crystal structures of bacterial ClCs now provide a firm foundation upon which to build ideas of how these proteins work</otmi:snippet>
+              <otmi:snippet>This &quot;degraded transporter&quot; mechanism posits Glu ex as the fast gate — the sole physical blockage of the pore, as originally proposed — and it makes two rather surprising predictions</otmi:snippet>
+              <otmi:snippet>This 50-kDa protein ( Fig. 1a ), crystallized from detergent micelles and solved at 2.5 Å resolution, forms a homodimer with twofold symmetry, as expected from much previous work </otmi:snippet>
+              <otmi:snippet>This conspicuous absence is now understood to reflect the fact that the protein is a transporter, not a channel</otmi:snippet>
+              <otmi:snippet>This electrophysiological phenomenology provides no palpable insight into these movements, but one firm conclusion emerges from the role of Cl - as both permeant ion and gating activator: that gating is coupled to permeation </otmi:snippet>
+              <otmi:snippet>This ion-selectivity strategy differs from that of K + , Na + and Ca 2+ channels, which have localized &quot;selectivity filters&quot; — short as well as narrow — in series with wide openings to bulk solvent, and which do not use ionic size to discriminate among substrates of like charge</otmi:snippet>
+              <otmi:snippet>This is compelling evidence that the protein requires a negative charge at this site and that the Glu ex carboxylate is deprotonated in the wild-type structure, which we must now view as having three, not two, anion-binding sites</otmi:snippet>
+              <otmi:snippet>This is particularly perplexing because conservative mutation of the central Ser, which coordinates the very same Cl - ion, causes a drastic lowering of conductance </otmi:snippet>
+              <otmi:snippet>This model explains the pH dependence of gating and, adventitiously, the constitutive activity of a ClC channel isoform in which a neutral residue replaces Glu ex </otmi:snippet>
+              <otmi:snippet>This pseudo-symmetry, also seen in aquaporins, was not predicted from, but can be rationalized after the fact by, the presence of weakly repeated sequence-elements </otmi:snippet>
+              <otmi:snippet>This result leads to a simple picture in which the channel, like the transporter, is occluded at its extracellular end by the negatively charged Glu ex side chain, which upon protonation swings outward to open the pore</otmi:snippet>
+              <otmi:snippet>This result undermines the idea of a voltage-dependent gate at the pore&apos;s cytoplasmic entryway, and it accords with the failure of a designed crosslink of two helices in this area to modify fast gating </otmi:snippet>
+              <otmi:snippet>This review deals with structure–mechanism relations in ClC channels rather than with their biological purposes, which have been recently summarized </otmi:snippet>
+              <otmi:snippet>This review will straddle the same line to show how recent results on the ClC exchange-transporter subclass help illuminate several longstanding puzzles about the workings of ClC channels</otmi:snippet>
+              <otmi:snippet>This side chain sits on top of the Cl - ion and occludes the ion&apos;s access to the extracellular solution</otmi:snippet>
+              <otmi:snippet>This subject has been recently reviewed , and I will examine only a few aspects of fast gating here</otmi:snippet>
+              <otmi:snippet>This third &quot;external&quot; site, hungry for an anion, can accept either a carboxylate group from deprotonated Glu ex or a Cl - ion when Glu ex is protonated</otmi:snippet>
+              <otmi:snippet>This type of transporter pumps Cl - uphill against a concentration gradient at the expense of H + moving downhill, or vice versa</otmi:snippet>
+              <otmi:snippet>This will help us to understand a novel type of proton-coupled exchanger, and more generally to grasp the deep connections in fundamental mechanism shared in this remarkable, androgynous family of Cl - transport proteins.</otmi:snippet>
+              <otmi:snippet>Thus, Glu ex participates in three tightly linked reactions required in a Cl - /H + exchange mechanism: Cl - binding, protonation and a conformational change that leads to formation of a solution-access pathway</otmi:snippet>
+              <otmi:snippet>Thus, the location and electrostatic nature of the structure&apos;s Cl - -binding region roughly mirror the ClC diffusion pathway, but the structural differences that must exist between the channels and transporters are still beyond our horizon</otmi:snippet>
+              <otmi:snippet>To recapitulate: in the channels, the fast gate is somehow activated by H + and Cl - , and voltage dependence seems to involve movements of these ligands from opposite sides of the membrane</otmi:snippet>
+              <otmi:snippet>We have seen that the pores of the channel subtypes echo the transporter&apos;s anion-binding region and that Glu ex in the channels acts as an extracellular gate that opens upon protonation, just as it does in the transporter</otmi:snippet>
+              <otmi:snippet>What does this structure tell us about ClCs of the channel subclass? Because ClC-ec1 is not itself a channel, we must tread delicately in mapping channel properties onto the structure</otmi:snippet>
+              <otmi:snippet>When Cl - concentration is low and binding sites poorly populated, proton movement through the intracellular pathway is impeded; when Cl - is high, it is favoured</otmi:snippet>
+              <otmi:snippet>Where do the protons come from? A conventional channel-based view would hold that they must originate in the extracellular solution adjacent to Glu ex </otmi:snippet>
+              <otmi:snippet>Where is the fast gate? The short answer: at the external glutamate</otmi:snippet>
+              <otmi:snippet>With so little understood about Cl - /H + exchange, drawing analogies between ClC channels and exchangers is unavoidably speculative</otmi:snippet>
+              <otmi:snippet>Within this sequence reside two copies of a &quot;CBS domain&quot;, a fold present in many proteins, always in pairs</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Structure of ClC-ec1.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , The protein is depicted in a lipid membrane, with the two subunits differently coloured. Chloride ions are shown as green spheres, and the two proton-transfer glutamate residues, Glu ex and Glu in , are spacefilled, with carboxyl oxygen atoms in red. b , c , Diagrammatic representation of Cl - -binding region in &quot;closed&quot; and &quot;open&quot; conformations defined by the position of the side chain of Glu ex . Closed conformation shows two Cl - ions in the &quot;central&quot; and &quot;internal&quot; positions; a third Cl - ion, in the &quot;external&quot; position appears in the open conformation.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>A continuous single-channel recording of ClC-0.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The horizontal bar over the upper trace marks 1 second. Fast gating is seen as the rapid fluctuations among three levels (representing 0, 1 or 2 pores open) within a &quot;burst&quot; of activity. Common gating is the appearance and disappearance of the bursts. Holding voltage was -100 mV, and single-channel current is 0.9 pA.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>A degraded-transporter model. Diagram of one subunit of a ClC channel showing a model of ClC channel fast gating.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Closed state, with Glu ex side chain deprotonated and blocking the pore. Allosteric Cl - ion occupies hypothetical site external to Glu ex and thereby allows intracellular proton transfer. b , Open state, with protonated Glu ex side chain in externally exposed position. The red circles mark the position occupied by Glu in in the transporters, but which is always valine in the channels.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/348510a0</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi0359776</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.67.032003.153012</otmi:refid>
+          <otmi:refid>info:doi/10.1038/415287a</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1082708</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200509417</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02314</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03720</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03860</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.67.032003.153245</otmi:refid>
+          <otmi:refid>info:doi/10.1021/bi00249a005</otmi:refid>
+          <otmi:refid>info:doi/10.1038/383337a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/383340a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35051631</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.113.3.457</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M005733200</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2003.058453</otmi:refid>
+          <otmi:refid>info:doi/10.1529/biophysj.104.056093</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M502890200</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.str.2005.10.008</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-313x.2000.00680.x</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.78.1.1</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.110.5.551</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.111.5.653</otmi:refid>
+          <otmi:refid>info:doi/10.1038/373527a0</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.108.4.237</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308844</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.113.6.783</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200509258</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308834</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(03)00168-5</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1469-7793.2001.0379k.x</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.82.1.25</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.20028741</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.118.1.23</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M001987200</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308845</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.116.3.433</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/16.7.1582</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2003.060046</otmi:refid>
+          <otmi:refid>info:doi/10.1038/354304a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng1121</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng1097-171</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.270.52.31172</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(01)00206-9</otmi:refid>
+          <otmi:refsnoid>15</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

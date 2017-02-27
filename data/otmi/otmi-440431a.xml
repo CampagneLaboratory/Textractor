@@ -1,0 +1,485 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Solid-state physics Light at the end of the channel</title>
+      <id>info:doi/10.1038/440431a</id>
+      <link href='http://dx.doi.org/10.1038/440431a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Francisco J. Garcia-Vidal</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>431</prism:startingPage>
+      <prism:endingPage>433</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='16'>light</otmi:vector>
+              <otmi:vector count='9'>wavelength</otmi:vector>
+              <otmi:vector count='9'>at</otmi:vector>
+              <otmi:vector count='8'>propagation</otmi:vector>
+              <otmi:vector count='7'>plasmons</otmi:vector>
+              <otmi:vector count='7'>optical</otmi:vector>
+              <otmi:vector count='6'>metal</otmi:vector>
+              <otmi:vector count='6'>can</otmi:vector>
+              <otmi:vector count='6'>also</otmi:vector>
+              <otmi:vector count='5'>between</otmi:vector>
+              <otmi:vector count='4'>channel</otmi:vector>
+              <otmi:vector count='4'>its</otmi:vector>
+              <otmi:vector count='4'>waveguide</otmi:vector>
+              <otmi:vector count='4'>m</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='4'>plasmon</otmi:vector>
+              <otmi:vector count='4'>around</otmi:vector>
+              <otmi:vector count='4'>along</otmi:vector>
+              <otmi:vector count='4'>planar</otmi:vector>
+              <otmi:vector count='4'>than</otmi:vector>
+              <otmi:vector count='4'>have</otmi:vector>
+              <otmi:vector count='4'>two</otmi:vector>
+              <otmi:vector count='4'>Bozhevolnyi</otmi:vector>
+              <otmi:vector count='4'>through</otmi:vector>
+              <otmi:vector count='4'>length</otmi:vector>
+              <otmi:vector count='4'>surface</otmi:vector>
+              <otmi:vector count='4'>interface</otmi:vector>
+              <otmi:vector count='4'>CPP</otmi:vector>
+              <otmi:vector count='4'>circuits</otmi:vector>
+              <otmi:vector count='3'>components</otmi:vector>
+              <otmi:vector count='3'>over</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>experimental</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>grooves</otmi:vector>
+              <otmi:vector count='3'>photonic</otmi:vector>
+              <otmi:vector count='3'>film</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>operation</otmi:vector>
+              <otmi:vector count='3'>They</otmi:vector>
+              <otmi:vector count='3'>dielectric</otmi:vector>
+              <otmi:vector count='3'>such</otmi:vector>
+              <otmi:vector count='3'>confined</otmi:vector>
+              <otmi:vector count='2'>short</otmi:vector>
+              <otmi:vector count='2'>electromagnetic</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>ago</otmi:vector>
+              <otmi:vector count='2'>straight</otmi:vector>
+              <otmi:vector count='2'>propagate</otmi:vector>
+              <otmi:vector count='2'>page</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>losses</otmi:vector>
+              <otmi:vector count='2'>These</otmi:vector>
+              <otmi:vector count='2'>beam</otmi:vector>
+              <otmi:vector count='2'>sub-wavelength</otmi:vector>
+              <otmi:vector count='2'>milled</otmi:vector>
+              <otmi:vector count='2'>chip</otmi:vector>
+              <otmi:vector count='2'>these</otmi:vector>
+              <otmi:vector count='2'>et</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>al</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>use</otmi:vector>
+              <otmi:vector count='2'>ring</otmi:vector>
+              <otmi:vector count='2'>single-mode</otmi:vector>
+              <otmi:vector count='2'>technology</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>information</otmi:vector>
+              <otmi:vector count='2'>showed</otmi:vector>
+              <otmi:vector count='2'>focused</otmi:vector>
+              <otmi:vector count='2'>wavelengths</otmi:vector>
+              <otmi:vector count='2'>modes</otmi:vector>
+              <otmi:vector count='2'>transmitted</otmi:vector>
+              <otmi:vector count='2'>so-called</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>waveguides</otmi:vector>
+              <otmi:vector count='2'>colleagues</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>signals</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>junction</otmi:vector>
+              <otmi:vector count='2'>loss</otmi:vector>
+              <otmi:vector count='2'>nanometres</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>times</otmi:vector>
+              <otmi:vector count='2'>thus</otmi:vector>
+              <otmi:vector count='2'>less</otmi:vector>
+              <otmi:vector count='2'>therefore</otmi:vector>
+              <otmi:vector count='2'>waves</otmi:vector>
+              <otmi:vector count='2'>Surface</otmi:vector>
+              <otmi:vector count='2'>bottom</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>milling</otmi:vector>
+              <otmi:vector count='2'>current</otmi:vector>
+              <otmi:vector count='2'>guide</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>miniature</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>distortion</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>hint</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>onto</otmi:vector>
+              <otmi:vector count='1'>micrometres</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>compatible</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>latest</otmi:vector>
+              <otmi:vector count='1'>impeded</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>plasmon–polaritons</otmi:vector>
+              <otmi:vector count='1'>width</otmi:vector>
+              <otmi:vector count='1'>severely</otmi:vector>
+              <otmi:vector count='1'>according</otmi:vector>
+              <otmi:vector count='1'>side</otmi:vector>
+              <otmi:vector count='1'>originate</otmi:vector>
+              <otmi:vector count='1'>millimetre</otmi:vector>
+              <otmi:vector count='1'>squeezed</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>obstacle</otmi:vector>
+              <otmi:vector count='1'>sides</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>begun</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>suffer</otmi:vector>
+              <otmi:vector count='1'>adjusting</otmi:vector>
+              <otmi:vector count='1'>things</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>fibre</otmi:vector>
+              <otmi:vector count='1'>near-field</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>400</otmi:vector>
+              <otmi:vector count='1'>telecommunication</otmi:vector>
+              <otmi:vector count='1'>perpendicular</otmi:vector>
+              <otmi:vector count='1'>represented</otmi:vector>
+              <otmi:vector count='1'>excitation</otmi:vector>
+              <otmi:vector count='1'>free</otmi:vector>
+              <otmi:vector count='1'>interferometer</otmi:vector>
+              <otmi:vector count='1'>nm</otmi:vector>
+              <otmi:vector count='1'>Working</otmi:vector>
+              <otmi:vector count='1'>strategies</otmi:vector>
+              <otmi:vector count='1'>picture</otmi:vector>
+              <otmi:vector count='1'>alternatives</otmi:vector>
+              <otmi:vector count='1'>ahead.</otmi:vector>
+              <otmi:vector count='1'>circumvent</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>V-grooves</otmi:vector>
+              <otmi:vector count='1'>volume</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>price</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>bulk</otmi:vector>
+              <otmi:vector count='1'>gold–air</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>leaving</otmi:vector>
+              <otmi:vector count='1'>manipulate</otmi:vector>
+              <otmi:vector count='1'>diffraction</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>narrower</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>greater</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>distance</otmi:vector>
+              <otmi:vector count='1'>microscope</otmi:vector>
+              <otmi:vector count='1'>90</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>interference</otmi:vector>
+              <otmi:vector count='1'>510</otmi:vector>
+              <otmi:vector count='1'>interconnectors</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>1.4</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>1.5</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>refined</otmi:vector>
+              <otmi:vector count='1'>there&apos;s</otmi:vector>
+              <otmi:vector count='1'>fabricate</otmi:vector>
+              <otmi:vector count='1'>1.6</otmi:vector>
+              <otmi:vector count='1'>materials</otmi:vector>
+              <otmi:vector count='1'>750</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>proof</otmi:vector>
+              <otmi:vector count='1'>concentrate</otmi:vector>
+              <otmi:vector count='1'>deployed</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>bright</otmi:vector>
+              <otmi:vector count='1'>plasmon–polariton</otmi:vector>
+              <otmi:vector count='1'>CPP-based</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>electrons</otmi:vector>
+              <otmi:vector count='1'>imperfect</otmi:vector>
+              <otmi:vector count='1'>digital</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>Mach–Zehnder</otmi:vector>
+              <otmi:vector count='1'>narrow</otmi:vector>
+              <otmi:vector count='1'>exploits</otmi:vector>
+              <otmi:vector count='1'>insulating</otmi:vector>
+              <otmi:vector count='1'>bound</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>device</otmi:vector>
+              <otmi:vector count='1'>attained</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>90–250</otmi:vector>
+              <otmi:vector count='1'>problematic</otmi:vector>
+              <otmi:vector count='1'>Just</otmi:vector>
+              <otmi:vector count='1'>successes</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>air</otmi:vector>
+              <otmi:vector count='1'>flag</otmi:vector>
+              <otmi:vector count='1'>ion</otmi:vector>
+              <otmi:vector count='1'>implementation</otmi:vector>
+              <otmi:vector count='1'>job</otmi:vector>
+              <otmi:vector count='1'>optically</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>drawing</otmi:vector>
+              <otmi:vector count='1'>get</otmi:vector>
+              <otmi:vector count='1'>created</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>snag</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>laterally</otmi:vector>
+              <otmi:vector count='1'>achievement</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>theory</otmi:vector>
+              <otmi:vector count='1'>V-shaped</otmi:vector>
+              <otmi:vector count='1'>provoking</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>confirmed</otmi:vector>
+              <otmi:vector count='1'>Coupling</otmi:vector>
+              <otmi:vector count='1'>pulse</otmi:vector>
+              <otmi:vector count='1'>advantageous</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>practised</otmi:vector>
+              <otmi:vector count='1'>telecommunications</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>jump</otmi:vector>
+              <otmi:vector count='1'>proved</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>pencil</otmi:vector>
+              <otmi:vector count='1'>Y-splitters</otmi:vector>
+              <otmi:vector count='1'>carry</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>constructive</otmi:vector>
+              <otmi:vector count='1'>numerical</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>paper</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>ion-beam</otmi:vector>
+              <otmi:vector count='1'>penetrates</otmi:vector>
+              <otmi:vector count='1'>entering</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>reunify</otmi:vector>
+              <otmi:vector count='1'>devices</otmi:vector>
+              <otmi:vector count='1'>electronic</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>substrate</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>transporting</otmi:vector>
+              <otmi:vector count='1'>near-infrared</otmi:vector>
+              <otmi:vector count='1'>Y-splitter</otmi:vector>
+              <otmi:vector count='1'>standard</otmi:vector>
+              <otmi:vector count='1'>guiding</otmi:vector>
+              <otmi:vector count='1'>hundred</otmi:vector>
+              <otmi:vector count='1'>propagating</otmi:vector>
+              <otmi:vector count='1'>Channel</otmi:vector>
+              <otmi:vector count='1'>inter-face</otmi:vector>
+              <otmi:vector count='1'>create</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>build</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>depending</otmi:vector>
+              <otmi:vector count='1'>thousands</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>Compared</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>lateral</otmi:vector>
+              <otmi:vector count='1'>evolve</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>actor</otmi:vector>
+              <otmi:vector count='1'>principle</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>external</otmi:vector>
+              <otmi:vector count='1'>transmission</otmi:vector>
+              <otmi:vector count='1'>extract</otmi:vector>
+              <otmi:vector count='1'>offering</otmi:vector>
+              <otmi:vector count='1'>huge</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>gold</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>multi-mode</otmi:vector>
+              <otmi:vector count='1'>sharp</otmi:vector>
+              <otmi:vector count='1'>drilled</otmi:vector>
+              <otmi:vector count='1'>light&apos;s</otmi:vector>
+              <otmi:vector count='1'>exact</otmi:vector>
+              <otmi:vector count='1'>split</otmi:vector>
+              <otmi:vector count='1'>V-groove</otmi:vector>
+              <otmi:vector count='1'>possibilities</otmi:vector>
+              <otmi:vector count='1'>phase</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>subsequently</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>transmit</otmi:vector>
+              <otmi:vector count='1'>conventional</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>plane</otmi:vector>
+              <otmi:vector count='1'>young</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>inherently</otmi:vector>
+              <otmi:vector count='1'>polaritons</otmi:vector>
+              <otmi:vector count='1'>electrical</otmi:vector>
+              <otmi:vector count='1'>practical</otmi:vector>
+              <otmi:vector count='1'>508</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>finding</otmi:vector>
+              <otmi:vector count='1'>Miniaturized</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>decays</otmi:vector>
+              <otmi:vector count='1'>family</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>band-gap</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>strips</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>(that</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>Extensive</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>fork-on-fork</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>bend</otmi:vector>
+              <otmi:vector count='1'>mould</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>filter</otmi:vector>
+              <otmi:vector count='1'>Nevertheless</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>efficiently</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>passing</otmi:vector>
+              <otmi:vector count='1'>collective</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>third</otmi:vector>
+              <otmi:vector count='1'>performance</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>confinement</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>contribution</otmi:vector>
+              <otmi:vector count='1'>Waveguides</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>route</otmi:vector>
+              <otmi:vector count='1'>fabrication</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>connected</otmi:vector>
+              <otmi:vector count='1'>destructive</otmi:vector>
+              <otmi:vector count='1'>electronics</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>trade-off</otmi:vector>
+              <otmi:vector count='1'>prospects</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>(Single-mode</otmi:vector>
+              <otmi:vector count='1'>limit</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>paramount</otmi:vector>
+              <otmi:vector count='1'>resonator</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As a proof of principle, the authors also demonstrate very high performance for a Mach–Zehnder interferometer (in effect, two Y-splitters fork-on-fork that can split and then reunify a light beam) and a functional ring resonator</otmi:snippet>
+              <otmi:snippet>But there&apos;s a snag: the development of practical, small photonic components is impeded by the diffraction limit — the fact that light will spread out on passing through any region narrower than its wavelength</otmi:snippet>
+              <otmi:snippet>But to create miniature photonic circuits, surface plasmons have to be confined not just in the direction perpendicular to the interface, but also in the plane of the inter-face, so that they can propagate efficiently through narrow metal strips</otmi:snippet>
+              <otmi:snippet>Channel plasmon–polaritons are young members of an extended family known as the surface plasmons</otmi:snippet>
+              <otmi:snippet>Compared with other plasmons, these channel modes are laterally strongly confined and suffer only low propagation loss</otmi:snippet>
+              <otmi:snippet>Coupling to a standard single-mode optical fibre, as practised by Bozhevolnyi and colleagues , might produce large losses, and other alternatives should be tested</otmi:snippet>
+              <otmi:snippet>Extensive numerical simulations have confirmed this, and also showed that so-called single-mode operation — meaning that, at a given wavelength, energy (information) is transmitted at one speed — can be attained in such waveguides simply by adjusting the depth of the grooves. (Single-mode operation is advantageous where optical interconnectors are used, because in multi-mode operation, light can jump between modes at a junction, provoking a distortion in the shape of the light pulse.) That finding was followed by the prediction last year that transmission of light through a sharp 90° bend in a CPP waveguide was possible almost without loss</otmi:snippet>
+              <otmi:snippet>In short, a new actor was needed: enter the channel plasmon–polariton (CPP)</otmi:snippet>
+              <otmi:snippet>In their latest contribution , Bozhevolnyi et al. fabricate the first CPP-based optical components</otmi:snippet>
+              <otmi:snippet>Just eight months ago, Bozhevolnyi and colleagues reported the experimental achievement of CPP propagation along a straight, V-groove waveguide drilled in a gold film using focused ion-beam milling</otmi:snippet>
+              <otmi:snippet>Miniaturized circuits that use light to carry digital information would be inherently faster than conventional electronic circuits, and have a capacity thousands of times greater</otmi:snippet>
+              <otmi:snippet>Nevertheless, the successes already achieved in a very short period of experimental research using channel plasmons to mould the flow of light hint at bright prospects ahead.</otmi:snippet>
+              <otmi:snippet>On page 508 of this issue , Bozhevolnyi et al . flag a new route around this obstacle</otmi:snippet>
+              <otmi:snippet>On the experimental side, too, things have begun to evolve rapidly</otmi:snippet>
+              <otmi:snippet>One is how to get external light into a CPP waveguide and extract it at the other end</otmi:snippet>
+              <otmi:snippet>So much for the theory</otmi:snippet>
+              <otmi:snippet>Surface plasmons remain tightly bound to the interface: a plasmon of an optical wavelength — between about 400 and 750 nanometres — penetrates around 10 nm into the metal and decays over a few hundred nanometres in the dielectric</otmi:snippet>
+              <otmi:snippet>Surface plasmons thus concentrate light in a volume less than its wavelength across</otmi:snippet>
+              <otmi:snippet>The fabrication process exploits current planar technology: milling grooves onto a metal film with a focused ion beam is similar to drawing lines on a paper with a pencil</otmi:snippet>
+              <otmi:snippet>The first of these is a &quot;Y-splitter&quot;, a junction in which two straight waveguides are connected to a third over a distance of only 5 µm, just over three times the light&apos;s wavelength</otmi:snippet>
+              <otmi:snippet>The fundamental idea of guiding light along the bottom of milled V-grooves in a planar metal surface was proposed 15 years ago and subsequently refined </otmi:snippet>
+              <otmi:snippet>The possibilities for such techniques are huge, but there are still some problems</otmi:snippet>
+              <otmi:snippet>The several strategies deployed to circumvent this problem all represented an imperfect trade-off between sub-wavelength lateral confinement and propagation length</otmi:snippet>
+              <otmi:snippet>The use of surface plasmons is also compatible with available planar electronics technology, also offering the possibility of transporting optical signals and electrical current on the same substrate</otmi:snippet>
+              <otmi:snippet>These are electromagnetic waves that originate in the collective excitation of free electrons at the interface of a metal and an insulating dielectric, such as air</otmi:snippet>
+              <otmi:snippet>These guide the light along the bottom of sub-wavelength V-shaped grooves, milled in a metal film, without high propagation losses</otmi:snippet>
+              <otmi:snippet>They can also be used to transmit electromagnetic signals: for the near-infrared wavelengths around 1.5 micrometres, typically used in telecommunications, the propagation length of a plasmon at a planar gold–air interface is about a millimetre, and therefore long enough to connect two devices on a chip optically</otmi:snippet>
+              <otmi:snippet>They present the first components that guide and manipulate light in the form of so-called channel plasmon– polaritons</otmi:snippet>
+              <otmi:snippet>They thus showed that the light was confined to a width of around 1 µm that was less than its wavelength, and had a propagation length of 90–250 µm, depending on the exact wavelength</otmi:snippet>
+              <otmi:snippet>This feature is of paramount importance for the implementation of miniature optical circuits on a chip</otmi:snippet>
+              <otmi:snippet>This has proved problematic: when a propagating plasmon is squeezed from the sides, its propagation length is severely reduced </otmi:snippet>
+              <otmi:snippet>This latter component (see Fig. 3 on page 510) can — according to the phase difference of the light waves entering and leaving the ring, and therefore the degree of constructive or destructive interference between the two — act as a wavelength filter for the transmitted light</otmi:snippet>
+              <otmi:snippet>Waveguides created in dielectric materials with a &quot;photonic band-gap&quot; (that is, in which light in a certain wavelength range cannot propagate through the bulk structure) could do the same job, but only at the price of a much larger device</otmi:snippet>
+              <otmi:snippet>Working at telecommunication wavelengths between 1.4 and 1.6 µm, they used a near-field optical microscope to build up a picture of the propagation all along the waveguide</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/nature04594</otmi:refid>
+          <otmi:refid>info:doi/10.1063/1.1380236</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevB.42.11159</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevB.66.035403</otmi:refid>
+          <otmi:refid>info:doi/10.1063/1.1839283</otmi:refid>
+          <otmi:refid>info:doi/10.1364/OL.30.001186</otmi:refid>
+          <otmi:refid>info:doi/10.1103/PhysRevLett.95.046802</otmi:refid>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,5 @@
+# PMID	Sentence ID	Rank number	Rank value	Terms
+12096109	1234	1	0.5	this is a test
+12096109	1235	2	0.4	more terms in PMID2
+12096109	1236	3	0.3
+12096109

@@ -1,0 +1,1389 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>RNA-mediated response to heat shock in mammalian cells</title>
+      <id>info:doi/10.1038/nature04518</id>
+      <link href='http://dx.doi.org/10.1038/nature04518' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Ilya Shamovsky</name>
+      </author>
+      <author>
+        <name>Maxim Ivannikov</name>
+      </author>
+      <author>
+        <name>Eugene S. Kandel</name>
+      </author>
+      <author>
+        <name>David Gershon</name>
+      </author>
+      <author>
+        <name>Evgeny Nudler</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>556</prism:startingPage>
+      <prism:endingPage>560</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>The heat-shock transcription factor 1 (HSF1) has an important role in the heat-shock response in vertebrates by inducing the expression of heat-shock proteins (HSPs) and other cytoprotective proteins . HSF1 is present in unstressed cells in an inactive monomeric form and becomes activated by heat and other stress stimuli. HSF1 activation involves trimerization and acquisition of a site-specific DNA-binding activity , which is negatively regulated by interaction with certain HSPs . Here we show that HSF1 activation by heat shock is an active process that is mediated by a ribonucleoprotein complex containing translation elongation factor eEF1A and a previously unknown non-coding RNA that we term HSR1 (heat shock RNA-1). HSR1 is constitutively expressed in human and rodent cells and its homologues are functionally interchangeable. Both HSR1 and eEF1A are required for HSF1 activation in vitro ; antisense oligonucleotides or short interfering (si)RNA against HSR1 impair the heat-shock response in vivo , rendering cells thermosensitive. The central role of HSR1 during heat shock implies that targeting this RNA could serve as a new therapeutic model for cancer, inflammation and other conditions associated with HSF1 deregulation.</otmi:rawtext>
+            <otmi:reducedtext> heat-shock transcription factor 1 (HSF1) has important role heat-shock response vertebrates inducing expression heat-shock proteins (HSPs) other cytoprotective proteins . HSF1 present unstressed cells inactive monomeric form becomes activated heat other stress stimuli. HSF1 activation involves trimerization acquisition site-specific DNA-binding activity , which negatively regulated interaction certain HSPs . Here show HSF1 activation heat shock active process mediated ribonucleoprotein complex containing translation elongation factor eEF1A previously unknown non-coding RNA term HSR1 (heat shock RNA-1). HSR1 constitutively expressed human rodent cells its homologues functionally interchangeable. Both HSR1 eEF1A required HSF1 activation vitro ; antisense oligonucleotides short interfering (si)RNA against HSR1 impair heat-shock response vivo , rendering cells thermosensitive. central role HSR1 during heat shock implies targeting RNA could serve new therapeutic model cancer, inflammation other conditions associated HSF1 deregulation.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>HSF1</otmi:vector>
+              <otmi:vector count='5'>HSR1</otmi:vector>
+              <otmi:vector count='4'>heat-shock</otmi:vector>
+              <otmi:vector count='4'>heat</otmi:vector>
+              <otmi:vector count='3'>shock</otmi:vector>
+              <otmi:vector count='3'>activation</otmi:vector>
+              <otmi:vector count='3'>cells</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='2'>proteins</otmi:vector>
+              <otmi:vector count='2'>eEF1A</otmi:vector>
+              <otmi:vector count='2'>factor</otmi:vector>
+              <otmi:vector count='2'>HSPs</otmi:vector>
+              <otmi:vector count='2'>role</otmi:vector>
+              <otmi:vector count='2'>RNA</otmi:vector>
+              <otmi:vector count='2'>response</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>inactive</otmi:vector>
+              <otmi:vector count='1'>site-specific</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>stress</otmi:vector>
+              <otmi:vector count='1'>acquisition</otmi:vector>
+              <otmi:vector count='1'>homologues</otmi:vector>
+              <otmi:vector count='1'>interaction</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>constitutively</otmi:vector>
+              <otmi:vector count='1'>inducing</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>ribonucleoprotein</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>negatively</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>short</otmi:vector>
+              <otmi:vector count='1'>model</otmi:vector>
+              <otmi:vector count='1'>involves</otmi:vector>
+              <otmi:vector count='1'>impair</otmi:vector>
+              <otmi:vector count='1'>antisense</otmi:vector>
+              <otmi:vector count='1'>elongation</otmi:vector>
+              <otmi:vector count='1'>translation</otmi:vector>
+              <otmi:vector count='1'>activated</otmi:vector>
+              <otmi:vector count='1'>implies</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>stimuli</otmi:vector>
+              <otmi:vector count='1'>unstressed</otmi:vector>
+              <otmi:vector count='1'>deregulation.</otmi:vector>
+              <otmi:vector count='1'>interfering</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>rodent</otmi:vector>
+              <otmi:vector count='1'>functionally</otmi:vector>
+              <otmi:vector count='1'>cytoprotective</otmi:vector>
+              <otmi:vector count='1'>non-coding</otmi:vector>
+              <otmi:vector count='1'>associated</otmi:vector>
+              <otmi:vector count='1'>therapeutic</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>interchangeable</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>monomeric</otmi:vector>
+              <otmi:vector count='1'>active</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>regulated</otmi:vector>
+              <otmi:vector count='1'>1</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>vertebrates</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>transcription</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>thermosensitive</otmi:vector>
+              <otmi:vector count='1'>rendering</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>vitro</otmi:vector>
+              <otmi:vector count='1'>targeting</otmi:vector>
+              <otmi:vector count='1'>inflammation</otmi:vector>
+              <otmi:vector count='1'>cancer</otmi:vector>
+              <otmi:vector count='1'>trimerization</otmi:vector>
+              <otmi:vector count='1'>oligonucleotides</otmi:vector>
+              <otmi:vector count='1'>vivo</otmi:vector>
+              <otmi:vector count='1'>DNA-binding</otmi:vector>
+              <otmi:vector count='1'>si)RNA</otmi:vector>
+              <otmi:vector count='1'>RNA-1</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>mediated</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Both HSR1 and eEF1A are required for HSF1 activation in vitro ; antisense oligonucleotides or short interfering (si)RNA against HSR1 impair the heat-shock response in vivo , rendering cells thermosensitive</otmi:snippet>
+              <otmi:snippet>HSF1 activation involves trimerization and acquisition of a site-specific DNA-binding activity , which is negatively regulated by interaction with certain HSPs </otmi:snippet>
+              <otmi:snippet>HSF1 is present in unstressed cells in an inactive monomeric form and becomes activated by heat and other stress stimuli</otmi:snippet>
+              <otmi:snippet>HSR1 is constitutively expressed in human and rodent cells and its homologues are functionally interchangeable</otmi:snippet>
+              <otmi:snippet>Here we show that HSF1 activation by heat shock is an active process that is mediated by a ribonucleoprotein complex containing translation elongation factor eEF1A and a previously unknown non-coding RNA that we term HSR1 (heat shock RNA-1)</otmi:snippet>
+              <otmi:snippet>The central role of HSR1 during heat shock implies that targeting this RNA could serve as a new therapeutic model for cancer, inflammation and other conditions associated with HSF1 deregulation.</otmi:snippet>
+              <otmi:snippet>The heat-shock transcription factor 1 (HSF1) has an important role in the heat-shock response in vertebrates by inducing the expression of heat-shock proteins (HSPs) and other cytoprotective proteins </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='22'>at</otmi:vector>
+              <otmi:vector count='16'>mM</otmi:vector>
+              <otmi:vector count='14'>C</otmi:vector>
+              <otmi:vector count='10'>cells</otmi:vector>
+              <otmi:vector count='8'>2</otmi:vector>
+              <otmi:vector count='7'>lysate</otmi:vector>
+              <otmi:vector count='7'>10</otmi:vector>
+              <otmi:vector count='6'>Methods</otmi:vector>
+              <otmi:vector count='6'>min</otmi:vector>
+              <otmi:vector count='6'>h</otmi:vector>
+              <otmi:vector count='6'>using</otmi:vector>
+              <otmi:vector count='5'>HSR</otmi:vector>
+              <otmi:vector count='5'>Supplementary</otmi:vector>
+              <otmi:vector count='5'>M</otmi:vector>
+              <otmi:vector count='5'>1</otmi:vector>
+              <otmi:vector count='5'>containing</otmi:vector>
+              <otmi:vector count='5'>performed</otmi:vector>
+              <otmi:vector count='5'>NaCl</otmi:vector>
+              <otmi:vector count='5'>described</otmi:vector>
+              <otmi:vector count='4'>ng</otmi:vector>
+              <otmi:vector count='4'>43</otmi:vector>
+              <otmi:vector count='4'>EDTA</otmi:vector>
+              <otmi:vector count='4'>100</otmi:vector>
+              <otmi:vector count='4'>HSF1</otmi:vector>
+              <otmi:vector count='4'>concentration</otmi:vector>
+              <otmi:vector count='4'>l</otmi:vector>
+              <otmi:vector count='4'>final</otmi:vector>
+              <otmi:vector count='4'>whole-cell</otmi:vector>
+              <otmi:vector count='4'>50</otmi:vector>
+              <otmi:vector count='4'>4</otmi:vector>
+              <otmi:vector count='4'>HEDG</otmi:vector>
+              <otmi:vector count='4'>prepared</otmi:vector>
+              <otmi:vector count='4'>5</otmi:vector>
+              <otmi:vector count='4'>g</otmi:vector>
+              <otmi:vector count='4'>37</otmi:vector>
+              <otmi:vector count='4'>reagent</otmi:vector>
+              <otmi:vector count='3'>transfected</otmi:vector>
+              <otmi:vector count='3'>20</otmi:vector>
+              <otmi:vector count='3'>0.21</otmi:vector>
+              <otmi:vector count='3'>0.5</otmi:vector>
+              <otmi:vector count='3'>6</otmi:vector>
+              <otmi:vector count='3'>cell</otmi:vector>
+              <otmi:vector count='3'>used</otmi:vector>
+              <otmi:vector count='3'>incubated</otmi:vector>
+              <otmi:vector count='3'>analysed</otmi:vector>
+              <otmi:vector count='3'>nM</otmi:vector>
+              <otmi:vector count='3'>buffer</otmi:vector>
+              <otmi:vector count='3'>temperature</otmi:vector>
+              <otmi:vector count='3'>instructions</otmi:vector>
+              <otmi:vector count='3'>oligonucleotide</otmi:vector>
+              <otmi:vector count='3'>experiments</otmi:vector>
+              <otmi:vector count='3'>glycerol</otmi:vector>
+              <otmi:vector count='3'>volume</otmi:vector>
+              <otmi:vector count='3'>manufacturer&apos;s</otmi:vector>
+              <otmi:vector count='3'>EMSA</otmi:vector>
+              <otmi:vector count='3'>eEF1A</otmi:vector>
+              <otmi:vector count='3'>30</otmi:vector>
+              <otmi:vector count='3'>according</otmi:vector>
+              <otmi:vector count='3'>HSR1</otmi:vector>
+              <otmi:vector count='3'>pH</otmi:vector>
+              <otmi:vector count='3'>bed</otmi:vector>
+              <otmi:vector count='2'>glycine</otmi:vector>
+              <otmi:vector count='2'>K</otmi:vector>
+              <otmi:vector count='2'>allowed</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>immunoblotting</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>ref</otmi:vector>
+              <otmi:vector count='2'>flasks</otmi:vector>
+              <otmi:vector count='2'>flask</otmi:vector>
+              <otmi:vector count='2'>activity</otmi:vector>
+              <otmi:vector count='2'>isolation</otmi:vector>
+              <otmi:vector count='2'>crosslinking</otmi:vector>
+              <otmi:vector count='2'>experiment</otmi:vector>
+              <otmi:vector count='2'>Reactions</otmi:vector>
+              <otmi:vector count='2'>per</otmi:vector>
+              <otmi:vector count='2'>mixture</otmi:vector>
+              <otmi:vector count='2'>v</otmi:vector>
+              <otmi:vector count='2'>mixed</otmi:vector>
+              <otmi:vector count='2'>assay</otmi:vector>
+              <otmi:vector count='2'>grown</otmi:vector>
+              <otmi:vector count='2'>tightly</otmi:vector>
+              <otmi:vector count='2'>serum</otmi:vector>
+              <otmi:vector count='2'>gel</otmi:vector>
+              <otmi:vector count='2'>siRNA</otmi:vector>
+              <otmi:vector count='2'>DMEM</otmi:vector>
+              <otmi:vector count='2'>treatment</otmi:vector>
+              <otmi:vector count='2'>centrifugation</otmi:vector>
+              <otmi:vector count='2'>closed</otmi:vector>
+              <otmi:vector count='2'>purification</otmi:vector>
+              <otmi:vector count='2'>shock</otmi:vector>
+              <otmi:vector count='2'>reporter</otmi:vector>
+              <otmi:vector count='2'>heat-shocked</otmi:vector>
+              <otmi:vector count='2'>beads</otmi:vector>
+              <otmi:vector count='2'>fractions</otmi:vector>
+              <otmi:vector count='2'>75-cm</otmi:vector>
+              <otmi:vector count='2'>recover</otmi:vector>
+              <otmi:vector count='2'>ml</otmi:vector>
+              <otmi:vector count='2'>transfection</otmi:vector>
+              <otmi:vector count='2'>confluent</otmi:vector>
+              <otmi:vector count='2'>room</otmi:vector>
+              <otmi:vector count='2'>purified</otmi:vector>
+              <otmi:vector count='2'>Invitrogen</otmi:vector>
+              <otmi:vector count='2'>600</otmi:vector>
+              <otmi:vector count='2'>above</otmi:vector>
+              <otmi:vector count='2'>details</otmi:vector>
+              <otmi:vector count='2'>anti-6</otmi:vector>
+              <otmi:vector count='2'>mg</otmi:vector>
+              <otmi:vector count='2'>HEPES-NaOH</otmi:vector>
+              <otmi:vector count='2'>Qiagen</otmi:vector>
+              <otmi:vector count='2'>Cell</otmi:vector>
+              <otmi:vector count='2'>contained</otmi:vector>
+              <otmi:vector count='2'>protein</otmi:vector>
+              <otmi:vector count='2'>cocktail</otmi:vector>
+              <otmi:vector count='2'>added</otmi:vector>
+              <otmi:vector count='2'>DTT</otmi:vector>
+              <otmi:vector count='2'>indicated</otmi:vector>
+              <otmi:vector count='2'>viability</otmi:vector>
+              <otmi:vector count='2'>heat-shock</otmi:vector>
+              <otmi:vector count='1'>plates</otmi:vector>
+              <otmi:vector count='1'>preparation</otmi:vector>
+              <otmi:vector count='1'>bath</otmi:vector>
+              <otmi:vector count='1'>10–20</otmi:vector>
+              <otmi:vector count='1'>transformed</otmi:vector>
+              <otmi:vector count='1'>antibiotic</otmi:vector>
+              <otmi:vector count='1'>0.2–0.5</otmi:vector>
+              <otmi:vector count='1'>Three</otmi:vector>
+              <otmi:vector count='1'>chemical</otmi:vector>
+              <otmi:vector count='1'>stably</otmi:vector>
+              <otmi:vector count='1'>12-well</otmi:vector>
+              <otmi:vector count='1'>dried</otmi:vector>
+              <otmi:vector count='1'>minor</otmi:vector>
+              <otmi:vector count='1'>screw-cap</otmi:vector>
+              <otmi:vector count='1'>occasional</otmi:vector>
+              <otmi:vector count='1'>2.5</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>calf</otmi:vector>
+              <otmi:vector count='1'>CellTiter</otmi:vector>
+              <otmi:vector count='1'>incubator</otmi:vector>
+              <otmi:vector count='1'>transient</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>liver</otmi:vector>
+              <otmi:vector count='1'>adjusted</otmi:vector>
+              <otmi:vector count='1'>antimycotic</otmi:vector>
+              <otmi:vector count='1'>pMLucHSP70</otmi:vector>
+              <otmi:vector count='1'>oligonucleotides</otmi:vector>
+              <otmi:vector count='1'>blue</otmi:vector>
+              <otmi:vector count='1'>40</otmi:vector>
+              <otmi:vector count='1'>5′-GCCTCGAATGTTCGCGAAGTTTCG-3</otmi:vector>
+              <otmi:vector count='1'>Roche</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>bovine</otmi:vector>
+              <otmi:vector count='1'>anti-HSP72</otmi:vector>
+              <otmi:vector count='1'>immobilization</otmi:vector>
+              <otmi:vector count='1'>8.3</otmi:vector>
+              <otmi:vector count='1'>190</otmi:vector>
+              <otmi:vector count='1'>collected</otmi:vector>
+              <otmi:vector count='1'>detail</otmi:vector>
+              <otmi:vector count='1'>fetal</otmi:vector>
+              <otmi:vector count='1'>AQueous</otmi:vector>
+              <otmi:vector count='1'>media</otmi:vector>
+              <otmi:vector count='1'>coli</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>day</otmi:vector>
+              <otmi:vector count='1'>RLuc</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>flash-frozen</otmi:vector>
+              <otmi:vector count='1'>BHK-21</otmi:vector>
+              <otmi:vector count='1'>eEF1A-containing</otmi:vector>
+              <otmi:vector count='1'>reagent-based</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>carrying</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>newborn</otmi:vector>
+              <otmi:vector count='1'>6,000</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>incubating</otmi:vector>
+              <otmi:vector count='1'>Complete</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>0.25</otmi:vector>
+              <otmi:vector count='1'>Control</otmi:vector>
+              <otmi:vector count='1'>NBCS</otmi:vector>
+              <otmi:vector count='1'>3b</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>22–25</otmi:vector>
+              <otmi:vector count='1'>culture</otmi:vector>
+              <otmi:vector count='1'>45</otmi:vector>
+              <otmi:vector count='1'>Elution</otmi:vector>
+              <otmi:vector count='1'>transfection.</otmi:vector>
+              <otmi:vector count='1'>construct</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Growth</otmi:vector>
+              <otmi:vector count='1'>twice</otmi:vector>
+              <otmi:vector count='1'>Sarge</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>MTS</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>transfect</otmi:vector>
+              <otmi:vector count='1'>dithiothreitol</otmi:vector>
+              <otmi:vector count='1'>BL-21</otmi:vector>
+              <otmi:vector count='1'>0.56</otmi:vector>
+              <otmi:vector count='1'>75</otmi:vector>
+              <otmi:vector count='1'>1.25</otmi:vector>
+              <otmi:vector count='1'>pSV40βGal</otmi:vector>
+              <otmi:vector count='1'>HSPs</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>absorbance</otmi:vector>
+              <otmi:vector count='1'>mouse</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>parafilm-sealed</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>diluted</otmi:vector>
+              <otmi:vector count='1'>HSF-Sepharose</otmi:vector>
+              <otmi:vector count='1'>Promega</otmi:vector>
+              <otmi:vector count='1'>rat</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>loaded</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>Recombinant</otmi:vector>
+              <otmi:vector count='1'>Stressgen</otmi:vector>
+              <otmi:vector count='1'>heat</otmi:vector>
+              <otmi:vector count='1'>5′-AGTCCTCACACCACTCCAACGTCTGCTTATGGCGGCGGATTCAAC-3</otmi:vector>
+              <otmi:vector count='1'>Transfections</otmi:vector>
+              <otmi:vector count='1'>0.6</otmi:vector>
+              <otmi:vector count='1'>Whole-cell</otmi:vector>
+              <otmi:vector count='1'>washed</otmi:vector>
+              <otmi:vector count='1'>BHK</otmi:vector>
+              <otmi:vector count='1'>IPTG</otmi:vector>
+              <otmi:vector count='1'>assays</otmi:vector>
+              <otmi:vector count='1'>See</otmi:vector>
+              <otmi:vector count='1'>HSP70</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>bromophenol</otmi:vector>
+              <otmi:vector count='1'>BSA</otmi:vector>
+              <otmi:vector count='1'>volumes</otmi:vector>
+              <otmi:vector count='1'>overnight</otmi:vector>
+              <otmi:vector count='1'>antibodies</otmi:vector>
+              <otmi:vector count='1'>inducible</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>Tris</otmi:vector>
+              <otmi:vector count='1'>cycles</otmi:vector>
+              <otmi:vector count='1'>pull-down</otmi:vector>
+              <otmi:vector count='1'>Binding</otmi:vector>
+              <otmi:vector count='1'>CO</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>Next</otmi:vector>
+              <otmi:vector count='1'>induced</otmi:vector>
+              <otmi:vector count='1'>thawing</otmi:vector>
+              <otmi:vector count='1'>ends</otmi:vector>
+              <otmi:vector count='1'>FBS</otmi:vector>
+              <otmi:vector count='1'>28</otmi:vector>
+              <otmi:vector count='1'>essentially</otmi:vector>
+              <otmi:vector count='1'>500</otmi:vector>
+              <otmi:vector count='1'>7.9</otmi:vector>
+              <otmi:vector count='1'>proliferation</otmi:vector>
+              <otmi:vector count='1'>polyacrylamide</otmi:vector>
+              <otmi:vector count='1'>phenol-chloroform</otmi:vector>
+              <otmi:vector count='1'>procedure</otmi:vector>
+              <otmi:vector count='1'>submerging</otmi:vector>
+              <otmi:vector count='1'>pooled</otmi:vector>
+              <otmi:vector count='1'>Heat</otmi:vector>
+              <otmi:vector count='1'>Cells</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>glutamine</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>7.8</otmi:vector>
+              <otmi:vector count='1'>GST</otmi:vector>
+              <otmi:vector count='1'>protease</otmi:vector>
+              <otmi:vector count='1'>nitrogen</otmi:vector>
+              <otmi:vector count='1'>Oligofectamine</otmi:vector>
+              <otmi:vector count='1'>supplemented</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>elutions</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>SDS</otmi:vector>
+              <otmi:vector count='1'>gene</otmi:vector>
+              <otmi:vector count='1'>Transfection</otmi:vector>
+              <otmi:vector count='1'>gal</otmi:vector>
+              <otmi:vector count='1'>SDS–PAGE</otmi:vector>
+              <otmi:vector count='1'>ds-oligonucleotide</otmi:vector>
+              <otmi:vector count='1'>nm</otmi:vector>
+              <otmi:vector count='1'>EGS</otmi:vector>
+              <otmi:vector count='1'>25,000</otmi:vector>
+              <otmi:vector count='1'>fused</otmi:vector>
+              <otmi:vector count='1'>12.5</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>penicillin</otmi:vector>
+              <otmi:vector count='1'>inhibitor</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>water</otmi:vector>
+              <otmi:vector count='1'>Protein</otmi:vector>
+              <otmi:vector count='1'>cultured</otmi:vector>
+              <otmi:vector count='1'>recognize</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>depicted</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>mA</otmi:vector>
+              <otmi:vector count='1'>isopropanol</otmi:vector>
+              <otmi:vector count='1'>1:1</otmi:vector>
+              <otmi:vector count='1'>pGex-2T</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>0.42</otmi:vector>
+              <otmi:vector count='1'>plasmids</otmi:vector>
+              <otmi:vector count='1'>phosphorimager</otmi:vector>
+              <otmi:vector count='1'>modifications</otmi:vector>
+              <otmi:vector count='1'>cDNA</otmi:vector>
+              <otmi:vector count='1'>divided</otmi:vector>
+              <otmi:vector count='1'>IDT</otmi:vector>
+              <otmi:vector count='1'>5′-GTTGAATCCGCCGCCATAAGCAGACGTTGGAGTGGTGTGAGGACT-3</otmi:vector>
+              <otmi:vector count='1'>ambient</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>atmosphere</otmi:vector>
+              <otmi:vector count='1'>HSE</otmi:vector>
+              <otmi:vector count='1'>amino-terminal</otmi:vector>
+              <otmi:vector count='1'>Hsf1</otmi:vector>
+              <otmi:vector count='1'>isolate</otmi:vector>
+              <otmi:vector count='1'>MgCl</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>units</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>quenched</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>aliquots</otmi:vector>
+              <otmi:vector count='1'>fungizone</otmi:vector>
+              <otmi:vector count='1'>3–5</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>Beads</otmi:vector>
+              <otmi:vector count='1'>Effectene</otmi:vector>
+              <otmi:vector count='1'>liquid</otmi:vector>
+              <otmi:vector count='1'>processed</otmi:vector>
+              <otmi:vector count='1'>streptomycin</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>Fermentas</otmi:vector>
+              <otmi:vector count='1'>Superfect</otmi:vector>
+              <otmi:vector count='1'>plasmid</otmi:vector>
+              <otmi:vector count='1'>non-radioactive</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>gift</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>Sepharose</otmi:vector>
+              <otmi:vector count='1'>generation</otmi:vector>
+              <otmi:vector count='1'>Pierce</otmi:vector>
+              <otmi:vector count='1'>proteinase</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>E</otmi:vector>
+              <otmi:vector count='1'>freezing</otmi:vector>
+              <otmi:vector count='1'>ratio</otmi:vector>
+              <otmi:vector count='1'>96</otmi:vector>
+              <otmi:vector count='1'>RNA</otmi:vector>
+              <otmi:vector count='1'>HSF1-Sepharose</otmi:vector>
+              <otmi:vector count='1'>0.02</otmi:vector>
+              <otmi:vector count='1'>1.5</otmi:vector>
+              <otmi:vector count='1'>21</otmi:vector>
+              <otmi:vector count='1'>reactions</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>F-12</otmi:vector>
+              <otmi:vector count='1'>pGex-2THSF1</otmi:vector>
+              <otmi:vector count='1'>successive</otmi:vector>
+              <otmi:vector count='1'>maintained</otmi:vector>
+              <otmi:vector count='1'>phosphothioate-modified</otmi:vector>
+              <otmi:vector count='1'>precipitated</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>poly(dI-dC</otmi:vector>
+              <otmi:vector count='1'>Total</otmi:vector>
+              <otmi:vector count='1'>onto</otmi:vector>
+              <otmi:vector count='1'>stability</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>250</otmi:vector>
+              <otmi:vector count='1'>recombinant</otmi:vector>
+              <otmi:vector count='1'>medium</otmi:vector>
+              <otmi:vector count='1'>stored</otmi:vector>
+              <otmi:vector count='1'>P-end-labelled</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>HeLa</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A bed volume of 10 µl HSF1-Sepharose beads per 75-cm 2 flask of confluent cells was added and mixed at 4 °C for 4 h</otmi:snippet>
+              <otmi:snippet>Beads were collected by centrifugation at 500 g for 5 min and washed three times with ten bed volumes of HEDG containing 0.21 M NaCl</otmi:snippet>
+              <otmi:snippet>Binding reactions contained 10–20 µg protein (from whole-cell lysate) or 10 nM purified recombinant HSF1, 20 mM HEPES-NaOH (pH 7.9), 100 mM NaCl, 1.5 mM MgCl 2 , 0.5 mM EDTA, 2 mM DTT, 10 % (v/v) glycerol, 1 mg ml -1 BSA, 2.5 µg poly(dI-dC), and 1.25 ng of 32 P-end-labelled HSE oligonucleotide (5′-GCCTCGAATGTTCGCGAAGTTTCG-3′) in a final volume of 40 µl</otmi:snippet>
+              <otmi:snippet>Cell viability was determined using the MTS reagent-based CellTiter 96 AQueous non-radioactive cell proliferation assay ( Promega , Supplementary Methods )</otmi:snippet>
+              <otmi:snippet>Cells were incubated with the transfection complexes for 24 h, heat-shocked for 2 h at 43 °C and allowed to recover at 37 °C for 16 h</otmi:snippet>
+              <otmi:snippet>Control cells were maintained in tightly closed flasks in an incubator at 37 °C</otmi:snippet>
+              <otmi:snippet>E. coli BL-21 cells were transformed with pGex-2THSF1, grown until they reached an absorbance of 0.6 at 600 nm ( A 600 ) and induced with 0.1 mM IPTG for 5 h at 28 °C</otmi:snippet>
+              <otmi:snippet>EMSA and chemical crosslinking EMSA was performed as described in ref. 2 with minor modifications</otmi:snippet>
+              <otmi:snippet>Elution was performed by incubating the beads with one bed volume of HEDG containing 0.21 M NaCl at 43 °C for 30 min with occasional mixing</otmi:snippet>
+              <otmi:snippet>For details of the purification procedure and HSF1 immobilization on Sepharose, see Supplementary Methods . eEF1A was purified from rat liver essentially as described in ref. 21 , and is described in detail in the Supplementary Methods </otmi:snippet>
+              <otmi:snippet>For siRNA experiments, cells were transfected in 12-well plates with a mixture of 100 ng pMLucHSP70, 50 ng pSV40βGal ( Supplementary Methods ) and 250 ng siRNA construct using Effectene reagent ( Qiagen ), according to the manufacturer&apos;s instructions</otmi:snippet>
+              <otmi:snippet>Growth media contained 2 mM glutamine and an antibiotic/antimycotic cocktail (penicillin/streptomycin/fungizone) ( Invitrogen )</otmi:snippet>
+              <otmi:snippet>HSF-Sepharose pull-down experiments and isolation of HSR1 For the isolation of eEF1A fraction, whole-cell lysate was prepared as described above and diluted with HEDG buffer to give a final concentration of 0.21 M NaCl</otmi:snippet>
+              <otmi:snippet>Heat shock of cultured cells was performed by submerging tightly closed, parafilm-sealed screw-cap flasks in a water bath adjusted to 43 °C or 45 °C as indicated</otmi:snippet>
+              <otmi:snippet>In some experiments, cells were allowed to recover at 37 °C overnight after heat shock to allow synthesis of HSPs</otmi:snippet>
+              <otmi:snippet>In the experiment depicted in Fig. 3b , cells were transfected using Oligofectamine reagent ( Invitrogen ) at a final oligonucleotide concentration of 100 nM, according to the manufacturer&apos;s instructions</otmi:snippet>
+              <otmi:snippet>In the experiment shown in Fig. 3a , 6 HSR oligonucleotide or 6 HSR /anti-6 HSR ds-oligonucleotide (0.56 µM final concentration) were used to transfect BHK cells using Superfect reagent ( Qiagen ) according to the manufacturer&apos;s instructions</otmi:snippet>
+              <otmi:snippet>Methods Cell culture, heat-shock treatment and lysate preparation HeLa and BHK-21 cells were grown at 37 °C in a 5 % CO 2 atmosphere in DMEM medium containing 10 % fetal bovine serum (FBS) and a DMEM/F-12 (1:1) mixture containing 10 % newborn calf serum (NBCS), respectively</otmi:snippet>
+              <otmi:snippet>Next, a whole-cell lysate was prepared and analysed by immunoblotting using anti-HSP72 antibodies ( Stressgen ) that specifically recognize only the inducible form of HSP70</otmi:snippet>
+              <otmi:snippet>Protein expression and purification The pGex-2T plasmid carrying mouse Hsf1 cDNA fused to amino-terminal GST was a gift from K</otmi:snippet>
+              <otmi:snippet>RNA was then extracted twice with phenol-chloroform and precipitated with isopropanol</otmi:snippet>
+              <otmi:snippet>Reactions were incubated for 20 min at room temperature (22–25 °C), mixed with 4 µl of 0.02 % bromophenol blue in 50 % glycerol, loaded onto a 4 % polyacrylamide gel, and run in 25 mM Tris, 190 mM glycine, 1 mM EDTA (pH 8.3) at 50 mA</otmi:snippet>
+              <otmi:snippet>Reactions were quenched with 75 mM glycine and processed for immunoblotting</otmi:snippet>
+              <otmi:snippet>Recombinant HSF1 (10 nM) was incubated with eEF1A and HSR1 at the indicated concentrations</otmi:snippet>
+              <otmi:snippet>Sarge</otmi:snippet>
+              <otmi:snippet>See Supplementary Methods for details of the generation of stably transfected cell lines</otmi:snippet>
+              <otmi:snippet>The crosslinking reagent EGS ( Pierce ) was added to 0.2–0.5 mM in the same buffer used for EMSA for 30 min at room temperature</otmi:snippet>
+              <otmi:snippet>The gel was dried and analysed using a phosphorimager</otmi:snippet>
+              <otmi:snippet>The lysate was divided into small aliquots, flash-frozen and stored at -70 °C</otmi:snippet>
+              <otmi:snippet>The next day, cells were heat-shocked for 1 h at 43 °C and a whole-cell lysate was prepared to determine HSF1 activity</otmi:snippet>
+              <otmi:snippet>Three successive elutions were performed and the fractions were analysed by SDS–PAGE</otmi:snippet>
+              <otmi:snippet>To isolate HSR1, eEF1A-containing fractions were pooled, supplemented with 12.5 mM EDTA and 0.25% SDS and treated with 6,000 units of proteinase K ( Fermentas ) for 30 min at 50 °C</otmi:snippet>
+              <otmi:snippet>Total protein concentration was 3–5 mg ml -1 </otmi:snippet>
+              <otmi:snippet>Transfection with RLuc and β-gal reporter plasmids, heat-shock treatment, and reporter gene activity assays were performed as described above for transient transfection.</otmi:snippet>
+              <otmi:snippet>Transfections and cell viability assay The oligonucleotides ( IDT ) used for transfection, 6 HSR (5′-AGTCCTCACACCACTCCAACGTCTGCTTATGGCGGCGGATTCAAC-3′) and anti-6 HSR (5′-GTTGAATCCGCCGCCATAAGCAGACGTTGGAGTGGTGTGAGGACT-3′), were phosphothioate-modified at the 3′ and 5′ ends to increase their stability</otmi:snippet>
+              <otmi:snippet>Whole-cell lysate was prepared by three cycles of freezing in liquid nitrogen/thawing at ambient temperature in HEDG buffer (20 mM HEPES-NaOH, pH 7.8, 0.5 mM EDTA, 0.5 mM dithiothreitol (DTT), 10 % glycerol and protease inhibitor cocktail (Complete , Roche )) containing 0.42 M NaCl at a ratio of 100 µl per confluent 75-cm 2 flask followed by centrifugation at 25,000 g for 15 min</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='56'>HSF1</otmi:vector>
+              <otmi:vector count='37'>Fig</otmi:vector>
+              <otmi:vector count='29'>HSR1</otmi:vector>
+              <otmi:vector count='28'>eEF1A</otmi:vector>
+              <otmi:vector count='24'>HSR</otmi:vector>
+              <otmi:vector count='24'>activation</otmi:vector>
+              <otmi:vector count='24'>cells</otmi:vector>
+              <otmi:vector count='16'>shock</otmi:vector>
+              <otmi:vector count='16'>heat</otmi:vector>
+              <otmi:vector count='15'>heat-shock</otmi:vector>
+              <otmi:vector count='12'>Supplementary</otmi:vector>
+              <otmi:vector count='11'>6</otmi:vector>
+              <otmi:vector count='11'>RNA</otmi:vector>
+              <otmi:vector count='11'>at</otmi:vector>
+              <otmi:vector count='10'>response</otmi:vector>
+              <otmi:vector count='10'>activity</otmi:vector>
+              <otmi:vector count='9'>HeLa</otmi:vector>
+              <otmi:vector count='9'>siRNA</otmi:vector>
+              <otmi:vector count='9'>not</otmi:vector>
+              <otmi:vector count='8'>vitro</otmi:vector>
+              <otmi:vector count='8'>RLuc</otmi:vector>
+              <otmi:vector count='8'>C</otmi:vector>
+              <otmi:vector count='8'>lanes</otmi:vector>
+              <otmi:vector count='8'>has</otmi:vector>
+              <otmi:vector count='8'>fraction</otmi:vector>
+              <otmi:vector count='7'>effect</otmi:vector>
+              <otmi:vector count='7'>after</otmi:vector>
+              <otmi:vector count='7'>oligonucleotide</otmi:vector>
+              <otmi:vector count='7'>cell</otmi:vector>
+              <otmi:vector count='7'>lysate</otmi:vector>
+              <otmi:vector count='6'>lane</otmi:vector>
+              <otmi:vector count='6'>treatment</otmi:vector>
+              <otmi:vector count='6'>purified</otmi:vector>
+              <otmi:vector count='6'>vivo</otmi:vector>
+              <otmi:vector count='6'>2</otmi:vector>
+              <otmi:vector count='6'>complex</otmi:vector>
+              <otmi:vector count='6'>BHK</otmi:vector>
+              <otmi:vector count='6'>but</otmi:vector>
+              <otmi:vector count='6'>HSF1-Sepharose</otmi:vector>
+              <otmi:vector count='6'>shown</otmi:vector>
+              <otmi:vector count='6'>which</otmi:vector>
+              <otmi:vector count='6'>data</otmi:vector>
+              <otmi:vector count='5'>HSP90</otmi:vector>
+              <otmi:vector count='5'>essential</otmi:vector>
+              <otmi:vector count='5'>antisense</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='5'>4</otmi:vector>
+              <otmi:vector count='5'>amount</otmi:vector>
+              <otmi:vector count='5'>induction</otmi:vector>
+              <otmi:vector count='5'>These</otmi:vector>
+              <otmi:vector count='5'>during</otmi:vector>
+              <otmi:vector count='5'>see</otmi:vector>
+              <otmi:vector count='5'>cellular</otmi:vector>
+              <otmi:vector count='5'>heat-shocked</otmi:vector>
+              <otmi:vector count='4'>role</otmi:vector>
+              <otmi:vector count='4'>specific</otmi:vector>
+              <otmi:vector count='4'>than</otmi:vector>
+              <otmi:vector count='4'>results</otmi:vector>
+              <otmi:vector count='4'>2b</otmi:vector>
+              <otmi:vector count='4'>unstressed</otmi:vector>
+              <otmi:vector count='4'>HSF</otmi:vector>
+              <otmi:vector count='4'>isolated</otmi:vector>
+              <otmi:vector count='4'>Information</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='4'>RNase</otmi:vector>
+              <otmi:vector count='4'>together</otmi:vector>
+              <otmi:vector count='4'>DNA-binding</otmi:vector>
+              <otmi:vector count='4'>7</otmi:vector>
+              <otmi:vector count='4'>binding</otmi:vector>
+              <otmi:vector count='4'>induced</otmi:vector>
+              <otmi:vector count='4'>obtained</otmi:vector>
+              <otmi:vector count='4'>DNA</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='3'>using</otmi:vector>
+              <otmi:vector count='3'>37</otmi:vector>
+              <otmi:vector count='3'>5</otmi:vector>
+              <otmi:vector count='3'>domains</otmi:vector>
+              <otmi:vector count='3'>recovery</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>43</otmi:vector>
+              <otmi:vector count='3'>complexes</otmi:vector>
+              <otmi:vector count='3'>expressing</otmi:vector>
+              <otmi:vector count='3'>8</otmi:vector>
+              <otmi:vector count='3'>conditions</otmi:vector>
+              <otmi:vector count='3'>HSR-T3</otmi:vector>
+              <otmi:vector count='3'>protein</otmi:vector>
+              <otmi:vector count='3'>single</otmi:vector>
+              <otmi:vector count='3'>expressed</otmi:vector>
+              <otmi:vector count='3'>Notably</otmi:vector>
+              <otmi:vector count='3'>control</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>elongation</otmi:vector>
+              <otmi:vector count='3'>inhibited</otmi:vector>
+              <otmi:vector count='3'>may</otmi:vector>
+              <otmi:vector count='3'>anti-6</otmi:vector>
+              <otmi:vector count='3'>inhibitory</otmi:vector>
+              <otmi:vector count='3'>could</otmi:vector>
+              <otmi:vector count='3'>nt</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>1a</otmi:vector>
+              <otmi:vector count='3'>sequence</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>trimerization</otmi:vector>
+              <otmi:vector count='3'>1b</otmi:vector>
+              <otmi:vector count='3'>both</otmi:vector>
+              <otmi:vector count='3'>retained</otmi:vector>
+              <otmi:vector count='3'>1c</otmi:vector>
+              <otmi:vector count='3'>HSR1–eEF1A</otmi:vector>
+              <otmi:vector count='3'>monitored</otmi:vector>
+              <otmi:vector count='3'>2c</otmi:vector>
+              <otmi:vector count='3'>factors</otmi:vector>
+              <otmi:vector count='3'>nuclease</otmi:vector>
+              <otmi:vector count='3'>temperature</otmi:vector>
+              <otmi:vector count='3'>system</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>described</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>trimers</otmi:vector>
+              <otmi:vector count='2'>auxiliary</otmi:vector>
+              <otmi:vector count='2'>events</otmi:vector>
+              <otmi:vector count='2'>HSE</otmi:vector>
+              <otmi:vector count='2'>whether</otmi:vector>
+              <otmi:vector count='2'>functional</otmi:vector>
+              <otmi:vector count='2'>incubation</otmi:vector>
+              <otmi:vector count='2'>induce</otmi:vector>
+              <otmi:vector count='2'>construct</otmi:vector>
+              <otmi:vector count='2'>whole-cell</otmi:vector>
+              <otmi:vector count='2'>including</otmi:vector>
+              <otmi:vector count='2'>thermosensor</otmi:vector>
+              <otmi:vector count='2'>1e</otmi:vector>
+              <otmi:vector count='2'>Both</otmi:vector>
+              <otmi:vector count='2'>Here</otmi:vector>
+              <otmi:vector count='2'>Consistently</otmi:vector>
+              <otmi:vector count='2'>liver</otmi:vector>
+              <otmi:vector count='2'>major</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>RNAi</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>PCR</otmi:vector>
+              <otmi:vector count='2'>availability</otmi:vector>
+              <otmi:vector count='2'>cytoskeleton</otmi:vector>
+              <otmi:vector count='2'>general</otmi:vector>
+              <otmi:vector count='2'>translation</otmi:vector>
+              <otmi:vector count='2'>level</otmi:vector>
+              <otmi:vector count='2'>confirmed</otmi:vector>
+              <otmi:vector count='2'>mammalian</otmi:vector>
+              <otmi:vector count='2'>Our</otmi:vector>
+              <otmi:vector count='2'>different</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>suggest</otmi:vector>
+              <otmi:vector count='2'>chaperones</otmi:vector>
+              <otmi:vector count='2'>experiment</otmi:vector>
+              <otmi:vector count='2'>accompanied</otmi:vector>
+              <otmi:vector count='2'>mobility</otmi:vector>
+              <otmi:vector count='2'>micrococcal</otmi:vector>
+              <otmi:vector count='2'>2f</otmi:vector>
+              <otmi:vector count='2'>resulted</otmi:vector>
+              <otmi:vector count='2'>full-length</otmi:vector>
+              <otmi:vector count='2'>expression</otmi:vector>
+              <otmi:vector count='2'>reconstituted</otmi:vector>
+              <otmi:vector count='2'>following</otmi:vector>
+              <otmi:vector count='2'>caused</otmi:vector>
+              <otmi:vector count='2'>eluted</otmi:vector>
+              <otmi:vector count='2'>initial</otmi:vector>
+              <otmi:vector count='2'>polypeptide</otmi:vector>
+              <otmi:vector count='2'>elevated</otmi:vector>
+              <otmi:vector count='2'>reporter</otmi:vector>
+              <otmi:vector count='2'>bound</otmi:vector>
+              <otmi:vector count='2'>activating</otmi:vector>
+              <otmi:vector count='2'>collapse</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>addition</otmi:vector>
+              <otmi:vector count='2'>concentration</otmi:vector>
+              <otmi:vector count='2'>link</otmi:vector>
+              <otmi:vector count='2'>threshold</otmi:vector>
+              <otmi:vector count='2'>45</otmi:vector>
+              <otmi:vector count='2'>previously</otmi:vector>
+              <otmi:vector count='2'>PAGE</otmi:vector>
+              <otmi:vector count='2'>vectors</otmi:vector>
+              <otmi:vector count='2'>function</otmi:vector>
+              <otmi:vector count='2'>9</otmi:vector>
+              <otmi:vector count='2'>rat</otmi:vector>
+              <otmi:vector count='2'>lower</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>band</otmi:vector>
+              <otmi:vector count='2'>HSP72</otmi:vector>
+              <otmi:vector count='2'>corresponding</otmi:vector>
+              <otmi:vector count='2'>ability</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>higher</otmi:vector>
+              <otmi:vector count='2'>binds</otmi:vector>
+              <otmi:vector count='2'>released</otmi:vector>
+              <otmi:vector count='2'>cloned</otmi:vector>
+              <otmi:vector count='2'>spontaneous</otmi:vector>
+              <otmi:vector count='2'>stably</otmi:vector>
+              <otmi:vector count='2'>indicating</otmi:vector>
+              <otmi:vector count='2'>before</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>min</otmi:vector>
+              <otmi:vector count='2'>transfected</otmi:vector>
+              <otmi:vector count='2'>failed</otmi:vector>
+              <otmi:vector count='2'>factor</otmi:vector>
+              <otmi:vector count='2'>revealed</otmi:vector>
+              <otmi:vector count='2'>suppress</otmi:vector>
+              <otmi:vector count='2'>greater</otmi:vector>
+              <otmi:vector count='2'>shutdown</otmi:vector>
+              <otmi:vector count='2'>activated</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>Moreover</otmi:vector>
+              <otmi:vector count='2'>sensitive</otmi:vector>
+              <otmi:vector count='2'>3d</otmi:vector>
+              <otmi:vector count='2'>cause</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>interaction</otmi:vector>
+              <otmi:vector count='2'>2a</otmi:vector>
+              <otmi:vector count='2'>3b</otmi:vector>
+              <otmi:vector count='2'>capable</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>3a</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>excess</otmi:vector>
+              <otmi:vector count='2'>perturbations</otmi:vector>
+              <otmi:vector count='2'>oligonucleotides</otmi:vector>
+              <otmi:vector count='2'>Similar</otmi:vector>
+              <otmi:vector count='2'>thermotolerance</otmi:vector>
+              <otmi:vector count='2'>proteins</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>recombinant</otmi:vector>
+              <otmi:vector count='2'>spontaneously</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>EMSA</otmi:vector>
+              <otmi:vector count='2'>synthesized</otmi:vector>
+              <otmi:vector count='2'>endogenous</otmi:vector>
+              <otmi:vector count='2'>non-coding</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>2–6</otmi:vector>
+              <otmi:vector count='1'>trimer</otmi:vector>
+              <otmi:vector count='1'>obtain</otmi:vector>
+              <otmi:vector count='1'>pre-conditioning</otmi:vector>
+              <otmi:vector count='1'>affinity</otmi:vector>
+              <otmi:vector count='1'>multichaperone</otmi:vector>
+              <otmi:vector count='1'>inactive</otmi:vector>
+              <otmi:vector count='1'>free</otmi:vector>
+              <otmi:vector count='1'>assessed</otmi:vector>
+              <otmi:vector count='1'>45-mer</otmi:vector>
+              <otmi:vector count='1'>processing</otmi:vector>
+              <otmi:vector count='1'>ruling</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>blot</otmi:vector>
+              <otmi:vector count='1'>bovine</otmi:vector>
+              <otmi:vector count='1'>eEF1A-containing</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>ds</otmi:vector>
+              <otmi:vector count='1'>compare</otmi:vector>
+              <otmi:vector count='1'>Activated</otmi:vector>
+              <otmi:vector count='1'>activate</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>pathological</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>lymphocytes</otmi:vector>
+              <otmi:vector count='1'>search</otmi:vector>
+              <otmi:vector count='1'>tail</otmi:vector>
+              <otmi:vector count='1'>untreated</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>competition</otmi:vector>
+              <otmi:vector count='1'>slow-migrating</otmi:vector>
+              <otmi:vector count='1'>desorption</otmi:vector>
+              <otmi:vector count='1'>unaffected</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>consensus</otmi:vector>
+              <otmi:vector count='1'>returning</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>antibody</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>correspond</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>3c</otmi:vector>
+              <otmi:vector count='1'>inducible</otmi:vector>
+              <otmi:vector count='1'>monomer</otmi:vector>
+              <otmi:vector count='1'>assay</otmi:vector>
+              <otmi:vector count='1'>implicated</otmi:vector>
+              <otmi:vector count='1'>Heat</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>157–240—inhibited</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>Crosslinking</otmi:vector>
+              <otmi:vector count='1'>severely</otmi:vector>
+              <otmi:vector count='1'>competence</otmi:vector>
+              <otmi:vector count='1'>3e</otmi:vector>
+              <otmi:vector count='1'>mutant</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>cell—translational</otmi:vector>
+              <otmi:vector count='1'>pre-incubation</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>inactivate</otmi:vector>
+              <otmi:vector count='1'>No</otmi:vector>
+              <otmi:vector count='1'>aberrations</otmi:vector>
+              <otmi:vector count='1'>interference</otmi:vector>
+              <otmi:vector count='1'>90</otmi:vector>
+              <otmi:vector count='1'>reaction</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>poly(A</otmi:vector>
+              <otmi:vector count='1'>composed</otmi:vector>
+              <otmi:vector count='1'>amounts</otmi:vector>
+              <otmi:vector count='1'>reconstitution</otmi:vector>
+              <otmi:vector count='1'>component(s</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>albeit</otmi:vector>
+              <otmi:vector count='1'>stress</otmi:vector>
+              <otmi:vector count='1'>polyacrylamide</otmi:vector>
+              <otmi:vector count='1'>impaired</otmi:vector>
+              <otmi:vector count='1'>substitution</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>stimulatory</otmi:vector>
+              <otmi:vector count='1'>looked</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>kDa</otmi:vector>
+              <otmi:vector count='1'>ethylene</otmi:vector>
+              <otmi:vector count='1'>bacteria</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>Neither</otmi:vector>
+              <otmi:vector count='1'>1-h</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>anti-HSF</otmi:vector>
+              <otmi:vector count='1'>RT–PCR</otmi:vector>
+              <otmi:vector count='1'>portion</otmi:vector>
+              <otmi:vector count='1'>1–4</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>minimize</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>accumulate</otmi:vector>
+              <otmi:vector count='1'>overlapping</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>coexist</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>us</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>host</otmi:vector>
+              <otmi:vector count='1'>Addition</otmi:vector>
+              <otmi:vector count='1'>unlabelled</otmi:vector>
+              <otmi:vector count='1'>co-activator</otmi:vector>
+              <otmi:vector count='1'>nucleotides</otmi:vector>
+              <otmi:vector count='1'>prompted</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>600-nucleotides</otmi:vector>
+              <otmi:vector count='1'>exposed</otmi:vector>
+              <otmi:vector count='1'>Recently</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>glycol-bis-succinimidylsuccinate</otmi:vector>
+              <otmi:vector count='1'>aminoacyl-tRNA</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>terminus</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>glutathione</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>constitutively</otmi:vector>
+              <otmi:vector count='1'>rescues</otmi:vector>
+              <otmi:vector count='1'>transiently</otmi:vector>
+              <otmi:vector count='1'>immobilized</otmi:vector>
+              <otmi:vector count='1'>motor</otmi:vector>
+              <otmi:vector count='1'>EGTA</otmi:vector>
+              <otmi:vector count='1'>uncharacterised</otmi:vector>
+              <otmi:vector count='1'>multifaceted</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>Taken</otmi:vector>
+              <otmi:vector count='1'>inverted</otmi:vector>
+              <otmi:vector count='1'>11</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>challenge</otmi:vector>
+              <otmi:vector count='1'>extremely</otmi:vector>
+              <otmi:vector count='1'>chaperone-based</otmi:vector>
+              <otmi:vector count='1'>immunophilin</otmi:vector>
+              <otmi:vector count='1'>shift</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>regulate</otmi:vector>
+              <otmi:vector count='1'>GFP-expressing</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>assign</otmi:vector>
+              <otmi:vector count='1'>contained</otmi:vector>
+              <otmi:vector count='1'>ensure</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>dose-dependent</otmi:vector>
+              <otmi:vector count='1'>examined</otmi:vector>
+              <otmi:vector count='1'>E</otmi:vector>
+              <otmi:vector count='1'>MALDI-TOF</otmi:vector>
+              <otmi:vector count='1'>acquire</otmi:vector>
+              <otmi:vector count='1'>G</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>ds-oligonucleotide</otmi:vector>
+              <otmi:vector count='1'>covering</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>electrophoresis</otmi:vector>
+              <otmi:vector count='1'>sequentially</otmi:vector>
+              <otmi:vector count='1'>ionization–time</otmi:vector>
+              <otmi:vector count='1'>co-transfected</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>BHK-21</otmi:vector>
+              <otmi:vector count='1'>participate</otmi:vector>
+              <otmi:vector count='1'>HSF1–eEF1A</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>immunoblotting</otmi:vector>
+              <otmi:vector count='1'>lysates</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>transferase</otmi:vector>
+              <otmi:vector count='1'>diffusion-controlled</otmi:vector>
+              <otmi:vector count='1'>tRNA</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>indeed</otmi:vector>
+              <otmi:vector count='1'>heterologous</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>conclude</otmi:vector>
+              <otmi:vector count='1'>albumin</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>4-nt</otmi:vector>
+              <otmi:vector count='1'>panel</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>migrate</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>Renilla</otmi:vector>
+              <otmi:vector count='1'>HSR-T3-mediated</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>repression</otmi:vector>
+              <otmi:vector count='1'>Transfection</otmi:vector>
+              <otmi:vector count='1'>fluorescent</otmi:vector>
+              <otmi:vector count='1'>1d</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>triggered</otmi:vector>
+              <otmi:vector count='1'>serum</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>stability</otmi:vector>
+              <otmi:vector count='1'>wide</otmi:vector>
+              <otmi:vector count='1'>NGAAN</otmi:vector>
+              <otmi:vector count='1'>fast</otmi:vector>
+              <otmi:vector count='1'>promoters</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>reprogrammed</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>fragment</otmi:vector>
+              <otmi:vector count='1'>regulatory</otmi:vector>
+              <otmi:vector count='1'>promoter</otmi:vector>
+              <otmi:vector count='1'>heating</otmi:vector>
+              <otmi:vector count='1'>(not</otmi:vector>
+              <otmi:vector count='1'>increase</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>compromised</otmi:vector>
+              <otmi:vector count='1'>fusion</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>homology</otmi:vector>
+              <otmi:vector count='1'>kinetics</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>reperfusion</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>restored</otmi:vector>
+              <otmi:vector count='1'>Retention</otmi:vector>
+              <otmi:vector count='1'>co-purified</otmi:vector>
+              <otmi:vector count='1'>S</otmi:vector>
+              <otmi:vector count='1'>Each</otmi:vector>
+              <otmi:vector count='1'>T</otmi:vector>
+              <otmi:vector count='1'>spectrum</otmi:vector>
+              <otmi:vector count='1'>HSR1-specific</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>green</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>subjected</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>conformational</otmi:vector>
+              <otmi:vector count='1'>2-h</otmi:vector>
+              <otmi:vector count='1'>molecules</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>intracellular</otmi:vector>
+              <otmi:vector count='1'>protein–protein</otmi:vector>
+              <otmi:vector count='1'>translational</otmi:vector>
+              <otmi:vector count='1'>inset</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>protected</otmi:vector>
+              <otmi:vector count='1'>putative</otmi:vector>
+              <otmi:vector count='1'>human</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>optimized</otmi:vector>
+              <otmi:vector count='1'>inflammation</otmi:vector>
+              <otmi:vector count='1'>element</otmi:vector>
+              <otmi:vector count='1'>repeats</otmi:vector>
+              <otmi:vector count='1'>capture</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>double-stranded</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>repressor</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>denatured</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>reverse</otmi:vector>
+              <otmi:vector count='1'>slight</otmi:vector>
+              <otmi:vector count='1'>denaturing</otmi:vector>
+              <otmi:vector count='1'>attempts</otmi:vector>
+              <otmi:vector count='1'>sequenced</otmi:vector>
+              <otmi:vector count='1'>DNase</otmi:vector>
+              <otmi:vector count='1'>immunoprecipitates</otmi:vector>
+              <otmi:vector count='1'>600</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>oligonucleotides—1</otmi:vector>
+              <otmi:vector count='1'>variability</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>mouse</otmi:vector>
+              <otmi:vector count='1'>reconcile</otmi:vector>
+              <otmi:vector count='1'>emerged</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>delineate</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>target</otmi:vector>
+              <otmi:vector count='1'>pharmacological</otmi:vector>
+              <otmi:vector count='1'>oligomerization</otmi:vector>
+              <otmi:vector count='1'>independent</otmi:vector>
+              <otmi:vector count='1'>cancer</otmi:vector>
+              <otmi:vector count='1'>GST</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>assist</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>II</otmi:vector>
+              <otmi:vector count='1'>RNAs</otmi:vector>
+              <otmi:vector count='1'>depended</otmi:vector>
+              <otmi:vector count='1'>difficult</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>HSP70</otmi:vector>
+              <otmi:vector count='1'>yield</otmi:vector>
+              <otmi:vector count='1'>HSP</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>detectable</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>laser</otmi:vector>
+              <otmi:vector count='1'>physiological</otmi:vector>
+              <otmi:vector count='1'>ubiquitous</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>genomic</otmi:vector>
+              <otmi:vector count='1'>survival</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>Activation</otmi:vector>
+              <otmi:vector count='1'>lethality</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>transcriptional</otmi:vector>
+              <otmi:vector count='1'>GFP</otmi:vector>
+              <otmi:vector count='1'>matrix-assisted</otmi:vector>
+              <otmi:vector count='1'>respect</otmi:vector>
+              <otmi:vector count='1'>covalently</otmi:vector>
+              <otmi:vector count='1'>polymerase</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>precipitated</otmi:vector>
+              <otmi:vector count='1'>Sequence</otmi:vector>
+              <otmi:vector count='1'>P23</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>temperature-sensitive</otmi:vector>
+              <otmi:vector count='1'>deficient</otmi:vector>
+              <otmi:vector count='1'>Indeed</otmi:vector>
+              <otmi:vector count='1'>ischaemia</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>coli</otmi:vector>
+              <otmi:vector count='1'>triggering</otmi:vector>
+              <otmi:vector count='1'>arrest</otmi:vector>
+              <otmi:vector count='1'>EGS</otmi:vector>
+              <otmi:vector count='1'>procedure</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>sought</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>conserved</otmi:vector>
+              <otmi:vector count='1'>pH</otmi:vector>
+              <otmi:vector count='1'>whereas</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>attractive</otmi:vector>
+              <otmi:vector count='1'>complexed</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>Ca</otmi:vector>
+              <otmi:vector count='1'>imposed</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>untranslated</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>residual</otmi:vector>
+              <otmi:vector count='1'>stimuli</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>eliminated</otmi:vector>
+              <otmi:vector count='1'>relief</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>trimerize</otmi:vector>
+              <otmi:vector count='1'>luciferase</otmi:vector>
+              <otmi:vector count='1'>neurons</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>forming</otmi:vector>
+              <otmi:vector count='1'>Co-immunoprecipitation</otmi:vector>
+              <otmi:vector count='1'>increasing</otmi:vector>
+              <otmi:vector count='1'>chain</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>migrating</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>unidentified</otmi:vector>
+              <otmi:vector count='1'>carrying</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>product</otmi:vector>
+              <otmi:vector count='1'>promoter-proximal</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>heat-shock-induced</otmi:vector>
+              <otmi:vector count='1'>primers</otmi:vector>
+              <otmi:vector count='1'>elution</otmi:vector>
+              <otmi:vector count='1'>gel</otmi:vector>
+              <otmi:vector count='1'>suggesting</otmi:vector>
+              <otmi:vector count='1'>84</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>flight</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>moments</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>dissociates</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>kb</otmi:vector>
+              <otmi:vector count='1'>initiate</otmi:vector>
+              <otmi:vector count='1'>assembly</otmi:vector>
+              <otmi:vector count='1'>plasmid</otmi:vector>
+              <otmi:vector count='1'>200-fold</otmi:vector>
+              <otmi:vector count='1'>upon</otmi:vector>
+              <otmi:vector count='1'>plasmid-derived</otmi:vector>
+              <otmi:vector count='1'>purification</otmi:vector>
+              <otmi:vector count='1'>Polymerase</otmi:vector>
+              <otmi:vector count='1'>Northern</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>Mg</otmi:vector>
+              <otmi:vector count='1'>viability</otmi:vector>
+              <otmi:vector count='1'>mode</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>Release</otmi:vector>
+              <otmi:vector count='1'>crosslinking</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>Predictably</otmi:vector>
+              <otmi:vector count='1'>reaching</otmi:vector>
+              <otmi:vector count='1'>transcription</otmi:vector>
+              <otmi:vector count='1'>80</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>fused</otmi:vector>
+              <otmi:vector count='1'>plateau</otmi:vector>
+              <otmi:vector count='1'>lethal</otmi:vector>
+              <otmi:vector count='1'>BSA)-Sepharose</otmi:vector>
+              <otmi:vector count='1'>2e</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>electromobility</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>exceeds</otmi:vector>
+              <otmi:vector count='1'>unsuccessful</otmi:vector>
+              <otmi:vector count='1'>HSR-T7</otmi:vector>
+              <otmi:vector count='1'>2d</otmi:vector>
+              <otmi:vector count='1'>span</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>suppressed</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A greater amount of HSR1 was precipitated from heat-shocked cells compared with the control cells (lanes 3 and 4, Fig. 2e ), indicating that the amount of HSR1–eEF1A complexes in vivo increased upon heat shock</otmi:snippet>
+              <otmi:snippet>A large portion of the inactive HSF1 in unstressed cells is believed to be complexed with HSP90, P23 and an immunophilin </otmi:snippet>
+              <otmi:snippet>A polypeptide of 45 kDa was retained on HSF1-Sepharose after incubation with a lysate from heat-shocked, but not untreated, BHK-21 ( Fig. 1a ) or HeLa cells ( Supplementary Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Activated HSF1 binds to the heat shock element (HSE), a consensus sequence in HSP promoters composed of inverted NGAAN repeats , and rescues the RNA polymerase II elongation complex from promoter-proximal arrest </otmi:snippet>
+              <otmi:snippet>Activation of purified HSF1 by the eEF1A fraction was accompanied by trimerization of HSF as confirmed by protein–protein crosslinking ( Fig. 1d )</otmi:snippet>
+              <otmi:snippet>Addition of purified HSR1 (but not total RNA) to a lysate of heat-shocked BHK cells treated sequentially with micrococcal nuclease (to remove endogenous HSR1) and EGTA (to inactivate the nuclease) restored the DNA-binding activity of HSF1 ( Supplementary Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Although purified HSF1 has been reported to trimerize spontaneously in vitro in response to elevated temperature, pH and other stimuli , our data suggest that the concentration threshold at which spontaneous HSF activation occurs in vitro exceeds the effective intracellular HSF1 concentration, particularly during the first moments of heat-shock treatment</otmi:snippet>
+              <otmi:snippet>As eEF1A normally binds aminoacyl-tRNA, we sought to determine whether this interaction has a role in HSF1 activation</otmi:snippet>
+              <otmi:snippet>As shown in Fig. 2a , HSF1 binding to DNA was strongly inhibited in vitro by pre-incubation of the cell lysate with RNase A</otmi:snippet>
+              <otmi:snippet>BHK cells were transfected with either 6 HSR or a control double-stranded (ds) oligonucleotide (6 HSR /anti-6 HSR ), and subjected to heat-shock treatment</otmi:snippet>
+              <otmi:snippet>Both HSR1 isolated from heat-shocked BHK or HeLa cells (lanes 7, 8) and HSR-T3 ( in vitro synthesized HSR1, lane 10) activated HSF1 when added together with purified eEF1A</otmi:snippet>
+              <otmi:snippet>Both Mg 2+ and elevated temperature caused in vitro synthesized HSR to migrate similarly to HSR1 isolated from heat-shocked cells ( Fig. 2d , compare lanes 2 and 3, 4)</otmi:snippet>
+              <otmi:snippet>Co-immunoprecipitation of eEF1A and HSF1 from a whole-cell lysate ( Fig. 1e ) revealed the presence of a small amount of HSF1–eEF1A complexes in unstressed cells (lanes 1–4) with the amount increasing during heat-shock treatment, reaching a plateau after 30 min of heat shock (lanes 6, 7) and returning to the initial level after a 1-h recovery at 37 °C (lane 8)</otmi:snippet>
+              <otmi:snippet>Consistently, 6 HSR compromised the induction of thermotolerance, demonstrated by a reduction in cell survival following a lethal heat-shock challenge ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>Consistently, heat-shock induction of HSF1 DNA-binding activity was severely impaired in siRNA HSR , but not in GFP-expressing cells ( Fig. 3d , inset)</otmi:snippet>
+              <otmi:snippet>Crosslinking with ethylene glycol-bis-succinimidylsuccinate (EGS) confirmed that HSR-T3-mediated activation was accompanied by HSF1 trimerization (see Supplementary Fig. 2c )</otmi:snippet>
+              <otmi:snippet>Each oligonucleotide was tested in the reconstituted system for its ability to suppress HSF1 activation by HSR1–eEF1A</otmi:snippet>
+              <otmi:snippet>Finally, we generated HeLa cell lines that stably expressed siRNA HSR </otmi:snippet>
+              <otmi:snippet>For the reconstitution experiment shown in Fig. 2c , recombinant mouse HSF1 was used along with eEF1A purified from rat liver </otmi:snippet>
+              <otmi:snippet>Furthermore, this fraction induced DNA-binding activity of recombinant HSF1 ( Fig. 1c )</otmi:snippet>
+              <otmi:snippet>HSF1 activation has been proposed to occur spontaneously through relief of negative regulation imposed by chaperones </otmi:snippet>
+              <otmi:snippet>HSF1 activation in vitro can be achieved in a reconstituted system with eEF1A + HSR1</otmi:snippet>
+              <otmi:snippet>HSF1 activation was monitored by EMSA ( Fig. 3a ) and HSP72 synthesis was assessed by immunoblotting after recovery of the cells for 16 h at 37 °C for following heat shock (lower panel)</otmi:snippet>
+              <otmi:snippet>HSF1 was expressed in E. coli and purified as a glutathione S -transferase (GST) fusion protein</otmi:snippet>
+              <otmi:snippet>HSP90 has emerged as a primary candidate for the role of repressor of both HSF oligomerization and transcriptional competence </otmi:snippet>
+              <otmi:snippet>HSR1 may represent an attractive pharmacological target in various pathological conditions associated with HSF1 activation, including inflammation, ischaemia/reperfusion and cancer .</otmi:snippet>
+              <otmi:snippet>Heat shock leads to two major physiological perturbations in the cell—translational shutdown and cytoskeleton collapse</otmi:snippet>
+              <otmi:snippet>Here we demonstrate that HSF1 activation during heat shock is enhanced and perhaps triggered by specific cellular factors, including translation elongation factor eEF1A and a previously unknown untranslated RNA, HSR1 ( Supplementary Fig. 4 )</otmi:snippet>
+              <otmi:snippet>Here we describe a previously uncharacterised non-coding RNA that is essential for heat-shock response activation and that could potentially serve as a thermosensor</otmi:snippet>
+              <otmi:snippet>In contrast, HSR-T7 (antisense HSR) failed to induce HSF1 binding to DNA ( Fig. 2c , lane 9) and suppressed the activating effect of HSR-T3 (lane 11)</otmi:snippet>
+              <otmi:snippet>In our system, heating lysate from unstressed cells in the absence of the eEF1A fraction did not yield any detectable HSF1 activity ( Fig. 1b , lane 1, see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>Indeed, the concept of an RNA thermosensor, albeit with a different mode of action, has already been described in bacteria </otmi:snippet>
+              <otmi:snippet>It has been argued that the inhibitory complex of HSF1 with HSP90 and other chaperones dissociates as a result of competition between denatured cellular proteins and HSF for binding to HSP90 </otmi:snippet>
+              <otmi:snippet>Moreover, free eEF1A should accumulate in the cell under heat-shock conditions owing to general translational shutdown and cytoskeleton collapse </otmi:snippet>
+              <otmi:snippet>Moreover, the fast HSF1 activation kinetics in response to heat shock is difficult to reconcile with a simple diffusion-controlled mechanism ( Supplementary Information )</otmi:snippet>
+              <otmi:snippet>Neither component alone was capable of activating HSF1 (lanes 2–6)</otmi:snippet>
+              <otmi:snippet>No eEF1A binding was observed if bovine serum albumin (BSA)-Sepharose was used in place of HSF1-Sepharose</otmi:snippet>
+              <otmi:snippet>Nonetheless, the chaperone-based repression of HSF1 and the activation mechanism described here are likely to coexist ( Supplementary Fig. 4 )</otmi:snippet>
+              <otmi:snippet>Northern blot analysis showed that HSR1 is constitutively expressed in BHK and HeLa cells, and its level seems unaffected by heat shock ( Supplementary Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Notably, a mutant construct carrying a single G → C substitution in the siRNA sequence had a significantly smaller effect on RLuc induction by heat shock</otmi:snippet>
+              <otmi:snippet>Notably, the eEF1A fraction activated endogenous HSF1 in the lysate of unstressed cells as shown by an electromobility shift assay (EMSA) ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>Notably, the mobility of HSR-T3 depended on the conditions to which it was exposed before PAGE analysis</otmi:snippet>
+              <otmi:snippet>On the basis of data obtained using antisense oligonucleotides, we constructed vectors expressing siRNA against different domains of HSR1 (siRNA HSR )</otmi:snippet>
+              <otmi:snippet>Our data assign a new function to eEF1A as a co-activator of HSF1 and suggest that this ubiquitous and extremely conserved protein has a multifaceted role in the response to heat shock</otmi:snippet>
+              <otmi:snippet>Our initial attempts to activate HSF1 with eEF1A isolated from rat liver or HeLa cells were unsuccessful, suggesting that the eEF1A fraction eluted from HSF1-Sepharose contained unidentified component(s) required for HSF1 activation</otmi:snippet>
+              <otmi:snippet>Polymerase chain reaction (PCR) analysis of genomic DNA using HSR1-specific primers produced a single product of 600 nt, ruling out RNA processing as the cause of variability in HSR1 mobility and indicating that the cloned HSR fragment indeed represents full-length HSR1</otmi:snippet>
+              <otmi:snippet>Predictably, cells stably expressing siRNA HSR failed to acquire thermotolerance after heat-shock pre-conditioning ( Fig. 3e )</otmi:snippet>
+              <otmi:snippet>Recently, non-coding RNAs have been implicated in a wide spectrum of regulatory functions </otmi:snippet>
+              <otmi:snippet>Release of HSF1 from the inhibitory multichaperone complex during heat shock could also contribute to the greater availability of HSF1 for eEF1A</otmi:snippet>
+              <otmi:snippet>Retention of eEF1A was temperature-sensitive, as incubation at 43 °C released most of the bound eEF1A ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Sequence comparison of HSR1 from BHK and HeLa cells revealed a high degree of homology, with only a 4-nt difference</otmi:snippet>
+              <otmi:snippet>Similar results were obtained using micrococcal nuclease in the presence of Ca 2+ (not shown)</otmi:snippet>
+              <otmi:snippet>Similar results were obtained with HeLa cells (not shown)</otmi:snippet>
+              <otmi:snippet>Some data, however, point to the existence of auxiliary cellular factors that regulate HSF1 activation</otmi:snippet>
+              <otmi:snippet>Taken together, these data show that HSR1 is essential for the heat-shock response in mammalian cells</otmi:snippet>
+              <otmi:snippet>The band was sensitive to RNase A, but not to DNase ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>The bound polypeptide was identified by MALDI-TOF (matrix-assisted laser desorption/ionization–time of flight) as translation elongation factor eEF1A</otmi:snippet>
+              <otmi:snippet>The effect of siRNA was monitored by the heat-shock-induced expression of a plasmid-derived Renilla luciferase (RLuc) reporter fused to an inducible human HSP70 promoter (see Methods)</otmi:snippet>
+              <otmi:snippet>The effect was dose-dependent with respect to both the amount of HSF1 (or cell lysate, Supplementary Fig. 1c ) and eEF1A fraction ( Fig. 1c )</otmi:snippet>
+              <otmi:snippet>The effect was specific, as addition of excess tRNA before treatment with RNase protected HSF1 activity</otmi:snippet>
+              <otmi:snippet>The induced HSF1 DNA-binding activity was specific, as it was sensitive to both an anti-HSF antibody and an excess of unlabelled HSE oligonucleotide ( Fig. 1b , lanes 6, 7 and 8, 9)</otmi:snippet>
+              <otmi:snippet>The purification procedure was optimized to minimize spontaneous trimerization of HSF1 (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>The results of this experiment identified two domains in HSR1 that were essential for HSF1 activation: four oligonucleotides—1 HSR and 2 HSR , which span 84 nt at the 5′ terminus of HSR1; and 5 HSR and 6 HSR , which correspond to nucleotides 157–240—inhibited HSF1 activation by more than 90% ( Fig. 2f )</otmi:snippet>
+              <otmi:snippet>The slight stimulatory effect of isolated eEF1A (lane 2) on HSF1 activation resulted from residual amounts of co-purified HSR1, and was eliminated by RNase A treatment (not shown)</otmi:snippet>
+              <otmi:snippet>The temperature threshold of HSF1 activation in vivo during heterologous expression is reprogrammed to that of the host cell and is higher in motor neurons and lower in T lymphocytes than in other mammalian cells </otmi:snippet>
+              <otmi:snippet>These cells were transiently transfected with the RLuc reporter plasmid, and heat-shock induction of RLuc activity was monitored</otmi:snippet>
+              <otmi:snippet>These data prompted us to search for a specific RNA in the eEF1A fraction that might participate in HSF1 activation</otmi:snippet>
+              <otmi:snippet>These events might cause the release of eEF1A, which then becomes available for interaction with HSR1 and HSF1 to initiate the heat-shock response ( Supplementary Fig. 4 )</otmi:snippet>
+              <otmi:snippet>These events would ensure the availability of eEF1A molecules capable of forming a complex with HSF1, and thus link the major cellular perturbations caused by heat shock with HSF1 activation</otmi:snippet>
+              <otmi:snippet>These results, together with elution of eEF1A from HSF1-Sepharose at 43 °C ( Fig. 1a ), indicate that eEF1A has a higher affinity for the HSF1 trimer than the monomer</otmi:snippet>
+              <otmi:snippet>This RNA, which we term HSR1, was detected as a single band migrating at 2 kb on denaturing polyacrylamide gel electrophoresis (PAGE) ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>This conformational change of HSR1 may be associated with triggering HSF1 activation, as only the slow-migrating form of HSR1 was retained on HSF1-Sepharose ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Thus, HSR1–eEF1A complexes could capture HSF1 released from the HSP90 complex and assist its assembly into trimers and/or increase the stability of HSF1 trimers</otmi:snippet>
+              <otmi:snippet>Thus, eEF1A may provide a functional link between aberrations in general cellular processes and the stress response</otmi:snippet>
+              <otmi:snippet>To delineate essential functional domains within HSR1, we used a set of 15 overlapping 45-mer antisense DNA oligonucleotides covering the entire HSR1 sequence ( Fig. 2f )</otmi:snippet>
+              <otmi:snippet>To identify putative auxiliary factors involved in HSF1 activation, we looked at proteins from whole-cell lysates retained on covalently immobilized HSF1</otmi:snippet>
+              <otmi:snippet>To obtain evidence of in vivo complex formation between HSF1, eEF1A and HSR1, we extracted RNA from immunoprecipitates corresponding to lanes 5 and 7 of Fig. 1e and analysed them by PCR with reverse transcription (RT–PCR)</otmi:snippet>
+              <otmi:snippet>Transfection with 6 HSR resulted in more than 80% lethality after 60 min of heat shock at 45 °C, whereas the control anti-6 HSR oligonucleotide had no significant effect on cell viability ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>We cloned HSR1 from BHK and HeLa cells, sequenced it, and found it to be a 600-nucleotides (nt) long RNA without a poly(A) tail (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>We co-transfected this construct into HeLa cells together with RNAi vectors and measured changes in RLuc activity induced by heat shock</otmi:snippet>
+              <otmi:snippet>We conclude that HSR1 and eEF1A are necessary and sufficient for HSF1 activation in vitro </otmi:snippet>
+              <otmi:snippet>We found that cells expressing siRNA HSR or full-length antisense HSR1, but not green fluorescent protein (GFP), were deficient in their ability to induce RLuc activity after a 2-h heat shock at 43 °C ( Fig. 3d )</otmi:snippet>
+              <otmi:snippet>We found that the 6 HSR oligonucleotide, but not the 6 HSR /anti-6 HSR ds-oligonucleotide, inhibited HSF1 activation in vivo in addition to the production of HSP72 in response to heat shock ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>We next examined whether the eEF1A-containing fraction eluted by heat from HSF1-Sepharose affected HSF1 function in vitro </otmi:snippet>
+              <otmi:snippet>We obtained independent evidence for an essential role of HSR1 in the heat-shock response in vivo from RNA interference (RNAi) experiments</otmi:snippet>
+              <otmi:snippet>We used the inhibitory oligonucleotide 6 HSR to suppress the heat-shock response in vivo </otmi:snippet>
+              <otmi:snippet>Whereas RLuc activity was induced 200-fold by heat-shock treatment followed by recovery at 37 °C, the siRNA HSR corresponding to the 6 HSR antisense oligonucleotide strongly inhibited heat-shock induction of RLuc ( Fig. 3c )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Identification of an HSF1-activating fraction containing eEF1A.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Fractionation of a lysate of heat-shocked BHK cells on HSF1-Sepharose. Lane 1, whole-cell lysate of heat-shocked BHK cells; lane 2, supernatant after incubation of BHK lysate with HSF1 Sepharose; lane 3, HSF1-Sepharose beads incubated with the lysate and washed; lanes 4, HSF1-Sepharose beads after three successive rounds of elution at 43 °C; lanes 5–7, proteins released from HSF1-Sepharose after successive elutions at 43 °C. b , The eEF1A-containing fraction activates HSF1 in a lysate from unstressed cells. An aliquot of a whole-cell lysate of unstressed BHK cells (20 µg) was incubated in the absence (lanes 1, 5) or in the presence (lanes 2–4) of fractions 5–7 from Fig. 1a and analysed by EMSA. ‘43 °C’ indicates that the lysate was heat-shocked for 15 min before EMSA (lane 1). Lanes 6–9 contain fraction 5. ‘HSE’ (lanes 6, 7) indicates the inclusion of an excess of unlabelled HSE oligonucleotide. ‘Ab’ indicates the presence of a monoclonal anti-HSF1 antibody that causes a supershift (lane 9). c , In vitro activation of recombinant HSF1 by the eEF1A fraction. Increasing amounts of purified recombinant mouse HSF1 were incubated in the absence (- ) or presence of the eEF1A fraction and analysed by EMSA. d , The eEF1A fraction induces trimerization of purified recombinant HSF1. Purified recombinant mouse HSF1 was incubated in the absence (- ) or presence of the eEF1A-containing fraction and the crosslinking reagent EGS. Proteins were then separated by SDS–PAGE, transferred to a nitrocellulose membrane, and probed with an anti-HSF1 antibody. e , Formation of an eEF1A–HSF1 complex in vivo . BHK cells were heat-shocked (HS) for the times indicated and whole-cell lysates were analysed by immunoprecipitation with an anti-eEF1A antibody followed by immunoblotting with anti-HSF1. ‘60R’ indicates 60-min recovery after 60-min heat shock.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>HSR1-mediated activation of HSF1.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Inhibition of HSF1 activation in a whole-cell lysate of heat-shocked (HS) BHK cells by RNase A. The lysate (10 µg total protein) was treated with 500 ng RNase A for 1 h at 37 °C with or without excess tRNA. The amount of HSF1 in each lane was monitored by immunoblotting (lower panel). b , HSR1 from the eEF1A fraction. Silver-stained denaturing 4 % PAGE of the RNA isolated from pooled eEF1A-containing fractions (left panel). Where indicated, HSR1 samples were treated for 30 min at 25 °C with DNase I (10 U) or RNase A (100 ng) before loading onto the gel (right panel). c , Reconstitution of the HSF1-activating complex. Schematic on the top shows HSR1 cDNA flanked by T7 and T3 promoters. Lower panel shows EMSA of recombinant HSF1 incubated with pure eEF1A and HSR1, which was isolated either from HeLa- or BHK-activating fractions (lanes 7, 8) or synthesized by in vitro transcription using T7 or T3 polymerase (lanes 9–11). Quantification of HSF1 activation is presented as the fold increase relative to a background control (lane 1). d , Electrophoretic mobility of in vitro synthesized and endogenous HSR1. HSR1 isolated from BHK cells (lane 1) or synthesized by in vitro transcription (T3, lanes 2–4) was incubated in Mg 2+ free buffer (- ) (lane 4) or in buffer containing 4 mM Mg 2+ (lanes 1–3) and subjected to electrophoresis on a 1 % agarose gel. The sample in lane 2 was heated at 43 °C before loading. M, RNA ladder (nt). e , Co-immunoprecipitation (IP) of HSR1 with an anti-eEF1A antibody. IP was performed as described in the legend to Fig. 1e. RNA was isolated from a precipitate prepared from heat shocked (HS, lane 3) or control (lane 4) cells and subjected to RT–PCR using HSR1-specific primers. Lane 1, no reverse transcription step (- RT). Lane 2, in vitro transcribed HSR1 (HSR1-T3) was used in place of HSR1 isolated from the immunoprecipitate. f , Mapping functional domains of HSR1. Fifteen overlapping 45-mer HSR1 antisense DNA oligonucleotides covering the entire length of HSR1 were screened for their ability to inhibit HSF1 activation in the reconstituted system. Recombinant HSF1 (&lt; 10 nM) was activated in the presence of purified eEF1A (0.01 mg ml -1 ) and HSR1-T3 (0.4 µM). Where indicated, an antisense oligonucleotide was added to a final concentration of 10 µM. Changes in HSF1 activation were quantified after setting the activity of HSF1 in the absence of oligonucleotide at 100 % (lane 2) and without eEF1A at 0 % (lane 1). Note that some oligonucleotides potentiate HSF1 activation (for example, oligonucleotide no. 10).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Inhibition of the heat-shock response in vivo by targeting HSR1.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Effect of 6 HSR antisense oligonucleotide transfections on HSF1 activation and Hsp expression in BHK cells. Cells were transfected with 100 nM of either 6 HSR antisense oligonucleotide (lane 2), an equal amount of the corresponding double-stranded oligonucleotide (ds6 HSR ; lane 3) or were mock-transfected (lane 1). Transfected cells were heat-shocked for 1 h at 43 °C, a whole-cell lysate was immediately prepared from half of the cells and 20 µg of the total protein was analysed by EMSA for HSF1 activity. The remaining half of the cells were allowed to recover at 37 °C for 16 h before a whole-cell lysate was analysed by immunoblotting using an anti-HSP72 (inducible HSP70) antibody. Control (lane 5), lysate of unstressed cells. HS (lane 4), lysate of untransfected heat-shocked cells. Upper panel shows quantification of EMSA data. Error bars represent s.d. from 3 independent experiments. b , Sensitizing BHK cells to heat shock with the 6 HSR oligonucleotide. Cells were transfected with 100 nM 6 HSR or anti-6 HSR , or were mock-transfected (- ). Thermotolerance was induced by incubation for 1 h at 43 °C followed by 15 h recovery at 37 °C. Lethal heat shock (45 °C) was performed for the indicated time periods. Cell viability was determined by MTS assay 16 h after lethal heat shock. Data for 6 HSR and anti-6 HSR oligonucleotides were normalized to the efficiency of transfection. Similar results were obtained with HeLa cells. Data show mean ± s.e.m. from 6 independent experiments. c , Inhibition of heat shock promoter activation by siRNA against HSR1. RLuc activity was measured in lysates of BHK cells transiently transfected with a mixture of RLuc reporter plasmid, a β-gal internal control, and an siRNA construct expressing siRNA against HSR1 (siHSR) or its mutant derivative (siHSR: C → G). C, control lysate of unstressed cells. Similar results were observed with HeLa cells. Error bars represent s.d. from 4 independent experiments. d , Heat-shock response in stably transfected cells expressing siRNA against HSR1. RLuc activity was measured in lysates of HeLa cell lines that stably express either GFP (HS), siRNA against HSR1 (siHSR) or full-length antisense HSR1 (aHSR). Each of these cell lines was transiently transfected with an RLuc reporter plasmid and a β-gal internal control. C, lysate of unstressed cells. The HSF1 activity in the lysates of GFP- (HS) and siHSR- expressing cells is shown in the inset. Error bars represent s.d. from 4 independent experiments. e , Inhibition of thermotolerance by siRNA against HSR1. Cells stably expressing GFP (control, C) or siRNA against HSR1 (siHSR) were subjected to a lethal heat shock for 2 h at 46 °C with (dark grey) or without (light grey) pre-conditioning at 43 °C for 1 h followed by 16 h recovery at 37 °C. Cell viability was determined by the MTS-based assay. Data show mean ± s.e.m. from 3 independent experiments.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)81588-3</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/20.3.499</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s004120050171</otmi:refid>
+          <otmi:refid>info:doi/10.1038/364252a0</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M209412200</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.96.12.6769</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0300-9084(94)90078-7</otmi:refid>
+          <otmi:refid>info:doi/10.1083/jcb.101.4.1198</otmi:refid>
+          <otmi:refid>info:doi/10.1006/bbrc.1998.8510</otmi:refid>
+          <otmi:refid>info:doi/10.1379/1466-1268(1996)001&lt;0033:EFAROH&gt;2.3.CO;2</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(00)80118-5</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.274.5.3135</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(90)90511-C</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.tibs.2003.11.004</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.R500010200</otmi:refid>
+          <otmi:refsnoid>15</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

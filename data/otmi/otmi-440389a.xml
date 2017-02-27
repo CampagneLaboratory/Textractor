@@ -1,0 +1,223 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Graphic detail Are adverts revealing nuclear secrets?</title>
+      <id>info:doi/10.1038/440389a</id>
+      <link href='http://dx.doi.org/10.1038/440389a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Geoff Brumfiel</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>389</prism:startingPage>
+      <prism:endingPage>389</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>nuclear</otmi:vector>
+              <otmi:vector count='5'>he</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='3'>technology</otmi:vector>
+              <otmi:vector count='3'>India</otmi:vector>
+              <otmi:vector count='3'>says</otmi:vector>
+              <otmi:vector count='2'>DC</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>Institute</otmi:vector>
+              <otmi:vector count='2'>uranium</otmi:vector>
+              <otmi:vector count='2'>export</otmi:vector>
+              <otmi:vector count='2'>advertisements</otmi:vector>
+              <otmi:vector count='2'>ads</otmi:vector>
+              <otmi:vector count='2'>US</otmi:vector>
+              <otmi:vector count='2'>&quot;India</otmi:vector>
+              <otmi:vector count='2'>placed</otmi:vector>
+              <otmi:vector count='2'>Albright</otmi:vector>
+              <otmi:vector count='2'>Washington</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>newspapers</otmi:vector>
+              <otmi:vector count='2'>programme</otmi:vector>
+              <otmi:vector count='2'>Indian</otmi:vector>
+              <otmi:vector count='2'>use</otmi:vector>
+              <otmi:vector count='2'>company</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>fissile</otmi:vector>
+              <otmi:vector count='2'>432</otmi:vector>
+              <otmi:vector count='2'>isotope</otmi:vector>
+              <otmi:vector count='2'>weapons</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>being</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>reactors</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>technically</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>Nature</otmi:vector>
+              <otmi:vector count='1'>centrifuge</otmi:vector>
+              <otmi:vector count='1'>allowed</otmi:vector>
+              <otmi:vector count='1'>Energy</otmi:vector>
+              <otmi:vector count='1'>200</otmi:vector>
+              <otmi:vector count='1'>March</otmi:vector>
+              <otmi:vector count='1'>Maryland</otmi:vector>
+              <otmi:vector count='1'>announced</otmi:vector>
+              <otmi:vector count='1'>Makhijani</otmi:vector>
+              <otmi:vector count='1'>incorrectly</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>gotten</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>uranium-238</otmi:vector>
+              <otmi:vector count='1'>David</otmi:vector>
+              <otmi:vector count='1'>treaty</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>descriptions</otmi:vector>
+              <otmi:vector count='1'>European</otmi:vector>
+              <otmi:vector count='1'>Not</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>frequently</otmi:vector>
+              <otmi:vector count='1'>secrets</otmi:vector>
+              <otmi:vector count='1'>government&apos;s</otmi:vector>
+              <otmi:vector count='1'>scan</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>Basu</otmi:vector>
+              <otmi:vector count='1'>mineral-extraction</otmi:vector>
+              <otmi:vector count='1'>1984</otmi:vector>
+              <otmi:vector count='1'>Rare</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>takes</otmi:vector>
+              <otmi:vector count='1'>W</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>Delhi</otmi:vector>
+              <otmi:vector count='1'>supply</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>Arjun</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>Susan</otmi:vector>
+              <otmi:vector count='1'>any</otmi:vector>
+              <otmi:vector count='1'>signed</otmi:vector>
+              <otmi:vector count='1'>controls</otmi:vector>
+              <otmi:vector count='1'>everyone</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>Times</otmi:vector>
+              <otmi:vector count='1'>uranium-enrichment</otmi:vector>
+              <otmi:vector count='1'>turn</otmi:vector>
+              <otmi:vector count='1'>edition</otmi:vector>
+              <otmi:vector count='1'>enrichment</otmi:vector>
+              <otmi:vector count='1'>Research</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>blatantly</otmi:vector>
+              <otmi:vector count='1'>Science</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>canisters</otmi:vector>
+              <otmi:vector count='1'>circumventing</otmi:vector>
+              <otmi:vector count='1'>centrifuges</otmi:vector>
+              <otmi:vector count='1'>asked</otmi:vector>
+              <otmi:vector count='1'>released</otmi:vector>
+              <otmi:vector count='1'>International</otmi:vector>
+              <otmi:vector count='1'>States</otmi:vector>
+              <otmi:vector count='1'>437</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>public</otmi:vector>
+              <otmi:vector count='1'>responded</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>critics</otmi:vector>
+              <otmi:vector count='1'>president</otmi:vector>
+              <otmi:vector count='1'>Security</otmi:vector>
+              <otmi:vector count='1'>can&apos;t</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>Park</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>Gas</otmi:vector>
+              <otmi:vector count='1'>papers</otmi:vector>
+              <otmi:vector count='1'>say</otmi:vector>
+              <otmi:vector count='1'>currently</otmi:vector>
+              <otmi:vector count='1'>enriched</otmi:vector>
+              <otmi:vector count='1'>&quot;It&apos;s</otmi:vector>
+              <otmi:vector count='1'>breaking</otmi:vector>
+              <otmi:vector count='1'>Takoma</otmi:vector>
+              <otmi:vector count='1'>Mumbai-based</otmi:vector>
+              <otmi:vector count='1'>article</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>deal</otmi:vector>
+              <otmi:vector count='1'>items</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>nations</otmi:vector>
+              <otmi:vector count='1'>uranium-235</otmi:vector>
+              <otmi:vector count='1'>helping</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>weapons.</otmi:vector>
+              <otmi:vector count='1'>print</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>Iran</otmi:vector>
+              <otmi:vector count='1'>Earths</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>2004</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>non-profit</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>lax</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>George</otmi:vector>
+              <otmi:vector count='1'>spinning</otmi:vector>
+              <otmi:vector count='1'>corporations</otmi:vector>
+              <otmi:vector count='1'>President</otmi:vector>
+              <otmi:vector count='1'>Mar</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>Bush</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>India&apos;s</otmi:vector>
+              <otmi:vector count='1'>CORRECTION</otmi:vector>
+              <otmi:vector count='1'>United</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>publicizing</otmi:vector>
+              <otmi:vector count='1'>ridiculous</otmi:vector>
+              <otmi:vector count='1'>Environmental</otmi:vector>
+              <otmi:vector count='1'>respond</otmi:vector>
+              <otmi:vector count='1'>nation</otmi:vector>
+              <otmi:vector count='1'>suspect</otmi:vector>
+              <otmi:vector count='1'>referred</otmi:vector>
+              <otmi:vector count='1'>22</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>whom</otmi:vector>
+              <otmi:vector count='1'>gas</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>&quot;I</otmi:vector>
+              <otmi:vector count='1'>non-proliferation</otmi:vector>
+              <otmi:vector count='1'>pursued</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Arjun Makhijani, president of the non-profit Institute for Energy and Environmental Research based in Takoma Park, Maryland, points out that India never signed the treaty on the non-proliferation of nuclear weapons</otmi:snippet>
+              <otmi:snippet>Bush was asked recently whether he thought India — with whom he had just announced a deal to export nuclear technology — was a responsible nuclear nation, he responded simply: &quot;I do.&quot; But critics say a scan through the local papers is all it takes to show that New Delhi is blatantly circumventing US and European export controls, and publicizing nuclear secrets</otmi:snippet>
+              <otmi:snippet>But Albright says the technically detailed descriptions being published in newspapers show India&apos;s lax control over its nuclear technology. &quot;It&apos;s gotten ridiculous,&quot; he says. &quot;India just can&apos;t turn its back on this, and neither can the United States.&quot; CORRECTION (22 Mar 2006): the print edition of this article incorrectly referred to uranium-238 as the fissile isotope for use in reactors and nuclear weapons.</otmi:snippet>
+              <otmi:snippet>Gas centrifuges are spinning canisters that can be used to produce uranium that is enriched in the fissile isotope uranium-235, for use in reactors or weapons</otmi:snippet>
+              <otmi:snippet>In a report released on 10 March, David Albright and Susan Basu of the Institute for Science and International Security in Washington DC reveal that a Mumbai-based company has frequently placed advertisements in Indian newspapers; the ads are for corporations to supply items that seem to be components of a uranium gas centrifuge</otmi:snippet>
+              <otmi:snippet>Not everyone is in agreement over how to respond to the ads</otmi:snippet>
+              <otmi:snippet>So it is technically allowed to further its enrichment programme. &quot;India is not breaking any rules,&quot; he says</otmi:snippet>
+              <otmi:snippet>The technology is currently being pursued by nations such as Iran (see Nature 432 , 432 – 437 ; 2004 )</otmi:snippet>
+              <otmi:snippet>They analysed almost 200 public advertisements placed since 1984 in The Times of India by Indian Rare Earths, a mineral-extraction company that they suspect is helping to further the government&apos;s uranium-enrichment programme</otmi:snippet>
+              <otmi:snippet>Washington DC When US President George W</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

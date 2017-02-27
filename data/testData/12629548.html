@@ -1,0 +1,580 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Identification of the ubiquitin&#150;protein ligase that recognizes oxidized IRP2 - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n4';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=C0A804EF46528FABB08C7E95B193411142AE">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html#le">Letter</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><input xmlns="" value="le" id="categ" type="hidden"><input xmlns="" value="" id="arch_categ" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">Letter</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>
+&nbsp;<b>5</b>, 336 - 340 (2003)
+ <br>Published online: 10&nbsp;March&nbsp;2003;  | doi:10.1038/ncb952
+</span><h2 xmlns="">Identification of the ubiquitin&#150;protein ligase that recognizes oxidized IRP2</h2><span xmlns="" class="author">Koji Yamanaka<sup>1,&nbsp;</sup><sup>6</sup>, Haruto Ishikawa<sup>2,&nbsp;</sup><sup>3,&nbsp;</sup><sup>4,&nbsp;</sup><sup>6</sup>, Yuzuru Megumi<sup>3</sup>, Fuminori Tokunaga<sup>3,&nbsp;</sup><sup>4</sup>, Masato Kanie<sup>3</sup>, Tracey A. Rouault<sup>5</sup>, Isao Morishima<sup>2</sup>, Nagahiro Minato<sup>1</sup>, Koichiro Ishimori<sup>2,&nbsp;</sup><sup>4</sup>
+&amp;&nbsp;Kazuhiro Iwai<sup>1,&nbsp;</sup><sup>3,&nbsp;</sup><sup>4</sup><p class="blacksml"><sup>1</sup>&nbsp;Department of Molecular &amp; System Biology, Graduate School of Biostudies, Kyoto University, Sakyo-Ku, Kyoto 606-8501, Japan</p><p class="blacksml"><sup>2</sup>&nbsp;Department of Molecular Engineering, Graduate School of Engineering, Kyoto University, Sakyo-Ku, Kyoto 606-8501, Japan</p><p class="blacksml"><sup>3</sup>&nbsp;Department of Molecular Cell Biology, Graduate School of Medicine, Osaka City University, 1-4-3 Asahi-Machi, Abeno-Ku, Osaka 545-8585, Japan</p><p class="blacksml"><sup>4</sup>&nbsp;CREST, Japan Science and Technology Corporation (JST), Kawaguchi, Saitama 332-0012, Japan</p><p class="blacksml"><sup>5</sup>&nbsp;Cell Biology &amp; Metabolism Branch, National Institute of Child Health and Human Development, Bethesda, Maryland 20892-5430, USA</p><p class="blacksml"><sup>6</sup>&nbsp;These authors contributed equally to this work</p><span class="blacksml">
+Correspondence should be addressed to Kazuhiro Iwai <a href="mailto:kiwai@med.osaka-cu.ac.jp">kiwai@med.osaka-cu.ac.jp</a></span></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>The ubiquitin system is involved in several basic cellular functions<sup><a href="#B1">1, 
+</a></sup><sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. Ubiquitination is carried out by a cascade of three reactions catalysed by the E1, E2 and E3 enzymes. Among these, the E3 ubiquitin&#150;protein ligases have a pivotal role in determining the specificity of the system by recognizing the target substrates through defined targeting motifs<sup><a href="#B1">1, 
+</a></sup><sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. Although RING finger proteins constitute an important family of E3 ligases<sup><a href="#B4">4</a></sup>, only a few post-transcriptional modifications, including phosphorylation<sup><a href="#B1">1</a></sup>, proline hydroxylation<sup><a href="#B5">5, 
+</a></sup><sup><a href="#B6">6</a></sup> and glycosylation<sup><a href="#B7">7</a></sup>, are known to function as recognition signals for E3. Iron regulatory protein 2 (IRP2), a modulator of iron metabolism, is regulated by iron-induced ubiquitination and degradation<sup><a href="#B8">8</a></sup>. Here we show that the RING finger protein HOIL-1 functions as an E3 ligase for oxidized IRP2, suggesting that oxidation is a specific recognition signal for ubiquitination. The oxidation of IRP2 is generated by haem, which binds to IRP2 in iron-rich cells, and by oxygen, indicating that the iron sensing of IRP2 depends on the synthesis and availability of haem.<br><br></b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">The metabolism of iron must be tightly regulated owing to the toxicity of this element, and regulation is achieved in mammalian cells through iron-dependent control of IRP1 and IRP2 (refs <a href="#B9">9</a>,<a href="#B10">10</a>). IRP1 and IRP2 have largely redundant roles in post-transcriptional gene regulation; however, IRP2-null mice but not IRP1-null mice develop adult-onset neurodegenerative disease<sup><a href="#B11">11</a></sup>. IRP1 is a stable bi-functional protein and its activity is regulated by the assembly and disassembly of its iron&#150;sulphur cluster<sup><a href="#B9">9, 
+</a></sup><sup><a href="#B10">10</a></sup>. By contrast, IRP2 is regulated by iron-induced ubiquitination and degradation. A specific domain of 73 amino acids, the iron-dependent degradation (IDD) domain, is essential for targeting the protein for degradation after iron-mediated oxidative modification<sup><a href="#B8">8, 
+</a></sup><sup><a href="#B12">12</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">We first attempted to identify an E3 involved in the ubiquitination of oxidized IRP2 (IRP2-E3). The ubiquitination of oxidized IRP2 was inhibited by the addition of an IDD domain that had been expressed in <i>Escherichia coli</i> and oxidized <i>in vitro</i> (<a href="#f1">Fig. 1a</a>). By contrast, the addition of an IDD domain derived from insect cells and oxidized <i>in vitro</i> enhanced the ubiquitination of IRP2 in a dose-dependent manner (<a href="#f1">Fig. 1b</a>). Because insect cells but not bacteria contain an active ubiquitin system, we thought that the IRP2-E3 might associate with the IDD domain from insect cells. Indeed, further analyses suggested that the IDD domain functions as the recognition site for the IRP2-E3 (data not shown).</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F1.html">Figure&nbsp;1.</a>&nbsp;HOIL-1 binds IRP2 in the presence of oxygen.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb952-f1.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, <b>b</b>, An IRP2-E3 activity associates with the IDD domain in insect cells but not in bacteria. Oxidized IRP2 was incubated with HeLa S100 lysates, ubiquitin, ATP, ATP regenerating system and the indicated amounts of oxidized IDD domain purified from <i>E. coli</i> (<b>a</b>) or insect cells (<b>b</b>) at 37 &#176;C for 60 min. Samples were immunoprecipitated with antibodies against Myc, resolved by 6% SDS&#150;PAGE, and analysed by immunoblot with antiserum against ubiquitin to detect ubiquitinated IRP2. <b>c</b>, Clone H3, which expresses a protein that binds to the IDD domain, was isolated by sequential differential screenings of yeast cells cultured in aerobic or anaerobic conditions. Clone B2 shows nonspecific binding to the IDD domain. p53&#150;SV40LT was used as a positive control. <b>d</b>, Sequence of HOIL-1. Amino acids in hatched boxes are consensus residues in the RING finger domain (residues 240&#150;283); note that Ile 283 does not match the original consensus residue<sup><a href="#B25">25</a></sup>. The Ubl domain (residues 28&#150;88) and Cys 240 and Cys 243 in the RING finger domain are also indicated.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F1.html">Full Figure and legend (56K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">At low oxygen pressure IRP2 is stable even in the presence of iron<sup><a href="#B13">13</a></sup>. We therefore established a differential two-hybrid screening in which yeast cells were cultured in either aerobic or anaerobic conditions using the IDD domain as a bait to identify the IRP2-E3. One of the isolated clones, H3 (<a href="#f1">Fig. 1c</a>), contained the whole coding region of a RING finger protein (<a href="#f1">Fig. 1d</a>). We designated the protein HOIL-1 (for haem-oxidized IRP2 ubiquitin ligase-1). HOIL-1 has been cloned independently as a protein associated with the hepatitis B virus X protein (XAP3)<sup><a href="#B14">14</a></sup>, protein kinase C (RBCK)<sup><a href="#B15">15</a></sup> and UbcM4 (UIP28)<sup><a href="#B16">16</a></sup>.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">When co-transfected into Cos cells, HOIL-1 associated with IRP2 in cells treated with ferric ammonium citrate (FAC) or haemin, but not in those treated with desferrioxamine (Df; <a href="#f2">Fig. 2a</a>), suggesting that HOIL-1 binds to IRP2 only in iron-rich conditions. It has been shown that the amount of Myc-tagged IRP2 expressed stably in RD4 cells under the control of an inducible promoter is almost identical to that of endogenous IRP2 and that the protein is degraded in an iron-dependent manner as efficiently as its endogenous counterpart<sup><a href="#B8">8, 
+</a></sup><sup><a href="#B17">17</a></sup>. In addition, the chimaeric protein IRP1+73, in which the IDD domain is inserted into IRP1 in an analogous position in the sequence, has been shown to undergo iron-dependent degradation<sup><a href="#B8">8</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f2"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F2.html">Figure&nbsp;2.</a>&nbsp;HOIL-1 acts as a ubiquitin&#150;protein ligase for oxidized IRP2 <i>in vitro</i>.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F2.html"><img border="0" alt="Figure&nbsp;2 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb952-f2.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, <b>b</b>, HOIL-1 binds to IRP2 in iron-rich cells. <b>a</b>, Cos cells co-transfected with (His)<sub>6</sub>-tagged HOIL-1 and Myc-tagged IRP2 were treated with Df (D), FAC (F) or haemin (H). Anti-RGS&#150;(His)<sub>6</sub> immunoprecipitates and 10 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of lysates (1/30 of the precipitated lysates) were resolved by 6% SDS&#150;PAGE and analysed by immunoblot with antibodies against Myc. Asterisk indicates a nonspecific signal. <b>b</b>, RD4 stable transformants expressing IRP2 or IRP1+73 were cultured in the presence of dexamethasone to induce protein expression. After 24 h, MG132 was added, followed by Df (D<sup>*</sup>), FAC (F<sup>*</sup>) or haemin (H<sup>*</sup>). Anti-HOIL-1 immunoprecipitates and 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of lysates (1/300 of the precipitated lysates) were resolved by SDS&#150;PAGE. Membranes were blotted with antibodies against Myc and antiserum against HOIL-1 to detect IRP2 or IRP1+73 and HOIL-1, respectively. <b>c</b>, <b>d</b>, HOIL-1 functions as the ubiquitin ligase for oxidized IRP2 <i>in vitro</i>. <b>c</b>, Oxidized IRP2 was incubated with ubiquitin, E1, ATP and ATP regenerating system in the presence or absence of E2 (UbcH5c) or HOIL-1 at 37 &#176;C for 60 min as indicated. <b>d</b>, Native IRP2, oxidized IRP2 or buffer control was incubated with E1, UbcH5c, HOIL-1, ubiquitin, ATP and ATP regenerating system at 37 &#176;C for 60 min as indicated. Ubiquitinated IRP2 was detected as described in <a href="#f1">Fig. 1</a>.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F2.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F2.html">Full Figure and legend (90K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">We assessed the binding of HOIL-1 to IRP2 and IRP1+73 in RD4 cells. Both IRP2 and IRP1+73 were co-immunoprecipitated with HOIL-1 from lysates of cells treated simultaneously with the proteasome inhibitor MG132 and either FAC or haemin, but not Df, suggesting that endogenous HOIL-1 binds to IRP2 only in iron-rich conditions by recognizing the IDD domain (<a href="#f2">Fig. 2b</a>). <i>In vitro</i> ubiquitination assays using purified components showed that oxidized IRP2 was ubiquitinated efficiently only in the presence of both E2 (UbcH5c) and HOIL-1 (<a href="#f2">Fig. 2c</a>) and that oxidized IRP2 was ubiquitinated more efficiently by HOIL-1 than by native IRP2 (<a href="#f2">Fig. 2d</a>). Collectively, these results suggest that HOIL-1 is an IRP2-E3.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">We examined whether the ubiquitin-like (Ubl) and RING finger domains of HOIL-1 are involved in HOIL-1 binding to the IDD domain. Whereas a HOIL-1 mutant lacking the Ubl domain (HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">28&#150;88</sup>) did not bind to the IDD domain in a yeast two-hybrid analysis, HOIL-1 mutants that either lacked the RING finger (HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">240&#150;283</sup>) or carried mutations in the two consensus cysteine residues in the RING finger (HOIL-1<sup>C240,243S</sup>) bound to the domain. The Ubl domain alone (residues 1&#150;88) was sufficient for binding to the IDD domain (<a href="#f3">Fig. 3a</a>). In iron-treated cells, HOIL-1 and HOIL-1<sup>C240,243S</sup> bound to IRP2, whereas the binding of HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">240&#150;283</sup> to IRP2 was significantly reduced and HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">28&#150;88</sup> did not bind to IRP2 at all. An alternatively spliced form of HOIL-1, HOIL-1L, which is translated from a different initiation site but contains the Ubl domain, also bound to IRP2 even though it was expressed in much lower quantities than HOIL-1 (<a href="#f3">Fig. 3b</a>). These results suggest that the Ubl domain of HOIL-1 is involved in substrate recognition. Involvement of the Ubl domain in substrate recognition has been also reported for the RING finger E3 Parkin, which was identified as the gene responsible for a familial form of Parkinson's disease<sup><a href="#B18">18, 
+</a></sup><sup><a href="#B19">19</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f3"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F3.html">Figure&nbsp;3.</a>&nbsp;HOIL-1 functions as an IRP2-E3 in cells.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F3.html"><img border="0" alt="Figure&nbsp;3 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb952-f3.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, The Ubl domain but not the RING finger domain recognizes the IDD domain. Binding of wild-type HOIL-1, mutant (HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">28&#150;88</sup>, HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">240&#150;283</sup> and HOIL-1<sup>C240,243S</sup>) HOIL-1 and the HOIL-1 Ubl domain (residues 1&#150;88) to the IDD domain was assessed by a yeast two-hybrid screen. <b>b</b>, HOIL-1<sup>C240,243S</sup> binds to IRP2 in iron-rich cells. Cos cells co-transfected with expression vectors encoding IRP2 plus wild-type HOIL-1, mutant HOIL-1 or HOIL-1L were treated with FAC. Anti-Myc immunoprecipitates and 10 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of lysates (1/20 of the precipitated lysates) were resolved by SDS&#150;PAGE. Membranes were blotted with antibodies against RGS&#150;(His)<sub>6</sub> and Myc to detect HOIL-1 and IRP2, respectively. Asterisk indicate unidentified bands, which are possibly degradation products owing to overexpression. <b>c</b>, HOIL-1<sup>C240,243S</sup> inhibits the downregulation of IRP2 in iron-rich cells. HEK293 cells, co-transfected with 5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of expression vectors encoding IRP2 and wild-type or mutant HOIL-1, were incubated in the absence (C) or presence of FAC (F). Lysates (40 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g) were resolved by SDS&#150;PAGE and membranes were blotted as in <b>b</b>.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F3.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F3.html">Full Figure and legend (50K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">We examined the role of HOIL-1 in iron-dependent degradation of IRP2 in HEK293 cells by transfecting vectors expressing IRP2 and the HOIL-1 mutants. In control transfected cells, the quantity of IRP2 was clearly lower in cells treated with FAC than in non-treated cells, suggesting that exogenous IRP2 is recognized by endogenous E3 (<a href="#f3">Fig. 3c</a>). Iron-induced downregulation of IRP2 was reversed in cells co-transfected with HOIL-1<sup>C240,243S</sup>, but not with HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">28&#150;88</sup>, suggesting that the RING-finger-mutated ligase can sequester IRP2 but does not possess E3 activity because of its inability to bind to E2 (ref. <a href="#B2">2</a> and <a href="#f4">Fig. 4d</a>). The inability of HOIL-1<sup><img border=0 src="/__chars/_delta/black/med/small/glyph.gif" align="bottom" alt="Delta">240&#150;283</sup> to stabilize IRP2 might be due to its weak binding to IRP2 in mammalian cells (<a href="#f3">Fig. 3b</a>). Taken together, these data indicate that HOIL-1 may function as an IRP2-E3 in cells.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f4"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F4.html">Figure&nbsp;4.</a>&nbsp;HOIL-1 targeting of IRP2 for degradation requires haem and oxygen.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F4.html"><img border="0" alt="Figure&nbsp;4 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb952-f4.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, IRP2 binds to haem <i>in vitro</i>. Purified IRP2 (50 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M) was incubated with 60 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M haemin at 4 &#176;C for 10 min and unbound haemin was removed by gel filtration. The absorption spectra of haemin-treated (unbroken line) and untreated (broken line) IRP2 are shown. <b>b</b>, IRP2 binds to haem <i>in vivo</i>. Hi Five cells were infected with recombinant baculovirus expressing IRP2. After 48 h 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M haemin was added, and after a further 12 h the cells were collected. The absorption spectra of IRP2 purified from haemin-treated (unbroken line) and untreated (broken line) infected cells are shown. <b>c</b>, Haem synthesis is required for iron-induced degradation of IRP2 by HOIL-1. HEK293 cells co-transfected with 7.5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of pXS&#150;IRP2 and pcDNA3.1&#150;(His)<sub>6</sub>&#150;HOIL-1 or pcDNA3.1 were cultured in the absence (C) or the presence of 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M Df (D), 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> FAC (F), 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M haemin (H), 2 mM succinyl acetone (SA) or 10 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M lactacystin (LC) for 16 h. Lysates (20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g) were resolved by 8% SDS&#150;PAGE. IRP2 and HOIL-1 were detected by immunoblot as described in <a href="#f3">Fig. 3</a>. <b>d</b>, Haem-loaded IRP2 is ubiquitinated specifically by HOIL-1 <i>in vitro</i>. Haem-loaded IRP2 was incubated with VBC-Cul2, HOIL-1 or HOIL-1 mutants in the presence of E1, UbcH5c, ubiquitin, ATP and ATP regenerating system at 37 &#176;C for 20 min. Samples were resolved by 5% SDS&#150;PAGE and analysed by immunoblot with antibodies against Myc. <b>e</b>, Haem and oxygen are necessary for efficient ubiquitination of IRP2 by HOIL-1. Native, oxidized or haem-loaded IRP2 was incubated with HOIL-1 in aerobic or anaerobic conditions. Ubiquitinated IRP2 was detected as described in <a href="#f1">Fig. 1</a>, except that antibodies against GST were used instead of antiserum against ubiquitin.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F4.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb952_F4.html">Full Figure and legend (53K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">As haem may be involved in IRP2 degradation<sup><a href="#B20">20</a></sup>, we used HOIL-1 to address directly the involvement of haem in the ubiquitination of IRP2. We first monitored the binding of haem to IRP2 <i>in vitro</i>. The absorption spectrum of haemin-treated IRP2 clearly showed the Soret band at about 420 nm that is typical of absorption by haem-binding proteins (<a href="#f4">Fig. 4a</a>). Further analysis suggested that the molar ratio of haem to IRP2 was about 1 and that haem bound to the IDD domain, suggesting that the IDD domain is the haem-binding site (H. I., manuscript in preparation).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">We then examined the binding of haem to IRP2 in insect cells infected with a baculovirus expressing IRP2. The absorption spectrum of IRP2 (<a href="#f4">Fig. 4b</a>) purified from insect cells treated with haemin (unbroken line) clearly showed the Soret band even though the absorption was weaker than that of IRP2 treated with haemin <i>in vitro</i>. By contrast, the absorption spectrum of IRP2 purified from untreated cells (broken line) did not show the Soret band, indicating that haem binds to IRP2 in haemin-treated cells.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">We tested the effect of haem on ubiquitination of IRP2 by transfecting the IRP2 expression vector into HEK293 cells (<a href="#f4">Fig. 4c</a>). When cells were co-transfected with a control plasmid, the expression of IRP2 was not largely affected in the presence of FAC, suggesting that endogenous HOIL-1 was overwhelmed by the large quantity of exogenously expressed IRP2. In cells co-transfected with HOIL-1, however, IRP2 was downregulated in the presence of FAC or haemin, and iron-induced downregulation of IRP2 was suppressed in the presence of the proteasome-specific inhibitor lactacystin, suggesting that IRP2 is ubiquitinated efficiently by exogenous HOIL-1 and degraded by the proteasome. Treating the cells with succinyl acetone, an inhibitor of haem synthesis, inhibited the downregulation of IRP2 by FAC but not haemin, indicating that haem synthesis is essential for the ubiquitination of IRP2.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">An <i>in vitro</i> ubiquitination assay showed that haem-loaded IRP2 was ubiquitinated by wild-type HOIL-1, but not by any HOIL-1 mutants tested or an unrelated E3 (VBC-Cul2 ligase<sup><a href="#B21">21</a></sup>; <a href="#f4">Fig. 4d</a>), confirming that HOIL-1 is indeed the IRP2-E3 and that HOIL-1 with mutations in the RING finger domain loses its E3 ligase activity. Last, we showed that haem-bound IRP2 was ubiquitinated by HOIL-1 even more efficiently than its oxidized counterpart and that the ubiquitination of haem-bound IRP2 was strongly suppressed in an anaerobic reaction (<a href="#f4">Fig. 4e</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">On the basis of these results, we conclude that HOIL-1 functions as an IRP2-E3 and that both haem and oxygen are necessary for IRP2 ubiquitination. We note, however, that the existence of another IRP2-E3 cannot be excluded. Although we have observed that IRP2 that is oxidized but not bound to haem (oxidized IRP2) is ubiquitinated efficiently <i>in vitro</i>, haem-bound IRP2 is ubiquitinated by HOIL-1 much more efficiently than is oxidized IRP2. We therefore suspect that the small amount of haem binds to IRP2 when IRP2 is purified from non-treated insect cells and that motifs recognized by HOIL-1 might be generated by the reaction of haem and oxygen <i>in vitro</i>. Although clarification of precise mechanisms underlying IRP2 oxidation is needed, we can propose a tentative model of iron-induced IRP2 ubiquitination. In this model haem binds to the IDD domain in iron-rich cells, after which a superoxide radical is generated by the reaction of haem and oxygen<sup><a href="#B22">22</a></sup>. On oxidation by the superoxide radical, the IDD domain is subsequently recognized by HOIL-1 and IRP2 is ubiquitinated.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Oxidation is a chief cause of protein damage. Oxidized proteins are degraded rapidly; however, little is known about the mechanisms that underlie their selective removal<sup><a href="#B23">23, 
+</a></sup><sup><a href="#B24">24</a></sup>. Removing damaged proteins is an important component of cellular mechanisms of quality control. Notably, IRP2 oxidation functions as a specific signal for ubiquitination but the oxidized protein is not inactivated: IRP2 maintains its activity in iron-rich cells treated with proteasome inhibitors<sup><a href="#B8">8</a></sup>. Thus, identification of the mechanisms involved in IRP2 oxidation and its recognition by HOIL-1 may have broader biological implications in understanding the roles of protein oxidation. We have shown that the stability of IRP2 is regulated by haem. By contrast, IRP1 is regulated by the assembly and disassembly of its iron&#150;sulphur cluster<sup><a href="#B9">9, 
+</a></sup><sup><a href="#B10">10</a></sup>. Our results therefore indicate that iron availability in cells may be sensed by two different systems: iron&#150;sulphur cluster assembly and haem availability. The iron concentration required for downregulating IRP2 is identical to that for disassembling the iron&#150;sulphur cluster of IRP1 (unpublished results). Thus, the synthesis of both haem and iron&#150;sulphur clusters seems to be coordinately regulated by the availability of cellular iron.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Methods"></a><span xmlns="" class="heading3">Methods</span><br xmlns=""><a xmlns="" name="Cell culture and transfection to cells"></a><span xmlns="" class="articletext"><b>Cell culture and transfection to cells</b></span><br xmlns=""><span xmlns="" class="articletext">We cultured HEK293 and Cos cells in DMEM medium supplemented with 10% fetal calf serum (Sigma, St Louis, MO), 100 IU ml<sup>-1</sup> penicillin G and 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> streptomycin. RD4 stable transformants expressing IRP2 or IRP1+73 under the control of a dexamethasone-inducible promoter were cultured as described<sup><a href="#B8">8</a></sup>. Transient transfection to Cos cells was done by electroporation as described<sup><a href="#B8">8</a></sup>. Transient transfection to HEK293 cells was done by using Fugene 6 according to the manufacturer's (Roche Diagnostics, Indianapolis, IN) instructions.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Plasmids"></a><span xmlns="" class="articletext"><b>Plasmids</b></span><br xmlns=""><span xmlns="" class="articletext">The Myc-tagged IRP2 expression vector (pXS&#150;IRP2) has been described<sup><a href="#B17">17</a></sup>. We subcloned a DNA fragment encoding the IDD domain amplified by polymerase chain reaction (PCR) into pT7-7&#150;His or pGBKT7 (Clontech, Palo Alto, CA) for expression in bacteria or yeast, respectively. HOIL-1L was cloned from HEK293 messenger RNA by PCR with reverse transcription. We inserted the HOIL-1 and HOIL-1L complementary DNAs into pcDNA3.1&#150;RGS&#150;(His)<sub>6</sub>. HOIL-1 mutants, constructed by two-step PCR methods<sup><a href="#B8">8</a></sup>, were subcloned into pGADT7 (Clontech) or pcDNA3.1&#150;RGS&#150;(His)<sub>6</sub> for expression in yeast or mammalian cells, respectively. cDNAs encoding (His)<sub>6</sub>-tagged IDD domain, HOIL-1 and the various HOIL-1 mutants were subcloned into pVL1393 (Invitrogen, Carlsbad, CA).</span><br xmlns=""><br xmlns=""><a xmlns="" name="Expression of recombinant proteins"></a><span xmlns="" class="articletext"><b>Expression of recombinant proteins</b></span><br xmlns=""><span xmlns="" class="articletext">E2 and ubiquitin tagged with glutathione <i>S</i>-transferase (GST) were expressed and purified from <i>E. coli</i> as described<sup><a href="#B21">21</a></sup>. The (His)<sub>6</sub>-tagged IDD domain was purified by the same method as the E2 enzymes<sup><a href="#B21">21</a></sup>. We generated recombinant baculovirus and infected High Five cells as described<sup><a href="#B21">21</a></sup>. Recombinant E1, IRP2, the IDD domain and HOIL-1 were purified as described<sup><a href="#B21">21</a></sup>. We purified VBC-Cul2 from baculovirus-infected insect cells as described<sup><a href="#B21">21</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Generation of antiserum against HOIL-1"></a><span xmlns="" class="articletext"><b>Generation of antiserum against HOIL-1</b></span><br xmlns=""><span xmlns="" class="articletext">We amplified a cDNA encoding residues 337&#150;385 of HOIL-1 (HOIL-1-I) by PCR and subcloned it into pGEX-2TK (Amersham Pharmacia Biotech, Piscataway, NJ). We expressed and purified GST&#150;HOIL-1-I as described<sup><a href="#B21">21</a></sup> and used it to raise rabbit antiserum against GST&#150;HOIL-1-I.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Yeast two-hybrid screening"></a><span xmlns="" class="articletext"><b>Yeast two-hybrid screening</b></span><br xmlns=""><span xmlns="" class="articletext">AH109 cells were transformed first with pGBKT7&#150;IDD by the lithium acetate method and then with a cDNA library of the human kidney cancer cell line UOK111 (a gift from R. Klausner) constructed in pGADT7 (prepared in our laboratory). We plated 1.4 <img border=0 src="/__chars/math/special/times/black/med/base/glyph.gif" align="bottom" alt="times"> 10<sup>6</sup> transformants onto 150-mm dishes containing SD medium lacking histidine, tryptophan and leucine, but including 2.5 mM 3-aminotriazole and 25 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M ferrous ammonium sulphate, and incubated them for 4 d. Roughly 500 His<sup>+</sup>, Trp<sup>+</sup> and Leu<sup>+</sup> colonies were picked up and screened further by anaerobic culture for 4 d on SD plates lacking histidine, tryptophan and leucine, but including 2.5 mM 3-aminotriazole and 40 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> ergosterol. Plasmids from colonies growing in this second screen were recovered and characterized further.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">We assessed the binding of HOIL-1 mutants to the IDD domain by culturing for 3 d AH109 cells transformed with pGBKT7&#150;IDD and pGADT7 containing the HOIL-1 mutant cDNAs on SD plates lacking histidine, tryptophan and leucine, but including 2.5 mM 3-aminotriazole and 25 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M ferrous ammonium sulphate.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Immunoprecipitation and immunoblotting"></a><span xmlns="" class="articletext"><b>Immunoprecipitation and immunoblotting</b></span><br xmlns=""><span xmlns="" class="articletext">RD4 stable transformants expressing IRP2 or IRP1+73 were cultured for 24 h in the presence of 20 nM dexamethasone to induce the expression of recombinant protein. After 24 h, 10 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M MG132 was added for 20 min before the addition of 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M Df, 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> FAC or 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M haemin to individual plates. Three hours after adding Df, FAC or haemin, the cells were lysed.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">RD4 stable transformants expressing IRP2 or IRP1+73, and Cos cells transiently transfected with the expression plasmids indicated in the figure legends were lysed with buffer containing 1% Triton X-100, 50 mM Tris-HCl (pH 8.0), 150 mM NaCl and 2 mM phenyl methylsulphonyl fluoride. After centrifugation, the supernatant was immunoprecipitated with rabbit antiserum against HOIL-1 (RD4 cells) or antibodies (Qiagen, Hilden, Germany) against RGS&#150;(His)<sub>6</sub> (Cos cells) and then incubated with Sepharose beads conjugated to Protein A (Amersham). Beads were washed five times with lysis buffer and then twice with 20 mM Tris-HCl (pH 7.5). Immunoprecipitates were resolved by SDS&#150;PAGE.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Lysates from HEK293 cells transiently transfected with the expression plasmids indicated in figure legends were resolved on SDS&#150;PAGE and transferred to the poly(vinylidene difluoride) membranes. After blocking in a buffer containing PBS, 5% skimmed milk and 0.1% Tween 20, membranes were incubated with primary antibody followed by an appropriate horseradish peroxidase (HRP)-conjugated secondary antibody (Amersham Bioscience). Membranes were visualized with the Supersignal western blotting detection system (Pierce, Rockford, IL) in accordance with the manufacturer's recommendations.</span><br xmlns=""><br xmlns=""><a xmlns="" name="In vitro ubiquitin conjugation assay"></a><span xmlns="" class="articletext"><b><i>In vitro</i> ubiquitin conjugation assay</b></span><br xmlns=""><span xmlns="" class="articletext">We oxidized 0.25 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">l<sup>-1</sup> of Myc-tagged IRP2 with 5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M FeCl<sub>3</sub> and 10 mM dithiothreitol (DTT) at 37 &#176;C for 5 min as described<sup><a href="#B12">12</a></sup>. S100 lysates of HeLa cells were prepared as described<sup><a href="#B12">12</a></sup>. The conjugation reaction mixture contained (in a final volume of 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">l) 1 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of IRP2, 20 mM Tris-HCl (pH 7.5), 5 mM MgCl<sub>2</sub>, 2 mM DTT, 0.5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of ubiquitin aldehyde (Ubal) and 5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of ubiquitin or 5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of GST&#150;ubiquitin. We added 1 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of purified wild-type or mutant HOIL-1, and 100 ng of E1 or 50 ng of E2 as indicated in figure legends. The reaction mixtures were incubated in the presence of ATP and ATP regenerating system (0.5 mM ATP, 10 mM creatine phosphate, 10 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g of creatine phosphokinase) for 60 min or 20 min, for reactions containing ubiquitin or GST&#150;ubiquitin, respectively at 37 &#176;C. Reactions were stopped either by adding 1% Nonidet P-40, 0.5% deoxycholate, 50 mM Tris-HCl (pH 8.0), 150 mM NaCl, 10 mM <i>N</i>-ethylmaleimide (NEM) and 0.1% SDS for 15 min, followed by cysteine to neutralize the NEM (all experiments except those in <a href="#f4">Fig. 4d</a>), or by adding 4<img border=0 src="/__chars/math/special/times/black/med/base/glyph.gif" align="bottom" alt="times">SDS sample buffer containing 200 mM Tris-HCl (pH 6.8), 8% SDS, 400 mM DTT, 40% glycerol and 0.2% bromophenol blue (experiments in <a href="#f4">Fig. 4d</a>). IRP2 was immunoprecipitated with antibodies against Myc, resolved on 6% SDS&#150;PAGE and analysed by immunoblot with rabbit antiserum against ubiquitin (a gift from A. Ciechanover) or antibodies against GST (Santa Cruz Biotechnology, Santa Cruz, CA).</span><br xmlns=""><br xmlns=""><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Received 15 November 2002; </span><span xmlns="" class="articletext">Accepted 18 December 2002; </span><span xmlns="" class="articletext">Published online 10 March 2003.</span><br xmlns=""><br xmlns=""><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Hershko, A. &amp; Ciechanover, A. The ubiquitin system. <i>Annu. Rev. Biochem.</i> <b>67</b>, 425&#150;479 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1146%2FANNUREV.BIOCHEM.67.1.425" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9759494&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000075721700016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXlsFOmsLc%3D&pissn=1465-7392&pyear=2003&md5=cfe19a090d539a6b24acdf1c670499f3" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Weissman, A.M. Themes and variations on ubiquitylation. <i>Nature Rev. Mol. Cell Biol.</i> <b>2</b>, 169&#150;178 (2001).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F35056563" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11265246&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000167323200013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXhvFKrs74%3D&pissn=1465-7392&pyear=2003&md5=f9f336504e0b94116707aeedfd4baf1d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Pickart, C.M. Mechanisms underlying ubiquitination. <i>Annu. Rev. Biochem.</i> <b>70</b>, 503&#150;533 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1146%2FANNUREV.BIOCHEM.70.1.503" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11395416&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170012100016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXlsVehtLw%3D&pissn=1465-7392&pyear=2003&md5=2867874489c5c94142a47a22829c6719" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Lorick, K.L. <i>et al</i>. RING fingers mediate ubiquitin-conjugating enzyme (E2)-dependent ubiquitination. <i>Proc. Natl Acad. Sci. USA</i> <b>96</b>, 11364&#150;11369 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.96.20.11364" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10500182&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXmvVCmsb4%3D&pissn=1465-7392&pyear=2003&md5=0631f087693d9471b5eb0c0e511e4154" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Ivan, M. <i>et al</i>. HIF<img border=0 src="/__chars/alpha/black/med/base/glyph.gif" align="bottom" alt="alpha"> targeted for VHL-mediated destruction by proline hydroxylation: implications for O<sub>2</sub> sensing. <i>Science</i> <b>292</b>, 464&#150;468 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11292862&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000168187300035&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXjtVentbw%3D&pissn=1465-7392&pyear=2003&md5=2b00f39808c37241d1324e384dc66293" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Jaakkola, P. <i>et al</i>. Targeting of HIF-<img border=0 src="/__chars/alpha/black/med/base/glyph.gif" align="bottom" alt="alpha"> to the von Hippel&#150;Lindau ubiquitylation complex by O<sub>2</sub>-regulated prolyl hydroxylation. <i>Science</i> <b>292</b>, 468&#150;472 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11292861&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000168187300036&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXjtVentb0%3D&pissn=1465-7392&pyear=2003&md5=691fa83179a6f2d24dadeea385171519" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Yoshida, Y. <i>et al</i>. E3 ubiquitin ligase that recognizes sugar chains. <i>Nature</i> <b>418</b>, 438&#150;442 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnature00890" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12140560&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000177009700043&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XlsFajtr8%3D&pissn=1465-7392&pyear=2003&md5=a2a810ee2335029a0f244577951a0174" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Iwai, K., Klausner, R.D. &amp; Rouault, T.A. Requirements for iron-regulated degradation of the RNA binding protein, iron regulatory protein 2. <i>EMBO J.</i> <b>14</b>, 5350&#150;5357 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7489724&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995TF68100021&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXps1Kmt78%3D&pissn=1465-7392&pyear=2003&md5=d0be673592081968a3f3f6c6286028a8" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Klausner, R.D., Rouault, T.A. &amp; Harford, J.B. Regulating the fate of mRNA: the control of cellular iron metabolism. <i>Cell</i> <b>72</b>, 19&#150;28 (1993).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8380757&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1993KG95500006&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXht1Wgtbg%3D&pissn=1465-7392&pyear=2003&md5=85fc00eaa6e93335fdac208e8b15d2fc" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+Hentze, M.W. &amp; Kuhn, L.C. Molecular control of vertebrate iron metabolism: mRNA-based regulatory circuits operated by iron, nitric oxide, and oxidative stress. <i>Proc. Natl Acad. Sci. USA</i> <b>93</b>, 8175&#150;8182 (1996).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.93.16.8175" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8710843&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XkvFylsb4%3D&pissn=1465-7392&pyear=2003&md5=6a623b939c7ba782e444df17bd983d54" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+LaVaute, T. <i>et al</i>. Targeted deletion of the gene encoding iron regulatory protein-2 causes misregulation of iron metabolism and neurodegenerative disease in mice. <i>Nature Genet.</i> <b>27</b>, 209&#150;214 (2001).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F84859" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11175792&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000166839200025&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXhtFKqtro%3D&pissn=1465-7392&pyear=2003&md5=e7d5339b31481bcb46100a8051747f76" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Iwai, K. <i>et al</i>. Iron-dependent oxidation, ubiquitination, and degradation of iron regulatory protein 2: implications for degradation of oxidized proteins. <i>Proc. Natl Acad. Sci. USA</i> <b>95</b>, 4924&#150;4928 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.95.9.4924" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9560204&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXivVyqu7g%3D&pissn=1465-7392&pyear=2003&md5=a66ba2204cc14c35741987dd27ed3b57" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Hanson, E.S., Foot, L.M. &amp; Leibold, E.A. Hypoxia post-translationally activates iron-regulatory protein 2. <i>J. Biol. Chem.</i> <b>274</b>, 5047&#150;5052 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074%2Fjbc.274.8.5047" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9988751&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000078698200076&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXhsFSlsb0%3D&pissn=1465-7392&pyear=2003&md5=61a88fcd01e0ed2bc5cdcd09a8627deb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+Cong, Y.S., Yao, Y.L., Yang, W.M., Kuzhandaivelu, N. &amp; Seto, E. The hepatitis B virus X-associated protein, XAP3, is a protein kinase C-binding protein. <i>J. Biol. Chem.</i> <b>272</b>, 16482&#150;16489 (1997).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074%2Fjbc.272.26.16482" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9195957&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997XG01900061&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXkt1agtbk%3D&pissn=1465-7392&pyear=2003&md5=1881d33cc4409fb069c447a1df33f076" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Tokunaga, C. <i>et al</i>. Molecular cloning and characterization of a novel protein kinase C-interacting protein with structural motifs related to RBCC family proteins. <i>Biochem. Biophys. Res. Commun.</i> <b>244</b>, 353&#150;359 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1006%2Fbbrc.1998.8270" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9514928&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000072881200007&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXitVKku70%3D&pissn=1465-7392&pyear=2003&md5=4edfaba0a194e449a339e4578e369019" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+Martinez-Noel, G., Niedenthal, R., Tamura, T. &amp; Harbers, K. A family of structurally related RING finger proteins interacts specifically with the ubiquitin-conjugating enzyme UbcM4. <i>FEBS Lett.</i> <b>454</b>, 257&#150;261 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0014-5793%2899%2900823-6" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10431818&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000081477900018&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXks1Omu7s%3D&pissn=1465-7392&pyear=2003&md5=8d2a8f033788a4ce441b0c4348d39482" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B17"></a>
+Samaniego, F., Chin, J., Iwai, K., Rouault, T.A. &amp; Klausner, R.D. Molecular characterization of a second iron-responsive element binding protein, iron regulatory protein 2. Structure, function, and post-translational regulation. <i>J. Biol. Chem.</i> <b>269</b>, 30904&#150;30910 (1994).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7983023&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1994PV51000029&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2cXmslektLs%3D&pissn=1465-7392&pyear=2003&md5=8727141115cd27013a2a05bd8c690b76" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B18"></a>
+Shimura, H. <i>et al</i>. Familial Parkinson disease gene product, parkin, is a ubiquitin&#150;protein ligase. <i>Nature Genet.</i> <b>25</b>, 302&#150;305 (2000).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F77060" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10888878&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087920900018&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:DC%2BD3czptF2nsw%3D%3D&pissn=1465-7392&pyear=2003&md5=b649016d569c0c62e80df50418453045" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B19"></a>
+Shimura, H. <i>et al</i>. Ubiquitination of a new form of <img border=0 src="/__chars/alpha/black/med/base/glyph.gif" align="bottom" alt="alpha">-synuclein by parkin from human brain: implications for Parkinson's disease. <i>Science</i> <b>293</b>, 263&#150;269 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.1060627" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11431533&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000169875200048&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXlt1yitL4%3D&pissn=1465-7392&pyear=2003&md5=dfad481845d65b38b489c1ea973a73f9" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B20"></a>
+Goessling, L.S., Mascotti, D.P. &amp; Thach, R.E. Involvement of heme in the degradation of iron-regulatory protein 2. <i>J. Biol. Chem.</i> <b>273</b>, 12555&#150;12557 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074%2Fjbc.273.20.12555" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9575215&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000073629800080&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXjtlSgu78%3D&pissn=1465-7392&pyear=2003&md5=999e19d79c59e68cf78a90f54e1a68d6" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B21"></a>
+Iwai, K. <i>et al</i>. Identification of the von Hippel&#150;Lindau tumor-suppressor protein as part of an active E3 ubiquitin ligase complex. <i>Proc. Natl Acad. Sci. USA</i> <b>96</b>, 12436&#150;12441 (1999).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.96.22.12436" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10535940&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXnt1yrur8%3D&pissn=1465-7392&pyear=2003&md5=07dba5f06b16c661e58b2f3a6c92c6a9" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B22"></a>
+Aft, R.L. &amp; Mueller, G.C. Hemin-mediated oxidative degradation of proteins. <i>J. Biol. Chem.</i> <b>259</b>, 301&#150;305 (1984).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6323403&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1984RY41400046&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL2cXkslWluw%3D%3D&pissn=1465-7392&pyear=2003&md5=a030bf3f252f82782d3800016f8fc141" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B23"></a>
+Ciechanover, A., Finley, D. &amp; Varshavsky, A. Ubiquitin dependence of selective protein degradation demonstrated in the mammalian cell cycle mutant <i>ts85</i>. <i>Cell</i> <b>37</b>, 57&#150;66 (1984).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6327060&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1984SR71400011&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL2cXktlKms78%3D&pissn=1465-7392&pyear=2003&md5=a6f9883413a226749bbe4729efd14379" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B24"></a>
+Davies, K.J. Degradation of oxidized proteins by the 20S proteasome. <i>Biochimie</i> <b>83</b>, 301&#150;310 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0300-9084%2801%2901250-0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11295490&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000168158000004&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXivFKhu7s%3D&pissn=1465-7392&pyear=2003&md5=d2d48590c47aab3ff9e9e8962d144173" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B25"></a>
+Saurin, A.J., Borden, K.L., Boddy, M.N. &amp; Freemont, P.S. Does this have a familiar RING? <i>Trends Biochem Sci.</i> <b>21</b>, 208&#150;214 (1996).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2F0968-0004%2896%2910036-0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8744354&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996UQ65900005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28Xjs1Kitbo%3D&pissn=1465-7392&pyear=2003&md5=63de34901bb0abcdbabf793e6c236cbe" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="Acknowledgments"></a><span xmlns="" class="heading3">Acknowledgments</span><br xmlns=""><span xmlns="" class="articletext">We thank K. Tanaka for critically reading the manuscript; A. Dancis for discussions; and R. Klausner for reagents. This work was partly supported by grants from Ministry of Education, Culture, Sports, Science and Technology of Japan to K.I.</span><br xmlns=""><br xmlns=""><p xmlns="" class="articletext"><b>Competing interests statement:</b>&nbsp;
+The authors declare that they have no competing financial interests.</p></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb951.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb953.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb952.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Methods">Methods</a></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n4/fig_tab/ncb952_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Acknowledgments">Acknowledgments</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb952.ris" target="_blank" class="breadcrumblink">Export citation</a></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb952refs.ris" target="_blank" class="breadcrumblink">Export references</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '523';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/ncb/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb952&type=LE&src_title=Identification%20of%20the%20ubiquitin-protein%20ligase%20that%20recognizes%20oxidized%20IRP2&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=336-340&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_back;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="/copyright/copyright_ncb.html" onClick="window.open('/copyright/copyright_ncb.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003&nbsp;Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

@@ -1,0 +1,51 @@
+.banner-color1 {
+	BACKGROUND-COLOR: #889eb0
+}
+.banner-color2 {
+	BACKGROUND-COLOR: #c80000
+}
+.banner-color2a {
+	BACKGROUND-COLOR: #4097a4
+}
+.banner-text {
+	FONT-WEIGHT: bold; FONT-SIZE: 135%; COLOR: #ffffff; FONT-STYLE: italic; TEXT-ALIGN: right
+}
+.banner-text-sans {
+	FONT-WEIGHT: bold; FONT-SIZE: 125%; COLOR: #ffffff; FONT-STYLE: italic; FONT-FAMILY: sans-serif; TEXT-ALIGN: right
+}
+.menu-link {
+	FONT-SIZE: 15px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-ALIGN: center
+}
+.menu-curr-page {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #d4d4d4; FONT-FAMILY: Verdana, Arial, sans-serif; TEXT-ALIGN: center
+}
+A.menu-link:hover {
+	COLOR: #ffffff
+}
+A.menu-link:visited {
+	COLOR: #ffffff
+}
+.header-link {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; COLOR: #0055aa; FONT-FAMILY: Arial, sans-serif
+}
+.inpage-link {
+	COLOR: #004080
+}
+.sans75 {
+	FONT-SIZE: 75%; FONT-FAMILY: Arial, sans-serif
+}
+.sans80b {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Arial, sans-serif
+}
+.sans90 {
+	FONT-SIZE: 90%; FONT-FAMILY: Arial, sans-serif
+}
+.sans90b {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; FONT-FAMILY: Arial, sans-serif
+}
+.sans105b {
+	FONT-WEIGHT: bold; FONT-SIZE: 105%; FONT-FAMILY: Arial, sans-serif
+}
+.sans125b {
+	FONT-WEIGHT: bold; FONT-SIZE: 125%; FONT-FAMILY: Arial, sans-serif
+}

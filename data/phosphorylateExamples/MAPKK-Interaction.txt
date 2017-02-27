@@ -1,0 +1,7 @@
+
+#General:
+MAPKK:phosphorylate:MAPK
+MAPK:phosphorylate:MAP
+MAPK:not-phosphorylate:MAPKK
+MAP:not-phosphorylate:MAPK
+MAP:not-phosphorylate:MAPKK

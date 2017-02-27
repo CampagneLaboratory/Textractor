@@ -1,0 +1,983 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>2020 computing Champing at the bits</title>
+      <id>info:doi/10.1038/440398a</id>
+      <link href='http://dx.doi.org/10.1038/440398a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Philip Ball</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>398</prism:startingPage>
+      <prism:endingPage>401</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='63'>quantum</otmi:vector>
+              <otmi:vector count='26'>qubits</otmi:vector>
+              <otmi:vector count='22'>computers</otmi:vector>
+              <otmi:vector count='21'>have</otmi:vector>
+              <otmi:vector count='17'>can</otmi:vector>
+              <otmi:vector count='16'>at</otmi:vector>
+              <otmi:vector count='16'>computer</otmi:vector>
+              <otmi:vector count='16'>says</otmi:vector>
+              <otmi:vector count='15'>ions</otmi:vector>
+              <otmi:vector count='14'>using</otmi:vector>
+              <otmi:vector count='13'>other</otmi:vector>
+              <otmi:vector count='12'>systems</otmi:vector>
+              <otmi:vector count='12'>than</otmi:vector>
+              <otmi:vector count='12'>their</otmi:vector>
+              <otmi:vector count='11'>more</otmi:vector>
+              <otmi:vector count='11'>but</otmi:vector>
+              <otmi:vector count='11'>states</otmi:vector>
+              <otmi:vector count='10'>But</otmi:vector>
+              <otmi:vector count='9'>will</otmi:vector>
+              <otmi:vector count='9'>classical</otmi:vector>
+              <otmi:vector count='9'>which</otmi:vector>
+              <otmi:vector count='9'>interact</otmi:vector>
+              <otmi:vector count='8'>methods</otmi:vector>
+              <otmi:vector count='8'>up</otmi:vector>
+              <otmi:vector count='8'>they</otmi:vector>
+              <otmi:vector count='8'>make</otmi:vector>
+              <otmi:vector count='7'>out</otmi:vector>
+              <otmi:vector count='7'>been</otmi:vector>
+              <otmi:vector count='7'>atoms</otmi:vector>
+              <otmi:vector count='7'>algorithms</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='6'>problems</otmi:vector>
+              <otmi:vector count='6'>these</otmi:vector>
+              <otmi:vector count='6'>few</otmi:vector>
+              <otmi:vector count='6'>very</otmi:vector>
+              <otmi:vector count='6'>nature</otmi:vector>
+              <otmi:vector count='6'>them</otmi:vector>
+              <otmi:vector count='6'>may</otmi:vector>
+              <otmi:vector count='6'>has</otmi:vector>
+              <otmi:vector count='6'>Monroe</otmi:vector>
+              <otmi:vector count='6'>1</otmi:vector>
+              <otmi:vector count='5'>trapped</otmi:vector>
+              <otmi:vector count='5'>fact</otmi:vector>
+              <otmi:vector count='5'>Lloyd</otmi:vector>
+              <otmi:vector count='5'>far</otmi:vector>
+              <otmi:vector count='5'>such</otmi:vector>
+              <otmi:vector count='5'>would</otmi:vector>
+              <otmi:vector count='5'>computation</otmi:vector>
+              <otmi:vector count='5'>environment</otmi:vector>
+              <otmi:vector count='5'>one</otmi:vector>
+              <otmi:vector count='5'>run</otmi:vector>
+              <otmi:vector count='5'>useful</otmi:vector>
+              <otmi:vector count='5'>even</otmi:vector>
+              <otmi:vector count='5'>individual</otmi:vector>
+              <otmi:vector count='5'>means</otmi:vector>
+              <otmi:vector count='5'>also</otmi:vector>
+              <otmi:vector count='5'>decoherence</otmi:vector>
+              <otmi:vector count='5'>entangled</otmi:vector>
+              <otmi:vector count='5'>each</otmi:vector>
+              <otmi:vector count='5'>information</otmi:vector>
+              <otmi:vector count='4'>approach</otmi:vector>
+              <otmi:vector count='4'>University</otmi:vector>
+              <otmi:vector count='4'>Steane</otmi:vector>
+              <otmi:vector count='4'>state</otmi:vector>
+              <otmi:vector count='4'>much</otmi:vector>
+              <otmi:vector count='4'>first</otmi:vector>
+              <otmi:vector count='4'>MIT</otmi:vector>
+              <otmi:vector count='4'>easier</otmi:vector>
+              <otmi:vector count='4'>researchers</otmi:vector>
+              <otmi:vector count='4'>devices</otmi:vector>
+              <otmi:vector count='4'>possible</otmi:vector>
+              <otmi:vector count='4'>read</otmi:vector>
+              <otmi:vector count='4'>because</otmi:vector>
+              <otmi:vector count='4'>Chuang</otmi:vector>
+              <otmi:vector count='4'>another</otmi:vector>
+              <otmi:vector count='4'>any</otmi:vector>
+              <otmi:vector count='4'>group</otmi:vector>
+              <otmi:vector count='4'>so</otmi:vector>
+              <otmi:vector count='4'>too</otmi:vector>
+              <otmi:vector count='4'>he</otmi:vector>
+              <otmi:vector count='4'>qubit</otmi:vector>
+              <otmi:vector count='4'>beams</otmi:vector>
+              <otmi:vector count='4'>exploiting</otmi:vector>
+              <otmi:vector count='4'>making</otmi:vector>
+              <otmi:vector count='4'>conventional</otmi:vector>
+              <otmi:vector count='4'>error</otmi:vector>
+              <otmi:vector count='4'>time</otmi:vector>
+              <otmi:vector count='4'>superposition</otmi:vector>
+              <otmi:vector count='4'>trap</otmi:vector>
+              <otmi:vector count='4'>now</otmi:vector>
+              <otmi:vector count='4'>based</otmi:vector>
+              <otmi:vector count='4'>optical</otmi:vector>
+              <otmi:vector count='4'>techniques</otmi:vector>
+              <otmi:vector count='3'>machine</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>made</otmi:vector>
+              <otmi:vector count='3'>remains</otmi:vector>
+              <otmi:vector count='3'>success</otmi:vector>
+              <otmi:vector count='3'>scale</otmi:vector>
+              <otmi:vector count='3'>once</otmi:vector>
+              <otmi:vector count='3'>long</otmi:vector>
+              <otmi:vector count='3'>who</otmi:vector>
+              <otmi:vector count='3'>create</otmi:vector>
+              <otmi:vector count='3'>then</otmi:vector>
+              <otmi:vector count='3'>Institute</otmi:vector>
+              <otmi:vector count='3'>complex</otmi:vector>
+              <otmi:vector count='3'>don&apos;t</otmi:vector>
+              <otmi:vector count='3'>materials</otmi:vector>
+              <otmi:vector count='3'>like</otmi:vector>
+              <otmi:vector count='3'>should</otmi:vector>
+              <otmi:vector count='3'>ion-trap</otmi:vector>
+              <otmi:vector count='3'>perform</otmi:vector>
+              <otmi:vector count='3'>way</otmi:vector>
+              <otmi:vector count='3'>idea</otmi:vector>
+              <otmi:vector count='3'>could</otmi:vector>
+              <otmi:vector count='3'>there</otmi:vector>
+              <otmi:vector count='3'>his</otmi:vector>
+              <otmi:vector count='3'>10</otmi:vector>
+              <otmi:vector count='3'>laser</otmi:vector>
+              <otmi:vector count='3'>remain</otmi:vector>
+              <otmi:vector count='3'>progress</otmi:vector>
+              <otmi:vector count='3'>through</otmi:vector>
+              <otmi:vector count='3'>electronic</otmi:vector>
+              <otmi:vector count='3'>David</otmi:vector>
+              <otmi:vector count='3'>all</otmi:vector>
+              <otmi:vector count='3'>&quot;It</otmi:vector>
+              <otmi:vector count='3'>algorithm</otmi:vector>
+              <otmi:vector count='3'>new</otmi:vector>
+              <otmi:vector count='3'>simulate</otmi:vector>
+              <otmi:vector count='3'>rate</otmi:vector>
+              <otmi:vector count='3'>before</otmi:vector>
+              <otmi:vector count='3'>years</otmi:vector>
+              <otmi:vector count='3'>encoded</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>together</otmi:vector>
+              <otmi:vector count='3'>still</otmi:vector>
+              <otmi:vector count='3'>do</otmi:vector>
+              <otmi:vector count='3'>likely</otmi:vector>
+              <otmi:vector count='3'>chips</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>specific</otmi:vector>
+              <otmi:vector count='3'>physicist</otmi:vector>
+              <otmi:vector count='3'>less</otmi:vector>
+              <otmi:vector count='3'>electromagnetic</otmi:vector>
+              <otmi:vector count='3'>0</otmi:vector>
+              <otmi:vector count='3'>just</otmi:vector>
+              <otmi:vector count='3'>held</otmi:vector>
+              <otmi:vector count='3'>machines</otmi:vector>
+              <otmi:vector count='3'>how</otmi:vector>
+              <otmi:vector count='3'>next</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>variety</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>hold</otmi:vector>
+              <otmi:vector count='2'>down</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>limited</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>rules</otmi:vector>
+              <otmi:vector count='2'>recent</otmi:vector>
+              <otmi:vector count='2'>around</otmi:vector>
+              <otmi:vector count='2'>stored</otmi:vector>
+              <otmi:vector count='2'>faster</otmi:vector>
+              <otmi:vector count='2'>egg</otmi:vector>
+              <otmi:vector count='2'>Some</otmi:vector>
+              <otmi:vector count='2'>simulator</otmi:vector>
+              <otmi:vector count='2'>longer</otmi:vector>
+              <otmi:vector count='2'>operations</otmi:vector>
+              <otmi:vector count='2'>Decoherence</otmi:vector>
+              <otmi:vector count='2'>billion</otmi:vector>
+              <otmi:vector count='2'>reservoir</otmi:vector>
+              <otmi:vector count='2'>Technology</otmi:vector>
+              <otmi:vector count='2'>standard</otmi:vector>
+              <otmi:vector count='2'>working</otmi:vector>
+              <otmi:vector count='2'>technologies</otmi:vector>
+              <otmi:vector count='2'>length</otmi:vector>
+              <otmi:vector count='2'>hard</otmi:vector>
+              <otmi:vector count='2'>advantage</otmi:vector>
+              <otmi:vector count='2'>superconductivity</otmi:vector>
+              <otmi:vector count='2'>colleagues</otmi:vector>
+              <otmi:vector count='2'>theory</otmi:vector>
+              <otmi:vector count='2'>particles</otmi:vector>
+              <otmi:vector count='2'>cadmium</otmi:vector>
+              <otmi:vector count='2'>molecules</otmi:vector>
+              <otmi:vector count='2'>Jersey</otmi:vector>
+              <otmi:vector count='2'>naturally</otmi:vector>
+              <otmi:vector count='2'>dots</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>Instead</otmi:vector>
+              <otmi:vector count='2'>NMR</otmi:vector>
+              <otmi:vector count='2'>computations</otmi:vector>
+              <otmi:vector count='2'>photonic</otmi:vector>
+              <otmi:vector count='2'>finding</otmi:vector>
+              <otmi:vector count='2'>hardly</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>spin</otmi:vector>
+              <otmi:vector count='2'>readily</otmi:vector>
+              <otmi:vector count='2'>building</otmi:vector>
+              <otmi:vector count='2'>nuclear</otmi:vector>
+              <otmi:vector count='2'>Unlike</otmi:vector>
+              <otmi:vector count='2'>easy</otmi:vector>
+              <otmi:vector count='2'>delicate</otmi:vector>
+              <otmi:vector count='2'>Peter</otmi:vector>
+              <otmi:vector count='2'>photons</otmi:vector>
+              <otmi:vector count='2'>implement</otmi:vector>
+              <otmi:vector count='2'>involves</otmi:vector>
+              <otmi:vector count='2'>atomic</otmi:vector>
+              <otmi:vector count='2'>number</otmi:vector>
+              <otmi:vector count='2'>ultimately</otmi:vector>
+              <otmi:vector count='2'>parallel</otmi:vector>
+              <otmi:vector count='2'>hurdles</otmi:vector>
+              <otmi:vector count='2'>quantum-computing</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>avoid</otmi:vector>
+              <otmi:vector count='2'>simulations</otmi:vector>
+              <otmi:vector count='2'>ideas</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>exist</otmi:vector>
+              <otmi:vector count='2'>get</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>powerful</otmi:vector>
+              <otmi:vector count='2'>Deutsch</otmi:vector>
+              <otmi:vector count='2'>New</otmi:vector>
+              <otmi:vector count='2'>suggested</otmi:vector>
+              <otmi:vector count='2'>encoding</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>lattice</otmi:vector>
+              <otmi:vector count='2'>built</otmi:vector>
+              <otmi:vector count='2'>end</otmi:vector>
+              <otmi:vector count='2'>superconducting</otmi:vector>
+              <otmi:vector count='2'>bits</otmi:vector>
+              <otmi:vector count='2'>prospects</otmi:vector>
+              <otmi:vector count='2'>slow</otmi:vector>
+              <otmi:vector count='2'>binary</otmi:vector>
+              <otmi:vector count='2'>terms</otmi:vector>
+              <otmi:vector count='2'>really</otmi:vector>
+              <otmi:vector count='2'>So</otmi:vector>
+              <otmi:vector count='2'>Oxford</otmi:vector>
+              <otmi:vector count='2'>processor</otmi:vector>
+              <otmi:vector count='2'>must</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>Monroe&apos;s</otmi:vector>
+              <otmi:vector count='2'>&quot;There</otmi:vector>
+              <otmi:vector count='2'>field</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>devised</otmi:vector>
+              <otmi:vector count='2'>already</otmi:vector>
+              <otmi:vector count='2'>defined</otmi:vector>
+              <otmi:vector count='2'>Despite</otmi:vector>
+              <otmi:vector count='2'>Cirac</otmi:vector>
+              <otmi:vector count='2'>cluster</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>makes</otmi:vector>
+              <otmi:vector count='2'>One</otmi:vector>
+              <otmi:vector count='2'>many-particle</otmi:vector>
+              <otmi:vector count='2'>2020</otmi:vector>
+              <otmi:vector count='2'>currently</otmi:vector>
+              <otmi:vector count='2'>general-purpose</otmi:vector>
+              <otmi:vector count='2'>build</otmi:vector>
+              <otmi:vector count='2'>best</otmi:vector>
+              <otmi:vector count='2'>existing</otmi:vector>
+              <otmi:vector count='2'>digits</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>magnetic</otmi:vector>
+              <otmi:vector count='2'>reported</otmi:vector>
+              <otmi:vector count='2'>needed</otmi:vector>
+              <otmi:vector count='2'>1990s</otmi:vector>
+              <otmi:vector count='2'>entanglement</otmi:vector>
+              <otmi:vector count='2'>take</otmi:vector>
+              <otmi:vector count='2'>database</otmi:vector>
+              <otmi:vector count='2'>computing</otmi:vector>
+              <otmi:vector count='2'>major</otmi:vector>
+              <otmi:vector count='2'>trapping</otmi:vector>
+              <otmi:vector count='2'>ion</otmi:vector>
+              <otmi:vector count='2'>computational</otmi:vector>
+              <otmi:vector count='2'>box</otmi:vector>
+              <otmi:vector count='2'>it&apos;s</otmi:vector>
+              <otmi:vector count='2'>key</otmi:vector>
+              <otmi:vector count='2'>gates</otmi:vector>
+              <otmi:vector count='2'>takes</otmi:vector>
+              <otmi:vector count='2'>come</otmi:vector>
+              <otmi:vector count='2'>advances</otmi:vector>
+              <otmi:vector count='2'>Both</otmi:vector>
+              <otmi:vector count='2'>weakly</otmi:vector>
+              <otmi:vector count='1'>engineers</otmi:vector>
+              <otmi:vector count='1'>storing</otmi:vector>
+              <otmi:vector count='1'>niche</otmi:vector>
+              <otmi:vector count='1'>Lucent</otmi:vector>
+              <otmi:vector count='1'>notes</otmi:vector>
+              <otmi:vector count='1'>undefined</otmi:vector>
+              <otmi:vector count='1'>certainly</otmi:vector>
+              <otmi:vector count='1'>handling</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>Ann</otmi:vector>
+              <otmi:vector count='1'>focused</otmi:vector>
+              <otmi:vector count='1'>logic</otmi:vector>
+              <otmi:vector count='1'>&quot;I&apos;ve</otmi:vector>
+              <otmi:vector count='1'>transistor</otmi:vector>
+              <otmi:vector count='1'>etched</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>2002</otmi:vector>
+              <otmi:vector count='1'>defy</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>admits</otmi:vector>
+              <otmi:vector count='1'>appealing</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>affected</otmi:vector>
+              <otmi:vector count='1'>guess</otmi:vector>
+              <otmi:vector count='1'>Auto</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>Nielsen</otmi:vector>
+              <otmi:vector count='1'>simulating</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>discrete</otmi:vector>
+              <otmi:vector count='1'>readout</otmi:vector>
+              <otmi:vector count='1'>depends</otmi:vector>
+              <otmi:vector count='1'>Theorist</otmi:vector>
+              <otmi:vector count='1'>sketched</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>interdependent</otmi:vector>
+              <otmi:vector count='1'>involve</otmi:vector>
+              <otmi:vector count='1'>behind</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>lose</otmi:vector>
+              <otmi:vector count='1'>concedes</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>step</otmi:vector>
+              <otmi:vector count='1'>clusters</otmi:vector>
+              <otmi:vector count='1'>strings</otmi:vector>
+              <otmi:vector count='1'>Preventing</otmi:vector>
+              <otmi:vector count='1'>appeared</otmi:vector>
+              <otmi:vector count='1'>coherence</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>light</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>doing</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>1996</otmi:vector>
+              <otmi:vector count='1'>Standards</otmi:vector>
+              <otmi:vector count='1'>colleague</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>Unfortunately</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>1994</otmi:vector>
+              <otmi:vector count='1'>trying</otmi:vector>
+              <otmi:vector count='1'>&quot;the</otmi:vector>
+              <otmi:vector count='1'>Cooling</otmi:vector>
+              <otmi:vector count='1'>laws</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>opens</otmi:vector>
+              <otmi:vector count='1'>problematic</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>December</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>explains</otmi:vector>
+              <otmi:vector count='1'>fabricate</otmi:vector>
+              <otmi:vector count='1'>ion-traps</otmi:vector>
+              <otmi:vector count='1'>shuttled</otmi:vector>
+              <otmi:vector count='1'>phenomenon</otmi:vector>
+              <otmi:vector count='1'>condensed-matter</otmi:vector>
+              <otmi:vector count='1'>Seth</otmi:vector>
+              <otmi:vector count='1'>manipulated</otmi:vector>
+              <otmi:vector count='1'>pattern</otmi:vector>
+              <otmi:vector count='1'>&quot;Just</otmi:vector>
+              <otmi:vector count='1'>Among</otmi:vector>
+              <otmi:vector count='1'>calcium</otmi:vector>
+              <otmi:vector count='1'>done</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>fundamental</otmi:vector>
+              <otmi:vector count='1'>premature</otmi:vector>
+              <otmi:vector count='1'>shield</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>measurement</otmi:vector>
+              <otmi:vector count='1'>contenders</otmi:vector>
+              <otmi:vector count='1'>14</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>uncontrolled</otmi:vector>
+              <otmi:vector count='1'>Building</otmi:vector>
+              <otmi:vector count='1'>Cambridge</otmi:vector>
+              <otmi:vector count='1'>today</otmi:vector>
+              <otmi:vector count='1'>&quot;run</otmi:vector>
+              <otmi:vector count='1'>device</otmi:vector>
+              <otmi:vector count='1'>essence</otmi:vector>
+              <otmi:vector count='1'>team</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>benefit</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>Much</otmi:vector>
+              <otmi:vector count='1'>Isaac</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>you&apos;d</otmi:vector>
+              <otmi:vector count='1'>Shor&apos;s</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>chamber</otmi:vector>
+              <otmi:vector count='1'>Innsbruck</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>revolutionary</otmi:vector>
+              <otmi:vector count='1'>Optics</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>Austria</otmi:vector>
+              <otmi:vector count='1'>performed</otmi:vector>
+              <otmi:vector count='1'>geometry</otmi:vector>
+              <otmi:vector count='1'>electrostatic</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>Sean</otmi:vector>
+              <otmi:vector count='1'>harder</otmi:vector>
+              <otmi:vector count='1'>difficult</otmi:vector>
+              <otmi:vector count='1'>Michigan</otmi:vector>
+              <otmi:vector count='1'>ion&apos;s</otmi:vector>
+              <otmi:vector count='1'>Theft</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>dream</otmi:vector>
+              <otmi:vector count='1'>excite</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>Grand</otmi:vector>
+              <otmi:vector count='1'>Compared</otmi:vector>
+              <otmi:vector count='1'>actually</otmi:vector>
+              <otmi:vector count='1'>imagine</otmi:vector>
+              <otmi:vector count='1'>hardware</otmi:vector>
+              <otmi:vector count='1'>late</otmi:vector>
+              <otmi:vector count='1'>overcome</otmi:vector>
+              <otmi:vector count='1'>unison</otmi:vector>
+              <otmi:vector count='1'>employment</otmi:vector>
+              <otmi:vector count='1'>surface</otmi:vector>
+              <otmi:vector count='1'>answer</otmi:vector>
+              <otmi:vector count='1'>Wineland&apos;s</otmi:vector>
+              <otmi:vector count='1'>tiny</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>stumbling</otmi:vector>
+              <otmi:vector count='1'>resonance</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>confined</otmi:vector>
+              <otmi:vector count='1'>codes</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>error-correcting</otmi:vector>
+              <otmi:vector count='1'>tools</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>seconds</otmi:vector>
+              <otmi:vector count='1'>mimics</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>physically</otmi:vector>
+              <otmi:vector count='1'>Its</otmi:vector>
+              <otmi:vector count='1'>Briegel</otmi:vector>
+              <otmi:vector count='1'>crossed</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>affects</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>capturing</otmi:vector>
+              <otmi:vector count='1'>optimistically</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>Cory</otmi:vector>
+              <otmi:vector count='1'>adjusting</otmi:vector>
+              <otmi:vector count='1'>outperform</otmi:vector>
+              <otmi:vector count='1'>easily</otmi:vector>
+              <otmi:vector count='1'>adds</otmi:vector>
+              <otmi:vector count='1'>wavelength</otmi:vector>
+              <otmi:vector count='1'>helps</otmi:vector>
+              <otmi:vector count='1'>impressed</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>Andrew</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>meant</otmi:vector>
+              <otmi:vector count='1'>pursuing</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>exponentially</otmi:vector>
+              <otmi:vector count='1'>shortage</otmi:vector>
+              <otmi:vector count='1'>compare</otmi:vector>
+              <otmi:vector count='1'>collective</otmi:vector>
+              <otmi:vector count='1'>Five</otmi:vector>
+              <otmi:vector count='1'>agree</otmi:vector>
+              <otmi:vector count='1'>Zoller</otmi:vector>
+              <otmi:vector count='1'>versatile</otmi:vector>
+              <otmi:vector count='1'>Max</otmi:vector>
+              <otmi:vector count='1'>future.&quot;</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>possibly</otmi:vector>
+              <otmi:vector count='1'>vibrational</otmi:vector>
+              <otmi:vector count='1'>Solving</otmi:vector>
+              <otmi:vector count='1'>&quot;Quantum</otmi:vector>
+              <otmi:vector count='1'>two-trick</otmi:vector>
+              <otmi:vector count='1'>remarkably</otmi:vector>
+              <otmi:vector count='1'>obstacles</otmi:vector>
+              <otmi:vector count='1'>they&apos;d</otmi:vector>
+              <otmi:vector count='1'>sometimes</otmi:vector>
+              <otmi:vector count='1'>processors</otmi:vector>
+              <otmi:vector count='1'>shortest</otmi:vector>
+              <otmi:vector count='1'>stable</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>closer</otmi:vector>
+              <otmi:vector count='1'>interest</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>long-term</otmi:vector>
+              <otmi:vector count='1'>nobody</otmi:vector>
+              <otmi:vector count='1'>anticipates</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>unstable</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>supercomputer</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>factor</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>isolated</otmi:vector>
+              <otmi:vector count='1'>requires</otmi:vector>
+              <otmi:vector count='1'>solving</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>Charging</otmi:vector>
+              <otmi:vector count='1'>unveiled</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>&quot;As</otmi:vector>
+              <otmi:vector count='1'>applications</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>Michael</otmi:vector>
+              <otmi:vector count='1'>bottleneck</otmi:vector>
+              <otmi:vector count='1'>we&apos;ll</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>sort</otmi:vector>
+              <otmi:vector count='1'>property</otmi:vector>
+              <otmi:vector count='1'>principle</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>lighter</otmi:vector>
+              <otmi:vector count='1'>engineering</otmi:vector>
+              <otmi:vector count='1'>decade</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>Last</otmi:vector>
+              <otmi:vector count='1'>Laboratories</otmi:vector>
+              <otmi:vector count='1'>chip&apos;s</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>errors</otmi:vector>
+              <otmi:vector count='1'>Planck</otmi:vector>
+              <otmi:vector count='1'>suited</otmi:vector>
+              <otmi:vector count='1'>superconductor-based</otmi:vector>
+              <otmi:vector count='1'>borrowing</otmi:vector>
+              <otmi:vector count='1'>never</otmi:vector>
+              <otmi:vector count='1'>Queensland</otmi:vector>
+              <otmi:vector count='1'>processing</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>practice</otmi:vector>
+              <otmi:vector count='1'>ever</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>fields</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>demanding</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>probed</otmi:vector>
+              <otmi:vector count='1'>high-temperature</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>except</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>microfabrication</otmi:vector>
+              <otmi:vector count='1'>rings</otmi:vector>
+              <otmi:vector count='1'>analogue</otmi:vector>
+              <otmi:vector count='1'>optimistic</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>big</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>solve</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>&quot;A</otmi:vector>
+              <otmi:vector count='1'>switching</otmi:vector>
+              <otmi:vector count='1'>fabrication</otmi:vector>
+              <otmi:vector count='1'>break</otmi:vector>
+              <otmi:vector count='1'>tasks</otmi:vector>
+              <otmi:vector count='1'>realistic</otmi:vector>
+              <otmi:vector count='1'>balancing</otmi:vector>
+              <otmi:vector count='1'>traditional</otmi:vector>
+              <otmi:vector count='1'>fluorescence</otmi:vector>
+              <otmi:vector count='1'>Shor</otmi:vector>
+              <otmi:vector count='1'>space</otmi:vector>
+              <otmi:vector count='1'>sufficiently</otmi:vector>
+              <otmi:vector count='1'>NEC</otmi:vector>
+              <otmi:vector count='1'>functioning</otmi:vector>
+              <otmi:vector count='1'>&quot;The</otmi:vector>
+              <otmi:vector count='1'>tool</otmi:vector>
+              <otmi:vector count='1'>telecommunication</otmi:vector>
+              <otmi:vector count='1'>&quot;I</otmi:vector>
+              <otmi:vector count='1'>Admittedly</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>theorists</otmi:vector>
+              <otmi:vector count='1'>path</otmi:vector>
+              <otmi:vector count='1'>Hallgren</otmi:vector>
+              <otmi:vector count='1'>theoretical</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>Massachusetts</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>Join</otmi:vector>
+              <otmi:vector count='1'>simulators</otmi:vector>
+              <otmi:vector count='1'>error-prone</otmi:vector>
+              <otmi:vector count='1'>&quot;But</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>programs</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>keys</otmi:vector>
+              <otmi:vector count='1'>aren&apos;t</otmi:vector>
+              <otmi:vector count='1'>look</otmi:vector>
+              <otmi:vector count='1'>accurately</otmi:vector>
+              <otmi:vector count='1'>exploit</otmi:vector>
+              <otmi:vector count='1'>technology</otmi:vector>
+              <otmi:vector count='1'>purpose-built</otmi:vector>
+              <otmi:vector count='1'>rule</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>heel</otmi:vector>
+              <otmi:vector count='1'>instantly</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>search</otmi:vector>
+              <otmi:vector count='1'>fluoride</otmi:vector>
+              <otmi:vector count='1'>Achilles</otmi:vector>
+              <otmi:vector count='1'>send</otmi:vector>
+              <otmi:vector count='1'>Others</otmi:vector>
+              <otmi:vector count='1'>lasers</otmi:vector>
+              <otmi:vector count='1'>&quot;Many</otmi:vector>
+              <otmi:vector count='1'>extraordinarily</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>striking</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>task</otmi:vector>
+              <otmi:vector count='1'>specks</otmi:vector>
+              <otmi:vector count='1'>destined</otmi:vector>
+              <otmi:vector count='1'>spins</otmi:vector>
+              <otmi:vector count='1'>Hill</otmi:vector>
+              <otmi:vector count='1'>especially</otmi:vector>
+              <otmi:vector count='1'>stray</otmi:vector>
+              <otmi:vector count='1'>dozen</otmi:vector>
+              <otmi:vector count='1'>interference</otmi:vector>
+              <otmi:vector count='1'>agrees</otmi:vector>
+              <otmi:vector count='1'>racing</otmi:vector>
+              <otmi:vector count='1'>moment</otmi:vector>
+              <otmi:vector count='1'>greater</otmi:vector>
+              <otmi:vector count='1'>thanks</otmi:vector>
+              <otmi:vector count='1'>superpositions</otmi:vector>
+              <otmi:vector count='1'>electrons</otmi:vector>
+              <otmi:vector count='1'>scientific</otmi:vector>
+              <otmi:vector count='1'>effort</otmi:vector>
+              <otmi:vector count='1'>Grover</otmi:vector>
+              <otmi:vector count='1'>thing</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>repeater</otmi:vector>
+              <otmi:vector count='1'>semiconductor</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>efforts</otmi:vector>
+              <otmi:vector count='1'>paraded</otmi:vector>
+              <otmi:vector count='1'>fibre</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>dimples</otmi:vector>
+              <otmi:vector count='1'>&quot;Ion-trap</otmi:vector>
+              <otmi:vector count='1'>things</otmi:vector>
+              <otmi:vector count='1'>cool</otmi:vector>
+              <otmi:vector count='1'>errorcorrection</otmi:vector>
+              <otmi:vector count='1'>off</otmi:vector>
+              <otmi:vector count='1'>chip</otmi:vector>
+              <otmi:vector count='1'>geometric</otmi:vector>
+              <otmi:vector count='1'>entries</otmi:vector>
+              <otmi:vector count='1'>placed</otmi:vector>
+              <otmi:vector count='1'>mistake</otmi:vector>
+              <otmi:vector count='1'>linked</otmi:vector>
+              <otmi:vector count='1'>manipulation</otmi:vector>
+              <otmi:vector count='1'>tempered</otmi:vector>
+              <otmi:vector count='1'>intractable</otmi:vector>
+              <otmi:vector count='1'>something</otmi:vector>
+              <otmi:vector count='1'>store</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>storage</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>hour</otmi:vector>
+              <otmi:vector count='1'>greatly</otmi:vector>
+              <otmi:vector count='1'>Princeton</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>reactivity</otmi:vector>
+              <otmi:vector count='1'>Germany</otmi:vector>
+              <otmi:vector count='1'>translated</otmi:vector>
+              <otmi:vector count='1'>Technologies</otmi:vector>
+              <otmi:vector count='1'>semiconducting</otmi:vector>
+              <otmi:vector count='1'>excitement</otmi:vector>
+              <otmi:vector count='1'>hope</otmi:vector>
+              <otmi:vector count='1'>rudimentary</otmi:vector>
+              <otmi:vector count='1'>genuinely</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>repulsion</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>principles</otmi:vector>
+              <otmi:vector count='1'>Nevertheless</otmi:vector>
+              <otmi:vector count='1'>desktop</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>wonders</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>Boulder</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>approached</otmi:vector>
+              <otmi:vector count='1'>atom</otmi:vector>
+              <otmi:vector count='1'>one-step</otmi:vector>
+              <otmi:vector count='1'>Ignacio</otmi:vector>
+              <otmi:vector count='1'>quantum-dot</otmi:vector>
+              <otmi:vector count='1'>upbeat</otmi:vector>
+              <otmi:vector count='1'>practical</otmi:vector>
+              <otmi:vector count='1'>personal</otmi:vector>
+              <otmi:vector count='1'>everyday</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>playing</otmi:vector>
+              <otmi:vector count='1'>real</otmi:vector>
+              <otmi:vector count='1'>crystals</otmi:vector>
+              <otmi:vector count='1'>hundreds</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>UK</otmi:vector>
+              <otmi:vector count='1'>anyone</otmi:vector>
+              <otmi:vector count='1'>came</otmi:vector>
+              <otmi:vector count='1'>smoothly</otmi:vector>
+              <otmi:vector count='1'>converts</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>transferred</otmi:vector>
+              <otmi:vector count='1'>&quot;We&apos;ll</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>crystal</otmi:vector>
+              <otmi:vector count='1'>values</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>calculated</otmi:vector>
+              <otmi:vector count='1'>Factorization</otmi:vector>
+              <otmi:vector count='1'>Quantum-dot</otmi:vector>
+              <otmi:vector count='1'>describes</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>Entangled</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>looking</otmi:vector>
+              <otmi:vector count='1'>calculations</otmi:vector>
+              <otmi:vector count='1'>jiggle</otmi:vector>
+              <otmi:vector count='1'>scientists</otmi:vector>
+              <otmi:vector count='1'>forces</otmi:vector>
+              <otmi:vector count='1'>Murray</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>National</otmi:vector>
+              <otmi:vector count='1'>round</otmi:vector>
+              <otmi:vector count='1'>Grover-type</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>brains</otmi:vector>
+              <otmi:vector count='1'>winner</otmi:vector>
+              <otmi:vector count='1'>asked</otmi:vector>
+              <otmi:vector count='1'>Quantum</otmi:vector>
+              <otmi:vector count='1'>encouraging</otmi:vector>
+              <otmi:vector count='1'>shifted</otmi:vector>
+              <otmi:vector count='1'>technique</otmi:vector>
+              <otmi:vector count='1'>leak</otmi:vector>
+              <otmi:vector count='1'>correction</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>invention</otmi:vector>
+              <otmi:vector count='1'>contains</otmi:vector>
+              <otmi:vector count='1'>flux</otmi:vector>
+              <otmi:vector count='1'>Colorado</otmi:vector>
+              <otmi:vector count='1'>&quot;For</otmi:vector>
+              <otmi:vector count='1'>&quot;In</otmi:vector>
+              <otmi:vector count='1'>Lov</otmi:vector>
+              <otmi:vector count='1'>neutral</otmi:vector>
+              <otmi:vector count='1'>believes</otmi:vector>
+              <otmi:vector count='1'>Wineland</otmi:vector>
+              <otmi:vector count='1'>theorist</otmi:vector>
+              <otmi:vector count='1'>suite</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>Hans</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>journey</otmi:vector>
+              <otmi:vector count='1'>measurements</otmi:vector>
+              <otmi:vector count='1'>improve</otmi:vector>
+              <otmi:vector count='1'>cautious</otmi:vector>
+              <otmi:vector count='1'>physics</otmi:vector>
+              <otmi:vector count='1'>tailored</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>circuits</otmi:vector>
+              <otmi:vector count='1'>excellent</otmi:vector>
+              <otmi:vector count='1'>manipulating</otmi:vector>
+              <otmi:vector count='1'>incur</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>shed</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>optimizing</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>passed</otmi:vector>
+              <otmi:vector count='1'>ahead</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>compute</otmi:vector>
+              <otmi:vector count='1'>creating</otmi:vector>
+              <otmi:vector count='1'>Atoms</otmi:vector>
+              <otmi:vector count='1'>Arbor</otmi:vector>
+              <otmi:vector count='1'>brought</otmi:vector>
+              <otmi:vector count='1'>searches</otmi:vector>
+              <otmi:vector count='1'>mixture</otmi:vector>
+              <otmi:vector count='1'>chemists</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>plans</otmi:vector>
+              <otmi:vector count='1'>microscopic</otmi:vector>
+              <otmi:vector count='1'>wide-open</otmi:vector>
+              <otmi:vector count='1'>groups</otmi:vector>
+              <otmi:vector count='1'>inevitably</otmi:vector>
+              <otmi:vector count='1'>cry</otmi:vector>
+              <otmi:vector count='1'>electrical</otmi:vector>
+              <otmi:vector count='1'>biologists</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>weird</otmi:vector>
+              <otmi:vector count='1'>intuition</otmi:vector>
+              <otmi:vector count='1'>impossible</otmi:vector>
+              <otmi:vector count='1'>electrodes</otmi:vector>
+              <otmi:vector count='1'>Chris</otmi:vector>
+              <otmi:vector count='1'>Given</otmi:vector>
+              <otmi:vector count='1'>memory</otmi:vector>
+              <otmi:vector count='1'>dozens</otmi:vector>
+              <otmi:vector count='1'>cryptography</otmi:vector>
+              <otmi:vector count='1'>mechanics</otmi:vector>
+              <otmi:vector count='1'>clocks</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>elaborate</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>Garching</otmi:vector>
+              <otmi:vector count='1'>temperatures</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A major stumbling block for those trying to dream up new algorithms is that they first have to identify which problems will benefit most from quantum-computing methods</otmi:snippet>
+              <otmi:snippet>A quantum processor can also compute with more than one qubit at once by exploiting another quantum property called entanglement, which makes qubits interdependent</otmi:snippet>
+              <otmi:snippet>A quantum simulator would describe and predict the structure and reactivity of molecules and materials by accurately capturing their fundamental quantum nature</otmi:snippet>
+              <otmi:snippet>A quantum superposition has to remain stable for at least as long as it takes to do the computation</otmi:snippet>
+              <otmi:snippet>Admittedly this meant looking through a database of just four entries — hardly a demanding task — but Monroe says the group plans to scale up to dozens of qubits over the next few years. &quot;It is striking that ten years have passed since Shor&apos;s invention, and very few new quantum algorithms have been developed,&quot; says Chuang</otmi:snippet>
+              <otmi:snippet>Among those that have appeared are methods for solving problems in number theory, drawn up by Sean Hallgren at NEC Laboratories in Princeton, New Jersey </otmi:snippet>
+              <otmi:snippet>An easy mistake to make Decoherence also means that, as they process qubits using logic gates, quantum computers will inevitably incur errors at a much higher rate than classical computers. &quot;The modern transistor has an error rate of less than 1 in 10 14 or more switching events</otmi:snippet>
+              <otmi:snippet>And even if we did have a working quantum computer today, there are hardly any programs that could run on it</otmi:snippet>
+              <otmi:snippet>And in 1996, Lov Grover, who is now at Lucent Technologies in Murray Hill, New Jersey, unveiled a quantum algorithm that can greatly speed up database searches</otmi:snippet>
+              <otmi:snippet>And it must be possible for qubits in superposition to interact strongly with the environment when needed, so that the information can be read out</otmi:snippet>
+              <otmi:snippet>At the end of last year, Monroe&apos;s group reported success with a Grover-type search using two cadmium ions in a trap </otmi:snippet>
+              <otmi:snippet>Atoms have the advantage that they interact more weakly with their environment than ions, but they also interact more weakly with each other</otmi:snippet>
+              <otmi:snippet>Because the hurdles in building the hardware are substantial, it is often suggested that the obstacles to making a quantum computer come down to engineering</otmi:snippet>
+              <otmi:snippet>Both of these algorithms have already been run using the NMR and optical techniques, but these methods are hard to scale up</otmi:snippet>
+              <otmi:snippet>Building a quantum computer is still very, very hard to do</otmi:snippet>
+              <otmi:snippet>But Lloyd remains upbeat about the prospects. &quot;I agree that quantum computers tailored for specific applications are likely to be built before general-purpose devices</otmi:snippet>
+              <otmi:snippet>But as soon as qubits interact with their environment, the delicate superposition becomes unstable, a process known as decoherence, which causes information to leak from the quantum computer</otmi:snippet>
+              <otmi:snippet>But in principle it should be possible. &quot;For qubits encoded in trapped ions, nobody really believes that we will ever be limited by coherence time,&quot; says Monroe</otmi:snippet>
+              <otmi:snippet>But not any longer. &quot;A useful computer by 2020 is realistic,&quot; says Andrew Steane of the quantum-computing group at the University of Oxford, UK</otmi:snippet>
+              <otmi:snippet>But thanks to quantum error-correcting codes devised in the 1990s , , it is now possible to correct error rates as high as 1 in 10 5 </otmi:snippet>
+              <otmi:snippet>But that doesn&apos;t rule out the possibility that we&apos;ll all be playing quantum Grand Theft Auto in the near future.&quot;</otmi:snippet>
+              <otmi:snippet>But the more qubits there are, the harder it is to read out their complex, collective vibrational states</otmi:snippet>
+              <otmi:snippet>But there is a bottleneck in theory too</otmi:snippet>
+              <otmi:snippet>But, he adds, &quot;the area is still sufficiently open that it is premature to slow efforts on any of the major contenders&quot;</otmi:snippet>
+              <otmi:snippet>By 2002 the key principles behind a quantum computer had been sketched out by theorists (see &quot;How to build a quantum computer&quot; ), but how best to implement them in a real device remains a wide-open question</otmi:snippet>
+              <otmi:snippet>By exploiting superpositions, a single quantum computer in effect mimics a whole suite of classical computers running at once, and by using entanglement these &quot;parallel computers&quot; can be linked together</otmi:snippet>
+              <otmi:snippet>Charging ahead Solving these problems is not easy, but recent progress has been encouraging. &quot;Ion-trap chips look well placed to create useful computers before other methods,&quot; says Steane</otmi:snippet>
+              <otmi:snippet>Compared with ion-traps, he explains, they may scale up more easily and are perhaps easier to connect to traditional telecommunication systems for readout</otmi:snippet>
+              <otmi:snippet>Cooling the quantum system to very low temperatures helps — but it may also be necessary to shield the qubits from stray electromagnetic fields</otmi:snippet>
+              <otmi:snippet>David Deutsch, the Oxford physicist who more or less came up with the idea of quantum computation, agrees</otmi:snippet>
+              <otmi:snippet>David Wineland&apos;s group at the National Institute of Standards and Technology in Boulder, Colorado, is pursuing a similar idea in which the ions are trapped above electrodes etched into a chip&apos;s surface . &quot;Both methods have the advantage of using established fabrication techniques,&quot; says Wineland. &quot;In the end, the winner might be determined simply by what is easier to fabricate.&quot; Despite his success so far, Monroe is cautious about the long-term prospects. &quot;Many groups are racing to build complex ion-trap chips,&quot; he says. &quot;But it&apos;s less clear how trapped ions will ultimately compare with other quantum technologies.&quot; Instead of ions, some researchers are encoding qubits using trapped neutral atoms</otmi:snippet>
+              <otmi:snippet>Decoherence is especially problematic for entangled states, because then the decoherence of one qubit can affect the others too</otmi:snippet>
+              <otmi:snippet>Despite the fact that qubits need to be isolated from their environment to avoid decoherence, they must interact strongly with one another, to perform computations</otmi:snippet>
+              <otmi:snippet>Entangled states don&apos;t readily exist in nature: quantum engineers have to make them by allowing qubits to interact with one another</otmi:snippet>
+              <otmi:snippet>Factorization is important in cryptography, where it is needed to make and break keys</otmi:snippet>
+              <otmi:snippet>Five years ago, if you&apos;d have asked anyone working in quantum computing how long it would take to make a genuinely useful machine, they&apos;d probably have said it was too far off even to guess</otmi:snippet>
+              <otmi:snippet>Given recent theoretical advances, he is optimistic that a practical quantum computer &quot;may well be achieved within the next decade&quot;</otmi:snippet>
+              <otmi:snippet>He and his MIT colleague David Cory have been using this technique to simulate a variety of quantum systems in crystals of calcium fluoride and other materials. &quot;As the crystal contains a billion billion spins, these simulations remain out of the reach of the most powerful classical computers,&quot; says Lloyd</otmi:snippet>
+              <otmi:snippet>If that seems a far cry from the quantum brains that are sometimes paraded as the next big thing, we may just have to get used to it</otmi:snippet>
+              <otmi:snippet>In 1994, Peter Shor, now based at MIT, devised an algorithm that would allow quantum computers to factor numbers exponentially faster than conventional computers</otmi:snippet>
+              <otmi:snippet>In an ion-trap computer, the qubits are encoded in the electronic states of ions that are confined by an electromagnetic field</otmi:snippet>
+              <otmi:snippet>In classical computers, bits have clearly defined values of 1 or 0, but the laws of quantum mechanics allow qubits to exist in a &quot;superposition&quot; of states — a mixture of both 1 and 0 that would be impossible in an everyday computer</otmi:snippet>
+              <otmi:snippet>In comparison, the best quantum gates we currently imagine will optimistically have an error rate of something like 1 in 10 7 ,&quot;says Chuang</otmi:snippet>
+              <otmi:snippet>In conventional, or classical, computers, information is stored as strings of bits: binary digits each of which can take the value of 0 or 1</otmi:snippet>
+              <otmi:snippet>In essence, the number of quantum operations, and thus the length of time, it takes to run an algorithm can be calculated by finding the shortest path between two points in a geometric space defined by all the possible sequences of quantum operations. &quot;It really is a cool idea that has no classical analogue,&quot; says Lloyd. &quot;It opens up a variety of methods for potentially creating new algorithms and for optimizing existing algorithms.&quot; But not all quantum information processors will need complex algorithms</otmi:snippet>
+              <otmi:snippet>In fact, it is likely that even once the machines are available, quantum computers are destined to remain niche products — excellent for certain tasks but not versatile devices like conventional personal computers. &quot;Quantum computers will almost certainly never become general-purpose desktop machines,&quot; concedes Isaac Chuang, a quantum physicist at the Massachusetts Institute of Technology (MIT) in Cambridge</otmi:snippet>
+              <otmi:snippet>In fact, quantum computers are currently little more than two-trick wonders</otmi:snippet>
+              <otmi:snippet>In practice, researchers have found it difficult to avoid decoherence of specific qubits for longer than a few seconds</otmi:snippet>
+              <otmi:snippet>In their own terms, these &quot;computers&quot; &quot;run rings around any classical supercomputer&quot;, says Seth Lloyd, a theorist at MIT</otmi:snippet>
+              <otmi:snippet>Instead, before the computation is run, several qubits are brought together in a many-particle entangled state</otmi:snippet>
+              <otmi:snippet>It is an approach to quantum computations that Deutsch describes as &quot;far easier to implement physically&quot; than other methods for handling qubits</otmi:snippet>
+              <otmi:snippet>It is an extraordinarily delicate balancing act, which involves rules that defy intuition and aren&apos;t even completely understood</otmi:snippet>
+              <otmi:snippet>Its &quot;one-step&quot; nature makes this an appealing approach, but Cirac, who is now based at the Max Planck Institute for Quantum Optics in Garching, Germany, admits that it requires many more qubits than other methods, and that the errorcorrection procedures are more elaborate</otmi:snippet>
+              <otmi:snippet>Join the dots There is no shortage of other ideas for building a quantum computer</otmi:snippet>
+              <otmi:snippet>Last December, for example, Monroe&apos;s team reported an ion trap built on a semiconductor chip using standard microfabrication techniques </otmi:snippet>
+              <otmi:snippet>Many will be purpose-built tools that exploit quantum rules to improve on existing technologies such as atomic clocks and photonic technology. &quot;We&apos;ll probably see rudimentary devices such as a &quot;quantum repeater&quot; that converts photonic qubits to atomic qubits for error correction, and then back to photons to send them on their way down a long length of optical fibre,&quot; Monroe says</otmi:snippet>
+              <otmi:snippet>Much of the current effort is focused on making quantum computers using atoms or ions that are held in a trap</otmi:snippet>
+              <otmi:snippet>Nevertheless, as a scientific research tool the quantum computer could be revolutionary because of its ability to simulate other quantum systems</otmi:snippet>
+              <otmi:snippet>One way to get round this is to hold most of the ions in a reservoir, and to perform each computational step using just a few of them, transferred from the reservoir to a processing chamber</otmi:snippet>
+              <otmi:snippet>One way to perform quantum computing with atoms is to create discrete clusters of entangled atoms in a larger lattice</otmi:snippet>
+              <otmi:snippet>Others hope to create optical quantum computers, encoding qubits into the quantum states of photons, or to make qubits from tiny specks of semiconducting material called quantum dots. &quot;I&apos;ve been particularly impressed by the advances made in quantum-dot systems and by the superconductor-based approaches,&quot; says Chuang</otmi:snippet>
+              <otmi:snippet>Preventing decoherence means reducing uncontrolled interactions with the environment</otmi:snippet>
+              <otmi:snippet>Quantum-dot systems may not produce the first useful computer, says Steane, but they have a naturally faster timescale — largely because the qubits are encoded in electrons, which are much lighter than ions — and so ultimately should outperform other systems such as ion-trap chips</otmi:snippet>
+              <otmi:snippet>So by its very nature, a quantum machine should be much better suited to simulating quantum systems than a classical computer</otmi:snippet>
+              <otmi:snippet>So far, remarkably few specific computational problems have been translated into a form that a quantum machine could run and solve</otmi:snippet>
+              <otmi:snippet>Some are based on superconducting devices, exploiting the fact that superconductivity is itself a quantum phenomenon</otmi:snippet>
+              <otmi:snippet>Some researchers thought at first that this would make quantum computers too error-prone to be useful</otmi:snippet>
+              <otmi:snippet>The answer is then read out at the same time as the computation is actually performed, by making a series of measurements on each individual qubit in the cluster</otmi:snippet>
+              <otmi:snippet>The approach remains limited in terms of the different systems it can simulate, although Lloyd anticipates that fully functioning simulators will be readily available by 2020</otmi:snippet>
+              <otmi:snippet>The ions interact with each other through electrostatic repulsion, and can be entangled by using laser beams to make them jiggle in unison</otmi:snippet>
+              <otmi:snippet>The key to the potential success of quantum computers is also the cause of the problems within the field: the quantum nature of data storage and manipulation</otmi:snippet>
+              <otmi:snippet>The quantum states of the ions can be read out by using other lasers to excite fluorescence, the wavelength of which depends on the ion&apos;s electronic state</otmi:snippet>
+              <otmi:snippet>The same is true for quantum computers, except that this time the binary digits — &quot;qubits&quot; — are stored in the quantum states of microscopic systems, such as the electronic state of an atom or ion</otmi:snippet>
+              <otmi:snippet>The trap held individual cadmium ions for more than an hour, while the researchers were able to move the ions smoothly between trapping sites</otmi:snippet>
+              <otmi:snippet>The weird nature of the entangled state means that a measurement on one qubit instantly affects another, even though their previous individual states were undefined until that moment</otmi:snippet>
+              <otmi:snippet>Theorist Michael Nielsen and his colleagues at the University of Queensland in Australia have recently made progress in this direction by showing that the general problem of finding quantum algorithms can be made easier by borrowing ideas from geometry </otmi:snippet>
+              <otmi:snippet>They can be trapped by laser beams — and by exploiting the interference pattern generated between crossed laser beams, hundreds of atoms can be held within an &quot;optical lattice&quot;, rather like an egg box</otmi:snippet>
+              <otmi:snippet>This excitement is, however, tempered by the hurdles that have yet to be overcome</otmi:snippet>
+              <otmi:snippet>This is partly because it involves making quantum systems do things that don&apos;t come naturally to them. &quot;There is progress, but it&apos;s still very slow,&quot; says physicist Chris Monroe of the University of Michigan in Ann Arbor</otmi:snippet>
+              <otmi:snippet>This is the sort of employment the early machines are likely to find: doing calculations of interest to chemists, materials scientists and possibly molecular biologists, says Steane. &quot;Just a few dozen qubits may shed light on other physics problems that are intractable with conventional computers,&quot; notes Monroe. &quot;There are models of high-temperature superconductivity and other condensed-matter systems that might be approached in such a quantum simulator.&quot; In a spin In fact, quantum simulations can already be done using atoms and molecules that store qubits in their nuclear spin and can be probed and manipulated using nuclear magnetic resonance (NMR) techniques</otmi:snippet>
+              <otmi:snippet>This means that a quantum computer has much greater capacity for storing information</otmi:snippet>
+              <otmi:snippet>This means that the ions have to be shuttled around without their quantum states being affected, so that they don&apos;t &quot;lose their memory&quot; on the journey</otmi:snippet>
+              <otmi:snippet>This was first suggested in the late 1990s by Hans Briegel, Ignacio Cirac, Peter Zoller and their colleagues at the University of Innsbruck in Austria</otmi:snippet>
+              <otmi:snippet>To make the atoms interact, the dimples in the egg box can be shifted closer together by adjusting the trapping beams</otmi:snippet>
+              <otmi:snippet>Unfortunately, this powerful parallel processor has an Achilles&apos; heel</otmi:snippet>
+              <otmi:snippet>Unlike the standard approach, cluster computation does not involve manipulating individual particles</otmi:snippet>
+              <otmi:snippet>Unlike the systems based on individual particles, the qubits here are superconducting circuits, which hold many-particle quantum states of electrical charge or magnetic flux and can interact through classical electromagnetic forces</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1103/PhysRevLett.77.793</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nphys171</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1121541</otmi:refid>
+          <otmi:refid>info:doi/10.1002/1521-3978(200009)48:9/11&lt;771::AID-PROP771&gt;3.0.CO;2-E</otmi:refid>
+          <otmi:refsnoid>4</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

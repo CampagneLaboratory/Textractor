@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+        list="medline-files.txt"
+        writeRetractionMap="true" retractionMapFile="medlineRetractionMap.ser"
+        appendSentencesInOneDocument="true" loadTitles="true" loadAbstracts="true">
+        <!-- filter out any sentence that has less than 2 sentences -->
+        <!-- assume that this means title + at least 1 abstract sentence -->
+        <chain name="countFilter" className="textractor.chain.transformer.SentenceCountFilter"
+                minimumSentenceCount="2">
+            <!-- pull out the titles only (assume title is the first sentence -->
+            <chain name="titleExtractor" className="textractor.chain.transformer.TitleExtractor">
+                <!-- take a random subset of articles -->
+                <chain name="sampler" className="textractor.chain.transformer.RandomArticleSampler">
+                    <!-- and write them to a file -->
+                    <command name="writer" className="textractor.chain.consumer.SentenceWriter"
+                            outputFile="random-medline-titles.tsv"/>
+                </chain>
+            </chain>
+        </chain>
+    </chain>
+</catalog>

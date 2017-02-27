@@ -1,0 +1,162 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Research skewed by stress on highest-impact journals</title>
+      <id>info:doi/10.1038/440408d</id>
+      <link href='http://dx.doi.org/10.1038/440408d' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Mark Maslin</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>408</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>Nature</otmi:vector>
+              <otmi:vector count='4'>research</otmi:vector>
+              <otmi:vector count='4'>have</otmi:vector>
+              <otmi:vector count='3'>such</otmi:vector>
+              <otmi:vector count='3'>not</otmi:vector>
+              <otmi:vector count='2'>citation</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>papers</otmi:vector>
+              <otmi:vector count='2'>journals</otmi:vector>
+              <otmi:vector count='2'>administrators</otmi:vector>
+              <otmi:vector count='2'>science</otmi:vector>
+              <otmi:vector count='2'>young</otmi:vector>
+              <otmi:vector count='2'>merit</otmi:vector>
+              <otmi:vector count='2'>senior</otmi:vector>
+              <otmi:vector count='2'>rates</otmi:vector>
+              <otmi:vector count='2'>publish</otmi:vector>
+              <otmi:vector count='2'>scientists</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='2'>they</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>publishing</otmi:vector>
+              <otmi:vector count='1'>pressures</otmi:vector>
+              <otmi:vector count='1'>published</otmi:vector>
+              <otmi:vector count='1'>arisen</otmi:vector>
+              <otmi:vector count='1'>stated</otmi:vector>
+              <otmi:vector count='1'>simplistic</otmi:vector>
+              <otmi:vector count='1'>submitted</otmi:vector>
+              <otmi:vector count='1'>raises</otmi:vector>
+              <otmi:vector count='1'>appointments</otmi:vector>
+              <otmi:vector count='1'>community</otmi:vector>
+              <otmi:vector count='1'>university</otmi:vector>
+              <otmi:vector count='1'>creates</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>Assessment</otmi:vector>
+              <otmi:vector count='1'>tenure</otmi:vector>
+              <otmi:vector count='1'>requiring</otmi:vector>
+              <otmi:vector count='1'>outweigh</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>relieve</otmi:vector>
+              <otmi:vector count='1'>rich</otmi:vector>
+              <otmi:vector count='1'>want</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>alludes</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>traditionally</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>balanced</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>panels</otmi:vector>
+              <otmi:vector count='1'>recognized</otmi:vector>
+              <otmi:vector count='1'>funding</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>sciences</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>variety</otmi:vector>
+              <otmi:vector count='1'>concerning</otmi:vector>
+              <otmi:vector count='1'>reader</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>Research</otmi:vector>
+              <otmi:vector count='1'>increasing</otmi:vector>
+              <otmi:vector count='1'>ourselves</otmi:vector>
+              <otmi:vector count='1'>439534d</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>universities</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>outputs.</otmi:vector>
+              <otmi:vector count='1'>10.1038</otmi:vector>
+              <otmi:vector count='1'>Artacho</otmi:vector>
+              <otmi:vector count='1'>skewed</otmi:vector>
+              <otmi:vector count='1'>439</otmi:vector>
+              <otmi:vector count='1'>judge</otmi:vector>
+              <otmi:vector count='1'>Reader-appeal</otmi:vector>
+              <otmi:vector count='1'>Correspondence</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>importance</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>am</otmi:vector>
+              <otmi:vector count='1'>appeals</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>departments</otmi:vector>
+              <otmi:vector count='1'>promotions</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>Exercise</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>tension</otmi:vector>
+              <otmi:vector count='1'>Emilio</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>re-educate</otmi:vector>
+              <otmi:vector count='1'>pleased</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>communities</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>appeal</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>inherent</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>534</otmi:vector>
+              <otmi:vector count='1'>between</otmi:vector>
+              <otmi:vector count='1'>UK</otmi:vector>
+              <otmi:vector count='1'>measures</otmi:vector>
+              <otmi:vector count='1'>Sir</otmi:vector>
+              <otmi:vector count='1'>esteem</otmi:vector>
+              <otmi:vector count='1'>bodies</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>pressure</otmi:vector>
+              <otmi:vector count='1'>create</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As a result, many science departments are now skewed towards research that appeals to the more general reader</otmi:snippet>
+              <otmi:snippet>I am pleased that a number of the UK Research Assessment Exercise panels have stated that they will judge papers submitted to them, not on the basis of where they have been published, but rather on their inherent impact and importance</otmi:snippet>
+              <otmi:snippet>If we want to relieve some of the pressures on young scientists and create a more balanced science community, then we need to re-educate ourselves, and our senior university administrators, so that publishing in journals such as Nature , though important, is recognized as just one of a rich variety of research outputs.</otmi:snippet>
+              <otmi:snippet>It creates problems in appointments, tenure and promotions, particularly for sciences that do not traditionally publish in Nature or have small communities and thus lower citation rates</otmi:snippet>
+              <otmi:snippet>Sir Emilio Artacho, in Correspondence (&quot;Reader-appeal should not outweigh merit of research&quot; Nature 439 , 534 ; 2006 10.1038/439534d ), raises an important point concerning the growing tension between merit and appeal of research, and alludes to the increasing pressure on young scientists to publish in journals such as Nature </otmi:snippet>
+              <otmi:snippet>This seems to have arisen from senior administrators, both at universities and at funding bodies, requiring simplistic measures of esteem such as numbers of Nature papers and citation rates</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

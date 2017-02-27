@@ -1,0 +1,830 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>A non-spherical core in the explosion of supernova SN 2004dj</title>
+      <id>info:doi/10.1038/nature04558</id>
+      <link href='http://dx.doi.org/10.1038/nature04558' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Douglas C. Leonard</name>
+      </author>
+      <author>
+        <name>Alexei V. Filippenko</name>
+      </author>
+      <author>
+        <name>Mohan Ganeshalingam</name>
+      </author>
+      <author>
+        <name>Franklin J. D. Serduke</name>
+      </author>
+      <author>
+        <name>Weidong Li</name>
+      </author>
+      <author>
+        <name>Brandon J. Swift</name>
+      </author>
+      <author>
+        <name>Avishay Gal-Yam</name>
+      </author>
+      <author>
+        <name>Ryan J. Foley</name>
+      </author>
+      <author>
+        <name>Derek B. Fox</name>
+      </author>
+      <author>
+        <name>Sung Park</name>
+      </author>
+      <author>
+        <name>Jennifer L. Hoffman</name>
+      </author>
+      <author>
+        <name>Diane S. Wong</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>505</prism:startingPage>
+      <prism:endingPage>507</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>An important and perhaps critical clue to the mechanism driving the explosion of massive stars as supernovae is provided by the accumulating evidence for asymmetry in the explosion. Indirect evidence comes from high pulsar velocities , associations of supernovae with long-soft γ-ray bursts , and asymmetries in late-time emission-line profiles . Spectropolarimetry provides a direct probe of young supernova geometry, with higher polarization generally indicating a greater departure from spherical symmetry . Large polarizations have been measured for &quot;stripped-envelope&quot; (that is, type Ic; ref. 7 ) supernovae, which confirms their non-spherical morphology ; but the explosions of massive stars with intact hydrogen envelopes (type II-P supernovae) have shown only weak polarizations at the early times observed . Here we report multi-epoch spectropolarimetry of a classic type II-P supernova that reveals the abrupt appearance of significant polarization when the inner core is first exposed in the thinning ejecta (90 days after explosion). We infer a departure from spherical symmetry of at least 30 per cent for the inner ejecta. Combined with earlier results, this suggests that a strongly non-spherical explosion may be a generic feature of core-collapse supernovae of all types, where the asphericity in type II-P supernovae is cloaked at early times by the massive, opaque, hydrogen envelope.</otmi:rawtext>
+            <otmi:reducedtext> important perhaps critical clue mechanism driving explosion massive stars supernovae provided accumulating evidence asymmetry explosion. Indirect evidence comes high pulsar velocities , associations supernovae long-soft γ-ray bursts , asymmetries late-time emission-line profiles . Spectropolarimetry provides direct probe young supernova geometry, higher polarization generally indicating greater departure spherical symmetry . Large polarizations have been measured &quot;stripped-envelope&quot; ( , type Ic; ref. 7 ) supernovae, which confirms their non-spherical morphology ; but explosions massive stars intact hydrogen envelopes (type II-P supernovae) have shown only weak polarizations at early times observed . Here report multi-epoch spectropolarimetry classic type II-P supernova reveals abrupt appearance significant polarization when inner core first exposed thinning ejecta (90 days after explosion). infer departure spherical symmetry at least 30 per cent inner ejecta. Combined earlier results, suggests strongly non-spherical explosion may generic feature core-collapse supernovae all types, where asphericity type II-P supernovae cloaked at early times massive, opaque, hydrogen envelope.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>supernovae</otmi:vector>
+              <otmi:vector count='4'>explosion</otmi:vector>
+              <otmi:vector count='4'>type</otmi:vector>
+              <otmi:vector count='3'>massive</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>II-P</otmi:vector>
+              <otmi:vector count='2'>ejecta</otmi:vector>
+              <otmi:vector count='2'>departure</otmi:vector>
+              <otmi:vector count='2'>non-spherical</otmi:vector>
+              <otmi:vector count='2'>polarizations</otmi:vector>
+              <otmi:vector count='2'>hydrogen</otmi:vector>
+              <otmi:vector count='2'>early</otmi:vector>
+              <otmi:vector count='2'>stars</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>inner</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>supernova</otmi:vector>
+              <otmi:vector count='2'>polarization</otmi:vector>
+              <otmi:vector count='2'>spherical</otmi:vector>
+              <otmi:vector count='2'>symmetry</otmi:vector>
+              <otmi:vector count='2'>times</otmi:vector>
+              <otmi:vector count='1'>reveals</otmi:vector>
+              <otmi:vector count='1'>explosions</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>late-time</otmi:vector>
+              <otmi:vector count='1'>Spectropolarimetry</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>probe</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>provides</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>days</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>spectropolarimetry</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>morphology</otmi:vector>
+              <otmi:vector count='1'>accumulating</otmi:vector>
+              <otmi:vector count='1'>Indirect</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>profiles</otmi:vector>
+              <otmi:vector count='1'>abrupt</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>thinning</otmi:vector>
+              <otmi:vector count='1'>asymmetries</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>greater</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>indicating</otmi:vector>
+              <otmi:vector count='1'>suggests</otmi:vector>
+              <otmi:vector count='1'>90</otmi:vector>
+              <otmi:vector count='1'>associations</otmi:vector>
+              <otmi:vector count='1'>pulsar</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>ray</otmi:vector>
+              <otmi:vector count='1'>long-soft</otmi:vector>
+              <otmi:vector count='1'>(that</otmi:vector>
+              <otmi:vector count='1'>driving</otmi:vector>
+              <otmi:vector count='1'>asphericity</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>infer</otmi:vector>
+              <otmi:vector count='1'>appearance</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>velocities</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>multi-epoch</otmi:vector>
+              <otmi:vector count='1'>exposed</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>comes</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>stripped-envelope</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>classic</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>cloaked</otmi:vector>
+              <otmi:vector count='1'>generic</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>emission-line</otmi:vector>
+              <otmi:vector count='1'>bursts</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>young</otmi:vector>
+              <otmi:vector count='1'>asymmetry</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>cent</otmi:vector>
+              <otmi:vector count='1'>opaque</otmi:vector>
+              <otmi:vector count='1'>Ic</otmi:vector>
+              <otmi:vector count='1'>Combined</otmi:vector>
+              <otmi:vector count='1'>envelopes</otmi:vector>
+              <otmi:vector count='1'>Large</otmi:vector>
+              <otmi:vector count='1'>confirms</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>core-collapse</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>geometry</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>clue</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>envelope.</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>An important and perhaps critical clue to the mechanism driving the explosion of massive stars as supernovae is provided by the accumulating evidence for asymmetry in the explosion</otmi:snippet>
+              <otmi:snippet>Combined with earlier results, this suggests that a strongly non-spherical explosion may be a generic feature of core-collapse supernovae of all types, where the asphericity in type II-P supernovae is cloaked at early times by the massive, opaque, hydrogen envelope.</otmi:snippet>
+              <otmi:snippet>Here we report multi-epoch spectropolarimetry of a classic type II-P supernova that reveals the abrupt appearance of significant polarization when the inner core is first exposed in the thinning ejecta (90 days after explosion)</otmi:snippet>
+              <otmi:snippet>Indirect evidence comes from high pulsar velocities , associations of supernovae with long-soft γ-ray bursts , and asymmetries in late-time emission-line profiles </otmi:snippet>
+              <otmi:snippet>Large polarizations have been measured for &quot;stripped-envelope&quot; (that is, type Ic; ref. 7 ) supernovae, which confirms their non-spherical morphology ; but the explosions of massive stars with intact hydrogen envelopes (type II-P supernovae) have shown only weak polarizations at the early times observed </otmi:snippet>
+              <otmi:snippet>Spectropolarimetry provides a direct probe of young supernova geometry, with higher polarization generally indicating a greater departure from spherical symmetry </otmi:snippet>
+              <otmi:snippet>We infer a departure from spherical symmetry of at least 30 per cent for the inner ejecta</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='15'>polarization</otmi:vector>
+              <otmi:vector count='15'>type</otmi:vector>
+              <otmi:vector count='13'>SN</otmi:vector>
+              <otmi:vector count='10'>2004dj</otmi:vector>
+              <otmi:vector count='10'>regions</otmi:vector>
+              <otmi:vector count='10'>supernova</otmi:vector>
+              <otmi:vector count='10'>explosion</otmi:vector>
+              <otmi:vector count='10'>II-P</otmi:vector>
+              <otmi:vector count='9'>1</otmi:vector>
+              <otmi:vector count='9'>supernovae</otmi:vector>
+              <otmi:vector count='7'>model</otmi:vector>
+              <otmi:vector count='7'>atmosphere</otmi:vector>
+              <otmi:vector count='7'>2</otmi:vector>
+              <otmi:vector count='7'>has</otmi:vector>
+              <otmi:vector count='7'>during</otmi:vector>
+              <otmi:vector count='7'>electron-scattering</otmi:vector>
+              <otmi:vector count='7'>ref</otmi:vector>
+              <otmi:vector count='6'>non-spherical</otmi:vector>
+              <otmi:vector count='6'>bipolar</otmi:vector>
+              <otmi:vector count='6'>at</otmi:vector>
+              <otmi:vector count='6'>Ni</otmi:vector>
+              <otmi:vector count='6'>plateau</otmi:vector>
+              <otmi:vector count='6'>56</otmi:vector>
+              <otmi:vector count='6'>optical</otmi:vector>
+              <otmi:vector count='6'>PA</otmi:vector>
+              <otmi:vector count='6'>inner</otmi:vector>
+              <otmi:vector count='6'>spectral</otmi:vector>
+              <otmi:vector count='5'>Ic</otmi:vector>
+              <otmi:vector count='5'>91</otmi:vector>
+              <otmi:vector count='5'>Fig</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>jet</otmi:vector>
+              <otmi:vector count='4'>well</otmi:vector>
+              <otmi:vector count='4'>than</otmi:vector>
+              <otmi:vector count='4'>should</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='4'>spherical</otmi:vector>
+              <otmi:vector count='4'>asphericity</otmi:vector>
+              <otmi:vector count='4'>our</otmi:vector>
+              <otmi:vector count='4'>observed</otmi:vector>
+              <otmi:vector count='4'>phase</otmi:vector>
+              <otmi:vector count='4'>similar</otmi:vector>
+              <otmi:vector count='4'>through</otmi:vector>
+              <otmi:vector count='4'>masses</otmi:vector>
+              <otmi:vector count='4'>expansion</otmi:vector>
+              <otmi:vector count='4'>light</otmi:vector>
+              <otmi:vector count='4'>been</otmi:vector>
+              <otmi:vector count='4'>scattering</otmi:vector>
+              <otmi:vector count='4'>features</otmi:vector>
+              <otmi:vector count='4'>other</otmi:vector>
+              <otmi:vector count='4'>after</otmi:vector>
+              <otmi:vector count='4'>line</otmi:vector>
+              <otmi:vector count='3'>rotation</otmi:vector>
+              <otmi:vector count='3'>30</otmi:vector>
+              <otmi:vector count='3'>three</otmi:vector>
+              <otmi:vector count='3'>single-scattering</otmi:vector>
+              <otmi:vector count='3'>envelope</otmi:vector>
+              <otmi:vector count='3'>high</otmi:vector>
+              <otmi:vector count='3'>velocities</otmi:vector>
+              <otmi:vector count='3'>resulting</otmi:vector>
+              <otmi:vector count='3'>days</otmi:vector>
+              <otmi:vector count='3'>produce</otmi:vector>
+              <otmi:vector count='3'>strong</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>hence</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>obtained</otmi:vector>
+              <otmi:vector count='3'>troughs</otmi:vector>
+              <otmi:vector count='3'>radioactive</otmi:vector>
+              <otmi:vector count='3'>continuum</otmi:vector>
+              <otmi:vector count='3'>day</otmi:vector>
+              <otmi:vector count='3'>progenitor</otmi:vector>
+              <otmi:vector count='3'>expected</otmi:vector>
+              <otmi:vector count='3'>some</otmi:vector>
+              <otmi:vector count='3'>core</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>when</otmi:vector>
+              <otmi:vector count='3'>geometry</otmi:vector>
+              <otmi:vector count='3'>hydrogen</otmi:vector>
+              <otmi:vector count='3'>period</otmi:vector>
+              <otmi:vector count='3'>P-Cygni</otmi:vector>
+              <otmi:vector count='3'>those</otmi:vector>
+              <otmi:vector count='3'>fact</otmi:vector>
+              <otmi:vector count='3'>t</otmi:vector>
+              <otmi:vector count='3'>then</otmi:vector>
+              <otmi:vector count='3'>time</otmi:vector>
+              <otmi:vector count='3'>H</otmi:vector>
+              <otmi:vector count='3'>stars</otmi:vector>
+              <otmi:vector count='3'>depth</otmi:vector>
+              <otmi:vector count='3'>measured</otmi:vector>
+              <otmi:vector count='3'>10</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>spectropolarimetric</otmi:vector>
+              <otmi:vector count='3'>lines</otmi:vector>
+              <otmi:vector count='3'>region</otmi:vector>
+              <otmi:vector count='2'>maximum</otmi:vector>
+              <otmi:vector count='2'>Table</otmi:vector>
+              <otmi:vector count='2'>s</otmi:vector>
+              <otmi:vector count='2'>electron</otmi:vector>
+              <otmi:vector count='2'>elements</otmi:vector>
+              <otmi:vector count='2'>reached</otmi:vector>
+              <otmi:vector count='2'>core-collapse</otmi:vector>
+              <otmi:vector count='2'>28</otmi:vector>
+              <otmi:vector count='2'>observation</otmi:vector>
+              <otmi:vector count='2'>massive</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>places</otmi:vector>
+              <otmi:vector count='2'>initial</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>value</otmi:vector>
+              <otmi:vector count='2'>recently</otmi:vector>
+              <otmi:vector count='2'>nearly</otmi:vector>
+              <otmi:vector count='2'>128</otmi:vector>
+              <otmi:vector count='2'>nebular</otmi:vector>
+              <otmi:vector count='2'>asymmetries</otmi:vector>
+              <otmi:vector count='2'>solar</otmi:vector>
+              <otmi:vector count='2'>D</otmi:vector>
+              <otmi:vector count='2'>absorption</otmi:vector>
+              <otmi:vector count='2'>owing</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>models</otmi:vector>
+              <otmi:vector count='2'>exposed</otmi:vector>
+              <otmi:vector count='2'>main-sequence</otmi:vector>
+              <otmi:vector count='2'>predicts</otmi:vector>
+              <otmi:vector count='2'>ejecta</otmi:vector>
+              <otmi:vector count='2'>departure</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>might</otmi:vector>
+              <otmi:vector count='2'>evidence</otmi:vector>
+              <otmi:vector count='2'>scattered</otmi:vector>
+              <otmi:vector count='2'>very</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>unpolarized</otmi:vector>
+              <otmi:vector count='2'>single</otmi:vector>
+              <otmi:vector count='2'>shock</otmi:vector>
+              <otmi:vector count='2'>end</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>Specifically</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>epochs</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>seen</otmi:vector>
+              <otmi:vector count='2'>degree</otmi:vector>
+              <otmi:vector count='2'>within</otmi:vector>
+              <otmi:vector count='2'>early-time</otmi:vector>
+              <otmi:vector count='2'>constant</otmi:vector>
+              <otmi:vector count='2'>spectra</otmi:vector>
+              <otmi:vector count='2'>indicating</otmi:vector>
+              <otmi:vector count='2'>rapidly</otmi:vector>
+              <otmi:vector count='2'>symmetry</otmi:vector>
+              <otmi:vector count='2'>greater</otmi:vector>
+              <otmi:vector count='2'>opacity</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>km</otmi:vector>
+              <otmi:vector count='2'>mass</otmi:vector>
+              <otmi:vector count='2'>brightness</otmi:vector>
+              <otmi:vector count='2'>off</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>there</otmi:vector>
+              <otmi:vector count='2'>studies</otmi:vector>
+              <otmi:vector count='2'>distribution</otmi:vector>
+              <otmi:vector count='2'>less</otmi:vector>
+              <otmi:vector count='2'>19</otmi:vector>
+              <otmi:vector count='2'>spectropolarimetry</otmi:vector>
+              <otmi:vector count='2'>global</otmi:vector>
+              <otmi:vector count='2'>decline</otmi:vector>
+              <otmi:vector count='2'>supports</otmi:vector>
+              <otmi:vector count='2'>limit</otmi:vector>
+              <otmi:vector count='2'>6,800–8,200</otmi:vector>
+              <otmi:vector count='2'>photosphere</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>Fe</otmi:vector>
+              <otmi:vector count='2'>i</otmi:vector>
+              <otmi:vector count='2'>GRBs</otmi:vector>
+              <otmi:vector count='2'>data</otmi:vector>
+              <otmi:vector count='2'>substantial</otmi:vector>
+              <otmi:vector count='2'>Na</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>star</otmi:vector>
+              <otmi:vector count='1'>date</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>morphology</otmi:vector>
+              <otmi:vector count='1'>search</otmi:vector>
+              <otmi:vector count='1'>simple</otmi:vector>
+              <otmi:vector count='1'>ii</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>broad</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>thoroughly</otmi:vector>
+              <otmi:vector count='1'>photons</otmi:vector>
+              <otmi:vector count='1'>smooth</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>synthesized</otmi:vector>
+              <otmi:vector count='1'>2004dj&apos;s</otmi:vector>
+              <otmi:vector count='1'>discovery</otmi:vector>
+              <otmi:vector count='1'>discussion</otmi:vector>
+              <otmi:vector count='1'>polarize</otmi:vector>
+              <otmi:vector count='1'>velocity</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>speculate</otmi:vector>
+              <otmi:vector count='1'>suggestive</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>homologous</otmi:vector>
+              <otmi:vector count='1'>Galactic</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>wavelength</otmi:vector>
+              <otmi:vector count='1'>pre-explosion</otmi:vector>
+              <otmi:vector count='1'>produces</otmi:vector>
+              <otmi:vector count='1'>profiles</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>angle-averaged</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>innermost</otmi:vector>
+              <otmi:vector count='1'>2403</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>tail</otmi:vector>
+              <otmi:vector count='1'>ray</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>considerations</otmi:vector>
+              <otmi:vector count='1'>prediction</otmi:vector>
+              <otmi:vector count='1'>fall</otmi:vector>
+              <otmi:vector count='1'>non-balancing</otmi:vector>
+              <otmi:vector count='1'>opposed</otmi:vector>
+              <otmi:vector count='1'>manifest</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>contention</otmi:vector>
+              <otmi:vector count='1'>envelopes</otmi:vector>
+              <otmi:vector count='1'>borne</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>radius</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>exhibits</otmi:vector>
+              <otmi:vector count='1'>PAs</otmi:vector>
+              <otmi:vector count='1'>adopt</otmi:vector>
+              <otmi:vector count='1'>context</otmi:vector>
+              <otmi:vector count='1'>selective</otmi:vector>
+              <otmi:vector count='1'>3</otmi:vector>
+              <otmi:vector count='1'>references</otmi:vector>
+              <otmi:vector count='1'>substantially</otmi:vector>
+              <otmi:vector count='1'>absorption-line</otmi:vector>
+              <otmi:vector count='1'>geometrical</otmi:vector>
+              <otmi:vector count='1'>angle</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>radial</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>closest</otmi:vector>
+              <otmi:vector count='1'>distance</otmi:vector>
+              <otmi:vector count='1'>expectation</otmi:vector>
+              <otmi:vector count='1'>steepest</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>late-time</otmi:vector>
+              <otmi:vector count='1'>3.13</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>weeks</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>proportion</otmi:vector>
+              <otmi:vector count='1'>jet-like</otmi:vector>
+              <otmi:vector count='1'>1999em</otmi:vector>
+              <otmi:vector count='1'>months</otmi:vector>
+              <otmi:vector count='1'>distributed</otmi:vector>
+              <otmi:vector count='1'>disk-like</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>assuming</otmi:vector>
+              <otmi:vector count='1'>Theory</otmi:vector>
+              <otmi:vector count='1'>surrounding</otmi:vector>
+              <otmi:vector count='1'>ut</otmi:vector>
+              <otmi:vector count='1'>enduring</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>continues</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>Naturally</otmi:vector>
+              <otmi:vector count='1'>ratio</otmi:vector>
+              <otmi:vector count='1'>orientation</otmi:vector>
+              <otmi:vector count='1'>plausibly</otmi:vector>
+              <otmi:vector count='1'>spanning</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>galaxy</otmi:vector>
+              <otmi:vector count='1'>complicated</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>stripped-envelope</otmi:vector>
+              <otmi:vector count='1'>jets</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>triplet</otmi:vector>
+              <otmi:vector count='1'>fixed</otmi:vector>
+              <otmi:vector count='1'>spiral</otmi:vector>
+              <otmi:vector count='1'>subset</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>percentage</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>classic</otmi:vector>
+              <otmi:vector count='1'>recombination</otmi:vector>
+              <otmi:vector count='1'>polar</otmi:vector>
+              <otmi:vector count='1'>determines</otmi:vector>
+              <otmi:vector count='1'>noted</otmi:vector>
+              <otmi:vector count='1'>preferably</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>fourth</otmi:vector>
+              <otmi:vector count='1'>Taken</otmi:vector>
+              <otmi:vector count='1'>axis</otmi:vector>
+              <otmi:vector count='1'>nine</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>laterally</otmi:vector>
+              <otmi:vector count='1'>profile</otmi:vector>
+              <otmi:vector count='1'>moment</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>GRB</otmi:vector>
+              <otmi:vector count='1'>ionized</otmi:vector>
+              <otmi:vector count='1'>situation</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>Previous</otmi:vector>
+              <otmi:vector count='1'>descent</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>2004</otmi:vector>
+              <otmi:vector count='1'>mass.</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>bursts</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>near</otmi:vector>
+              <otmi:vector count='1'>25,000</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>purely</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>temporal</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>matches</otmi:vector>
+              <otmi:vector count='1'>decrease</otmi:vector>
+              <otmi:vector count='1'>agree</otmi:vector>
+              <otmi:vector count='1'>Because</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>interpreted</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>drop-off</otmi:vector>
+              <otmi:vector count='1'>Analysis</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>(axis</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>changes</otmi:vector>
+              <otmi:vector count='1'>appearance</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>front</otmi:vector>
+              <otmi:vector count='1'>ionize</otmi:vector>
+              <otmi:vector count='1'>O</otmi:vector>
+              <otmi:vector count='1'>extensive</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>nearby</otmi:vector>
+              <otmi:vector count='1'>find</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>fine</otmi:vector>
+              <otmi:vector count='1'>penetrates</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>fits</otmi:vector>
+              <otmi:vector count='1'>explode</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>observations</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>anticipated</otmi:vector>
+              <otmi:vector count='1'>electric</otmi:vector>
+              <otmi:vector count='1'>near-infrared</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>double-peaked</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>Additional</otmi:vector>
+              <otmi:vector count='1'>dilution</otmi:vector>
+              <otmi:vector count='1'>receding</otmi:vector>
+              <otmi:vector count='1'>Mpc</otmi:vector>
+              <otmi:vector count='1'>images</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>changing</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>dramatic</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>brief</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>energetics</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>statistical</otmi:vector>
+              <otmi:vector count='1'>supernova&apos;s</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>symmetric</otmi:vector>
+              <otmi:vector count='1'>level</otmi:vector>
+              <otmi:vector count='1'>July</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>0.56</otmi:vector>
+              <otmi:vector count='1'>smoothly</otmi:vector>
+              <otmi:vector count='1'>2,500</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>helium</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>Once</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>Very</otmi:vector>
+              <otmi:vector count='1'>concludes</otmi:vector>
+              <otmi:vector count='1'>line-blanketing</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>scenario</otmi:vector>
+              <otmi:vector count='1'>electrons</otmi:vector>
+              <otmi:vector count='1'>0.6</otmi:vector>
+              <otmi:vector count='1'>cross-sectional</otmi:vector>
+              <otmi:vector count='1'>regardless</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>confluence</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>present</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>subsequently</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>Wolf-Rayet</otmi:vector>
+              <otmi:vector count='1'>propagation</otmi:vector>
+              <otmi:vector count='1'>prominently</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>sampling</otmi:vector>
+              <otmi:vector count='1'>plane</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>precipitous</otmi:vector>
+              <otmi:vector count='1'>supernovae—specifically</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>falling</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>forward-scattered</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>distribute</otmi:vector>
+              <otmi:vector count='1'>lighter</otmi:vector>
+              <otmi:vector count='1'>proceeds</otmi:vector>
+              <otmi:vector count='1'>emission-line</otmi:vector>
+              <otmi:vector count='1'>becomes</otmi:vector>
+              <otmi:vector count='1'>secure</otmi:vector>
+              <otmi:vector count='1'>play</otmi:vector>
+              <otmi:vector count='1'>suggests</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>environment&apos;s</otmi:vector>
+              <otmi:vector count='1'>10:7</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>recedes</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>comfortably</otmi:vector>
+              <otmi:vector count='1'>typical</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>emission</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>Ca</otmi:vector>
+              <otmi:vector count='1'>middle</otmi:vector>
+              <otmi:vector count='1'>prompt</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>2003jd</otmi:vector>
+              <otmi:vector count='1'>exploding</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>dramatically</otmi:vector>
+              <otmi:vector count='1'>continuum-dominated</otmi:vector>
+              <otmi:vector count='1'>trough</otmi:vector>
+              <otmi:vector count='1'>propitious</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>propagates</otmi:vector>
+              <otmi:vector count='1'>viewing</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>role</otmi:vector>
+              <otmi:vector count='1'>long-soft</otmi:vector>
+              <otmi:vector count='1'>hydrodynamical</otmi:vector>
+              <otmi:vector count='1'>moves</otmi:vector>
+              <otmi:vector count='1'>therein</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>discovered</otmi:vector>
+              <otmi:vector count='1'>drop</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>expectations</otmi:vector>
+              <otmi:vector count='1'>line-of-sight</otmi:vector>
+              <otmi:vector count='1'>spread</otmi:vector>
+              <otmi:vector count='1'>peak</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>drops</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>curve</otmi:vector>
+              <otmi:vector count='1'>inherent</otmi:vector>
+              <otmi:vector count='1'>shortward</otmi:vector>
+              <otmi:vector count='1'>signatures</otmi:vector>
+              <otmi:vector count='1'>conjectures</otmi:vector>
+              <otmi:vector count='1'>polarized</otmi:vector>
+              <otmi:vector count='1'>axes</otmi:vector>
+              <otmi:vector count='1'>emergence</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>equatorial</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>recombined</otmi:vector>
+              <otmi:vector count='1'>oxygen</otmi:vector>
+              <otmi:vector count='1'>expand</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>luminosity</otmi:vector>
+              <otmi:vector count='1'>NGC</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>grows</otmi:vector>
+              <otmi:vector count='1'>actual</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>uncovered</otmi:vector>
+              <otmi:vector count='1'>axially</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>successfully</otmi:vector>
+              <otmi:vector count='1'>While</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>heavy</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>exists</otmi:vector>
+              <otmi:vector count='1'>vectors</otmi:vector>
+              <otmi:vector count='1'>oriented</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>mechanisms</otmi:vector>
+              <otmi:vector count='1'>inferred</otmi:vector>
+              <otmi:vector count='1'>accord</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>captures</otmi:vector>
+              <otmi:vector count='1'>extraordinary</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>31</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>confined</otmi:vector>
+              <otmi:vector count='1'>evolution</otmi:vector>
+              <otmi:vector count='1'>stronger</otmi:vector>
+              <otmi:vector count='1'>5,500</otmi:vector>
+              <otmi:vector count='1'>wind-driven</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A further expectation resulting from a global asphericity, as opposed to other potential supernova polarization mechanisms (see ref. 19 for an extensive discussion), is that no rotation of the polarization angle (PA) should be seen across these absorption-line line features</otmi:snippet>
+              <otmi:snippet>A global asphericity of the electron-scattering atmosphere will manifest itself through two main spectropolarimetric signatures</otmi:snippet>
+              <otmi:snippet>Additional examples, preferably with fine temporal sampling during the critical phase at the end of the plateau, are needed to fully test these conjectures</otmi:snippet>
+              <otmi:snippet>Analysis of pre-explosion images places the initial main-sequence mass of SN 2004dj&apos;s progenitor at 12 solar masses , in accord with masses inferred by similar studies of other type II-P supernovae (ref. 28 and references therein)</otmi:snippet>
+              <otmi:snippet>As SN 2004dj moves into the nebular phase and the atmosphere continues to expand, the optical depth to electron scattering, and thus the polarization, is expected to fall</otmi:snippet>
+              <otmi:snippet>At an estimated distance of 3.13 Mpc (ref. 15 ), it is the closest normal type II-P supernova observed to date</otmi:snippet>
+              <otmi:snippet>Because the shock propagation (and, hence, 56 Ni production) in the bipolar jet model is not purely radial in the inner regions, a rapidly but smoothly changing PA might be expected during the brief period (SN 2004dj falling off the optical plateau) in which the 56 Ni is being uncovered</otmi:snippet>
+              <otmi:snippet>First, there is significant polarization in spectral regions not dominated by line opacity, resulting from a non-balancing of the electric vectors of the scattered continuum photons </otmi:snippet>
+              <otmi:snippet>For this simple scenario, the polarization would be expected to decline with time t as 1/ t 2 , owing to geometrical dilution caused by homologous expansion (that is, the same number of scattering electrons spread over a cross-sectional area that grows as t 2 )</otmi:snippet>
+              <otmi:snippet>For type II-P supernovae, the bipolar jet model predicts the radioactive 56 Ni to be confined to the inner regions, where it would ionize the surrounding material, produce a non-spherical electron-scattering photosphere when exposed , and plausibly produce polarization similar to that observed in SN 2004dj</otmi:snippet>
+              <otmi:snippet>For type II-P supernovae, this includes the broad spectral region 6,800–8,200 Å (ref. 16 )</otmi:snippet>
+              <otmi:snippet>If we adopt this viewing orientation, then our measured polarization peak of 0.56% places a minimum departure from spherical symmetry of 30% (axis ratio 10:7) for the inner regions of SN 2004dj from the axially symmetric, electron-scattering models of ref. 6 </otmi:snippet>
+              <otmi:snippet>In addition, it has been argued that a non-spherical distribution of 56 Ni can produce asymmetries in the Hα emission-line profile of type II-P supernovae during the nebular phase</otmi:snippet>
+              <otmi:snippet>Naturally, if the electron-scattering atmosphere on day 91 has not yet reached the single-scattering limit, or is already below it, then the actual degree of asphericity is greater than our derived value</otmi:snippet>
+              <otmi:snippet>Once the ionized hydrogen envelope has recombined, the optical brightness of a type II-P supernova drops dramatically as the recombination front rapidly recedes through the helium core </otmi:snippet>
+              <otmi:snippet>Our fourth spectropolarimetric observation captures this moment in a type II-P supernova (to our knowledge, for the first time)</otmi:snippet>
+              <otmi:snippet>Previous studies have noted the confluence of factors making the drop-off of the plateau a propitious period in which to search for evidence of explosion asphericity, as the innermost regions are exposed at a point when sufficient optical depth to electron scattering in the inner core still exists to polarize the light and, hence, reveal the geometry</otmi:snippet>
+              <otmi:snippet>SN 2004dj was discovered on 31 July 2004 ( ut ) in the nearby spiral galaxy NGC 2403, and was quickly identified as a core-collapse event with spectral features similar to those of the type II-P supernova SN 1999em (ref. 10 ) about three weeks after explosion</otmi:snippet>
+              <otmi:snippet>Second, polarization increases are anticipated in the troughs of strong P-Cygni absorption lines </otmi:snippet>
+              <otmi:snippet>Specifically, if the day 91 observation occurred at or beyond the time when the single-scattering limit is reached in the supernova&apos;s atmosphere (a single-scattering atmosphere produces maximum supernova polarization ), then the polarization should subsequently decrease in proportion to the (angle-averaged) electron-scattering optical depth, as this determines the percentage of scattered light</otmi:snippet>
+              <otmi:snippet>Specifically, the PA changes by 30° between days 91 and 128, after which it remains constant for the next three epochs ( Table 1 )</otmi:snippet>
+              <otmi:snippet>Such asymmetries have, in fact, been recently identified in late-time spectra of SN 2004dj, and are interpreted within the context of the bipolar jet model by ref. 24 , which concludes that they are best explained by a bipolar distribution of 56 Ni with the major axis oriented 30° ± 10° to our line-of-sight</otmi:snippet>
+              <otmi:snippet>Taken during the steepest part of the descent off the plateau ( Fig. 2 ), on day 91 after explosion, the data show a dramatic change from those obtained just 19 days earlier: the polarization level has increased to nearly 0.6% in the continuum-dominated region 6,800–8,200 Å ( Fig. 1 ), as well as in the troughs of some of the stronger P-Cygni line features, including most prominently that due to Na i D</otmi:snippet>
+              <otmi:snippet>The PAs in the P-Cygni troughs agree with the continuum PA, with a measured value of ϑ  = 32° ± 3° in the Na i D absorption compared with ϑ  = 28° ± 2° for the continuum region</otmi:snippet>
+              <otmi:snippet>The discovery of a non-spherical core in SN 2004dj suggests that a similar explosion mechanism is at work in type II-P supernovae, and may, in fact, be inherent to the core-collapse process, regardless of progenitor mass.</otmi:snippet>
+              <otmi:snippet>The first three epochs of spectropolarimetry, obtained during the middle and end of the plateau phase, find the supernova to be unpolarized ( Fig. 1 ), indicating a substantially spherical geometry for the electron-scattering atmosphere while the photosphere is receding back through the hydrogen envelope</otmi:snippet>
+              <otmi:snippet>The lack of polarization during the plateau fits comfortably within the bipolar jet model as well, as hydrodynamical simulations demonstrate that the shock propagates laterally as it penetrates the inner regions , and ultimately becomes completely spherical as it proceeds through the massive hydrogen envelope </otmi:snippet>
+              <otmi:snippet>The light curve of SN 2004dj ( Fig. 2 ) exhibits the classic features of a type II-P supernova: an enduring period of nearly constant optical luminosity followed by a precipitous drop in brightness and a smooth decline on the radioactive tail</otmi:snippet>
+              <otmi:snippet>The link between long-soft γ-ray bursts (GRBs) and a subset of type Ic supernovae—specifically those with spectral lines indicating very high expansion velocities at early times —is now secure , and successful models for GRBs require a jet-like explosion from energetics considerations</otmi:snippet>
+              <otmi:snippet>The most thoroughly studied non-spherical explosion model is that of bipolar jets , which distribute radioactive 56 Ni and other synthesized heavy elements (such as Fe) preferentially along the polar axes; lighter elements produced by the progenitor star during its evolution (for example, O) are distributed near the equatorial plane in a disk-like structure </otmi:snippet>
+              <otmi:snippet>The observed spectropolarimetric behaviour of SN 2004dj matches expectations resulting from a strong departure from spherical symmetry for the electron-scattering atmosphere in the inner regions of the ejecta (expansion velocities less than 2,500 km s -1 , or about 1/10 the radius of the supernova assuming a maximum ejecta velocity of 25,000 km s -1 )</otmi:snippet>
+              <otmi:snippet>The prompt appearance of substantial polarization in type Ic supernovae supports a non-spherical explosion model for these very massive stars</otmi:snippet>
+              <otmi:snippet>Theory predicts that single stars that explode as type Ic supernovae must have initial main-sequence masses greater than 25 solar masses to undergo the extraordinary wind-driven mass loss required to remove their entire H/He envelopes before explosion , and observations of Galactic Wolf-Rayet stars support this conclusion </otmi:snippet>
+              <otmi:snippet>This could explain the PA rotation observed for SN 2004dj between days 91 and 128, although opacity effects may also play a role </otmi:snippet>
+              <otmi:snippet>This model, in fact, has recently been successfully used to explain the emergence of double-peaked oxygen line profiles in spectra of SN 2003jd, a type Ic supernova with high early-time expansion velocities, obtained a year after explosion </otmi:snippet>
+              <otmi:snippet>This prediction is borne out rather well by the data ( Fig. 2 ), although there is some evidence suggestive of a more complex situation</otmi:snippet>
+              <otmi:snippet>This result has a high degree of statistical significance, and indicates that the scattering environment&apos;s morphology might be more complicated than that of a single, fixed geometry; we speculate on possible causes of this PA rotation below</otmi:snippet>
+              <otmi:snippet>This results from selective blocking of more forward-scattered and, hence, less polarized, light in the trough regions</otmi:snippet>
+              <otmi:snippet>Very little polarization should be seen in spectral regions shortward of wavelength λ ≈ 5,500 Å owing to line-blanketing by Fe; other spectral regions with strong individual emission lines (for example, Hα and Ca ii near-infrared triplet) should also be relatively unpolarized </otmi:snippet>
+              <otmi:snippet>We present spectropolarimetry spanning the first nine months of its development in Table 1 and in Figs 1 and 2 </otmi:snippet>
+              <otmi:snippet>While it is not clear that the same mechanism that generates the GRB is also responsible for exploding the star, the substantial early-time polarization that has been measured for some of these events , and for more typical type Ic supernovae as well , supports the contention of a non-spherical explosion for &quot;stripped-envelope&quot; supernovae</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Intrinsic polarization of SN 2004dj during the photospheric phase, with day since explosion indicated.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The flux spectrum is from day 91, with prominent line features labelled. The recession velocity of 131 km s -1 (NASA Extragalactic Database) has been removed from all data. The polarization data have been corrected for an interstellar polarization (ISP) contribution, which was derived by examining (1) the observed polarization in spectral regions dominated by the strongest emission lines (that is, Na i D, Hα and the Ca ii near-infrared triplet), which are believed to be intrinsically unpolarized 17 , and (2) the observed polarization at late times (that is, the nebular phase), when the electron-scattering optical depth of the atmosphere has dropped well below unity and the observed polarization at all wavelengths is largely due to ISP (see ref. 19 for a complete discussion). These complementary approaches yield virtually identical results (to within 0.1%) for the ISP estimation. For our data set, the final epoch is from day 271, at which point the ejecta are probably not fully nebular and some small intrinsic polarization (&lt; 0.1%) may still exist. Examining the temporal evolution in the Stokes q – u plane, we find the late-time polarization to be steadily decreasing down to the level indicated by the earliest measurements made during the plateau phase, suggesting that these early epochs possess little to no intrinsic polarization (this is also supported by the lack of any line features at these times). Thus, to derive the intrinsic polarization at all epochs, we fitted a low-order spline to the Stokes q and u spectra of the data from day 58 (note that the data from day 39 have significantly lower signal-to-noise ratio than those obtained at the other plateau epochs), and then subtracted the result from the Stokes parameters obtained on all other epochs. This resulted in the removal of p ISP ≈ 0.29%, ϑ  ISP ≈ 20° from the observed data.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Light curve and continuum polarization of SN 2004dj.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Polarization measures are from Table 1; error bars are 1 σ  (s.d.) statistical. Photometry is from data obtained with the 30-inch (0.8-m) Katzman Automatic Imaging Telescope (KAIT) at Lick Observatory and the 60-inch (1.5-m) telescope at Palomar Observatory. The dashed line represents the expected decline in polarization ( p = ( t 0 / t ) 2 x p 0 , where t 0 = 91 days and p 0 = 0.558% from Table 1) during the transition to the nebular phase due to the effects of diminishing electron scattering in optically thin, expanding ejecta. Note that the age of SN 2004dj at discovery and, hence, the plateau duration, is not well constrained by direct observation, as NGC 2403 had just emerged from solar conjunction and the most recent reported pre-explosion image was taken over six months earlier 27 . Our adopted explosion date of 2004 July 14 results from the spectral analysis of ref. 14, but we note that the light-curve modelling of ref. 24 yields an explosion date 31 days earlier. If the earlier date were adopted, the estimated plateau duration would increase from 70 to 100 days.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1086/491701</otmi:refid>
+          <otmi:refid>info:doi/10.1038/27150</otmi:refid>
+          <otmi:refid>info:doi/10.1086/379228</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1111384</otmi:refid>
+          <otmi:refid>info:doi/10.1086/160559</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.astro.35.1.309</otmi:refid>
+          <otmi:refid>info:doi/10.1086/375576</otmi:refid>
+          <otmi:refid>info:doi/10.1086/320959</otmi:refid>
+          <otmi:refid>info:doi/10.1086/320638</otmi:refid>
+          <otmi:refid>info:doi/10.1086/174404</otmi:refid>
+          <otmi:refid>info:doi/10.1086/432866</otmi:refid>
+          <otmi:refid>info:doi/10.1086/338953</otmi:refid>
+          <otmi:refid>info:doi/10.1086/324487</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-8711.2003.06150.x</otmi:refid>
+          <otmi:refid>info:doi/10.1134/1.2138766</otmi:refid>
+          <otmi:refid>info:doi/10.1086/431903</otmi:refid>
+          <otmi:refid>info:doi/10.1086/375341</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.aa.32.090194.001303</otmi:refid>
+          <otmi:refsnoid>12</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,866 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Research highlights</title>
+      <id>info:doi/10.1038/440386a</id>
+      <link href='http://dx.doi.org/10.1038/440386a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>386</prism:startingPage>
+      <prism:endingPage>387</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='12'>cells</otmi:vector>
+              <otmi:vector count='11'>have</otmi:vector>
+              <otmi:vector count='10'>2006</otmi:vector>
+              <otmi:vector count='8'>at</otmi:vector>
+              <otmi:vector count='7'>could</otmi:vector>
+              <otmi:vector count='7'>their</otmi:vector>
+              <otmi:vector count='7'>colleagues</otmi:vector>
+              <otmi:vector count='7'>may</otmi:vector>
+              <otmi:vector count='7'>which</otmi:vector>
+              <otmi:vector count='7'>University</otmi:vector>
+              <otmi:vector count='6'>protein</otmi:vector>
+              <otmi:vector count='6'>found</otmi:vector>
+              <otmi:vector count='5'>they</otmi:vector>
+              <otmi:vector count='5'>might</otmi:vector>
+              <otmi:vector count='5'>more</otmi:vector>
+              <otmi:vector count='5'>researchers</otmi:vector>
+              <otmi:vector count='5'>plume</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>identified</otmi:vector>
+              <otmi:vector count='5'>can</otmi:vector>
+              <otmi:vector count='5'>dinosaurs</otmi:vector>
+              <otmi:vector count='5'>reptiles</otmi:vector>
+              <otmi:vector count='5'>TGF</otmi:vector>
+              <otmi:vector count='4'>Cell</otmi:vector>
+              <otmi:vector count='4'>had</otmi:vector>
+              <otmi:vector count='4'>light</otmi:vector>
+              <otmi:vector count='4'>proteins</otmi:vector>
+              <otmi:vector count='4'>gut</otmi:vector>
+              <otmi:vector count='4'>been</otmi:vector>
+              <otmi:vector count='4'>most</otmi:vector>
+              <otmi:vector count='4'>do</otmi:vector>
+              <otmi:vector count='4'>her</otmi:vector>
+              <otmi:vector count='4'>how</otmi:vector>
+              <otmi:vector count='4'>known</otmi:vector>
+              <otmi:vector count='4'>neutrinos</otmi:vector>
+              <otmi:vector count='4'>them</otmi:vector>
+              <otmi:vector count='3'>California</otmi:vector>
+              <otmi:vector count='3'>regulate</otmi:vector>
+              <otmi:vector count='3'>development</otmi:vector>
+              <otmi:vector count='3'>regulatory</otmi:vector>
+              <otmi:vector count='3'>these</otmi:vector>
+              <otmi:vector count='3'>use</otmi:vector>
+              <otmi:vector count='3'>temperature</otmi:vector>
+              <otmi:vector count='3'>two</otmi:vector>
+              <otmi:vector count='3'>up</otmi:vector>
+              <otmi:vector count='3'>signalling</otmi:vector>
+              <otmi:vector count='3'>energy</otmi:vector>
+              <otmi:vector count='3'>study</otmi:vector>
+              <otmi:vector count='3'>third</otmi:vector>
+              <otmi:vector count='3'>between</otmi:vector>
+              <otmi:vector count='3'>HGGs</otmi:vector>
+              <otmi:vector count='3'>suggests</otmi:vector>
+              <otmi:vector count='3'>animals</otmi:vector>
+              <otmi:vector count='3'>sense</otmi:vector>
+              <otmi:vector count='3'>Emilin1</otmi:vector>
+              <otmi:vector count='3'>than</otmi:vector>
+              <otmi:vector count='3'>not</otmi:vector>
+              <otmi:vector count='3'>during</otmi:vector>
+              <otmi:vector count='3'>unfolded</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>different</otmi:vector>
+              <otmi:vector count='3'>thought</otmi:vector>
+              <otmi:vector count='3'>ability</otmi:vector>
+              <otmi:vector count='3'>Maryland</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>Arctic</otmi:vector>
+              <otmi:vector count='3'>one</otmi:vector>
+              <otmi:vector count='3'>pressure</otmi:vector>
+              <otmi:vector count='3'>Institute</otmi:vector>
+              <otmi:vector count='3'>brain</otmi:vector>
+              <otmi:vector count='2'>immune</otmi:vector>
+              <otmi:vector count='2'>emptied</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='2'>infection</otmi:vector>
+              <otmi:vector count='2'>Reventador</otmi:vector>
+              <otmi:vector count='2'>molecule</otmi:vector>
+              <otmi:vector count='2'>four</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>need</otmi:vector>
+              <otmi:vector count='2'>suggest</otmi:vector>
+              <otmi:vector count='2'>cancer</otmi:vector>
+              <otmi:vector count='2'>Shine</otmi:vector>
+              <otmi:vector count='2'>sterile</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>another</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>being</otmi:vector>
+              <otmi:vector count='2'>eye</otmi:vector>
+              <otmi:vector count='2'>effect</otmi:vector>
+              <otmi:vector count='2'>dark</otmi:vector>
+              <otmi:vector count='2'>eyes</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>T</otmi:vector>
+              <otmi:vector count='2'>R</otmi:vector>
+              <otmi:vector count='2'>insulating</otmi:vector>
+              <otmi:vector count='2'>nucleus</otmi:vector>
+              <otmi:vector count='2'>authors</otmi:vector>
+              <otmi:vector count='2'>find</otmi:vector>
+              <otmi:vector count='2'>gonad</otmi:vector>
+              <otmi:vector count='2'>Lett</otmi:vector>
+              <otmi:vector count='2'>after</otmi:vector>
+              <otmi:vector count='2'>lifespan</otmi:vector>
+              <otmi:vector count='2'>short</otmi:vector>
+              <otmi:vector count='2'>solution</otmi:vector>
+              <otmi:vector count='2'>help</otmi:vector>
+              <otmi:vector count='2'>J</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>whose</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>interaction</otmi:vector>
+              <otmi:vector count='2'>sensitive</otmi:vector>
+              <otmi:vector count='2'>star</otmi:vector>
+              <otmi:vector count='2'>Astrocytes</otmi:vector>
+              <otmi:vector count='2'>High</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>formation</otmi:vector>
+              <otmi:vector count='2'>decisions</otmi:vector>
+              <otmi:vector count='2'>set</otmi:vector>
+              <otmi:vector count='2'>fur</otmi:vector>
+              <otmi:vector count='2'>124</otmi:vector>
+              <otmi:vector count='2'>previously</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>blood</otmi:vector>
+              <otmi:vector count='2'>heat</otmi:vector>
+              <otmi:vector count='2'>oligodendrocytes</otmi:vector>
+              <otmi:vector count='2'>don&apos;t</otmi:vector>
+              <otmi:vector count='2'>role</otmi:vector>
+              <otmi:vector count='2'>did</otmi:vector>
+              <otmi:vector count='2'>subtypes</otmi:vector>
+              <otmi:vector count='2'>feathers</otmi:vector>
+              <otmi:vector count='2'>eruption</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>Universe</otmi:vector>
+              <otmi:vector count='2'>ash</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>natural</otmi:vector>
+              <otmi:vector count='2'>fibres</otmi:vector>
+              <otmi:vector count='2'>body</otmi:vector>
+              <otmi:vector count='2'>NTL9</otmi:vector>
+              <otmi:vector count='2'>months</otmi:vector>
+              <otmi:vector count='2'>pathways</otmi:vector>
+              <otmi:vector count='2'>signals</otmi:vector>
+              <otmi:vector count='2'>his</otmi:vector>
+              <otmi:vector count='2'>myelin</otmi:vector>
+              <otmi:vector count='2'>National</otmi:vector>
+              <otmi:vector count='2'>Cancer</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>team</otmi:vector>
+              <otmi:vector count='2'>transcription</otmi:vector>
+              <otmi:vector count='2'>hormone</otmi:vector>
+              <otmi:vector count='2'>San</otmi:vector>
+              <otmi:vector count='2'>Rev</otmi:vector>
+              <otmi:vector count='2'>endotherms</otmi:vector>
+              <otmi:vector count='2'>disease</otmi:vector>
+              <otmi:vector count='2'>profiles</otmi:vector>
+              <otmi:vector count='2'>think</otmi:vector>
+              <otmi:vector count='2'>tumour</otmi:vector>
+              <otmi:vector count='2'>own</otmi:vector>
+              <otmi:vector count='2'>vertebrate</otmi:vector>
+              <otmi:vector count='2'>bystander</otmi:vector>
+              <otmi:vector count='2'>hummingbirds</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>winter</otmi:vector>
+              <otmi:vector count='2'>They</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>minutes</otmi:vector>
+              <otmi:vector count='2'>type</otmi:vector>
+              <otmi:vector count='2'>nerve</otmi:vector>
+              <otmi:vector count='2'>state</otmi:vector>
+              <otmi:vector count='2'>refilled</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>features</otmi:vector>
+              <otmi:vector count='2'>according</otmi:vector>
+              <otmi:vector count='2'>Bethesda</otmi:vector>
+              <otmi:vector count='2'>lizards</otmi:vector>
+              <otmi:vector count='2'>ATP</otmi:vector>
+              <otmi:vector count='2'>Francisco</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>factor</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>endless</otmi:vector>
+              <otmi:vector count='1'>fast-spinning</otmi:vector>
+              <otmi:vector count='1'>food</otmi:vector>
+              <otmi:vector count='1'>genome-wide</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>Deadly</otmi:vector>
+              <otmi:vector count='1'>wear</otmi:vector>
+              <otmi:vector count='1'>familiar</otmi:vector>
+              <otmi:vector count='1'>argues</otmi:vector>
+              <otmi:vector count='1'>top</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>article</otmi:vector>
+              <otmi:vector count='1'>Timing</otmi:vector>
+              <otmi:vector count='1'>improved</otmi:vector>
+              <otmi:vector count='1'>timing</otmi:vector>
+              <otmi:vector count='1'>mass</otmi:vector>
+              <otmi:vector count='1'>fluid</otmi:vector>
+              <otmi:vector count='1'>Not-so-innocent</otmi:vector>
+              <otmi:vector count='1'>kilo-electron-volts</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>Richard</otmi:vector>
+              <otmi:vector count='1'>warm</otmi:vector>
+              <otmi:vector count='1'>DAF-12</otmi:vector>
+              <otmi:vector count='1'>unfold</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>replicated</otmi:vector>
+              <otmi:vector count='1'>contend</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>decoupling</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>Journal</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>Bonn</otmi:vector>
+              <otmi:vector count='1'>pristine</otmi:vector>
+              <otmi:vector count='1'>intervals</otmi:vector>
+              <otmi:vector count='1'>controlling</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>above</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>expenditure</otmi:vector>
+              <otmi:vector count='1'>urea</otmi:vector>
+              <otmi:vector count='1'>triggers</otmi:vector>
+              <otmi:vector count='1'>neurogenesis</otmi:vector>
+              <otmi:vector count='1'>pathological</otmi:vector>
+              <otmi:vector count='1'>write</otmi:vector>
+              <otmi:vector count='1'>King-Wai</otmi:vector>
+              <otmi:vector count='1'>starvation</otmi:vector>
+              <otmi:vector count='1'>means</otmi:vector>
+              <otmi:vector count='1'>club</otmi:vector>
+              <otmi:vector count='1'>stimulate</otmi:vector>
+              <otmi:vector count='1'>learn</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>091301</otmi:vector>
+              <otmi:vector count='1'>condition</otmi:vector>
+              <otmi:vector count='1'>biotechnology</otmi:vector>
+              <otmi:vector count='1'>Turn</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>Kenyon</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>volcanic</otmi:vector>
+              <otmi:vector count='1'>helps</otmi:vector>
+              <otmi:vector count='1'>thing</otmi:vector>
+              <otmi:vector count='1'>KRI-1</otmi:vector>
+              <otmi:vector count='1'>biology</otmi:vector>
+              <otmi:vector count='1'>distinguish</otmi:vector>
+              <otmi:vector count='1'>hinder</otmi:vector>
+              <otmi:vector count='1'>23–46</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>Working</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>Activating</otmi:vector>
+              <otmi:vector count='1'>Kusenko</otmi:vector>
+              <otmi:vector count='1'>rufus</otmi:vector>
+              <otmi:vector count='1'>reproduced</otmi:vector>
+              <otmi:vector count='1'>History</otmi:vector>
+              <otmi:vector count='1'>Geophys</otmi:vector>
+              <otmi:vector count='1'>Chem</otmi:vector>
+              <otmi:vector count='1'>Anthony</otmi:vector>
+              <otmi:vector count='1'>Ecuador</otmi:vector>
+              <otmi:vector count='1'>issues</otmi:vector>
+              <otmi:vector count='1'>Res</otmi:vector>
+              <otmi:vector count='1'>cuts</otmi:vector>
+              <otmi:vector count='1'>proTGF</otmi:vector>
+              <otmi:vector count='1'>parietal</otmi:vector>
+              <otmi:vector count='1'>Museum</otmi:vector>
+              <otmi:vector count='1'>Take</otmi:vector>
+              <otmi:vector count='1'>sheath</otmi:vector>
+              <otmi:vector count='1'>foreign</otmi:vector>
+              <otmi:vector count='1'>Susan</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>easily</otmi:vector>
+              <otmi:vector count='1'>Dallas</otmi:vector>
+              <otmi:vector count='1'>Infectious</otmi:vector>
+              <otmi:vector count='1'>Uta</otmi:vector>
+              <otmi:vector count='1'>jem.20052056</otmi:vector>
+              <otmi:vector count='1'>approach</otmi:vector>
+              <otmi:vector count='1'>Raleigh</otmi:vector>
+              <otmi:vector count='1'>Daniel</otmi:vector>
+              <otmi:vector count='1'>wild</otmi:vector>
+              <otmi:vector count='1'>Regulation</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>planning</otmi:vector>
+              <otmi:vector count='1'>predicted</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>genes</otmi:vector>
+              <otmi:vector count='1'>Biol</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>learned</otmi:vector>
+              <otmi:vector count='1'>Edinburgh</otmi:vector>
+              <otmi:vector count='1'>intrigued</otmi:vector>
+              <otmi:vector count='1'>Quito</otmi:vector>
+              <otmi:vector count='1'>odd</otmi:vector>
+              <otmi:vector count='1'>FOXO-family</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>matrix</otmi:vector>
+              <otmi:vector count='1'>interact</otmi:vector>
+              <otmi:vector count='1'>X-rays</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>Universe&apos;s</otmi:vector>
+              <otmi:vector count='1'>starved</otmi:vector>
+              <otmi:vector count='1'>sperm</otmi:vector>
+              <otmi:vector count='1'>infected</otmi:vector>
+              <otmi:vector count='1'>summer</otmi:vector>
+              <otmi:vector count='1'>warmer</otmi:vector>
+              <otmi:vector count='1'>High-grade</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>light-detection</otmi:vector>
+              <otmi:vector count='1'>157–173</otmi:vector>
+              <otmi:vector count='1'>Interestingly</otmi:vector>
+              <otmi:vector count='1'>Ecol</otmi:vector>
+              <otmi:vector count='1'>(This</otmi:vector>
+              <otmi:vector count='1'>Natural</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>Phys</otmi:vector>
+              <otmi:vector count='1'>stabilize</otmi:vector>
+              <otmi:vector count='1'>Development</otmi:vector>
+              <otmi:vector count='1'>glial</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>progression</otmi:vector>
+              <otmi:vector count='1'>Heidi</otmi:vector>
+              <otmi:vector count='1'>Evolution</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>destruction</otmi:vector>
+              <otmi:vector count='1'>Laboratory</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>Sydney</otmi:vector>
+              <otmi:vector count='1'>materials</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>9</otmi:vector>
+              <otmi:vector count='1'>gene-expression</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>thermal</otmi:vector>
+              <otmi:vector count='1'>State</otmi:vector>
+              <otmi:vector count='1'>nervous</otmi:vector>
+              <otmi:vector count='1'>tumours</otmi:vector>
+              <otmi:vector count='1'>Caenorhabditis</otmi:vector>
+              <otmi:vector count='1'>coat</otmi:vector>
+              <otmi:vector count='1'>buoyancy</otmi:vector>
+              <otmi:vector count='1'>DAF-9</otmi:vector>
+              <otmi:vector count='1'>elegans</otmi:vector>
+              <otmi:vector count='1'>aim</otmi:vector>
+              <otmi:vector count='1'>LIF</otmi:vector>
+              <otmi:vector count='1'>Fiorillo</otmi:vector>
+              <otmi:vector count='1'>excavated</otmi:vector>
+              <otmi:vector count='1'>allows</otmi:vector>
+              <otmi:vector count='1'>battles</otmi:vector>
+              <otmi:vector count='1'>Fields</otmi:vector>
+              <otmi:vector count='1'>96</otmi:vector>
+              <otmi:vector count='1'>varied</otmi:vector>
+              <otmi:vector count='1'>remember</otmi:vector>
+              <otmi:vector count='1'>steam</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>ash-laden</otmi:vector>
+              <otmi:vector count='1'>49</otmi:vector>
+              <otmi:vector count='1'>vertebrates</otmi:vector>
+              <otmi:vector count='1'>Los</otmi:vector>
+              <otmi:vector count='1'>stansburiana</otmi:vector>
+              <otmi:vector count='1'>Su</otmi:vector>
+              <otmi:vector count='1'>feedings</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>1617–1621</otmi:vector>
+              <otmi:vector count='1'>Healy</otmi:vector>
+              <otmi:vector count='1'>Researchers</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>round</otmi:vector>
+              <otmi:vector count='1'>detection</otmi:vector>
+              <otmi:vector count='1'>general</otmi:vector>
+              <otmi:vector count='1'>chemistry</otmi:vector>
+              <otmi:vector count='1'>kickstart</otmi:vector>
+              <otmi:vector count='1'>cell-fate</otmi:vector>
+              <otmi:vector count='1'>ion</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>Genetics</otmi:vector>
+              <otmi:vector count='1'>promoted</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>therapies</otmi:vector>
+              <otmi:vector count='1'>Belkaid</otmi:vector>
+              <otmi:vector count='1'>light-sensitive</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>Angeles</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>blood-pressure</otmi:vector>
+              <otmi:vector count='1'>creatures</otmi:vector>
+              <otmi:vector count='1'>entropy</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>lizard&apos;s</otmi:vector>
+              <otmi:vector count='1'>Radioastronomy</otmi:vector>
+              <otmi:vector count='1'>Chih-Ying</otmi:vector>
+              <otmi:vector count='1'>AIDS</otmi:vector>
+              <otmi:vector count='1'>expression</otmi:vector>
+              <otmi:vector count='1'>2002</otmi:vector>
+              <otmi:vector count='1'>destabilize</otmi:vector>
+              <otmi:vector count='1'>acted</otmi:vector>
+              <otmi:vector count='1'>823–832</otmi:vector>
+              <otmi:vector count='1'>Selasphorus</otmi:vector>
+              <otmi:vector count='1'>changing</otmi:vector>
+              <otmi:vector count='1'>volcano</otmi:vector>
+              <otmi:vector count='1'>Peter</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>Brook</otmi:vector>
+              <otmi:vector count='1'>929–942</otmi:vector>
+              <otmi:vector count='1'>room</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>serves</otmi:vector>
+              <otmi:vector count='1'>star-shaped</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>G</otmi:vector>
+              <otmi:vector count='1'>lived</otmi:vector>
+              <otmi:vector count='1'>adapt</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>double-mutant</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>lowers</otmi:vector>
+              <otmi:vector count='1'>New</otmi:vector>
+              <otmi:vector count='1'>matter</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>Allergy</otmi:vector>
+              <otmi:vector count='1'>open</otmi:vector>
+              <otmi:vector count='1'>removing</otmi:vector>
+              <otmi:vector count='1'>scallop-shaped</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>account</otmi:vector>
+              <otmi:vector count='1'>nectar</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>Am</otmi:vector>
+              <otmi:vector count='1'>stars</otmi:vector>
+              <otmi:vector count='1'>tend</otmi:vector>
+              <otmi:vector count='1'>uses</otmi:vector>
+              <otmi:vector count='1'>Baltimore</otmi:vector>
+              <otmi:vector count='1'>Astrophysics</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>responds</otmi:vector>
+              <otmi:vector count='1'>Cynthia</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>secreted</otmi:vector>
+              <otmi:vector count='1'>everything</otmi:vector>
+              <otmi:vector count='1'>intermediary</otmi:vector>
+              <otmi:vector count='1'>precisely</otmi:vector>
+              <otmi:vector count='1'>interacting</otmi:vector>
+              <otmi:vector count='1'>attacked</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>ageing</otmi:vector>
+              <otmi:vector count='1'>causing</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>stages</otmi:vector>
+              <otmi:vector count='1'>sugar</otmi:vector>
+              <otmi:vector count='1'>Warm</otmi:vector>
+              <otmi:vector count='1'>Now</otmi:vector>
+              <otmi:vector count='1'>kill</otmi:vector>
+              <otmi:vector count='1'>malaria</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>explored</otmi:vector>
+              <otmi:vector count='1'>children</otmi:vector>
+              <otmi:vector count='1'>Proteins</otmi:vector>
+              <otmi:vector count='1'>fragment</otmi:vector>
+              <otmi:vector count='1'>side-blotched</otmi:vector>
+              <otmi:vector count='1'>Neuron</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>south</otmi:vector>
+              <otmi:vector count='1'>relay</otmi:vector>
+              <otmi:vector count='1'>Alaska</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>doi:10.1084</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>blue</otmi:vector>
+              <otmi:vector count='1'>Mice</otmi:vector>
+              <otmi:vector count='1'>northern</otmi:vector>
+              <otmi:vector count='1'>Illinois</otmi:vector>
+              <otmi:vector count='1'>myelinating</otmi:vector>
+              <otmi:vector count='1'>deleted</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>eruptions</otmi:vector>
+              <otmi:vector count='1'>Electrical</otmi:vector>
+              <otmi:vector count='1'>neutrino</otmi:vector>
+              <otmi:vector count='1'>hypothesis</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>distant</otmi:vector>
+              <otmi:vector count='1'>Kenyon&apos;s</otmi:vector>
+              <otmi:vector count='1'>intriguing</otmi:vector>
+              <otmi:vector count='1'>opsin</otmi:vector>
+              <otmi:vector count='1'>parasite</otmi:vector>
+              <otmi:vector count='1'>Leishmania</otmi:vector>
+              <otmi:vector count='1'>self</otmi:vector>
+              <otmi:vector count='1'>internal</otmi:vector>
+              <otmi:vector count='1'>experiments</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>discriminate</otmi:vector>
+              <otmi:vector count='1'>blood-vessel</otmi:vector>
+              <otmi:vector count='1'>Neurobiology</otmi:vector>
+              <otmi:vector count='1'>responses</otmi:vector>
+              <otmi:vector count='1'>Yau</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>generated</otmi:vector>
+              <otmi:vector count='1'>accelerate</otmi:vector>
+              <otmi:vector count='1'>Health</otmi:vector>
+              <otmi:vector count='1'>green</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>thousands</otmi:vector>
+              <otmi:vector count='1'>composition</otmi:vector>
+              <otmi:vector count='1'>industrial</otmi:vector>
+              <otmi:vector count='1'>Biochemistry</otmi:vector>
+              <otmi:vector count='1'>play</otmi:vector>
+              <otmi:vector count='1'>Narrowing</otmi:vector>
+              <otmi:vector count='1'>influencing</otmi:vector>
+              <otmi:vector count='1'>disaster</otmi:vector>
+              <otmi:vector count='1'>chains</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>Surprisingly</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>spotlight</otmi:vector>
+              <otmi:vector count='1'>diseases</otmi:vector>
+              <otmi:vector count='1'>machinery</otmi:vector>
+              <otmi:vector count='1'>These</otmi:vector>
+              <otmi:vector count='1'>Texas</otmi:vector>
+              <otmi:vector count='1'>Sterile</otmi:vector>
+              <otmi:vector count='1'>Under</otmi:vector>
+              <otmi:vector count='1'>site</otmi:vector>
+              <otmi:vector count='1'>Urbana-Champaign</otmi:vector>
+              <otmi:vector count='1'>nematode</otmi:vector>
+              <otmi:vector count='1'>Phillips</otmi:vector>
+              <otmi:vector count='1'>demonstrate</otmi:vector>
+              <otmi:vector count='1'>mammals</otmi:vector>
+              <otmi:vector count='1'>identifies</otmi:vector>
+              <otmi:vector count='1'>denatured</otmi:vector>
+              <otmi:vector count='1'>astrocytes</otmi:vector>
+              <otmi:vector count='1'>regulated</otmi:vector>
+              <otmi:vector count='1'>spot</otmi:vector>
+              <otmi:vector count='1'>implications</otmi:vector>
+              <otmi:vector count='1'>year</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>Once</otmi:vector>
+              <otmi:vector count='1'>Med</otmi:vector>
+              <otmi:vector count='1'>retain</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>pyroclastic</otmi:vector>
+              <otmi:vector count='1'>nuclear</otmi:vector>
+              <otmi:vector count='1'>secrete</otmi:vector>
+              <otmi:vector count='1'>myelin-forming</otmi:vector>
+              <otmi:vector count='1'>complicating</otmi:vector>
+              <otmi:vector count='1'>mouse</otmi:vector>
+              <otmi:vector count='1'>pulsars</otmi:vector>
+              <otmi:vector count='1'>flowers</otmi:vector>
+              <otmi:vector count='1'>bear</otmi:vector>
+              <otmi:vector count='1'>worms</otmi:vector>
+              <otmi:vector count='1'>genetic</otmi:vector>
+              <otmi:vector count='1'>Wild</otmi:vector>
+              <otmi:vector count='1'>worm</otmi:vector>
+              <otmi:vector count='1'>1055–1068</otmi:vector>
+              <otmi:vector count='1'>channels</otmi:vector>
+              <otmi:vector count='1'>deposit</otmi:vector>
+              <otmi:vector count='1'>trying</otmi:vector>
+              <otmi:vector count='1'>engage</otmi:vector>
+              <otmi:vector count='1'>Johns</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>shaped</otmi:vector>
+              <otmi:vector count='1'>favourable</otmi:vector>
+              <otmi:vector count='1'>rods</otmi:vector>
+              <otmi:vector count='1'>sources</otmi:vector>
+              <otmi:vector count='1'>parents</otmi:vector>
+              <otmi:vector count='1'>Max-Planck</otmi:vector>
+              <otmi:vector count='1'>Science</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>Blowing</otmi:vector>
+              <otmi:vector count='1'>operate</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>duty</otmi:vector>
+              <otmi:vector count='1'>survives</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>Curr</otmi:vector>
+              <otmi:vector count='1'>Evol</otmi:vector>
+              <otmi:vector count='1'>3144–3145</otmi:vector>
+              <otmi:vector count='1'>Douglas</otmi:vector>
+              <otmi:vector count='1'>large</otmi:vector>
+              <otmi:vector count='1'>cold</otmi:vector>
+              <otmi:vector count='1'>antigens</otmi:vector>
+              <otmi:vector count='1'>Genentech</otmi:vector>
+              <otmi:vector count='1'>Immunology</otmi:vector>
+              <otmi:vector count='1'>Biermann</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>act</otmi:vector>
+              <otmi:vector count='1'>Volcanoes</otmi:vector>
+              <otmi:vector count='1'>South</otmi:vector>
+              <otmi:vector count='1'>128</otmi:vector>
+              <otmi:vector count='1'>raising</otmi:vector>
+              <otmi:vector count='1'>York</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>something</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>reproduction</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>signal</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>turn</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>endothermy</otmi:vector>
+              <otmi:vector count='1'>extreme</otmi:vector>
+              <otmi:vector count='1'>life</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>seasons</otmi:vector>
+              <otmi:vector count='1'>gliomas</otmi:vector>
+              <otmi:vector count='1'>essentially</otmi:vector>
+              <otmi:vector count='1'>vaccines</otmi:vector>
+              <otmi:vector count='1'>Diseases</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>Child</otmi:vector>
+              <otmi:vector count='1'>ambient</otmi:vector>
+              <otmi:vector count='1'>ectotherms</otmi:vector>
+              <otmi:vector count='1'>marvellous</otmi:vector>
+              <otmi:vector count='1'>flows</otmi:vector>
+              <otmi:vector count='1'>unexpectedly</otmi:vector>
+              <otmi:vector count='1'>unusual</otmi:vector>
+              <otmi:vector count='1'>upstream</otmi:vector>
+              <otmi:vector count='1'>eggs</otmi:vector>
+              <otmi:vector count='1'>electrostatic</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>cool</otmi:vector>
+              <otmi:vector count='1'>autoimmunity</otmi:vector>
+              <otmi:vector count='1'>extracellular</otmi:vector>
+              <otmi:vector count='1'>supernovae</otmi:vector>
+              <otmi:vector count='1'>survive</otmi:vector>
+              <otmi:vector count='1'>palaeontologist</otmi:vector>
+              <otmi:vector count='1'>instability</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>rufous</otmi:vector>
+              <otmi:vector count='1'>Pinaki</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>newly</otmi:vector>
+              <otmi:vector count='1'>L05313</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>Regulators</otmi:vector>
+              <otmi:vector count='1'>version</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>me</otmi:vector>
+              <otmi:vector count='1'>bones</otmi:vector>
+              <otmi:vector count='1'>mutations</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>Circle</otmi:vector>
+              <otmi:vector count='1'>ectothermy</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>Exp</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>incurable</otmi:vector>
+              <otmi:vector count='1'>moves</otmi:vector>
+              <otmi:vector count='1'>propose</otmi:vector>
+              <otmi:vector count='1'>36</otmi:vector>
+              <otmi:vector count='1'>cohort</otmi:vector>
+              <otmi:vector count='1'>decouple</otmi:vector>
+              <otmi:vector count='1'>Syst</otmi:vector>
+              <otmi:vector count='1'>Annu</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>prognosis</otmi:vector>
+              <otmi:vector count='1'>feeding</otmi:vector>
+              <otmi:vector count='1'>stay</otmi:vector>
+              <otmi:vector count='1'>damaging</otmi:vector>
+              <otmi:vector count='1'>extends</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>life.</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>north</otmi:vector>
+              <otmi:vector count='1'>environments</otmi:vector>
+              <otmi:vector count='1'>today</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>stimulation</otmi:vector>
+              <otmi:vector count='1'>birds</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>512–515</otmi:vector>
+              <otmi:vector count='1'>Biology</otmi:vector>
+              <otmi:vector count='1'>cones</otmi:vector>
+              <otmi:vector count='1'>Italy</otmi:vector>
+              <otmi:vector count='1'>311</otmi:vector>
+              <otmi:vector count='1'>decay</otmi:vector>
+              <otmi:vector count='1'>ancestral</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>arteries</otmi:vector>
+              <otmi:vector count='1'>33</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>Hopkins</otmi:vector>
+              <otmi:vector count='1'>kilometres</otmi:vector>
+              <otmi:vector count='1'>troubling</otmi:vector>
+              <otmi:vector count='1'>folded</otmi:vector>
+              <otmi:vector count='1'>ejected</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>acquisition</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>gave</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>reveals</otmi:vector>
+              <otmi:vector count='1'>trend</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>robust</otmi:vector>
+              <otmi:vector count='1'>Human</otmi:vector>
+              <otmi:vector count='1'>patients</otmi:vector>
+              <otmi:vector count='1'>common</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>Stony</otmi:vector>
+              <otmi:vector count='1'>Yasmine</otmi:vector>
+              <otmi:vector count='1'>Germany</otmi:vector>
+              <otmi:vector count='1'>double</otmi:vector>
+              <otmi:vector count='1'>UK</otmi:vector>
+              <otmi:vector count='1'>notion</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>growth</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>ectothermic</otmi:vector>
+              <otmi:vector count='1'>pictured</otmi:vector>
+              <otmi:vector count='1'>Soc</otmi:vector>
+              <otmi:vector count='1'>mechanisms</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>Alexander</otmi:vector>
+              <otmi:vector count='1'>quest</otmi:vector>
+              <otmi:vector count='1'>usher</otmi:vector>
+              <otmi:vector count='1'>dead</otmi:vector>
+              <otmi:vector count='1'>microbe</otmi:vector>
+              <otmi:vector count='1'>aggressive</otmi:vector>
+              <otmi:vector count='1'>convey</otmi:vector>
+              <otmi:vector count='1'>evolution</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>layer</otmi:vector>
+              <otmi:vector count='1'>Chakraborty</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>suppressed</otmi:vector>
+              <otmi:vector count='1'>withstand</otmi:vector>
+              <otmi:vector count='1'>dinosaur</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A study of the 2002 Reventador eruption, 100 kilometres from Quito, Ecuador, found an unusual composition of steam and cool ash in the plume</otmi:snippet>
+              <otmi:snippet>Activating different signalling pathways that are crucial for controlling normal brain development gave rise to varied subtypes of HGGs — each with its own prognosis and disease progression, the researchers found</otmi:snippet>
+              <otmi:snippet>Am</otmi:snippet>
+              <otmi:snippet>And in the early Universe, X-rays from their decay might accelerate star formation</otmi:snippet>
+              <otmi:snippet>And our work suggests that the animals lived in the Arctic all year round</otmi:snippet>
+              <otmi:snippet>Another (DAF-12) seems to operate upstream as a nuclear hormone receptor that responds to a hormone produced by the third protein (DAF-9)</otmi:snippet>
+              <otmi:snippet>Arctic dinosaurs may have starved during the winter and reproduced during the short summer</otmi:snippet>
+              <otmi:snippet>Astrophysics: Turn them on, dead neutrino Phys</otmi:snippet>
+              <otmi:snippet>Biochemistry: Take the heat J</otmi:snippet>
+              <otmi:snippet>Biol. 16, 512–515 (2006) Wild hummingbirds can remember precisely where and when to find their food, a new study suggests</otmi:snippet>
+              <otmi:snippet>Biology: Timing is everything Curr</otmi:snippet>
+              <otmi:snippet>But how do the cells in the gonad relay signals to the gut? Kenyon&apos;s team now identifies three proteins that could be responsible</otmi:snippet>
+              <otmi:snippet>Cancer: Deadly decisions Cancer Cell 9, 157–173 (2006) High-grade gliomas (HGGs), a particularly aggressive type of brain tumour, are essentially incurable and kill most patients within months</otmi:snippet>
+              <otmi:snippet>Cell biology: High pressure Cell 124, 929–942 (2006) Narrowing of the arteries causes high blood pressure, a very common condition whose molecular basis is poorly understood</otmi:snippet>
+              <otmi:snippet>Chem</otmi:snippet>
+              <otmi:snippet>Cynthia Kenyon of the University of California, San Francisco, and her colleagues previously found that removing the cells that produce sperm and eggs extends lifespan</otmi:snippet>
+              <otmi:snippet>Ecol</otmi:snippet>
+              <otmi:snippet>Electrical stimulation triggers nerve fibres to release ATP, which serves as an important signal for myelin to form</otmi:snippet>
+              <otmi:snippet>Emilin1 reduces levels of TGF-β by interacting with the molecule proTGF-β, from which TGF-β is normally generated</otmi:snippet>
+              <otmi:snippet>Evol</otmi:snippet>
+              <otmi:snippet>Evolution: Under the spotlight Science 311, 1617–1621 (2006) The molecular components of the lizard&apos;s third, or parietal, eye — a light-sensitive spot thought to sense changing light conditions — reveals something about how light detection evolved in the two familiar vertebrate eyes</otmi:snippet>
+              <otmi:snippet>Exp</otmi:snippet>
+              <otmi:snippet>Fiorillo Dallas Museum of Natural History, Texas This palaeontologist uses lizards from down south to make sense of dinosaurs up north</otmi:snippet>
+              <otmi:snippet>For example, sterile neutrinos ejected from supernovae could kickstart the fast-spinning stars known as pulsars</otmi:snippet>
+              <otmi:snippet>Genetics: A gut sense of ageing Cell 124, 1055–1068 (2006) Regulators of lifespan that convey signals from the gonad to the gut have been identified in genetic studies in the nematode worm Caenorhabditis elegans </otmi:snippet>
+              <otmi:snippet>He argues that the ability of reptiles to decouple the time of energy acquisition (feeding) and energy expenditure (reproduction) helps them adapt to different environments</otmi:snippet>
+              <otmi:snippet>High above the Arctic Circle in northern Alaska, I have been working with a team that has excavated thousands of dinosaur bones</otmi:snippet>
+              <otmi:snippet>How might they be made more robust? Daniel Raleigh and his colleagues at the State University of New York at Stony Brook suggest that, instead of trying to stabilize the folded protein, one might aim to destabilize the unfolded, or denatured, state</otmi:snippet>
+              <otmi:snippet>However, endotherms typically need an insulating layer of fur or feathers to stay warm. (This is why parents engage in endless battles with their children over the need to wear a coat in the cold.) Some other creatures, such as reptiles, are ectotherms — meaning they use ambient thermal sources to regulate body temperature</otmi:snippet>
+              <otmi:snippet>Immunology: Not-so-innocent bystander J</otmi:snippet>
+              <otmi:snippet>In a recent article, Richard Shine of the University of Sydney in Australia explored how ectothermy may have shaped the evolution of reptiles&apos; life history (R</otmi:snippet>
+              <otmi:snippet>In tests, rufous hummingbirds ( Selasphorus rufus ) learned to distinguish between a set of four flowers that were refilled with sugar solution 10 minutes after being emptied, and another set of four that were refilled 20 minutes after being emptied</otmi:snippet>
+              <otmi:snippet>In these worms, a FOXO-family transcription factor moves into the nucleus of gut cells</otmi:snippet>
+              <otmi:snippet>Interestingly, the subtypes of tumours have gene-expression profiles of cells at various stages of development</otmi:snippet>
+              <otmi:snippet>It acted on astrocytes, causing them to secrete a regulatory protein known as LIF, which in turn promoted the myelinating activity of oligodendrocytes</otmi:snippet>
+              <otmi:snippet>It allows reptiles, for example, to withstand months of starvation</otmi:snippet>
+              <otmi:snippet>Journal club Anthony R</otmi:snippet>
+              <otmi:snippet>Laboratory experiments indicate that some animals can learn short time intervals between feedings</otmi:snippet>
+              <otmi:snippet>Lett. 33, L05313 (2006) A newly identified type of ash-laden plume from volcanic eruptions may cause distant destruction, raising troubling issues for disaster planning</otmi:snippet>
+              <otmi:snippet>Lett. 96, 091301 (2006) Sterile neutrinos — neutrinos that do not easily interact with others — could account for most of the Universe&apos;s &quot;dark matter&quot;, according to a hypothesis by Peter Biermann of the Max-Planck Institute for Radioastronomy in Bonn, Germany, and Alexander Kusenko of the University of California, Los Angeles</otmi:snippet>
+              <otmi:snippet>Med. doi:10.1084/jem.20052056 (2006) Once thought to have only a role in autoimmunity, natural regulatory T cells do double duty by influencing immune responses to both self and foreign antigens, researchers have found</otmi:snippet>
+              <otmi:snippet>Mice whose Emilin1 genes were deleted had high blood pressure</otmi:snippet>
+              <otmi:snippet>Neurobiology: Astrocytes&apos; star role Neuron 49, 823–832 (2006) Astrocytes, the star-shaped glial cells in the brain, help stimulate formation of the insulating myelin sheath around nerve fibres, according to a study led by Douglas Fields at the National Institute of Child Health and Human Development in Bethesda, Maryland</otmi:snippet>
+              <otmi:snippet>Now Heidi Phillips at Genentech in South San Francisco, California, and her colleagues have identified genome-wide expression profiles and signalling pathways for a large cohort of HGGs, which may lead to more effective therapies for the disease</otmi:snippet>
+              <otmi:snippet>One (KRI-1) may help to usher the transcription factor into the nucleus</otmi:snippet>
+              <otmi:snippet>Pinaki Chakraborty and his colleagues from the University of Illinois in Urbana-Champaign suggest that the scallop-shaped plume (pictured) of the Reventador eruption was caused by fluid instability from the negative buoyancy of plume materials</otmi:snippet>
+              <otmi:snippet>Proteins similar to all three of these factors have been identified in mammals</otmi:snippet>
+              <otmi:snippet>Regulation of this effect could lead to improved vaccines for diseases such as cancer, AIDS and malaria, where these cells have been found to play a part</otmi:snippet>
+              <otmi:snippet>Res</otmi:snippet>
+              <otmi:snippet>Researchers in Italy now demonstrate an intriguing interaction between the signalling molecule TGF-β — which is critical for blood-vessel development and blood-pressure control — and Emilin1, a protein secreted by the extracellular matrix</otmi:snippet>
+              <otmi:snippet>Rev</otmi:snippet>
+              <otmi:snippet>Rev</otmi:snippet>
+              <otmi:snippet>Shine Annu</otmi:snippet>
+              <otmi:snippet>Soc. 128, 3144–3145 (2006) Most proteins don&apos;t like heat, a fact that can hinder their use in biotechnology and industrial chemistry</otmi:snippet>
+              <otmi:snippet>Surprisingly, the researchers showed that the ATP did not directly act on the myelin-forming cells in the central nervous system, known as oligodendrocytes</otmi:snippet>
+              <otmi:snippet>Syst. 36, 23–46; 2005)</otmi:snippet>
+              <otmi:snippet>The authors show that sterile neutrinos, each with a mass of a few kilo-electron-volts, could explain some other odd features of the Universe</otmi:snippet>
+              <otmi:snippet>The birds&apos; timing ability is more detailed than previously thought, the researchers write</otmi:snippet>
+              <otmi:snippet>The climate then was much warmer than it is today, but the dinosaurs still had to contend with long, dark winter seasons</otmi:snippet>
+              <otmi:snippet>The new work, from Susan Healy of the University of Edinburgh, UK, and her colleagues, supports the notion that wild animals can do the same — specifically in their quest to find nectar</otmi:snippet>
+              <otmi:snippet>The plume could then unexpectedly deposit damaging pyroclastic ash flows far from the volcano</otmi:snippet>
+              <otmi:snippet>The researchers show that the two proteins use different intermediary G proteins to respectively close and open ion channels in the cell</otmi:snippet>
+              <otmi:snippet>The trend is to think that dinosaurs were endotherms, but perhaps they were reptiles — extreme examples of the ectothermic approach to life.</otmi:snippet>
+              <otmi:snippet>These cells also contribute to the bystander effect, in which other immune cells in the area are suppressed, thus complicating infection control</otmi:snippet>
+              <otmi:snippet>They found that natural regulatory T cells replicated rapidly at the primary infection site and attacked the microbe but not the mouse</otmi:snippet>
+              <otmi:snippet>They introduced into the protein fragment NTL9 two mutations that were predicted to discriminate against the unfolded state: one cuts out a favourable electrostatic interaction, and the other lowers the entropy</otmi:snippet>
+              <otmi:snippet>This ability, known as endothermy, is a marvellous thing</otmi:snippet>
+              <otmi:snippet>This intrigued me because it might bear on my own research</otmi:snippet>
+              <otmi:snippet>This light-detection machinery may retain more features from ancestral vertebrates than is seen in the rods and cones of modern vertebrate eyes, the authors propose</otmi:snippet>
+              <otmi:snippet>This mechanism of TGF-β regulation is novel and may have more general implications, as TGF-β is involved in many other pathological processes including cancer</otmi:snippet>
+              <otmi:snippet>This suggests that tumour growth might be regulated by mechanisms that regulate cell-fate decisions during neurogenesis</otmi:snippet>
+              <otmi:snippet>Volcanoes: Blowing its top Geophys</otmi:snippet>
+              <otmi:snippet>Warm them up and their chains tend to unfold</otmi:snippet>
+              <otmi:snippet>We don&apos;t think they had fur and it is unclear which dinosaurs had feathers, so how did they survive? The decoupling of energy flow could be the key</otmi:snippet>
+              <otmi:snippet>We, as humans, can regulate our body temperature through internal means</otmi:snippet>
+              <otmi:snippet>Whereas pristine NTL9 is already partly unfolded in a urea solution at room temperature, the double-mutant version survives at least up to 60 °C</otmi:snippet>
+              <otmi:snippet>Working with side-blotched lizards ( Uta stansburiana ), Chih-Ying Su and King-Wai Yau of the Johns Hopkins University in Baltimore, Maryland, and their colleagues identified one opsin protein most sensitive to blue light, and another most sensitive to green light, in the same cells of the third eye</otmi:snippet>
+              <otmi:snippet>Yasmine Belkaid, of the National Institute of Allergy and Infectious Diseases in Bethesda, Maryland, and her colleagues infected mice with the parasite Leishmania major </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

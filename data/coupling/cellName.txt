@@ -1,0 +1,15 @@
+293 cells
+brain
+caudate
+COS-7 cells
+GH4C1 cells
+NG108-15 cells
+nucleus accumbens
+olfactory tubercle
+phospholipid vesicles
+pituitary
+retina
+Sf21 cells
+Sf21 insect cells
+striatal
+transfected cell lines

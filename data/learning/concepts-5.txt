@@ -1,0 +1,2 @@
+SHC transforming protein 1|SH2 domain protein C1|Src homology 2 domain containing transforming protein C1|shc FRS-2|wt-shc|SHC1
+platelet derived growth factor receptor|PDGA.PDGR|PDGFR|Beta platelet-derived growth factor receptor precursor|PDGF-R-beta

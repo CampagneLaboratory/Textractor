@@ -1,0 +1,4 @@
+
+This is a test. <term>E-cadherin</term> is a protein. It can bind to <term>-catenin</term>. The extracellular domain of <term>E-cadherin</term> can be cleaved by Y. It does not matter what Y is, since I only care about <term>E-cadherin</term>. Furthermore, this <term>cleavage</term> releases the cytoplasmic <term>E-cadherin</term> to the cytosol and increases the levels of soluble Z and -catenins. 
+
+ Mass spectrometry analysis of <term>E-Cad/CTF1</term> showed no peptides upstream of the <term>cleavage</term> site that was determined by Edman sequencing (not shown). Thus, the 38 kDa <term>E-Cad/CTF1</term> is produced by an MMP <term>cleavage</term> after <term>E-cadherin</term> residue Pro700.

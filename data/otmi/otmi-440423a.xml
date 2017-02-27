@@ -1,0 +1,370 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Boning up on dinosaurs</title>
+      <id>info:doi/10.1038/440423a</id>
+      <link href='http://dx.doi.org/10.1038/440423a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>423</prism:startingPage>
+      <prism:endingPage>423</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='14'>bone</otmi:vector>
+              <otmi:vector count='10'>growth</otmi:vector>
+              <otmi:vector count='8'>her</otmi:vector>
+              <otmi:vector count='8'>microstructure</otmi:vector>
+              <otmi:vector count='7'>dinosaurs</otmi:vector>
+              <otmi:vector count='6'>dinosaur</otmi:vector>
+              <otmi:vector count='6'>Chinsamy-Turan</otmi:vector>
+              <otmi:vector count='6'>she</otmi:vector>
+              <otmi:vector count='5'>at</otmi:vector>
+              <otmi:vector count='5'>studies</otmi:vector>
+              <otmi:vector count='5'>book</otmi:vector>
+              <otmi:vector count='5'>these</otmi:vector>
+              <otmi:vector count='4'>patterns</otmi:vector>
+              <otmi:vector count='4'>whether</otmi:vector>
+              <otmi:vector count='4'>birds</otmi:vector>
+              <otmi:vector count='4'>different</otmi:vector>
+              <otmi:vector count='3'>rates</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='3'>fossil</otmi:vector>
+              <otmi:vector count='3'>bones</otmi:vector>
+              <otmi:vector count='3'>understanding</otmi:vector>
+              <otmi:vector count='3'>biology</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>how</otmi:vector>
+              <otmi:vector count='3'>skeletal</otmi:vector>
+              <otmi:vector count='3'>reptiles</otmi:vector>
+              <otmi:vector count='3'>even</otmi:vector>
+              <otmi:vector count='3'>animals</otmi:vector>
+              <otmi:vector count='2'>vertebrates</otmi:vector>
+              <otmi:vector count='2'>dynamics</otmi:vector>
+              <otmi:vector count='2'>histology</otmi:vector>
+              <otmi:vector count='2'>living</otmi:vector>
+              <otmi:vector count='2'>mammals</otmi:vector>
+              <otmi:vector count='2'>review</otmi:vector>
+              <otmi:vector count='2'>physiology</otmi:vector>
+              <otmi:vector count='2'>Chinsamy-Turan&apos;s</otmi:vector>
+              <otmi:vector count='2'>Mesozoic</otmi:vector>
+              <otmi:vector count='2'>formation</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>disagreement</otmi:vector>
+              <otmi:vector count='2'>types</otmi:vector>
+              <otmi:vector count='2'>rate</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>agree</otmi:vector>
+              <otmi:vector count='2'>inferring</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>extinct</otmi:vector>
+              <otmi:vector count='2'>some</otmi:vector>
+              <otmi:vector count='2'>strategies</otmi:vector>
+              <otmi:vector count='2'>half</otmi:vector>
+              <otmi:vector count='2'>history</otmi:vector>
+              <otmi:vector count='2'>confidently</otmi:vector>
+              <otmi:vector count='2'>but</otmi:vector>
+              <otmi:vector count='2'>non-avian</otmi:vector>
+              <otmi:vector count='2'>conclusions</otmi:vector>
+              <otmi:vector count='2'>warm-bloodedness</otmi:vector>
+              <otmi:vector count='2'>including</otmi:vector>
+              <otmi:vector count='2'>warm-blooded</otmi:vector>
+              <otmi:vector count='2'>aspects</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>number</otmi:vector>
+              <otmi:vector count='2'>dinosaur-bone</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>either</otmi:vector>
+              <otmi:vector count='2'>views</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>us</otmi:vector>
+              <otmi:vector count='2'>tissue</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>palaeontology</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>evolution</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>changes</otmi:vector>
+              <otmi:vector count='1'>mentors</otmi:vector>
+              <otmi:vector count='1'>began</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>Microstructure</otmi:vector>
+              <otmi:vector count='1'>Fortunately</otmi:vector>
+              <otmi:vector count='1'>Dinosaur</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>video-game</otmi:vector>
+              <otmi:vector count='1'>discusses</otmi:vector>
+              <otmi:vector count='1'>ornithurines</otmi:vector>
+              <otmi:vector count='1'>widespread</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>preserved</otmi:vector>
+              <otmi:vector count='1'>complexity</otmi:vector>
+              <otmi:vector count='1'>advancing</otmi:vector>
+              <otmi:vector count='1'>clues</otmi:vector>
+              <otmi:vector count='1'>basics</otmi:vector>
+              <otmi:vector count='1'>line</otmi:vector>
+              <otmi:vector count='1'>Thanks</otmi:vector>
+              <otmi:vector count='1'>updated</otmi:vector>
+              <otmi:vector count='1'>correlated</otmi:vector>
+              <otmi:vector count='1'>rapid</otmi:vector>
+              <otmi:vector count='1'>inference</otmi:vector>
+              <otmi:vector count='1'>arena</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>conjectural</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>topics</otmi:vector>
+              <otmi:vector count='1'>greatly</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>author&apos;s</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>tour</otmi:vector>
+              <otmi:vector count='1'>interested</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>Anusuya</otmi:vector>
+              <otmi:vector count='1'>draw</otmi:vector>
+              <otmi:vector count='1'>Studies</otmi:vector>
+              <otmi:vector count='1'>bone-tissue</otmi:vector>
+              <otmi:vector count='1'>significance</otmi:vector>
+              <otmi:vector count='1'>covers</otmi:vector>
+              <otmi:vector count='1'>source</otmi:vector>
+              <otmi:vector count='1'>ecological</otmi:vector>
+              <otmi:vector count='1'>morphological</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>akin</otmi:vector>
+              <otmi:vector count='1'>fundamentals</otmi:vector>
+              <otmi:vector count='1'>Throughout</otmi:vector>
+              <otmi:vector count='1'>histological</otmi:vector>
+              <otmi:vector count='1'>tell</otmi:vector>
+              <otmi:vector count='1'>death</otmi:vector>
+              <otmi:vector count='1'>resolute</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>viewed</otmi:vector>
+              <otmi:vector count='1'>surprisingly</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>reach</otmi:vector>
+              <otmi:vector count='1'>substantiated</otmi:vector>
+              <otmi:vector count='1'>characters</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>glass</otmi:vector>
+              <otmi:vector count='1'>deep</otmi:vector>
+              <otmi:vector count='1'>gives</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>descendants</otmi:vector>
+              <otmi:vector count='1'>reached</otmi:vector>
+              <otmi:vector count='1'>grew</otmi:vector>
+              <otmi:vector count='1'>extensive</otmi:vector>
+              <otmi:vector count='1'>highlights</otmi:vector>
+              <otmi:vector count='1'>largest</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>decades</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>connection</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>divergence</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>opposing</otmi:vector>
+              <otmi:vector count='1'>palaeontological</otmi:vector>
+              <otmi:vector count='1'>infer</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>definitive</otmi:vector>
+              <otmi:vector count='1'>vessels</otmi:vector>
+              <otmi:vector count='1'>behemoths</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>field</otmi:vector>
+              <otmi:vector count='1'>fascinating</otmi:vector>
+              <otmi:vector count='1'>host</otmi:vector>
+              <otmi:vector count='1'>numerous</otmi:vector>
+              <otmi:vector count='1'>biomechanics</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>tissues</otmi:vector>
+              <otmi:vector count='1'>ontogenetic</otmi:vector>
+              <otmi:vector count='1'>explains</otmi:vector>
+              <otmi:vector count='1'>de</otmi:vector>
+              <otmi:vector count='1'>anybody</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>ecology</otmi:vector>
+              <otmi:vector count='1'>reports</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>planet.</otmi:vector>
+              <otmi:vector count='1'>phylogenetic</otmi:vector>
+              <otmi:vector count='1'>work</otmi:vector>
+              <otmi:vector count='1'>faster</otmi:vector>
+              <otmi:vector count='1'>readers</otmi:vector>
+              <otmi:vector count='1'>creation</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>television</otmi:vector>
+              <otmi:vector count='1'>biomechanical</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>defending</otmi:vector>
+              <otmi:vector count='1'>strong</otmi:vector>
+              <otmi:vector count='1'>book-length</otmi:vector>
+              <otmi:vector count='1'>warn</otmi:vector>
+              <otmi:vector count='1'>synopsis</otmi:vector>
+              <otmi:vector count='1'>contenders</otmi:vector>
+              <otmi:vector count='1'>emphasis</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>adult</otmi:vector>
+              <otmi:vector count='1'>Next</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>scientific</otmi:vector>
+              <otmi:vector count='1'>wisely</otmi:vector>
+              <otmi:vector count='1'>Particularly</otmi:vector>
+              <otmi:vector count='1'>delves</otmi:vector>
+              <otmi:vector count='1'>150</otmi:vector>
+              <otmi:vector count='1'>empty</otmi:vector>
+              <otmi:vector count='1'>She</otmi:vector>
+              <otmi:vector count='1'>extant</otmi:vector>
+              <otmi:vector count='1'>examines</otmi:vector>
+              <otmi:vector count='1'>rings</otmi:vector>
+              <otmi:vector count='1'>contexts</otmi:vector>
+              <otmi:vector count='1'>feels</otmi:vector>
+              <otmi:vector count='1'>fossilization</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>looks</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>diverse</otmi:vector>
+              <otmi:vector count='1'>substantially</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>caveats</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>endorsement</otmi:vector>
+              <otmi:vector count='1'>learned</otmi:vector>
+              <otmi:vector count='1'>colleagues</otmi:vector>
+              <otmi:vector count='1'>draws</otmi:vector>
+              <otmi:vector count='1'>interruption</otmi:vector>
+              <otmi:vector count='1'>discussion</otmi:vector>
+              <otmi:vector count='1'>none</otmi:vector>
+              <otmi:vector count='1'>microstructural</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>resembled</otmi:vector>
+              <otmi:vector count='1'>heart</otmi:vector>
+              <otmi:vector count='1'>Ichthyornis</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>cannot</otmi:vector>
+              <otmi:vector count='1'>pre-modern</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>advises</otmi:vector>
+              <otmi:vector count='1'>frequently</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>watching</otmi:vector>
+              <otmi:vector count='1'>vertebrate</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>shortcomings</otmi:vector>
+              <otmi:vector count='1'>Bone</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>introducing</otmi:vector>
+              <otmi:vector count='1'>continuously</otmi:vector>
+              <otmi:vector count='1'>Then</otmi:vector>
+              <otmi:vector count='1'>brief</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>composition</otmi:vector>
+              <otmi:vector count='1'>origin</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>cold-blooded</otmi:vector>
+              <otmi:vector count='1'>perspectives</otmi:vector>
+              <otmi:vector count='1'>fast-growing</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>developmental</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>Hesperornis</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>researchers</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>turns</otmi:vector>
+              <otmi:vector count='1'>blood</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>varied</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>immediate</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>mainstream</otmi:vector>
+              <otmi:vector count='1'>force</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>took</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>must-read</otmi:vector>
+              <otmi:vector count='1'>linkage</otmi:vector>
+              <otmi:vector count='1'>Not</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>discipline</otmi:vector>
+              <otmi:vector count='1'>fossilized</otmi:vector>
+              <otmi:vector count='1'>Nowadays</otmi:vector>
+              <otmi:vector count='1'>tetrapods</otmi:vector>
+              <otmi:vector count='1'>inform</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>begins</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>sense</otmi:vector>
+              <otmi:vector count='1'>area</otmi:vector>
+              <otmi:vector count='1'>commercial</otmi:vector>
+              <otmi:vector count='1'>attention</otmi:vector>
+              <otmi:vector count='1'>greatest</otmi:vector>
+              <otmi:vector count='1'>vascularization</otmi:vector>
+              <otmi:vector count='1'>weakened</otmi:vector>
+              <otmi:vector count='1'>After</otmi:vector>
+              <otmi:vector count='1'>deposited</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>meaning</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>After that she turns her attention to dinosaurs, with a brief history of dinosaur-bone histology and a review of the diverse tissues found in their bones</otmi:snippet>
+              <otmi:snippet>Chinsamy-Turan begins by introducing a host of topics, including the basics of bone composition, histological studies, the changes that occur on death and fossilization, and dinosaur evolution and ecology</otmi:snippet>
+              <otmi:snippet>Chinsamy-Turan highlights how the bone microstructure of dinosaurs shows features that are either frequently found in non-avian reptiles or widespread among birds and mammals, but she wisely advises us not to draw definitive physiological conclusions from bone microstructure</otmi:snippet>
+              <otmi:snippet>Chinsamy-Turan is at her best when she discusses the microstructure of bone and its significance for understanding the biology of fossil vertebrates</otmi:snippet>
+              <otmi:snippet>Despite these shortcomings, Chinsamy-Turan&apos;s book is a tour de force that gives readers an updated synopsis of a fast-growing field of vertebrate palaeontology</otmi:snippet>
+              <otmi:snippet>Finally, she delves into dinosaur physiology to see if bone microstructure can tell us whether some, all or none of these animals were warm-blooded</otmi:snippet>
+              <otmi:snippet>Fortunately, however, the different contenders in the modern arena of dinosaur-bone microstructure agree on several fundamentals</otmi:snippet>
+              <otmi:snippet>However, her conclusions about the linkage between the origin of warm-bloodedness and the divergence of ornithurines (the group including Hesperornis , Ichthyornis and all living birds) are weakened by the endorsement of views that have a morphological and functional basis that is not clearly substantiated</otmi:snippet>
+              <otmi:snippet>It is perhaps her deep understanding of the complexity of skeletal growth that leads her continuously to warn against making a strong connection between the different types of tissue preserved in fossilized bones and either specific rates of bone formation or dinosaur physiology</otmi:snippet>
+              <otmi:snippet>Most researchers agree that rapid growth cannot be confidently correlated with warm-bloodedness, and most of the disagreement seems to be akin to whether a glass is viewed as half full or half empty</otmi:snippet>
+              <otmi:snippet>Next, she examines the biological meaning of bone microstructure</otmi:snippet>
+              <otmi:snippet>Not surprisingly, the area of greatest disagreement is the largely conjectural issue of whether, in a physiological sense, dinosaurs more closely resembled cold-blooded reptiles or warm-blooded birds and mammals</otmi:snippet>
+              <otmi:snippet>Nowadays, these studies are used to infer numerous aspects of dinosaur biology, from growth rates and physiological strategies to skeletal biomechanics and developmental patterns, and are even used as a source of new characters for phylogenetic inference</otmi:snippet>
+              <otmi:snippet>Particularly useful is the author&apos;s emphasis on the caveats for inferring some aspects of growth dynamics from fossil bones</otmi:snippet>
+              <otmi:snippet>She looks at bone-tissue dynamics (the rate at which it is deposited, and whether it occurs without interruption or with growth rings) and vascularization (the number of blood vessels), and explains how they can provide clues to the ontogenetic, biomechanical and ecological contexts of bone</otmi:snippet>
+              <otmi:snippet>Studies of the microstructure of dinosaur bone began soon after the first scientific reports of these Mesozoic behemoths, but it took nearly 150 years for this discipline to enter the mainstream of dinosaur palaeontology</otmi:snippet>
+              <otmi:snippet>Thanks to work by Chinsamy-Turan and her colleagues and mentors, we know that even if the growth strategies of dinosaurs varied greatly, these animals grew at rates substantially faster than extant non-avian reptiles (even the largest dinosaurs reached adult size in less than three decades)</otmi:snippet>
+              <otmi:snippet>The Microstructure of Dinosaur Bone by Anusuya Chinsamy-Turan is the first book-length review of this rapidly advancing line of palaeontological research</otmi:snippet>
+              <otmi:snippet>The book draws on Chinsamy-Turan&apos;s extensive studies of the bone microstructure of living tetrapods</otmi:snippet>
+              <otmi:snippet>The book is a must-read for anybody interested in the biology of one of the most fascinating animals in the history of our planet.</otmi:snippet>
+              <otmi:snippet>Then she covers a number of studies, mostly her own, on the bone histology of pre-modern, Mesozoic birds — dinosaurs&apos; most immediate descendants — and the important changes in growth patterns thought to have occurred during their evolution</otmi:snippet>
+              <otmi:snippet>Throughout the book, Chinsamy-Turan is resolute in defending her views from opposing perspectives; at times it feels like we are watching a television commercial for a video-game</otmi:snippet>
+              <otmi:snippet>We have also learned that the same rate of bone formation may lead to the creation of different types of bone tissue, and that growth series and data from different skeletal elements are critical for confidently inferring the growth patterns of extinct dinosaurs</otmi:snippet>
+              <otmi:snippet>We then reach the heart of the book, with a discussion of how microstructural studies of fossil bone inform our understanding of the growth patterns of extinct vertebrates</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,390 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Ecology Human role in Russian wild fires</title>
+      <id>info:doi/10.1038/440436a</id>
+      <link href='http://dx.doi.org/10.1038/440436a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Danilo Mollicone</name>
+      </author>
+      <author>
+        <name>Hugh D. Eva</name>
+      </author>
+      <author>
+        <name>Frédéric Achard</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>436</prism:startingPage>
+      <prism:endingPage>437</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Anomalies in temperature and precipitation in northern Russia over the past few years have been viewed as manifestations of anthropogenic climate change , prompting suggestions that this may also account for exceptional forest fires in the region . Here we examine the number of forest-fire events across the boreal Russian Federation for the period 2002 to 2005 in &quot;intact&quot; forests, where human influence is limited, and in &quot;non-intact&quot; forests, which have been shaped by human activity . Our results show that there were more fires in years during which the weather was anomalous, but that more than 87% of fires in boreal Russia were started by people.</otmi:rawtext>
+            <otmi:reducedtext>Anomalies temperature precipitation northern Russia over past few years have been viewed manifestations anthropogenic climate change , prompting suggestions may also account exceptional forest fires region . Here examine number forest-fire events across boreal Russian Federation period 2002 2005 &quot;intact&quot; forests, where human influence limited, &quot;non-intact&quot; forests, which have been shaped human activity . Our results show there more fires years during which weather anomalous, but more than 87% fires boreal Russia started people.</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='3'>fires</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>Russia</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>boreal</otmi:vector>
+              <otmi:vector count='2'>forests</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='1'>forest</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>account</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>shaped</otmi:vector>
+              <otmi:vector count='1'>influence</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>precipitation</otmi:vector>
+              <otmi:vector count='1'>activity</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>suggestions</otmi:vector>
+              <otmi:vector count='1'>past</otmi:vector>
+              <otmi:vector count='1'>started</otmi:vector>
+              <otmi:vector count='1'>anomalous</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>examine</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>Anomalies</otmi:vector>
+              <otmi:vector count='1'>forest-fire</otmi:vector>
+              <otmi:vector count='1'>anthropogenic</otmi:vector>
+              <otmi:vector count='1'>manifestations</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>non-intact</otmi:vector>
+              <otmi:vector count='1'>intact</otmi:vector>
+              <otmi:vector count='1'>Federation</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>2002</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>Russian</otmi:vector>
+              <otmi:vector count='1'>exceptional</otmi:vector>
+              <otmi:vector count='1'>prompting</otmi:vector>
+              <otmi:vector count='1'>viewed</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>people.</otmi:vector>
+              <otmi:vector count='1'>87</otmi:vector>
+              <otmi:vector count='1'>weather</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>temperature</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>northern</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Anomalies in temperature and precipitation in northern Russia over the past few years have been viewed as manifestations of anthropogenic climate change , prompting suggestions that this may also account for exceptional forest fires in the region </otmi:snippet>
+              <otmi:snippet>Here we examine the number of forest-fire events across the boreal Russian Federation for the period 2002 to 2005 in &quot;intact&quot; forests, where human influence is limited, and in &quot;non-intact&quot; forests, which have been shaped by human activity </otmi:snippet>
+              <otmi:snippet>Our results show that there were more fires in years during which the weather was anomalous, but that more than 87% of fires in boreal Russia were started by people.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='16'>forests</otmi:vector>
+              <otmi:vector count='15'>intact</otmi:vector>
+              <otmi:vector count='9'>fire</otmi:vector>
+              <otmi:vector count='9'>fires</otmi:vector>
+              <otmi:vector count='6'>areas</otmi:vector>
+              <otmi:vector count='5'>events</otmi:vector>
+              <otmi:vector count='5'>impact</otmi:vector>
+              <otmi:vector count='4'>humans</otmi:vector>
+              <otmi:vector count='4'>outside</otmi:vector>
+              <otmi:vector count='4'>human</otmi:vector>
+              <otmi:vector count='4'>climate</otmi:vector>
+              <otmi:vector count='4'>2002</otmi:vector>
+              <otmi:vector count='4'>these</otmi:vector>
+              <otmi:vector count='4'>inside</otmi:vector>
+              <otmi:vector count='3'>ref</otmi:vector>
+              <otmi:vector count='3'>more</otmi:vector>
+              <otmi:vector count='3'>million</otmi:vector>
+              <otmi:vector count='3'>forest</otmi:vector>
+              <otmi:vector count='3'>period</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>ha</otmi:vector>
+              <otmi:vector count='3'>anomalies</otmi:vector>
+              <otmi:vector count='3'>most-intact</otmi:vector>
+              <otmi:vector count='3'>boreal</otmi:vector>
+              <otmi:vector count='3'>individual</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>total</otmi:vector>
+              <otmi:vector count='2'>during</otmi:vector>
+              <otmi:vector count='2'>new</otmi:vector>
+              <otmi:vector count='2'>subset</otmi:vector>
+              <otmi:vector count='2'>Active</otmi:vector>
+              <otmi:vector count='2'>affected</otmi:vector>
+              <otmi:vector count='2'>density</otmi:vector>
+              <otmi:vector count='2'>normal</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>change</otmi:vector>
+              <otmi:vector count='2'>been</otmi:vector>
+              <otmi:vector count='2'>zone</otmi:vector>
+              <otmi:vector count='2'>ignition</otmi:vector>
+              <otmi:vector count='2'>2003</otmi:vector>
+              <otmi:vector count='2'>Siberia</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>satellite</otmi:vector>
+              <otmi:vector count='2'>Large</otmi:vector>
+              <otmi:vector count='2'>Russian</otmi:vector>
+              <otmi:vector count='2'>non-intact</otmi:vector>
+              <otmi:vector count='2'>atlas</otmi:vector>
+              <otmi:vector count='2'>combined</otmi:vector>
+              <otmi:vector count='2'>5</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>Russia</otmi:vector>
+              <otmi:vector count='2'>seasons</otmi:vector>
+              <otmi:vector count='2'>occurred</otmi:vector>
+              <otmi:vector count='2'>area</otmi:vector>
+              <otmi:vector count='2'>These</otmi:vector>
+              <otmi:vector count='1'>perimeter-to-area</otmi:vector>
+              <otmi:vector count='1'>multiplication</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>limited</otmi:vector>
+              <otmi:vector count='1'>ground</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>delineate</otmi:vector>
+              <otmi:vector count='1'>Three</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>85</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>wild</otmi:vector>
+              <otmi:vector count='1'>influence</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>map</otmi:vector>
+              <otmi:vector count='1'>Eurasia</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>database</otmi:vector>
+              <otmi:vector count='1'>fell</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>budget</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>largest</otmi:vector>
+              <otmi:vector count='1'>located</otmi:vector>
+              <otmi:vector count='1'>13</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>totals</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>policies</otmi:vector>
+              <otmi:vector count='1'>surprisingly</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>14.4</otmi:vector>
+              <otmi:vector count='1'>Eurasian</otmi:vector>
+              <otmi:vector count='1'>natural</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>14.5</otmi:vector>
+              <otmi:vector count='1'>land-cover</otmi:vector>
+              <otmi:vector count='1'>global</otmi:vector>
+              <otmi:vector count='1'>7.9</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>result</otmi:vector>
+              <otmi:vector count='1'>account</otmi:vector>
+              <otmi:vector count='1'>population</otmi:vector>
+              <otmi:vector count='1'>exist</otmi:vector>
+              <otmi:vector count='1'>Terra</otmi:vector>
+              <otmi:vector count='1'>boom</otmi:vector>
+              <otmi:vector count='1'>indicating</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>oil</otmi:vector>
+              <otmi:vector count='1'>twice</otmi:vector>
+              <otmi:vector count='1'>found</otmi:vector>
+              <otmi:vector count='1'>grouped</otmi:vector>
+              <otmi:vector count='1'>primarily</otmi:vector>
+              <otmi:vector count='1'>Age</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>1999–2000</otmi:vector>
+              <otmi:vector count='1'>Since</otmi:vector>
+              <otmi:vector count='1'>predominantly</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>seen</otmi:vector>
+              <otmi:vector count='1'>mitigation</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>Forest</otmi:vector>
+              <otmi:vector count='1'>locate</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>densities</otmi:vector>
+              <otmi:vector count='1'>maximum</otmi:vector>
+              <otmi:vector count='1'>particularly</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>temporally</otmi:vector>
+              <otmi:vector count='1'>Table</otmi:vector>
+              <otmi:vector count='1'>creation</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>climatic</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>perimeter</otmi:vector>
+              <otmi:vector count='1'>buffer</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>disturbance</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>induced</otmi:vector>
+              <otmi:vector count='1'>spatially</otmi:vector>
+              <otmi:vector count='1'>serious</otmi:vector>
+              <otmi:vector count='1'>7.5</otmi:vector>
+              <otmi:vector count='1'>Ice</otmi:vector>
+              <otmi:vector count='1'>derive</otmi:vector>
+              <otmi:vector count='1'>Russia&apos;s</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>disturbed</otmi:vector>
+              <otmi:vector count='1'>burned</otmi:vector>
+              <otmi:vector count='1'>205</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>supplementary</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>1,118</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>rest</otmi:vector>
+              <otmi:vector count='1'>results</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>propagation</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>starting</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>evidence</otmi:vector>
+              <otmi:vector count='1'>comprised</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>23,818</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>four-year</otmi:vector>
+              <otmi:vector count='1'>ineffectual</otmi:vector>
+              <otmi:vector count='1'>forest-fire</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>hectares</otmi:vector>
+              <otmi:vector count='1'>physical</otmi:vector>
+              <otmi:vector count='1'>region</otmi:vector>
+              <otmi:vector count='1'>policies.</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>ratios</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>10-km-wide</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>6.9</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>resulting</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>1998</otmi:vector>
+              <otmi:vector count='1'>covered</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>drawn</otmi:vector>
+              <otmi:vector count='1'>assumed</otmi:vector>
+              <otmi:vector count='1'>together</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>concurrent</otmi:vector>
+              <otmi:vector count='1'>likelihood</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>implications</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>control</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>following</otmi:vector>
+              <otmi:vector count='1'>ratio</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>During</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>socioeconomic</otmi:vector>
+              <otmi:vector count='1'>borders</otmi:vector>
+              <otmi:vector count='1'>assess</otmi:vector>
+              <otmi:vector count='1'>fire-management</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>attributed</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>started</otmi:vector>
+              <otmi:vector count='1'>selected</otmi:vector>
+              <otmi:vector count='1'>Federation</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>smallest</otmi:vector>
+              <otmi:vector count='1'>fire-event</otmi:vector>
+              <otmi:vector count='1'>landscapes</otmi:vector>
+              <otmi:vector count='1'>consequence</otmi:vector>
+              <otmi:vector count='1'>caused</otmi:vector>
+              <otmi:vector count='1'>biome</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>constant</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Active fires detected by the Terra satellite were used to derive our fire database for the period 2002 to 2005 ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Active fires that were spatially and temporally concurrent were then grouped together to identify individual fire events</otmi:snippet>
+              <otmi:snippet>But the human impact on the forests through fires is higher owing to lack of control, ineffectual fire-management policies and new socioeconomic conditions in the region </otmi:snippet>
+              <otmi:snippet>But, more surprisingly, density ratios of forest-fire events outside and inside most-intact forests are at least 7.9 and as high as 14.4 during the four-year study period</otmi:snippet>
+              <otmi:snippet>During seasons of climatic anomalies (2002 and 2003), fire-event densities in the most-intact forests were twice the normal density ( Table 1 )</otmi:snippet>
+              <otmi:snippet>Finally, fire events were attributed to the zone in which they started</otmi:snippet>
+              <otmi:snippet>Forest regions of boreal Eurasia, and particularly Siberia, have seen a reduction in population following the creation of the Russian Federation</otmi:snippet>
+              <otmi:snippet>In combination, this evidence points to a serious impact of climate change on Russian forests , although fires are considered to be caused predominantly by humans in &quot;normal&quot; years </otmi:snippet>
+              <otmi:snippet>It is also a consequence of the oil boom in Siberia </otmi:snippet>
+              <otmi:snippet>Large areas of intact forest still exist in Russia; it can be assumed that human influence on these areas is limited</otmi:snippet>
+              <otmi:snippet>Large climate anomalies occurred during this period that increased the likelihood of fire ignition and propagation</otmi:snippet>
+              <otmi:snippet>Since the last Ice Age, fire has been the main process that has disturbed the physical features of the boreal biome</otmi:snippet>
+              <otmi:snippet>The fact that recent increases in &quot;wild&quot; fires in Eurasian boreal forests are primarily a result of human behaviour on the ground has implications for the global carbon budget and should be taken into account in future mitigation policies.</otmi:snippet>
+              <otmi:snippet>The resulting subset of 17 intact areas totals 25% of the total intact area</otmi:snippet>
+              <otmi:snippet>The total area covered by the atlas is 1,118 million ha, including 205 million ha of intact forests</otmi:snippet>
+              <otmi:snippet>These active fires were separated into those that fell inside or outside intact forests</otmi:snippet>
+              <otmi:snippet>These results show that human impact had a constant &quot;multiplication&quot; effect on the fire events, and that a maximum of 13% of fire ignition in the non-intact forests is explained by natural disturbance, with the rest being directly induced by humans</otmi:snippet>
+              <otmi:snippet>Three major fire seasons have occurred recently in Russia: a total of 6.9, 7.5 and 14.5 million hectares (ha) were burned in 1998 (ref. 5 ), in 2002 (ref. 5 ) and in 2003 (ref. 6 ), respectively</otmi:snippet>
+              <otmi:snippet>Using satellite data to locate fires, we estimated the number of fire events in these intact forests and in forests more affected by humans in order to assess the specific impact of climate anomalies (inside intact forests) and the combined impact of humans and climate change (outside intact forests)</otmi:snippet>
+              <otmi:snippet>We combined an atlas of Russia&apos;s intact forest landscapes with a land-cover map drawn up for 1999–2000 to delineate intact and non-intact forests (see supplementary information )</otmi:snippet>
+              <otmi:snippet>We found that 85% of the 23,818 active fires in intact forests in 2002 were located within a 10-km-wide buffer zone inside the perimeter of the intact forests, indicating that the borders of these areas could have been affected by fires starting on the outside</otmi:snippet>
+              <otmi:snippet>We therefore selected a new subset of &quot;most-intact&quot; forests to represent more strictly the concept of intact forest — these comprised the largest individual intact areas and the individual intact areas with the smallest perimeter-to-area ratio</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Maps of the Russian Federation showing areas of intact forest and the locations of forest fires over 2002–2005.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a, The &quot;intact&quot; forest areas (dark green) of the region are defined as being situated within the forest zone, having a size exceeding 50,000 ha and a width of 10 km at the narrowest point. They contain a contiguous mosaic of natural ecosystems, are not fragmented by infrastructure, show no signs of significant transformation by humans, and have a natural fire regime. Light green areas, &quot;most-intact&quot; forest (a subset of intact forest; see text); yellow; non-intact forest; grey-green, forest outside the study area. The study area is outlined in red. The northern limit for the region covered by the atlas excludes all tundra ecosystems; the Kamchatka region was excluded from our study zone. b, Locations of active fires in 2002 (yellow), 2003 (blue), 2004 (green) and 2005 (red); 2002 and 2003 were severe years. Fire dots are overlaid for years from 2002 to 2005, so fires from earlier years may be obscured by later years (dot size is exaggerated for display purposes). The study area is shaded in grey.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1126/science.1058958</otmi:refid>
+          <otmi:refid>info:doi/10.1038/435732a</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.rse.2004.08.011</otmi:refid>
+          <otmi:refid>info:doi/10.1080/0143116031000066297</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0034-4257(02)00076-7</otmi:refid>
+          <otmi:refsnoid>8</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

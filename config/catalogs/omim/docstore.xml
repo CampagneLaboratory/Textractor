@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<catalog>
+    <!-- load files and build docstore once the index is finished -->
+    <chain name="Docstore" className="textractor.chain.loader.OmimArticleLoader"
+           directory="/home/twease/omim/xml"
+           appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary ">
+           <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 basename="index/omim-index"
+                 chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

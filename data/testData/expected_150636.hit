@@ -1,0 +1,77 @@
+( 2 )	1	0
+COOH	1	0
+ER proteins	1	0
+GRP	1	0
+HCV	103	44
+HCV NS5A	2	1
+HCV NS5B	1	0
+HCV polyprotein	2	0
+HCV protein	1	0
+HCV proteins	4	1
+HCV subgenomic	6	2
+M protein	1	0
+MgCl2	2	0
+NS1	2	1
+NS2	1	0
+NS2B	1	0
+NS3	16	1
+NS4A	3	0
+NS4B	5	1
+NS5A	32	9
+NS5A complex	1	0
+NS5A protein	4	1
+NS5A proteins	2	0
+NS5B	19	5
+NS5B antibodies	1	0
+NS5B protein	1	0
+NS5B proteins	2	0
+RNA polymerase	3	0
+RdRp	1	0
+TNF receptor	1	0
+TRI	1	0
+bovine serum albumin	1	0
+calreticulin	5	0
+caveolin	3	1
+caveolin dominant negative mutant	1	0
+caveolin-1	2	0
+caveolin-2	7	0
+caveolins	1	0
+gene 1 products	1	0
+glycoprotein	2	1
+glycoprotein NS1	1	0
+glycoproteins	1	0
+ha-ras	1	0
+helicase	1	0
+human immunodeficiency	1	0
+lysates	3	0
+mak	1	0
+matrix protein	1	0
+membrane domain	1	0
+open reading frame	1	0
+pol	1	0
+polymerase chain	1	0
+polyprotein	4	2
+precursor protein	1	0
+proteases	1	0
+protein 1	1	0
+proteinase	1	0
+replicase	3	1
+replicase subunits	1	0
+reverse transcriptase	1	0
+serine protease	1	0
+subdomains	1	0
+subgenomic	17	9
+subgenomic HCV	1	0
+subgenomic RNA	1	0
+sulfoxide	2	0
+the HCV	27	6
+the HCV NS3	1	0
+the HCV NS4B	1	0
+the HCV NS5A protein	1	0
+the HCV proteins	1	0
+the HCV subgenomic	2	0
+the core protein	1	0
+the subgenomic	1	0
+trypsin	1	0
+viral RNA	22	0
+west nile	1	0

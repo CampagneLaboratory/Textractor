@@ -1,0 +1,125 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Retraction</title>
+      <id>info:doi/10.1038/440437a</id>
+      <link href='http://dx.doi.org/10.1038/440437a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>437</prism:startingPage>
+      <prism:endingPage>437</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='3'>heat-shock</otmi:vector>
+              <otmi:vector count='3'>D</otmi:vector>
+              <otmi:vector count='2'>J</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>P</otmi:vector>
+              <otmi:vector count='2'>response</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>Daniells</otmi:vector>
+              <otmi:vector count='1'>Pomerai</otmi:vector>
+              <otmi:vector count='1'>David</otmi:vector>
+              <otmi:vector count='1'>elegans</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>Tattersall</otmi:vector>
+              <otmi:vector count='1'>2000</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>Caenorhabditis</otmi:vector>
+              <otmi:vector count='1'>Dawe</otmi:vector>
+              <otmi:vector count='1'>M</otmi:vector>
+              <otmi:vector count='1'>Non-thermal</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>J.A</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>Sewell</otmi:vector>
+              <otmi:vector count='1'>Cell</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>fields</otmi:vector>
+              <otmi:vector count='1'>M.M</otmi:vector>
+              <otmi:vector count='1'>405</otmi:vector>
+              <otmi:vector count='1'>Candido</otmi:vector>
+              <otmi:vector count='1'>heating</otmi:vector>
+              <otmi:vector count='1'>non-thermal</otmi:vector>
+              <otmi:vector count='1'>microwave</otmi:vector>
+              <otmi:vector count='1'>D.J</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>retraction.</otmi:vector>
+              <otmi:vector count='1'>findings</otmi:vector>
+              <otmi:vector count='1'>invalidated</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>claim</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>Nature</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>27</otmi:vector>
+              <otmi:vector count='1'>Allan</otmi:vector>
+              <otmi:vector count='1'>35013144</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>microwaves</otmi:vector>
+              <otmi:vector count='1'>88–97</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>induction</otmi:vector>
+              <otmi:vector count='1'>Bioelectromagnetics</otmi:vector>
+              <otmi:vector count='1'>0.2</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>al</otmi:vector>
+              <otmi:vector count='1'>P.C</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>C.D</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>de</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>noted</otmi:vector>
+              <otmi:vector count='1'>comparable</otmi:vector>
+              <otmi:vector count='1'>10.1038</otmi:vector>
+              <otmi:vector count='1'>Duce</otmi:vector>
+              <otmi:vector count='1'>sign</otmi:vector>
+              <otmi:vector count='1'>biology</otmi:vector>
+              <otmi:vector count='1'>Thomas</otmi:vector>
+              <otmi:vector count='1'>H</otmi:vector>
+              <otmi:vector count='1'>induce</otmi:vector>
+              <otmi:vector count='1'>417</otmi:vector>
+              <otmi:vector count='1'>Mutwakil</otmi:vector>
+              <otmi:vector count='1'>Jones</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>temperature</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>418</otmi:vector>
+              <otmi:vector count='1'>et</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Allan, I</otmi:snippet>
+              <otmi:snippet>Bioelectromagnetics 27, 88–97; 2006)</otmi:snippet>
+              <otmi:snippet>C.D., J.A., M.M., D.J. and P.C. were not available to sign this retraction.</otmi:snippet>
+              <otmi:snippet>Candido Nature 405 , 417 – 418 ( 2000 ) 10.1038/35013144 Our claim that weak microwave fields induce a heat-shock response in Caenorhabditis elegans by a non-thermal mechanism is invalidated by new findings showing that there is a small heating effect under these conditions (A</otmi:snippet>
+              <otmi:snippet>Cell biology: Non-thermal heat-shock response to microwaves D. de Pomerai, C</otmi:snippet>
+              <otmi:snippet>Daniells, H</otmi:snippet>
+              <otmi:snippet>David, J</otmi:snippet>
+              <otmi:snippet>Dawe et al </otmi:snippet>
+              <otmi:snippet>Duce, M</otmi:snippet>
+              <otmi:snippet>Jones, P</otmi:snippet>
+              <otmi:snippet>Mutwakil, D</otmi:snippet>
+              <otmi:snippet>Sewell, J</otmi:snippet>
+              <otmi:snippet>Tattersall, D</otmi:snippet>
+              <otmi:snippet>This temperature rise (about 0.2 °C) causes heat-shock induction comparable to that noted in our communication</otmi:snippet>
+              <otmi:snippet>Thomas, P</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="OtmiIndexer" className="textractor.chain.loader.OtmiArticleLoader"
+           directory="/home/icb/db/otmi" appendSentencesInOneDocument="true"
+           sentenceBoundary=" sentenceboundary " recursive="true">
+        <command name="Indexer" className="textractor.chain.indexer.Indexer"
+            basename="index/otmi-index"
+            parenthesesAreWords="true" skips="true"
+            wordReaderClass="textractor.mg4j.io.TweaseWordReader2"
+            termProcessorClass="textractor.mg4j.index.TweaseTermProcessor"/>
+    </chain>
+</catalog>

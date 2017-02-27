@@ -1,0 +1,960 @@
+# The following annotations belong to batch number 0
+--- 0 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , the >R79K< substitution seems to have a greater effect on dGuo binding than on 
+that of dAdo , but dGK modification appears to produce a stimulatory conformational effect on the 
+opposite subunit , resembling the known unidirectional activation of dAK by either dGuo or dGTP 
+--- 1 --- : < enter here properties as inferred from evidence in the text below:
+one bears the >R79K< mutation on both the dAK and dGK subunits , while the other 
+has the R79K mutation on the dGK subunit only R79K:dGK 
+--- 2 --- : < enter here properties as inferred from evidence in the text below:
+one bears the R79K mutation on both the dAK and dGK subunits , while the other 
+has the >R79K< mutation on the dGK subunit only R79K:dGK 
+--- 3 --- : < enter here properties as inferred from evidence in the text below:
+All three types of Asp-78 mutations D78A , >D78E< , and D78N , involving both subunits 
+virtually eliminated both dAK and dGK activities , being less than 0.2 of the activities found 
+in comparable UMCE fractions 
+--- 4 --- : < enter here properties as inferred from evidence in the text below:
+All three types of Asp-78 mutations D78A , D78E , and >D78N< , involving both subunits 
+virtually eliminated both dAK and dGK activities , being less than 0.2 of the activities found 
+in comparable UMCE fractions 
+--- 5 --- : < enter here properties as inferred from evidence in the text below:
+While preliminary assays not shown revealed a reduction in the dGK activities of both the >R79K< 
+and R79K:dGK mutants , the dAK activities were increased dramatically , whether or not the dAK 
+subunit was altered 
+--- 6 --- : < enter here properties as inferred from evidence in the text below:
+Preliminary enzyme activation and inhibition studies were carried out to determine whether these regulatory mechanisms might 
+have been altered by >R79K< mutations 
+--- 7 --- : < enter here properties as inferred from evidence in the text below:
+While both mutant enzymes remain susceptible to inhibition by end products dGTP or dATP , activation 
+of dAK by dGuo is nearly eliminated in the case of the R79K:dGK mutant , while 
+for the tandemly mutated >R79K< , there was even a 30 inhibition of the dAK activity 
+upon addition of dGuo 
+--- 8 --- : < enter here properties as inferred from evidence in the text below:
+The other striking effect of mutations at Arg-79 is seen upon comparison of true maximum velocities 
+which are proportional to the turnover number Table 2 . The turnover of dAK was increased 
+8-fold by the tandem >R79K< mutation and nearly 30-fold above that of UMCE by the R79K:dGK 
+mutation , respectively 
+--- 9 --- : < enter here properties as inferred from evidence in the text below:
+The other conclusion which can be inferred from these data is that , in terms of 
+the V max K m efficiency ratios , the >R29K< mutations can be said to have 
+had opposite effects on the activities of the two subunits 
+--- 10 --- : < enter here properties as inferred from evidence in the text below:
+The K i values for end product inhibition against each substrate were decreased up to 75 
+in dAK , but were increased about 2-fold in dGK by both the >R79K< and R79K:dGK 
+mutations Table 3 . However , neither the dNTP inhibition pattern nor , therefore , the 
+kinetic mechanism of either enzyme was affected by mutations at Arg-79 
+--- 11 --- : < enter here properties as inferred from evidence in the text below:
+Whereas the dGK activities of >R79K< and R79K:dGK were reduced substantially , the dAK activities of 
+those mutant enzymes were elevated dramatically above that of UMCE 
+--- 12 --- : < enter here properties as inferred from evidence in the text below:
+It is important to note , however , that for R79K:dGK the K m for dAdo 
+is unchanged , whereas it increases severalfold in the >R79K< mutant where both subunits are altered 
+
+--- 13 --- : < enter here properties as inferred from evidence in the text below:
+The >R79K< mutation has opposite effects on the K m values for MgATP at the two 
+active sites , but lower K m values on dAK would not account for the stimulation 
+as the assay is carried out under near-saturating conditions with respect to MgATP 
+--- 14 --- : < enter here properties as inferred from evidence in the text below:
+ii The one-way stimulation of the dAK activity by dGuo or dGTP , by affinity labeling 
+of the dGK subunit 8 and by >R79K< mutagenesis also supports this notion 
+--- 15 --- : < enter here properties as inferred from evidence in the text below:
+iii The opposite effects of >R79K< replacement on the binding of MgATP to the two subunits 
+, despite similar sequences , also suggests differences in folding or contact points of the heterodimer 
+
+--- 16 --- : < enter here properties as inferred from evidence in the text below:
+The detailed mechanism of the enhancement of dAK activity by >R79K< replacement is still unknown , 
+but it seems most likely that Arg-79 is located near the contact area , possibly in 
+a loop , between the dAK and dGK subunit , and the amino acid residues involved 
+in the substrate binding site of one subunit might effect on the overall rate-limiting reaction steps 
+of the paired subunit 
+--- 17 --- : < enter here properties as inferred from evidence in the text below:
+Cell , Vol 111 , 1041-1054 , 27 December 2002 Crystal Structure of a UBP-Family Deubiquitinating 
+Enzyme in Isolation and in Complex with Ubiquitin Aldehyde Min Hu 1 , Pingwei Li 1 
+, Muyang Li 2 , Wenyu Li 1 , Tingting Yao 3 , Jia-Wei Wu 1 
+, Wei Gu 2 , Robert E. Cohen 3 , and Yigong Shi 1 1Department of 
+Molecular Biology , Lewis Thomas Laboratory , Princeton University , Princeton , NJ 08544 USA >A23P< 
+2Institute for Cancer Genetics Department of Pathology , Columbia University College of Physicians and Surgeons , 
+New York , NY 10032 USA 3Department of Biochemistry , University of Iowa , Bowen Science 
+Building , 51 Newton Road , Iowa City , IA 52242 USA Correspondence : Yigong Shi 
+609-258-6071 phone 609-258-6730 fax yshi molbio.princeton.edu Table of Contents Download as printable PDF file - 1055K 
+Search Medline for articles by : Min Hu Yigong Shi This article has been cited by 
+: other online articles Download to Citation Manager SummarySummaryIntroductionResultsDiscussionExperimental ProceduresReferences The ubiquitin-specific processing protease UBP family 
+of deubiquitinating enzymes plays an essential role in numerous cellular processes 
+--- 18 --- : < enter here properties as inferred from evidence in the text below:
+>A23P< These changes are particularly dramatic in the immediate vicinity of the catalytic cleft , where 
+the main chain loops between alpha4 and alpha5 and between beta10 and beta11 move 5 8 
+A Figure 3B , gold arrows 
+--- 19 --- : < enter here properties as inferred from evidence in the text below:
+275 , Issue 18 , 13431-13440 , May 5 , 2000 . Evidence for Long Range 
+Allosteric Interactions between the Extracellular and Cytoplasmic Parts of Bacteriorhodopsin from the Mutant >R82A< and Its 
+Second Site Revertant R82A G231C . Ulrike Alexiev Dagger , Ramin Mollaaghababa , H. Gobind Khorana 
+, and Maarten P. Heyn Dagger From the Dagger Biophysics Group , Department of Physics , 
+Freie Universität Berlin , Arnimallee 14 , D-14195 Berlin , Germany and the Department of Biology 
+, Massachusetts Institute of Technology , Cambridge , Massachusetts 02139 ABSTRACT TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES 
+RESULTS DISCUSSION REFERENCES Evidence is presented for long range interactions between the extracellular and cytoplasmic parts 
+of the heptahelical membrane protein bacteriorhodopsin in the mutant R82A and its second site revertant R82A 
+G231C 
+--- 20 --- : < enter here properties as inferred from evidence in the text below:
+275 , Issue 18 , 13431-13440 , May 5 , 2000 . Evidence for Long Range 
+Allosteric Interactions between the Extracellular and Cytoplasmic Parts of Bacteriorhodopsin from the Mutant R82A and Its 
+Second Site Revertant >R82A< G231C . Ulrike Alexiev Dagger , Ramin Mollaaghababa , H. Gobind Khorana 
+, and Maarten P. Heyn Dagger From the Dagger Biophysics Group , Department of Physics , 
+Freie Universität Berlin , Arnimallee 14 , D-14195 Berlin , Germany and the Department of Biology 
+, Massachusetts Institute of Technology , Cambridge , Massachusetts 02139 ABSTRACT TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES RESULTS 
+DISCUSSION REFERENCES Evidence is presented for long range interactions between the extracellular and cytoplasmic parts 
+of the heptahelical membrane protein bacteriorhodopsin in the mutant R82A and its second site revertant R82A 
+G231C 
+--- 21 --- : < enter here properties as inferred from evidence in the text below:
+275 , Issue 18 , 13431-13440 , May 5 , 2000 . Evidence for Long Range 
+Allosteric Interactions between the Extracellular and Cytoplasmic Parts of Bacteriorhodopsin from the Mutant R82A and Its 
+Second Site Revertant R82A G231C . Ulrike Alexiev Dagger , Ramin Mollaaghababa , H. Gobind Khorana 
+, and Maarten P. Heyn Dagger From the Dagger Biophysics Group , Department of Physics , 
+Freie Universität Berlin , Arnimallee 14 , D-14195 Berlin , Germany and the Department of Biology 
+, Massachusetts Institute of Technology , Cambridge , Massachusetts 02139 ABSTRACT TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES 
+RESULTS DISCUSSION REFERENCES Evidence is presented for long range interactions between the extracellular and cytoplasmic parts 
+of the heptahelical membrane protein bacteriorhodopsin in the mutant >R82A< and its second site revertant R82A 
+G231C 
+--- 22 --- : < enter here properties as inferred from evidence in the text below:
+275 , Issue 18 , 13431-13440 , May 5 , 2000 . Evidence for Long Range 
+Allosteric Interactions between the Extracellular and Cytoplasmic Parts of Bacteriorhodopsin from the Mutant R82A and Its 
+Second Site Revertant R82A G231C . Ulrike Alexiev Dagger , Ramin Mollaaghababa , H. Gobind Khorana 
+, and Maarten P. Heyn Dagger From the Dagger Biophysics Group , Department of Physics , 
+Freie Universität Berlin , Arnimallee 14 , D-14195 Berlin , Germany and the Department of Biology 
+, Massachusetts Institute of Technology , Cambridge , Massachusetts 02139 ABSTRACT TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES 
+RESULTS DISCUSSION REFERENCES Evidence is presented for long range interactions between the extracellular and cytoplasmic parts 
+of the heptahelical membrane protein bacteriorhodopsin in the mutant R82A and its second site revertant >R82A< 
+G231C 
+--- 23 --- : < enter here properties as inferred from evidence in the text below:
+i In the double mutants >R82A< G72C and R82A A160C , with the cysteine mutation on 
+the extracellular or cytoplasmic surface , respectively , the photocycle is the same as in the 
+single mutant R82A with an accelerated deprotonation of the Schiff base and a reversed order of 
+proton release and uptake 
+--- 24 --- : < enter here properties as inferred from evidence in the text below:
+i In the double mutants R82A G72C and >R82A< A160C , with the cysteine mutation on 
+the extracellular or cytoplasmic surface , respectively , the photocycle is the same as in the 
+single mutant R82A with an accelerated deprotonation of the Schiff base and a reversed order of 
+proton release and uptake 
+--- 25 --- : < enter here properties as inferred from evidence in the text below:
+i In the double mutants R82A G72C and R82A A160C , with the cysteine mutation on 
+the extracellular or cytoplasmic surface , respectively , the photocycle is the same as in the 
+single mutant >R82A< with an accelerated deprotonation of the Schiff base and a reversed order of 
+proton release and uptake 
+--- 26 --- : < enter here properties as inferred from evidence in the text below:
+Whereas in wild type proton uptake on the cytoplasmic surface occurs during the M-decay tau 8 
+ms , in >R82A< it occurs already during the first phase of the M-rise tau 1 
+µs 
+--- 27 --- : < enter here properties as inferred from evidence in the text below:
+In this report , we present evidence for long range interactions between the extracellular and cytoplasmic 
+parts of bR based on evidence from the mutant >R82A< and its second site revertant R82A 
+G231C 
+--- 28 --- : < enter here properties as inferred from evidence in the text below:
+In this report , we present evidence for long range interactions between the extracellular and cytoplasmic 
+parts of bR based on evidence from the mutant R82A and its second site revertant >R82A< 
+G231C 
+--- 29 --- : < enter here properties as inferred from evidence in the text below:
+In >R82A< an accelerated deprotonation of the Schiff base and a reversed order of proton release 
+and uptake , detected with pH indicator dyes in the aqueous solution , were already observed 
+20 , 21 
+--- 30 --- : < enter here properties as inferred from evidence in the text below:
+Moreover , in >R82A< the pKa of Asp-85 , which controls the purple to blue transition 
+, is increased by about 5 pH units compared with wild type wt 22 
+--- 31 --- : < enter here properties as inferred from evidence in the text below:
+To detect proton concentration changes separately on each surface of the protein , the attachment site 
+single cysteine residue for the pH indicator dye at the surface of the mutant protein >R82A< 
+was varied 
+--- 32 --- : < enter here properties as inferred from evidence in the text below:
+The preparation and expression of the bR mutants >A160C< and G231C in H. salinarium , in 
+which cysteine replaces Ala-160 and Gly-231 , respectively , and the preparation of R82A , in 
+which alanine is substituted for arginine in position 82 , has been reported 25 , 26 
+
+--- 33 --- : < enter here properties as inferred from evidence in the text below:
+The preparation and expression of the bR mutants A160C and G231C in H. salinarium , in 
+which cysteine replaces Ala-160 and Gly-231 , respectively , and the preparation of >R82A< , in 
+which alanine is substituted for arginine in position 82 , has been reported 25 , 26 
+
+--- 34 --- : < enter here properties as inferred from evidence in the text below:
+The preparation and expression of the bR mutants A160C and >G231C< in H. salinarium , in 
+which cysteine replaces Ala-160 and Gly-231 , respectively , and the preparation of R82A , in 
+which alanine is substituted for arginine in position 82 , has been reported 25 , 26 
+
+--- 35 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants >R82A< , G231C , and R82A G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and R82A G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 36 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , G231C , and >R82A< G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and R82A G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 37 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , G231C , and R82A G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and >R82A< G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 38 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , >G231C< , and R82A G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and R82A G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 39 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , G231C , and R82A >G231C< in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and R82A G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 40 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , G231C , and R82A G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , >G231C< , and R82A G231C are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 41 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 2 shows the absorption spectra of wt bR in the unphotolyzed state and that of 
+the mutants R82A , G231C , and R82A G231C in 150 mM KCl at pH 6. 
+The chromophore absorbance maxima lambdamax of wt , G231C , and R82A >G231C< are nearly identical 
+568 , 568 , and 567 nm , respectively , in the light-adapted form 
+--- 42 --- : < enter here properties as inferred from evidence in the text below:
+In the single mutant >R82A< lambdamax is red shifted about 40 nm compared with wt to 
+602 nm. In the mutant R82A G231C , the additional mutation G231C at the cytoplasmic surface 
+C terminus restores the wt absorbance spectrum and , therefore , presumably the charge distribution in 
+the vicinity of the chromophore 
+--- 43 --- : < enter here properties as inferred from evidence in the text below:
+In the single mutant R82A lambdamax is red shifted about 40 nm compared with wt to 
+602 nm. In the mutant >R82A< G231C , the additional mutation G231C at the cytoplasmic surface 
+C terminus restores the wt absorbance spectrum and , therefore , presumably the charge distribution in 
+the vicinity of the chromophore 
+--- 44 --- : < enter here properties as inferred from evidence in the text below:
+In the single mutant R82A lambdamax is red shifted about 40 nm compared with wt to 
+602 nm. In the mutant R82A >G231C< , the additional mutation G231C at the cytoplasmic surface 
+C terminus restores the wt absorbance spectrum and , therefore , presumably the charge distribution in 
+the vicinity of the chromophore 
+--- 45 --- : < enter here properties as inferred from evidence in the text below:
+In the single mutant R82A lambdamax is red shifted about 40 nm compared with wt to 
+602 nm. In the mutant R82A G231C , the additional mutation >G231C< at the cytoplasmic surface 
+C terminus restores the wt absorbance spectrum and , therefore , presumably the charge distribution in 
+the vicinity of the chromophore 
+--- 46 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 12K : in this window in a new window Fig. 2. Absorption spectra 
+of the >R82A< and G231C single and double mutants 
+--- 47 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 12K : in this window in a new window Fig. 2. Absorption spectra 
+of the R82A and >G231C< single and double mutants 
+--- 48 --- : < enter here properties as inferred from evidence in the text below:
+Wild type - - - and the mutants G231C - - - >R82A< - - - 
+and R82A G231C dotted line are measured in 150 mM KCl at pH 6. The absorption 
+spectrum of unphotolyzed bR is characterized by a purple form with a lambdamax of 568 nm 
+around neutral pH , as shown above , which changes to a blue form at acidic 
+pH with a lambdamax of about 602 nm. In wt the pKa of this so called 
+purple to blue transition is about 2.6 in 150 mM KCl 
+--- 49 --- : < enter here properties as inferred from evidence in the text below:
+Wild type - - - and the mutants G231C - - - R82A - - - 
+and >R82A< G231C dotted line are measured in 150 mM KCl at pH 6. The absorption 
+spectrum of unphotolyzed bR is characterized by a purple form with a lambdamax of 568 nm 
+around neutral pH , as shown above , which changes to a blue form at acidic 
+pH with a lambdamax of about 602 nm. In wt the pKa of this so called 
+purple to blue transition is about 2.6 in 150 mM KCl 
+--- 50 --- : < enter here properties as inferred from evidence in the text below:
+Wild type - - - and the mutants >G231C< - - - R82A - - - 
+and R82A G231C dotted line are measured in 150 mM KCl at pH 6. The absorption 
+spectrum of unphotolyzed bR is characterized by a purple form with a lambdamax of 568 nm 
+around neutral pH , as shown above , which changes to a blue form at acidic 
+pH with a lambdamax of about 602 nm. In wt the pKa of this so called 
+purple to blue transition is about 2.6 in 150 mM KCl 
+--- 51 --- : < enter here properties as inferred from evidence in the text below:
+Wild type - - - and the mutants G231C - - - R82A - - - 
+and R82A >G231C< dotted line are measured in 150 mM KCl at pH 6. The absorption 
+spectrum of unphotolyzed bR is characterized by a purple form with a lambdamax of 568 nm 
+around neutral pH , as shown above , which changes to a blue form at acidic 
+pH with a lambdamax of about 602 nm. In wt the pKa of this so called 
+purple to blue transition is about 2.6 in 150 mM KCl 
+--- 52 --- : < enter here properties as inferred from evidence in the text below:
+In the bR mutant >R82A< , the pKa of the purple to blue transition is shifted 
+from 2.6 to 7.3 n 0.8 . In the double mutants R82A G72C and R82A A160C 
+, the pKa values of the purple to blue transition are 7.2 and 7.3 , respectively 
+data not shown , i.e. similar to that of the single mutant R82A 
+--- 53 --- : < enter here properties as inferred from evidence in the text below:
+In the bR mutant R82A , the pKa of the purple to blue transition is shifted 
+from 2.6 to 7.3 n 0.8 . In the double mutants >R82A< G72C and R82A A160C 
+, the pKa values of the purple to blue transition are 7.2 and 7.3 , respectively 
+data not shown , i.e. similar to that of the single mutant R82A 
+--- 54 --- : < enter here properties as inferred from evidence in the text below:
+In the bR mutant R82A , the pKa of the purple to blue transition is shifted 
+from 2.6 to 7.3 n 0.8 . In the double mutants R82A G72C and >R82A< A160C 
+, the pKa values of the purple to blue transition are 7.2 and 7.3 , respectively 
+data not shown , i.e. similar to that of the single mutant R82A 
+--- 55 --- : < enter here properties as inferred from evidence in the text below:
+In the bR mutant R82A , the pKa of the purple to blue transition is shifted 
+from 2.6 to 7.3 n 0.8 . In the double mutants R82A G72C and R82A A160C 
+, the pKa values of the purple to blue transition are 7.2 and 7.3 , respectively 
+data not shown , i.e. similar to that of the single mutant >R82A< 
+--- 56 --- : < enter here properties as inferred from evidence in the text below:
+In the double mutant R82A >G231C< , however , in which the second mutation is located 
+at the cytoplasmic surface at the end of helix G , the pKa of the purple 
+to blue transition is shifted completely back to the wild type value , even to a 
+somewhat lower number pKa 2.1 , n 0.9 . The single mutant G231C has a pKa 
+of 2.7 n 1.1 , similar to that of wild type 
+--- 57 --- : < enter here properties as inferred from evidence in the text below:
+In the double mutant R82A G231C , however , in which the second mutation is located 
+at the cytoplasmic surface at the end of helix G , the pKa of the purple 
+to blue transition is shifted completely back to the wild type value , even to a 
+somewhat lower number pKa 2.1 , n 0.9 . The single mutant >G231C< has a pKa 
+of 2.7 n 1.1 , similar to that of wild type 
+--- 58 --- : < enter here properties as inferred from evidence in the text below:
+pH titration of wild type black-square and the mutants G231C open circle , >R82A< black-triangle , 
+and R82A G231C , as measured by the absorbance change at 628 nm. The fraction of 
+blue membrane in percent is plotted as a function of pH 
+--- 59 --- : < enter here properties as inferred from evidence in the text below:
+pH titration of wild type black-square and the mutants G231C open circle , R82A black-triangle , 
+and >R82A< G231C , as measured by the absorbance change at 628 nm. The fraction of 
+blue membrane in percent is plotted as a function of pH 
+--- 60 --- : < enter here properties as inferred from evidence in the text below:
+pH titration of wild type black-square and the mutants >G231C< open circle , R82A black-triangle , 
+and R82A G231C , as measured by the absorbance change at 628 nm. The fraction of 
+blue membrane in percent is plotted as a function of pH 
+--- 61 --- : < enter here properties as inferred from evidence in the text below:
+pH titration of wild type black-square and the mutants G231C open circle , R82A black-triangle , 
+and R82A >G231C< , as measured by the absorbance change at 628 nm. The fraction of 
+blue membrane in percent is plotted as a function of pH 
+--- 62 --- : < enter here properties as inferred from evidence in the text below:
+The comparison of the pKa values clearly shows that in the double mutant >R82A< G231C the 
+pKa of Asp-85 in the presence of the protonated group X H is shifted back from 
+6.9 in R82A pK in micelles 30 to 3.0 , i.e. lower than the wild type 
+value pKa 4.7 . This should be compared with the Asp-85 pKa value of 2.6 and 
+2.1 in membranes for wt and R82A G231C , respectively Table I . These results indicate 
+that the electrostatic environments for these residues Asp-85 and X H differ in the double mutant 
+and in wt. Also the pKa of Asp-85 in the presence of the deprotonated group X 
+- like in the M-state , pKa 5.8 , differs slightly from the wild type value 
+pKa 6.3 . Similar shifts are observed for the pKa of X H in the double 
+mutant R82A G231C , i.e. the pKa of X H in the presence of the deprotonated 
+Asp-85 is 7.5 for wild type and 6.7 for the double mutant 
+--- 63 --- : < enter here properties as inferred from evidence in the text below:
+The comparison of the pKa values clearly shows that in the double mutant R82A G231C the 
+pKa of Asp-85 in the presence of the protonated group X H is shifted back from 
+6.9 in >R82A< pK in micelles 30 to 3.0 , i.e. lower than the wild type 
+value pKa 4.7 . This should be compared with the Asp-85 pKa value of 2.6 and 
+2.1 in membranes for wt and R82A G231C , respectively Table I . These results indicate 
+that the electrostatic environments for these residues Asp-85 and X H differ in the double mutant 
+and in wt. Also the pKa of Asp-85 in the presence of the deprotonated group X 
+- like in the M-state , pKa 5.8 , differs slightly from the wild type value 
+pKa 6.3 . Similar shifts are observed for the pKa of X H in the double 
+mutant R82A G231C , i.e. the pKa of X H in the presence of the deprotonated 
+Asp-85 is 7.5 for wild type and 6.7 for the double mutant 
+--- 64 --- : < enter here properties as inferred from evidence in the text below:
+The comparison of the pKa values clearly shows that in the double mutant R82A G231C the 
+pKa of Asp-85 in the presence of the protonated group X H is shifted back from 
+6.9 in R82A pK in micelles 30 to 3.0 , i.e. lower than the wild type 
+value pKa 4.7 . This should be compared with the Asp-85 pKa value of 2.6 and 
+2.1 in membranes for wt and >R82A< G231C , respectively Table I . These results indicate 
+that the electrostatic environments for these residues Asp-85 and X H differ in the double mutant 
+and in wt. Also the pKa of Asp-85 in the presence of the deprotonated group X 
+- like in the M-state , pKa 5.8 , differs slightly from the wild type value 
+pKa 6.3 . Similar shifts are observed for the pKa of X H in the double 
+mutant R82A G231C , i.e. the pKa of X H in the presence of the deprotonated 
+Asp-85 is 7.5 for wild type and 6.7 for the double mutant 
+--- 65 --- : < enter here properties as inferred from evidence in the text below:
+The comparison of the pKa values clearly shows that in the double mutant R82A G231C the 
+pKa of Asp-85 in the presence of the protonated group X H is shifted back from 
+6.9 in R82A pK in micelles 30 to 3.0 , i.e. lower than the wild type 
+value pKa 4.7 . This should be compared with the Asp-85 pKa value of 2.6 and 
+2.1 in membranes for wt and R82A G231C , respectively Table I . These results indicate 
+that the electrostatic environments for these residues Asp-85 and X H differ in the double mutant 
+and in wt. Also the pKa of Asp-85 in the presence of the deprotonated group X 
+- like in the M-state , pKa 5.8 , differs slightly from the wild type value 
+pKa 6.3 . Similar shifts are observed for the pKa of X H in the double 
+mutant >R82A< G231C , i.e. the pKa of X H in the presence of the deprotonated 
+Asp-85 is 7.5 for wild type and 6.7 for the double mutant 
+--- 66 --- : < enter here properties as inferred from evidence in the text below:
+We have measured the dark adaptation rate for wt , >R82A< , G231C , and R82A 
+G231C at selected pH values data not shown 
+--- 67 --- : < enter here properties as inferred from evidence in the text below:
+We have measured the dark adaptation rate for wt , R82A , G231C , and >R82A< 
+G231C at selected pH values data not shown 
+--- 68 --- : < enter here properties as inferred from evidence in the text below:
+We have measured the dark adaptation rate for wt , R82A , >G231C< , and R82A 
+G231C at selected pH values data not shown 
+--- 69 --- : < enter here properties as inferred from evidence in the text below:
+We have measured the dark adaptation rate for wt , R82A , G231C , and R82A 
+>G231C< at selected pH values data not shown 
+--- 70 --- : < enter here properties as inferred from evidence in the text below:
+wt and the single mutant >G231C< have similar values of kDA approx 2.3-2.5 10 - 4 
+s - 1 at pH 6. In the double mutant R82A G231C a slightly higher value 
+of 3.3 10 - 4 s - 1 pH 6 was observed 
+--- 71 --- : < enter here properties as inferred from evidence in the text below:
+wt and the single mutant G231C have similar values of kDA approx 2.3-2.5 10 - 4 
+s - 1 at pH 6. In the double mutant R82A >G231C< a slightly higher value 
+of 3.3 10 - 4 s - 1 pH 6 was observed 
+--- 72 --- : < enter here properties as inferred from evidence in the text below:
+The fastest rate was observed for >R82A< with kDA approx 120 10 - 4 s - 
+1 at pH 7.3. In wt the fastest rates are measured at acidic pH , where 
+also the highest fraction of blue membrane was observed 
+--- 73 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , the faster rate for >R82A< , kDA approx 120 10 - 4 s - 
+1 , compared with wt , kDA approx 2.3 10 - 4 s - 1 , 
+and the close values for wt , G231C , and R82A G231C are in qualitative agreement 
+with the results obtained from the blue to purple chromophore titration 
+--- 74 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , the faster rate for R82A , kDA approx 120 10 - 4 s - 
+1 , compared with wt , kDA approx 2.3 10 - 4 s - 1 , 
+and the close values for wt , G231C , and >R82A< G231C are in qualitative agreement 
+with the results obtained from the blue to purple chromophore titration 
+--- 75 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , the faster rate for R82A , kDA approx 120 10 - 4 s - 
+1 , compared with wt , kDA approx 2.3 10 - 4 s - 1 , 
+and the close values for wt , >G231C< , and R82A G231C are in qualitative agreement 
+with the results obtained from the blue to purple chromophore titration 
+--- 76 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , the faster rate for R82A , kDA approx 120 10 - 4 s - 
+1 , compared with wt , kDA approx 2.3 10 - 4 s - 1 , 
+and the close values for wt , G231C , and R82A >G231C< are in qualitative agreement 
+with the results obtained from the blue to purple chromophore titration 
+--- 77 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 5 the time courses of the M-intermediate absorbance changes measured at 410 nm are 
+shown for wild type , >R82A< , and R82A G231C measured at the same protein concentrations 
+in 150 mM KCl at pH 7.3 and 22 C. The amplitudes of the M-intermediates are 
+normalized to the wild type value , which was set to 1. For R82A and R82A 
+G231C the amplitude scaling factors were 5 and 1.15 , respectively 
+--- 78 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 5 the time courses of the M-intermediate absorbance changes measured at 410 nm are 
+shown for wild type , R82A , and >R82A< G231C measured at the same protein concentrations 
+in 150 mM KCl at pH 7.3 and 22 C. The amplitudes of the M-intermediates are 
+normalized to the wild type value , which was set to 1. For R82A and R82A 
+G231C the amplitude scaling factors were 5 and 1.15 , respectively 
+--- 79 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 5 the time courses of the M-intermediate absorbance changes measured at 410 nm are 
+shown for wild type , R82A , and R82A G231C measured at the same protein concentrations 
+in 150 mM KCl at pH 7.3 and 22 C. The amplitudes of the M-intermediates are 
+normalized to the wild type value , which was set to 1. For >R82A< and R82A 
+G231C the amplitude scaling factors were 5 and 1.15 , respectively 
+--- 80 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 5 the time courses of the M-intermediate absorbance changes measured at 410 nm are 
+shown for wild type , R82A , and R82A G231C measured at the same protein concentrations 
+in 150 mM KCl at pH 7.3 and 22 C. The amplitudes of the M-intermediates are 
+normalized to the wild type value , which was set to 1. For R82A and >R82A< 
+G231C the amplitude scaling factors were 5 and 1.15 , respectively 
+--- 81 --- : < enter here properties as inferred from evidence in the text below:
+The transient absorption spectra of Fig. 5 show that in comparison to wild type the rise 
+of M in >R82A< is accelerated by approximately a factor of 10 , whereas the decay 
+is faster by less than a factor of 2. In the double mutant R82A G231C on 
+the other hand , the kinetics of the rise of M are virtually identical to that 
+of wild type , and the decay is delayed by about a factor of 2. The 
+major effect in R82A , the greatly altered rise of M , is thus restored in 
+the double mutant 
+--- 82 --- : < enter here properties as inferred from evidence in the text below:
+The transient absorption spectra of Fig. 5 show that in comparison to wild type the rise 
+of M in R82A is accelerated by approximately a factor of 10 , whereas the decay 
+is faster by less than a factor of 2. In the double mutant >R82A< G231C on 
+the other hand , the kinetics of the rise of M are virtually identical to that 
+of wild type , and the decay is delayed by about a factor of 2. The 
+major effect in R82A , the greatly altered rise of M , is thus restored in 
+the double mutant 
+--- 83 --- : < enter here properties as inferred from evidence in the text below:
+The transient absorption spectra of Fig. 5 show that in comparison to wild type the rise 
+of M in R82A is accelerated by approximately a factor of 10 , whereas the decay 
+is faster by less than a factor of 2. In the double mutant R82A G231C on 
+the other hand , the kinetics of the rise of M are virtually identical to that 
+of wild type , and the decay is delayed by about a factor of 2. The 
+major effect in >R82A< , the greatly altered rise of M , is thus restored in 
+the double mutant 
+--- 84 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 6 shows the photocycle kinetics at three selected wavelengths 410 , 570 , and 650 
+nm of wild type and the mutants >G231C< and R82A G231C 
+--- 85 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 6 shows the photocycle kinetics at three selected wavelengths 410 , 570 , and 650 
+nm of wild type and the mutants G231C and R82A >G231C< 
+--- 86 --- : < enter here properties as inferred from evidence in the text below:
+The fit results in the following seven time constants for wild type , 1.2 40 138 
+µs and 0.71 2.11 6.18 15.2 ms for >G231C< , 1.0 22 98 µs and 1.6 
+8.9 41 204 ms and for R82A G231C , 1 30 129 µs and 0.8 2.1 
+7.9 50 ms. These numbers confirm that in both mutants , G231C and R82A G231C , 
+the kinetics of the second half of the photocycle are somewhat slower than for wt Fig. 
+6 . The difference is smallest for the double mutant 
+--- 87 --- : < enter here properties as inferred from evidence in the text below:
+The fit results in the following seven time constants for wild type , 1.2 40 138 
+µs and 0.71 2.11 6.18 15.2 ms for G231C , 1.0 22 98 µs and 1.6 
+8.9 41 204 ms and for R82A >G231C< , 1 30 129 µs and 0.8 2.1 
+7.9 50 ms. These numbers confirm that in both mutants , G231C and R82A G231C , 
+the kinetics of the second half of the photocycle are somewhat slower than for wt Fig. 
+6 . The difference is smallest for the double mutant 
+--- 88 --- : < enter here properties as inferred from evidence in the text below:
+The fit results in the following seven time constants for wild type , 1.2 40 138 
+µs and 0.71 2.11 6.18 15.2 ms for G231C , 1.0 22 98 µs and 1.6 
+8.9 41 204 ms and for R82A G231C , 1 30 129 µs and 0.8 2.1 
+7.9 50 ms. These numbers confirm that in both mutants , >G231C< and R82A G231C , 
+the kinetics of the second half of the photocycle are somewhat slower than for wt Fig. 
+6 . The difference is smallest for the double mutant 
+--- 89 --- : < enter here properties as inferred from evidence in the text below:
+The fit results in the following seven time constants for wild type , 1.2 40 138 
+µs and 0.71 2.11 6.18 15.2 ms for G231C , 1.0 22 98 µs and 1.6 
+8.9 41 204 ms and for R82A G231C , 1 30 129 µs and 0.8 2.1 
+7.9 50 ms. These numbers confirm that in both mutants , G231C and R82A >G231C< , 
+the kinetics of the second half of the photocycle are somewhat slower than for wt Fig. 
+6 . The difference is smallest for the double mutant 
+--- 90 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 20K : in this window in a new window Fig. 5. Time course 
+of the flash-induced M-intermediate of wild type bR and the mutants >R82A< and R82A G231C 
+--- 91 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 20K : in this window in a new window Fig. 5. Time course 
+of the flash-induced M-intermediate of wild type bR and the mutants R82A and >R82A< G231C 
+--- 92 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 18K : in this window in a new window Fig. 6. Comparison of 
+the photocycle kinetics at selected wavelength of wild type and the mutants >G231C< and R82A G231C 
+
+--- 93 --- : < enter here properties as inferred from evidence in the text below:
+View larger version 18K : in this window in a new window Fig. 6. Comparison of 
+the photocycle kinetics at selected wavelength of wild type and the mutants G231C and R82A >G231C< 
+
+--- 94 --- : < enter here properties as inferred from evidence in the text below:
+We have performed photocycle measurements of wt , >R82A< , and R82A G231C in H2O and 
+D2O at selected wavelengths 
+--- 95 --- : < enter here properties as inferred from evidence in the text below:
+We have performed photocycle measurements of wt , R82A , and >R82A< G231C in H2O and 
+D2O at selected wavelengths 
+--- 96 --- : < enter here properties as inferred from evidence in the text below:
+Fig. 9 shows the time traces at 410 nm for the two mutants A and B 
+and wt C in 150 mM KCl and pH pD 8. The measuring conditions were chosen 
+such that the mutant >R82A< is more than 50 in the purple state 
+--- 97 --- : < enter here properties as inferred from evidence in the text below:
+The isotope effects on the kinetics of the main M-rise components are smaller for >R82A< A 
+than for R82A G231C B and wt C 
+--- 98 --- : < enter here properties as inferred from evidence in the text below:
+The isotope effects on the kinetics of the main M-rise components are smaller for R82A A 
+than for >R82A< G231C B and wt C 
+--- 99 --- : < enter here properties as inferred from evidence in the text below:
+This distribution of time constants obtained in H2O tauH2O is centered at 5.2 , 145 , 
+and 121 µs for >R82A< , R82A G231C , and wt , respectively 
+--- 100 --- : < enter here properties as inferred from evidence in the text below:
+This distribution of time constants obtained in H2O tauH2O is centered at 5.2 , 145 , 
+and 121 µs for R82A , >R82A< G231C , and wt , respectively 
+--- 101 --- : < enter here properties as inferred from evidence in the text below:
+the corresponding values in D2O tauD2O were determined to be 12.5 , 1041 , and 835 
+µs. The values of tauD2O tauH2O are 2.4 for >R82A< , and 6.9 and 7.2 for 
+wt and R82A G231C , respectively 
+--- 102 --- : < enter here properties as inferred from evidence in the text below:
+the corresponding values in D2O tauD2O were determined to be 12.5 , 1041 , and 835 
+µs. The values of tauD2O tauH2O are 2.4 for R82A , and 6.9 and 7.2 for 
+wt and >R82A< G231C , respectively 
+--- 103 --- : < enter here properties as inferred from evidence in the text below:
+H D isotope effects in the rise and decay kinetics of the M-intermediate as measured at 
+410 nm for A the mutant >R82A< , B the mutant R82A G231C , and C 
+wild type 
+--- 104 --- : < enter here properties as inferred from evidence in the text below:
+H D isotope effects in the rise and decay kinetics of the M-intermediate as measured at 
+410 nm for A the mutant R82A , B the mutant >R82A< G231C , and C 
+wild type 
+--- 105 --- : < enter here properties as inferred from evidence in the text below:
+In the single cysteine mutant >G231C< , a labeling stoichiometry of only 0.15-0.2 mol 5-iodoacetamidofluorescein mol 
+bR was obtained , whereas in the double mutant R82A G231C an approximately 3-fold higher stoichiometry 
+0.55-0.7 was observed under identical conditions 
+--- 106 --- : < enter here properties as inferred from evidence in the text below:
+In the single cysteine mutant G231C , a labeling stoichiometry of only 0.15-0.2 mol 5-iodoacetamidofluorescein mol 
+bR was obtained , whereas in the double mutant R82A >G231C< an approximately 3-fold higher stoichiometry 
+0.55-0.7 was observed under identical conditions 
+--- 107 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 10 the kinetics of the rise and decay of the M-intermediate upper panel are 
+compared with the kinetics of proton release and uptake , detected in the aqueous bulk phase 
+lower panel of >R82A< Fig. 10A and at the protein surface Fig. 10 , B-D , 
+lower panel of the three double mutants R82A G72C , R82A A160C , and R82A G231C 
+, respectively 
+--- 108 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 10 the kinetics of the rise and decay of the M-intermediate upper panel are 
+compared with the kinetics of proton release and uptake , detected in the aqueous bulk phase 
+lower panel of R82A Fig. 10A and at the protein surface Fig. 10 , B-D , 
+lower panel of the three double mutants >R82A< G72C , R82A A160C , and R82A G231C 
+, respectively 
+--- 109 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 10 the kinetics of the rise and decay of the M-intermediate upper panel are 
+compared with the kinetics of proton release and uptake , detected in the aqueous bulk phase 
+lower panel of R82A Fig. 10A and at the protein surface Fig. 10 , B-D , 
+lower panel of the three double mutants R82A G72C , >R82A< A160C , and R82A G231C 
+, respectively 
+--- 110 --- : < enter here properties as inferred from evidence in the text below:
+In Fig. 10 the kinetics of the rise and decay of the M-intermediate upper panel are 
+compared with the kinetics of proton release and uptake , detected in the aqueous bulk phase 
+lower panel of R82A Fig. 10A and at the protein surface Fig. 10 , B-D , 
+lower panel of the three double mutants R82A G72C , R82A A160C , and >R82A< G231C 
+, respectively 
+--- 111 --- : < enter here properties as inferred from evidence in the text below:
+Five exponentials are required to fit the time traces for M in >R82A< , R82A G72C 
+, and R82A A160C 
+--- 112 --- : < enter here properties as inferred from evidence in the text below:
+Five exponentials are required to fit the time traces for M in R82A , >R82A< G72C 
+, and R82A A160C 
+--- 113 --- : < enter here properties as inferred from evidence in the text below:
+Five exponentials are required to fit the time traces for M in R82A , R82A G72C 
+, and >R82A< A160C 
+--- 114 --- : < enter here properties as inferred from evidence in the text below:
+The two major M-rise time constants are similar in >R82A< , R82A A160C cysteine mutation on 
+the cytoplasmic surface , and R82A G72C cysteine mutation on the extracellular surface with tau1 420 
+ns and tau2 8.6 µs , tau1 300ns and tau2 5.4 µs , and tau1 710ns 
+and tau2 9.7 µs , respectively 
+--- 115 --- : < enter here properties as inferred from evidence in the text below:
+The two major M-rise time constants are similar in R82A , >R82A< A160C cysteine mutation on 
+the cytoplasmic surface , and R82A G72C cysteine mutation on the extracellular surface with tau1 420 
+ns and tau2 8.6 µs , tau1 300ns and tau2 5.4 µs , and tau1 710ns 
+and tau2 9.7 µs , respectively 
+--- 116 --- : < enter here properties as inferred from evidence in the text below:
+The two major M-rise time constants are similar in R82A , R82A A160C cysteine mutation on 
+the cytoplasmic surface , and >R82A< G72C cysteine mutation on the extracellular surface with tau1 420 
+ns and tau2 8.6 µs , tau1 300ns and tau2 5.4 µs , and tau1 710ns 
+and tau2 9.7 µs , respectively 
+--- 117 --- : < enter here properties as inferred from evidence in the text below:
+The time-resolved proton concentration changes because of proton release and uptake lower panels were measured with 
+the bulk pH indicator pyranine for the mutant >R82A< A or measured with the surface-bound fluorescein 
+for the mutants R82A G72C B , R82A A160C C , and R82A G231C D 
+--- 118 --- : < enter here properties as inferred from evidence in the text below:
+The time-resolved proton concentration changes because of proton release and uptake lower panels were measured with 
+the bulk pH indicator pyranine for the mutant R82A A or measured with the surface-bound fluorescein 
+for the mutants >R82A< G72C B , R82A A160C C , and R82A G231C D 
+--- 119 --- : < enter here properties as inferred from evidence in the text below:
+The time-resolved proton concentration changes because of proton release and uptake lower panels were measured with 
+the bulk pH indicator pyranine for the mutant R82A A or measured with the surface-bound fluorescein 
+for the mutants R82A G72C B , >R82A< A160C C , and R82A G231C D 
+--- 120 --- : < enter here properties as inferred from evidence in the text below:
+The time-resolved proton concentration changes because of proton release and uptake lower panels were measured with 
+the bulk pH indicator pyranine for the mutant R82A A or measured with the surface-bound fluorescein 
+for the mutants R82A G72C B , R82A A160C C , and >R82A< G231C D 
+--- 121 --- : < enter here properties as inferred from evidence in the text below:
+In all three mutants >R82A< , R82A G72C , and R82A A160C proton uptake precedes proton 
+release 
+--- 122 --- : < enter here properties as inferred from evidence in the text below:
+In all three mutants R82A , >R82A< G72C , and R82A A160C proton uptake precedes proton 
+release 
+--- 123 --- : < enter here properties as inferred from evidence in the text below:
+In all three mutants R82A , R82A G72C , and >R82A< A160C proton uptake precedes proton 
+release 
+--- 124 --- : < enter here properties as inferred from evidence in the text below:
+With the surface-bound dye fluorescein at position >A160C< at the cytoplasmic surface , two proton uptake 
+components were detected for R82A A160C with time constants 1 µs approx40 and 150 15 µs 
+approx60 Fig. 10C , lower panel 
+--- 125 --- : < enter here properties as inferred from evidence in the text below:
+With the surface-bound dye fluorescein at position A160C at the cytoplasmic surface , two proton uptake 
+components were detected for R82A >A160C< with time constants 1 µs approx40 and 150 15 µs 
+approx60 Fig. 10C , lower panel 
+--- 126 --- : < enter here properties as inferred from evidence in the text below:
+The proton uptake measured with the dye bound at position >G72C< on the extracellular surface was 
+fitted with two time constants of tau1 84 10 µs approx50 and tau2 185 12 µs 
+approx50 Fig. 10B , lower panel 
+--- 127 --- : < enter here properties as inferred from evidence in the text below:
+The main proton release component at the surface of >R82A< is about 1 ms tau 0.73 
+ms for R82A G72C and tau1 1.4 ms for R82A A160C or slower tau2 14 ms 
+for R82A A160C 
+--- 128 --- : < enter here properties as inferred from evidence in the text below:
+The main proton release component at the surface of R82A is about 1 ms tau 0.73 
+ms for >R82A< G72C and tau1 1.4 ms for R82A A160C or slower tau2 14 ms 
+for R82A A160C 
+--- 129 --- : < enter here properties as inferred from evidence in the text below:
+The main proton release component at the surface of R82A is about 1 ms tau 0.73 
+ms for R82A G72C and tau1 1.4 ms for >R82A< A160C or slower tau2 14 ms 
+for R82A A160C 
+--- 130 --- : < enter here properties as inferred from evidence in the text below:
+The main proton release component at the surface of R82A is about 1 ms tau 0.73 
+ms for R82A G72C and tau1 1.4 ms for R82A A160C or slower tau2 14 ms 
+for >R82A< A160C 
+--- 131 --- : < enter here properties as inferred from evidence in the text below:
+Our experimental data thus clearly show that in the mutant >R82A< the release is slowed down 
+, and the uptake is accelerated compared with wt proton release tau 71 µs and proton 
+uptake tau 8ms , as measured with the wt-like bR-mutant protein G72C-AF 25 
+--- 132 --- : < enter here properties as inferred from evidence in the text below:
+In contrast to the double mutants >R82A< G72C and R82A A160C , which have photocycles similar 
+to that of the single mutant R82A , the photocycle of R82A G231C is similar to 
+wt as described in the preceding two sections 
+--- 133 --- : < enter here properties as inferred from evidence in the text below:
+In contrast to the double mutants R82A G72C and >R82A< A160C , which have photocycles similar 
+to that of the single mutant R82A , the photocycle of R82A G231C is similar to 
+wt as described in the preceding two sections 
+--- 134 --- : < enter here properties as inferred from evidence in the text below:
+In contrast to the double mutants R82A G72C and R82A A160C , which have photocycles similar 
+to that of the single mutant >R82A< , the photocycle of R82A G231C is similar to 
+wt as described in the preceding two sections 
+--- 135 --- : < enter here properties as inferred from evidence in the text below:
+In contrast to the double mutants R82A G72C and R82A A160C , which have photocycles similar 
+to that of the single mutant R82A , the photocycle of >R82A< G231C is similar to 
+wt as described in the preceding two sections 
+--- 136 --- : < enter here properties as inferred from evidence in the text below:
+DISCUSSION TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES RESULTS DISCUSSION REFERENCES Kinetics of Proton Release and Uptake Detected 
+at the Surface of the bR Mutant R82A-- The reversed order of proton release and uptake 
+in >R82A< and R82Q , as detected with the pH indicator dye pyranine in the aqueous 
+bulk phase , was first reported by Otto et al. 20 using DMPC CHAPS micelles 
+--- 137 --- : < enter here properties as inferred from evidence in the text below:
+DISCUSSION TOP ABSTRACT INTRODUCTION EXPERIMENTAL PROCEDURES RESULTS DISCUSSION REFERENCES Kinetics of Proton Release and Uptake Detected 
+at the Surface of the bR Mutant R82A-- The reversed order of proton release and uptake 
+in R82A and >R82Q< , as detected with the pH indicator dye pyranine in the aqueous 
+bulk phase , was first reported by Otto et al. 20 using DMPC CHAPS micelles 
+--- 138 --- : < enter here properties as inferred from evidence in the text below:
+Our measurements of the proton transfer kinetics in the aqueous bulk phase in the single mutant 
+>R82A< also give proton uptake kinetics in the same time range of tau approx 7 ms 
+Table III and Fig. 10A 
+--- 139 --- : < enter here properties as inferred from evidence in the text below:
+We therefore constructed double mutants with the >R82A< substitution as well as another residue at either 
+surface mutated to cysteine as an attachment site for the pH indicator dye 
+--- 140 --- : < enter here properties as inferred from evidence in the text below:
+We chose >G72C< at the extracellular surface and A160C at the cytoplasmic surface 
+--- 141 --- : < enter here properties as inferred from evidence in the text below:
+We chose G72C at the extracellular surface and >A160C< at the cytoplasmic surface 
+--- 142 --- : < enter here properties as inferred from evidence in the text below:
+Both single cysteine mutants exhibit photocycle kinetics like wild type , with minor changes in the 
+second half of the photocycle for >A160C< 25 
+--- 143 --- : < enter here properties as inferred from evidence in the text below:
+The photocycles of >R82A< , R82A G72C , and R82A A160C are very similar 
+--- 144 --- : < enter here properties as inferred from evidence in the text below:
+The photocycles of R82A , >R82A< G72C , and R82A A160C are very similar 
+--- 145 --- : < enter here properties as inferred from evidence in the text below:
+The photocycles of R82A , R82A G72C , and >R82A< A160C are very similar 
+--- 146 --- : < enter here properties as inferred from evidence in the text below:
+A similar time constant of about 150 µs was observed for a contribution from a 13-cis-photoproduct 
+21 in the >R82A< photocycle at pH 7.3 data not shown 
+--- 147 --- : < enter here properties as inferred from evidence in the text below:
+Proton release was observed with about 1.4 and 14 ms on the cytoplasmic surface with the 
+dye in position 160 and about 1 ms at the extracellular surface in position 72. Comparison 
+with time-resolved photovoltage measurements of >R82A< under the same conditions2 indicates there may be a transient 
+protonation and deprotonation without net transport correlated with the H uptake time of 150 µs and 
+the first H release time of about 1 ms , respectively , very likely attributed to 
+the 13-cis-photocycle 
+--- 148 --- : < enter here properties as inferred from evidence in the text below:
+Furthermore , net proton transfer is observed in the electrical measurements of the purple form of 
+R82A.2 Together with our results that proton uptake in >R82A< clearly takes place at the cytoplasmic 
+surface , we conclude that the direction of proton pumping is the same as in wild 
+type , with proton release at the extracellular and uptake at the cytoplasmic surface 
+--- 149 --- : < enter here properties as inferred from evidence in the text below:
+This interpretation was based on the fact that the proton uptake time in >R82Q< , monitored 
+in the aqueous bulk phase , was virtually the same as in wild type 
+--- 150 --- : < enter here properties as inferred from evidence in the text below:
+Our results , on the other hand , provide evidence that the mutation >R82A< , the 
+substitution of a residue in the proton release channel close to the extracellular surface , affects 
+not only the proton release , but in particular the proton uptake time at the opposite 
+surface 1 µs compared with 8 ms in the wt-like mutant A160C , as monitored directly 
+at the cytoplasmatic protein surface 
+--- 151 --- : < enter here properties as inferred from evidence in the text below:
+The second site revertants of mutants containing single replacements at position 82 in bR like >R82A< 
+and R82Q are of particular interest , because Arg-82 has been proposed to be involved in 
+multiple types of interactions , as part of the counterion of the Schiff base proton electrostatic 
+interaction , in interactions with the primary and terminal proton release groups electrostatic and structural-conformational interactions 
+, and during folding structural-electrostatic interaction 
+--- 152 --- : < enter here properties as inferred from evidence in the text below:
+These differences may help to explain why the mutational change in position 231 at the cytoplasmic 
+surface far away from position 82 see Fig. 1 is able to revert many of the 
+altered properties in >R82A< back to wild type 
+--- 153 --- : < enter here properties as inferred from evidence in the text below:
+Note , that the neutral alanine residue in the mutant >R82A< is not capable of participating 
+in a hydrogen-bonded network 
+--- 154 --- : < enter here properties as inferred from evidence in the text below:
+We found that the most striking similarity between the mutants >R82A< , G231C , and R82A 
+G231C is the loss of cooperativity in the purple to blue transition n 1.6 in wild 
+type to n 0.8-1.1 in the mutants indicated 
+--- 155 --- : < enter here properties as inferred from evidence in the text below:
+We found that the most striking similarity between the mutants R82A , G231C , and >R82A< 
+G231C is the loss of cooperativity in the purple to blue transition n 1.6 in wild 
+type to n 0.8-1.1 in the mutants indicated 
+--- 156 --- : < enter here properties as inferred from evidence in the text below:
+We found that the most striking similarity between the mutants R82A , >G231C< , and R82A 
+G231C is the loss of cooperativity in the purple to blue transition n 1.6 in wild 
+type to n 0.8-1.1 in the mutants indicated 
+--- 157 --- : < enter here properties as inferred from evidence in the text below:
+We found that the most striking similarity between the mutants R82A , G231C , and R82A 
+>G231C< is the loss of cooperativity in the purple to blue transition n 1.6 in wild 
+type to n 0.8-1.1 in the mutants indicated 
+--- 158 --- : < enter here properties as inferred from evidence in the text below:
+Conformational changes on the cytoplasmic surface close to helix G are suggested from the altered labeling 
+stoichiometry with 5-iodoacetamidofluorescein observed between >G231C< and R82A G231C 
+--- 159 --- : < enter here properties as inferred from evidence in the text below:
+Conformational changes on the cytoplasmic surface close to helix G are suggested from the altered labeling 
+stoichiometry with 5-iodoacetamidofluorescein observed between G231C and R82A >G231C< 
+--- 160 --- : < enter here properties as inferred from evidence in the text below:
+A conformational change in helix G introduced by the mutation >G231C< can lead to a different 
+interaction of the Asp-212 side chain with the neighboring residues in R82A G231C in such a 
+way that the side chain of Asp-212 no longer participates in the complex counterion 
+--- 161 --- : < enter here properties as inferred from evidence in the text below:
+A conformational change in helix G introduced by the mutation G231C can lead to a different 
+interaction of the Asp-212 side chain with the neighboring residues in R82A >G231C< in such a 
+way that the side chain of Asp-212 no longer participates in the complex counterion 
+--- 162 --- : < enter here properties as inferred from evidence in the text below:
+Recent time-resolved electrical measurements 19 provide evidence that the movement of the positively charged arginine 82 
+side chain makes a substantial contribution to the amplitude of the electrical signal in wt. This 
+amplitude is clearly reduced in the mutants >G231C< and R82A G231C.2 This result can be interpreted 
+with the absence of the movement of Arg-82 already in the single mutant G231C 
+--- 163 --- : < enter here properties as inferred from evidence in the text below:
+Recent time-resolved electrical measurements 19 provide evidence that the movement of the positively charged arginine 82 
+side chain makes a substantial contribution to the amplitude of the electrical signal in wt. This 
+amplitude is clearly reduced in the mutants G231C and R82A G231C.2 This result can be interpreted 
+with the absence of the movement of Arg-82 already in the single mutant >G231C< 
+--- 164 --- : < enter here properties as inferred from evidence in the text below:
+Therefore , it might be that in the mutant protein >G231C< the arginine 82 side chain 
+is already pointing outward to the extracellular surface and does not contribute to the proton release 
+process 
+--- 165 --- : < enter here properties as inferred from evidence in the text below:
+Among the double mutants with >R82A< or R82Q previously described in the literature 30 , 40-42 
+, only one , R82Q D212N 41 , 42 , with the second site mutation nearby 
+at position 212 in helix G , is able to partially rescue the normal functional features 
+, like normal kinetics of proton release and uptake and pKa of Asp-85 41 
+--- 166 --- : < enter here properties as inferred from evidence in the text below:
+Among the double mutants with R82A or >R82Q< previously described in the literature 30 , 40-42 
+, only one , R82Q D212N 41 , 42 , with the second site mutation nearby 
+at position 212 in helix G , is able to partially rescue the normal functional features 
+, like normal kinetics of proton release and uptake and pKa of Asp-85 41 
+--- 167 --- : < enter here properties as inferred from evidence in the text below:
+Among the double mutants with R82A or R82Q previously described in the literature 30 , 40-42 
+, only one , >R82Q< D212N 41 , 42 , with the second site mutation nearby 
+at position 212 in helix G , is able to partially rescue the normal functional features 
+, like normal kinetics of proton release and uptake and pKa of Asp-85 41 
+--- 168 --- : < enter here properties as inferred from evidence in the text below:
+Interestingly , the compensatory mutation found in our study , G231C , is like Asp-212 also 
+located in helix G. Whereas Arg-82 and Asp-212 are close together , Gly-231 is located at 
+the end of helix G far away from Arg-82 see Fig. 1 . Therefore , in 
+our case the effect of G231C on >R82A< in the double mutant R82A G231C is clearly 
+not a short range electrostatic compensation as in R82Q D212N where a neutral charge pair was 
+removed , but rather long range , and suggests a coupling of the two residues in 
+the different parts of the protein 
+--- 169 --- : < enter here properties as inferred from evidence in the text below:
+Interestingly , the compensatory mutation found in our study , G231C , is like Asp-212 also 
+located in helix G. Whereas Arg-82 and Asp-212 are close together , Gly-231 is located at 
+the end of helix G far away from Arg-82 see Fig. 1 . Therefore , in 
+our case the effect of G231C on R82A in the double mutant >R82A< G231C is clearly 
+not a short range electrostatic compensation as in R82Q D212N where a neutral charge pair was 
+removed , but rather long range , and suggests a coupling of the two residues in 
+the different parts of the protein 
+--- 170 --- : < enter here properties as inferred from evidence in the text below:
+Interestingly , the compensatory mutation found in our study , >G231C< , is like Asp-212 also 
+located in helix G. Whereas Arg-82 and Asp-212 are close together , Gly-231 is located at 
+the end of helix G far away from Arg-82 see Fig. 1 . Therefore , in 
+our case the effect of G231C on R82A in the double mutant R82A G231C is clearly 
+not a short range electrostatic compensation as in R82Q D212N where a neutral charge pair was 
+removed , but rather long range , and suggests a coupling of the two residues in 
+the different parts of the protein 
+--- 171 --- : < enter here properties as inferred from evidence in the text below:
+Interestingly , the compensatory mutation found in our study , G231C , is like Asp-212 also 
+located in helix G. Whereas Arg-82 and Asp-212 are close together , Gly-231 is located at 
+the end of helix G far away from Arg-82 see Fig. 1 . Therefore , in 
+our case the effect of >G231C< on R82A in the double mutant R82A G231C is clearly 
+not a short range electrostatic compensation as in R82Q D212N where a neutral charge pair was 
+removed , but rather long range , and suggests a coupling of the two residues in 
+the different parts of the protein 
+--- 172 --- : < enter here properties as inferred from evidence in the text below:
+Interestingly , the compensatory mutation found in our study , G231C , is like Asp-212 also 
+located in helix G. Whereas Arg-82 and Asp-212 are close together , Gly-231 is located at 
+the end of helix G far away from Arg-82 see Fig. 1 . Therefore , in 
+our case the effect of G231C on R82A in the double mutant R82A >G231C< is clearly 
+not a short range electrostatic compensation as in R82Q D212N where a neutral charge pair was 
+removed , but rather long range , and suggests a coupling of the two residues in 
+the different parts of the protein 
+--- 173 --- : < enter here properties as inferred from evidence in the text below:
+On the other hand , the removal of all C-terminal amino acids in the mutant protein 
+>R82A< by enzymatic digestion with papain , which cuts between residues 231 and 232 and leaves 
+Gly-231 as the terminal residue , does not lead to the rescue as observed in the 
+double mutant R82A G231C but preserves the properties of R82A 
+--- 174 --- : < enter here properties as inferred from evidence in the text below:
+On the other hand , the removal of all C-terminal amino acids in the mutant protein 
+R82A by enzymatic digestion with papain , which cuts between residues 231 and 232 and leaves 
+Gly-231 as the terminal residue , does not lead to the rescue as observed in the 
+double mutant >R82A< G231C but preserves the properties of R82A 
+--- 175 --- : < enter here properties as inferred from evidence in the text below:
+On the other hand , the removal of all C-terminal amino acids in the mutant protein 
+R82A by enzymatic digestion with papain , which cuts between residues 231 and 232 and leaves 
+Gly-231 as the terminal residue , does not lead to the rescue as observed in the 
+double mutant R82A G231C but preserves the properties of >R82A< 
+--- 176 --- : < enter here properties as inferred from evidence in the text below:
+The absorption maximum of the chromophore in the C terminus-less >R82A< mutant protein is 600 nm 
+at pH 6 and the pK of the purple to blue transition is 7.2. These values 
+are similar to the ones observed in the full-length R82A 
+--- 177 --- : < enter here properties as inferred from evidence in the text below:
+The absorption maximum of the chromophore in the C terminus-less R82A mutant protein is 600 nm 
+at pH 6 and the pK of the purple to blue transition is 7.2. These values 
+are similar to the ones observed in the full-length >R82A< 
+--- 178 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving >R82A< studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only R82A G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 179 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving >R82A< described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only R82A G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 180 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant >R82A< T178V , 3 only R82A G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 181 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only >R82A< G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 182 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only R82A G231C reverts the properties 
+of >R82A< Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 183 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only R82A G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- >R82A< G72C and EF-loop R82A A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 184 --- : < enter here properties as inferred from evidence in the text below:
+Further , it supports the idea that the residues involved in the revertancy mechanism are located 
+in the helical region helix G . Among the three double mutants involving R82A studied in 
+this report , the five double or triple mutants involving R82A described in the literature 30 
+, 40-42 and the double mutant R82A T178V , 3 only R82A G231C reverts the properties 
+of R82A Q back to wt. Except for the double mutants with the second mutation in 
+the BC- R82A G72C and EF-loop >R82A< A160C , the second or third mutation is located 
+either in helix C , F , or G. Residues in these three helices are supposed 
+to participate in the hydrogen-bonded network facilitating proton pumping e.g. Asp-96 , Asp-212 , Asp-85 , 
+Tyr-185 , and Glu-204 
+--- 185 --- : < enter here properties as inferred from evidence in the text below:
+However , whether double mutants other than >R82A< G231C are able to rescue R82A and which 
+residues are involved in the revertancy mechanism is subject to further extensive mutagenesis studies 
+--- 186 --- : < enter here properties as inferred from evidence in the text below:
+However , whether double mutants other than R82A G231C are able to rescue >R82A< and which 
+residues are involved in the revertancy mechanism is subject to further extensive mutagenesis studies 
+--- 187 --- : < enter here properties as inferred from evidence in the text below:
+We demonstrated with experiments on the mutants >R82A< , G231C , and R82A G231C that allosteric 
+interactions occur between the extracellular and cytoplasmic surfaces of bacteriorhodopsin 
+--- 188 --- : < enter here properties as inferred from evidence in the text below:
+We demonstrated with experiments on the mutants R82A , G231C , and >R82A< G231C that allosteric 
+interactions occur between the extracellular and cytoplasmic surfaces of bacteriorhodopsin 
+--- 189 --- : < enter here properties as inferred from evidence in the text below:
+We demonstrated with experiments on the mutants R82A , >G231C< , and R82A G231C that allosteric 
+interactions occur between the extracellular and cytoplasmic surfaces of bacteriorhodopsin 
+--- 190 --- : < enter here properties as inferred from evidence in the text below:
+We demonstrated with experiments on the mutants R82A , G231C , and R82A >G231C< that allosteric 
+interactions occur between the extracellular and cytoplasmic surfaces of bacteriorhodopsin 
+--- 191 --- : < enter here properties as inferred from evidence in the text below:
+>A160C< G72C , G231C , mutant with alanine glycine in position 160 72 , 231 replaced 
+by cysteine 
+--- 192 --- : < enter here properties as inferred from evidence in the text below:
+>R82A< , mutant with arginine in position 82 replaced by alanine 
+--- 193 --- : < enter here properties as inferred from evidence in the text below:
+A160C-MF AF G72C-MF AF or G231C-MF AF , mutant >A160C< G72C or G231C with methyl - 
+or acetamido fluorescein , respectively , bound to cysteine 
+--- 194 --- : < enter here properties as inferred from evidence in the text below:
+This article has been cited by other articles : Home page Biophys J Home page S. 
+Paula , J. Tittor , and D. Oesterhelt Roles of Cytoplasmic Arginine and Threonine in Chloride 
+Transport by the Bacteriorhodopsin Mutant >D85T< Biophys. J. , May 1 , 2001 

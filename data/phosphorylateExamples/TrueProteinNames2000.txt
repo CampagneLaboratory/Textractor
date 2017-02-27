@@ -1,0 +1,68 @@
+#JBC2000
+#275_50_39727
+#PKC is already in the list
+PKC beta
+PKC betaII
+SAF
+SAF 1
+
+#275_50_39767
+#PKC is already in the list
+PLC beta
+PLC beta1
+PLC beta2
+M3 mAChR
+P2Y2 receptor
+P2Y2 receptors
+Galphaq 11
+
+
+#275_51_40400  related to 274_52_37400
+PKB
+PKBalpha
+PDK1
+PDK1A280V
+PDK2
+PIF
+GST PIF
+PRK1
+PRK2
+
+#275_52_40946
+PKC
+PKCalpha
+PKCzeta
+CBP
+p300
+CBP p300
+cdk2
+
+#more
+SAA
+PLCbeta
+GPCR
+GPCRs
+IP3
+Ca2+
+
+#275_26_19819
+IL-1
+IL-6
+EP1
+EP2
+EP3
+EP4
+Bt2cAMP
+PGE2
+
+#275_27_20578
+Grb2-N-SH3
+Grb2-C-SH3
+rMAP2c
+GST-SH3
+protein tyrosine kinase Abl
+adaptor protein Nck
+MAP2
+Src
+Grb2
+

@@ -1,0 +1,561 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Exocytosis of single chromaffin granules in cell-free inside-out membrane patches - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n4';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=C0A804ED46501BF3B085EE39794E411141F3">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html#le">Letter</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><input xmlns="" value="le" id="categ" type="hidden"><input xmlns="" value="" id="arch_categ" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">Letter</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>
+&nbsp;<b>5</b>, 358 - 362 (2003)
+ <br>Published online: 24&nbsp;March&nbsp;2003;  | doi:10.1038/ncb956
+</span><h2 xmlns="">Exocytosis of single chromaffin granules in cell-free inside-out membrane patches</h2><span xmlns="" class="author">Gregor Dernick<sup>1</sup>, Guillermo Alvarez de Toledo<sup>2</sup>
+&amp;&nbsp;Manfred Lindau<sup>1</sup><p class="blacksml"><sup>1</sup>&nbsp;School of Applied and Engineering Physics, Cornell University, Ithaca, New York, 14853-2501, USA</p><p class="blacksml"><sup>2</sup>&nbsp;Department of Physiology and Biophysics, University of Seville, E-41009 Sevilla, Spain</p><span class="blacksml">
+Correspondence should be addressed to Manfred Lindau <a href="mailto:ml95@cornell.edu">ml95@cornell.edu</a></span></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>In chromaffin cells, exocytosis of single granules and properties of the fusion pore &#151; the first connection between vesicular lumen and extracellular space<sup><a href="#B1">1</a></sup> &#151; can be studied by cell-attached patch amperometry<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>, which couples patch-clamp capacitance measurements<sup><a href="#B4">4, 
+</a></sup><sup><a href="#B5">5, 
+</a></sup><sup><a href="#B6">6, 
+</a></sup><sup><a href="#B7">7</a></sup> with simultaneous amperometric recordings of transmitter release<sup><a href="#B8">8, 
+</a></sup><sup><a href="#B9">9</a></sup>. Here we have studied exocytosis of single chromaffin granules and endocytosis of single vesicles in cell-free inside-out membrane patches by patch capacitance measurements and patch amperometry. We excised patches from chromaffin cells by using methods developed for studying properties of single ion channels<sup><a href="#B10">10</a></sup>. With low calcium concentrations in the pipette and bath, the patches showed no spontaneous exocytosis, but exocytosis could be induced in some patches by applying calcium to the cytoplasmic side of the patch. Exocytosis was also stimulated by calcium entry through the patch membrane. Initial conductances of the fusion pore were undistinguishable in cell-attached and excised patch recordings, but the subsequent pore expansion was slower in excised patches. The properties of exocytotic fusion pores in chromaffin cells are very similar to those observed in mast cells and granulocytes. Excised patches provide a tool with which to study the mechanisms of fusion pore formation and endocytosis <i>in vitro</i>.<br><br></b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">The molecular mechanisms underlying the formation and expansion of fusion pores are still not understood. Exocytosis in chromaffin cells is mediated by SNARE (soluble NSF attachment protein (SNAP) receptor) proteins, as is exocytosis of synaptic vesicles (reviewed in ref. <a href="#B11">11</a>). In chromaffin cells, exocytosis of single granules and properties of the fusion pore can be studied by cell-attached patch amperometry<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. With this method, fusion pore openings can be characterized by cell-attached patch-clamp capacitance measurements while transmitter release is recorded simultaneously by an amperometric carbon fibre electrode inserted into the patch pipette. To determine whether cytosolic factors affect the properties of the fusion event, we have done experiments on excised patches.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Excised inside-out patches were formed in sodium glutamate or potassium glutamate solutions containing either no calcium and 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M EGTA or a calcium EGTA buffer that resulted in a free calcium concentration of 150 nM in the bath. The patch pipette was positioned close to a puffer pipette filled with stimulation buffer containing 2 mM calcium (<a href="#f1">Fig. 1a</a>). The experiment of <a href="#f1">Fig. 1</a> shows two capacitance steps. One occurred during the application of pressure to the puffer pipette (0.7 fF), the other (2.5 fF) occurred 4.5 s after the pressure had been released. No other capacitance steps occurred during this recording. The capacitance steps corresponded to vesicles of 160 nm and 300 nm diameter, sizes that are expected for bovine chromaffin granules<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B4">4, 
+</a></sup><sup><a href="#B12">12</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F1.html">Figure&nbsp;1.</a>&nbsp;Capacitance steps evoked by applying calcium to an inside-out patch.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb956-f1.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, A solution containing 2 mM calcium was applied from the pipette on the left after excising the patch with the pipette on the right. <b>b</b>, Capacitance recording was started in the cell-attached configuration and was continued until 90 s after pressure application. The grey bar indicates time of pressure application to the puffer pipette. Two exocytotic events were stimulated (arrows). The recording was invalid during the 23 s required to excise the patch and readjust capacitance compensation. Interruptions in the traces reflect deletions containing continuous changes owing to the application and release of pressure but no capacitance steps. With this set up, the calcium concentration decreases slowly after pressure is released. Using dye ejection from a pipette, a time constant of about 18 s was estimated for the concentration decrease near the tip. Thus, at the time of the second step, the calcium concentration was still elevated at about 1.6 mM. <b>c</b>, Expanded view of the second step. The imaginary part (red) increases gradually before reaching full vesicle capacitance, whereas the real part (blue) shows a transient increase. The fusion pore conductance (cyan) was calculated from the imaginary trace alone (Methods). The expansion of the fusion pore is expected to be accompanied by a transient increase in the real trace (blue trace, black circles). The measured real part of the admittance (blue trace, blue circles) and the expected transient increase superimpose perfectly until 15 ms after the final capacitance is reached (right vertical broken line). Thereafter the real trace decreases below baseline, indicating a decrease in conductance that is not related to the fusion pore dynamics. This decrease is about the size of the increase induced by pressure application to the puffer pipette. These phenomena presumably reflect a slight increase in seal conductance induced by pressure application, followed by resealing that might be facilitated by the addition of extra membrane owing to the exocytotic fusion event.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F1.html">Full Figure and legend (59K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">The second step is shown on an expanded scale in <a href="#f1">Fig. 1c</a>. The imaginary part of the admittance change (imaginary trace, top), which usually indicates the capacitance change, shows that the rise occurred in several phases until the final value of 2.5 fF was attained, suggestive of the gradual expansion of a narrow fusion pore<sup><a href="#B1">1, 
+</a></sup><sup><a href="#B2">2</a></sup>. The initial conductance of the fusion pore was 210 pS and remained constant during the next 25 ms (initial slope <i>s</i> = 0 nS s<sup>-1</sup>; <a href="#f1">Fig, 1c</a>, middle). Subsequently, the pore expanded slowly to a conductance of 400 pS. After 80 ms the pore conductance rose steeply, exceeding a value of 900 pS in the next 10 ms (delay <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta"><i>t</i> = 90 ms).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Without application of a calcium puff to the cytoplasmic face, exocytosis occurred spontaneously in inside-out patches when the patch pipette contained free calcium at physiological concentrations (0.5&#150;2 mM calcium). With 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M EGTA and no added calcium in the bath, 15 of 46 (31%) inside-out patches showed exocytotic events (<a href="#f2">Fig. 2a</a>), with an average of 9 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 1 events per active patch (<a href="#f2">Fig. 2b</a>). This activity was similar to that found in the cell-attached configuration under similar conditions (<a href="#f2">Fig. 2e, f</a>). Both cell-attached and inside-out patches showed no spontaneous activity when the calcium concentrations in both the bath and the pipette were buffered with 10 mM EGTA at 150 nM calcium. Thus, calcium entering through the patch membrane stimulated exocytosis in both cell-attached and excised patches. In the cell-attached configuration, patches often showed action currents (data not shown), suggesting that patch formation depolarized the cell and stimulated calcium entry. Thus, depolarizing pulses of voltage in the cell-attached configuration do not normally increase exocytotic activity.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f2"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F2.html">Figure&nbsp;2.</a>&nbsp;Statistical analysis of exocytotic activity.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F2.html"><img border="0" alt="Figure&nbsp;2 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb956-f2.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>&#150;<b>d</b>, In excised inside-out patches, the calcium concentration was varied separately on the extracellular (pipette) and intracellular (bath) side of the patch membrane. <b>e</b>, <b>f</b>, In cell-attached patches, the calcium concentration was varied separately on the extracellular side of the patch (pipette) and the extracellular side of the remaining part of the plasma membrane (bath). Numbers in parentheses represent the total number of patches (<b>e</b>) and the number of active patches (<b>f</b>). <b>g</b>, <b>h</b>, Distribution of capacitance step size in exocytotic events in excised inside-out (<b>g</b>) and cell-attached (<b>h</b>) patches.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F2.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F2.html">Full Figure and legend (72K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">The mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. capacitance step size in excised patches (1.8 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.1 fF; <i>n</i> = 161) was indistinguishable from that in cell-attached (1.9 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.1 fF; <i>n</i> = 280) patches and the step size distributions were also very similar (<a href="#f2">Fig. 2g, h</a>). Using patch amperometry, we determined the quantal release of catecholamine associated with these events in inside-out patches (<a href="#f3">Fig. 3</a>). The mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. spike charge was 3.2 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.6 pC (<i>n</i> = 94) in excised patches and 4.0 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.4 pC (<i>n</i> = 184) in cell-attached patches, corresponding to about 10<sup>7</sup> molecules per vesicle. The mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. vesicular concentration was 1.3 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.4 M (<i>n</i> = 94) in excised patches and 1.3 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.5 M (<i>n</i> = 184) in cell-attached patches. Thus, there are no significant differences between the properties of the exocytosed vesicles in cell-attached and inside-out patches. The events observed in excised inside-out patches correspond to the exocytosis of single chromaffin granules.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f3"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F3.html">Figure&nbsp;3.</a>&nbsp;Fusion pore analysis.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F3.html"><img border="0" alt="Figure&nbsp;3 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb956-f3.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Fusion pore opening, recorded by patch amperometry in the excised inside-out patch configuration, stimulated by calcium entry through the patch membrane (pipette, 0.5 mM calcium; bath, 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">M EGTA). Between the two vertical broken lines the amperometric signal (green) shows a foot signal preceding the onset of the spike (broken line, expanded scale). The imaginary part of the admittance (red) increases gradually, whereas the real part (blue) shows a transient increase. The fusion pore conductance (cyan) was calculated from the real and imaginary traces (Methods). The initial fusion pore conductance, initial slope and delay between fusion pore opening and rapid expansion are indicated. The initial slope was determined for those events in which the pore conductance stayed below 1 nS for at least 25 ms. <b>b</b>&#150;<b>d</b>, Statistical analysis of fusion pore properties. The fusion pore expansion (<b>d</b>) is significantly slower in excised patches (<i>P</i> = 0.03). <b>e</b>, Fast kiss-and-run event measured from an excised patch. A vesicle fused only transiently to the plasma membrane with full release just before the end of the flicker (pipette, 0.5 mM calcium; bath, 0.1 mM EGTA). The imaginary trace (red) shows a transient increase for about 90 ms. Simultaneously, the real trace (blue) shows a transient increase, although the down step to baseline of the real trace slightly precedes the down step of the imaginary trace. This indicates that the fusion pore expands briefly to a large size. The transient increase in the real trace reflects a narrow fusion pore (cyan) and not a phase mis-adjustment of the lock-in amplifier, as confirmed by the foot signal in the amperometric trace (green). At the end of the flicker, the fusion pore conductance transiently increases briefly before re-closing, allowing rapid release, which is reflected in the amperometric spike. This spike is broadened owing to diffusion because the carbon fibre was relatively far away from the patch (6.4 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">m).</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F3.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F3.html">Full Figure and legend (67K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">In the exocytotic event shown in <a href="#f3">Fig. 3a</a>, the fusion pore had an initial conductance of 310 pS (cyan, bottom trace), which increased to <img border=0 src="/__chars/math/special/sim/black/med/base/glyph.gif" align="bottom">600 pS in the next 40 ms and then increased steeply to a conductance exceeding 1 nS. In the low-conductance phase of the fusion pore, the amperometric trace showed the familiar foot signal<sup><a href="#B11">11</a></sup>, followed by a spike coincident with the steep increase in fusion pore conductance. In the inside-out configuration, 90% (72 of 80) of exocytotic events with sufficiently low noise showed a transient in the real trace, indicative of a narrow fusion pore. In the cell-attached configuration, such a transient increase in the real trace was observed in 72% (94 of 130) of the low-noise events. In excised patches, either the initial fusion pore conductance tended to be smaller, or the time between fusion pore opening and expansion tended to be longer than in cell-attached patches. The initial fusion pore conductance, however, was indistinguishable in inside-out (330 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 25 pS; <i>n</i> = 31) and cell-attached (328 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 31 pS; <i>n</i> = 34) patches (<a href="#f3">Fig. 3b</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">The dynamics of fusion pore expansion was characterized both by the delay, <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta"><i>t</i>, between initial formation of the fusion pore and the rapid increase to a conductance of more than 1 nS, and by the initial rate of fusion pore expansion, determined from the slope, <i>s</i>, of the fusion pore conductance trace during the first 25 ms after its formation (<a href="#f3">Fig. 3a</a>). The mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. delay (<a href="#f3">Fig. 3c</a>) was 30.4 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 5.6 ms (<i>n</i> = 80) in inside-out patches and 21.2 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 2.9 ms (<i>n</i> = 130) in cell-attached patches (<i>t</i>-test, <i>P</i> = 0.11). The mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. rate of fusion pore expansion (<a href="#f3">Fig. 3d</a>) was 7.4 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 2.3 nS s<sup>-1</sup> (<i>n</i> = 25) in excised patches and 14.6 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 2.3 nS s<sup>-1</sup> (<i>n</i> = 27) in cell-attached patches (<i>P</i> = 0.03).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Some capacitance flickers indicative of fast 'kiss-and-run' events<sup><a href="#B3">3</a></sup> occurred in excised patches. During most of the flickers shown in <a href="#f3">Fig. 3e</a>, the fusion pore conductance remained at about 400 pS and was associated with an amperometric foot signal. At the end of the flicker, the pore expanded briefly, allowing rapid release, as indicated by the amperometric spike. In inside-out patches, 13% of the events (20 of 158) were flickers (pipette, 0.5&#150;2 mM calcium). When exocytosis was stimulated by a calcium puff, however, exocytotic events were always (<i>n</i> = 26) permanent (capacitance steps) instead of transient (flickers).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Downward steps that were not preceded by upward steps (<a href="#f4">Fig. 4a</a>), which presumably reflected endocytosis not coupled to exocytosis, were observed in 39% of excised (21 of 53) and in 32% of cell-attached (36 of 112) patches. Active patches showed an average of six events per patch in both excised and cell-attached patches. In excised and cell-attached patches, the mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. step size was -1.0 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.1 fF (<i>n</i> = 124) and -0.8 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 0.1 fF (<i>n</i> = 245), and the mean <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. vesicle diameter 170 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 6.4 nm (<i>n</i> = 124) and 141 <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> 5.8 nm (<i>n</i> = 245), respectively. Endocytotic events were not correlated with exocytotic activity and occurred up to 17 min after inside-out patch formation. The event shown in <a href="#f4">Fig. 4a</a> was recorded after 17 min. Soluble proteins should be completely washed out from the patch within less than a minute<sup><a href="#B13">13</a></sup>; thus, cytosol is not a requirement for endocytosis. In excised patches, however, endocytosis occurred through larger vesicles (<a href="#f4">Fig. 4b</a>). For large events such as that shown in <a href="#f4">Fig. 4a</a>, closing of the fission pore could be analysed. The example shows rapid closure occurring from a conductance of 220 pS. It seems that closing of the fission pore behaves like time-reversed opening of the fusion pore, suggesting that fission and fusion pores may be structurally similar.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f4"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F4.html">Figure&nbsp;4.</a>&nbsp;Endocytosis in excised inside-out patches.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F4.html"><img border="0" alt="Figure&nbsp;4 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb956-f4.jpg"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Endocytotic step showing closing of the fission pore. The vesicle capacitance and fusion pore conductance were calculated as <i>C</i><sub>v</sub> = (Re<sup>2</sup> + Im<sup>2</sup>)/<img border=0 src="/__chars/omega/black/med/base/glyph.gif" align="bottom" alt="omega">Im and <i>G</i><sub>p</sub> = (Re<sup>2</sup> + Im<sup>2</sup>)/Re, respectively (bath 0.1 mM EGTA, pipette 0.5 mM calcium). <b>b</b>, <b>c</b>, Distributions of capacitance step size for endocytotic events in excised inside-out (<b>b</b>) and cell-attached (<b>c</b>) patches.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F4.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb956_F4.html">Full Figure and legend (54K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">We have shown that calcium-dependent exocytosis of chromaffin granules and endocytosis of small and large vesicles can be observed in excised inside-out patches from bovine chromaffin cells. In previous cell-attached recordings with high calcium concentrations in the pipette, most exocytotic events were kiss-and-run events and it was suggested that a higher elevation of intracellular calcium concentration may cause this altered mode of exocytosis<sup><a href="#B3">3</a></sup>. With the calcium puff a very high concentration of calcium was applied to the cytosolic face of the inside-out membrane patches, and this always (<i>n</i> = 26) stimulated full fusion (steps) instead of kiss-and-run (flickers) events. This suggests that high extracellular calcium may be required for fast kiss and run to occur. Presumably, the release of catecholamine leads to ion exchange such that the released catecholamine is replaced by cations entering from extracellular saline. In mast cells, histamine release leads to granule matrix swelling when the main extracellular cation is sodium, but not when it is calcium<sup><a href="#B14">14</a></sup>. If sodium and calcium have similar effects on the chromaffin granule matrix, we expect that calcium may prevent swelling and fast kiss and run is possible. But other factors may be involved in kiss-and-run fusion. The pre-exposure of cells to very low concentrations of extracellular calcium may induce de-priming and may also affect the mechanisms favouring kiss-and-run fusion. In addition, in excised patches extensive wash-out leads to loss of cytosolic factors, which also may be responsible for the loss of kiss-and-run fusion.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">The initial opening of the fusion pore in chromaffin cells is thought to involve the neuronal SNARE complex. We have shown that the average initial pore conductance is about 330 pS in excised and cell-attached patches, similar to that observed in non-excitable cells using whole-cell recordings. This suggests that fusion pores in excitable and non-excitable cells are structurally similar, at least for dense core granules<sup><a href="#B15">15</a></sup>. It also indicates that possible mechanical distortions of the patch membrane in cell-attached and excised configurations are not affecting the initial conductance of the fusion pore. The mean initial rate of fusion pore expansion was 7 nS s<sup>-1</sup> in excised patches and 15 nS s<sup>-1</sup> in cell-attached patches. These values are similar, albeit slightly slower than those observed in eosinophils using whole-cell recording<sup><a href="#B16">16, 
+</a></sup><sup><a href="#B17">17</a></sup>. The effect of mechanical stress imposed in cell-attached and excised patches, if any, should be an acceleration of fusion pore expansion, which was not observed. This indicates that the expansion of fusion pores in chromaffin cell patches is not abnormally distorted and that these measurements provide the physiological properties of the fusion pore.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">In mast cells and eosinophils, the fusion pore expansion rate is modulated by the concentration of intracellular free calcium and phorbol esther<sup><a href="#B16">16, 
+</a></sup><sup><a href="#B17">17, 
+</a></sup><sup><a href="#B18">18</a></sup>. In PC12 cells, the lifetime of the fusion pore changes slightly when the <img border=0 src="/__chars/alpha/black/med/base/glyph.gif" align="bottom" alt="alpha">1A calcium channel, synaptotagmin 1 or synaptotagmin IV is overexpressed<sup><a href="#B19">19</a></sup>. Although the detailed mechanisms have not been determined, these results further confirm the sensitivity of fusion pore kinetics to changes in the molecular machinery of fusion. Capacitance measurements in inside-out and cell-attached patches provide a more detailed quantitative characterization of the properties of fusion pores. A limitation with excised patches is the difficulty of forming stable patches with low calcium concentrations in both the bath and pipette, but this might be overcome by experimenting with different types of pipette glass and pipette shape. Studies of fusion pore properties in excised and cell-attached patches may help to elucidate the molecular machinery of fusion, analogous to the way in which single-channel recordings were instrumental in determining the molecular identity of ion channels.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Methods"></a><span xmlns="" class="heading3">Methods</span><br xmlns=""><a xmlns="" name="Cells and patches"></a><span xmlns="" class="articletext"><b>Cells and patches</b></span><br xmlns=""><span xmlns="" class="articletext">We prepared chromaffin cells as described<sup><a href="#B20">20</a></sup>. Patch-clamp recordings were made in the cell-attached and inside-out configurations on days 1&#150;10 of cell culture. For excised patch recordings, the pipette was withdrawn from the cell after the cell-attached configuration was achieved. To ensure the proper formation of an excised patch, or if the cell was not well attached to the coverslip, the patch pipette was moved through the air&#150;water interface, exposed to the air for about 1 s and submersed again in the bath.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Solutions"></a><span xmlns="" class="articletext"><b>Solutions</b></span><br xmlns=""><span xmlns="" class="articletext">For cell-attached recordings, the basic solutions used in both the bath and the patch pipette contained 140 mM NaCl, 5 mM KCl, 1 mM MgCl<sub>2</sub> and 10 mM HEPES-NaOH (pH 7.4). The calcium concentration in this solution was adjusted by adding either 2 mM CaCl<sub>2</sub> or 0.1 mM EGTA to the bath and 0.5, 2, 5, or 10 mM CaCl<sub>2</sub> to the pipette solution, respectively. In several experiments we used a highly buffered, low calcium concentration in both the bath and the pipette (140 mM NaCl, 5 mM KCl, 5 mM CaCl<sub>2</sub>, 3 mM MgCl<sub>2</sub>, 10 mM EGTA and 10 mM HEPES-NaOH; pH 7.4). The concentration of free calcium was 150 nM under these conditions. Free calcium concentrations were calculated using the program maxcalc (<a target="_blank" href="http://www.stanford.edu/~cpatton/webmaxc2.htm">http://www.stanford.edu/~cpatton/webmaxc2.htm</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">For the excised-patch configuration we used bath solution A (120 mM sodium glutamate, 20 mM NaCl, 5 mM KCl, 1 mM MgCl<sub>2</sub>, 0.1 mM EGTA and 10 mM HEPES-NaOH; pH 7.4) or B (120 mM potassium glutamate, 20 mM NaCl, 1 mM MgCl<sub>2</sub>, 0.1 mM EGTA and 10 mM HEPES-NaOH; pH 7.4) with a patch pipette solution containing 120 mM sodium glutamate, 20 mM NaCl, 5 mM KCl, 0.5 mM or 2 mM CaCl<sub>2</sub>, 1 mM MgCl<sub>2</sub>, 10 mM HEPES-NaOH (pH 7.4). To avoid the stimulation of exocytosis by residual calcium from the media when the potassium-based bath solution was used, the cells were bathed in bath solution A before they were transferred into B.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">For high calcium buffering capacity, we used solution C (120 mM sodium glutamate, 20 mM NaCl, 5 mM KCl, 5 mM CaCl<sub>2</sub>, 3 mM MgCl<sub>2</sub>, 10 mM EGTA and 10 mM HEPES-NaOH) or D (120 mM potassium glutamate, 20 mM NaCl, 5 mM CaCl<sub>2</sub>, 3 mM MgCl<sub>2</sub>, 10 mM EGTA, 10 mM HEPES-NaOH) with a patch pipette solution identical to bath solution C. The concentration of free calcium under these conditions was 150 nM. The stimulating solution in the puffer pipette had a similar composition to that of the bath solution in the respective experiment, but it did not contain EGTA and contained 0.5 mM or 2 mM CaCl<sub>2</sub> instead. All experiments were done at room temperature.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Capacitance measurements and fusion pore analysis"></a><span xmlns="" class="articletext"><b>Capacitance measurements and fusion pore analysis</b></span><br xmlns=""><span xmlns="" class="articletext">Cell-attached and inside-out patch capacitance measurements were done using a lock-in amplifier (SR830; Stanford Research Systems, Sunnyvale, CA). Changes of patch admittance were measured as described<sup><a href="#B4">4, 
+</a></sup><sup><a href="#B5">5</a></sup> using a 50-mV (r.m.s.) 20-kHz sine wave with output filters set to 1 ms and 24 dB. The phase of the lock-in traces was adjusted off-line such that capacitance or conductance changes showed no projections in the other trace. Fusion pore conductances were calculated from the two lock-in outputs, real (Re) and imaginary (Im), as <i>G</i><sub>p</sub> = (Re<sup>2</sup> + Im<sup>2</sup>)/Re (refs <a href="#B5">5</a>, <a href="#B7">7</a>, <a href="#B21">21</a>). If the real trace showed additional changes while the fusion event occurred (<a href="#f1">Fig. 1c</a>, for example), the vesicle capacitance (<i>C</i><sub>v</sub>) was determined from the final value in the imaginary trace after the fusion pore had expanded to a large conductance. Given the value of <i>C</i><sub>v</sub>, the fusion pore conductance (<i>G</i><sub>p</sub>) was then calculated from the imaginary trace alone using the formula <i>G</i><sub>p</sub> = <img border=0 src="/__chars/omega/black/med/base/glyph.gif" align="bottom" alt="omega"><i>C</i><sub>v</sub>/<img border=0 src="/__chars/math/special/radic/black/med/base/glyph.gif" align="bottom">(<img border=0 src="/__chars/omega/black/med/base/glyph.gif" align="bottom" alt="omega"><i>C</i><sub>v</sub>/[Im - 1]). (ref. <a href="#B1">1</a>). To confirm that the <i>G</i><sub>p</sub> calculation was correct, the expected changes in the real part, determined from Re = Im<img border=0 src="/__chars/omega/black/med/base/glyph.gif" align="bottom" alt="omega"><i>C</i><sub>v</sub>/<i>G</i><sub>p</sub>, were compared with the measured changes.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Patch amperometry"></a><span xmlns="" class="articletext"><b>Patch amperometry</b></span><br xmlns=""><span xmlns="" class="articletext">Patch amperometry was done as described<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>. A specially designed pipette holder containing two silver wires coated in AgCl accommodated a carbon fibre electrode inside the patch pipette. We recorded changes in the membrane patch in the pipette tip simultaneously with changes in catecholamine release from the same vesicle. Tip angles between the pipette axis and the pipette wall were 12&#150;15&#176;, tip sizes before polishing were 2&#150;5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">m and pipette resistances were 1&#150;3 M<img border=0 src="/__chars/_omega/black/med/base/glyph.gif" align="bottom" alt="Omega">. The bath electrode was connected to the input of the patch-clamp amplifier head-stage (EPC-7; HEKA Elektronik, Lambrecht, Germany). Changes of patch admittance were measured as described above, except that the sine wave was applied to the bath electrode that was connected to the patch-clamp amplifier.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Quantal event analysis"></a><span xmlns="" class="articletext"><b>Quantal event analysis</b></span><br xmlns=""><span xmlns="" class="articletext">Individual capacitance steps were converted into membrane area using a specific capacitance of 9 fF <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">m<sup>-2</sup>, and vesicular volume was calculated assuming spherical geometry. We determined the number of catecholamine molecules released in a quantal event by integrating the amperometric current and dividing the resulting charge by 2<i>e</i><sub>0</sub> (<i>e</i><sub>0</sub> is the elementary charge)<sup><a href="#B22">22</a></sup>. To determine the concentration of catecholamine molecules inside individual vesicles, we calculated the volume of each vesicle from the capacitance step size, assuming spherical geometry. Because the error in determining the concentration increases with decreasing vesicle size, a weighted average was calculated taking the capacitance step size as the relative weight.</span><br xmlns=""><br xmlns=""><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Received 22 March 2002; </span><span xmlns="" class="articletext">Accepted 4 February 2003; </span><span xmlns="" class="articletext">Published online 24 March 2003.</span><br xmlns=""><br xmlns=""><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Breckenridge, L.J. &amp; Almers, W. Currents through the fusion pore that forms during exocytosis of a secretory vesicle. <i>Nature</i> <b>328</b>, 814&#150;817 (1987).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F328814a0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2442614&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1987J762900061&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:BiiA3Mrjtlw%3D&pissn=1465-7392&pyear=2003&md5=f7ba647035a59329b992e4caaedc8feb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Albillos, A. <i>et al</i>. The exocytotic event in chromaffin cells revealed by patch amperometry. <i>Nature</i> <b>389</b>, 509&#150;512 (1997).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F39081" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9333242&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1997XY90900060&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2sXmsFaisL8%3D&pissn=1465-7392&pyear=2003&md5=1851224c233b51cb0c8c031b5a14c913" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Al&eacute;s, E. <i>et al</i>. High calcium concentrations shift the mode of exocytosis to the kiss-and-run mechanism. <i>Nature Cell Biol.</i> <b>1</b>, 40&#150;44 (1999).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F9012" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10559862&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000083085300016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1MXksVKitr0%3D&pissn=1465-7392&pyear=2003&md5=84a5f8778f5b00572746c0fcad61ba60" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Neher, E. &amp; Marty, A. Discrete changes of cell membrane capacitance observed under conditions of enhanced secretion in bovine adrenal chromaffin cells. <i>Proc. Natl Acad. Sci. USA</i> <b>79</b>, 6712&#150;6716 (1982).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6959149&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:BiyD28risVE%3D&pissn=1465-7392&pyear=2003&md5=f66374b82dc6983247e4f1dca5e2430b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Lollike, K., Borregaard, N. &amp; Lindau, M. The exocytotic fusion pore of small granules has a conductance similar to an ion channel. <i>J. Cell Biol.</i> <b>129</b>, 99&#150;104 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7535305&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995QP89400009&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXkslKqtrw%3D&pissn=1465-7392&pyear=2003&md5=de0b09d8538503d24165edb261fcdedb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Lollike, K., Borregaard, N. &amp; Lindau, M. Capacitance flickers and 'pseudoflickers' of small granules, measured in the cell attached configuration. <i>Biophys. J.</i> <b>75</b>, 53&#150;59 (1998).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9649367&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000075246200005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXktlWgs7w%3D&pissn=1465-7392&pyear=2003&md5=0a3f937f478db919b45bb84f824de73e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Debus, K. &amp; Lindau, M. Resolution of patch capacitance recordings and of fusion pore conductances in small vesicles. <i>Biophys. J.</i> <b>78</b>, 2983&#150;2997 (2000).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=10827977&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000087580400020&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3cXjvFOhu7Y%3D&pissn=1465-7392&pyear=2003&md5=8bbb451398156f3cccb3feb367992de7" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Wightman, R.M. <i>et al</i>. Temporally resolved catecholamine spikes correspond to single vesicle release from individual chromaffin cells. <i>Proc. Natl Acad. Sci. USA</i> <b>88</b>, 10754&#150;10758 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1961743&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK38Xhs1aitQ%3D%3D&pissn=1465-7392&pyear=2003&md5=acf698596b64570d8a0ee8fb2612aa2d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Chow, R.H., R&uuml;den, L.V. &amp; Neher, E. Delay in vesicle fusion revealed by electrochemical monitoring of single secretory events in adrenal chromaffin cells. <i>Nature</i> <b>356</b>, 60&#150;63 (1992).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F356060a0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1538782&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1992HG60200055&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK38Xhs1KrtbY%3D&pissn=1465-7392&pyear=2003&md5=a3098468f0aaf5719f114a4cc5ddfd0e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+Hamill, O.P., Marty, A., Neher, E., Sakmann, B. &amp; Sigworth, F.J. Improved patch-clamp technique for high-resolution current recording from cells and cell-free membrane patches. <i>Pfl&uuml;gers Arch. Eur. J. Physiol.</i> <b>391</b>, 85&#150;100 (1981).&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1981ME31100001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:Bi2D3sjhvVw%3D&pissn=1465-7392&pyear=2003&md5=aca38e07e193eb4c2b1b9e32ff1b6cc0" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+Burgoyne, R.D. <i>et al</i>. SNAPs and SNAREs in exocytosis in chromaffin cells. <i>Biochem. Soc. Trans.</i> <b>24</b>, 653&#150;657 (1996).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8878820&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996VF68300010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XlslSgtL8%3D&pissn=1465-7392&pyear=2003&md5=33642b68463b89d9dcf215f6eea33a7e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Chow, R.H., Klingauf, J., Heinemann, C., Zucker, R.S. &amp; Neher, E. Mechanisms determining the time course of secretion in neuroendocrine cells. <i>Neuron</i> <b>16</b>, 369&#150;376 (1996).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8789951&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996TW95700016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK28XhtlGhsb8%3D&pissn=1465-7392&pyear=2003&md5=a292ec467ce073d1a7b224c10f567705" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Pusch, M. &amp; Neher, E. Rates of diffusional exchange between small cells and a measuring patch pipette. <i>Pfl&uuml;gers Arch. Eur. J. Physiol.</i> <b>411</b>, 204&#150;211 (1988).&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:BieC1cbns1U%3D&pissn=1465-7392&pyear=2003&md5=0a2e1e0effebc34116d9c12790360f4e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+Fernandez, J.M., Villalon, M. &amp; Verdugo, P. Reversible condensation of mast cell secretory products <i>in vitro</i>. <i>Biophys. J.</i> <b>59</b>, 1022&#150;1027 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1868152&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991FK54700007&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXisVGkuro%3D&pissn=1465-7392&pyear=2003&md5=a909a79b244c369aef05d8b9808ade4b" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Klyachko, V.A. &amp; Jackson, M.B. Capacitance steps and fusion pores of small and large-dense-core vesicles in nerve terminals. <i>Nature</i> <b>418</b>, 89&#150;92 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnature00852" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12097912&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000176599200044&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XltVantrw%3D&pissn=1465-7392&pyear=2003&md5=a832dfd269245d6a9f71a83af2267d57" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+Hartmann, J. &amp; Lindau, M. A novel Ca<sup>2+</sup>-dependent step in exocytosis subsequent to vesicle fusion. <i>FEBS Lett.</i> <b>363</b>, 217&#150;220 (1995).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2F0014-5793%2895%2900318-4" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7737405&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995QV79900003&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXlsFCms7Y%3D&pissn=1465-7392&pyear=2003&md5=8a01e34e5ad2ee465065aa91ddcfc4ee" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B17"></a>
+Scepek, S., Coorssen, J.R. &amp; Lindau, M. Fusion pore expansion in horse eosinophils is modulated by Ca<sup>2+</sup> and protein kinase C via distinct mechanisms. <i>EMBO J.</i> <b>17</b>, 4340&#150;4345 (1998).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093%2Femboj%2F17.15.4340" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9687502&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000075422600013&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXlsFOltLk%3D&pissn=1465-7392&pyear=2003&md5=d14e50bd8c00789d36315e61e55b8c15" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B18"></a>
+Fern&aacute;ndez-Chac&oacute;n, R. &amp; Alvarez de Toledo, G. Cytosolic calcium facilitates release of secretory products after exocytotic vesicle fusion. <i>FEBS Lett.</i> <b>363</b>, 221&#150;225 (1995).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2F0014-5793%2895%2900319-5" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7737406&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=ERROR&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|</li>
+<li><A name="B19"></a>
+Wang, C.T. <i>et al</i>. Synaptotagmin modulation of fusion pore kinetics in regulated exocytosis of dense-core vesicles. <i>Science</i> <b>294</b>, 1111&#150;1115 (2001).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126%2Fscience.1064002" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11691996&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000172013800053&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXot1Krtbs%3D&pissn=1465-7392&pyear=2003&md5=3774903d7adfe268288114e20baaa36a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B20"></a>
+Parsons, T.D., Coorssen, J.R., Horstmann, H. &amp; Almers, W. Docked granules, the exocytic burst, and the need for ATP hydrolysis in endocrine cells. <i>Neuron</i> <b>15</b>, 1085&#150;1096 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7576652&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995TF88700014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXps1Grs7o%3D&pissn=1465-7392&pyear=2003&md5=956b12d05f50f5dcfe19a886c039ba1e" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B21"></a>
+Lindau, M. Time-resolved capacitance measurements: monitoring exocytosis in single cells. <i>Quart. Rev. Biophys.</i> <b>24</b>, 75&#150;101 (1991).&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991FH24700002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:By6B283gs1A%3D&pissn=1465-7392&pyear=2003&md5=3eafdf6855d4ac77dece8d9bf4264566" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B22"></a>
+Baur, J.E., Kristensen, E.W., May, L.J., Wiedemann, D.J. &amp; Wightman, R.J. Fast-scan voltammetry of biogenic amines. <i>Anal. Chem.</i> <b>60</b>, 1268&#150;1272 (1988).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=3213946&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1988P034300008&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL1cXktVegs7s%3D&pissn=1465-7392&pyear=2003&md5=dfae9d5617e31c8a3b7b112250404dab" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="Acknowledgments"></a><span xmlns="" class="heading3">Acknowledgments</span><br xmlns=""><span xmlns="" class="articletext">We thank L. Kwan for cell preparation and technical assistance. This work was supported by grants from the National Institutes of Health and the Nanobiotechnology Center (a Science and Technology Center programme of the NSF) to M.L., and a grant from the Ministerio de Educaci&oacute;n y Cultura, Spain to G.A.d.T.</span><br xmlns=""><br xmlns=""><p xmlns="" class="articletext"><b>Competing interests statement:</b>&nbsp;
+The authors declare that they have no competing financial interests.</p></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb955.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb957.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb956.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Methods">Methods</a></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n4/fig_tab/ncb956_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Acknowledgments">Acknowledgments</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb956.ris" target="_blank" class="breadcrumblink">Export citation</a></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb956refs.ris" target="_blank" class="breadcrumblink">Export references</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '530';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/ncb/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb956&type=LE&src_title=Exocytosis%20of%20single%20chromaffin%20granules%20in%20cell-free%20inside-out%20membrane%20patches&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=358-362&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_back;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="/copyright/copyright_ncb.html" onClick="window.open('/copyright/copyright_ncb.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003&nbsp;Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

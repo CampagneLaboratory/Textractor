@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<project name="textractor-binary" default="boot-ambiguity" basedir="..">
+    <property environment="env"/>
+    <property name="build" location="build"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <!-- import jdo specific imlementations of database targets -->
+    <import file="${build}/${textractor.JdoImplementation}.xml"/>
+
+	<!-- import basic "run" targets -->
+	<import file="run.xml"/>
+	<import file="pubmed.xml"/>
+
+    <path id="run.classpath">
+		<pathelement location="textractor-${database}.jar"/>
+        <pathelement location="${config}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+        <path refid="jdo.run.classpath"/>
+	</path>
+
+    <!-- Override "destructive" targets in the other build file(s) -->
+    <target name="init"/>      <!-- nothing to be done here -->
+    <target name="compile"/>   <!-- nothing to be done here -->
+	<target name="enhance"/>   <!-- nothing to be done here -->
+	
+	<target name="refresh" depends="enhance" description="Refresh/Create the database">
+		<sql driver="${javax.jdo.option.ConnectionDriverName}"
+    	     url="${javax.jdo.option.ConnectionURL}"
+	         userid="${javax.jdo.option.ConnectionUserName}"
+    	     password="${javax.jdo.option.ConnectionPassword}"
+			 classpathref="run.classpath"
+             src="${basedir}/create-${database}.sql"/>
+	</target>
+</project>

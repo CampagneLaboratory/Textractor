@@ -1,0 +1,1125 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Modelling conservation in the Amazon basin</title>
+      <id>info:doi/10.1038/nature04389</id>
+      <link href='http://dx.doi.org/10.1038/nature04389' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Britaldo Silveira Soares-Filho</name>
+      </author>
+      <author>
+        <name>Daniel Curtis Nepstad</name>
+      </author>
+      <author>
+        <name>Lisa M. Curran</name>
+      </author>
+      <author>
+        <name>Gustavo Coutinho Cerqueira</name>
+      </author>
+      <author>
+        <name>Ricardo Alexandrino Garcia</name>
+      </author>
+      <author>
+        <name>Claudia Azevedo Ramos</name>
+      </author>
+      <author>
+        <name>Eliane Voll</name>
+      </author>
+      <author>
+        <name>Alice McDonald</name>
+      </author>
+      <author>
+        <name>Paul Lefebvre</name>
+      </author>
+      <author>
+        <name>Peter Schlesinger</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>520</prism:startingPage>
+      <prism:endingPage>523</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='firstpara'>
+            <otmi:rawtext>Expansion of the cattle and soy industries in the Amazon basin has increased deforestation rates and will soon push all-weather highways into the region&apos;s core . In the face of this growing pressure, a comprehensive conservation strategy for the Amazon basin should protect its watersheds, the full range of species and ecosystem diversity, and the stability of regional climates. Here we report that protected areas in the Amazon basin—the central feature of prevailing conservation approaches —are an important but insufficient component of this strategy, based on policy-sensitive simulations of future deforestation. By 2050, current trends in agricultural expansion will eliminate a total of 40% of Amazon forests, including at least two-thirds of the forest cover of six major watersheds and 12 ecoregions, releasing 32 ± 8 Pg of carbon to the atmosphere. One-quarter of the 382 mammalian species examined will lose more than 40% of the forest within their Amazon ranges. Although an expanded and enforced network of protected areas could avoid as much as one-third of this projected forest loss, conservation on private lands is also essential. Expanding market pressures for sound land management and prevention of forest clearing on lands unsuitable for agriculture are critical ingredients of a strategy for comprehensive conservation .</otmi:rawtext>
+            <otmi:reducedtext>Expansion cattle soy industries Amazon basin has increased deforestation rates will soon push all-weather highways into region&apos;s core . face growing pressure, comprehensive conservation strategy Amazon basin should protect its watersheds, full range species ecosystem diversity, stability regional climates. Here report protected areas Amazon basin— central feature prevailing conservation approaches —  important but insufficient component strategy, based policy-sensitive simulations future deforestation. 2050, current trends agricultural expansion will eliminate total 40% Amazon forests, including at least two-thirds forest cover six major watersheds 12 ecoregions, releasing 32 ± 8 Pg carbon atmosphere. One-quarter 382 mammalian species examined will lose more than 40% forest within their Amazon ranges. Although expanded enforced network protected areas could avoid much one-third projected forest loss, conservation private lands also essential. Expanding market pressures sound land management prevention forest clearing lands unsuitable agriculture critical ingredients strategy comprehensive conservation .</otmi:reducedtext>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>Amazon</otmi:vector>
+              <otmi:vector count='4'>conservation</otmi:vector>
+              <otmi:vector count='4'>forest</otmi:vector>
+              <otmi:vector count='3'>will</otmi:vector>
+              <otmi:vector count='3'>strategy</otmi:vector>
+              <otmi:vector count='2'>comprehensive</otmi:vector>
+              <otmi:vector count='2'>basin</otmi:vector>
+              <otmi:vector count='2'>lands</otmi:vector>
+              <otmi:vector count='2'>protected</otmi:vector>
+              <otmi:vector count='2'>deforestation</otmi:vector>
+              <otmi:vector count='2'>watersheds</otmi:vector>
+              <otmi:vector count='2'>species</otmi:vector>
+              <otmi:vector count='2'>areas</otmi:vector>
+              <otmi:vector count='2'>40</otmi:vector>
+              <otmi:vector count='1'>32</otmi:vector>
+              <otmi:vector count='1'>Expanding</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>increased</otmi:vector>
+              <otmi:vector count='1'>one-third</otmi:vector>
+              <otmi:vector count='1'>basin—the</otmi:vector>
+              <otmi:vector count='1'>expansion</otmi:vector>
+              <otmi:vector count='1'>soy</otmi:vector>
+              <otmi:vector count='1'>Expansion</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>unsuitable</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>carbon</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>push</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>avoid</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>agricultural</otmi:vector>
+              <otmi:vector count='1'>pressure</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>Pg</otmi:vector>
+              <otmi:vector count='1'>ecoregions</otmi:vector>
+              <otmi:vector count='1'>six</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>climates</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>projected</otmi:vector>
+              <otmi:vector count='1'>forests</otmi:vector>
+              <otmi:vector count='1'>prevention</otmi:vector>
+              <otmi:vector count='1'>cover</otmi:vector>
+              <otmi:vector count='1'>market</otmi:vector>
+              <otmi:vector count='1'>industries</otmi:vector>
+              <otmi:vector count='1'>policy-sensitive</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>private</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>releasing</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>full</otmi:vector>
+              <otmi:vector count='1'>ingredients</otmi:vector>
+              <otmi:vector count='1'>highways</otmi:vector>
+              <otmi:vector count='1'>two-thirds</otmi:vector>
+              <otmi:vector count='1'>2050</otmi:vector>
+              <otmi:vector count='1'>eliminate</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>land</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>mammalian</otmi:vector>
+              <otmi:vector count='1'>region&apos;s</otmi:vector>
+              <otmi:vector count='1'>stability</otmi:vector>
+              <otmi:vector count='1'>clearing</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>insufficient</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>prevailing</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>all-weather</otmi:vector>
+              <otmi:vector count='1'>enforced</otmi:vector>
+              <otmi:vector count='1'>lose</otmi:vector>
+              <otmi:vector count='1'>diversity</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>examined</otmi:vector>
+              <otmi:vector count='1'>agriculture</otmi:vector>
+              <otmi:vector count='1'>One-quarter</otmi:vector>
+              <otmi:vector count='1'>trends</otmi:vector>
+              <otmi:vector count='1'>face</otmi:vector>
+              <otmi:vector count='1'>sound</otmi:vector>
+              <otmi:vector count='1'>pressures</otmi:vector>
+              <otmi:vector count='1'>atmosphere</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>ranges</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>ecosystem</otmi:vector>
+              <otmi:vector count='1'>expanded</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>382</otmi:vector>
+              <otmi:vector count='1'>protect</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>management</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>regional</otmi:vector>
+              <otmi:vector count='1'>cattle</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>Although an expanded and enforced network of protected areas could avoid as much as one-third of this projected forest loss, conservation on private lands is also essential</otmi:snippet>
+              <otmi:snippet>By 2050, current trends in agricultural expansion will eliminate a total of 40% of Amazon forests, including at least two-thirds of the forest cover of six major watersheds and 12 ecoregions, releasing 32 ± 8 Pg of carbon to the atmosphere</otmi:snippet>
+              <otmi:snippet>Expanding market pressures for sound land management and prevention of forest clearing on lands unsuitable for agriculture are critical ingredients of a strategy for comprehensive conservation .</otmi:snippet>
+              <otmi:snippet>Expansion of the cattle and soy industries in the Amazon basin has increased deforestation rates and will soon push all-weather highways into the region&apos;s core </otmi:snippet>
+              <otmi:snippet>Here we report that protected areas in the Amazon basin—the central feature of prevailing conservation approaches —are an important but insufficient component of this strategy, based on policy-sensitive simulations of future deforestation</otmi:snippet>
+              <otmi:snippet>In the face of this growing pressure, a comprehensive conservation strategy for the Amazon basin should protect its watersheds, the full range of species and ecosystem diversity, and the stability of regional climates</otmi:snippet>
+              <otmi:snippet>One-quarter of the 382 mammalian species examined will lose more than 40% of the forest within their Amazon ranges</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='10'>deforestation</otmi:vector>
+              <otmi:vector count='6'>model</otmi:vector>
+              <otmi:vector count='5'>Supplementary</otmi:vector>
+              <otmi:vector count='4'>spatial</otmi:vector>
+              <otmi:vector count='4'>rates</otmi:vector>
+              <otmi:vector count='4'>roads</otmi:vector>
+              <otmi:vector count='3'>Amazon</otmi:vector>
+              <otmi:vector count='3'>km</otmi:vector>
+              <otmi:vector count='3'>Table</otmi:vector>
+              <otmi:vector count='3'>paved</otmi:vector>
+              <otmi:vector count='3'>road</otmi:vector>
+              <otmi:vector count='3'>land</otmi:vector>
+              <otmi:vector count='2'>proximity</otmi:vector>
+              <otmi:vector count='2'>paving</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>deforested</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>highways</otmi:vector>
+              <otmi:vector count='2'>subregion</otmi:vector>
+              <otmi:vector count='2'>PA</otmi:vector>
+              <otmi:vector count='2'>maps</otmi:vector>
+              <otmi:vector count='2'>180</otmi:vector>
+              <otmi:vector count='2'>S2</otmi:vector>
+              <otmi:vector count='2'>subregions</otmi:vector>
+              <otmi:vector count='2'>represented</otmi:vector>
+              <otmi:vector count='2'>distance</otmi:vector>
+              <otmi:vector count='2'>simulated</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>basin</otmi:vector>
+              <otmi:vector count='1'>historical</otmi:vector>
+              <otmi:vector count='1'>SimAmazonia</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>relationships</otmi:vector>
+              <otmi:vector count='1'>incorporates</otmi:vector>
+              <otmi:vector count='1'>socioeconomic</otmi:vector>
+              <otmi:vector count='1'>highway</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>call</otmi:vector>
+              <otmi:vector count='1'>PAs</otmi:vector>
+              <otmi:vector count='1'>secondary</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>annually</otmi:vector>
+              <otmi:vector count='1'>areas</otmi:vector>
+              <otmi:vector count='1'>automata</otmi:vector>
+              <otmi:vector count='1'>allocates</otmi:vector>
+              <otmi:vector count='1'>updated</otmi:vector>
+              <otmi:vector count='1'>variables</otmi:vector>
+              <otmi:vector count='1'>biophysical</otmi:vector>
+              <otmi:vector count='1'>annual</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>empirical</otmi:vector>
+              <otmi:vector count='1'>thereby</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>customized</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>Landsat</otmi:vector>
+              <otmi:vector count='1'>individualized</otmi:vector>
+              <otmi:vector count='1'>evolving</otmi:vector>
+              <otmi:vector count='1'>description</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>432</otmi:vector>
+              <otmi:vector count='1'>into</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>Thematic</otmi:vector>
+              <otmi:vector count='1'>patterns</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>S1</otmi:vector>
+              <otmi:vector count='1'>these</otmi:vector>
+              <otmi:vector count='1'>scarce</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>attained</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>Portuguese</otmi:vector>
+              <otmi:vector count='1'>inflection</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>counties</otmi:vector>
+              <otmi:vector count='1'>studies</otmi:vector>
+              <otmi:vector count='1'>employing</otmi:vector>
+              <otmi:vector count='1'>resolution</otmi:vector>
+              <otmi:vector count='1'>simulation</otmi:vector>
+              <otmi:vector count='1'>output</otmi:vector>
+              <otmi:vector count='1'>raster</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>forests</otmi:vector>
+              <otmi:vector count='1'>expansion</otmi:vector>
+              <otmi:vector count='1'>simulação</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>12</otmi:vector>
+              <otmi:vector count='1'>endogenous</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>trends</otmi:vector>
+              <otmi:vector count='1'>S5</otmi:vector>
+              <otmi:vector count='1'>start</otmi:vector>
+              <otmi:vector count='1'>accelerates</otmi:vector>
+              <otmi:vector count='1'>Amazônia</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>scenarios</otmi:vector>
+              <otmi:vector count='1'>Mapper</otmi:vector>
+              <otmi:vector count='1'>zoning</otmi:vector>
+              <otmi:vector count='1'>towns</otmi:vector>
+              <otmi:vector count='1'>schedule</otmi:vector>
+              <otmi:vector count='1'>Spatial</otmi:vector>
+              <otmi:vector count='1'>provided</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>stratified</otmi:vector>
+              <otmi:vector count='1'>protected</otmi:vector>
+              <otmi:vector count='1'>rivers</otmi:vector>
+              <otmi:vector count='1'>Increasing</otmi:vector>
+              <otmi:vector count='1'>regional</otmi:vector>
+              <otmi:vector count='1'>constructor</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>planned</otmi:vector>
+              <otmi:vector count='1'>parameters</otmi:vector>
+              <otmi:vector count='1'>2002</otmi:vector>
+              <otmi:vector count='1'>ceilings</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>becoming</otmi:vector>
+              <otmi:vector count='1'>da</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>effectiveness</otmi:vector>
+              <otmi:vector count='1'>driver</otmi:vector>
+              <otmi:vector count='1'>47</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>simulates</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>scene</otmi:vector>
+              <otmi:vector count='1'>Brazilian</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>1997</otmi:vector>
+              <otmi:vector count='1'>distribution</otmi:vector>
+              <otmi:vector count='1'>validated</otmi:vector>
+              <otmi:vector count='1'>defined</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>user-defined</otmi:vector>
+              <otmi:vector count='1'>produces</otmi:vector>
+              <otmi:vector count='1'>future</otmi:vector>
+              <otmi:vector count='1'>satellite-based</otmi:vector>
+              <otmi:vector count='1'>design</otmi:vector>
+              <otmi:vector count='1'>forecast</otmi:vector>
+              <otmi:vector count='1'>Proximity</otmi:vector>
+              <otmi:vector count='1'>networks</otmi:vector>
+              <otmi:vector count='1'>empirically</otmi:vector>
+              <otmi:vector count='1'>unpublished</otmi:vector>
+              <otmi:vector count='1'>B.S.S.-F</otmi:vector>
+              <otmi:vector count='1'>(from</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>variable</otmi:vector>
+              <otmi:vector count='1'>integrity</otmi:vector>
+              <otmi:vector count='1'>grids</otmi:vector>
+              <otmi:vector count='1'>calibrated</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A detailed description of the model design is provided in Supplementary Information .</otmi:snippet>
+              <otmi:snippet>Increasing proximity to paved highways accelerates deforestation within a subregion up to an inflection point when forests outside protected areas start becoming scarce</otmi:snippet>
+              <otmi:snippet>Methods The model, which we call ‘SimAmazonia 1’ (from the Portuguese simulação da Amazônia ) produces annual maps of simulated future deforestation under user-defined scenarios of highway paving, PA networks, PA effectiveness, deforestation rates and deforested land ceilings</otmi:snippet>
+              <otmi:snippet>Proximity to paved highways is the major driver of deforestation rates in the model and this relationship was defined empirically from data on deforestation and paved roads for 432 counties of the Brazilian Amazon ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>S5 )</otmi:snippet>
+              <otmi:snippet>Spatial integrity across subregions is attained by employing spatial variables (for example, distance to previously deforested land and distance to all roads) that are updated annually over the entire basin</otmi:snippet>
+              <otmi:snippet>The spatial distribution of deforestation across the Amazon is simulated with a cellular automata model, with parameters customized for each subregion, that allocates deforestation on the basis of its empirical relationships with proximity to roads, rivers and towns, land use zoning, and biophysical features represented in raster grids of 1 km 2 resolution</otmi:snippet>
+              <otmi:snippet>The spatial simulation model was calibrated and validated for 12 regional case studies (B.S.S.-F., unpublished material), each represented by a Landsat Thematic Mapper scene (180 km × 180 km)</otmi:snippet>
+              <otmi:snippet>This latter variable is output of the road constructor model , a component that simulates the expansion of the secondary road network and thereby incorporates the effect of endogenous roads on the evolving spatial patterns of deforestation</otmi:snippet>
+              <otmi:snippet>We stratified the Amazon basin into 47 socioeconomic subregions for which individualized deforestation rates are forecast; these rates were estimated from historical trends (from 1997 to 2002) derived from satellite-based deforestation maps ( Supplementary Table S2 ), the planned road paving schedule ( Supplementary Table S1 ) and existing and proposed PAs ( Supplementary Table S2 )</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='31'>Amazon</otmi:vector>
+              <otmi:vector count='27'>forest</otmi:vector>
+              <otmi:vector count='25'>deforestation</otmi:vector>
+              <otmi:vector count='15'>scenario</otmi:vector>
+              <otmi:vector count='14'>PAs</otmi:vector>
+              <otmi:vector count='14'>will</otmi:vector>
+              <otmi:vector count='11'>carbon</otmi:vector>
+              <otmi:vector count='11'>governance</otmi:vector>
+              <otmi:vector count='10'>Fig</otmi:vector>
+              <otmi:vector count='10'>more</otmi:vector>
+              <otmi:vector count='10'>Supplementary</otmi:vector>
+              <otmi:vector count='10'>emissions</otmi:vector>
+              <otmi:vector count='9'>than</otmi:vector>
+              <otmi:vector count='9'>their</otmi:vector>
+              <otmi:vector count='8'>reserves</otmi:vector>
+              <otmi:vector count='8'>would</otmi:vector>
+              <otmi:vector count='8'>highway</otmi:vector>
+              <otmi:vector count='8'>paving</otmi:vector>
+              <otmi:vector count='7'>legislation</otmi:vector>
+              <otmi:vector count='7'>through</otmi:vector>
+              <otmi:vector count='7'>conservation</otmi:vector>
+              <otmi:vector count='7'>expansion</otmi:vector>
+              <otmi:vector count='7'>highways</otmi:vector>
+              <otmi:vector count='7'>ecoregions</otmi:vector>
+              <otmi:vector count='7'>new</otmi:vector>
+              <otmi:vector count='7'>forests</otmi:vector>
+              <otmi:vector count='7'>watersheds</otmi:vector>
+              <otmi:vector count='7'>land</otmi:vector>
+              <otmi:vector count='6'>but</otmi:vector>
+              <otmi:vector count='6'>frontier</otmi:vector>
+              <otmi:vector count='6'>current</otmi:vector>
+              <otmi:vector count='6'>network</otmi:vector>
+              <otmi:vector count='6'>potential</otmi:vector>
+              <otmi:vector count='6'>environmental</otmi:vector>
+              <otmi:vector count='6'>BAU</otmi:vector>
+              <otmi:vector count='6'>scenarios</otmi:vector>
+              <otmi:vector count='6'>species</otmi:vector>
+              <otmi:vector count='6'>may</otmi:vector>
+              <otmi:vector count='6'>lose</otmi:vector>
+              <otmi:vector count='5'>do</otmi:vector>
+              <otmi:vector count='5'>paved</otmi:vector>
+              <otmi:vector count='5'>PA</otmi:vector>
+              <otmi:vector count='5'>Brazilian</otmi:vector>
+              <otmi:vector count='5'>other</otmi:vector>
+              <otmi:vector count='5'>region</otmi:vector>
+              <otmi:vector count='5'>future</otmi:vector>
+              <otmi:vector count='5'>lands</otmi:vector>
+              <otmi:vector count='5'>2050</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='5'>under</otmi:vector>
+              <otmi:vector count='4'>cover</otmi:vector>
+              <otmi:vector count='4'>markets</otmi:vector>
+              <otmi:vector count='4'>if</otmi:vector>
+              <otmi:vector count='4'>soy</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>regional</otmi:vector>
+              <otmi:vector count='4'>they</otmi:vector>
+              <otmi:vector count='4'>private</otmi:vector>
+              <otmi:vector count='4'>assumes</otmi:vector>
+              <otmi:vector count='4'>properties</otmi:vector>
+              <otmi:vector count='4'>cattle</otmi:vector>
+              <otmi:vector count='4'>Pg</otmi:vector>
+              <otmi:vector count='4'>example</otmi:vector>
+              <otmi:vector count='4'>million</otmi:vector>
+              <otmi:vector count='4'>worldwide</otmi:vector>
+              <otmi:vector count='4'>loss</otmi:vector>
+              <otmi:vector count='4'>outside</otmi:vector>
+              <otmi:vector count='4'>could</otmi:vector>
+              <otmi:vector count='4'>regions</otmi:vector>
+              <otmi:vector count='4'>mammalian</otmi:vector>
+              <otmi:vector count='4'>These</otmi:vector>
+              <otmi:vector count='4'>2</otmi:vector>
+              <otmi:vector count='4'>vegetation</otmi:vector>
+              <otmi:vector count='4'>region&apos;s</otmi:vector>
+              <otmi:vector count='4'>km</otmi:vector>
+              <otmi:vector count='4'>model</otmi:vector>
+              <otmi:vector count='3'>clearing</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>include</otmi:vector>
+              <otmi:vector count='3'>planned</otmi:vector>
+              <otmi:vector count='3'>atmosphere</otmi:vector>
+              <otmi:vector count='3'>avoid</otmi:vector>
+              <otmi:vector count='3'>international</otmi:vector>
+              <otmi:vector count='3'>range</otmi:vector>
+              <otmi:vector count='3'>southwestern</otmi:vector>
+              <otmi:vector count='3'>growing</otmi:vector>
+              <otmi:vector count='3'>low</otmi:vector>
+              <otmi:vector count='3'>Xingu</otmi:vector>
+              <otmi:vector count='3'>highest</otmi:vector>
+              <otmi:vector count='3'>40</otmi:vector>
+              <otmi:vector count='3'>continue</otmi:vector>
+              <otmi:vector count='3'>Interoceanica</otmi:vector>
+              <otmi:vector count='3'>where</otmi:vector>
+              <otmi:vector count='3'>protection</otmi:vector>
+              <otmi:vector count='3'>currently</otmi:vector>
+              <otmi:vector count='3'>32</otmi:vector>
+              <otmi:vector count='3'>85</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>BR-163</otmi:vector>
+              <otmi:vector count='3'>climate</otmi:vector>
+              <otmi:vector count='3'>major</otmi:vector>
+              <otmi:vector count='3'>area</otmi:vector>
+              <otmi:vector count='3'>effects</otmi:vector>
+              <otmi:vector count='3'>Table</otmi:vector>
+              <otmi:vector count='3'>management</otmi:vector>
+              <otmi:vector count='3'>trends</otmi:vector>
+              <otmi:vector count='3'>sound</otmi:vector>
+              <otmi:vector count='3'>vulnerable</otmi:vector>
+              <otmi:vector count='3'>remain</otmi:vector>
+              <otmi:vector count='3'>global</otmi:vector>
+              <otmi:vector count='3'>large</otmi:vector>
+              <otmi:vector count='3'>equivalent</otmi:vector>
+              <otmi:vector count='3'>eastern</otmi:vector>
+              <otmi:vector count='2'>measures</otmi:vector>
+              <otmi:vector count='2'>extensive</otmi:vector>
+              <otmi:vector count='2'>70</otmi:vector>
+              <otmi:vector count='2'>increase</otmi:vector>
+              <otmi:vector count='2'>decrease</otmi:vector>
+              <otmi:vector count='2'>Paving</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>intact</otmi:vector>
+              <otmi:vector count='2'>developed</otmi:vector>
+              <otmi:vector count='2'>coastal</otmi:vector>
+              <otmi:vector count='2'>Acre</otmi:vector>
+              <otmi:vector count='2'>least</otmi:vector>
+              <otmi:vector count='2'>projected</otmi:vector>
+              <otmi:vector count='2'>At</otmi:vector>
+              <otmi:vector count='2'>Maranhão</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>highly</otmi:vector>
+              <otmi:vector count='2'>created</otmi:vector>
+              <otmi:vector count='2'>12</otmi:vector>
+              <otmi:vector count='2'>most</otmi:vector>
+              <otmi:vector count='2'>compared</otmi:vector>
+              <otmi:vector count='2'>Manaus–Porto</otmi:vector>
+              <otmi:vector count='2'>ranchers</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>Grosso</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>half</otmi:vector>
+              <otmi:vector count='2'>subject</otmi:vector>
+              <otmi:vector count='2'>Velho</otmi:vector>
+              <otmi:vector count='2'>enforcement</otmi:vector>
+              <otmi:vector count='2'>Conservation</otmi:vector>
+              <otmi:vector count='2'>requiring</otmi:vector>
+              <otmi:vector count='2'>consider</otmi:vector>
+              <otmi:vector count='2'>two-thirds</otmi:vector>
+              <otmi:vector count='2'>protected</otmi:vector>
+              <otmi:vector count='2'>two</otmi:vector>
+              <otmi:vector count='2'>decades</otmi:vector>
+              <otmi:vector count='2'>northwest</otmi:vector>
+              <otmi:vector count='2'>productive</otmi:vector>
+              <otmi:vector count='2'>mammals</otmi:vector>
+              <otmi:vector count='2'>production</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>Parque</otmi:vector>
+              <otmi:vector count='2'>Maraj</otmi:vector>
+              <otmi:vector count='2'>parks</otmi:vector>
+              <otmi:vector count='2'>also</otmi:vector>
+              <otmi:vector count='2'>along</otmi:vector>
+              <otmi:vector count='2'>licensing</otmi:vector>
+              <otmi:vector count='2'>ranching</otmi:vector>
+              <otmi:vector count='2'>have</otmi:vector>
+              <otmi:vector count='2'>market</otmi:vector>
+              <otmi:vector count='2'>imperilled</otmi:vector>
+              <otmi:vector count='2'>closed-canopy</otmi:vector>
+              <otmi:vector count='2'>pressures</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>higher</otmi:vector>
+              <otmi:vector count='2'>alone</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>conservative</otmi:vector>
+              <otmi:vector count='2'>impoverishment</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>landholders</otmi:vector>
+              <otmi:vector count='2'>fire</otmi:vector>
+              <otmi:vector count='2'>indigenous</otmi:vector>
+              <otmi:vector count='2'>additional</otmi:vector>
+              <otmi:vector count='2'>extreme</otmi:vector>
+              <otmi:vector count='2'>beef</otmi:vector>
+              <otmi:vector count='2'>trees</otmi:vector>
+              <otmi:vector count='2'>few</otmi:vector>
+              <otmi:vector count='2'>savanna</otmi:vector>
+              <otmi:vector count='2'>types</otmi:vector>
+              <otmi:vector count='2'>7</otmi:vector>
+              <otmi:vector count='2'>must</otmi:vector>
+              <otmi:vector count='2'>zoning</otmi:vector>
+              <otmi:vector count='2'>Brazil</otmi:vector>
+              <otmi:vector count='2'>farmers</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>incentives</otmi:vector>
+              <otmi:vector count='2'>planning</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>Cuiabá–Santarém</otmi:vector>
+              <otmi:vector count='2'>rates</otmi:vector>
+              <otmi:vector count='2'>riparian</otmi:vector>
+              <otmi:vector count='2'>expanded</otmi:vector>
+              <otmi:vector count='2'>encompass</otmi:vector>
+              <otmi:vector count='2'>systems</otmi:vector>
+              <otmi:vector count='2'>estimate</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>recent</otmi:vector>
+              <otmi:vector count='2'>expanding</otmi:vector>
+              <otmi:vector count='2'>between</otmi:vector>
+              <otmi:vector count='2'>concentrated</otmi:vector>
+              <otmi:vector count='2'>concentration</otmi:vector>
+              <otmi:vector count='2'>years</otmi:vector>
+              <otmi:vector count='2'>result</otmi:vector>
+              <otmi:vector count='2'>increases</otmi:vector>
+              <otmi:vector count='2'>endemism</otmi:vector>
+              <otmi:vector count='2'>implemented</otmi:vector>
+              <otmi:vector count='2'>Mato</otmi:vector>
+              <otmi:vector count='2'>limit</otmi:vector>
+              <otmi:vector count='2'>S7</otmi:vector>
+              <otmi:vector count='1'>projections</otmi:vector>
+              <otmi:vector count='1'>multiplication</otmi:vector>
+              <otmi:vector count='1'>avoidance</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>entered</otmi:vector>
+              <otmi:vector count='1'>richness</otmi:vector>
+              <otmi:vector count='1'>Wetland</otmi:vector>
+              <otmi:vector count='1'>Par</otmi:vector>
+              <otmi:vector count='1'>landscapes</otmi:vector>
+              <otmi:vector count='1'>sustain</otmi:vector>
+              <otmi:vector count='1'>workshops</otmi:vector>
+              <otmi:vector count='1'>threat</otmi:vector>
+              <otmi:vector count='1'>reinforce</otmi:vector>
+              <otmi:vector count='1'>restricts</otmi:vector>
+              <otmi:vector count='1'>effectively</otmi:vector>
+              <otmi:vector count='1'>accruing</otmi:vector>
+              <otmi:vector count='1'>stimulate</otmi:vector>
+              <otmi:vector count='1'>strategies</otmi:vector>
+              <otmi:vector count='1'>perceive</otmi:vector>
+              <otmi:vector count='1'>simulated</otmi:vector>
+              <otmi:vector count='1'>taxa</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>Carbon</otmi:vector>
+              <otmi:vector count='1'>retained</otmi:vector>
+              <otmi:vector count='1'>warming</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>occupation</otmi:vector>
+              <otmi:vector count='1'>regime</otmi:vector>
+              <otmi:vector count='1'>dry</otmi:vector>
+              <otmi:vector count='1'>enforced</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>Brasil–Cuzco</otmi:vector>
+              <otmi:vector count='1'>derived</otmi:vector>
+              <otmi:vector count='1'>lowered</otmi:vector>
+              <otmi:vector count='1'>Gurupi</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>state</otmi:vector>
+              <otmi:vector count='1'>Guianas</otmi:vector>
+              <otmi:vector count='1'>influence</otmi:vector>
+              <otmi:vector count='1'>Tapajós</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>such</otmi:vector>
+              <otmi:vector count='1'>succeeds</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>centres</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>developing</otmi:vector>
+              <otmi:vector count='1'>soundly</otmi:vector>
+              <otmi:vector count='1'>41</otmi:vector>
+              <otmi:vector count='1'>Peru</otmi:vector>
+              <otmi:vector count='1'>logging</otmi:vector>
+              <otmi:vector count='1'>native</otmi:vector>
+              <otmi:vector count='1'>regulations</otmi:vector>
+              <otmi:vector count='1'>Compliance</otmi:vector>
+              <otmi:vector count='1'>released</otmi:vector>
+              <otmi:vector count='1'>uninhabited</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>River</otmi:vector>
+              <otmi:vector count='1'>Moreover</otmi:vector>
+              <otmi:vector count='1'>road</otmi:vector>
+              <otmi:vector count='1'>run</otmi:vector>
+              <otmi:vector count='1'>substitution</otmi:vector>
+              <otmi:vector count='1'>river</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>babaçu</otmi:vector>
+              <otmi:vector count='1'>1.5</otmi:vector>
+              <otmi:vector count='1'>anthropogenic</otmi:vector>
+              <otmi:vector count='1'>initially</otmi:vector>
+              <otmi:vector count='1'>priorities</otmi:vector>
+              <otmi:vector count='1'>emerging</otmi:vector>
+              <otmi:vector count='1'>fall</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>assuming</otmi:vector>
+              <otmi:vector count='1'>93</otmi:vector>
+              <otmi:vector count='1'>mid-century</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>mammal</otmi:vector>
+              <otmi:vector count='1'>food</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>provoke</otmi:vector>
+              <otmi:vector count='1'>Bolivia</otmi:vector>
+              <otmi:vector count='1'>contrasted</otmi:vector>
+              <otmi:vector count='1'>60–100</otmi:vector>
+              <otmi:vector count='1'>forested</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>Rondônia</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>credits</otmi:vector>
+              <otmi:vector count='1'>gap</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>5.3</otmi:vector>
+              <otmi:vector count='1'>maintain</otmi:vector>
+              <otmi:vector count='1'>Florencia</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>conserve</otmi:vector>
+              <otmi:vector count='1'>superimposing</otmi:vector>
+              <otmi:vector count='1'>15</otmi:vector>
+              <otmi:vector count='1'>S11–S13</otmi:vector>
+              <otmi:vector count='1'>access</otmi:vector>
+              <otmi:vector count='1'>97</otmi:vector>
+              <otmi:vector count='1'>flooding</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>comprise</otmi:vector>
+              <otmi:vector count='1'>countries</otmi:vector>
+              <otmi:vector count='1'>collapse</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>investments</otmi:vector>
+              <otmi:vector count='1'>gas</otmi:vector>
+              <otmi:vector count='1'>requirement</otmi:vector>
+              <otmi:vector count='1'>settlement</otmi:vector>
+              <otmi:vector count='1'>Eight</otmi:vector>
+              <otmi:vector count='1'>unabated</otmi:vector>
+              <otmi:vector count='1'>permits</otmi:vector>
+              <otmi:vector count='1'>costs</otmi:vector>
+              <otmi:vector count='1'>latent</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>Hence</otmi:vector>
+              <otmi:vector count='1'>Santa</otmi:vector>
+              <otmi:vector count='1'>satellite-based</otmi:vector>
+              <otmi:vector count='1'>financial</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>core</otmi:vector>
+              <otmi:vector count='1'>lowering</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>Beyond</otmi:vector>
+              <otmi:vector count='1'>part</otmi:vector>
+              <otmi:vector count='1'>savannas</otmi:vector>
+              <otmi:vector count='1'>portion</otmi:vector>
+              <otmi:vector count='1'>benefits</otmi:vector>
+              <otmi:vector count='1'>Land-use</otmi:vector>
+              <otmi:vector count='1'>tributaries</otmi:vector>
+              <otmi:vector count='1'>favour</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>protect</otmi:vector>
+              <otmi:vector count='1'>Brazil&apos;s</otmi:vector>
+              <otmi:vector count='1'>S14</otmi:vector>
+              <otmi:vector count='1'>compensation</otmi:vector>
+              <otmi:vector count='1'>restricting</otmi:vector>
+              <otmi:vector count='1'>contained</otmi:vector>
+              <otmi:vector count='1'>coalesces</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>enforcing</otmi:vector>
+              <otmi:vector count='1'>Eighteen</otmi:vector>
+              <otmi:vector count='1'>non-flying</otmi:vector>
+              <otmi:vector count='1'>extrapolated</otmi:vector>
+              <otmi:vector count='1'>crop</otmi:vector>
+              <otmi:vector count='1'>soybeans</otmi:vector>
+              <otmi:vector count='1'>4.5</otmi:vector>
+              <otmi:vector count='1'>estimates</otmi:vector>
+              <otmi:vector count='1'>inaccessible</otmi:vector>
+              <otmi:vector count='1'>drives</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>2003</otmi:vector>
+              <otmi:vector count='1'>Atlantic</otmi:vector>
+              <otmi:vector count='1'>Given</otmi:vector>
+              <otmi:vector count='1'>2004</otmi:vector>
+              <otmi:vector count='1'>restrictions</otmi:vector>
+              <otmi:vector count='1'>Paramaribo</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>compliance</otmi:vector>
+              <otmi:vector count='1'>Protected</otmi:vector>
+              <otmi:vector count='1'>2005</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>representation</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>BR-364</otmi:vector>
+              <otmi:vector count='1'>rainfall</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>Nor</otmi:vector>
+              <otmi:vector count='1'>rising</otmi:vector>
+              <otmi:vector count='1'>participatory</otmi:vector>
+              <otmi:vector count='1'>inhibit</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>proxies</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>ranges—is</otmi:vector>
+              <otmi:vector count='1'>exceed</otmi:vector>
+              <otmi:vector count='1'>modified</otmi:vector>
+              <otmi:vector count='1'>blocks</otmi:vector>
+              <otmi:vector count='1'>Watershed</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>1c</otmi:vector>
+              <otmi:vector count='1'>2008</otmi:vector>
+              <otmi:vector count='1'>zone</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>human-induced</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>Indigena</otmi:vector>
+              <otmi:vector count='1'>inside</otmi:vector>
+              <otmi:vector count='1'>achievements</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>1e</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>maintenance</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>forest-dependent</otmi:vector>
+              <otmi:vector count='1'>Kyoto</otmi:vector>
+              <otmi:vector count='1'>mandatory</otmi:vector>
+              <otmi:vector count='1'>politically</otmi:vector>
+              <otmi:vector count='1'>1g</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>ran</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>Assis</otmi:vector>
+              <otmi:vector count='1'>reserve</otmi:vector>
+              <otmi:vector count='1'>declines</otmi:vector>
+              <otmi:vector count='1'>Thirty-five</otmi:vector>
+              <otmi:vector count='1'>heat</otmi:vector>
+              <otmi:vector count='1'>scheduled</otmi:vector>
+              <otmi:vector count='1'>avoided</otmi:vector>
+              <otmi:vector count='1'>headwaters</otmi:vector>
+              <otmi:vector count='1'>biomass</otmi:vector>
+              <otmi:vector count='1'>achieved</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>ecologically</otmi:vector>
+              <otmi:vector count='1'>Terrestrial</otmi:vector>
+              <otmi:vector count='1'>76</otmi:vector>
+              <otmi:vector count='1'>extractive</otmi:vector>
+              <otmi:vector count='1'>28</otmi:vector>
+              <otmi:vector count='1'>funding</otmi:vector>
+              <otmi:vector count='1'>abundant</otmi:vector>
+              <otmi:vector count='1'>lucrative</otmi:vector>
+              <otmi:vector count='1'>trajectories</otmi:vector>
+              <otmi:vector count='1'>property</otmi:vector>
+              <otmi:vector count='1'>designating</otmi:vector>
+              <otmi:vector count='1'>Figs</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>unpublished</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>Felix</otmi:vector>
+              <otmi:vector count='1'>emitted</otmi:vector>
+              <otmi:vector count='1'>78</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>Pucallpa</otmi:vector>
+              <otmi:vector count='1'>disaggregated</otmi:vector>
+              <otmi:vector count='1'>119</otmi:vector>
+              <otmi:vector count='1'>occurring</otmi:vector>
+              <otmi:vector count='1'>willing</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>across</otmi:vector>
+              <otmi:vector count='1'>S5–S7</otmi:vector>
+              <otmi:vector count='1'>Nacional</otmi:vector>
+              <otmi:vector count='1'>certification</otmi:vector>
+              <otmi:vector count='1'>might</otmi:vector>
+              <otmi:vector count='1'>eightfold</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>mammals—those</otmi:vector>
+              <otmi:vector count='1'>Region</otmi:vector>
+              <otmi:vector count='1'>baseline</otmi:vector>
+              <otmi:vector count='1'>Under</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>exercises</otmi:vector>
+              <otmi:vector count='1'>areas</otmi:vector>
+              <otmi:vector count='1'>profitability</otmi:vector>
+              <otmi:vector count='1'>Regional</otmi:vector>
+              <otmi:vector count='1'>east-central</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>swamp</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>successes</otmi:vector>
+              <otmi:vector count='1'>traverses</otmi:vector>
+              <otmi:vector count='1'>command-and-control</otmi:vector>
+              <otmi:vector count='1'>retain</otmi:vector>
+              <otmi:vector count='1'>extinction</otmi:vector>
+              <otmi:vector count='1'>Amazon&apos;s</otmi:vector>
+              <otmi:vector count='1'>advances</otmi:vector>
+              <otmi:vector count='1'>opportunity</otmi:vector>
+              <otmi:vector count='1'>annual</otmi:vector>
+              <otmi:vector count='1'>eastward</otmi:vector>
+              <otmi:vector count='1'>economic</otmi:vector>
+              <otmi:vector count='1'>protocol</otmi:vector>
+              <otmi:vector count='1'>pastures</otmi:vector>
+              <otmi:vector count='1'>plausibility</otmi:vector>
+              <otmi:vector count='1'>Tables</otmi:vector>
+              <otmi:vector count='1'>boundaries</otmi:vector>
+              <otmi:vector count='1'>remoteness</otmi:vector>
+              <otmi:vector count='1'>states</otmi:vector>
+              <otmi:vector count='1'>Andes</otmi:vector>
+              <otmi:vector count='1'>scarce</otmi:vector>
+              <otmi:vector count='1'>implementation</otmi:vector>
+              <otmi:vector count='1'>business-as-usual</otmi:vector>
+              <otmi:vector count='1'>phase</otmi:vector>
+              <otmi:vector count='1'>empirically</otmi:vector>
+              <otmi:vector count='1'>underway</otmi:vector>
+              <otmi:vector count='1'>climbing</otmi:vector>
+              <otmi:vector count='1'>timber</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>target</otmi:vector>
+              <otmi:vector count='1'>depends</otmi:vector>
+              <otmi:vector count='1'>ecosystems</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>São</otmi:vector>
+              <otmi:vector count='1'>Amazonian</otmi:vector>
+              <otmi:vector count='1'>simulating</otmi:vector>
+              <otmi:vector count='1'>b</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>permitted</otmi:vector>
+              <otmi:vector count='1'>greenhouse</otmi:vector>
+              <otmi:vector count='1'>Current</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>primate</otmi:vector>
+              <otmi:vector count='1'>420,000</otmi:vector>
+              <otmi:vector count='1'>d</otmi:vector>
+              <otmi:vector count='1'>extend</otmi:vector>
+              <otmi:vector count='1'>agro-ecological</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>Program</otmi:vector>
+              <otmi:vector count='1'>manage</otmi:vector>
+              <otmi:vector count='1'>f</otmi:vector>
+              <otmi:vector count='1'>‘passively</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>peak</otmi:vector>
+              <otmi:vector count='1'>era</otmi:vector>
+              <otmi:vector count='1'>ha</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>convention</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>indicator</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>focused</otmi:vector>
+              <otmi:vector count='1'>over</otmi:vector>
+              <otmi:vector count='1'>3.2</otmi:vector>
+              <otmi:vector count='1'>86</otmi:vector>
+              <otmi:vector count='1'>agricultural</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>basin</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>efforts</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>53</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>conserving</otmi:vector>
+              <otmi:vector count='1'>accelerated</otmi:vector>
+              <otmi:vector count='1'>whose</otmi:vector>
+              <otmi:vector count='1'>largely</otmi:vector>
+              <otmi:vector count='1'>sale</otmi:vector>
+              <otmi:vector count='1'>standards</otmi:vector>
+              <otmi:vector count='1'>southeastern</otmi:vector>
+              <otmi:vector count='1'>diversity</otmi:vector>
+              <otmi:vector count='1'>plausible</otmi:vector>
+              <otmi:vector count='1'>public</otmi:vector>
+              <otmi:vector count='1'>refinement</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>ambitious</otmi:vector>
+              <otmi:vector count='1'>captured</otmi:vector>
+              <otmi:vector count='1'>pay</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>critical</otmi:vector>
+              <otmi:vector count='1'>large-scale</otmi:vector>
+              <otmi:vector count='1'>feasible</otmi:vector>
+              <otmi:vector count='1'>Santarém</otmi:vector>
+              <otmi:vector count='1'>impose</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>humanity</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>inhabited</otmi:vector>
+              <otmi:vector count='1'>Areas</otmi:vector>
+              <otmi:vector count='1'>how</otmi:vector>
+              <otmi:vector count='1'>summarized</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>period</otmi:vector>
+              <otmi:vector count='1'>tropics</otmi:vector>
+              <otmi:vector count='1'>rainforest</otmi:vector>
+              <otmi:vector count='1'>woodlands</otmi:vector>
+              <otmi:vector count='1'>Amap</otmi:vector>
+              <otmi:vector count='1'>disruption</otmi:vector>
+              <otmi:vector count='1'>scrub</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>lax</otmi:vector>
+              <otmi:vector count='1'>Southwestern</otmi:vector>
+              <otmi:vector count='1'>ecological</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>each</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>preserved</otmi:vector>
+              <otmi:vector count='1'>considers</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>policy-sensitive</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>comply</otmi:vector>
+              <otmi:vector count='1'>2010</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>B.S.S.-F</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>commodities</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>S1</otmi:vector>
+              <otmi:vector count='1'>assessments</otmi:vector>
+              <otmi:vector count='1'>running</otmi:vector>
+              <otmi:vector count='1'>maps</otmi:vector>
+              <otmi:vector count='1'>law</otmi:vector>
+              <otmi:vector count='1'>preceding</otmi:vector>
+              <otmi:vector count='1'>Cruz</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>moving</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>institutions</otmi:vector>
+              <otmi:vector count='1'>Recent</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>S3</otmi:vector>
+              <otmi:vector count='1'>Uncertainty</otmi:vector>
+              <otmi:vector count='1'>because</otmi:vector>
+              <otmi:vector count='1'>Information</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>replace</otmi:vector>
+              <otmi:vector count='1'>accounted</otmi:vector>
+              <otmi:vector count='1'>S9</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>Within</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>relaxes</otmi:vector>
+              <otmi:vector count='1'>quadrant</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>Colombia</otmi:vector>
+              <otmi:vector count='1'>original</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>density</otmi:vector>
+              <otmi:vector count='1'>S8</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>All conservation measures combined (but without PA expansion) accounted for 86% of the deforestation that is avoided in the ‘governance’ scenario</otmi:snippet>
+              <otmi:snippet>An expanded conservation strategy must encompass lands that fall outside PAs if it is to avoid the collapse of regional rainforest ecosystems that is already occurring elsewhere in the tropics .</otmi:snippet>
+              <otmi:snippet>An expanded network of PAs that is effectively implemented and enforced provided half of this reduction in deforestation</otmi:snippet>
+              <otmi:snippet>At one extreme is the ‘business-as-usual’ scenario (BAU), which assumes that: recent deforestation trends will continue; highways currently scheduled for paving will be paved; compliance with legislation requiring forest reserves on private land will remain low; and new PAs will not be created</otmi:snippet>
+              <otmi:snippet>At the other extreme, the ‘governance’ scenario assumes that Brazilian environmental legislation is implemented across the Amazon basin through the refinement and multiplication of current experiments in frontier governance </otmi:snippet>
+              <otmi:snippet>Beyond the market incentives for ecologically sound land management that may be captured through the environmental certification of beef, soybeans and timber , part of this funding might be provided through the sale of carbon credits derived from the avoidance of 17 ± 4 Pg of carbon emissions within a modified climate change convention </otmi:snippet>
+              <otmi:snippet>Both regional and global climate systems are also coupled to the Amazon forest through latent heat transfer </otmi:snippet>
+              <otmi:snippet>By 2050, 32 ± 8 Pg of carbon is emitted under the BAU scenario, equivalent to four years of current annual emissions worldwide, contrasted with 15 ± 4 Pg under the governance scenario</otmi:snippet>
+              <otmi:snippet>Carbon emissions expected for each scenario were estimated by assuming that 85% of the carbon contained in forest trees is released to the atmosphere after deforestation and by superimposing deforestation simulations on a range of forest biomass maps , extrapolated to the entire Amazon</otmi:snippet>
+              <otmi:snippet>Compliance with Brazil&apos;s environmental legislation requiring the protection of riparian vegetation and forest reserves on private land could increase as cattle ranchers and soy farmers perceive sound land management to be a requirement to access lucrative international markets </otmi:snippet>
+              <otmi:snippet>Conservation achievements of this magnitude are unlikely to result from command-and-control implementation of environmental legislation alone, but instead become more likely as international markets impose higher environmental standards on beef, soy and other food commodities</otmi:snippet>
+              <otmi:snippet>Conservation strategies for the Amazon region have focused on protected areas (PAs), both inhabited (‘extractive reserves’, public forests and indigenous lands) and uninhabited (parks and biological reserves) </otmi:snippet>
+              <otmi:snippet>Current legislation permits landholders to exceed the limit on forest clearing on their property if they retain other properties on which forest reserves comprise more than this limit</otmi:snippet>
+              <otmi:snippet>Eight of the 12 major watersheds of the Amazon will lose more than half of their forest cover under the 2050 BAU scenario</otmi:snippet>
+              <otmi:snippet>Eighteen of the Amazon&apos;s 32 major forested ecoregions will lose more than 40% of their forest cover by 2050 and 12 will lose more than 70% ( Fig. 1e , f , and Supplementary Table S9 )</otmi:snippet>
+              <otmi:snippet>For example, Amazon trees contain 119 ± 28 Pg of carbon , equivalent to 1.5 decades of current worldwide anthropogenic carbon emissions to the atmosphere</otmi:snippet>
+              <otmi:snippet>Given the concentration of projected deforestation in the eastern Amazon, some watersheds, ecoregions and mammalian species are far more vulnerable to disruption than others</otmi:snippet>
+              <otmi:snippet>Hence, although the highest levels of mammal endemism and species richness are found in the southwestern Amazon close to the Andes ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>However, our analysis considers only existing or planned highways</otmi:snippet>
+              <otmi:snippet>In all scenarios, future deforestation is concentrated in the eastern Amazon, where the density of paved highways will continue to be highest for several decades, and along the BR-364 highway from Rondônia into Acre in the Southwestern Amazon ( Fig. 1a , b )</otmi:snippet>
+              <otmi:snippet>Land-use zoning systems under development by Amazon states could reinforce a system of deforestation licensing that restricts the clearing of lands with low productive potential as it relaxes restrictions on lands with high productive potential</otmi:snippet>
+              <otmi:snippet>Moreover, we did not include the loss of Amazon savannas</otmi:snippet>
+              <otmi:snippet>Nor will PAs be sufficient to sustain Amazon climate; more than 70% of the forest cover of Amazon landscapes may be necessary to maintain the forest-dependent rainfall regime </otmi:snippet>
+              <otmi:snippet>Our projections of future deforestation would increase if additional highways were constructed into currently inaccessible regions</otmi:snippet>
+              <otmi:snippet>PAs inhibit both deforestation and fire but they are less effective in conserving watersheds, whose headwaters generally extend beyond reserve boundaries</otmi:snippet>
+              <otmi:snippet>Paving of the Interoceanica highway would cause the least impact, but would provoke extensive deforestation in the southwestern Brazilian state of Acre</otmi:snippet>
+              <otmi:snippet>Paving of the Manaus–Porto Velho highway, which traverses a region with few PAs and little human settlement, would stimulate more deforestation than the paving of either the Cuiabá–Santarém or the Interoceanica highways alone ( Supplementary Figs S11–S13 and Supplementary Tables S5–S7 )</otmi:snippet>
+              <otmi:snippet>Recent advances in enforcing the region&apos;s ambitious deforestation legislation and regional planning exercises underway along the major highways planned for paving are just two of the large-scale conservation efforts that could be the target of investments made for lowering the region&apos;s carbon emissions</otmi:snippet>
+              <otmi:snippet>Regional workshops and gap assessments have developed conservation priorities and determined the representation of vegetation types and centres of endemism within current and proposed PAs</otmi:snippet>
+              <otmi:snippet>S1 )</otmi:snippet>
+              <otmi:snippet>S14 ), the larger mammalian extinction threat may occur in the eastern Amazon, where projected deforestation rates are much higher</otmi:snippet>
+              <otmi:snippet>S7 )</otmi:snippet>
+              <otmi:snippet>S7 )</otmi:snippet>
+              <otmi:snippet>Some Atlantic coastal watersheds (Pará, Maranhão, Marajó and Amapá) and southeastern tributaries of the Amazon River (Tapajós and Xingu) will all lose at least two-thirds of their forest cover ( Fig. 1c , d , and Supplementary Table S8 ) and may undergo substantial increases in peak river flow and flooding as pastures replace forests </otmi:snippet>
+              <otmi:snippet>Terrestrial non-flying mammals serve as conservative indicator taxa or proxies to estimate how future deforestation will affect individual species</otmi:snippet>
+              <otmi:snippet>The Amazon PA network may protect a large portion of the region&apos;s mammalian diversity, but will not avoid the impoverishment of critical watersheds and ecoregions</otmi:snippet>
+              <otmi:snippet>The Amazon has entered a new era as the growing profitability of cattle ranching and soy production increases deforestation rates and drives the expansion of the highway network into the region&apos;s core ( Supplementary Fig</otmi:snippet>
+              <otmi:snippet>The BAU scenario assumes that as much as 40% of the forests inside of PAs are subject to deforestation (B.S.S.-F., unpublished observation), climbing to 85% outside</otmi:snippet>
+              <otmi:snippet>The conservation measures simulated in the ‘governance’ scenario would reduce the number of imperilled watersheds, ecoregions and mammalian species by about two-thirds and would avoid carbon emissions to the atmosphere equivalent to two years of global human-induced emissions</otmi:snippet>
+              <otmi:snippet>The ecological effects of this new phase of accelerated deforestation are potentially large</otmi:snippet>
+              <otmi:snippet>The economic opportunity costs of reducing deforestation in the Amazon could be lowered by restricting forest clearing on lands with low potential for crop production or cattle ranching, which are abundant in the region </otmi:snippet>
+              <otmi:snippet>The governance scenario assumes that the planned expansion of the PA network in the Brazilian Amazon , from 32% to 41% of the total forest area, succeeds and 100% of the forests in PAs are preserved intact, with only 50% of the forests outside of PAs subject to deforestation (compared with 20% currently permitted by Brazilian regulations)</otmi:snippet>
+              <otmi:snippet>The highest concentration of ‘imperilled’ mammals—those species that lose more than 40% of the forest in their Amazon ranges—is in the east-central Amazon ( Fig. 1g , h )</otmi:snippet>
+              <otmi:snippet>The intermediate scenarios that we ran in the model indicate that simply expanding the PA network, but with lax enforcement, reduces new deforestation 7% below the BAU scenario baseline</otmi:snippet>
+              <otmi:snippet>The model was run under eight scenarios that encompass a plausible range of future trajectories of deforestation</otmi:snippet>
+              <otmi:snippet>The most vulnerable ecoregions are found between savanna woodlands and closed-canopy forest where human occupation is concentrated and PAs are scarce</otmi:snippet>
+              <otmi:snippet>The paving of the BR-163 highway would result in an extensive region of deforestation as the agricultural frontier moving northwest from São Felix do Xingu coalesces with the eastward expansion from the BR-163</otmi:snippet>
+              <otmi:snippet>The plausibility of a scenario of expanding frontier governance is demonstrated by growing pressures on Amazon cattle ranchers and soy farmers from international markets and financial institutions to comply with environmental legislation and manage their land soundly , recent successes in designating new PAs in regions of active frontier expansion (for example, 7 million ha of new reserves were created in active frontier regions in 2004 and 2005) and the regional, participatory planning processes that are preceding the paving of new highways between Santarém and Mato Grosso , and in the southwestern Amazon </otmi:snippet>
+              <otmi:snippet>The potential decrease in Amazon carbon emissions within the governance scenario is more than eightfold the worldwide decrease in greenhouse gas emissions that will be achieved during the first compensation period of the Kyoto protocol</otmi:snippet>
+              <otmi:snippet>The scenarios are conservative because they do not consider forest impoverishment through logging and fire , nor do they consider the potential for forest substitution by savanna scrub through global warming </otmi:snippet>
+              <otmi:snippet>These ecoregions are highly dependent on the successful protection and possible expansion of a few indigenous reserves (for example, Parque Indigena do Xingu ) and parks (for example, Parque Nacional do Gurupi ) </otmi:snippet>
+              <otmi:snippet>These experiments include enforcement of mandatory forest reserves on private properties through a satellite-based licensing system , agro-ecological zoning of land use , and the expansion of the PA network (Amazon Region Protected Areas Program )</otmi:snippet>
+              <otmi:snippet>These include the Maranhão babaçu forest (97% loss) and the 420,000 km 2 Mato Grosso dry forest (76% loss)</otmi:snippet>
+              <otmi:snippet>These scenarios are summarized in Supplementary Table S3 </otmi:snippet>
+              <otmi:snippet>Thirty-five primate species lose 60–100% of their Amazonian range</otmi:snippet>
+              <otmi:snippet>Uncertainty estimates are described in Supplementary Information </otmi:snippet>
+              <otmi:snippet>Under the governance scenario, 4.5 million km 2 of forest would remain in 2050 ( Fig. 1b and Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Watershed protection depends on the maintenance of riparian zone vegetation, required by law on private properties in Brazil</otmi:snippet>
+              <otmi:snippet>We compared the potential influence of PAs and other conservation approaches on future trends in Amazon watersheds, vegetation types (ecoregions), mammals and carbon emissions by developing an empirically based, policy-sensitive model of Amazon deforestation</otmi:snippet>
+              <otmi:snippet>We disaggregated the effects of highway paving by running the model with no further paving and with three additional scenarios in which a single highway is paved: the BR-163 (Cuiabá–Santarém) and the Interoceanica (Assis Brasil–Cuzco) paved in 2008 and the Manaus–Porto Velho highway paved in 2010</otmi:snippet>
+              <otmi:snippet>We estimate that the closed-canopy forest formation of the Amazon will be reduced from its current area of 5.3 million km 2 (2003, 85% of the original area) to 3.2 million km 2 (53%) by 2050 if current trends continue unabated (BAU) ( Fig. 1a and Supplementary Fig</otmi:snippet>
+              <otmi:snippet>Wetland forests are also highly vulnerable, such as the Paramaribo swamp forest (93% forest loss) and the Marajó forest (78%)</otmi:snippet>
+              <otmi:snippet>With many of the benefits of Amazon conservation accruing to humanity worldwide, developed countries must be willing to pay to make frontier governance politically feasible</otmi:snippet>
+              <otmi:snippet>With the exception of Santa Cruz (Bolivia), Pucallpa (Peru), the Florencia region of Colombia, and coastal regions of the Guianas, large blocks of forest outside Brazil and most of the northwest quadrant of the Brazilian Amazon may remain largely intact until the mid-century, ‘passively’ protected by their remoteness</otmi:snippet>
+              <otmi:snippet>Within the governance scenario, the deforestation rate, although rising initially owing to road paving, declines over time, simulating the effects of growing market pressures in favour of sound land management, emerging markets for carbon retained in native forests and other incentives for landholders who conserve forest on their properties </otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Model results for the extreme-case scenarios in the year 2050.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , b , Forest cover for BAU ( a ) and governance ( b ) scenarios. c , d , Percentage forest loss by major watershed for BAU ( c ) and governance ( d ) scenarios in 2050. e , f , Percentage forest loss by ecoregion for BAU ( e ) and governance ( f ) scenarios in 2050. g , h , Numbers of imperilled mammals for BAU ( g ) and governance ( h ) scenarios in 2050 ( n = 105). Ecoregions: avdf, Apure/Villavicencio dry forests; mbf, Maranhão Babaçu forests; mdf, Maranon dry forests; mgtdf, Mato Grosso tropical dry forests; mvf, Marajo Varzea forests; nr, Northeastern restingas; pm, Pará mangroves; pmmf, Purus/Madeira moist forests; psf, Paramaribo swamp forests; tammf, Tocantins–Araguaia/Maranhão moist forests; txmf, Tapajos/Xingu moist forests; xtamf, Xingu/Tocantins–Araguaia moist forests.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1126/science.1067053</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1523-1739.1995.09010034.x</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1072807</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1523-1739.2000.99329.x</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1365-2486.2001.00426.x</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2001JD000717</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2001JD000335</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1523-1739.1995.9051134.x</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s10584-005-8074-6</otmi:refid>
+          <otmi:refid>info:doi/10.1038/19066</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2003GL018600</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0022-1694(03)00267-1</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35002501</otmi:refid>
+          <otmi:refid>info:doi/10.1038/371065a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35002062</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1091714</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1529-8817.2003.00769.x</otmi:refid>
+          <otmi:refsnoid>12</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

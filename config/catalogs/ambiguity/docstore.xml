@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+           list="ambiguity-files.txt" writeRetractionMap="false" retractionMapFile="ambiguityRetractionMap.ser"
+           appendSentencesInOneDocument="false" sentenceBoundary=" " loadTitles="true">
+        <command name="DocStoreBuilder"
+                 className="textractor.chain.docstore.DocumentStoreBuilder"
+                 basename="dataset-a-index/index"
+                 chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

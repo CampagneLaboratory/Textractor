@@ -1,0 +1,1460 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>K ATP channels as molecular sensors of cellular metabolism</title>
+      <id>info:doi/10.1038/nature04711</id>
+      <link href='http://dx.doi.org/10.1038/nature04711' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Colin G. Nichols</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>470</prism:startingPage>
+      <prism:endingPage>476</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>In responding to cytoplasmic nucleotide levels, ATP-sensitive potassium (K ATP ) channel activity provides a unique link between cellular energetics and electrical excitability. Over the past ten years, a steady drumbeat of crystallographic and electrophysiological studies has led to detailed structural and kinetic models that define the molecular basis of channel activity. In parallel, the uncovering of disease-causing mutations of K ATP has led to an explanation of the molecular basis of disease and, in turn, to a better understanding of the structural basis of channel function.</otmi:rawtext>
+          <otmi:reducedtext> responding cytoplasmic nucleotide levels, ATP-sensitive potassium (K ATP ) channel activity provides unique link between cellular energetics electrical excitability. Over past ten years, steady drumbeat crystallographic electrophysiological studies has led detailed structural kinetic models define molecular basis channel activity. parallel, uncovering disease-causing mutations K ATP has led explanation molecular basis disease , turn, better understanding structural basis channel function.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='3'>basis</otmi:vector>
+            <otmi:vector count='3'>channel</otmi:vector>
+            <otmi:vector count='2'>molecular</otmi:vector>
+            <otmi:vector count='2'>led</otmi:vector>
+            <otmi:vector count='2'>ATP</otmi:vector>
+            <otmi:vector count='2'>activity</otmi:vector>
+            <otmi:vector count='2'>has</otmi:vector>
+            <otmi:vector count='2'>K</otmi:vector>
+            <otmi:vector count='2'>structural</otmi:vector>
+            <otmi:vector count='1'>define</otmi:vector>
+            <otmi:vector count='1'>cytoplasmic</otmi:vector>
+            <otmi:vector count='1'>Over</otmi:vector>
+            <otmi:vector count='1'>responding</otmi:vector>
+            <otmi:vector count='1'>explanation</otmi:vector>
+            <otmi:vector count='1'>mutations</otmi:vector>
+            <otmi:vector count='1'>kinetic</otmi:vector>
+            <otmi:vector count='1'>energetics</otmi:vector>
+            <otmi:vector count='1'>understanding</otmi:vector>
+            <otmi:vector count='1'>provides</otmi:vector>
+            <otmi:vector count='1'>crystallographic</otmi:vector>
+            <otmi:vector count='1'>years</otmi:vector>
+            <otmi:vector count='1'>past</otmi:vector>
+            <otmi:vector count='1'>studies</otmi:vector>
+            <otmi:vector count='1'>electrical</otmi:vector>
+            <otmi:vector count='1'>detailed</otmi:vector>
+            <otmi:vector count='1'>electrophysiological</otmi:vector>
+            <otmi:vector count='1'>drumbeat</otmi:vector>
+            <otmi:vector count='1'>turn</otmi:vector>
+            <otmi:vector count='1'>steady</otmi:vector>
+            <otmi:vector count='1'>ten</otmi:vector>
+            <otmi:vector count='1'>function.</otmi:vector>
+            <otmi:vector count='1'>parallel</otmi:vector>
+            <otmi:vector count='1'>uncovering</otmi:vector>
+            <otmi:vector count='1'>excitability</otmi:vector>
+            <otmi:vector count='1'>between</otmi:vector>
+            <otmi:vector count='1'>link</otmi:vector>
+            <otmi:vector count='1'>levels</otmi:vector>
+            <otmi:vector count='1'>better</otmi:vector>
+            <otmi:vector count='1'>nucleotide</otmi:vector>
+            <otmi:vector count='1'>disease</otmi:vector>
+            <otmi:vector count='1'>disease-causing</otmi:vector>
+            <otmi:vector count='1'>models</otmi:vector>
+            <otmi:vector count='1'>cellular</otmi:vector>
+            <otmi:vector count='1'>unique</otmi:vector>
+            <otmi:vector count='1'>potassium</otmi:vector>
+            <otmi:vector count='1'>ATP-sensitive</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>In parallel, the uncovering of disease-causing mutations of K ATP has led to an explanation of the molecular basis of disease and, in turn, to a better understanding of the structural basis of channel function.</otmi:snippet>
+            <otmi:snippet>In responding to cytoplasmic nucleotide levels, ATP-sensitive potassium (K ATP ) channel activity provides a unique link between cellular energetics and electrical excitability</otmi:snippet>
+            <otmi:snippet>Over the past ten years, a steady drumbeat of crystallographic and electrophysiological studies has led to detailed structural and kinetic models that define the molecular basis of channel activity</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='68'>ATP</otmi:vector>
+              <otmi:vector count='54'>channel</otmi:vector>
+              <otmi:vector count='42'>K</otmi:vector>
+              <otmi:vector count='32'>Kir6.2</otmi:vector>
+              <otmi:vector count='32'>channels</otmi:vector>
+              <otmi:vector count='29'>Fig</otmi:vector>
+              <otmi:vector count='22'>mutations</otmi:vector>
+              <otmi:vector count='21'>2</otmi:vector>
+              <otmi:vector count='21'>SUR</otmi:vector>
+              <otmi:vector count='20'>at</otmi:vector>
+              <otmi:vector count='19'>state</otmi:vector>
+              <otmi:vector count='19'>NBFs</otmi:vector>
+              <otmi:vector count='18'>subunits</otmi:vector>
+              <otmi:vector count='15'>two</otmi:vector>
+              <otmi:vector count='14'>binding</otmi:vector>
+              <otmi:vector count='13'>also</otmi:vector>
+              <otmi:vector count='13'>PIP</otmi:vector>
+              <otmi:vector count='13'>open</otmi:vector>
+              <otmi:vector count='13'>see</otmi:vector>
+              <otmi:vector count='13'>subunit</otmi:vector>
+              <otmi:vector count='13'>all</otmi:vector>
+              <otmi:vector count='12'>which</otmi:vector>
+              <otmi:vector count='12'>have</otmi:vector>
+              <otmi:vector count='12'>loss</otmi:vector>
+              <otmi:vector count='11'>SUR1</otmi:vector>
+              <otmi:vector count='11'>can</otmi:vector>
+              <otmi:vector count='11'>gating</otmi:vector>
+              <otmi:vector count='11'>function</otmi:vector>
+              <otmi:vector count='11'>activation</otmi:vector>
+              <otmi:vector count='11'>one</otmi:vector>
+              <otmi:vector count='11'>ATP-binding</otmi:vector>
+              <otmi:vector count='11'>activity</otmi:vector>
+              <otmi:vector count='10'>but</otmi:vector>
+              <otmi:vector count='10'>Arg</otmi:vector>
+              <otmi:vector count='10'>hydrolysis</otmi:vector>
+              <otmi:vector count='9'>interaction</otmi:vector>
+              <otmi:vector count='9'>each</otmi:vector>
+              <otmi:vector count='9'>sensitivity</otmi:vector>
+              <otmi:vector count='9'>ref</otmi:vector>
+              <otmi:vector count='9'>residues</otmi:vector>
+              <otmi:vector count='9'>Kir</otmi:vector>
+              <otmi:vector count='9'>MgADP</otmi:vector>
+              <otmi:vector count='9'>p</otmi:vector>
+              <otmi:vector count='9'>model</otmi:vector>
+              <otmi:vector count='8'>other</otmi:vector>
+              <otmi:vector count='8'>proteins</otmi:vector>
+              <otmi:vector count='8'>Box</otmi:vector>
+              <otmi:vector count='8'>membrane</otmi:vector>
+              <otmi:vector count='8'>domains</otmi:vector>
+              <otmi:vector count='8'>1</otmi:vector>
+              <otmi:vector count='8'>will</otmi:vector>
+              <otmi:vector count='8'>molecular</otmi:vector>
+              <otmi:vector count='8'>effects</otmi:vector>
+              <otmi:vector count='8'>cytoplasmic</otmi:vector>
+              <otmi:vector count='8'>most</otmi:vector>
+              <otmi:vector count='7'>cavity</otmi:vector>
+              <otmi:vector count='7'>gate</otmi:vector>
+              <otmi:vector count='7'>NDM</otmi:vector>
+              <otmi:vector count='7'>transmembrane</otmi:vector>
+              <otmi:vector count='7'>protein</otmi:vector>
+              <otmi:vector count='7'>site</otmi:vector>
+              <otmi:vector count='7'>cause</otmi:vector>
+              <otmi:vector count='7'>than</otmi:vector>
+              <otmi:vector count='7'>inner</otmi:vector>
+              <otmi:vector count='7'>trafficking</otmi:vector>
+              <otmi:vector count='6'>understanding</otmi:vector>
+              <otmi:vector count='6'>cells</otmi:vector>
+              <otmi:vector count='6'>provides</otmi:vector>
+              <otmi:vector count='6'>both</otmi:vector>
+              <otmi:vector count='6'>region</otmi:vector>
+              <otmi:vector count='6'>four</otmi:vector>
+              <otmi:vector count='6'>effect</otmi:vector>
+              <otmi:vector count='6'>stability</otmi:vector>
+              <otmi:vector count='6'>hyperinsulinaemia</otmi:vector>
+              <otmi:vector count='6'>4</otmi:vector>
+              <otmi:vector count='6'>defects</otmi:vector>
+              <otmi:vector count='6'>how</otmi:vector>
+              <otmi:vector count='6'>sulphonylurea</otmi:vector>
+              <otmi:vector count='6'>closed</otmi:vector>
+              <otmi:vector count='6'>M2</otmi:vector>
+              <otmi:vector count='6'>mechanisms</otmi:vector>
+              <otmi:vector count='6'>bacterial</otmi:vector>
+              <otmi:vector count='6'>without</otmi:vector>
+              <otmi:vector count='6'>these</otmi:vector>
+              <otmi:vector count='6'>affinity</otmi:vector>
+              <otmi:vector count='6'>sites</otmi:vector>
+              <otmi:vector count='6'>refs</otmi:vector>
+              <otmi:vector count='6'>been</otmi:vector>
+              <otmi:vector count='5'>phenotype</otmi:vector>
+              <otmi:vector count='5'>between</otmi:vector>
+              <otmi:vector count='5'>Kir6</otmi:vector>
+              <otmi:vector count='5'>terminus</otmi:vector>
+              <otmi:vector count='5'>indicates</otmi:vector>
+              <otmi:vector count='5'>insulin</otmi:vector>
+              <otmi:vector count='5'>nucleotide</otmi:vector>
+              <otmi:vector count='5'>domain</otmi:vector>
+              <otmi:vector count='5'>provide</otmi:vector>
+              <otmi:vector count='5'>477</otmi:vector>
+              <otmi:vector count='5'>KirBac1.1</otmi:vector>
+              <otmi:vector count='5'>diabetes</otmi:vector>
+              <otmi:vector count='5'>basis</otmi:vector>
+              <otmi:vector count='5'>hypothesis</otmi:vector>
+              <otmi:vector count='5'>so</otmi:vector>
+              <otmi:vector count='5'>Mg</otmi:vector>
+              <otmi:vector count='5'>interactions</otmi:vector>
+              <otmi:vector count='5'>inhibitory</otmi:vector>
+              <otmi:vector count='5'>open-state</otmi:vector>
+              <otmi:vector count='5'>below</otmi:vector>
+              <otmi:vector count='5'>evidence</otmi:vector>
+              <otmi:vector count='5'>structure</otmi:vector>
+              <otmi:vector count='5'>likely</otmi:vector>
+              <otmi:vector count='5'>specific</otmi:vector>
+              <otmi:vector count='5'>structures</otmi:vector>
+              <otmi:vector count='4'>activated</otmi:vector>
+              <otmi:vector count='4'>insights</otmi:vector>
+              <otmi:vector count='4'>causes</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='4'>genetic</otmi:vector>
+              <otmi:vector count='4'>now</otmi:vector>
+              <otmi:vector count='4'>models</otmi:vector>
+              <otmi:vector count='4'>mutant</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>underlies</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>well</otmi:vector>
+              <otmi:vector count='4'>gain</otmi:vector>
+              <otmi:vector count='4'>results</otmi:vector>
+              <otmi:vector count='4'>close</otmi:vector>
+              <otmi:vector count='4'>affect</otmi:vector>
+              <otmi:vector count='4'>How</otmi:vector>
+              <otmi:vector count='4'>located</otmi:vector>
+              <otmi:vector count='4'>lack</otmi:vector>
+              <otmi:vector count='4'>bound</otmi:vector>
+              <otmi:vector count='4'>NBF2</otmi:vector>
+              <otmi:vector count='4'>2b</otmi:vector>
+              <otmi:vector count='4'>SUR2</otmi:vector>
+              <otmi:vector count='4'>electrical</otmi:vector>
+              <otmi:vector count='4'>role</otmi:vector>
+              <otmi:vector count='4'>helix</otmi:vector>
+              <otmi:vector count='4'>reduced</otmi:vector>
+              <otmi:vector count='4'>3b</otmi:vector>
+              <otmi:vector count='4'>through</otmi:vector>
+              <otmi:vector count='4'>family</otmi:vector>
+              <otmi:vector count='4'>Crystallization</otmi:vector>
+              <otmi:vector count='4'>surface</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>direct</otmi:vector>
+              <otmi:vector count='4'>nucleotides</otmi:vector>
+              <otmi:vector count='4'>permeation</otmi:vector>
+              <otmi:vector count='4'>suggests</otmi:vector>
+              <otmi:vector count='4'>important</otmi:vector>
+              <otmi:vector count='4'>disease</otmi:vector>
+              <otmi:vector count='4'>TMD2</otmi:vector>
+              <otmi:vector count='4'>ABC</otmi:vector>
+              <otmi:vector count='4'>recombinant</otmi:vector>
+              <otmi:vector count='4'>such</otmi:vector>
+              <otmi:vector count='4'>ion</otmi:vector>
+              <otmi:vector count='4'>addition</otmi:vector>
+              <otmi:vector count='4'>sequence</otmi:vector>
+              <otmi:vector count='4'>One</otmi:vector>
+              <otmi:vector count='4'>genes</otmi:vector>
+              <otmi:vector count='4'>biochemical</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>could</otmi:vector>
+              <otmi:vector count='4'>pore</otmi:vector>
+              <otmi:vector count='4'>NBF1</otmi:vector>
+              <otmi:vector count='4'>eukaryotic</otmi:vector>
+              <otmi:vector count='3'>different</otmi:vector>
+              <otmi:vector count='3'>50</otmi:vector>
+              <otmi:vector count='3'>secretion</otmi:vector>
+              <otmi:vector count='3'>probability</otmi:vector>
+              <otmi:vector count='3'>coupled</otmi:vector>
+              <otmi:vector count='3'>mutation</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>prokaryotic</otmi:vector>
+              <otmi:vector count='3'>almost</otmi:vector>
+              <otmi:vector count='3'>1a</otmi:vector>
+              <otmi:vector count='3'>would</otmi:vector>
+              <otmi:vector count='3'>member</otmi:vector>
+              <otmi:vector count='3'>issue</otmi:vector>
+              <otmi:vector count='3'>time</otmi:vector>
+              <otmi:vector count='3'>expression</otmi:vector>
+              <otmi:vector count='3'>opening</otmi:vector>
+              <otmi:vector count='3'>alter</otmi:vector>
+              <otmi:vector count='3'>helices</otmi:vector>
+              <otmi:vector count='3'>sulphonylureas</otmi:vector>
+              <otmi:vector count='3'>conceivable</otmi:vector>
+              <otmi:vector count='3'>review</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>increase</otmi:vector>
+              <otmi:vector count='3'>complexes</otmi:vector>
+              <otmi:vector count='3'>structural</otmi:vector>
+              <otmi:vector count='3'>modelling</otmi:vector>
+              <otmi:vector count='3'>respectively</otmi:vector>
+              <otmi:vector count='3'>ADP</otmi:vector>
+              <otmi:vector count='3'>interact</otmi:vector>
+              <otmi:vector count='3'>regulation</otmi:vector>
+              <otmi:vector count='3'>highlighting</otmi:vector>
+              <otmi:vector count='3'>details</otmi:vector>
+              <otmi:vector count='3'>decreased</otmi:vector>
+              <otmi:vector count='3'>active</otmi:vector>
+              <otmi:vector count='3'>case</otmi:vector>
+              <otmi:vector count='3'>2a</otmi:vector>
+              <otmi:vector count='3'>Mg-nucleotides</otmi:vector>
+              <otmi:vector count='3'>ligand</otmi:vector>
+              <otmi:vector count='3'>interface</otmi:vector>
+              <otmi:vector count='3'>shows</otmi:vector>
+              <otmi:vector count='3'>after</otmi:vector>
+              <otmi:vector count='3'>absence</otmi:vector>
+              <otmi:vector count='3'>part</otmi:vector>
+              <otmi:vector count='3'>MTSEA</otmi:vector>
+              <otmi:vector count='3'>contains</otmi:vector>
+              <otmi:vector count='3'>activate</otmi:vector>
+              <otmi:vector count='3'>our</otmi:vector>
+              <otmi:vector count='3'>need</otmi:vector>
+              <otmi:vector count='3'>only</otmi:vector>
+              <otmi:vector count='3'>contain</otmi:vector>
+              <otmi:vector count='3'>tissues</otmi:vector>
+              <otmi:vector count='3'>presence</otmi:vector>
+              <otmi:vector count='3'>due</otmi:vector>
+              <otmi:vector count='3'>lead</otmi:vector>
+              <otmi:vector count='3'>slide</otmi:vector>
+              <otmi:vector count='3'>no</otmi:vector>
+              <otmi:vector count='3'>primary</otmi:vector>
+              <otmi:vector count='3'>TMD0</otmi:vector>
+              <otmi:vector count='3'>CFTR</otmi:vector>
+              <otmi:vector count='3'>future</otmi:vector>
+              <otmi:vector count='3'>result</otmi:vector>
+              <otmi:vector count='3'>might</otmi:vector>
+              <otmi:vector count='3'>selectivity</otmi:vector>
+              <otmi:vector count='3'>ligands</otmi:vector>
+              <otmi:vector count='3'>TMD1</otmi:vector>
+              <otmi:vector count='3'>Because</otmi:vector>
+              <otmi:vector count='3'>formed</otmi:vector>
+              <otmi:vector count='3'>leading</otmi:vector>
+              <otmi:vector count='3'>consensus</otmi:vector>
+              <otmi:vector count='3'>bottom</otmi:vector>
+              <otmi:vector count='3'>any</otmi:vector>
+              <otmi:vector count='3'>multiple</otmi:vector>
+              <otmi:vector count='3'>mimics</otmi:vector>
+              <otmi:vector count='3'>near</otmi:vector>
+              <otmi:vector count='3'>ER</otmi:vector>
+              <otmi:vector count='3'>involves</otmi:vector>
+              <otmi:vector count='3'>analyses</otmi:vector>
+              <otmi:vector count='3'>activating</otmi:vector>
+              <otmi:vector count='3'>crucial</otmi:vector>
+              <otmi:vector count='3'>experiments</otmi:vector>
+              <otmi:vector count='3'>increasing</otmi:vector>
+              <otmi:vector count='3'>they</otmi:vector>
+              <otmi:vector count='3'>occur</otmi:vector>
+              <otmi:vector count='3'>complex</otmi:vector>
+              <otmi:vector count='3'>functional</otmi:vector>
+              <otmi:vector count='3'>high</otmi:vector>
+              <otmi:vector count='3'>act</otmi:vector>
+              <otmi:vector count='3'>wild-type</otmi:vector>
+              <otmi:vector count='3'>13</otmi:vector>
+              <otmi:vector count='3'>KirBac</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='3'>stabilizing</otmi:vector>
+              <otmi:vector count='3'>generated</otmi:vector>
+              <otmi:vector count='3'>C</otmi:vector>
+              <otmi:vector count='2'>SURs</otmi:vector>
+              <otmi:vector count='2'>NBF</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>90</otmi:vector>
+              <otmi:vector count='2'>closing</otmi:vector>
+              <otmi:vector count='2'>manipulation</otmi:vector>
+              <otmi:vector count='2'>add</otmi:vector>
+              <otmi:vector count='2'>tested</otmi:vector>
+              <otmi:vector count='2'>484</otmi:vector>
+              <otmi:vector count='2'>12</otmi:vector>
+              <otmi:vector count='2'>5a</otmi:vector>
+              <otmi:vector count='2'>cation</otmi:vector>
+              <otmi:vector count='2'>common</otmi:vector>
+              <otmi:vector count='2'>dimer</otmi:vector>
+              <otmi:vector count='2'>crystallization</otmi:vector>
+              <otmi:vector count='2'>14</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>5b</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>should</otmi:vector>
+              <otmi:vector count='2'>15</otmi:vector>
+              <otmi:vector count='2'>discussed</otmi:vector>
+              <otmi:vector count='2'>unknown</otmi:vector>
+              <otmi:vector count='2'>KcsA</otmi:vector>
+              <otmi:vector count='2'>face</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>full-length</otmi:vector>
+              <otmi:vector count='2'>elements</otmi:vector>
+              <otmi:vector count='2'>mellitus</otmi:vector>
+              <otmi:vector count='2'>crystallizing</otmi:vector>
+              <otmi:vector count='2'>expressed</otmi:vector>
+              <otmi:vector count='2'>hypersecretion</otmi:vector>
+              <otmi:vector count='2'>architecture</otmi:vector>
+              <otmi:vector count='2'>L</otmi:vector>
+              <otmi:vector count='2'>being</otmi:vector>
+              <otmi:vector count='2'>subfamily</otmi:vector>
+              <otmi:vector count='2'>vertebrate</otmi:vector>
+              <otmi:vector count='2'>required</otmi:vector>
+              <otmi:vector count='2'>high-resolution</otmi:vector>
+              <otmi:vector count='2'>tissue-specific</otmi:vector>
+              <otmi:vector count='2'>motion</otmi:vector>
+              <otmi:vector count='2'>homologous</otmi:vector>
+              <otmi:vector count='2'>provided</otmi:vector>
+              <otmi:vector count='2'>N</otmi:vector>
+              <otmi:vector count='2'>Kv</otmi:vector>
+              <otmi:vector count='2'>inhibited</otmi:vector>
+              <otmi:vector count='2'>questions</otmi:vector>
+              <otmi:vector count='2'>physically</otmi:vector>
+              <otmi:vector count='2'>expected</otmi:vector>
+              <otmi:vector count='2'>allow</otmi:vector>
+              <otmi:vector count='2'>isolated</otmi:vector>
+              <otmi:vector count='2'>mutually</otmi:vector>
+              <otmi:vector count='2'>Protein</otmi:vector>
+              <otmi:vector count='2'>distinct</otmi:vector>
+              <otmi:vector count='2'>Consistent</otmi:vector>
+              <otmi:vector count='2'>potential</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>retained</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>combinations</otmi:vector>
+              <otmi:vector count='2'>exogenous</otmi:vector>
+              <otmi:vector count='2'>addressed</otmi:vector>
+              <otmi:vector count='2'>stabilize</otmi:vector>
+              <otmi:vector count='2'>nucleotide-binding</otmi:vector>
+              <otmi:vector count='2'>independent</otmi:vector>
+              <otmi:vector count='2'>conductance</otmi:vector>
+              <otmi:vector count='2'>construct</otmi:vector>
+              <otmi:vector count='2'>constant</otmi:vector>
+              <otmi:vector count='2'>inhibition</otmi:vector>
+              <otmi:vector count='2'>labelling</otmi:vector>
+              <otmi:vector count='2'>control</otmi:vector>
+              <otmi:vector count='2'>Several</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>revealed</otmi:vector>
+              <otmi:vector count='2'>naturally</otmi:vector>
+              <otmi:vector count='2'>cell</otmi:vector>
+              <otmi:vector count='2'>201</otmi:vector>
+              <otmi:vector count='2'>mutated</otmi:vector>
+              <otmi:vector count='2'>do</otmi:vector>
+              <otmi:vector count='2'>disease-causing</otmi:vector>
+              <otmi:vector count='2'>transition-state</otmi:vector>
+              <otmi:vector count='2'>features</otmi:vector>
+              <otmi:vector count='2'>narrow</otmi:vector>
+              <otmi:vector count='2'>Molecular</otmi:vector>
+              <otmi:vector count='2'>crystal</otmi:vector>
+              <otmi:vector count='2'>unclear</otmi:vector>
+              <otmi:vector count='2'>patients</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>reasonable</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>out</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>reiterate</otmi:vector>
+              <otmi:vector count='2'>Kir2.1</otmi:vector>
+              <otmi:vector count='2'>ligand-dependent</otmi:vector>
+              <otmi:vector count='2'>slow</otmi:vector>
+              <otmi:vector count='2'>cycle</otmi:vector>
+              <otmi:vector count='2'>reflects</otmi:vector>
+              <otmi:vector count='2'>particularly</otmi:vector>
+              <otmi:vector count='2'>Kir3.1</otmi:vector>
+              <otmi:vector count='2'>analogue</otmi:vector>
+              <otmi:vector count='2'>32</otmi:vector>
+              <otmi:vector count='2'>intimate</otmi:vector>
+              <otmi:vector count='2'>human</otmi:vector>
+              <otmi:vector count='2'>states</otmi:vector>
+              <otmi:vector count='2'>Lys</otmi:vector>
+              <otmi:vector count='2'>Many</otmi:vector>
+              <otmi:vector count='2'>directly</otmi:vector>
+              <otmi:vector count='2'>net</otmi:vector>
+              <otmi:vector count='2'>approach</otmi:vector>
+              <otmi:vector count='2'>changes</otmi:vector>
+              <otmi:vector count='2'>whether</otmi:vector>
+              <otmi:vector count='2'>steering</otmi:vector>
+              <otmi:vector count='2'>Kinetic</otmi:vector>
+              <otmi:vector count='2'>amino</otmi:vector>
+              <otmi:vector count='2'>increased</otmi:vector>
+              <otmi:vector count='2'>underlying</otmi:vector>
+              <otmi:vector count='2'>pancreas</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>differences</otmi:vector>
+              <otmi:vector count='2'>end</otmi:vector>
+              <otmi:vector count='2'>diameter</otmi:vector>
+              <otmi:vector count='2'>remain</otmi:vector>
+              <otmi:vector count='2'>key</otmi:vector>
+              <otmi:vector count='2'>appears</otmi:vector>
+              <otmi:vector count='2'>cluster</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>176</otmi:vector>
+              <otmi:vector count='2'>There</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>include</otmi:vector>
+              <otmi:vector count='2'>177</otmi:vector>
+              <otmi:vector count='2'>predicted</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>whereas</otmi:vector>
+              <otmi:vector count='2'>consistency</otmi:vector>
+              <otmi:vector count='2'>However</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>At</otmi:vector>
+              <otmi:vector count='2'>neonatal</otmi:vector>
+              <otmi:vector count='2'>ABS</otmi:vector>
+              <otmi:vector count='2'>intrinsic</otmi:vector>
+              <otmi:vector count='2'>excitability</otmi:vector>
+              <otmi:vector count='2'>controlling</otmi:vector>
+              <otmi:vector count='2'>interesting</otmi:vector>
+              <otmi:vector count='2'>182</otmi:vector>
+              <otmi:vector count='2'>major</otmi:vector>
+              <otmi:vector count='2'>defective</otmi:vector>
+              <otmi:vector count='2'>studies</otmi:vector>
+              <otmi:vector count='2'>M1</otmi:vector>
+              <otmi:vector count='2'>pocket</otmi:vector>
+              <otmi:vector count='2'>otherwise</otmi:vector>
+              <otmi:vector count='2'>1c</otmi:vector>
+              <otmi:vector count='2'>generate</otmi:vector>
+              <otmi:vector count='2'>gates</otmi:vector>
+              <otmi:vector count='2'>S6</otmi:vector>
+              <otmi:vector count='2'>widely</otmi:vector>
+              <otmi:vector count='2'>motions</otmi:vector>
+              <otmi:vector count='2'>members</otmi:vector>
+              <otmi:vector count='2'>normally</otmi:vector>
+              <otmi:vector count='2'>KirBac3.1</otmi:vector>
+              <otmi:vector count='2'>Ile</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>brakes</otmi:vector>
+              <otmi:vector count='2'>along</otmi:vector>
+              <otmi:vector count='2'>resulting</otmi:vector>
+              <otmi:vector count='2'>spontaneous</otmi:vector>
+              <otmi:vector count='2'>unliganded</otmi:vector>
+              <otmi:vector count='2'>Trapping</otmi:vector>
+              <otmi:vector count='2'>cases</otmi:vector>
+              <otmi:vector count='2'>These</otmi:vector>
+              <otmi:vector count='2'>permissive</otmi:vector>
+              <otmi:vector count='2'>insect</otmi:vector>
+              <otmi:vector count='2'>unique</otmi:vector>
+              <otmi:vector count='2'>led</otmi:vector>
+              <otmi:vector count='2'>463</otmi:vector>
+              <otmi:vector count='1'>vasoconstrictive</otmi:vector>
+              <otmi:vector count='1'>Importantly</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>opener</otmi:vector>
+              <otmi:vector count='1'>classical</otmi:vector>
+              <otmi:vector count='1'>stimulatory</otmi:vector>
+              <otmi:vector count='1'>example</otmi:vector>
+              <otmi:vector count='1'>co-expression</otmi:vector>
+              <otmi:vector count='1'>52</otmi:vector>
+              <otmi:vector count='1'>vasospasm</otmi:vector>
+              <otmi:vector count='1'>ABS2</otmi:vector>
+              <otmi:vector count='1'>minimal</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>open–closed</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>makes</otmi:vector>
+              <otmi:vector count='1'>favoured</otmi:vector>
+              <otmi:vector count='1'>stroke</otmi:vector>
+              <otmi:vector count='1'>36–38</otmi:vector>
+              <otmi:vector count='1'>increases</otmi:vector>
+              <otmi:vector count='1'>thio</otmi:vector>
+              <otmi:vector count='1'>cystic</otmi:vector>
+              <otmi:vector count='1'>manner</otmi:vector>
+              <otmi:vector count='1'>death</otmi:vector>
+              <otmi:vector count='1'>corollary</otmi:vector>
+              <otmi:vector count='1'>54</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>pore-forming</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>non-permissive</otmi:vector>
+              <otmi:vector count='1'>SUR1–Kir6.2</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>phosphorylation</otmi:vector>
+              <otmi:vector count='1'>cysteines</otmi:vector>
+              <otmi:vector count='1'>backbone</otmi:vector>
+              <otmi:vector count='1'>headgroups</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>diabetes-causing</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>x</otmi:vector>
+              <otmi:vector count='1'>nucleotide-bound</otmi:vector>
+              <otmi:vector count='1'>shield</otmi:vector>
+              <otmi:vector count='1'>glibenclamide</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>effective</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>dimerization</otmi:vector>
+              <otmi:vector count='1'>under</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>retention</otmi:vector>
+              <otmi:vector count='1'>occurring</otmi:vector>
+              <otmi:vector count='1'>Gln</otmi:vector>
+              <otmi:vector count='1'>channel-opener</otmi:vector>
+              <otmi:vector count='1'>fluorescent</otmi:vector>
+              <otmi:vector count='1'>gears</otmi:vector>
+              <otmi:vector count='1'>drugs</otmi:vector>
+              <otmi:vector count='1'>glucose-insensitive</otmi:vector>
+              <otmi:vector count='1'>ADP-bound</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>truncated</otmi:vector>
+              <otmi:vector count='1'>efficiently</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>59</otmi:vector>
+              <otmi:vector count='1'>extreme</otmi:vector>
+              <otmi:vector count='1'>Golgi</otmi:vector>
+              <otmi:vector count='1'>couple</otmi:vector>
+              <otmi:vector count='1'>respect</otmi:vector>
+              <otmi:vector count='1'>majority</otmi:vector>
+              <otmi:vector count='1'>NBF1–NBF2</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>patch-clamp</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>bio-electric</otmi:vector>
+              <otmi:vector count='1'>structurally</otmi:vector>
+              <otmi:vector count='1'>hinged</otmi:vector>
+              <otmi:vector count='1'>intriguing</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>Just</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>stoichiometry</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>hypotheses</otmi:vector>
+              <otmi:vector count='1'>sparse</otmi:vector>
+              <otmi:vector count='1'>power</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>hence</otmi:vector>
+              <otmi:vector count='1'>replicates</otmi:vector>
+              <otmi:vector count='1'>CLC</otmi:vector>
+              <otmi:vector count='1'>hints</otmi:vector>
+              <otmi:vector count='1'>diazoxide</otmi:vector>
+              <otmi:vector count='1'>ethylamine</otmi:vector>
+              <otmi:vector count='1'>pursue</otmi:vector>
+              <otmi:vector count='1'>speculations</otmi:vector>
+              <otmi:vector count='1'>similar</otmi:vector>
+              <otmi:vector count='1'>throughout</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>trafficked</otmi:vector>
+              <otmi:vector count='1'>shorter</otmi:vector>
+              <otmi:vector count='1'>modulation</otmi:vector>
+              <otmi:vector count='1'>certainly</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>orders</otmi:vector>
+              <otmi:vector count='1'>-bound</otmi:vector>
+              <otmi:vector count='1'>prove</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>Miller</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>cooperative</otmi:vector>
+              <otmi:vector count='1'>introduction</otmi:vector>
+              <otmi:vector count='1'>Gly</otmi:vector>
+              <otmi:vector count='1'>dehydration</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>loss-of-function</otmi:vector>
+              <otmi:vector count='1'>verity</otmi:vector>
+              <otmi:vector count='1'>tail</otmi:vector>
+              <otmi:vector count='1'>perform</otmi:vector>
+              <otmi:vector count='1'>330</otmi:vector>
+              <otmi:vector count='1'>continue</otmi:vector>
+              <otmi:vector count='1'>vanadate</otmi:vector>
+              <otmi:vector count='1'>regulatory</otmi:vector>
+              <otmi:vector count='1'>nestled</otmi:vector>
+              <otmi:vector count='1'>locations</otmi:vector>
+              <otmi:vector count='1'>ligand-operated</otmi:vector>
+              <otmi:vector count='1'>azido-ATP</otmi:vector>
+              <otmi:vector count='1'>inward</otmi:vector>
+              <otmi:vector count='1'>al</otmi:vector>
+              <otmi:vector count='1'>post-hydrolytic</otmi:vector>
+              <otmi:vector count='1'>energized</otmi:vector>
+              <otmi:vector count='1'>lie</otmi:vector>
+              <otmi:vector count='1'>play</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>openers</otmi:vector>
+              <otmi:vector count='1'>333</otmi:vector>
+              <otmi:vector count='1'>reflect</otmi:vector>
+              <otmi:vector count='1'>dissociation</otmi:vector>
+              <otmi:vector count='1'>genome</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>heralded</otmi:vector>
+              <otmi:vector count='1'>heterodimers</otmi:vector>
+              <otmi:vector count='1'>Tyr330Cys</otmi:vector>
+              <otmi:vector count='1'>334</otmi:vector>
+              <otmi:vector count='1'>acquired</otmi:vector>
+              <otmi:vector count='1'>voltage-gated</otmi:vector>
+              <otmi:vector count='1'>imaging</otmi:vector>
+              <otmi:vector count='1'>three-dimensional</otmi:vector>
+              <otmi:vector count='1'>lesson</otmi:vector>
+              <otmi:vector count='1'>co-expressed</otmi:vector>
+              <otmi:vector count='1'>25</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>competition</otmi:vector>
+              <otmi:vector count='1'>painless</otmi:vector>
+              <otmi:vector count='1'>74</otmi:vector>
+              <otmi:vector count='1'>diabetic</otmi:vector>
+              <otmi:vector count='1'>Kir6.1</otmi:vector>
+              <otmi:vector count='1'>secretory</otmi:vector>
+              <otmi:vector count='1'>&quot;open</otmi:vector>
+              <otmi:vector count='1'>depend</otmi:vector>
+              <otmi:vector count='1'>depends</otmi:vector>
+              <otmi:vector count='1'>reducing</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>missing</otmi:vector>
+              <otmi:vector count='1'>biosynthetic</otmi:vector>
+              <otmi:vector count='1'>75</otmi:vector>
+              <otmi:vector count='1'>206</otmi:vector>
+              <otmi:vector count='1'>persistently</otmi:vector>
+              <otmi:vector count='1'>spectrum</otmi:vector>
+              <otmi:vector count='1'>Sulphonylureas</otmi:vector>
+              <otmi:vector count='1'>experimentally</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>exactly</otmi:vector>
+              <otmi:vector count='1'>phosphoinositides</otmi:vector>
+              <otmi:vector count='1'>generates</otmi:vector>
+              <otmi:vector count='1'>so-called</otmi:vector>
+              <otmi:vector count='1'>catalytically</otmi:vector>
+              <otmi:vector count='1'>Val59Gly</otmi:vector>
+              <otmi:vector count='1'>invariably</otmi:vector>
+              <otmi:vector count='1'>Inhibition</otmi:vector>
+              <otmi:vector count='1'>ABCC.8</otmi:vector>
+              <otmi:vector count='1'>parts</otmi:vector>
+              <otmi:vector count='1'>fast</otmi:vector>
+              <otmi:vector count='1'>ABCC.9</otmi:vector>
+              <otmi:vector count='1'>collar</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>acutely</otmi:vector>
+              <otmi:vector count='1'>itself</otmi:vector>
+              <otmi:vector count='1'>P</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>pathway</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>conformation</otmi:vector>
+              <otmi:vector count='1'>caveat</otmi:vector>
+              <otmi:vector count='1'>vascular</otmi:vector>
+              <otmi:vector count='1'>19</otmi:vector>
+              <otmi:vector count='1'>challenge</otmi:vector>
+              <otmi:vector count='1'>analogy</otmi:vector>
+              <otmi:vector count='1'>appropriately</otmi:vector>
+              <otmi:vector count='1'>considerably</otmi:vector>
+              <otmi:vector count='1'>pathophysiology</otmi:vector>
+              <otmi:vector count='1'>M</otmi:vector>
+              <otmi:vector count='1'>head-to-tail</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>affecting</otmi:vector>
+              <otmi:vector count='1'>Whether</otmi:vector>
+              <otmi:vector count='1'>opposite</otmi:vector>
+              <otmi:vector count='1'>established</otmi:vector>
+              <otmi:vector count='1'>Subunits</otmi:vector>
+              <otmi:vector count='1'>channel–ligand</otmi:vector>
+              <otmi:vector count='1'>18</otmi:vector>
+              <otmi:vector count='1'>Lys170Asn,Lys170Arg</otmi:vector>
+              <otmi:vector count='1'>KIR6.1</otmi:vector>
+              <otmi:vector count='1'>Hyperinsulinaemia</otmi:vector>
+              <otmi:vector count='1'>clinical</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>KIR6.2</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>maintain</otmi:vector>
+              <otmi:vector count='1'>dissimilar</otmi:vector>
+              <otmi:vector count='1'>Action</otmi:vector>
+              <otmi:vector count='1'>higher-resolution</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>Mutations</otmi:vector>
+              <otmi:vector count='1'>coordinate</otmi:vector>
+              <otmi:vector count='1'>immediately</otmi:vector>
+              <otmi:vector count='1'>interfaces</otmi:vector>
+              <otmi:vector count='1'>preferential</otmi:vector>
+              <otmi:vector count='1'>crystallized</otmi:vector>
+              <otmi:vector count='1'>reticulum</otmi:vector>
+              <otmi:vector count='1'>removes</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>linkers</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>notion</otmi:vector>
+              <otmi:vector count='1'>Tyr</otmi:vector>
+              <otmi:vector count='1'>Tristani-Firouzi</otmi:vector>
+              <otmi:vector count='1'>KCNJ</otmi:vector>
+              <otmi:vector count='1'>explored</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>green</otmi:vector>
+              <otmi:vector count='1'>voltage-gating</otmi:vector>
+              <otmi:vector count='1'>animal</otmi:vector>
+              <otmi:vector count='1'>sulphhydrol</otmi:vector>
+              <otmi:vector count='1'>91</otmi:vector>
+              <otmi:vector count='1'>stabilizes</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>packing</otmi:vector>
+              <otmi:vector count='1'>raw</otmi:vector>
+              <otmi:vector count='1'>manipulations</otmi:vector>
+              <otmi:vector count='1'>coronary</otmi:vector>
+              <otmi:vector count='1'>mutagenesis</otmi:vector>
+              <otmi:vector count='1'>Gadsby</otmi:vector>
+              <otmi:vector count='1'>unstable</otmi:vector>
+              <otmi:vector count='1'>resting</otmi:vector>
+              <otmi:vector count='1'>location</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>follows</otmi:vector>
+              <otmi:vector count='1'>ligand-interacting</otmi:vector>
+              <otmi:vector count='1'>coupling</otmi:vector>
+              <otmi:vector count='1'>guided</otmi:vector>
+              <otmi:vector count='1'>disease.</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>consisting</otmi:vector>
+              <otmi:vector count='1'>species</otmi:vector>
+              <otmi:vector count='1'>sequences</otmi:vector>
+              <otmi:vector count='1'>materials</otmi:vector>
+              <otmi:vector count='1'>having</otmi:vector>
+              <otmi:vector count='1'>homologues</otmi:vector>
+              <otmi:vector count='1'>material</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>non-hydrolytic</otmi:vector>
+              <otmi:vector count='1'>hypoinsulinaemic</otmi:vector>
+              <otmi:vector count='1'>interacting</otmi:vector>
+              <otmi:vector count='1'>players</otmi:vector>
+              <otmi:vector count='1'>approximately</otmi:vector>
+              <otmi:vector count='1'>wins</otmi:vector>
+              <otmi:vector count='1'>forward</otmi:vector>
+              <otmi:vector count='1'>persistent</otmi:vector>
+              <otmi:vector count='1'>single</otmi:vector>
+              <otmi:vector count='1'>recruited</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>access</otmi:vector>
+              <otmi:vector count='1'>interplay</otmi:vector>
+              <otmi:vector count='1'>dominates</otmi:vector>
+              <otmi:vector count='1'>debate</otmi:vector>
+              <otmi:vector count='1'>property</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>brake</otmi:vector>
+              <otmi:vector count='1'>mutational</otmi:vector>
+              <otmi:vector count='1'>fibrosis</otmi:vector>
+              <otmi:vector count='1'>hypoglycaemia</otmi:vector>
+              <otmi:vector count='1'>inactivated</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>Prinzmetal</otmi:vector>
+              <otmi:vector count='1'>Congenital</otmi:vector>
+              <otmi:vector count='1'>Experimentally</otmi:vector>
+              <otmi:vector count='1'>modification</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>transitions</otmi:vector>
+              <otmi:vector count='1'>therapeutics</otmi:vector>
+              <otmi:vector count='1'>Random</otmi:vector>
+              <otmi:vector count='1'>humans</otmi:vector>
+              <otmi:vector count='1'>overcomes</otmi:vector>
+              <otmi:vector count='1'>8</otmi:vector>
+              <otmi:vector count='1'>operating</otmi:vector>
+              <otmi:vector count='1'>controls</otmi:vector>
+              <otmi:vector count='1'>heavily</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>Rather</otmi:vector>
+              <otmi:vector count='1'>MgATP</otmi:vector>
+              <otmi:vector count='1'>5</otmi:vector>
+              <otmi:vector count='1'>happens</otmi:vector>
+              <otmi:vector count='1'>steep</otmi:vector>
+              <otmi:vector count='1'>lending</otmi:vector>
+              <otmi:vector count='1'>therapeutic</otmi:vector>
+              <otmi:vector count='1'>excluded</otmi:vector>
+              <otmi:vector count='1'>rectifier</otmi:vector>
+              <otmi:vector count='1'>Ca</otmi:vector>
+              <otmi:vector count='1'>signals</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>Na</otmi:vector>
+              <otmi:vector count='1'>tailoring</otmi:vector>
+              <otmi:vector count='1'>tantalizing</otmi:vector>
+              <otmi:vector count='1'>chloride</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>muscle</otmi:vector>
+              <otmi:vector count='1'>membranes</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>Gln52Arg</otmi:vector>
+              <otmi:vector count='1'>cell-ular</otmi:vector>
+              <otmi:vector count='1'>loop</otmi:vector>
+              <otmi:vector count='1'>consequences</otmi:vector>
+              <otmi:vector count='1'>Binding</otmi:vector>
+              <otmi:vector count='1'>injected</otmi:vector>
+              <otmi:vector count='1'>frontiers</otmi:vector>
+              <otmi:vector count='1'>ER-retention</otmi:vector>
+              <otmi:vector count='1'>decreases</otmi:vector>
+              <otmi:vector count='1'>risky</otmi:vector>
+              <otmi:vector count='1'>portion</otmi:vector>
+              <otmi:vector count='1'>Reduction</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>fit</otmi:vector>
+              <otmi:vector count='1'>realistic</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>CFTR[ΔPhe</otmi:vector>
+              <otmi:vector count='1'>tandem</otmi:vector>
+              <otmi:vector count='1'>modulates</otmi:vector>
+              <otmi:vector count='1'>et</otmi:vector>
+              <otmi:vector count='1'>apparent</otmi:vector>
+              <otmi:vector count='1'>drastic</otmi:vector>
+              <otmi:vector count='1'>Why</otmi:vector>
+              <otmi:vector count='1'>angle</otmi:vector>
+              <otmi:vector count='1'>functioning</otmi:vector>
+              <otmi:vector count='1'>versus</otmi:vector>
+              <otmi:vector count='1'>0.5</otmi:vector>
+              <otmi:vector count='1'>micrography</otmi:vector>
+              <otmi:vector count='1'>explanation</otmi:vector>
+              <otmi:vector count='1'>Future</otmi:vector>
+              <otmi:vector count='1'>KCNJ11</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>negligible</otmi:vector>
+              <otmi:vector count='1'>MthK</otmi:vector>
+              <otmi:vector count='1'>inhibit</otmi:vector>
+              <otmi:vector count='1'>crystallize</otmi:vector>
+              <otmi:vector count='1'>short-term</otmi:vector>
+              <otmi:vector count='1'>TMD2–NBF2</otmi:vector>
+              <otmi:vector count='1'>rather</otmi:vector>
+              <otmi:vector count='1'>0.9</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>single-channel</otmi:vector>
+              <otmi:vector count='1'>activator</otmi:vector>
+              <otmi:vector count='1'>accession</otmi:vector>
+              <otmi:vector count='1'>theoretical</otmi:vector>
+              <otmi:vector count='1'>exchangers</otmi:vector>
+              <otmi:vector count='1'>bit</otmi:vector>
+              <otmi:vector count='1'>Cys42Arg</otmi:vector>
+              <otmi:vector count='1'>barrier</otmi:vector>
+              <otmi:vector count='1'>hyperpolarizing</otmi:vector>
+              <otmi:vector count='1'>Detection</otmi:vector>
+              <otmi:vector count='1'>unresolved</otmi:vector>
+              <otmi:vector count='1'>trap</otmi:vector>
+              <otmi:vector count='1'>carboxyl</otmi:vector>
+              <otmi:vector count='1'>knocked</otmi:vector>
+              <otmi:vector count='1'>self-contained</otmi:vector>
+              <otmi:vector count='1'>Alongside</otmi:vector>
+              <otmi:vector count='1'>predominantly</otmi:vector>
+              <otmi:vector count='1'>chains</otmi:vector>
+              <otmi:vector count='1'>fluoride</otmi:vector>
+              <otmi:vector count='1'>hydrolyse</otmi:vector>
+              <otmi:vector count='1'>several</otmi:vector>
+              <otmi:vector count='1'>filter</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>patches</otmi:vector>
+              <otmi:vector count='1'>absent</otmi:vector>
+              <otmi:vector count='1'>reductionist</otmi:vector>
+              <otmi:vector count='1'>dysregulated</otmi:vector>
+              <otmi:vector count='1'>concern</otmi:vector>
+              <otmi:vector count='1'>activates</otmi:vector>
+              <otmi:vector count='1'>sobering</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>Loss</otmi:vector>
+              <otmi:vector count='1'>pharmacologies</otmi:vector>
+              <otmi:vector count='1'>ligand-independent</otmi:vector>
+              <otmi:vector count='1'>dimeric</otmi:vector>
+              <otmi:vector count='1'>Figure</otmi:vector>
+              <otmi:vector count='1'>ATP-bound</otmi:vector>
+              <otmi:vector count='1'>interpretation</otmi:vector>
+              <otmi:vector count='1'>phosphatidylinositol-4,5-bisphosphate</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>Overlapping</otmi:vector>
+              <otmi:vector count='1'>satisfying</otmi:vector>
+              <otmi:vector count='1'>encode</otmi:vector>
+              <otmi:vector count='1'>20–22</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>apparently</otmi:vector>
+              <otmi:vector count='1'>Where</otmi:vector>
+              <otmi:vector count='1'>methyl</otmi:vector>
+              <otmi:vector count='1'>reagents</otmi:vector>
+              <otmi:vector count='1'>predicts</otmi:vector>
+              <otmi:vector count='1'>NBF1–GFP</otmi:vector>
+              <otmi:vector count='1'>Mechanism</otmi:vector>
+              <otmi:vector count='1'>excised</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>phosphate</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>side</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>potentials</otmi:vector>
+              <otmi:vector count='1'>accessible</otmi:vector>
+              <otmi:vector count='1'>blocking</otmi:vector>
+              <otmi:vector count='1'>508</otmi:vector>
+              <otmi:vector count='1'>cloning</otmi:vector>
+              <otmi:vector count='1'>Mikhailov</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>steps</otmi:vector>
+              <otmi:vector count='1'>gleaned</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>mice</otmi:vector>
+              <otmi:vector count='1'>metabolism</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>possibility</otmi:vector>
+              <otmi:vector count='1'>P-azido-ATP</otmi:vector>
+              <otmi:vector count='1'>directions</otmi:vector>
+              <otmi:vector count='1'>Recently</otmi:vector>
+              <otmi:vector count='1'>trapped</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>enzymes</otmi:vector>
+              <otmi:vector count='1'>generating</otmi:vector>
+              <otmi:vector count='1'>termed</otmi:vector>
+              <otmi:vector count='1'>final</otmi:vector>
+              <otmi:vector count='1'>conservation</otmi:vector>
+              <otmi:vector count='1'>desensitizing</otmi:vector>
+              <otmi:vector count='1'>channel-dependent</otmi:vector>
+              <otmi:vector count='1'>linked</otmi:vector>
+              <otmi:vector count='1'>treating</otmi:vector>
+              <otmi:vector count='1'>pathologies</otmi:vector>
+              <otmi:vector count='1'>stopped</otmi:vector>
+              <otmi:vector count='1'>Similarly</otmi:vector>
+              <otmi:vector count='1'>constructs</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>connects</otmi:vector>
+              <otmi:vector count='1'>beryllium</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>truncation</otmi:vector>
+              <otmi:vector count='1'>types</otmi:vector>
+              <otmi:vector count='1'>angina</otmi:vector>
+              <otmi:vector count='1'>ourselves</otmi:vector>
+              <otmi:vector count='1'>soluble</otmi:vector>
+              <otmi:vector count='1'>reflection</otmi:vector>
+              <otmi:vector count='1'>pre-hydrolytic</otmi:vector>
+              <otmi:vector count='1'>transitional</otmi:vector>
+              <otmi:vector count='1'>Ile1296Leu</otmi:vector>
+              <otmi:vector count='1'>analogous</otmi:vector>
+              <otmi:vector count='1'>implicated</otmi:vector>
+              <otmi:vector count='1'>dimers</otmi:vector>
+              <otmi:vector count='1'>sufficient</otmi:vector>
+              <otmi:vector count='1'>clear</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>automobile</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>separate</otmi:vector>
+              <otmi:vector count='1'>realization</otmi:vector>
+              <otmi:vector count='1'>acid</otmi:vector>
+              <otmi:vector count='1'>indirect</otmi:vector>
+              <otmi:vector count='1'>transduction</otmi:vector>
+              <otmi:vector count='1'>gains</otmi:vector>
+              <otmi:vector count='1'>disorder</otmi:vector>
+              <otmi:vector count='1'>complexed</otmi:vector>
+              <otmi:vector count='1'>Less</otmi:vector>
+              <otmi:vector count='1'>secreting</otmi:vector>
+              <otmi:vector count='1'>Docking</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>conditions</otmi:vector>
+              <otmi:vector count='1'>Biophysical</otmi:vector>
+              <otmi:vector count='1'>suppress</otmi:vector>
+              <otmi:vector count='1'>carboxy-terminal</otmi:vector>
+              <otmi:vector count='1'>diseases</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>linker</otmi:vector>
+              <otmi:vector count='1'>Multiple</otmi:vector>
+              <otmi:vector count='1'>hyperinsulinaemic</otmi:vector>
+              <otmi:vector count='1'>numbers</otmi:vector>
+              <otmi:vector count='1'>homology</otmi:vector>
+              <otmi:vector count='1'>depolarized</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>ligand-binding</otmi:vector>
+              <otmi:vector count='1'>heterotropic</otmi:vector>
+              <otmi:vector count='1'>Templates</otmi:vector>
+              <otmi:vector count='1'>inter-subunit</otmi:vector>
+              <otmi:vector count='1'>properties</otmi:vector>
+              <otmi:vector count='1'>crossing</otmi:vector>
+              <otmi:vector count='1'>fold</otmi:vector>
+              <otmi:vector count='1'>diffuse</otmi:vector>
+              <otmi:vector count='1'>Sanguinetti</otmi:vector>
+              <otmi:vector count='1'>Data</otmi:vector>
+              <otmi:vector count='1'>influence</otmi:vector>
+              <otmi:vector count='1'>experimental</otmi:vector>
+              <otmi:vector count='1'>transducer</otmi:vector>
+              <otmi:vector count='1'>Mg-nucleotide</otmi:vector>
+              <otmi:vector count='1'>extracellular</otmi:vector>
+              <otmi:vector count='1'>blockers</otmi:vector>
+              <otmi:vector count='1'>inform</otmi:vector>
+              <otmi:vector count='1'>1388</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>persists</otmi:vector>
+              <otmi:vector count='1'>Potential</otmi:vector>
+              <otmi:vector count='1'>weight</otmi:vector>
+              <otmi:vector count='1'>equilibrium</otmi:vector>
+              <otmi:vector count='1'>β-cells</otmi:vector>
+              <otmi:vector count='1'>mechanistic</otmi:vector>
+              <otmi:vector count='1'>therapy</otmi:vector>
+              <otmi:vector count='1'>goes</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>sulphydryl</otmi:vector>
+              <otmi:vector count='1'>bundle</otmi:vector>
+              <otmi:vector count='1'>co-immunoprecipited</otmi:vector>
+              <otmi:vector count='1'>endoplasmic</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>accepted</otmi:vector>
+              <otmi:vector count='1'>realized</otmi:vector>
+              <otmi:vector count='1'>residue</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>conformational</otmi:vector>
+              <otmi:vector count='1'>numerous</otmi:vector>
+              <otmi:vector count='1'>stimulation</otmi:vector>
+              <otmi:vector count='1'>altering</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>modest</otmi:vector>
+              <otmi:vector count='1'>differential</otmi:vector>
+              <otmi:vector count='1'>revolution</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>movement</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>regulator</otmi:vector>
+              <otmi:vector count='1'>nm</otmi:vector>
+              <otmi:vector count='1'>candidate</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>concentration</otmi:vector>
+              <otmi:vector count='1'>ambitiously</otmi:vector>
+              <otmi:vector count='1'>cassette</otmi:vector>
+              <otmi:vector count='1'>organ</otmi:vector>
+              <otmi:vector count='1'>serves</otmi:vector>
+              <otmi:vector count='1'>demonstrated</otmi:vector>
+              <otmi:vector count='1'>plane</otmi:vector>
+              <otmi:vector count='1'>six-helix</otmi:vector>
+              <otmi:vector count='1'>170</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>essential</otmi:vector>
+              <otmi:vector count='1'>epiphenomenon</otmi:vector>
+              <otmi:vector count='1'>Stoichiometry</otmi:vector>
+              <otmi:vector count='1'>1XL4</otmi:vector>
+              <otmi:vector count='1'>Low</otmi:vector>
+              <otmi:vector count='1'>mammalian</otmi:vector>
+              <otmi:vector count='1'>suggesting</otmi:vector>
+              <otmi:vector count='1'>underlie</otmi:vector>
+              <otmi:vector count='1'>Whereas</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>infancy</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>does</otmi:vector>
+              <otmi:vector count='1'>Overexpression</otmi:vector>
+              <otmi:vector count='1'>1XL6</otmi:vector>
+              <otmi:vector count='1'>Studies</otmi:vector>
+              <otmi:vector count='1'>correction</otmi:vector>
+              <otmi:vector count='1'>measurements</otmi:vector>
+              <otmi:vector count='1'>exercise</otmi:vector>
+              <otmi:vector count='1'>undergoes</otmi:vector>
+              <otmi:vector count='1'>help</otmi:vector>
+              <otmi:vector count='1'>inhibits</otmi:vector>
+              <otmi:vector count='1'>consists</otmi:vector>
+              <otmi:vector count='1'>hydrolytic</otmi:vector>
+              <otmi:vector count='1'>bridged</otmi:vector>
+              <otmi:vector count='1'>tailored</otmi:vector>
+              <otmi:vector count='1'>Beyond</otmi:vector>
+              <otmi:vector count='1'>SUR1[ΔPhe</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>transition</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>nature</otmi:vector>
+              <otmi:vector count='1'>reconstruction</otmi:vector>
+              <otmi:vector count='1'>among</otmi:vector>
+              <otmi:vector count='1'>accumulate</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>rebinding</otmi:vector>
+              <otmi:vector count='1'>restore</otmi:vector>
+              <otmi:vector count='1'>ABCC8</otmi:vector>
+              <otmi:vector count='1'>N-terminal</otmi:vector>
+              <otmi:vector count='1'>assays</otmi:vector>
+              <otmi:vector count='1'>deletion</otmi:vector>
+              <otmi:vector count='1'>-dependent</otmi:vector>
+              <otmi:vector count='1'>ABCC9</otmi:vector>
+              <otmi:vector count='1'>concerted</otmi:vector>
+              <otmi:vector count='1'>Val</otmi:vector>
+              <otmi:vector count='1'>evolutionarily</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>Bank</otmi:vector>
+              <otmi:vector count='1'>unfavourable</otmi:vector>
+              <otmi:vector count='1'>organs</otmi:vector>
+              <otmi:vector count='1'>altered</otmi:vector>
+              <otmi:vector count='1'>Phe</otmi:vector>
+              <otmi:vector count='1'>constituent</otmi:vector>
+              <otmi:vector count='1'>non-ligand-bound</otmi:vector>
+              <otmi:vector count='1'>independently</otmi:vector>
+              <otmi:vector count='1'>&quot;closed</otmi:vector>
+              <otmi:vector count='1'>Arg-Lys-Arg</otmi:vector>
+              <otmi:vector count='1'>ions</otmi:vector>
+              <otmi:vector count='1'>tend</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>dependence</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>understood</otmi:vector>
+              <otmi:vector count='1'>electron</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>diseases—neonatal</otmi:vector>
+              <otmi:vector count='1'>acting</otmi:vector>
+              <otmi:vector count='1'>signalling</otmi:vector>
+              <otmi:vector count='1'>compact</otmi:vector>
+              <otmi:vector count='1'>recognized</otmi:vector>
+              <otmi:vector count='1'>characterized</otmi:vector>
+              <otmi:vector count='1'>partner</otmi:vector>
+              <otmi:vector count='1'>detail</otmi:vector>
+              <otmi:vector count='1'>context</otmi:vector>
+              <otmi:vector count='1'>provocative</otmi:vector>
+              <otmi:vector count='1'>confers</otmi:vector>
+              <otmi:vector count='1'>185</otmi:vector>
+              <otmi:vector count='1'>Further</otmi:vector>
+              <otmi:vector count='1'>Arg1394His</otmi:vector>
+              <otmi:vector count='1'>euk-Kir</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>metabolic</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>oral</otmi:vector>
+              <otmi:vector count='1'>relies</otmi:vector>
+              <otmi:vector count='1'>association</otmi:vector>
+              <otmi:vector count='1'>degree</otmi:vector>
+              <otmi:vector count='1'>suggestion</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A consensus model of Kir6.2, based on elements of both the eukaryotic and the prokaryotic Kir structures , provides satisfying agreement with mutational studies of Kir6.2, particularly with respect to the inhibitory ATP-binding site ( Fig. 2b ; see below)</otmi:snippet>
+              <otmi:snippet>A high-resolution model of Kir6.2 Crystallization of the bacterial KcsA K + channel heralded a revolution in our understanding of channel structure</otmi:snippet>
+              <otmi:snippet>ATP (with or without Mg 2+ ) inhibits, and PIP 2 activates, by direct interaction with Kir6.2 subunits</otmi:snippet>
+              <otmi:snippet>Action potentials, which define electrical excitability, depend on the activity of voltage-gated Na + , Ca 2+ and K + (Kv) channels (see the review in this issue by Sanguinetti and Tristani-Firouzi, p. 463 )</otmi:snippet>
+              <otmi:snippet>Alongside these animal models, genetic analyses have demonstrated corollary diseases—neonatal diabetes mellitus (NDM) and hyperinsulinaemia — in humans </otmi:snippet>
+              <otmi:snippet>Although some mutations are in Kir6.2, the majority are in SUR1 (refs 74 , 75 ) and most cause one of two major defects: biosynthetic or trafficking defects that lead to absent or reduced surface expression of channels; or loss of MgADP activation of expressed channels, which could reflect direct effects on ATP hydrolysis or ADP binding at the NBFs, or defects in the coupling to channel opening</otmi:snippet>
+              <otmi:snippet>An effect on the gate region itself might explain the diabetes-causing effects of mutations at residue Lys 170 (Lys170Asn,Lys170Arg) ( Fig. 5b )</otmi:snippet>
+              <otmi:snippet>Another single amino acid mutation (Arg1394His) also causes defective trafficking in mammalian cells, but rather than being retained in the ER, the protein appears to accumulate in the Golgi </otmi:snippet>
+              <otmi:snippet>As a result, β-cells remain depolarized and persistently secreting</otmi:snippet>
+              <otmi:snippet>As discussed in detail below, ATP inhibition results from interaction with the Kir6 subunits, whereas Mg-nucleotide activation reflects interaction with SUR subunits</otmi:snippet>
+              <otmi:snippet>At the membrane interface, the verity of the model, which relies heavily on the KirBac1.1 structure, is less clear</otmi:snippet>
+              <otmi:snippet>At this point, there is debate about whether permeation is stopped by specific side chains blocking ion flow, or is a more diffuse reflection of an unfavourable environment for K + dehydration</otmi:snippet>
+              <otmi:snippet>Because all four subunits need to be in the permissive (&quot;open&quot;) state for the channel to be active, this results in an observed open probability of 0.5 (0.9 4 )</otmi:snippet>
+              <otmi:snippet>Because all proteins are evolutionarily tailored to perform specific functions, it follows that disease-causing mutations are most likely to cause loss of the specific function</otmi:snippet>
+              <otmi:snippet>Because different NDM mutations alter ATP sensitivity by two distinct mechanisms (by reducing ATP affinity or by increasing the open-state stability; Box 1 ), so they show differential sulphonylurea sensitivity —mechanistic information that might help in tailoring pharmacologies for treating the disease</otmi:snippet>
+              <otmi:snippet>Beyond this, hints that K ATP can be complexed with enzymes and other proteins need to be explored using cellular imaging approaches, as well as with recombinant complexes that could lead to higher-resolution structures</otmi:snippet>
+              <otmi:snippet>Binding of ATP to the unliganded subunit will trap it in the non-permissive, &quot;closed&quot;, state</otmi:snippet>
+              <otmi:snippet>Biophysical and biochemical experiments established that four Kir6.2 subunits generate the channel pore, each Kir6.2 being associated with one SUR1 protein ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>But electrical activity without modulation would be like an automobile with one speed, no steering and no brakes</otmi:snippet>
+              <otmi:snippet>But it is conceivable that spontaneous mutations also cause increases in an activating function, such as increased MgADP affinity of SUR1 (refs 60 , 91 )</otmi:snippet>
+              <otmi:snippet>By analogy, it is suggested that Mg 2+ -dependent ATP hydrolysis at the dimeric SUR NBFs also provides the &quot;power stroke&quot; that overcomes the inhibitory effect of ATP on Kir6.2 ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>By stabilizing the open state of the channel (increasing L ; Box 1 ), ATP sensitivity is reduced without a change in ATP-binding affinity </otmi:snippet>
+              <otmi:snippet>By stabilizing the resting membrane potential, these channels act as a brake on excitability</otmi:snippet>
+              <otmi:snippet>CFTR mutant cycle analysis provides evidence for NBF1–NBF2 interactions in the full-length protein (see p. 477 ), and modelling of the SUR NBFs as heterodimers ( Fig. 3b ) seems reasonable given the high degree of conservation among NBF sequences</otmi:snippet>
+              <otmi:snippet>Congenital hyperinsulinaemia, a genetic disorder characterized by dysregulated insulin secretion, is the most common cause of hypoglycaemia in infancy, and more than 50 loss-of-function hyperinsulinaemia mutations have now been recognized in K ATP genes </otmi:snippet>
+              <otmi:snippet>Consistent with a direct effect on binding, residues Arg 50, Ile 182 and Arg 201, all identified as mutated in NDM patients, were all previously implicated as likely ATP-binding residues in Kir6.2, and all are located in the ATP-binding site in the model channel ( Fig. 5b )</otmi:snippet>
+              <otmi:snippet>Consistent with this hypothesis, mutations in M2, particularly near the cytoplasmic end, affect slow gating in multiple Kir channels, including Kir6.2 (refs 36–38 )</otmi:snippet>
+              <otmi:snippet>Crystallization of linked amino- and carboxy-terminal domains of Kir3.1 (ref. 12 ) and Kir2.1 (ref. 13 ), and of full-length prokaryotic Kir channel homologues KirBac1.1 (ref. 14 ) and KirBac3.1 (ref. 15 ) (Protein Data Bank accession numbers 1XL4 and 1XL6), revealed an extended cytoplasmic pore and the likely location of ligand-binding sites</otmi:snippet>
+              <otmi:snippet>Crystallization of the bacterial MthK K + channel in an apparently open state led to a now widely accepted hypothesis that the main gate in all cation channels involves a hinged motion of M2 (termed S6 in Kv channels; see p. 463 ), closing the channel at the bottom of the inner cavity, at the narrow collar generated by the crossing of the bundle of M2 helices ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>Crystallization of the cytoplasmic domains of Kir2.1 (ref. 13 ) and Kir3.1 (ref. 12 ), as well as the NBFs of CFTR (see p. 477 ), indicates that crystallization of the homologous ligand-interacting domains in the K ATP channel could be realized in the near future</otmi:snippet>
+              <otmi:snippet>Detection of disease-causing mutations will further inform the molecular basis of channel function, but the sulphonylurea desensitizing effect of open-state stabilizing mutations shows how an understanding of the underlying molecular basis of activity can provide insights into the mechanisms of disease.</otmi:snippet>
+              <otmi:snippet>Docking of ATP in the consensus model of Kir6.2 (ref. 17 and Fig. 2b ) was guided by the results of numerous mutagenesis studies that have provided candidate residues for the ATP-binding site</otmi:snippet>
+              <otmi:snippet>Experimentally, azido-ATP labelling experiments have shown that nucleotide binding to NBF2 stabilizes ATP binding to NBF1 (ref. 30 )</otmi:snippet>
+              <otmi:snippet>Figure 4 provides a theoretical model of the biochemical details</otmi:snippet>
+              <otmi:snippet>For such mutations, manipulations that allow correction of the trafficking defects might be of therapeutic value </otmi:snippet>
+              <otmi:snippet>From structure to disease and back K ATP channels are widely expressed in vertebrate tissues, and genetic manipulation in mice has revealed important consequences of loss of channel subunits in different tissues, highlighting the coordinate nature of the two subunits in generating tissue-specific channel activity </otmi:snippet>
+              <otmi:snippet>Further progress in crystallizing KirBac proteins, combined with biochemical and functional assays, will provide increasing insights into gating mechanisms and the molecular details of channel–ligand interactions</otmi:snippet>
+              <otmi:snippet>Furthermore, the ability of MTSEA + and other sulphydryl reagents to access the inner cavity through this region indicates a minimum in the open state diameter</otmi:snippet>
+              <otmi:snippet>Future directions What are the important questions to pursue in future? From a strictly reductionist angle, the first challenge is to generate a high-resolution crystal structure of the K ATP complex</otmi:snippet>
+              <otmi:snippet>Gln 52 and Val 59 are located within the slide helix region of Kir6.2 (Fig. 6), lending consistency to the suggestion that this &quot;linker&quot; serves to physically couple the ATP-binding site to the gating region </otmi:snippet>
+              <otmi:snippet>How does ATP close the channel? The cytoplasmic domains of each Kir6.2 subunit provide the binding sites for ATP and PIP 2 , which stabilize closed and open states of the channel, respectively ( Box 1 )</otmi:snippet>
+              <otmi:snippet>How much material do we have to add realistic details to the model? Where are the gates? The weight of evidence suggests that K ATP channels contain two independent types of gate in the permeation pathway ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>How the binding of ATP or of PIP 2 is coupled to the closing or opening of the gate is still unknown</otmi:snippet>
+              <otmi:snippet>How will future structural insights affect our understanding of pathophysiology or our approach to clinical therapeutics? K ATP could be involved in a whole spectrum of diabetes mellitus and other organ pathologies , and we will continue to see effects of K ATP subunit deletion and manipulation affecting the functioning of multiple organs</otmi:snippet>
+              <otmi:snippet>However, direct hydrolysis measurements on SUR NBFs are sparse , and mutations analogous to those that have drastic effects on ATP hydrolysis in bacterial NBFs have only modest effects on SUR NBFs </otmi:snippet>
+              <otmi:snippet>However, understanding of the molecular basis of K ATP function also immediately predicts an underlying caveat: sulphonylureas also stabilize the closed state of the channel, and sulphonylurea sensitivity depends on the open-state stability of the channel, such that mutations that increase open-state stability also reduce sulphonylurea sensitivity </otmi:snippet>
+              <otmi:snippet>Hyperinsulinaemia mutations tend to cluster in the SUR1 NBFs, and almost invariably result in reduced MgADP activation ( Fig. 3b ), highlighting the crucial role of SUR NBFs in the physiological activation of K ATP channels</otmi:snippet>
+              <otmi:snippet>Importantly, although all eukaryotic Kir channels are strongly activated by interaction with phosphatidylinositol-4,5-bisphosphate (PIP 2 ), KirBac1.1 is inhibited by PIP 2 (ref. 19 )</otmi:snippet>
+              <otmi:snippet>In a complex interplay of mechanisms, the K ATP channel is inhibited by the non-hydrolytic binding of ATP, but activated by interactions with Mg 2+ -bound nucleotides (Mg-nucleotides) at separate sites</otmi:snippet>
+              <otmi:snippet>In addition to the channels that play the leading parts, bio-electric signalling involves many crucial bit players (see the review in this issue by Miller, p. 484) that provide essential gears, steering and brakes</otmi:snippet>
+              <otmi:snippet>In addition, NBF1 and NBF2 can be co-immunoprecipited , and a soluble NBF1–GFP (green fluorescent protein) construct is recruited to the membrane by a TMD2–NBF2 construct when co-expressed in insect cells </otmi:snippet>
+              <otmi:snippet>In addition, SURs have an N-terminal TMD0 domain that consists of five transmembrane helices ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>In addition, in the presence of Mg 2+ , ATP and ADP can activate the channel through interaction with the NBFs of SUR</otmi:snippet>
+              <otmi:snippet>In bacterial NBFs, dimerization is favoured by the presence of nucleotide, and ATP hydrolysis occurs in a cooperative manner , leading to the hypothesis that the nucleotide-bound dimer is the catalytically active species</otmi:snippet>
+              <otmi:snippet>In patch-clamp experiments, channel activation by exogenous MgADP is much more effective than activation by MgATP, and the same &quot;hydrolysis&quot; mutations lead to decreased MgADP stimulation of K ATP channels ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>In recombinant cells, Kir6.2 can form channels without SUR1 when truncated at the carboxyl terminus </otmi:snippet>
+              <otmi:snippet>In the absence of ATP, wild-type subunits are bound to membrane PIP 2 (and hence in the permissive, &quot;open&quot; state) for 90% of the time</otmi:snippet>
+              <otmi:snippet>In the present context, loss of channel activation due to loss of the activating effects of nucleotides on SUR1 underlies net channel &apos;loss of function&apos; in most cases of hyperinsulinaemia, whereas loss of ATP sensitivity through mutation of Kir6.2 underlies net &apos;gain of function&apos; in all NDM mutations identified so far</otmi:snippet>
+              <otmi:snippet>In the vertebrate genome, there are two Kir6 genes ( KCNJ 8 , KIR6.1 and KCNJ11 , KIR6.2 ) and two SUR genes ( ABCC.8 , SUR1 and ABCC.9 , SUR2 ), and co-expression of combinations of the two genes replicates all of the key features of classical K ATP channel activity </otmi:snippet>
+              <otmi:snippet>In this case, it is loss of ATP sensitivity resulting from one of two mechanisms ( Box 1 ): decreased apparent affinity of the ATP-binding pocket for the nucleotide; or an increase in the intrinsic stability of the open state </otmi:snippet>
+              <otmi:snippet>In this case, truncation removes a trafficking sequence (Arg-Lys-Arg) that otherwise causes Kir6.2 retention in the endoplasmic reticulum (ER)</otmi:snippet>
+              <otmi:snippet>In this way, the channel provides a unique electrical transducer of the metabolic state of the cell</otmi:snippet>
+              <otmi:snippet>Inhibition by ATP binding to Kir6.2 and activation by Mg-nucleotides is almost certainly the primary physiological regulatory mechanism</otmi:snippet>
+              <otmi:snippet>It is an intriguing hypothesis that KirBac channels are normally active in bacterial membranes (which typically contain no phosphoinositides) and that eukaryotic Kir channels acquired these additional residues specifically to restore function in the face of otherwise inhibitory PIP 2 </otmi:snippet>
+              <otmi:snippet>It is interesting that naturally occurring disease mutations that affect the channel open-state stability cluster along the slide helix of Kir6.2 ( Fig. 5 ; see below), highlighting a role for this helix in controlling channel gating </otmi:snippet>
+              <otmi:snippet>It points to the intimate packing of four SUR1 subunits against four Kir6.2 subunits, with the TMD0 domain nestled between TMD1, TMD2 and Kir6.2 ( Fig. 1c ), and suggests that NBF1 and NBF2 interactions can occur between subunits, a possibility that is yet to be experimentally tested</otmi:snippet>
+              <otmi:snippet>It remains conceivable that hydrolysis, if it happens at all, is an epiphenomenon and that preferential binding of MgADP at ABS2 is the activator of the channel</otmi:snippet>
+              <otmi:snippet>Just how reasonable this notion is has not been addressed</otmi:snippet>
+              <otmi:snippet>K ATP channels show fast, ligand-independent gating ( Box 1 ), which indicates the presence of a gate in the selectivity filter ( Fig. 2a ) — the part of the channel that confers selectivity to particular ions — but here we concern ourselves mainly with the slow, ligand-dependent gates</otmi:snippet>
+              <otmi:snippet>K ATP defects in hyperinsulinaemia K ATP channels suppress insulin secretion by hyperpolarizing the β-cell membrane ( Fig. 5a ), and so loss of K ATP channel activity is expected to cause hypersecretion</otmi:snippet>
+              <otmi:snippet>K ATP defects in neonatal diabetes Whereas loss of K ATP activity causes persistent hypersecretion of insulin, gain of function should cause the opposite: that is, lack of secretion and diabetes</otmi:snippet>
+              <otmi:snippet>Kinetic analyses indicate that unliganded subunits (that is, those not bound to ATP or PIP 2 ) are relatively unstable and that ATP and PIP 2 binding are mutually excluded ( Box 1 )</otmi:snippet>
+              <otmi:snippet>Kinetic analyses showing that the inner cavity is only accessible to cytoplasmic MTSEA + in the open state and that blockers are trapped in the inner cavity in the closed state seem to confirm that the ligand-operated gate is located at the bottom of the inner cavity ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>KirBac1.1 and KirBac3.1 are part of a distinct subfamily of prokaryotic Kir proteins, with potentially important primary sequence differences and functional differences from eukaryotic Kir channels that need to be understood for the correct interpretation of molecular models</otmi:snippet>
+              <otmi:snippet>Less ambitiously, short-term gains will be made from crystallizing domains of the channel</otmi:snippet>
+              <otmi:snippet>Loss of ATP sensitivity coupled to high open probability in Gln52Arg, Cys42Arg, Tyr330Cys, Ile1296Leu and Val59Gly mutations indicates that this mechanism is operating in these NDM mutations </otmi:snippet>
+              <otmi:snippet>Low homology between the transmembrane domains of crystallized ABC proteins and SURs makes molecular modelling risky, although provocative insights and hypotheses have been gleaned from the exercise , including speculations about locations of the binding sites for the channel opener diazoxide and the inhibitory sulphonylurea glibenclamide </otmi:snippet>
+              <otmi:snippet>Many mutations alter ATP sensitivity independently of ATP-binding affinity, by altering the intrinsic stability of the open state (that is, they control the open–closed equilibrium constant, L ; Box 1 ) and only a few residues (for example, Arg 50 in the N terminus, and Ile 182, Lys 185, Arg 201 and Gly 334 in the C terminus ) control ATP affinity directly</otmi:snippet>
+              <otmi:snippet>Mechanism of nucleotide gating of K ATP channels Several ligands affect K ATP channel activity</otmi:snippet>
+              <otmi:snippet>Molecular modelling suggests that there are four ATP-binding sites on the channel , each formed at the Kir6.2 subunit interfaces</otmi:snippet>
+              <otmi:snippet>Molecular models of open versus closed states suggest that minimal backbone M2 movement is required to increase the diameter of the pore through this region considerably ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>Multiple mutations in Kir6.2 have recently been found to underlie NDM</otmi:snippet>
+              <otmi:snippet>Mutations that alter channel gating in the absence of ATP can occur throughout the Kir6.2 subunit </otmi:snippet>
+              <otmi:snippet>One interesting feature of the KirBac structures is the existence of a &quot;slide helix&quot; ( Fig. 2 ) that lies along the plane of the membrane and physically connects the N terminus, which in Kir6.2 forms part of the ATP-binding site, to the cytoplasmic end of M1 (refs 14 , 15 )</otmi:snippet>
+              <otmi:snippet>One member, the K ATP channel, modulates electrical activity in multiple tissues </otmi:snippet>
+              <otmi:snippet>One of the most common hyperinsulinaemia mutations (SUR1[ΔPhe 1388]) causes defective trafficking and lack of surface expression of functional K ATP channels, and altered channel function </otmi:snippet>
+              <otmi:snippet>One, Kir6, is a member of the Kir channel family; the other, SUR (for sulphonylurea receptor), is a member of the ATP-binding cassette (ABC) protein family, which includes CFTR (cystic fibrosis transmembrane conductance regulator; see the review in this issue by Gadsby, p. 477 )</otmi:snippet>
+              <otmi:snippet>Overexpression of mutant K ATP subunits in the pancreas also shows how increased or decreased channel activity, respectively, underlies a hypoinsulinaemic, diabetic phenotype, or hyperinsulinaemic phenotype, respectively ( Fig. 5a )</otmi:snippet>
+              <otmi:snippet>Overlapping ATP- and PIP 2 -binding sites, and biochemical competition of the two ligands for the non-ligand-bound state , are consistent with the proposed &quot;negative heterotropic&quot; interaction of these two ligands in channel regulation </otmi:snippet>
+              <otmi:snippet>Potential PIP 2 -interacting residues (Arg 54, Arg 176, Arg 177 and Arg 206) are near the ATP site and appropriately located to interact with PIP 2 headgroups ( Fig. 3a )</otmi:snippet>
+              <otmi:snippet>Protein architecture of K ATP channels K ATP channels are formed by the unique combination of two dissimilar proteins ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Random mutations are most likely to cause loss of a specific protein function</otmi:snippet>
+              <otmi:snippet>Rather than each NBF having a self-contained nucleotide-binding site (ABS), each ABS is formed at the dimer interface and contains elements from both NBFs</otmi:snippet>
+              <otmi:snippet>Recently, complete K ATP complexes generated from tandem SUR1–Kir6.2 constructs have been isolated and studied using electron micrography and three-dimensional reconstruction ( Fig. 1c )</otmi:snippet>
+              <otmi:snippet>Reduction of single-channel conductance after introduction of positive charge to the inner cavity by methyl thio sulphhydrol ethylamine (MTSEA + ) modification of introduced cysteines shows that this region can act as a significant barrier in the permeation process</otmi:snippet>
+              <otmi:snippet>SUR also contains one nucleotide-binding fold (NBF1) between TMD1 and TMD2, and a second (NBF2) after TMD2 ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>SUR2 -/- and Kir6.2 -/- animals both lack muscle K ATP , and both SUR2 -/- and Kir6.1 -/- reiterate a phenotype that mimics human Prinzmetal angina , with spontaneous coronary vasospasm leading to early death, probably due to the vasoconstrictive effects of reduced vascular K ATP current</otmi:snippet>
+              <otmi:snippet>Several crystal structures are now available for isolated NBFs from bacterial ABC proteins ; in almost every case, the NBFs crystallize as &quot;head-to-tail&quot; dimers</otmi:snippet>
+              <otmi:snippet>Similarly, SUR1, which also contains an ER-retention sequence, is not efficiently trafficked to the surface membrane in the absence of Kir6.2, which indicates that the subunits normally act to mutually shield these trafficking signals </otmi:snippet>
+              <otmi:snippet>Stoichiometry has not been tested for other Kir6/SUR combinations, and it is conceivable that Kir6 complexes occur naturally without an associated SUR subunit, or with different stoichiometry</otmi:snippet>
+              <otmi:snippet>Studies of recombinant properties of mutant channels can explain the molecular basis of such diseases, and can also provide important forward genetic evidence for the role of specific structural features of the channel</otmi:snippet>
+              <otmi:snippet>Subunits will therefore be predominantly bound to one ligand or the other at any one time</otmi:snippet>
+              <otmi:snippet>Sulphonylureas inhibit, and K + channel-opener drugs activate, by interaction with the SUR subunit</otmi:snippet>
+              <otmi:snippet>Templates for SUR As with other members of ABC subfamily C (see p. 477 ), SUR1 (ABCC8) and SUR2 (ABCC9) each contain two six-helix transmembrane domains (TMD1 and TMD2)</otmi:snippet>
+              <otmi:snippet>The Mg 2+ dependence of α 32 P- and γ 32 P-azido-ATP labelling of SUR NBFs provides indirect evidence that SUR NBFs do hydrolyse ATP </otmi:snippet>
+              <otmi:snippet>The complex is a compact structure of approximately 18 x 13 nm</otmi:snippet>
+              <otmi:snippet>The conformational changes that result from nucleotide hydrolysis and ADP binding at the NBFs of SUR, or the interaction of sulphonylureas and K + channel openers with SUR, and how they ultimately influence the channel gate, are also unknown</otmi:snippet>
+              <otmi:snippet>The inhibitory effect dominates, and channels are closed, when cell-ular phosphorylation potential is high, but as metabolism decreases, the activating effect wins out and channels open</otmi:snippet>
+              <otmi:snippet>The lesson from CLC chloride channels (see p. 484 ), that homologous structures can encode both ion channels and ion exchangers, is a sobering one</otmi:snippet>
+              <otmi:snippet>The linkers between the cytoplasmic domain and the transmembrane domain are shorter in KirBac1.1 than in euk-Kir channels and the missing residues in the C terminus include two key residues (Arg 176 and Arg 177 in Kir6.2) that are predicted to interact directly with PIP 2 (refs 20–22 )</otmi:snippet>
+              <otmi:snippet>The mutant protein appears to be retained in the ER, similar to the CFTR[ΔPhe 508] mutation (see p. 477 )</otmi:snippet>
+              <otmi:snippet>The overall architecture of the KcsA transmembrane domain, consisting of two transmembrane helices (M1 and M2) bridged by an extracellular loop that generates the narrow portion of the pore and controls ion selectivity, is likely to be present in all major cation channel family members, including Kir6.2 ( Fig. 2a )</otmi:snippet>
+              <otmi:snippet>The realization that neonatal diabetes results from gain of K ATP channel function has rapidly led to changes in therapy from injected insulin to the painless use of oral sulphonylureas </otmi:snippet>
+              <otmi:snippet>The recent structural study by Mikhailov et al . is tantalizing, suggesting that recombinant expression in insect cells will prove to be a useful approach</otmi:snippet>
+              <otmi:snippet>The same tissue-specific phenotype is generated in several cases when one or the other partner is knocked out: both SUR1 -/- and Kir6.2 -/- reiterate a glucose-insensitive insulin secretory phenotype due to loss of K ATP in the pancreas </otmi:snippet>
+              <otmi:snippet>There is evidence that TMD0 is crucial for trafficking Kir6.2 subunits to the surface membrane, and its role in controlling the gating of Kir6.2 (refs 24 , 25 ) suggests an intimate relationship with the pore-forming subunit</otmi:snippet>
+              <otmi:snippet>These include a family of K + channels, the so-called inward rectifier (Kir) channels, which lack steep voltage-gating</otmi:snippet>
+              <otmi:snippet>These residues are well separated in the primary sequence, but are all close to one another at the inter-subunit interface in the model ( Fig. 2b )</otmi:snippet>
+              <otmi:snippet>To fit this property into the model ( Fig. 4 ) would require that the &quot;activated&quot; state resulting from hydrolysis persists after MgADP dissociation, at least long enough for rebinding of exogenous MgADP to maintain the state</otmi:snippet>
+              <otmi:snippet>Trapping of any one subunit in the closed conformation is sufficient to close the channel , and so for most cells under any but the most extreme conditions, the expected open probability would be &lt;0.1 4 : that is, negligible without the stimulatory effects of Mg-nucleotides acting at the SUR subunit (see below)</otmi:snippet>
+              <otmi:snippet>Trapping of channels in an activated state by vanadate (a transition-state analogue that mimics a post-hydrolytic, ADP-bound state) and in an inactivated state by beryllium fluoride (a transition-state analogue that mimics the pre-hydrolytic, ATP-bound state) add further consistency to the hypothesis that ATP hydrolysis underlies channel activation</otmi:snippet>
+              <otmi:snippet>Tyr 330 and Phe 333, also found to be mutated in NDM patients, are predicted to lie close to the phosphate tail in the binding pocket </otmi:snippet>
+              <otmi:snippet>What are the frontiers in terms of understanding ligand regulation and gating motions in the channel? There is now a consensus that ligand-dependent gating involves motions of M2/S6 that block permeation at the bottom of the inner cavity, but exactly how this is coupled to ligand interactions with cytoplasmic domains is unclear</otmi:snippet>
+              <otmi:snippet>What goes on at the SUR NBFs? In the face of ATP inhibition at Kir6.2, physiological activation of the K ATP channel arises acutely from the interaction of nucleotides with the NBFs of SUR ( Fig. 3b )</otmi:snippet>
+              <otmi:snippet>What mechanisms of channel regulation allow this transduction? Many questions remain to be addressed, but as discussed below, the cloning of constituent subunits of the K ATP channel and the crystallization of structurally related proteins have provided the raw materials to gain a detailed understanding of how nucleotides interact with the K ATP channel and an explanation of the molecular basis of channel activity and of channel-dependent human disease</otmi:snippet>
+              <otmi:snippet>Whether the final opening transition reflects a concerted motion of all four subunits or whether there are transitional steps involving each subunit is also unresolved , but available experimental data are well described by models in which each subunit undergoes independent gating transitions ( Box 1 )</otmi:snippet>
+              <otmi:snippet>Why MgADP should so strongly activate the channel in excised patches if a hydrolytic cycle is required for activation is unclear</otmi:snippet>
+              <otmi:snippet>With an association constant, K A , of 10 µM for wild-type subunits, and with an ATP concentration that is two to three orders of magnitude higher than this in energized cells, each wild-type subunit is probably bound for more than 90% of the time</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>The K ATP channel is formed from two dissimilar subunits.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Inward rectifier K + channel Kir6 subunits generate the channel pore and sulphonylurea receptor (SUR) subunits generate the regulatory subunit. TMD, transmembrane domain; NBF, nucleotide-binding fold; M1, M2, transmembrane helices; P, pore. b , The channel is a functional octamer of four Kir6 subunits, and each subunit is associated with four SUR subunits. c , Images at 18 Å resolution of the entire K ATP complex viewed in the plane of the membrane (left) or from above the membrane (right) require tight packing of subunit models. Reproduced, with permission, from ref. 33 .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>ATP-dependent gating in high definition.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , A model inward rectifier K + (Kir) channel showing potential gating states. Closed and open structures modelled on two-dimensional crystals of KirBac3.1 are shown in two different conformational states , with critical regions labelled. Transmembrane helix M2 (green) hinges around the glycine in the centre of the segment, opening the entrance to the inner cavity. The blue volume represents free access of water. The channel is closed (left) at the volume coloured in red, where there is insufficient space for a water molecule to pass. Reproduced, with permission, from ref. 15 . b , Three subunits of a consensus Kir6.2 model are shown with the rear-most subunit removed for clarity. The subunit positioned to the front provides the bulk of one ATP-binding site in its green carboxy-terminal cytoplasmic domain. The amino-terminal domain of this subunit provides the blue &quot;slide helix&quot; overlying the binding site to the right and then curves back to close the binding pocket around the adenine ring. Beyond the slide helix, at the turn of the N terminus, residue Arg 50 from the subunit to the left (yellow) is predicted to close the binding pocket at the γ-phosphate of ATP. ATP is rendered by atom type, with oxygens in red and nitrogens in blue.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Binding sites for opening ligands.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Molecular basis of the &quot;negative heterotropic&quot; interaction between ATP and PIP 2 . Predicted ATP-binding site residues (red) and potential PIP 2 -interacting residues (blue) in a consensus Kir6.2 model show how close these groups are likely to be, and how potential PIP 2 -binding residues are in the region of phospholipid headgroups. Two diagonally opposed subunits are shown in each case. b , Nucleotide-binding fold 1 (NBF1)–NBF2 heterodimeric structure of ATP-binding sites (ABSs) in sulphonylurea receptor SUR1 (modelled on the bacterial ATP-binding protein MsbA using MODELER version 6, verified with PROCHECK). ATP is rendered in grey in ABS1 and ABS2. Mutation of residues in dark and light blue causes reduced or slowed MgADP activation of channel activity, respectively. Mutation of residues in red causes enhanced MgADP activation.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Nucleotide regulation of K ATP activity.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>The metabolically controlled gate of the channel is located at the cytoplasmic end of the inner cavity. Phosphatidylinositol-4,5-bisphosphate (PIP 2 ) interaction provides an energetic pull to open channels, and ATP binding provides the energetic push to close the ligand-operated gate, perhaps through the physical link provided by the &quot;slide helix&quot; (green). MgATP binds to each of the ATP-binding sites (ABSs) that are formed at the interface between nucleotide-binding folds NBF1 and NBF2 in each sulphonylurea receptor (SUR) subunit. ATP hydrolysis at the second site results in a conformational &quot;activated&quot; state that is transduced to an &quot;override&quot; of ATP inhibition at the Kir6.2 subunit. The &quot;activated&quot; state persists through MgADP dissociation, and can be maintained by MgADP rebinding.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Molecular defects of neonatal diabetes.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , When glucose rises in the pancreatic β-cell, metabolism is stimulated, raising the ratio of ATP to ADP. This closes K ATP channels, which depolarizes the cell, opening Ca 2+ channels, causing intracellular Ca 2+ to rise, and triggering insulin secretion. Insensitivity of K ATP to ATP inhibition will cause maintained hyperpolarization and decreased insulin secretion. b , Residues of inward rectifier K + channel subunit Kir6.2 that are mutated in neonatal diabetes,highlighted in the consensus model . Residues in red contribute to forming the ATP-binding site. Residues in blue, conspicuously clustering at the end of the inner cavity and in the &quot;slide helix&quot;, control intrinsic open-state stability. Residues in grey have not yet been studied in detail. ATP is shown in yellow. Two opposing subunits are shown (subunit a , c in the transmembrane region; b , d in the cytoplasmic region).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2004.11.019</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25495</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2005.01.005</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80124-5</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.110.6.655 </otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80321-9</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2004.11.023</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.280.5360.69</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(02)01227-8</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nn1411</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1085028</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.str.2005.07.011</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600487</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2005.01.007</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.C400417200</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.C500355200</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.282.5391.1141</otmi:refid>
+          <otmi:refid>info:doi/10.1074/JBC.272.9.5388</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.282.5391.1138</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M208085200</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.C300363200</otmi:refid>
+          <otmi:refid>info:doi/10.1038/25393</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)80890-9</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1071142</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.274.52.37479</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0006-291X(02)00454-0</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.275.5.3360</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600877</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.118.4.341</otmi:refid>
+          <otmi:refid>info:doi/10.1038/417523a</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308878</otmi:refid>
+          <otmi:refid>info:doi/10.1529/biophysj.104.051474</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.061452698</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80711-4</otmi:refid>
+          <otmi:refid>info:doi/10.1529/biophysj.105.060855</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308953</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(03)00155-7</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1469-7793.1999.019af.x</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1469-7793.1999.019af.x</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.116.5.599</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.95.23.13953</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.042688899</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cub.2004.09.044</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1097-2765(02)00576-2</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M004818200</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.96.4.1268</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(01)00356-7</otmi:refid>
+          <otmi:refid>info:doi/10.1096/fj.00-0027com</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2005.03.009</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.110.6.643</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/16.6.1145</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M109452200</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.95.18.10402</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.275.13.9270</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M206757200</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.201390398</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nm0502-466</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI200215672</otmi:refid>
+          <otmi:refid>info:doi/10.1046/j.1523-1755.2000.00918.x</otmi:refid>
+          <otmi:refid>info:doi/10.1093/hmg/7.7.1119</otmi:refid>
+          <otmi:refid>info:doi/10.1210/jc.2004-1233</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.051499698</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M104762200</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M312810200</otmi:refid>
+          <otmi:refid>info:doi/10.1056/NEJMoa032922</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0404756101</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/17.12.3290</otmi:refid>
+          <otmi:refid>info:doi/10.1210/jc.2005-0096</otmi:refid>
+          <otmi:refid>info:doi/10.1002/humu.20124</otmi:refid>
+          <otmi:refid>info:doi/10.1210/jc.2004-1241</otmi:refid>
+          <otmi:refid>info:doi/10.1093/emboj/cdf388</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M211395200</otmi:refid>
+          <otmi:refid>info:doi/10.1529/biophysj.104.052019</otmi:refid>
+          <otmi:refsnoid>19</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

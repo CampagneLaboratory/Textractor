@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed., Multi + SMP for 10 users (Weill Medical College of Cornell University) -->
+<!-- ====================================================== -->
+<!-- Converted by html2xml.com (html2xml.dll 0.9.0.89)      -->
+<!-- URL : http://pubmedcentral.gov/tocrender.fcgi?iid=3537 -->
+<!-- Date: Thu 29-May-2003 01:52:58 PM                      -->
+<!-- ====================================================== -->
+<!DOCTYPE html [
+	<!ENTITY nbsp "&#160;">
+	<!ENTITY middot "&#183;">
+	<!ENTITY auml "&#228;">
+	<!ENTITY ccedil "&#231;">
+	<!ENTITY eacute "&#233;">
+	<!ENTITY euml "&#235;">
+	<!ENTITY iuml "&#239;">
+	<!ENTITY oacute "&#243;">
+	<!ENTITY ouml "&#246;">
+	<!ENTITY uuml "&#252;">
+]>
+<?xml-stylesheet type="text/xsl" href="F:\textractor\test\EMBO\IssuesToPapers.xsl"?>
+<html>
+	<head>
+		<title>The EMBO Journal</title>
+		<!--TOC Head-->
+		<link href="corehtml/pmc/css/pmcbase1.css" type="text/css" rel="stylesheet"/>
+		<link href="corehtml/pmc/css/pmcstatic.css" type="text/css" rel="stylesheet"/>
+		<link href="corehtml/pmc/css/pmcbars-slateblue.css" type="text/css" rel="stylesheet"/>
+		<link href="corehtml/pmc/css/pmcbody3.css" type="text/css" rel="stylesheet"/>
+		<link href="corehtml/pmc/css/pmcrefs1.css" type="text/css" rel="stylesheet"/>
+		<meta content="NOINDEX,FOLLOW,NOARCHIVE" name="robots"/>
+		<!--Page Body-->
+	</head>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0" marginheight="0" marginwidth="0">
+		<script language="JavaScript" type="text/javascript"><![CDATA[<!--
+			function focuswin(windowname) {
+			    win = window.open("",windowname,"menubar=yes,scrollbars=yes,toolbar=yes,location=yes,status=yes,directories=yes,resizable=yes");
+			    win.focus();
+				return true;
+			}
+			//-->]]></script>
+		<!--Page Banner-->
+		<table cellSpacing="8" cellPadding="0" width="650" border="0">
+			<!--Journal Banner-->
+			<tbody>
+				<tr>
+					<td class="pmctop-bg" noWrap="noWrap" width="115">
+						<a href="./">
+							<img src="corehtml/pmc/pmcgifs/pmclogo-small.gif" border="0"/>
+						</a>
+						<br/>
+						<a class="pmctop" href="./index.html#journals">&middot;&nbsp;Journal List</a>
+						<br/>
+						<a class="pmctop" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pmc">&middot;&nbsp;Search</a>
+						<br/>
+						<a class="pmctop" href="mailto:pubmedcentral@nih.gov">&middot;&nbsp;Write to PMC</a>
+						<br/>
+					</td>
+					<td colSpan="2">
+						<div>
+							<a onclick="focuswin('pmc_ext')" href="redirect.cgi?&amp;&amp;reftype=other&amp;iid=3537&amp;&amp;http://emboj.oupjournals.org/" target="pmc_ext">
+								<img alt="Journal Logo" src="corehtml/pmc/pmcgifs/logo-emboj.gif" align="top" border="0"/>
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table cellSpacing="8" cellPadding="0" width="650" border="0">
+			<!--TOC Header Info-->
+			<tbody>
+				<tr vAlign="top">
+					<td width="18" background="corehtml/pmc/pmcgifs/wm-publink.gif" rowSpan="1000">
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif" width="18"/>
+					</td>
+					<td width="10" rowSpan="1000">
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif" width="10"/>
+					</td>
+					<td>
+						<div class="more-iss-text"><![CDATA[Other Issues:]]>&nbsp;&nbsp;
+<a class="more-iss-link" href="tocrender.fcgi?iid=3536">previous</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?iid=3538">next</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?iid=4807">latest</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?action=archive&amp;journal=78">archive</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="toc-header-vid">Volume 20 Number 24, 17&nbsp;December&nbsp;2001</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<!--TOC main content-->
+				<!--Head Article-->
+				<tr xmlns:fo="http://www.w3.org/1999/XSL/Format">
+					<td class="doc-group1">Article</td>
+				</tr>
+				<!--Subject -->
+				<!--Subject -->
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[Outer membrane composition of a lipopolysaccharide-deficient ]]><i>Neisseria meningitidis</i><![CDATA[ mutant]]></div>
+										<div class="toc-author">Liana&nbsp;Steeghs, Hans de&nbsp;Cock, Evert&nbsp;Evers, Bert&nbsp;Zomer, Jan&nbsp;Tommassen, and Peter van der&nbsp;Ley</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6937]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6945]]></span>
+						</div>
+						<a class="articlerender.fcgi?artid=125796" href="articlerender.fcgi?artid=125796">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Prospore membrane formation linked to the leading edge protein (LEP) coat assembly</div>
+										<div class="toc-author">Alexandra C.&nbsp;Moreno-Borchart, Katrin&nbsp;Strasser, Martin G.&nbsp;Finkbeiner, Anna&nbsp;Shevchenko, Andrej&nbsp;Shevchenko, and Michael&nbsp;Knop</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6946]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6957]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125798">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">A highly selective telomerase inhibitor limiting human cancer cell proliferation</div>
+										<div class="toc-author">Klaus&nbsp;Damm, Ulrike&nbsp;Hemmann, Pilar&nbsp;Garin-Chesa, Norbert&nbsp;Hauel, Iris&nbsp;Kauffmann, Henning&nbsp;Priepke, Claudia&nbsp;Niestroj, Christine&nbsp;Daiber, Barbara&nbsp;Enenkel, Bernd&nbsp;Guilliard, Ines&nbsp;Lauritsch, Elfriede&nbsp;M&uuml;ller, Emanuelle&nbsp;Pascolo, Gabriele&nbsp;Sauter, Milena&nbsp;Pantic, Uwe M.&nbsp;Martens, Christian&nbsp;Wenz, Joachim&nbsp;Lingner, Norbert&nbsp;Kraut, Wolfgang J.&nbsp;Rettig, and Andreas&nbsp;Schnapp</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6958]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6968]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125790">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Valproic acid defines a novel class of HDAC inhibitors inducing differentiation of transformed cells</div>
+										<div class="toc-author">Martin&nbsp;G&ouml;ttlicher, Saverio&nbsp;Minucci, Ping&nbsp;Zhu, Oliver H.&nbsp;Kr&auml;mer, Annemarie&nbsp;Schimpf, Sabrina&nbsp;Giavara, Jonathan P.&nbsp;Sleeman, Francesco&nbsp;Lo Coco, Clara&nbsp;Nervi, Pier Giuseppe&nbsp;Pelicci, and Thorsten&nbsp;Heinzel</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6969]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6978]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125788">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Functions of Vrp1p in cytokinesis and actin patches are distinct and neither requires a WH2/V domain</div>
+										<div class="toc-author">Thirumaran&nbsp;Thanabalu and Alan L.&nbsp;Munn</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6979]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6989]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125783">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[The structure of bovine IF]]><sub>1</sub><![CDATA[, the regulatory subunit of mitochondrial F-ATPase]]></div>
+										<div class="toc-author">E.&nbsp;Cabez&oacute;n, M.J.&nbsp;Runswick, A.G.W.&nbsp;Leslie, and J.E.&nbsp;Walker</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6990]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[6996]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125800">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Cell-to-cell movement and assembly of a plant closterovirus: roles for the capsid proteins and Hsp70 homolog</div>
+										<div class="toc-author">Dina V.&nbsp;Alzhanova, Alberto J.&nbsp;Napuli, Rebecca&nbsp;Creamer, and Valerian V.&nbsp;Dolja</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[6997]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7007]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125784">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Polarized trafficking and surface expression of the AQP4 water channel are coordinated by serial and regulated interactions with different clathrin&#150;adaptor complexes</div>
+										<div class="toc-author">Ricardo&nbsp;Madrid, Sophie&nbsp;LeMaout, Marie-B&eacute;n&eacute;dicte&nbsp;Barrault, Katy&nbsp;Janvier, Serge&nbsp;Benichou, and Jean&nbsp;M&eacute;rot</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7008]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7021]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125333">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">On the osmotic signal and osmosensing mechanism of an ABC transport system for glycine betaine</div>
+										<div class="toc-author">Tiemen&nbsp;van der Heide, Marc C.A.&nbsp;Stuart, and Bert&nbsp;Poolman</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7022]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7032]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125795">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Direct inhibition of T-type calcium channels by the endogenous cannabinoid anandamide</div>
+										<div class="toc-author">Jean&nbsp;Chemin, Arnaud&nbsp;Monteil, Edward&nbsp;Perez-Reyes, Jo&euml;l&nbsp;Nargeot, and Philippe&nbsp;Lory</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7033]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7040]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125779">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Coupled and uncoupled proton movement by amino acid transport system N</div>
+										<div class="toc-author">Farrukh A.&nbsp;Chaudhry, David&nbsp;Krizaj, Peter&nbsp;Larsson, Richard J.&nbsp;Reimer, Christopher&nbsp;Wreden, Jon&nbsp;Storm-Mathisen, David&nbsp;Copenhagen, Michael&nbsp;Kavanaugh, and Robert H.&nbsp;Edwards</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7041]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7051]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125789">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[Phosphorylation of Nedd4-2 by Sgk1 regulates epithelial Na]]><sup>+</sup><![CDATA[ channel cell surface expression]]></div>
+										<div class="toc-author">Christophe&nbsp;Debonneville, Sandra Y.&nbsp;Flores, Elena&nbsp;Kamynina, Pamela J.&nbsp;Plant, Caroline&nbsp;Tauxe, Marc A.&nbsp;Thomas, Carole&nbsp;M&uuml;nster, Ahmed&nbsp;Chra&iuml;bi, J.Howard&nbsp;Pratt, Jean-Daniel&nbsp;Horisberger, David&nbsp;Pearce, Johannes&nbsp;Loffing, and Olivier&nbsp;Staub</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7052]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7059]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125341">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Acetylcholine receptors are required for agrin-induced clustering of postsynaptic proteins</div>
+										<div class="toc-author">P.Angelo&nbsp;Marangi, John R.&nbsp;Forsayeth, Peggy&nbsp;Mittaud, Susanne&nbsp;Erb-V&ouml;gtli, Derek J.&nbsp;Blake, Martijn&nbsp;Moransard, Andreas&nbsp;Sander, and Christian&nbsp;Fuhrer</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7060]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7073]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125801">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[A PEST-like element in FREQUENCY determines the length of the circadian period in ]]><i>Neurospora crassa</i>
+										</div>
+										<div class="toc-author">Margit&nbsp;G&ouml;rl, Martha&nbsp;Merrow, Benedikt&nbsp;Huttner, Judy&nbsp;Johnson, Till&nbsp;Roenneberg, and Michael&nbsp;Brunner</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7074]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7084]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125781">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">The non-receptor tyrosine kinase Syk is a target of Cbl-mediated ubiquitylation upon B-cell receptor stimulation</div>
+										<div class="toc-author">Navin&nbsp;Rao, Amiya K.&nbsp;Ghosh, Satoshi&nbsp;Ota, Pengcheng&nbsp;Zhou, Alagarsamy Lakku&nbsp;Reddi, Kaoru&nbsp;Hakezi, Brian K.&nbsp;Druker, Jiong&nbsp;Wu, and Hamid&nbsp;Band</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7085]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7095]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125791">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Subunit interaction maps for the regulatory particle of the 26S proteasome and the COP9 signalosome</div>
+										<div class="toc-author">Hongyong&nbsp;Fu, Noa&nbsp;Reis, Yenfen&nbsp;Lee, Michael H.&nbsp;Glickman, and Richard D.&nbsp;Vierstra</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7096]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7107]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125776">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Glucocorticoids inhibit MAP kinase via increased expression and decreased degradation of MKP-1</div>
+										<div class="toc-author">Olivier&nbsp;Kassel, Alessandra&nbsp;Sancono, J&ouml;rn&nbsp;Kr&auml;tzschmar, Bertolt&nbsp;Kreft, Michael&nbsp;Stassen, and Andrew C.B.&nbsp;Cato</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7108]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7116]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125780">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">APC/C-mediated destruction of the centrosomal kinase Nek2A occurs in early mitosis and depends upon a cyclin&nbsp;A-type D-box</div>
+										<div class="toc-author">Rebecca S.&nbsp;Hames, Samantha L.&nbsp;Wattam, Hiroyuki&nbsp;Yamano, Rachid&nbsp;Bacchieri, and Andrew M.&nbsp;Fry</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7117]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7127]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125337">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Glucocorticoid hormones inhibit food-induced phase-shifting of peripheral circadian oscillators</div>
+										<div class="toc-author">Nguyet&nbsp;Le Minh, Francesca&nbsp;Damiola, Fran&ccedil;ois&nbsp;Tronche, G&uuml;nther&nbsp;Sch&uuml;tz, and Ueli&nbsp;Schibler</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7128]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7136]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125339">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[The ]]><i>Saccharomyces cerevisiae</i><![CDATA[ Set1 complex includes an Ash2 homologue and methylates histone 3 lysine]]>&nbsp;<![CDATA[4]]></div>
+										<div class="toc-author">Assen&nbsp;Roguev, Daniel&nbsp;Schaft, Anna&nbsp;Shevchenko, W.W.M.Pim&nbsp;Pijnappel, Matthias&nbsp;Wilm, Rein&nbsp;Aasland, and A.Francis&nbsp;Stewart</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7137]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7148]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125774">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Flipping a genetic switch by subunit exchange</div>
+										<div class="toc-author">Lester J.&nbsp;Lambert, Virgil&nbsp;Schirf, Borries&nbsp;Demeler, Martine&nbsp;Cadene, and Milton H.&nbsp;Werner</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7149]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7159]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125793">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[A simple mechanism for co-dependence on two activators at an ]]><i>Escherichia coli</i><![CDATA[ promoter]]></div>
+										<div class="toc-author">Joseph T.&nbsp;Wade, Tamara A.&nbsp;Belyaeva, Eva I.&nbsp;Hyde, and Stephen J.W.&nbsp;Busby</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7160]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7167]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125794">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Repression of inflammatory responses in the absence of DNA binding by the glucocorticoid receptor</div>
+										<div class="toc-author">Holger M.&nbsp;Reichardt, Jan P.&nbsp;Tuckermann, Martin&nbsp;G&ouml;ttlicher, Maja&nbsp;Vujic, Falk&nbsp;Weih, Peter&nbsp;Angel, Peter&nbsp;Herrlich, and G&uuml;nther&nbsp;Sch&uuml;tz</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7168]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7173]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125338">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[Activation of myogenesis by the homeobox gene ]]><i>Lbx1</i><![CDATA[ requires cell proliferation]]></div>
+										<div class="toc-author">Detlev&nbsp;Mennerich and Thomas&nbsp;Braun</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7174]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7183]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125799">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Activation of AML1-mediated transcription by MOZ and inhibition by the MOZ&#150;CBP fusion protein</div>
+										<div class="toc-author">Issay&nbsp;Kitabayashi, Yukiko&nbsp;Aikawa, Lan Anh&nbsp;Nguyen, Akihiko&nbsp;Yokoyama, and Misao&nbsp;Ohki</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7184]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7196]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125775">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[A POP-1 repressor complex restricts inappropriate cell type-specific gene transcription during ]]><i>Caenorhabditis elegans</i><![CDATA[ embryogenesis]]></div>
+										<div class="toc-author">Dominica&nbsp;Calvo, Martin&nbsp;Victor, Fr&eacute;d&eacute;rique&nbsp;Gay, Guangchao&nbsp;Sui, Margaret Po-Shan&nbsp;Luke, Pascale&nbsp;Dufourcq, Gengyun&nbsp;Wen, Morris&nbsp;Maduro, Joel&nbsp;Rothman, and Yang&nbsp;Shi</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7197]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7208]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125335">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">
+											<i>RTG</i><![CDATA[-dependent mitochondria to nucleus signaling is negatively regulated by the seven WD-repeat protein Lst8p]]></div>
+										<div class="toc-author">Zhengchang&nbsp;Liu, Takayuki&nbsp;Sekito, Charles B.&nbsp;Epstein, and Ronald A.&nbsp;Butow</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7209]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7219]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125777">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Sequence requirements for RNA strand transfer during nidovirus discontinuous subgenomic RNA synthesis</div>
+										<div class="toc-author">Alexander O.&nbsp;Pasternak, Erwin&nbsp;van den Born, Willy J.M.&nbsp;Spaan, and Eric J.&nbsp;Snijder</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7220]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7228]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125340">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Translocation portals for the substrates and products of a viral transcription complex: the bluetongue virus core</div>
+										<div class="toc-author">J.M.&nbsp;Diprose, J.N.&nbsp;Burroughs, G.C.&nbsp;Sutton, A.&nbsp;Goldsmith, P.&nbsp;Gouet, R.&nbsp;Malby, I.&nbsp;Overton, S.&nbsp;Zi&eacute;ntara, P.P.C.&nbsp;Mertens, D.I.&nbsp;Stuart, and J.M.&nbsp;Grimes</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7229]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7239]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125797">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[A novel family of RNA tetraloop structure forms the recognition site for ]]><i>Saccharomyces cerevisiae</i><![CDATA[ RNase]]>&nbsp;<![CDATA[III]]></div>
+										<div class="toc-author">Haihong&nbsp;Wu, Pok K.&nbsp;Yang, Samuel E.&nbsp;Butcher, Sundeep&nbsp;Kang, Guillaume&nbsp;Chanfreau, and Juli&nbsp;Feigon</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7240]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7249]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125782">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Solution structure of conserved AGNN tetraloops: insights into Rnt1p RNA processing</div>
+										<div class="toc-author">Isabelle&nbsp;Lebars, Bruno&nbsp;Lamontagne, Satoko&nbsp;Yoshizawa, Sherif&nbsp;Abou Elela, and Dominique&nbsp;Fourmy</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7250]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7258]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125334">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Mechanism of maturase-promoted group II intron splicing</div>
+										<div class="toc-author">Manabu&nbsp;Matsuura, James W.&nbsp;Noah, and Alan M.&nbsp;Lambowitz</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7259]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7270]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125332">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">A novel transferable nuclear export signal mediates CRM1-independent nucleocytoplasmic shuttling of the human cytomegalovirus transactivator protein pUL69</div>
+										<div class="toc-author">Peter&nbsp;Lischka, Olaf&nbsp;Rosorius, Erik&nbsp;Trommer, and Thomas&nbsp;Stamminger</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7271]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7283]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125785">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title"><![CDATA[A dynamic competition between release factor 2 and the tRNA]]><sup>Sec</sup><![CDATA[ decoding UGA at the recoding site of ]]><i>Escherichia coli</i><![CDATA[ formate dehydrogenase H]]></div>
+										<div class="toc-author">John B.&nbsp;Mansell, Diane&nbsp;Gu&eacute;vremont, Elizabeth S.&nbsp;Poole, and Warren P.&nbsp;Tate</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7284]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7293]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125778">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Nucleosome positioning at the replication fork</div>
+										<div class="toc-author">Renzo&nbsp;Lucchini, Ralf Erik&nbsp;Wellinger, and Jos&eacute; M.&nbsp;Sogo</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7294]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7302]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125336">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Mutations in human DNA polymerase ? motif&nbsp;II alter bypass of DNA lesions</div>
+										<div class="toc-author">Eitan&nbsp;Glick, Kellie L.&nbsp;Vigna, and Lawrence A.&nbsp;Loeb</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7303]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7312]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125802">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">The RecOR proteins modulate RecA protein function at 5' ends of single-stranded DNA</div>
+										<div class="toc-author">Julie M.&nbsp;Bork, Michael M.&nbsp;Cox, and Ross B.&nbsp;Inman</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7313]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7322]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125792">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Origin pairing (&#145;handcuffing') as a mode of negative control of P1 plasmid copy number</div>
+										<div class="toc-author">Kyusung&nbsp;Park, Ernest&nbsp;Han, Johan&nbsp;Paulsson, and Dhruba K.&nbsp;Chattoraj</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7323]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7332]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125786">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<tbody>
+								<tr>
+									<td colSpan="2">
+										<div class="toc-title">Structure of a two-domain fragment of HIV-1 integrase: implications for domain organization in the intact protein</div>
+										<div class="toc-author">Jian-Yong&nbsp;Wang, Hong&nbsp;Ling, Wei&nbsp;Yang, and Robert&nbsp;Craigie</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+							<span class="toc-cit-jour">EMBO J.</span>
+							<span class="toc-cit-date">2001 December</span><![CDATA[; ]]><span class="toc-cit-vol">20(24):</span>
+							<span class="toc-cit-page"><![CDATA[7333]]><img src="corehtml/pmc/pmcents/ndash.gif"/><![CDATA[7343]]></span>
+						</div>
+						<a class="toc-link" href="articlerender.fcgi?artid=125787">[PubLink]</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr xmlns:fo="http://www.w3.org/1999/XSL/Format">
+					<td>
+						<img src="corehtml/pmc/pmcgifs/spacer-20x2px.gif"/>
+					</td>
+				</tr>
+				<tr vAlign="top">
+					<td>
+						<div class="more-iss-text"><![CDATA[Other Issues:]]>&nbsp;&nbsp;
+<a class="more-iss-link" href="tocrender.fcgi?iid=3536">previous</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?iid=3538">next</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?iid=4807">latest</a><![CDATA[ | ]]><a class="more-iss-link" href="tocrender.fcgi?action=archive&amp;journal=78">archive</a>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!--Footer LInks-->
+		<hr/>
+		<a href="hidden-link.cgi?type=toc">&nbsp;</a>
+		<div class="footer-link">
+			<br/>
+			<a href="mailto:pubmedcentral@nih.gov">Write to PMC</a>
+&nbsp;&nbsp;&nbsp;
+<a href="./about/privacypolicy.html">Privacy Policy</a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.ncbi.nlm.nih.gov/About/disclaimer.html">Disclaimer</a>
+			<br/>
+			<br/>
+			<a href="./">PMC Home</a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.pubmed.gov/query.fcgi">PubMed</a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.ncbi.nlm.nih.gov">NCBI</a>
+&nbsp;&nbsp;&nbsp;
+<a onclick="focuswin('pmc_ext')" href="http://www.nlm.nih.gov" target="pmc_ext">NLM</a>
+&nbsp;&nbsp;&nbsp;
+<a onclick="focuswin('pmc_ext')" href="http://www.nih.gov" target="pmc_ext">NIH</a>
+			<br/>
+			<br/>
+		</div>
+	</body>
+</html>

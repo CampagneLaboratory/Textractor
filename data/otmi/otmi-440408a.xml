@@ -1,0 +1,147 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Scientists must be able to report without censorship</title>
+      <id>info:doi/10.1038/440408a</id>
+      <link href='http://dx.doi.org/10.1038/440408a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Barbara A. Mikulski</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>408</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='4'>agencies</otmi:vector>
+              <otmi:vector count='4'>their</otmi:vector>
+              <otmi:vector count='3'>scientists</otmi:vector>
+              <otmi:vector count='3'>science</otmi:vector>
+              <otmi:vector count='2'>federal</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>US</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>know</otmi:vector>
+              <otmi:vector count='2'>findings</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>Government</otmi:vector>
+              <otmi:vector count='2'>NOAA</otmi:vector>
+              <otmi:vector count='2'>NASA</otmi:vector>
+              <otmi:vector count='1'>unacceptable</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>public</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>meddling</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>Sir</otmi:vector>
+              <otmi:vector count='1'>allegations</otmi:vector>
+              <otmi:vector count='1'>Related</otmi:vector>
+              <otmi:vector count='1'>policies</otmi:vector>
+              <otmi:vector count='1'>right</otmi:vector>
+              <otmi:vector count='1'>honest</otmi:vector>
+              <otmi:vector count='1'>That&apos;s</otmi:vector>
+              <otmi:vector count='1'>senior</otmi:vector>
+              <otmi:vector count='1'>Appropriations</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>count</otmi:vector>
+              <otmi:vector count='1'>Justice</otmi:vector>
+              <otmi:vector count='1'>censorship</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>Democrat</otmi:vector>
+              <otmi:vector count='1'>Agencies</otmi:vector>
+              <otmi:vector count='1'>openness</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>press</otmi:vector>
+              <otmi:vector count='1'>National</otmi:vector>
+              <otmi:vector count='1'>fight</otmi:vector>
+              <otmi:vector count='1'>Administration</otmi:vector>
+              <otmi:vector count='1'>Accountability</otmi:vector>
+              <otmi:vector count='1'>Science</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>intimidation</otmi:vector>
+              <otmi:vector count='1'>2006</otmi:vector>
+              <otmi:vector count='1'>Nature</otmi:vector>
+              <otmi:vector count='1'>environment</otmi:vector>
+              <otmi:vector count='1'>what&apos;s</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>jurisdiction</otmi:vector>
+              <otmi:vector count='1'>at</otmi:vector>
+              <otmi:vector count='1'>climate</otmi:vector>
+              <otmi:vector count='1'>silenced</otmi:vector>
+              <otmi:vector count='1'>rely</otmi:vector>
+              <otmi:vector count='1'>not</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>physical-science</otmi:vector>
+              <otmi:vector count='1'>Office</otmi:vector>
+              <otmi:vector count='1'>routinely</otmi:vector>
+              <otmi:vector count='1'>ensure</otmi:vector>
+              <otmi:vector count='1'>has</otmi:vector>
+              <otmi:vector count='1'>reporting</otmi:vector>
+              <otmi:vector count='1'>citizens</otmi:vector>
+              <otmi:vector count='1'>happening</otmi:vector>
+              <otmi:vector count='1'>deserve</otmi:vector>
+              <otmi:vector count='1'>Commerce</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>Atmospheric</otmi:vector>
+              <otmi:vector count='1'>political</otmi:vector>
+              <otmi:vector count='1'>10.1038</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>fear</otmi:vector>
+              <otmi:vector count='1'>practices</otmi:vector>
+              <otmi:vector count='1'>able</otmi:vector>
+              <otmi:vector count='1'>change</otmi:vector>
+              <otmi:vector count='1'>439896a</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>Oceanic</otmi:vector>
+              <otmi:vector count='1'>I&apos;ve</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>but</otmi:vector>
+              <otmi:vector count='1'>review</otmi:vector>
+              <otmi:vector count='1'>896</otmi:vector>
+              <otmi:vector count='1'>weeks</otmi:vector>
+              <otmi:vector count='1'>taxpayers</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>called</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>keep</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>includes</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>897</otmi:vector>
+              <otmi:vector count='1'>safe.</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>Subcommittee</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>439</otmi:vector>
+              <otmi:vector count='1'>facts</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>And taxpayers have the right to know the facts</otmi:snippet>
+              <otmi:snippet>But in recent weeks, the press has reported allegations that scientists at NASA and the National Oceanic and Atmospheric Administration (NOAA) are routinely silenced when reporting their findings on climate change (&quot;US scientists fight political meddling&quot; Nature 439 , 896 – 897 ; 2006 10.1038/439896a )</otmi:snippet>
+              <otmi:snippet>If true, this is unacceptable</otmi:snippet>
+              <otmi:snippet>Sir Government scientists must be able to research and report their findings to the public without fear of censorship or intimidation</otmi:snippet>
+              <otmi:snippet>That&apos;s why I&apos;ve called for the Government Accountability Office to review the policies and practices of our federal physical-science agencies to ensure openness in communication of their science results</otmi:snippet>
+              <otmi:snippet>This includes not only NASA and NOAA, but all the federal science agencies within the jurisdiction of the Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies, on which I serve as the senior Democrat</otmi:snippet>
+              <otmi:snippet>US citizens deserve to know what&apos;s happening to their environment from the agencies they rely on to do the research to keep them safe.</otmi:snippet>
+              <otmi:snippet>We need honest results from our science agencies that we can count on</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

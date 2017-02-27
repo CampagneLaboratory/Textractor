@@ -1,0 +1,17 @@
+#!/bin/csh -f 
+set journal=$1
+set id="$2"
+set root_fulltext=~icb/db/fulltext/PMC
+set journal_dir="unspecified"
+switch ($journal)
+    case cell: 
+	set journal_dir=$root_fulltext/CELL; 
+    breaksw;
+    case pnas: 
+	set journal_dir=$root_fulltext/PNAS;
+    breaksw;
+endsw
+echo "Searching in journal directory: " $journal_dir
+foreach year ($journal_dir/????/ids)
+    grep "$id" $year
+end

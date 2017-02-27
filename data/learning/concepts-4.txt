@@ -1,0 +1,2 @@
+MAP kinase kinase|MAPK kinase|MEK|MEK1|Dual specificity mitogen-activated protein kinase kinase 1|MAP kinase kinase 1|MAPKK 1|ERK activator kinase 1|MAPK/ERK kinase 1
+Raf-1|Raf|c-Raf|RAF proto-oncogene serine/threonine-protein kinase|C-RAF|cRaf

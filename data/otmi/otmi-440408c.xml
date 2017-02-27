@@ -1,0 +1,226 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Fraud: anonymous &quot;stars&quot; would not dazzle reviewers</title>
+      <id>info:doi/10.1038/440408c</id>
+      <link href='http://dx.doi.org/10.1038/440408c' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Henning Bauch</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>408</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='5'>authors</otmi:vector>
+              <otmi:vector count='4'>referees</otmi:vector>
+              <otmi:vector count='4'>not</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>has</otmi:vector>
+              <otmi:vector count='3'>been</otmi:vector>
+              <otmi:vector count='2'>peer-review</otmi:vector>
+              <otmi:vector count='2'>field</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>star</otmi:vector>
+              <otmi:vector count='2'>2006</otmi:vector>
+              <otmi:vector count='2'>439</otmi:vector>
+              <otmi:vector count='2'>way</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>will</otmi:vector>
+              <otmi:vector count='2'>nanotechnology</otmi:vector>
+              <otmi:vector count='2'>see</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>people</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>ensure</otmi:vector>
+              <otmi:vector count='2'>quality</otmi:vector>
+              <otmi:vector count='2'>Nature</otmi:vector>
+              <otmi:vector count='2'>rejected</otmi:vector>
+              <otmi:vector count='1'>publisher</otmi:vector>
+              <otmi:vector count='1'>immediate</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>publishing</otmi:vector>
+              <otmi:vector count='1'>dependent</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>editor&apos;s</otmi:vector>
+              <otmi:vector count='1'>submitted</otmi:vector>
+              <otmi:vector count='1'>procedures</otmi:vector>
+              <otmi:vector count='1'>issue</otmi:vector>
+              <otmi:vector count='1'>important</otmi:vector>
+              <otmi:vector count='1'>Unlike</otmi:vector>
+              <otmi:vector count='1'>makes</otmi:vector>
+              <otmi:vector count='1'>discussion</otmi:vector>
+              <otmi:vector count='1'>one&apos;s</otmi:vector>
+              <otmi:vector count='1'>affiliations</otmi:vector>
+              <otmi:vector count='1'>ensures</otmi:vector>
+              <otmi:vector count='1'>118</otmi:vector>
+              <otmi:vector count='1'>patents</otmi:vector>
+              <otmi:vector count='1'>scientists</otmi:vector>
+              <otmi:vector count='1'>unfairly</otmi:vector>
+              <otmi:vector count='1'>their</otmi:vector>
+              <otmi:vector count='1'>responsibility</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>notorious</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>fairest</otmi:vector>
+              <otmi:vector count='1'>Jan</otmi:vector>
+              <otmi:vector count='1'>advantage</otmi:vector>
+              <otmi:vector count='1'>story</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>authorships</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>lobbying</otmi:vector>
+              <otmi:vector count='1'>refereeing</otmi:vector>
+              <otmi:vector count='1'>disadvantages</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>unveiled</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>Clearly</otmi:vector>
+              <otmi:vector count='1'>439782b</otmi:vector>
+              <otmi:vector count='1'>Whether</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>career</otmi:vector>
+              <otmi:vector count='1'>many</otmi:vector>
+              <otmi:vector count='1'>peers</otmi:vector>
+              <otmi:vector count='1'>most</otmi:vector>
+              <otmi:vector count='1'>author</otmi:vector>
+              <otmi:vector count='1'>assessment</otmi:vector>
+              <otmi:vector count='1'>fair</otmi:vector>
+              <otmi:vector count='1'>offer</otmi:vector>
+              <otmi:vector count='1'>sciences</otmi:vector>
+              <otmi:vector count='1'>big-shot</otmi:vector>
+              <otmi:vector count='1'>number</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>best</otmi:vector>
+              <otmi:vector count='1'>Hendrik</otmi:vector>
+              <otmi:vector count='1'>Earth</otmi:vector>
+              <otmi:vector count='1'>bit</otmi:vector>
+              <otmi:vector count='1'>necessary</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>cheats</otmi:vector>
+              <otmi:vector count='1'>temptation</otmi:vector>
+              <otmi:vector count='1'>Withholding</otmi:vector>
+              <otmi:vector count='1'>instant</otmi:vector>
+              <otmi:vector count='1'>alike</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>highest-ranked</otmi:vector>
+              <otmi:vector count='1'>public</otmi:vector>
+              <otmi:vector count='1'>have</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>stop</otmi:vector>
+              <otmi:vector count='1'>sake</otmi:vector>
+              <otmi:vector count='1'>10.1038</otmi:vector>
+              <otmi:vector count='1'>showcase</otmi:vector>
+              <otmi:vector count='1'>my</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>personal</otmi:vector>
+              <otmi:vector count='1'>institutions</otmi:vector>
+              <otmi:vector count='1'>jobs</otmi:vector>
+              <otmi:vector count='1'>Schön&apos;s</otmi:vector>
+              <otmi:vector count='1'>beckon</otmi:vector>
+              <otmi:vector count='1'>cheat</otmi:vector>
+              <otmi:vector count='1'>Correspondence</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>hence</otmi:vector>
+              <otmi:vector count='1'>fumble</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>stem-cell</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>authors.</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>names</otmi:vector>
+              <otmi:vector count='1'>lucrative</otmi:vector>
+              <otmi:vector count='1'>identities</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>aura</otmi:vector>
+              <otmi:vector count='1'>improve</otmi:vector>
+              <otmi:vector count='1'>journals</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>fraud</otmi:vector>
+              <otmi:vector count='1'>genetics</otmi:vector>
+              <otmi:vector count='1'>manuscript</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>accepted</otmi:vector>
+              <otmi:vector count='1'>submissions</otmi:vector>
+              <otmi:vector count='1'>significant</otmi:vector>
+              <otmi:vector count='1'>permanent</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>finally</otmi:vector>
+              <otmi:vector count='1'>Korean</otmi:vector>
+              <otmi:vector count='1'>weakest</otmi:vector>
+              <otmi:vector count='1'>782</otmi:vector>
+              <otmi:vector count='1'>believing</otmi:vector>
+              <otmi:vector count='1'>overlook</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>actually</otmi:vector>
+              <otmi:vector count='1'>submission</otmi:vector>
+              <otmi:vector count='1'>blinded</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>prevent</otmi:vector>
+              <otmi:vector count='1'>extremely</otmi:vector>
+              <otmi:vector count='1'>784</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>Three</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>rewards</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>about</otmi:vector>
+              <otmi:vector count='1'>understandable</otmi:vector>
+              <otmi:vector count='1'>addressed</otmi:vector>
+              <otmi:vector count='1'>Sir</otmi:vector>
+              <otmi:vector count='1'>frauds</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>bias</otmi:vector>
+              <otmi:vector count='1'>publication</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>failed</otmi:vector>
+              <otmi:vector count='1'>favouring</otmi:vector>
+              <otmi:vector count='1'>who</otmi:vector>
+              <otmi:vector count='1'>cheers</otmi:vector>
+              <otmi:vector count='1'>anonymous</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>editors</otmi:vector>
+              <otmi:vector count='1'>pressure</otmi:vector>
+              <otmi:vector count='1'>referee</otmi:vector>
+              <otmi:vector count='1'>believe</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>But who ensures the quality of the referees and the refereeing process? Clearly, it is the editor&apos;s responsibility to overlook lobbying by authors and referees alike and to improve procedures if necessary to ensure fair assessment of all submissions, not favouring those from &quot;star&quot; authors</otmi:snippet>
+              <otmi:snippet>I believe it is best for the publisher not to reveal authors&apos; names or affiliations to the referee until the submitted manuscript has been accepted or finally rejected</otmi:snippet>
+              <otmi:snippet>In the most notorious recent cases (the Korean stem-cell work and Jan Hendrik Schön&apos;s nanotechnology work), the peer-review system must be said to have failed, as the frauds were unveiled by people from outside the immediate process</otmi:snippet>
+              <otmi:snippet>Sir In the current discussion about fraud (see Correspondence, Nature 439 , 782 – 784 ; 2006 10.1038/439782b ), the important issue of what actually makes people cheat in the first place has not been addressed</otmi:snippet>
+              <otmi:snippet>The pressure on the relatively few permanent jobs available to a growing number of scientists in this field is therefore high, and hence the rewards of publishing in the highest-ranked journals are extremely significant for one&apos;s career</otmi:snippet>
+              <otmi:snippet>The temptation to fumble with the data a bit for the sake of the story, or to include a big-shot author as a showcase, is understandable</otmi:snippet>
+              <otmi:snippet>Unlike nanotechnology and genetics research, where lucrative patents can beckon, my field of Earth sciences has little to offer but basic research in public institutions</otmi:snippet>
+              <otmi:snippet>Were the referees the weakest link, and were both the editors and the referees blinded by the aura of the authorships? Despite some disadvantages, anonymous peer-review remains the fairest way to prevent publication bias (see &quot;Three cheers for peers&quot; Nature 439 , 118 ; 2006 )</otmi:snippet>
+              <otmi:snippet>Whether an individual cheats and lies is dependent on many factors, but instant personal advantage is the central one</otmi:snippet>
+              <otmi:snippet>Withholding the authors&apos; identities in this way will not only ensure high quality, but will stop rejected authors from believing that their submission had been treated unfairly compared with those of &quot;star&quot; authors.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

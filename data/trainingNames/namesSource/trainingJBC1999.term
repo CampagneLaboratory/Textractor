@@ -1,0 +1,3608 @@
+Counter	NGram	PMID	rank	count	term
+1	2	10608902	8	30	puralpha purbeta
+2	2	10608901	5	48	GAP activity
+3	2	10608900	2	38	MTH1 protein
+4	2	10608900	3	36	the 23-residue
+5	2	10608900	7	29	positive mutants
+6	3	10608899	4	41	the CD95 receptor
+7	2	10608899	9	27	fusion proteins
+8	4	10608898	6	44	ptdins 4 5 P2
+9	2	10608898	10	32	A. thaliana
+10	2	10608898	14	27	ptdins 3
+11	2	10608898	16	26	thaliana cells
+12	2	10608896	4	26	bSMC3 coiled-coil
+13	2	10608894	2	79	deltaetk ER
+14	3	10608894	8	25	pa-4deltaetk ER cells
+15	3	10608893	5	44	DNA polymerase gamma
+16	2	10608893	9	31	accessory subunit
+17	2	10608893	10	27	catalytic subunit
+18	2	10608892	5	30	MDM2 protein
+19	2	10608892	8	27	the MDM2
+20	2	10608890	3	36	signal sequence
+21	4	10608890	4	35	the first 65 aa
+22	3	10608889	6	26	gamma- and delta-sarcoglycans
+23	2	10608888	7	43	the KH1
+24	2	10608888	13	28	KH1 domain
+25	3	10608888	14	28	the cloverleaf RNA
+26	2	10608888	16	26	stem-loop IV
+27	2	10608888	17	26	the poliovirus
+28	2	10608887	9	36	heparan sulfate
+29	2	10608887	12	30	nitrous acid
+30	5	10608887	14	25	tetra A and tetra B
+31	2	10608886	3	40	the SECIS
+32	2	10608886	7	29	SECIS elements
+33	2	10608886	9	26	SECIS element
+34	2	10608885	15	30	mast cells
+35	3	10608885	16	25	cortical f-actin disassembly
+36	2	10608884	6	42	n-smase activity
+37	3	10608884	9	34	phisnsm transfectant cells
+38	3	10608884	13	30	the overexpressed protein
+39	2	10608882	4	29	GS activity
+40	2	10608881	9	28	tg mice
+41	3	10608881	11	27	tm tnfalpha tg
+42	3	10608879	10	32	the Z promoter
+43	2	10608879	13	28	the human
+44	2	10608879	16	25	W. L.
+45	2	10608878	3	56	LRP alpha2mr
+46	2	10608877	9	27	the MAPK
+47	3	10608876	3	87	fabpl4 at -132
+48	5	10608876	13	32	fabpl4 at -132 loxP lacZ
+49	3	10608876	14	32	loxP lacZ loxP
+50	2	10608875	3	52	the vacuole
+51	2	10608874	11	32	electron transfer
+52	2	10608874	14	31	side chains
+53	2	10608874	16	29	R. sphaeroides
+54	2	10608874	17	29	cytochrome c
+55	2	10608874	18	29	horse Cc
+56	2	10608873	3	99	ionic strength
+57	2	10608873	7	65	electron transfer
+58	2	10608873	10	51	rate constant
+59	2	10608873	15	30	R. sphaeroides
+60	2	10608873	20	25	horse Cc
+61	3	10608872	5	60	R. sphaeroides cc2
+62	2	10608872	7	55	horse Cc
+63	2	10608872	14	30	ionic strength
+64	2	10608871	2	60	human telomerase
+65	2	10608871	6	44	telomerase activity
+66	2	10608870	8	39	dnak-g455d G468D
+67	2	10608870	12	32	mutant protein
+68	2	10608870	13	30	the dnak756
+69	3	10608870	14	30	wild type DnaK
+70	2	10608870	17	25	substrate-binding domain
+71	2	10608869	6	59	exon Ia
+72	2	10608869	9	37	the mouse
+73	2	10608869	10	34	exon II
+74	2	10608869	11	33	exon Ib
+75	2	10608869	13	31	mouse gata-6
+76	2	10608869	22	25	the human
+77	2	10608868	3	35	domain I
+78	2	10608868	4	32	uPA binding
+79	2	10608866	10	31	pituitary PRL
+80	2	10608866	11	29	decidual cells
+81	2	10608866	12	28	gibori G.
+82	2	10608866	15	25	the rat
+83	2	10608865	2	42	cytochrome c
+84	2	10608865	5	35	electron transfer
+85	2	10608865	9	28	heme a
+86	2	10608863	7	53	HaCaT cells
+87	3	10608863	9	51	ifn-gamma plus TPA
+88	2	10608863	11	43	normal keratinocytes
+89	2	10608862	10	25	H1 histones
+90	2	10608860	4	42	leydig cells
+91	2	10608860	5	34	GRTH mRNA
+92	2	10608859	7	30	alpha1 I
+93	2	10608859	8	30	stop cassette
+94	2	10608858	3	48	chimera 1
+95	2	10608857	2	46	PFN II
+96	2	10608857	7	26	PFN I
+97	2	10608856	4	32	atpase activity
+98	2	10608856	7	28	the kdp
+99	2	10608856	8	25	kdp complex
+100	3	10608855	5	41	ptdins-3 4 5-P3
+101	2	10608855	7	37	ptdins-3 4-P2
+102	2	10608855	9	32	PH domain
+103	2	10608855	10	30	avidin beads
+104	2	10608855	12	27	PI 3
+105	2	10608853	8	39	skeletal muscle
+106	2	10608853	9	30	muscle differentiation
+107	2	10608850	2	57	cell migration
+108	2	10608849	4	44	beta gamma-renac
+109	2	10608849	7	28	single channel
+110	2	10608849	10	25	alphar613x beta
+111	2	10608845	3	70	arachidonic acid
+112	2	10608845	5	32	calcineurin A
+113	2	10608845	7	27	ca2 calmodulin
+114	2	10608843	3	41	alphav beta3
+115	2	10608843	10	26	the RGD
+116	2	10608842	8	40	blend-type polymer
+117	2	10608842	9	39	P 3HB
+118	2	10608842	13	28	g liter
+119	3	10608841	5	32	the WS protein
+120	2	10608841	6	31	DNA replication
+121	2	10608840	1	60	P protein
+122	2	10608840	13	27	the tip
+123	2	10608840	14	25	base pairs
+124	3	10608840	15	25	the lower stem
+125	2	10608839	4	31	DHFR domain
+126	2	10608839	5	29	TS function
+127	2	10608839	6	28	malarial DHFR
+128	2	10608838	2	72	ca2 i
+129	2	10608838	6	50	cAMP accumulation
+130	2	10608838	12	31	brown adipocytes
+131	2	10608838	13	31	inhibitory component
+132	2	10608838	18	26	dose-response curve
+133	2	10608836	7	27	fraction T
+134	2	10608834	3	40	CRAG degradation
+135	2	10608833	2	71	VacA- delta6-27
+136	2	10608833	3	61	wild-type VacA
+137	2	10608833	7	33	H. pylori
+138	2	10608833	9	31	HeLa cells
+139	2	10608832	1	34	outer membrane
+140	2	10608831	6	27	S. M.
+141	2	10608830	1	44	alpha-galactosyl fluoride
+142	2	10608829	3	70	submitochondrial particles
+143	2	10608829	12	28	cytochrome c
+144	2	10608829	13	28	cytochrome oxidase
+145	2	10608829	17	25	NO utilization
+146	2	10608827	5	59	liddle s
+147	2	10608827	9	49	single channel
+148	3	10608827	12	45	alpha betaT gammat-renac
+149	2	10608827	21	32	alpha betaY
+150	3	10608827	27	29	the peptide mixture
+151	4	10608827	28	28	wt alpha beta gamma-renac
+152	2	10608827	29	27	Na currents
+153	2	10608827	31	26	SP30 beta
+154	3	10608827	32	26	alpha beta gammay-renac
+155	2	10608825	4	37	MCF-7 cells
+156	3	10608824	5	28	the perivitelline fluid
+157	3	10608823	9	34	raw 264.7 cells
+158	4	10608823	13	30	putative AP-2 binding site
+159	4	10608823	15	25	a putative AP-2 binding
+160	2	10608822	3	37	human eNOS
+161	2	10608821	3	65	ca2 i
+162	3	10608818	9	40	the sec7 domain
+163	2	10608818	13	32	membrane lipids
+164	3	10608818	18	26	myrarf1 and arno-sec7
+165	3	10608818	19	26	the n-terminal helix
+166	2	10608817	1	208	lipocortin 1
+167	3	10608817	6	27	lipocortin 1 protein
+168	2	10608817	7	26	grb 2
+169	2	10608817	9	25	the ERK
+170	2	10608815	6	29	ggamma subunits
+171	2	10608815	7	26	G protein
+172	2	10608814	5	35	the refolding
+173	2	10608813	4	110	heat shock
+174	2	10608813	5	109	SAPK2 p38
+175	2	10608813	10	40	mapkap kinase-2
+176	2	10608811	6	33	glucose repression
+177	2	10608811	7	30	ADH2 expression
+178	2	10608810	4	67	N. crassa
+179	2	10608810	6	62	S. cerevisiae
+180	2	10608810	16	26	wheat germ
+181	2	10608809	7	31	pH 9.0
+182	2	10608809	8	30	6S -5-ch3-h4pteglu5
+183	2	10608805	1	73	PA c551
+184	2	10608805	3	33	HT c552
+185	3	10608804	7	29	Ba F3 cells
+186	2	10608803	2	53	Zn II
+187	2	10608803	8	32	DNase I
+188	2	10601244	6	58	lcat-tg mice
+189	3	10601244	12	34	reverse cholesterol transport
+190	2	10601244	16	28	the plasma
+191	2	10601326	1	190	PKC delta
+192	3	10601326	9	31	IC kinase assay
+193	2	10601326	11	30	serine 662
+194	2	10601326	14	27	granulosa cells
+195	2	10601326	15	25	corpora lutea
+196	2	10601326	16	25	luteinized granulosa
+197	2	10601324	2	43	AF2 core
+198	2	10601324	4	33	293 cells
+199	2	10601324	5	32	nurr1 AF2
+200	2	10601324	6	30	the nurr1
+201	2	10601324	7	29	the AF2
+202	2	10601323	4	26	8-azido- alpha-32p
+203	2	10601322	5	38	hTERT gene
+204	3	10601322	8	25	the hTERT promoter
+205	2	10601321	4	37	inner envelope
+206	2	10601320	2	42	MCF-7 cells
+207	2	10601320	5	25	recombinant CTGF
+208	2	10601319	3	30	MnSOD gene
+209	2	10601318	3	42	DNA fragmentation
+210	2	10601316	6	45	3H palmitate
+211	2	10601315	2	64	cGK ialpha
+212	2	10601315	6	30	cGK I
+213	2	10601314	2	29	the TraM
+214	2	10601314	3	28	TraM protein
+215	2	10601313	3	39	transforming growth
+216	2	10601313	4	26	JNK activation
+217	2	10601311	3	110	p70 S6K
+218	2	10601311	7	32	ha-p70 S6K
+219	2	10601309	8	28	smooth muscle
+220	2	10601309	9	26	phosphatase activity
+221	2	10601308	2	40	serine 916
+222	2	10601307	8	37	zinc finger
+223	3	10601306	7	34	NRG-1 and IGF-I
+224	2	10601306	11	31	PI 3-kinase
+225	2	10601306	14	25	compact zone
+226	3	10601305	3	40	the plasma membrane
+227	2	10601305	7	26	23 C
+228	2	10601303	4	29	arachidonic acid
+229	2	10601303	6	26	positional specificity
+230	2	10601301	3	65	delta-6 desaturase
+231	2	10601301	5	44	delta-5 desaturase
+232	2	10601301	7	31	the human
+233	2	10601300	5	31	neutrophil apoptosis
+234	2	10601300	8	27	caspase 3
+235	2	10601298	2	33	PC12 cells
+236	2	10601298	6	26	PI 3-kinase
+237	2	10601297	2	95	PC12 cells
+238	2	10601297	10	30	cell survival
+239	2	10601297	12	29	neurite outgrowth
+240	2	10601295	4	68	gingival fibroblasts
+241	2	10601295	10	39	ERK1 2
+242	2	10601295	13	36	mmp-13 expression
+243	2	10601295	14	35	p38 MAPK
+244	3	10601295	15	26	human gingival fibroblasts
+245	2	10601294	9	29	suspended keratinocytes
+246	2	10601294	10	27	TGase 1
+247	2	10601294	11	27	profilaggrin expression
+248	3	10601293	8	36	rabbit dermal fibroblasts
+249	2	10601293	9	35	pro-mmp-2 activation
+250	2	10601292	11	33	pH 5.5
+251	2	10601292	12	31	the vacuole
+252	2	10601292	13	30	pH 7.5
+253	2	10601292	15	28	vacuolar acidification
+254	2	10601290	5	40	A2 I1Y
+255	2	10601290	6	34	the A2
+256	2	10601290	8	27	A2 I1F
+257	2	10601289	9	25	CD40 ligation
+258	2	10601288	1	112	the ABO
+259	3	10601288	7	40	the ABO genes
+260	3	10601288	8	38	the ABO gene
+261	2	10601288	9	33	MKN28 cells
+262	2	10601288	10	28	DNA methylation
+263	2	10601287	6	29	bryostatin 1
+264	2	10601287	9	25	nuclear membrane
+265	2	10601286	7	28	AB beta-hairpin
+266	2	10601285	2	50	the AR
+267	2	10601285	7	35	androgen receptor
+268	2	10601285	9	30	the androgen
+269	3	10601285	11	28	N C interaction
+270	3	10601284	5	29	the binding site
+271	3	10601283	3	36	GAD65 and GAD67
+272	2	10601283	8	27	COS-7 cells
+273	2	10601281	3	54	HSV-1 TK
+274	2	10601281	7	31	tk-expressing cells
+275	2	10601281	8	27	hct-116 cells
+276	2	10601281	9	26	the glu-125
+277	2	10601281	11	25	wild-type HSV-1
+278	2	10601280	2	44	C ebpbeta
+279	2	10601280	6	37	RD cells
+280	2	10601280	11	26	interstitial collagenase
+281	2	10601279	9	29	S. aureus
+282	2	10601279	10	28	SarA recognition
+283	2	10601279	11	26	target genes
+284	2	10601279	12	25	recognition motif
+285	2	10601279	13	25	sara-binding site
+286	2	10601277	4	36	SAA1 promoter
+287	2	10601276	4	66	PI 3-kinase
+288	3	10601276	6	62	des 1-3 IGF-I
+289	3	10601276	11	40	igfbp-5 gene expression
+290	2	10601276	15	25	PKB akt
+291	2	10601275	4	39	casein kinase
+292	2	10601275	10	28	yck1delta yck2ts
+293	2	10601274	6	54	the SMRT
+294	4	10601274	10	34	the t3rbeta-2 N terminus
+295	2	10601274	16	27	silencing domain
+296	2	10601273	3	61	the nucleus
+297	3	10601272	5	45	the cyp2c12 gene
+298	2	10601272	7	34	female rats
+299	2	10601271	1	95	Cu II
+300	2	10601271	6	32	Cu I
+301	2	10601269	3	54	DNA damage
+302	2	10601269	6	32	parp-d A
+303	2	10601269	7	28	uncleavable PARP
+304	2	10601266	2	63	UL9 N
+305	2	10601266	3	48	atpase activity
+306	2	10601266	4	45	box I
+307	2	10601265	4	34	CCT subunits
+308	2	10601265	6	26	S phase
+309	2	10601264	2	62	primer template
+310	2	10601264	9	26	RNA synthesis
+311	2	10601263	0	84	1 H
+312	3	10601263	9	31	dd 1 H
+313	3	10601263	14	28	d 1 H
+314	3	10601263	18	25	H J1 2
+315	2	10601262	5	35	neurite retraction
+316	2	10601260	0	44	ribosomal proteins
+317	2	10601258	10	36	hairpin formation
+318	2	10601258	13	30	imprecise hairpin
+319	2	10601258	14	29	mosaic end
+320	2	10601258	15	29	the hairpin
+321	2	10601258	17	26	a hairpin
+322	2	10601257	5	30	tyrosine phosphorylation
+323	2	10601257	9	26	mAb 4G10
+324	2	10601256	5	34	fatt sites
+325	2	10601255	5	82	TFPI Xa
+326	3	10601255	8	42	cell surface TF
+327	3	10601255	9	39	internalization and degradation
+328	2	10601255	11	30	TF mAb
+329	3	10601255	15	27	the cell surface
+330	2	10601255	16	25	WI-38 cells
+331	2	10601254	6	51	k562 cells
+332	3	10601254	12	29	the WAF1 promoter
+333	2	10601253	7	33	reticulocyte lysate
+334	2	10601251	8	41	light scattering
+335	2	10601251	12	25	K beta
+336	2	10601250	1	97	ca2 cyt
+337	2	10601250	5	36	ca2 store
+338	2	10601250	8	25	low ca2
+339	2	10601247	10	30	schiff base
+340	2	10601246	6	38	zn2 -binding
+341	3	10601246	10	29	3H dopamine uptake
+342	2	10601243	2	38	the cd-mpr
+343	2	10601242	2	75	BoNT A
+344	2	10601242	7	35	chromaffin cells
+345	3	10601241	6	31	RAW 264.7 cells
+346	2	10601241	7	30	hsp 90
+347	2	10601241	9	27	hsp 84
+348	2	10601240	5	38	organelle ca2
+349	2	10601240	6	37	beta cells
+350	2	10601240	11	25	the ca2
+351	2	10601239	2	33	membrane binding
+352	2	10601238	9	29	IDH activity
+353	2	10601238	13	26	alternative splicing
+354	2	10601237	1	42	prion protein
+355	2	10601237	3	25	huprp- 23-231
+356	2	10601236	6	26	the ER
+357	2	10601235	2	76	ang II
+358	2	10601235	9	37	p70s6k activation
+359	2	10601235	10	34	ser411 phosphorylation
+360	3	10601234	7	28	cdc2 deltacyclin B
+361	2	10601233	2	48	pol eta
+362	2	10601233	6	29	DNA polymerase
+363	2	10593951	3	60	steroid binding
+364	2	10593951	9	31	hsp90 binding
+365	2	10593951	11	26	L550S L553S
+366	2	10593991	5	57	receptor phosphorylation
+367	2	10593991	6	37	oxidized LDL
+368	3	10593991	9	29	the scavenger receptor
+369	3	10593990	5	39	the cell surface
+370	2	10593990	10	26	D257A PS1
+371	2	10593989	1	80	the c-mos
+372	2	10593989	3	29	c-mos negative
+373	2	10593988	3	30	ins 1
+374	2	10593987	6	52	the TGN
+375	2	10593987	8	44	LI AN
+376	2	10593987	11	38	F N
+377	2	10593987	14	31	plasma membrane
+378	3	10593987	15	30	the furin tail
+379	2	10593987	19	27	NRK cells
+380	2	10593986	2	93	14-3-3 protein
+381	4	10593986	9	28	plasma membrane H -atpase
+382	2	10593986	11	25	14-3-3 binding
+383	2	10593986	12	25	the 14-3-3
+384	2	10593982	7	31	the SS
+385	2	10593982	10	30	rubisco LSMT
+386	2	10593981	2	52	phosphorylation sites
+387	2	10593979	3	29	NOS activity
+388	2	10593977	2	100	ferric reductase
+389	3	10593977	9	34	the A. fulgidus
+390	3	10593977	10	25	A. fulgidus ferric
+391	2	10593976	5	45	PC12 cells
+392	3	10593976	7	33	TrkA and p75ntr
+393	2	10593975	2	35	the GRP-R
+394	2	10593973	5	42	tyrosine phosphorylation
+395	2	10593973	9	31	FAK binding
+396	2	10593972	7	28	ribonucleotide reductase
+397	2	10593972	10	25	R1 protein
+398	2	10593971	5	67	NDP kinase
+399	3	10593971	9	54	ADP kinase activity
+400	2	10593971	14	37	initial burst
+401	2	10593971	16	32	alpha-32p ATP
+402	2	10593971	18	29	ndk km
+403	2	10593971	19	27	E. coli
+404	2	10593971	20	27	the DnaK
+405	2	10593971	22	25	the ADP
+406	2	10593971	23	25	the ndk
+407	2	10593970	5	25	G protein
+408	2	10593968	2	59	MDBP RFX
+409	3	10593968	7	26	the alpha2 I
+410	2	10593967	6	29	ty3 RT
+411	3	10593966	7	30	the SA GTase
+412	2	10593964	6	44	nascent chains
+413	3	10593964	13	33	LamB signal peptide
+414	2	10593964	15	33	the ER
+415	3	10593964	16	33	the signal sequence
+416	2	10593964	17	32	pLamB p81
+417	3	10593964	18	32	the LamB signal
+418	2	10593964	20	25	ER membrane
+419	2	10593963	1	28	the CDase
+420	2	10593962	8	27	class II
+421	2	10593961	2	51	protein kinase
+422	2	10593961	9	28	NADPH oxidase
+423	2	10593961	12	27	PKC isoforms
+424	2	10593959	5	39	2 betageo
+425	2	10593959	9	31	B1 2
+426	2	10593959	11	28	homologous recombination
+427	2	10593959	12	27	the integration
+428	2	10593958	5	33	E. coli
+429	2	10593956	6	32	GABAA receptors
+430	3	10593956	7	32	the cell surface
+431	2	10593955	3	35	A10L PnIA
+432	2	10593954	5	65	mAb 2C7
+433	2	10593954	7	49	15253 LOS
+434	2	10593954	9	42	hep 2
+435	2	10593954	11	35	hep 1
+436	3	10593954	12	34	the 2C7 epitope
+437	2	10593954	13	32	WG LOS
+438	2	10593953	4	28	HeLa cells
+439	2	10593950	1	39	poly A
+440	3	10593949	5	28	the WW domain
+441	3	10593948	7	26	dipeptidyl peptidase activity
+442	2	10593947	8	27	the glutaminase
+443	2	10593947	9	25	glutamine binding
+444	3	10593947	10	25	the glutamine site
+445	2	10593946	8	25	mc3s5 mtclic
+446	2	10593945	8	35	native FdI
+447	2	10593945	11	31	the cluster
+448	2	10593945	13	29	side chain
+449	4	10593945	15	25	the 4fe-4s 2 cluster
+450	4	10593944	9	32	the nonphosphorylated marcks peptide
+451	4	10593944	10	31	the phosphorylated marcks peptide
+452	2	10593942	1	82	NOA 36
+453	2	10593941	7	34	cell death
+454	2	10593941	10	30	lipid peroxidation
+455	3	10593941	15	26	hydroxy fatty acids
+456	3	10593940	3	54	alpha2 beta2 complex
+457	2	10593940	6	35	the H86L
+458	2	10593940	10	30	tryptophan synthase
+459	3	10593940	11	29	miles E. W.
+460	3	10593940	12	26	H86L alpha2 beta2
+461	2	10593939	1	142	SR proteins
+462	3	10593939	11	35	SR33 and SR45
+463	3	10593939	15	26	plant SR proteins
+464	2	10593938	0	27	class I
+465	2	10593934	11	25	activity pool
+466	2	10593932	5	40	two sites
+467	2	10593932	6	38	recognition sites
+468	2	10593932	10	26	S. E.
+469	2	10593931	1	111	factor XI
+470	2	10593931	3	71	factor IX
+471	2	10593931	6	38	factor XIa
+472	2	10593931	7	37	A3 domain
+473	3	10593931	9	25	factor IX activation
+474	2	10593931	10	25	the A3
+475	2	10593930	2	51	ExoS 1-234
+476	2	10593930	8	28	gtpase activity
+477	2	10593929	3	33	the MBD
+478	2	10593928	3	25	B1 elements
+479	2	10593927	3	40	the DR
+480	2	10593925	3	81	MPS VI
+481	3	10593925	10	30	MPS VI cats
+482	2	10593924	7	31	SW480 cells
+483	2	10593921	2	76	the MR
+484	2	10593921	8	37	ligand binding
+485	2	10593921	10	32	the chimeras
+486	2	10593921	11	30	MR LBD
+487	2	10593921	12	29	the GR
+488	2	10593920	6	37	acyl-coa synthetase
+489	3	10593920	7	33	long chain acyl-coa
+490	2	10593920	8	29	COS1 cells
+491	2	10593919	9	39	glucose transport
+492	3	10593919	13	30	p38 MAP kinase
+493	2	10593919	15	28	SB 202190
+494	2	10593919	16	27	muscle cells
+495	2	10593917	6	33	mutant WAT
+496	2	10593915	4	33	NS domains
+497	2	10593915	5	31	chlorate treatment
+498	2	10593915	6	30	NA NS
+499	2	10593915	8	27	NA domains
+500	3	10593914	8	29	the b subunit
+501	3	10593914	11	27	the second stalk
+502	3	10593914	12	26	F1F0 ATP synthase
+503	2	10593913	4	59	S. pombe
+504	2	10593913	7	44	S. cerevisiae
+505	2	10593913	11	29	cuf1 delta
+506	2	10593912	15	42	cytoskeletal reorganization
+507	3	10593912	16	41	integrin alphaiib beta3
+508	2	10593912	18	35	actin polymerization
+509	2	10593912	23	30	the vwf-gpib
+510	2	10593912	25	29	rolling platelets
+511	3	10593911	8	25	Y223F and Y223S
+512	2	10593910	3	33	glyoxal oxidase
+513	2	10593910	4	32	active site
+514	2	10593909	9	42	the ASP
+515	4	10593909	11	32	ASP - - mice
+516	3	10593909	15	28	high fat diet
+517	2	10593909	16	27	adipose tissue
+518	2	10593908	6	36	NOS s
+519	2	10593907	2	99	Cr VI
+520	2	10593906	7	44	mesangial cells
+521	4	10593906	13	31	iNOS expression and NO
+522	4	10593906	15	28	expression and NO production
+523	2	10593905	7	32	antisense oligonucleotides
+524	2	10593905	10	27	splice site
+525	2	10593904	0	97	protein S
+526	2	10593903	8	26	polyunsaturated DAG
+527	2	10593901	5	46	protein synthesis
+528	4	10593901	9	39	leucine glutamine and tyrosine
+529	3	10593900	7	59	the LIM domain
+530	2	10593900	9	45	reporter gene
+531	2	10593900	13	34	the alpha-subunit
+532	2	10593900	14	34	transcriptional activation
+533	2	10593900	15	31	alpha-subunit reporter
+534	2	10593900	18	29	expression vector
+535	2	10593900	21	27	alpha-subunit gene
+536	3	10593899	4	39	AP1 and AP2
+537	2	10593896	5	33	growth factor
+538	2	10593895	6	33	phosphatase activity
+539	2	10593893	11	27	catalytic domain
+540	2	10593893	12	25	st3gal III
+541	2	10593892	8	57	BMP FMN
+542	3	10593892	11	47	the FMN domain
+543	3	10593892	14	34	the heme domain
+544	2	10593889	10	28	the tat
+545	2	10593889	13	26	the tatB
+546	4	10593888	5	102	ptdins 4 5 P2
+547	2	10593888	6	38	ptdins 3
+548	2	10593888	11	33	GIRK1 GIRK4
+549	2	10593886	3	34	S. pombe
+550	3	10593885	3	40	amino acid residues
+551	2	10593885	8	28	ribosomal proteins
+552	3	10585446	4	69	RNA polymerase II
+553	2	10585446	8	64	promoter escape
+554	3	10585446	12	41	wild type TFIIF
+555	2	10585446	13	37	Ad -9
+556	3	10585446	19	27	conaway R. C.
+557	2	10585446	20	27	f-rap30 delta91-105
+558	3	10585469	3	52	spinophilin and neurabin
+559	2	10585469	9	31	fusion proteins
+560	2	10585469	14	26	protein phosphatase
+561	2	10585411	6	42	rabbit eIF4H
+562	2	10585411	10	29	human eIF4H
+563	4	10585493	6	32	NEDD8 conjugation to cul-2
+564	2	10585492	4	54	tyrosine phosphorylation
+565	2	10585492	12	26	3t3-f442a cells
+566	2	10585490	9	52	mRNA synthesis
+567	2	10585490	13	30	host factors
+568	2	10585490	17	25	the host
+569	2	10585488	2	85	EGF receptor
+570	3	10585488	7	48	the membrane-spanning segment
+571	3	10585488	9	36	the extracellular domain
+572	4	10585488	10	31	soluble recombinant extracellular domain
+573	2	10585487	3	78	DNA replication
+574	2	10585487	6	61	orc2-1 cells
+575	3	10585487	14	34	wild type cells
+576	2	10585487	22	28	DNA damage
+577	3	10585487	25	26	early S phase
+578	5	10585485	5	45	ptdins 3 4 5 P3
+579	2	10585485	9	31	osmotic stress
+580	4	10585485	12	30	ptdins 3 4 P2
+581	3	10585485	13	29	p70 S6 kinase
+582	2	10585485	14	28	PI 3-kinase
+583	2	10585484	3	40	3 -end
+584	2	10585484	4	36	the crp3
+585	2	10585484	10	27	3 -UTR
+586	2	10585482	4	33	the FPA
+587	2	10585482	6	31	cell morphology
+588	2	10585482	8	30	receptor isoforms
+589	2	10585482	9	29	C3 exoenzyme
+590	2	10585481	3	35	the CLC
+591	2	10585480	3	41	vinexin beta
+592	2	10585480	10	30	JNK SAPK
+593	4	10585480	11	29	the third SH3 domain
+594	2	10585479	1	65	topoisomerase IV
+595	2	10585479	4	45	DNA cleavage
+596	3	10585479	11	25	S. aureus topoisomerase
+597	3	10585479	12	25	aureus topoisomerase IV
+598	3	10585478	5	25	the alpha2-i protein
+599	2	10585477	1	52	U8 RNA
+600	2	10585477	4	27	gel shift
+601	3	10585475	9	39	the primase fragment
+602	2	10585475	13	35	gene 4
+603	2	10585475	14	34	the T7
+604	3	10585475	15	33	richardson C. C.
+605	2	10585475	18	30	oligoribonucleotide synthesis
+606	2	10585474	10	56	oligoribonucleotide synthesis
+607	3	10585474	11	56	the primase fragment
+608	3	10585474	15	49	primase recognition site
+609	2	10585474	20	42	the helicase
+610	5	10585474	27	35	the 63-kda gene 4 protein
+611	3	10585474	28	34	richardson C. C.
+612	2	10585474	29	31	the T7
+613	3	10585474	30	30	the gene 4
+614	2	10585474	33	26	helicase domain
+615	3	10585474	35	25	the primase recognition
+616	2	10585473	7	36	the aggregates
+617	2	10585471	3	47	pol beta
+618	2	10585471	6	38	the E249K
+619	2	10585471	13	25	mispair extension
+620	2	10585470	3	86	me me
+621	2	10585470	8	49	tyrosine phosphorylation
+622	2	10585468	7	37	mature srebp-1
+623	2	10585468	8	35	a high
+624	2	10585468	10	30	high carbohydrate
+625	2	10585467	6	39	lipogenic enzymes
+626	4	10585467	7	39	srebp-1 - - mice
+627	2	10585467	11	30	mRNA levels
+628	3	10585467	14	26	fatty acid synthase
+629	2	10585466	1	71	the PSVs
+630	2	10585466	6	38	spore coat
+631	2	10585464	6	25	DNA binding
+632	2	10585462	6	40	mdck-gfp-dat cells
+633	2	10585461	10	35	transgenic mice
+634	2	10585461	11	34	blood pressure
+635	2	10585460	7	27	the hydrolase
+636	2	10585459	3	59	motif D
+637	2	10585459	5	54	wild-type RT
+638	2	10585459	8	45	template primer
+639	2	10585459	9	44	RT K220Q
+640	3	10585459	16	25	the chimeric RT
+641	3	10585458	4	53	cytochrome c oxidase
+642	2	10585457	1	42	GnRH receptor
+643	2	10585457	4	26	the GnRH
+644	2	10585456	2	38	signal peptide
+645	2	10585456	5	27	human angiotensinogen
+646	3	10585455	7	25	zinc finger genes
+647	2	10585454	2	29	the proteasome
+648	3	10585453	7	44	HS I II
+649	2	10585453	9	36	pit-1 sites
+650	2	10585453	12	29	the hGH-N
+651	2	10585453	14	26	the f14
+652	2	10585451	6	36	APOE3 apoe
+653	4	10585451	11	30	apoe - - mice
+654	2	10585451	12	29	apoe-deficient mice
+655	2	10585451	15	25	vldl-triglyceride production
+656	2	10585450	4	29	BALB c3T3
+657	2	10585449	9	29	bay K
+658	4	10585449	11	27	spontaneous ca2 i transients
+659	2	10585449	13	25	pituitary cells
+660	4	10585448	6	47	tau and HMW tau
+661	2	10585448	7	39	PC12 cells
+662	2	10585448	11	34	apoptotic cells
+663	2	10585448	12	25	microtubule binding
+664	2	10585447	6	29	PH domain
+665	2	10585445	5	30	I1L promoter
+666	3	10585443	2	45	tuberin and hamartin
+667	3	10585443	5	27	the tuberin-hamartin complex
+668	2	10585441	5	58	MKK6 glu
+669	2	10585441	11	32	MAP kinase
+670	2	10585441	12	28	3t3-l1 fibroblasts
+671	2	10585439	2	59	cytochrome b558
+672	2	10585438	3	78	sertoli cells
+673	3	10585438	9	36	the CREB promoter
+674	2	10585437	3	49	M. jannaschii
+675	2	10585437	8	27	schimmel P.
+676	2	10585436	2	30	gdp-fucose transport
+677	2	10585436	3	28	transport activity
+678	2	10585435	4	29	bcl-x gene
+679	3	10585434	5	28	the alpha subunit
+680	3	10585432	6	26	rat methionine synthase
+681	2	10585431	7	34	tube formation
+682	2	10585431	11	28	24 h
+683	3	10585430	11	47	SOCS CIS proteins
+684	2	10585430	16	27	GH signaling
+685	2	10585430	17	27	tyrosine phosphorylation
+686	2	10585429	2	48	ang II
+687	2	10585429	9	25	AT2 receptor
+688	3	10585429	11	25	the AT1 receptor
+689	2	10585428	3	67	adenylyl cyclase
+690	2	10585428	9	34	adenylyl cyclases
+691	2	10585428	12	27	D. M.
+692	3	10585428	13	26	adenylyl cyclase activity
+693	2	10585428	15	26	high affinity
+694	2	10585428	16	26	low affinity
+695	2	10585428	17	25	M. F.
+696	2	10585426	7	44	the mkp3-catalyzed
+697	2	10585426	9	39	kcat Km
+698	2	10585426	15	28	general acid
+699	3	10585426	16	27	the active site
+700	2	10585425	2	40	betan- 1-62
+701	2	10585424	8	25	the flavin
+702	4	10585423	1	124	1 25 OH 2D3
+703	2	10585423	4	71	caco-2 cells
+704	2	10585423	8	32	AP-1 activation
+705	2	10585422	3	58	A2AAR mRNA
+706	2	10585422	5	41	PC12 cells
+707	2	10585422	6	26	ERK1 ERK2
+708	2	10585422	10	25	SAPK JNK
+709	2	10585421	9	43	TFG2 cells
+710	4	10585421	12	36	p42 44 MAP kinase
+711	2	10585421	15	29	PE inhibition
+712	3	10585421	17	26	il-6-induced STAT3 activation
+713	2	10585421	18	25	il-6-activated STAT3
+714	3	10585419	8	28	ATF CREB family
+715	3	10585418	5	54	the 5-ht1a receptor
+716	2	10585418	8	25	hek-293 cells
+717	2	10585417	6	35	intermediate isoform
+718	2	10585417	8	33	long PRLr
+719	2	10585417	9	31	Ba F3
+720	3	10585417	12	25	the intermediate PRLr
+721	2	10585416	5	37	knockout mice
+722	3	10585416	7	25	SCP2 SCPx knockout
+723	2	10585415	4	42	Na transport
+724	2	10585415	5	29	A6 cells
+725	2	10585415	6	29	Na channel
+726	2	10585415	9	25	k-ras2a protein
+727	2	10585413	2	34	recombinant DIPP
+728	2	10585413	3	33	PP 2-insp4
+729	2	10585412	4	47	4-13C cholesterol
+730	2	10585412	6	46	oleic acid
+731	2	10585412	8	43	binding site
+732	2	10585412	12	33	ligand binding
+733	2	10585412	13	31	13C NMR
+734	2	10585410	3	57	mannosylglycerate synthase
+735	2	10585410	7	38	GDP mannose
+736	2	10585410	9	33	R. marinus
+737	2	10585410	10	32	the synthesis
+738	2	10585409	5	37	ligand binding
+739	2	10585408	6	38	SPI8 cells
+740	2	10585408	10	26	ins 1
+741	2	10585408	11	25	myo- 3H
+742	2	10585408	12	25	wtnih3t3 cells
+743	2	10585407	2	46	atpase activity
+744	2	10585407	6	31	D. M.
+745	2	10585407	7	30	T. W.
+746	2	10585405	3	53	rod domain
+747	2	10585405	7	31	actin binding
+748	2	10585403	7	32	donor vesicles
+749	2	10585403	9	32	plasma membrane
+750	2	10585402	2	53	M urea
+751	2	10585402	7	27	cysteine residues
+752	2	10585401	5	38	endothelial cells
+753	2	10585399	6	36	stat5b-deficient mice
+754	2	10585399	11	25	gene expression
+755	2	10585399	12	25	pulsatile GH
+756	2	10585398	3	39	cytochrome c
+757	2	10585397	2	93	ca2 entry
+758	2	10585397	11	27	external ca2
+759	3	10585397	12	26	store-operated ca2 entry
+760	2	10585394	0	42	gamma5 peptide
+761	2	10585394	1	36	G protein
+762	3	10585393	3	29	MAP kinase activation
+763	2	10585392	3	56	COP9 signalosome
+764	2	10585389	0	40	inner membrane
+765	2	10585389	4	25	intermembrane space
+766	2	10575012	3	38	T. gondii
+767	2	10574957	5	31	disulfide bridge
+768	2	10574957	6	29	prion protein
+769	2	10575011	3	42	JNK activation
+770	3	10575010	3	59	B a P
+771	2	10575010	4	47	p53 promoter
+772	2	10575010	6	34	the p53
+773	2	10575010	7	26	NIH 3T3
+774	2	10575010	8	25	a549 cells
+775	2	10575009	2	38	cleavage site
+776	2	10575008	6	34	the pump
+777	2	10575008	7	25	isoform 4b
+778	2	10575007	8	36	mx1cre lrpflox
+779	2	10575007	9	35	lrpflox floxldlr
+780	2	10575007	13	28	lrpflox flox
+781	2	10575006	3	37	CR-Fc binding
+782	2	10575005	6	41	jurkat cells
+783	2	10575005	7	41	the fas
+784	2	10575005	8	32	AP-1 site
+785	2	10575005	10	31	fas promoter
+786	2	10575005	14	26	luciferase activity
+787	2	10575004	9	27	MECL1 promoter
+788	2	10575004	10	26	ifn-gamma induction
+789	2	10575003	4	43	smooth muscle
+790	2	10575002	3	39	cyp1a1 mRNA
+791	2	10575002	7	25	MCF-7 cells
+792	2	10575001	8	34	ZO-2 ZO-3
+793	2	10575001	11	26	ZO-1 ZO-2
+794	2	10575001	13	25	the TJ
+795	2	10575000	3	56	endothelial cells
+796	2	10575000	9	40	amol lane
+797	2	10574999	14	32	acanthamoeba myosin-ia
+798	3	10574999	20	26	muscle actin filaments
+799	2	10574999	22	25	the SH3
+800	3	10574998	4	37	A B region
+801	3	10574998	5	31	the A B
+802	2	10574998	6	25	AF-1 activity
+803	2	10574998	8	25	the AF-1
+804	2	10574996	4	37	E. coli
+805	2	10574996	5	35	neuS gene
+806	2	10574996	6	33	sialic acid
+807	2	10574996	9	27	the k92
+808	2	10574995	4	47	E. coli
+809	2	10574995	5	46	O antigen
+810	3	10574995	13	27	lipid a-core OS
+811	2	10574994	6	59	TCR CD3
+812	2	10574994	8	48	T cells
+813	4	10574994	11	40	CD8 gamma - cells
+814	2	10574993	4	27	PTB domain
+815	2	10574991	8	44	yw3548 be49385a
+816	2	10574991	13	33	F9 cells
+817	2	10574991	14	33	pig-n knockout
+818	2	10574991	15	29	knockout F9
+819	2	10574990	5	35	force activation
+820	2	10574990	7	32	smooth muscle
+821	2	10574988	2	31	PCNA promoter
+822	2	10574988	4	31	the PCNA
+823	2	10574987	4	49	the dsx
+824	2	10574987	8	35	SR proteins
+825	2	10574987	11	29	dsx pre-mrna
+826	3	10574987	12	27	dsx GAA 6
+827	2	10574985	7	27	adometdc proenzyme
+828	3	10574984	7	27	glioma cell lines
+829	2	10574983	5	42	pro-pcb activation
+830	2	10574982	3	50	granulosa cells
+831	2	10574982	5	34	C EBP
+832	2	10574982	10	28	pghs-2 promoter
+833	2	10574982	11	27	bovine granulosa
+834	3	10574982	14	26	the bovine pghs-2
+835	2	10574981	2	38	nf-kappab activation
+836	2	10574981	7	31	bpV pic
+837	2	10574979	3	58	the loop
+838	2	10574979	5	36	receptor binding
+839	3	10574977	2	37	the active site
+840	2	10574977	9	27	the hrpc-fa
+841	2	10574977	12	26	the hrpc-cn-fa
+842	2	10574976	5	29	family members
+843	3	10574975	3	68	the insulin receptor
+844	2	10574975	9	32	cryo-electron microscopy
+845	2	10574975	12	28	insulin receptors
+846	2	10574974	2	139	Cr VI
+847	4	10574974	7	31	Cr VI -induced apoptosis
+848	2	10574973	11	27	mst1 kinase
+849	2	10574972	4	33	the nucleus
+850	2	10574971	2	30	E. coli
+851	2	10574969	4	37	histone deacetylase
+852	2	10574969	9	30	cell cycle
+853	2	10574969	10	30	p21waf1 promoter
+854	2	10574969	14	26	the p21waf1
+855	2	10574968	1	95	rho kinase
+856	2	10574968	7	26	interphase cells
+857	2	10574967	7	25	fas APO-1
+858	2	10574966	4	27	the gorge
+859	2	10574963	6	32	IR mRNA
+860	2	10574963	9	30	tyr phosphorylation
+861	2	10574962	4	39	vascular permeability
+862	2	10574962	8	27	S. A.
+863	2	10574959	5	42	bad phosphorylation
+864	2	10574959	8	37	cell death
+865	2	10574959	10	36	hek293 cells
+866	2	10574959	11	31	protein kinase
+867	3	10574959	12	29	bad at ser112
+868	2	10574958	4	28	long chain
+869	2	10574956	8	26	EpoR ifnar2-2
+870	2	10574955	4	35	E. coli
+871	2	10574955	9	28	sodA sodB
+872	2	10574954	2	34	wild-type AQP2
+873	2	10574954	3	31	mutant AQP2
+874	2	10574954	7	27	the ER
+875	2	10574954	8	25	AQP2 mutants
+876	2	10574952	2	96	EWS ATF1
+877	2	10574952	5	41	su-ccs-1 cells
+878	2	10574951	1	68	cpd 5
+879	2	10574951	5	47	protein-tyrosine phosphorylation
+880	2	10574951	13	25	cell growth
+881	2	10574951	14	25	tyrosine phosphorylation
+882	2	10574950	10	32	glucose uptake
+883	3	10574950	11	28	PI 3-kinase activity
+884	2	10574950	13	28	brown adipocytes
+885	2	10574949	6	56	Ig domain
+886	2	10574949	11	36	Ig loop
+887	2	10574949	12	35	ligand binding
+888	2	10574949	16	30	binding specificity
+889	2	10574949	19	26	chimeric receptors
+890	2	10574949	20	25	FGF2 binding
+891	2	10574948	3	70	cyclin B1
+892	2	10574948	4	62	kinase activity
+893	2	10574948	8	30	G2 delay
+894	2	10574948	9	29	cell cycle
+895	2	10574948	13	27	the G2
+896	2	10574947	4	30	chaperone-like activity
+897	3	10574947	7	25	alphaa- and alphab-crystallin
+898	2	10574946	3	34	HL60 cells
+899	2	10574946	4	33	ca2 influx
+900	2	10574946	7	29	p56 59hck
+901	2	10574946	8	27	ca2 c
+902	4	10574943	6	49	2 5 -dd-3 -ATP
+903	3	10574943	7	41	VC1 IIC2 complex
+904	2	10574943	8	37	5 -ATP
+905	2	10574943	10	31	adenylyl cyclase
+906	3	10574943	11	29	VC1 and IIC2
+907	2	10574943	13	28	gamma-metim-2 5
+908	3	10574943	14	28	the VC1 IIC2
+909	2	10574941	1	49	5 -ATP
+910	3	10574941	4	39	beta-l-2 3 -dd-5
+911	2	10574941	6	33	adenylyl cyclase
+912	3	10574941	8	30	3 -dd-5 -ATP
+913	4	10574941	10	26	beta-l-2 3 -dd- beta-32p
+914	2	10574940	1	154	mitochondrial GPAT
+915	3	10574940	3	47	mitochondrial GPAT activity
+916	2	10574939	4	25	chemokine binding
+917	2	10574938	8	25	mouse MDR3
+918	2	10574936	2	61	plasma membrane
+919	2	10574936	6	28	binding sites
+920	2	10574936	7	28	plasma membranes
+921	2	10574935	2	100	PLD stimulation
+922	2	10574935	5	69	hek-293 cells
+923	2	10574935	9	52	PLD activity
+924	3	10574934	5	43	the S. cerevisiae
+925	4	10574934	7	35	S. cerevisiae LTA4 hydrolase
+926	2	10574933	2	67	cyclin D3
+927	2	10574933	6	43	T cells
+928	2	10574932	4	37	sp1 binding
+929	2	10574932	7	25	PP2A activity
+930	2	10574931	4	27	lyn K-R
+931	2	10574931	5	26	DNA damage
+932	2	10574930	4	41	ikappabalpha degradation
+933	2	10574929	3	35	protein kinase
+934	2	10574928	3	107	pointed ends
+935	2	10574928	7	46	pointed end
+936	3	10574928	13	35	the pointed ends
+937	2	10574928	16	30	ADP pi-actin
+938	2	10574927	5	44	oxidized LDL
+939	2	10574927	8	30	native LDL
+940	3	10574926	3	53	o o -dityrosine
+941	2	10574926	9	29	tyrosyl radical
+942	2	10574926	12	25	the brain
+943	3	10574925	2	58	PDE5 catalytic fragment
+944	2	10574925	4	39	the PDE5
+945	2	10574925	6	32	catalytic domain
+946	2	10574924	10	29	ANG transcription
+947	3	10574924	12	26	the human ANG
+948	2	10574923	13	29	poly IC
+949	4	10574922	16	36	the 3 efficiency element
+950	2	10574922	17	33	mooring sequence
+951	2	10574922	20	30	editing efficiency
+952	5	10574922	21	30	the guinea pig apoB mRNA
+953	2	10574922	22	29	the apoB
+954	2	10574921	4	41	NO release
+955	2	10574920	5	35	free OH
+956	2	10574920	10	25	active site
+957	2	10574919	8	28	ca2 channel
+958	2	10574919	10	25	chick DRG
+959	2	10574918	6	48	thrombin inhibition
+960	4	10574918	9	32	M -1 min -1
+961	2	10574918	10	32	dermatan sulfate
+962	2	10574917	1	110	reverse transcriptase
+963	2	10574917	3	86	RNase H
+964	2	10574917	7	64	the PPT
+965	2	10574917	17	27	H -RT
+966	3	10574917	19	26	the RNase H
+967	2	10574914	3	30	the WT
+968	2	10574914	4	27	the switch
+969	2	10574912	3	42	cyclin K
+970	2	10574912	5	30	cdk9-cyclin K
+971	2	10574908	1	74	NS2 3
+972	2	10574907	1	148	ERM proteins
+973	2	10567420	4	28	tyrosine phosphorylation
+974	2	10567348	3	26	sphingosine burst
+975	2	10567348	4	26	the sphingosine
+976	3	10567432	10	25	c11 cell line
+977	2	10567431	4	28	S6 kinase
+978	2	10567431	5	27	kinase activity
+979	3	10567430	10	29	GRK2 and GRK3
+980	2	10567428	5	40	the ER
+981	2	10567428	8	32	germ cell-specific
+982	3	10567428	9	31	the GCS domain
+983	2	10567428	12	27	plasma membrane
+984	3	10567427	9	27	MEB-4 and GM-95
+985	2	10567427	12	25	GM-95 cells
+986	2	10567426	5	39	PC12 cells
+987	2	10567426	7	34	cortical neurons
+988	2	10567425	4	44	the cytosol
+989	2	10567425	5	40	the ER
+990	3	10567424	7	30	merlin isoform 1
+991	2	10567424	8	26	ERM proteins
+992	2	10567424	10	25	isoform 2
+993	3	10567422	5	56	the 30-kda domain
+994	2	10567422	9	38	tetratricopeptide repeats
+995	2	10567421	9	32	kinase activity
+996	2	10567421	10	26	IKK activity
+997	2	10567419	7	40	the XPRT
+998	3	10567419	13	26	the L. donovani
+999	2	10567418	12	26	ydj1 delta
+1000	2	10567417	2	93	hnRNP A2
+1001	2	10567417	4	35	the A2RE
+1002	2	10567416	3	40	mt gametes
+1003	3	10567416	5	33	mt - gametes
+1004	3	10567416	8	29	the 122-kda form
+1005	2	10567415	2	65	the proteasome
+1006	3	10567415	8	31	20 S proteasome
+1007	2	10567415	9	31	ATP hydrolysis
+1008	2	10567415	12	29	ATP synthesis
+1009	3	10567415	15	27	NDP kinase-like activity
+1010	2	10567415	16	26	NDP kinase
+1011	2	10567414	4	46	the IL-6
+1012	2	10567414	7	35	the IL-2
+1013	2	10567414	9	31	IL-6 nf-kappab
+1014	2	10567414	10	29	IL-2 cd28re
+1015	2	10567414	11	25	IL-6 promoter
+1016	2	10567413	4	35	10 FCS
+1017	2	10567412	7	29	tyrosine phosphorylation
+1018	2	10567411	3	64	insulin release
+1019	2	10567411	6	50	ca2 i
+1020	2	10567411	9	39	beta cell
+1021	2	10567411	13	31	KO mice
+1022	2	10567410	2	47	hpomp75 TLS
+1023	3	10567409	10	44	GH receptor gene
+1024	3	10567409	11	41	the GH receptor
+1025	3	10567409	16	28	the L2 transcript
+1026	2	10567409	17	25	L2 promoter
+1027	2	10567409	18	25	nuclear extracts
+1028	2	10567408	8	31	acyl-coa thioesterase
+1029	2	10567407	1	196	cdx-2 3
+1030	3	10567407	3	33	the cdx-2 3
+1031	3	10567407	4	31	cdx-2 3 promoter
+1032	2	10567407	6	26	TATA box
+1033	2	10567406	5	52	ERK1 2
+1034	2	10567406	10	36	MAP kinase
+1035	2	10567406	17	29	smooth muscle
+1036	2	10567406	19	26	protein kinase
+1037	3	10567405	3	69	ptdins 4 P
+1038	2	10567404	4	39	nuclear receptors
+1039	3	10567400	2	29	the cell surface
+1040	2	10567399	4	50	G protein
+1041	3	10567399	7	32	RGS2 and RGS4
+1042	2	10567399	9	30	Gi class
+1043	2	10567399	10	29	alpha subunits
+1044	2	10567399	11	26	class alpha
+1045	3	10567398	3	55	PU.1 and Spi-B
+1046	2	10567398	5	41	PU.1 Spi-B
+1047	2	10567398	7	31	PU.1 -spi-b
+1048	2	10567398	9	25	the P2Y10
+1049	2	10567397	4	36	C. elegans
+1050	2	10567396	5	28	cc Q42C
+1051	3	10567396	6	28	the c subunit
+1052	2	10567392	3	49	arachidonic acid
+1053	2	10567391	3	50	Ad4BP SF-1
+1054	2	10567390	1	217	cyclin D1
+1055	3	10567390	5	68	the cyclin D1
+1056	2	10567390	11	31	R. G.
+1057	4	10567390	16	27	the cyclin D1 promoter
+1058	2	10567390	17	26	cell cycle
+1059	2	10567390	19	25	expression vector
+1060	2	10567388	1	196	endopin 1
+1061	2	10567388	11	34	chromaffin granules
+1062	2	10567388	12	33	chromaffin cells
+1063	2	10567388	14	32	secretory vesicles
+1064	2	10567387	5	47	the ligand
+1065	3	10567387	8	30	the B -C
+1066	2	10567387	9	29	F -G
+1067	2	10567386	4	26	junctional fraction
+1068	2	10567384	8	42	reticulocyte lysate
+1069	2	10567384	9	38	GR hsp90
+1070	2	10567382	3	35	u937 cells
+1071	2	10567381	4	46	3H LPS
+1072	3	10567380	3	41	apo a gene
+1073	2	10567380	4	40	Lp a
+1074	2	10567380	7	27	a levels
+1075	2	10567379	2	61	p38 kinase
+1076	3	10567379	11	36	the phosphorylation level
+1077	2	10567379	14	32	mosmol liter
+1078	2	10567379	15	30	MAP kinases
+1079	3	10567379	16	30	MTAL cellular volume
+1080	2	10567376	2	46	liter -1
+1081	2	10567375	9	41	dolichol phosphate
+1082	2	10567375	15	29	the formation
+1083	2	10567373	3	44	beta cells
+1084	2	10567373	5	37	NES2Y cells
+1085	2	10567373	7	33	KATP channels
+1086	2	10567371	2	70	hormone binding
+1087	2	10567371	6	39	the AR
+1088	2	10567370	5	48	PKC activity
+1089	2	10567370	8	36	DMPC DMPS
+1090	2	10567370	13	25	DMPS DO
+1091	2	10567369	5	28	full-length MEK1
+1092	2	10567369	7	25	erk-binding domain
+1093	2	10567368	10	45	f9-differentiated cells
+1094	3	10567368	12	41	the tgf-beta2 promoter
+1095	2	10567368	14	34	F9 EC
+1096	2	10567368	17	29	EC cells
+1097	3	10567366	10	28	p85alphapi 3-K mRNA
+1098	2	10567365	1	38	A. woodii
+1099	2	10567364	2	60	ca2 i
+1100	2	10567364	7	27	ins-1 4
+1101	2	10567363	1	62	epsilon deltac
+1102	2	10567363	3	48	epsilon subunit
+1103	2	10567363	5	40	TF0F1 epsilon
+1104	2	10567362	2	49	phosphoserine phosphatase
+1105	2	10567362	4	30	m z
+1106	2	10567361	1	53	B subunit
+1107	2	10567361	2	40	B subunits
+1108	2	10567361	3	40	cell surface
+1109	2	10567361	5	33	A subunit
+1110	2	10567361	6	31	C peptide
+1111	2	10567360	8	41	MNC protein
+1112	2	10567360	10	37	neonatal MNC
+1113	2	10567360	11	34	adult MNC
+1114	2	10567360	12	32	3 -UTR
+1115	2	10567359	5	48	fdc-p1 cells
+1116	2	10567359	10	35	GPI hydrolysis
+1117	2	10567359	11	31	tyrosine phosphorylation
+1118	2	10567358	1	69	epsin 2
+1119	2	10567358	2	66	epsin 1
+1120	3	10567357	4	45	5 S rRNA
+1121	2	10567357	8	30	nuclear import
+1122	2	10567355	2	73	electron transfer
+1123	3	10567355	23	31	the activation barrier
+1124	3	10567355	25	29	crofts A. R.
+1125	2	10567355	26	29	heme bL
+1126	2	10567355	31	28	cyt c1
+1127	3	10567355	33	28	the Qo site
+1128	3	10567355	34	27	the second electron
+1129	2	10567355	36	26	the ISP
+1130	2	10567355	38	25	quinol oxidation
+1131	3	10567355	39	25	second electron transfer
+1132	2	10567354	4	87	T. brucei
+1133	3	10567354	6	77	20 S proteasome
+1134	3	10567353	10	26	seidah N. G.
+1135	4	10567352	4	57	ptdins 3 5 P2
+1136	2	10567351	2	41	Y77D Q80E
+1137	2	10567350	2	61	SECIS elements
+1138	2	10567350	5	47	SECIS element
+1139	2	10567350	14	25	free energy
+1140	2	10567349	3	100	stellate cells
+1141	2	10567349	5	28	tgf-beta production
+1142	2	10567344	3	28	pho85 delta
+1143	2	10567338	2	36	HL-60 cells
+1144	2	10567337	5	25	300-kda HAR
+1145	2	10567336	4	30	ADF cofilin
+1146	2	10559277	9	29	fundulus AHR1
+1147	2	10559277	10	27	mammalian AHRs
+1148	2	10559276	4	39	tyrosine phosphorylation
+1149	2	10559275	4	55	particle release
+1150	3	10559275	6	29	the cell surface
+1151	2	10559274	2	36	M urea
+1152	2	10559273	5	28	Pu deltauas
+1153	2	10559272	5	26	sec mutants
+1154	2	10559272	6	25	the nucleus
+1155	2	10559271	2	58	Q1 Q2
+1156	2	10559270	1	79	J chain
+1157	2	10559270	10	29	the alphatp
+1158	2	10559269	5	27	the lipoxygenase
+1159	2	10559269	6	25	the coral
+1160	2	10559268	9	36	E. coli
+1161	2	10559268	10	33	receptor fragment
+1162	3	10559268	11	29	negatively charged residues
+1163	3	10559268	17	26	the N terminus
+1164	2	10559268	18	26	transmembrane domain
+1165	2	10559268	19	25	the PhoA
+1166	3	10559267	4	82	the bax promoter
+1167	3	10559267	10	38	p53 response element
+1168	2	10559267	11	35	the p53
+1169	2	10559267	13	31	wild-type p53
+1170	2	10559267	17	28	the p21
+1171	3	10559266	8	34	the TCR heterodimer
+1172	3	10559266	11	30	the cell surface
+1173	4	10559266	13	26	the TCR CD3 complex
+1174	2	10559266	14	25	the CD3
+1175	2	10559265	0	122	N protein
+1176	3	10559265	4	43	HTNV N protein
+1177	2	10559265	8	32	SNV N
+1178	3	10559265	11	27	the HTNV N
+1179	2	10559264	3	41	cathepsin B
+1180	2	10559263	7	37	RNA synthesis
+1181	3	10559263	8	33	3 -utr373nt RNA
+1182	2	10559263	9	32	RNA templates
+1183	2	10559263	12	30	subgenomic RNA
+1184	2	10559263	14	27	3 -UTR
+1185	2	10559263	15	26	5 -tr230nt
+1186	2	10559263	19	25	3 -end
+1187	2	10559263	21	25	the RdRP
+1188	2	10559262	4	38	PC12 cells
+1189	3	10559261	9	40	DNA ligase I
+1190	3	10559261	14	31	base excision repair
+1191	3	10559261	16	26	AP site repair
+1192	2	10559261	18	26	pol delta
+1193	2	10559261	19	26	repair reaction
+1194	2	10559260	3	63	pol delta
+1195	3	10559260	7	47	DNA ligase I
+1196	2	10559260	13	37	repair intermediates
+1197	2	10559260	14	35	pol epsilon
+1198	2	10559260	15	30	long patch
+1199	2	10559260	17	26	patch BER
+1200	2	10559260	18	25	AP site
+1201	2	10559259	3	47	GLUT4 translocation
+1202	2	10559259	6	36	galphaq 11
+1203	2	10559259	8	32	PI 3-kinase
+1204	2	10559257	4	26	HEK 293
+1205	2	10559257	7	25	EAG channels
+1206	3	10559256	7	56	the M2 mAChR
+1207	3	10559256	8	56	the cell surface
+1208	2	10559256	9	39	M2 machrs
+1209	2	10559256	11	36	the recovery
+1210	2	10559256	15	28	hek293 cells
+1211	2	10559255	2	59	the STE
+1212	2	10559255	6	33	STE sequences
+1213	2	10559255	7	32	STE sequence
+1214	2	10559255	12	26	hydrophobic region
+1215	3	10559255	14	26	the ER membrane
+1216	2	10559254	5	27	293 cells
+1217	2	10559253	5	42	NADPH oxidase
+1218	2	10559253	6	40	intramolecular interaction
+1219	2	10559253	8	38	SH3 domains
+1220	2	10559253	13	30	ser-303 ser-304
+1221	2	10559251	9	53	small maf
+1222	2	10559251	15	32	HepG2 cells
+1223	2	10559251	16	30	MafK DN
+1224	2	10559251	17	28	gene expression
+1225	2	10559251	18	28	the GCSh
+1226	2	10559251	19	26	EpRE sequences
+1227	2	10559251	20	26	the MafK
+1228	3	10559250	5	26	PI 3 4
+1229	2	10559249	2	34	T. cruzi
+1230	2	10559247	1	85	A. rubrum
+1231	2	10559247	8	29	monomethyl ester
+1232	3	10559247	9	26	the A. rubrum
+1233	2	10559245	1	51	the NMTS
+1234	2	10559245	3	30	nuclear matrix
+1235	2	10559244	11	30	G2 M
+1236	2	10559244	13	29	mouse spermatocytes
+1237	2	10559244	14	27	H1 kinase
+1238	2	10559243	2	69	cyt c6
+1239	2	10559242	4	46	ca2 i
+1240	2	10559242	6	29	differentiated astrocytes
+1241	2	10559242	7	27	calcium transients
+1242	2	10559241	2	27	M. P.
+1243	2	10559239	7	25	rfz-1 receptor
+1244	4	10559238	6	27	1 25 OH 2D3
+1245	2	10559238	8	27	nuclear localization
+1246	2	10559236	1	89	chl a
+1247	2	10559236	3	72	chl b
+1248	2	10559236	6	40	the chl
+1249	2	10559235	6	32	annexin XI
+1250	4	10559235	9	27	annexin VII and XI
+1251	2	10559232	3	40	target DNA
+1252	2	10559232	4	34	viral DNA
+1253	2	10559232	10	25	end processing
+1254	2	10559229	3	37	pol III
+1255	2	10559228	1	61	tnfalpha production
+1256	2	10559227	9	34	the EGFR
+1257	2	10559226	2	66	5-chloro-2 -deoxycytidine
+1258	2	10559226	4	53	2 -deoxycytidine
+1259	2	10559226	9	30	m z
+1260	2	10559225	9	28	fra 1
+1261	2	10559225	11	26	gel shift
+1262	3	10559225	13	25	the elastin promoter
+1263	2	10559224	5	27	threshold curves
+1264	2	10559224	7	25	respiratory rate
+1265	2	10559223	8	45	J immunol
+1266	2	10559223	12	36	CHO CD14
+1267	2	10559223	13	34	D. T.
+1268	2	10559223	17	28	B. burgdorferi
+1269	3	10559223	18	27	toll-like receptor 2
+1270	3	10559222	8	36	the smad7 promoter
+1271	2	10559221	3	40	reductive titration
+1272	3	10559221	10	32	the o2-oxidized form
+1273	4	10559221	13	27	the fully oxidized form
+1274	2	10559220	6	41	HDL FC
+1275	2	10559220	9	34	14C FC
+1276	3	10559220	16	25	SR-BI Tg mice
+1277	2	10559219	3	30	N terminus
+1278	2	10559219	4	26	C terminus
+1279	2	10559218	2	58	carnitine transport
+1280	2	10559218	6	36	transport function
+1281	2	10559218	8	31	TEA transport
+1282	2	10559218	10	29	rat OCTN2
+1283	2	10559218	12	25	organic cation
+1284	2	10559217	2	52	choroid plexus
+1285	2	10559217	5	43	2 4-D
+1286	2	10559217	6	37	organic anion
+1287	2	10559216	6	28	his6-p37auf1- 1-257
+1288	2	10559216	8	27	tnfalpha ARE
+1289	3	10559215	12	32	the E1 isozyme
+1290	2	10559215	13	31	aldehyde dehydrogenase
+1291	2	10559215	16	25	retinaldehyde activity
+1292	2	10559214	3	68	2-hydroxybiphenyl 3-monooxygenase
+1293	4	10559214	11	34	the flavin C 4a
+1294	2	10559214	16	29	enzyme-substrate complex
+1295	2	10559214	23	25	anaerobic reduction
+1296	2	10559214	24	25	massey V.
+1297	2	10559213	2	60	adp-ribosyl cyclase
+1298	2	10559213	7	29	cyclase activity
+1299	2	10559212	3	50	the RyR2
+1300	2	10559212	5	38	ryanodine binding
+1301	2	10559212	6	36	ca2 release
+1302	2	10559212	10	32	the RyR1
+1303	2	10559211	3	48	leukocyte adhesion
+1304	2	10559210	2	74	ca2 release
+1305	2	10559210	4	47	lumenal ca2
+1306	2	10559210	8	30	the ca2
+1307	2	10559210	10	28	PC12 cells
+1308	2	10559210	12	26	quantal ca2
+1309	2	10559210	13	25	ca2 cyt
+1310	2	10559208	8	41	DNA replication
+1311	3	10559208	9	35	1 frameshift mutagenesis
+1312	3	10559208	11	33	A6 right-arrow A7
+1313	2	10559208	13	33	tract template
+1314	2	10559208	18	25	DNA synthesis
+1315	2	10559207	6	39	APS kinase
+1316	2	10559207	11	34	ATP sulfurylase
+1317	2	10559207	14	26	PAPS synthetase
+1318	2	10559206	2	27	xanthosoma lectin
+1319	3	10559205	2	36	cytochrome c oxidase
+1320	2	10559204	3	56	JNK SAPK
+1321	2	10559203	3	71	calyculin A
+1322	2	10559203	8	39	exchange activity
+1323	2	10559203	9	39	okadaic acid
+1324	2	10559203	13	34	CK1.4 cells
+1325	2	10559203	14	33	Na ca2
+1326	2	10559203	18	25	ba2 influx
+1327	2	10559201	5	33	mitochondrial ca2
+1328	2	10559200	7	56	the FPR
+1329	2	10559200	8	53	Gi alpha2
+1330	2	10559200	9	52	gtpgammas binding
+1331	2	10559200	13	40	3H fMLF
+1332	2	10559200	18	36	saturation binding
+1333	4	10559200	20	34	fpr-gi alpha fusion proteins
+1334	2	10559200	22	32	Gi alpha
+1335	2	10559200	24	29	G proteins
+1336	2	10559200	28	26	fusion protein
+1337	2	10559199	3	49	M urea
+1338	2	10559198	6	42	14C lactose
+1339	3	10559198	8	39	extracellular binding site
+1340	4	10559198	11	26	the cytoplasmic binding site
+1341	2	10559198	12	26	the proteoliposomes
+1342	2	10559197	2	68	R120G alphab-crystallin
+1343	2	10559197	6	44	intermediate filaments
+1344	2	10559197	7	42	the R120G
+1345	3	10559197	8	39	wild type alphab-crystallin
+1346	2	10559197	9	36	intermediate filament
+1347	2	10559196	3	41	membrane binding
+1348	2	10559196	10	25	E. coli
+1349	2	10559196	11	25	the AN
+1350	2	10559194	3	45	the parasite
+1351	2	10559194	9	25	bafilomycin A1
+1352	3	10559190	2	86	5 S rRNA
+1353	4	10559190	6	28	5 S rRNA synthesis
+1354	2	10559189	6	26	histone deacetylase
+1355	2	10559188	3	37	tnf-alpha promoter
+1356	2	10559188	4	34	sp1 binding
+1357	2	10559186	1	50	Na k-atpase
+1358	2	10551852	6	58	adenophostin A
+1359	2	10551852	7	53	ca2 i
+1360	2	10551852	11	36	IP3 receptor
+1361	2	10551837	2	46	domain V
+1362	3	10551837	9	30	23 S rRNA
+1363	2	10551837	10	28	carbonic anhydrase
+1364	2	10551815	3	47	human MTHFR
+1365	2	10551889	4	35	NIH 3T3
+1366	2	10551889	6	32	fn14 mRNA
+1367	2	10551889	7	32	the fn14
+1368	2	10551886	7	31	3H palmitate
+1369	2	10551886	9	28	COS-7 cells
+1370	2	10551886	10	28	ca2 -CaM
+1371	2	10551884	4	69	angiotensin II
+1372	3	10551884	15	32	VSMC jak2 DN
+1373	2	10551884	16	31	AT1 receptor
+1374	2	10551884	18	28	VSMC neo
+1375	2	10551884	21	26	the jak2
+1376	2	10551884	23	25	anti-fyn pAb
+1377	2	10551883	7	31	flg cyto
+1378	2	10551883	9	25	tyrosine phosphorylation
+1379	2	10551882	3	89	nf-kappab p52
+1380	2	10551882	11	29	binding sites
+1381	2	10551882	12	29	nf-kappab dna-dna
+1382	2	10551882	13	27	nf-kappab binding
+1383	2	10551882	14	27	the nf-kappab
+1384	2	10551881	1	57	dna-binding proteins
+1385	2	10551881	8	34	DNA binding
+1386	2	10551881	20	26	dna-binding protein
+1387	2	10551881	23	25	E. coli
+1388	3	10551880	7	29	the PTB domain
+1389	2	10551880	9	25	the numb
+1390	2	10551879	4	61	RII EYFP
+1391	2	10551879	5	42	ht31 ECFP
+1392	2	10551879	7	28	Ht31P ECFP
+1393	2	10551878	5	39	GLUT1 protein
+1394	3	10551878	11	25	GLUT1 mRNA translation
+1395	2	10551877	8	66	the GHR
+1396	2	10551877	12	52	tyrosine phosphorylation
+1397	2	10551877	20	39	rGHR C241S
+1398	2	10551877	21	38	GHR dimerization
+1399	2	10551877	30	27	WT rGHR
+1400	4	10551877	33	26	gh-induced GHR disulfide linkage
+1401	2	10551876	1	61	alpha beta-gmr
+1402	3	10551876	3	45	Ba F3 cells
+1403	2	10551875	2	65	eNOS expression
+1404	2	10551875	7	33	eNOS up-regulation
+1405	2	10551875	8	30	growth factor
+1406	2	10551875	9	28	vegf-induced eNOS
+1407	2	10551874	3	45	MAP kinase
+1408	2	10551874	6	35	HepG2 cells
+1409	2	10551874	7	29	the apociii
+1410	2	10551873	1	68	the mt4-mmpcd
+1411	3	10551872	7	54	RAW 264.7 cells
+1412	3	10551872	13	29	TfR mRNA levels
+1413	2	10551871	8	36	iron uptake
+1414	3	10551871	15	25	the MA14 mutant
+1415	2	10551870	6	31	nucleosome positioning
+1416	2	10551870	7	29	micrococcal nuclease
+1417	2	10551868	2	61	human DNMT1
+1418	4	10551868	7	29	poly dI-dC poly dI-dC
+1419	2	10551866	5	34	3T3 L1
+1420	2	10551866	12	30	cell cycle
+1421	2	10551866	13	29	3H thymidine
+1422	2	10551865	2	135	cd120a p55
+1423	2	10551865	5	106	p42mapk erk2
+1424	3	10551865	14	27	the endoplasmic reticulum
+1425	3	10551865	15	26	gst-cd120a- 207-425 fusion
+1426	3	10551865	18	26	the gst-cd120a- 207-425
+1427	3	10551865	19	25	207-425 fusion protein
+1428	2	10551863	5	39	his 6
+1429	2	10551862	3	85	topo58 12
+1430	2	10551862	6	62	the linker
+1431	2	10551862	10	41	topoisomerase I
+1432	2	10551862	15	25	human topoisomerase
+1433	2	10551861	5	46	monomeric species
+1434	3	10551861	9	34	WT- and v30m-ttr
+1435	3	10551860	7	25	membrane binding domain
+1436	2	10551858	3	43	R72A RT
+1437	2	10551858	6	29	wild-type RT
+1438	2	10551854	1	47	HCA II
+1439	2	10551854	8	34	molten globule
+1440	2	10551854	10	26	excimer fluorescence
+1441	2	10551853	4	50	beta gamma-renac
+1442	3	10551853	10	42	the plasma membrane
+1443	3	10551853	15	27	beta- and gamma-renac
+1444	3	10551853	16	26	the NH2 terminus
+1445	2	10551851	8	25	ICR activity
+1446	2	10551850	4	37	2-azido- 32P
+1447	2	10551850	5	27	A subunit
+1448	2	10551848	11	27	D. H.
+1449	2	10551848	16	26	transmembrane helix
+1450	3	10551848	17	25	PLN inhibitory function
+1451	2	10551847	5	26	E. coli
+1452	2	10551846	2	38	ASV IN
+1453	2	10551845	7	29	cos cells
+1454	2	10551845	8	25	the EGFR
+1455	2	10551843	7	60	PI 3-kinase
+1456	3	10551843	13	35	the tight junction
+1457	2	10551842	5	49	cytochrome bd
+1458	2	10551842	9	32	B. subtilis
+1459	3	10551842	11	30	bd - membranes
+1460	2	10551842	13	26	the bd
+1461	2	10551841	1	87	beta cells
+1462	2	10551841	9	29	beta cell
+1463	2	10551840	4	50	TF mRNA
+1464	3	10551840	10	32	LDL and oxLDL
+1465	2	10551840	12	31	the TF
+1466	3	10551840	14	26	TF gene expression
+1467	2	10551840	15	25	TF promoter
+1468	2	10551839	4	35	trp residues
+1469	2	10551839	5	28	c2-man- trp
+1470	2	10551838	3	71	phosphodiester alpha-glcnacase
+1471	2	10551838	6	34	the human
+1472	2	10551838	8	30	clone 6.5
+1473	3	10551836	6	59	10 -6 M
+1474	2	10551836	10	41	AVP 4-9
+1475	2	10551836	15	33	the IGly
+1476	3	10551836	17	30	the inhibitory action
+1477	2	10551836	18	28	V1 receptor
+1478	2	10551836	21	28	the V1
+1479	2	10551836	23	25	adenylate cyclase
+1480	2	10551834	3	52	the SID
+1481	3	10551831	5	27	wild type enzyme
+1482	2	10551830	3	47	gene expression
+1483	2	10551830	11	30	the s14
+1484	2	10551827	3	33	the golgi
+1485	2	10551826	6	35	importin alpha
+1486	2	10551826	7	30	the CSD
+1487	3	10551826	9	27	p53 nuclear import
+1488	2	10551825	8	28	3H cholesterol
+1489	2	10551825	10	27	3H cholesteryl
+1490	2	10551825	11	27	cholesteryl esters
+1491	3	10551824	10	38	3H ryanodine binding
+1492	2	10551824	16	34	cytosolic RR
+1493	2	10551824	18	32	lumenal RR
+1494	2	10551824	19	31	single channel
+1495	2	10551823	3	98	s100a8 A9
+1496	2	10551823	5	40	protein complex
+1497	3	10551823	8	29	the s100a8 A9
+1498	2	10551823	11	27	AA binding
+1499	3	10551822	5	55	the noncatalytic sites
+1500	2	10551822	8	36	ATP hydrolysis
+1501	3	10551822	14	26	the catalytic sites
+1502	3	10551821	10	25	ptdins-3 4 5-P3
+1503	3	10551820	2	83	ikkalpha and ikkbeta
+1504	2	10551819	6	53	beta1 subunits
+1505	2	10551819	11	38	sodium channel
+1506	2	10551819	12	35	alpha subunit
+1507	2	10551819	13	35	sodium channels
+1508	2	10551819	15	33	voltage dependence
+1509	3	10551819	18	31	the beta1 subunit
+1510	2	10551819	19	30	gating mode
+1511	2	10551819	21	29	alpha subunits
+1512	2	10551819	25	26	extracellular loops
+1513	2	10551819	26	25	W. A.
+1514	2	10551818	7	47	Na channel
+1515	2	10551818	8	47	extracellular domain
+1516	3	10551818	16	30	the beta1 subunit
+1517	2	10551818	18	27	voltage dependence
+1518	3	10551817	6	63	p42 p44 MAPK
+1519	2	10551817	10	28	p42 MAPK
+1520	2	10551816	13	31	reporter gene
+1521	2	10551816	15	30	the transcription
+1522	3	10551816	16	27	the upstream region
+1523	2	10551813	5	31	JB6 cells
+1524	2	10551812	2	36	the MN
+1525	3	10551811	7	25	ser-62 and ser-71
+1526	2	10551810	8	25	a126 cells
+1527	2	10551809	6	36	threonine 423
+1528	2	10551809	8	31	hpak1- 67-150
+1529	2	10551809	9	29	kinase activity
+1530	2	10551809	10	28	kinase domain
+1531	2	10551808	3	33	E. coli
+1532	2	10551807	5	25	mast cells
+1533	4	10551804	5	28	factors V and VIII
+1534	3	10551802	4	76	arp2 3 complex
+1535	2	10551802	7	46	WASp scar
+1536	2	10542259	4	59	ERG1 mRNA
+1537	2	10542259	5	58	the uterus
+1538	2	10542259	16	26	ERG1 expression
+1539	3	10542212	8	30	nf-kappab DNA binding
+1540	2	10542212	9	28	IKK activity
+1541	2	10542299	8	44	UV irradiation
+1542	2	10542299	10	29	dna-pkcs cells
+1543	2	10542299	11	27	cell extracts
+1544	3	10542299	13	25	uv-induced replication arrest
+1545	2	10542297	5	29	u1.kr930 cells
+1546	3	10542295	3	47	F ab 2
+1547	2	10542295	5	30	mast cells
+1548	2	10542295	10	25	cell activation
+1549	2	10542294	8	44	FAK phosphorylation
+1550	2	10542294	10	31	cell spreading
+1551	2	10542294	12	29	alpha5-deficient cells
+1552	2	10542292	7	32	SEP delta
+1553	2	10542292	8	32	big ET-1
+1554	2	10542292	9	27	CHO SEP
+1555	2	10542292	10	27	soluble form
+1556	2	10542290	2	40	PU.1 binding
+1557	2	10542290	3	35	the p47phox
+1558	2	10542290	4	33	promoter activity
+1559	2	10542289	8	30	E. histolytica
+1560	2	10542289	9	30	hydrogen peroxide
+1561	2	10542289	10	27	the amoebic
+1562	2	10542287	3	62	protein synthesis
+1563	2	10542287	7	37	cortical neurons
+1564	2	10542286	3	56	atpase activity
+1565	3	10542285	5	45	RB PH TT
+1566	3	10542285	10	29	mbp-rb PH TT
+1567	2	10542285	15	25	stress fibers
+1568	4	10542282	4	56	the delta m1-a24 mutant
+1569	2	10542281	12	27	keratan sulfate
+1570	2	10542281	15	25	atrolysin C
+1571	2	10542280	2	61	ang II
+1572	2	10542280	7	31	tyrosine phosphorylation
+1573	2	10542279	9	50	the VDR
+1574	5	10542279	11	41	10 -8 M 1alpha 25
+1575	5	10542279	12	41	M 1alpha 25 OH 2D3
+1576	2	10542279	14	33	saos-2 cells
+1577	4	10542279	19	25	10 -7 M tei-9647
+1578	2	10542278	8	28	mismatch repair
+1579	2	10542276	6	38	transit peptide
+1580	2	10542276	7	36	mature domain
+1581	2	10542276	14	25	the mature
+1582	2	10542276	15	25	the transit
+1583	3	10542275	6	41	CIITA promoter III
+1584	2	10542275	10	34	base pairs
+1585	3	10542275	12	30	MHC class II
+1586	3	10542274	4	58	NIH 3T3 cells
+1587	2	10542274	7	47	caveolin-1 promoter
+1588	2	10542274	13	43	PD 98059
+1589	2	10542274	16	38	M. P.
+1590	4	10542274	17	38	p42 44 MAP kinase
+1591	2	10542274	19	35	H-Ras G12V
+1592	2	10542274	20	33	the caveolin-1
+1593	2	10542274	22	31	promoter activity
+1594	2	10542274	23	30	caveolin-1 expression
+1595	3	10542274	24	26	caveolin-1 protein expression
+1596	2	10542273	7	33	DNA binding
+1597	3	10542273	10	28	prd HD proteins
+1598	2	10542272	2	32	the nudix
+1599	2	10542271	2	87	vitamin D3
+1600	2	10542271	9	25	the p27kip1
+1601	2	10542269	10	27	the ER
+1602	2	10542269	11	26	cell surface
+1603	3	10542269	12	25	gammaapp delta delta
+1604	2	10542267	8	25	the C3
+1605	2	10542266	4	31	T47D cells
+1606	2	10542265	1	81	RegA protein
+1607	2	10542265	2	76	RNA binding
+1608	2	10542263	3	51	the V2R
+1609	2	10542263	5	50	the beta2ar
+1610	2	10542263	11	30	M. G.
+1611	3	10542263	14	29	the plasma membrane
+1612	2	10542263	15	28	beta2ar-v2r chimera
+1613	2	10542263	16	28	endocytic vesicles
+1614	2	10542263	18	27	hek-293 cells
+1615	2	10542263	19	26	v2r-beta2ar chimera
+1616	2	10542262	2	88	smooth muscle
+1617	3	10542262	7	34	airway smooth muscle
+1618	3	10542262	8	32	smooth muscle cells
+1619	2	10542260	8	29	egr-1 mRNA
+1620	2	10542260	9	28	HaCaT cells
+1621	2	10542258	3	70	ne-dlg sap102
+1622	2	10542258	7	28	nedasin S
+1623	2	10542257	10	28	anti-phosphotyrosine antibodies
+1624	2	10542255	0	204	I domain
+1625	4	10542255	15	52	the alpha1 I domain
+1626	4	10542255	18	50	the alpha2 I domain
+1627	2	10542255	24	36	collagen I
+1628	4	10542255	27	34	alpha2 integrin I domain
+1629	3	10542255	32	31	echovirus 1 binding
+1630	5	10542255	33	30	enhanced collagen IV binding activity
+1631	3	10542255	34	29	I and IV
+1632	2	10542255	35	29	I domains
+1633	2	10542254	8	27	mouse ing1
+1634	2	10542253	8	29	nuclear import
+1635	2	10542252	2	98	Gs alpha
+1636	2	10542252	7	34	3t3-l1 cells
+1637	2	10542252	10	28	D M
+1638	2	10542252	15	25	cell lysates
+1639	2	10542251	2	60	sperm cells
+1640	3	10542250	3	82	collagen type I
+1641	2	10542250	7	54	sparc-null cells
+1642	2	10542250	8	51	mesangial cells
+1643	2	10542250	12	31	wild-type cells
+1644	2	10542250	14	27	E. H.
+1645	2	10542250	15	25	I mRNA
+1646	2	10542249	3	49	C ebpbeta
+1647	3	10542249	8	26	the albumin promoter
+1648	2	10542248	2	41	the VHD
+1649	2	10542248	7	30	293ebna cells
+1650	2	10542247	2	28	poly adp-ribose
+1651	2	10542246	7	48	aggregated LDL
+1652	2	10542246	8	29	methylated LDL
+1653	2	10542246	9	25	3H CE
+1654	2	10542245	1	40	collagen binding
+1655	2	10542244	3	54	ER alpha
+1656	2	10542244	5	37	bcl-2 gene
+1657	2	10542244	6	34	sp1 protein
+1658	2	10542243	3	52	IL-6 promoter
+1659	2	10542243	11	26	the IL-6
+1660	2	10542243	12	25	reporter gene
+1661	2	10542242	4	62	p42 MAPK
+1662	2	10542242	9	26	egg extracts
+1663	4	10542241	6	25	gamma delta T cells
+1664	2	10542238	10	26	ligand binding
+1665	2	10542238	11	25	G protein
+1666	4	10542238	12	25	the first extracellular loop
+1667	2	10542236	2	73	deoxyhypusine synthase
+1668	2	10542235	6	27	E. coli
+1669	2	10542234	2	40	M. tuberculosis
+1670	2	10542234	6	28	E. coli
+1671	2	10542233	7	25	G. W.
+1672	2	10542231	5	31	the SH3
+1673	2	10542231	7	26	SH3 domain
+1674	2	10542229	13	28	isotope-edited spectrum
+1675	5	10542229	14	28	the S1 to S2 transition
+1676	2	10542228	1	110	DOC-2 DAB2
+1677	2	10542228	6	26	AP-1 activity
+1678	2	10542228	7	25	protein phosphorylation
+1679	2	10542227	5	34	the hydrolysis
+1680	3	10542226	5	38	HSV 1 TK
+1681	2	10542225	4	33	PFK-2 fbpase-2
+1682	2	10542225	6	29	fru-2 6-P2
+1683	2	10542224	1	51	PTH- 1-34
+1684	2	10542224	4	31	PTH-1 receptor
+1685	2	10542224	7	28	right-arrow ala
+1686	3	10542223	7	37	the SL RNA
+1687	3	10542223	9	32	SL RNA gene
+1688	2	10542223	10	28	start site
+1689	2	10542222	4	30	SH2 domain
+1690	3	10542221	7	53	VIP and PACAP
+1691	2	10542221	8	45	IL-12 p40
+1692	2	10542221	13	35	VIP PACAP
+1693	2	10542221	18	30	LPS stimulation
+1694	2	10542221	21	27	raw 264.7
+1695	4	10542219	11	40	balb c 3T3 cells
+1696	2	10542219	16	30	phosphatase activity
+1697	2	10542219	18	28	cyclin D
+1698	2	10542218	7	39	GC box
+1699	2	10542218	8	34	the MCP-1
+1700	3	10542218	10	25	proximal regulatory region
+1701	2	10542217	2	59	Lu v13
+1702	2	10542217	4	44	Lu gp
+1703	2	10542217	6	31	the Lu
+1704	2	10542216	6	31	EcoRI endonuclease
+1705	2	10542216	8	29	ionic strength
+1706	2	10542215	2	31	glutamate transport
+1707	3	10542215	9	25	the blood-brain barrier
+1708	2	10542214	3	54	D1B receptor
+1709	2	10542214	10	30	D1A receptor
+1710	2	10542214	11	29	the TRL
+1711	2	10542214	13	27	adenylyl cyclase
+1712	3	10542214	14	27	the wild-type D1A
+1713	4	10542214	18	26	the D1A and D1B
+1714	2	10542214	19	25	chimera 1
+1715	2	10542210	3	35	5 -UTR
+1716	2	10542209	2	29	the nucleosome
+1717	2	10542208	2	57	NS3h protein
+1718	2	10542208	3	47	the helicase
+1719	2	10542208	6	28	the NS3h
+1720	2	10542207	7	38	ZDF hepatocytes
+1721	2	10542207	11	30	glycogen synthase
+1722	2	10542206	4	26	beta subunit
+1723	2	10542205	1	71	the heme
+1724	2	10542205	3	40	tyr30 b10
+1725	2	10542205	11	28	A. suum
+1726	2	10542204	9	32	classical pathway
+1727	2	10542204	11	29	alternative pathway
+1728	2	10542203	7	32	the V1
+1729	2	10542202	4	27	1 h
+1730	2	10542201	4	28	ADP Pi
+1731	2	10542200	9	27	pancreatic ducts
+1732	2	10542199	6	43	tgf-beta1-induced apoptosis
+1733	2	10542199	7	40	cell cycle
+1734	2	10542199	9	33	FaO cells
+1735	2	10542199	11	31	tgf-beta1 treatment
+1736	3	10542199	12	27	cdc2 and cdk2
+1737	2	10542199	13	25	cdk2 kinase
+1738	2	10542199	14	25	kinase activity
+1739	2	10542198	4	31	tyrosine phosphorylation
+1740	2	10542197	3	43	biotin carboxylase
+1741	2	10542196	1	72	DNA polymerase
+1742	2	10542196	10	25	UmuD RecA
+1743	2	10542196	11	25	lesion bypass
+1744	2	10542195	3	30	sulfhydryl oxidase
+1745	2	10542195	4	28	egg white
+1746	2	10531385	3	48	the MPT
+1747	2	10531385	5	44	cytochrome c
+1748	2	10531385	6	39	the mitochondria
+1749	3	10531350	5	81	group V PLA2
+1750	3	10531350	9	62	group IIA PLA2
+1751	2	10531350	12	30	BALB c
+1752	2	10531350	15	27	mouse group
+1753	2	10531350	16	27	rabbit IgG
+1754	3	10531350	18	25	low molecular weight
+1755	2	10531348	3	40	DNA damage
+1756	2	10531322	3	32	cystathionine beta-synthase
+1757	2	10531307	9	43	LHR A
+1758	2	10531307	12	35	C3 convertase
+1759	2	10531307	13	34	site 1
+1760	2	10531307	16	26	C5 convertase
+1761	2	10531307	17	26	C5 convertases
+1762	2	10531307	19	26	the CP
+1763	2	10531307	20	25	site 2
+1764	2	10531386	8	34	A. M.
+1765	2	10531384	5	44	AtCaM isoforms
+1766	2	10531384	7	35	bovine CaM
+1767	2	10531384	8	34	CaM isoforms
+1768	4	10531383	9	34	the gab1 PH domain
+1769	2	10531383	11	29	met receptor
+1770	2	10531383	12	28	the met
+1771	2	10531383	13	27	A A
+1772	2	10531383	14	27	C C
+1773	5	10531382	9	32	2- gly4 pap11 STp 4-17
+1774	5	10531382	10	32	AC5 2- gly4 pap11 STp
+1775	5	10531382	11	32	biotinyl- AC5 2- gly4 pap11
+1776	2	10531381	7	36	the EGFR
+1777	3	10531381	10	33	RING finger domain
+1778	2	10531381	11	25	c-Cbl RING
+1779	3	10531380	2	40	type III hexokinase
+1780	2	10531379	4	48	endophilin I
+1781	3	10531379	6	39	MDC9 and MDC15
+1782	2	10531378	1	80	ang II
+1783	3	10531378	11	26	the AT2 receptor
+1784	2	10531377	5	32	coenzyme b12
+1785	2	10531376	5	62	hmg2p degradation
+1786	2	10531376	6	60	squalene synthase
+1787	2	10531376	14	31	FPP synthase
+1788	2	10531375	5	38	MCF7 cells
+1789	3	10531375	6	26	DNA binding activity
+1790	2	10531374	2	93	H. pylori
+1791	3	10531374	5	31	H. pylori strains
+1792	2	10531374	7	27	AP-1 activation
+1793	2	10531374	8	27	epithelial cells
+1794	2	10531373	7	30	protein kinase
+1795	2	10531372	2	69	gbeta gamma
+1796	2	10531371	3	34	MDCK cells
+1797	2	10531369	4	29	p97 promoter
+1798	2	10531368	3	44	plasma membrane
+1799	2	10531368	7	34	the lens
+1800	3	10531368	9	30	fiber cell plasma
+1801	2	10531368	10	29	cholesterol domains
+1802	2	10531368	11	28	membrane samples
+1803	3	10531368	13	26	lens fiber cell
+1804	2	10531367	6	37	y-79 cells
+1805	2	10531367	7	35	CG cells
+1806	2	10531366	3	90	C ebpbeta
+1807	2	10531366	9	62	C ebpdelta
+1808	3	10531366	14	27	the c-fos promoter
+1809	4	10531366	16	25	the C EBP site
+1810	2	10531361	5	31	dsrna-binding domain
+1811	3	10531360	6	27	the VEGF promoter
+1812	2	10531359	4	40	iNOS expression
+1813	2	10531357	5	43	the homeodomain
+1814	2	10531356	6	29	the plasmid
+1815	3	10531355	6	32	CaM kinase II
+1816	2	10531354	1	105	secretin receptor
+1817	3	10531354	6	40	the secretin receptor
+1818	3	10531354	11	32	HEK 293 cells
+1819	2	10531354	13	29	secretin receptors
+1820	2	10531354	16	25	truncated secretin
+1821	2	10531353	5	45	motor domain
+1822	3	10531352	3	67	the alpha2 i-domain
+1823	2	10531352	4	54	the metalloproteinase
+1824	2	10531352	9	35	the MIDAS
+1825	2	10531352	10	29	the i-domain
+1826	2	10531352	11	27	collagen binding
+1827	2	10531351	2	40	pol III
+1828	2	10531349	7	30	light scattering
+1829	2	10531347	6	29	the FLAG
+1830	2	10531346	4	45	the FLAG
+1831	2	10531345	12	29	AA release
+1832	2	10531344	2	70	syt VI
+1833	2	10531344	4	61	syt videltatm
+1834	2	10531343	10	35	syt III
+1835	4	10531343	15	28	V VI and X
+1836	2	10531343	17	26	M. fukuda
+1837	2	10531343	18	26	cysteine residues
+1838	4	10531343	19	26	syts III V VI
+1839	2	10531342	1	69	L. major
+1840	2	10531341	4	46	TMD CT
+1841	2	10531341	5	45	signal peptide
+1842	2	10531341	8	30	the ER
+1843	2	10531340	4	75	H. influenzae
+1844	4	10531340	9	41	4 -32P lipid IVA
+1845	3	10531340	10	40	the kdo kinase
+1846	2	10531340	12	29	E. coli
+1847	2	10531339	8	33	the apo
+1848	2	10531339	12	28	cTnC cTnI
+1849	2	10531339	14	27	the n-domain
+1850	2	10531338	8	42	Y61G myosin-ibeta
+1851	2	10531338	10	27	wild-type myosin-ibeta
+1852	5	10531337	3	40	alpha3 betad311c R333C 3 gamma
+1853	2	10531337	7	31	beta subunits
+1854	5	10531337	8	29	betad311c R333C 3 gamma subcomplex
+1855	2	10531337	11	27	catalytic sites
+1856	2	10531336	6	42	HBV pol
+1857	2	10531336	9	33	ty1 HBVRT
+1858	2	10531336	10	31	RT reaction
+1859	2	10531336	11	28	the RT
+1860	2	10531335	4	64	heavy chains
+1861	2	10531335	10	44	HCI molecules
+1862	2	10531335	19	27	class I
+1863	2	10531334	5	29	COS-1 cells
+1864	2	10531332	2	38	the n-term
+1865	2	10531330	6	47	clamp studies
+1866	2	10531330	7	39	skeletal muscle
+1867	2	10531330	10	28	PI3K activity
+1868	2	10531330	14	27	euglycemic hyperinsulinemic
+1869	2	10531330	15	26	glucose uptake
+1870	2	10531329	3	69	cluster II
+1871	2	10531329	6	38	ligand binding
+1872	2	10531328	3	41	the BRCA1
+1873	2	10531328	6	27	minimal promoter
+1874	2	10531325	8	25	L. S.
+1875	3	10531324	3	71	GCC b10 mAb
+1876	2	10531324	8	28	water molecules
+1877	4	10531323	7	79	PYK2 cakbeta tyrosine phosphorylation
+1878	2	10531323	20	31	CCKA receptor
+1879	2	10531323	24	28	MAPK signaling
+1880	3	10531323	25	27	rat pancreatic acini
+1881	3	10531321	5	35	the inner membrane
+1882	2	10531321	8	29	the matrix
+1883	2	10531321	9	25	outer membrane
+1884	2	10531320	2	58	insulin secretion
+1885	2	10531319	14	26	Y sequence
+1886	2	10531319	18	25	ec86msrdeltaa RNA
+1887	4	10531319	19	25	the branching G residue
+1888	2	10531318	10	25	the smad3
+1889	2	10531317	2	41	MAP kinase
+1890	2	10531317	3	30	MAP kinases
+1891	2	10531317	5	27	growth factor
+1892	2	10531316	5	31	chronic hypoxia
+1893	2	10531316	7	26	PC12 cells
+1894	2	10531315	3	113	cytochrome b
+1895	3	10531315	11	48	cytochrome bc1 complex
+1896	2	10531315	12	43	center N
+1897	2	10531315	13	40	c1 reduction
+1898	2	10531315	15	35	center P
+1899	3	10531315	16	31	cytochrome b reduction
+1900	2	10531315	17	29	cytochrome c1
+1901	2	10531315	19	29	the cytochrome
+1902	2	10531315	20	29	triphasic reduction
+1903	2	10531314	3	33	AspAT Y225R
+1904	3	10531314	5	28	the wild-type enzyme
+1905	2	10531312	4	29	log V
+1906	3	10531312	5	29	miles E. W.
+1907	2	10531312	7	28	V K
+1908	3	10531312	10	25	alpha2 beta2 complex
+1909	3	10531311	5	28	cytochrome c release
+1910	2	10531309	4	47	adenylyl cyclase
+1911	2	10531309	6	41	ca2 entry
+1912	2	10531309	7	39	arachidonic acid
+1913	2	10531309	8	38	ca2 i
+1914	2	10531305	3	29	SAPK activation
+1915	2	10531304	3	33	N terminus
+1916	2	10531301	2	27	sumo-1 hydrolase
+1917	2	10521441	3	61	c16 ceramide
+1918	2	10521441	8	28	jurkat cells
+1919	2	10521441	9	27	ceramide levels
+1920	2	10521438	1	39	st6galnac V
+1921	2	10521430	7	30	protein kinase
+1922	2	10521430	8	28	insulin-induced activation
+1923	2	10521430	10	26	rat adipocytes
+1924	2	10521512	3	31	bad phosphorylation
+1925	2	10521511	8	35	granule neurons
+1926	2	10521509	5	39	G protein
+1927	2	10521509	6	32	RGS6 beta5
+1928	2	10521509	7	30	RGS7 beta5
+1929	2	10521509	8	26	beta5 complexes
+1930	2	10521508	5	45	CXCR4 internalization
+1931	2	10521508	9	40	receptor internalization
+1932	2	10521508	11	37	hek-293 cells
+1933	2	10521508	15	29	CXCR4 receptors
+1934	2	10521507	7	28	the mCCR4
+1935	2	10521507	8	27	the IAP
+1936	2	10521506	4	51	PI 3-kinase
+1937	2	10521506	6	33	MCP-1 mRNA
+1938	2	10521505	6	31	DNA binding
+1939	2	10521505	8	26	tyrosine phosphorylation
+1940	3	10521504	5	72	10 -7 M
+1941	2	10521504	12	38	PAF synthesis
+1942	2	10521504	13	38	antisense oligomers
+1943	2	10521504	14	35	protein expression
+1944	3	10521504	20	28	FBS and antibiotics
+1945	2	10521504	21	27	flk-1 protein
+1946	4	10521504	23	25	5 10 -7 M
+1947	2	10521503	1	71	endo H
+1948	3	10521503	10	26	lamp-1 and lamp-2
+1949	2	10521502	3	27	U G
+1950	2	10521501	7	43	C EBP
+1951	2	10521501	19	28	the IL-8
+1952	3	10521501	20	26	ikappabalpha S32A S36A
+1953	2	10521501	21	25	IL-8 promoter-reporter
+1954	2	10521500	7	33	pgsA overexpression
+1955	2	10521499	5	40	fusion protein
+1956	2	10521499	8	32	3H palmitate
+1957	2	10521498	4	67	scid tgfb1
+1958	3	10521497	8	47	the C2 domain
+1959	2	10521497	12	33	nmc-viii 5
+1960	3	10521496	7	26	the outer membrane
+1961	2	10521495	1	84	state transition
+1962	2	10521495	2	53	state II
+1963	2	10521495	6	47	state I
+1964	2	10521495	12	27	cytochrome b6f
+1965	2	10521494	2	81	PI 3-kinase
+1966	2	10521494	7	35	cell volume
+1967	2	10521493	7	47	exon 1
+1968	2	10521493	12	40	ha-ras gene
+1969	3	10521493	17	29	intron 1 element
+1970	2	10521493	19	26	gene expression
+1971	2	10521491	3	66	JNK SAPK
+1972	2	10521491	7	28	the DEP
+1973	2	10521491	8	26	DEP domain
+1974	2	10521489	1	55	TK promoter
+1975	2	10521489	10	25	BHK cells
+1976	3	10521489	12	25	the hamster TK
+1977	2	10521488	1	58	transcriptional activity
+1978	2	10521488	6	37	PTH PTHrP
+1979	2	10521488	8	29	CFK2 cells
+1980	2	10521488	10	26	PTHrP receptor
+1981	2	10521488	11	25	fgfr3 gene
+1982	2	10521488	12	25	the CSRh
+1983	3	10521487	4	36	BH1 his 6
+1984	5	10521484	3	55	the V H - protein
+1985	2	10521484	9	25	cell shape
+1986	3	10521484	10	25	heparin binding domain
+1987	2	10521483	6	43	SH2 domains
+1988	2	10521483	8	39	tyr P
+1989	2	10521483	10	33	SH2 domain
+1990	2	10521483	16	27	endothelial cell
+1991	3	10521482	7	40	the leucine zipper
+1992	3	10521482	8	33	leucine zipper domain
+1993	2	10521482	10	29	fusion proteins
+1994	2	10521481	7	34	MAP kinase
+1995	2	10521481	10	30	l929 cells
+1996	2	10521481	13	28	the tnf-alpha
+1997	3	10521481	14	28	tnf-alpha gene expression
+1998	2	10521479	8	40	PI 3-kinase
+1999	2	10521479	14	29	glucose uptake
+2000	4	10521478	8	53	the p38 MAP kinase
+2001	2	10521478	10	47	TFIID TBP
+2002	2	10521478	15	34	SB 203580
+2003	2	10521478	17	31	gene expression
+2004	2	10521477	4	37	the hinge
+2005	2	10521477	5	30	mutant proteins
+2006	2	10521477	8	27	DNA binding
+2007	2	10521477	9	26	gln60 right-arrow
+2008	2	10521475	14	45	binding complex
+2009	4	10521475	19	41	the betaA t-rich element
+2010	2	10521475	21	37	skeletal muscle
+2011	3	10521475	24	35	MOV-P nuclear extract
+2012	3	10521475	28	26	betaA t-rich probe
+2013	2	10521474	1	61	SRP RNA
+2014	3	10521474	6	50	poly A polymerase
+2015	2	10521474	8	40	alu RNA
+2016	2	10521474	10	30	3 -end
+2017	2	10521474	12	29	adenylic acid
+2018	2	10521473	3	38	MH-K1 chitosanase
+2019	2	10521473	6	26	n174 chitosanase
+2020	3	10521472	6	35	B. napus ENR
+2021	2	10521472	9	32	ENR A138G
+2022	2	10521472	13	25	E. coli
+2023	2	10521471	8	37	5-ht3a HEK
+2024	2	10521471	11	26	5-ht3a receptor
+2025	2	10521471	12	25	5-ht3b 5-ht3a
+2026	2	10521469	5	47	the mTMT
+2027	2	10521469	10	30	R. L.
+2028	2	10521469	13	26	mTMT transcript
+2029	2	10521467	1	36	the cyclase
+2030	3	10521467	7	27	lee H. C.
+2031	2	10521465	6	42	synovial cells
+2032	2	10521465	7	30	EDA domain
+2033	3	10521464	2	74	poly I C
+2034	2	10521464	9	31	leukocyte adhesion
+2035	2	10521463	6	33	tyrosine phosphorylation
+2036	2	10521463	8	29	293T cells
+2037	2	10521462	3	36	phoenix-a cells
+2038	2	10521462	5	29	cell lysates
+2039	2	10521461	4	51	HCV 1487-1500
+2040	3	10521461	8	31	gst-hcv polyprotein- 1189-1525
+2041	2	10521460	2	57	TGase 1
+2042	2	10521460	5	41	the TGase
+2043	2	10521460	7	36	TGase 2
+2044	2	10521459	5	30	fusion proteins
+2045	3	10521459	8	29	the cell surface
+2046	2	10521459	9	28	COS-7 cells
+2047	3	10521458	4	53	APH 3 -IIIa
+2048	2	10521457	3	65	topoisomerase II
+2049	2	10521457	5	33	the atpase
+2050	3	10521455	3	30	M. kandleri GluTR
+2051	2	10521452	10	37	293T cells
+2052	3	10521452	12	33	total cell lysates
+2053	2	10521451	2	97	DFF45 ICAD
+2054	2	10521451	4	87	DNA fragmentation
+2055	2	10521451	14	25	DFF40 CAD
+2056	2	10521450	3	65	ptdins 3-kinase
+2057	2	10521450	8	41	akt activation
+2058	2	10521450	10	33	DT40 cells
+2059	2	10521450	13	27	bcr-mediated akt
+2060	2	10521450	14	26	B cells
+2061	2	10521450	15	26	tyrosine phosphorylation
+2062	3	10521449	7	28	the caveolae fraction
+2063	2	10521448	4	37	abeta- 1-40
+2064	2	10521448	7	32	NS domains
+2065	2	10521447	3	67	AML3 cbfalpha1
+2066	2	10521447	8	37	the enhancer
+2067	3	10521446	10	28	the pdgf-induced depression
+2068	2	10521445	4	35	AP-1 activation
+2069	3	10521445	7	31	freshly fractured silica
+2070	2	10521445	8	26	AP-1 activity
+2071	2	10521444	4	47	nf-kappab activation
+2072	2	10521444	9	25	JNK activation
+2073	2	10521443	5	45	cho-r15 cells
+2074	2	10521443	10	25	traf2- 87-501
+2075	2	10521442	12	27	CaM binding
+2076	2	10521440	3	64	G protein
+2077	2	10521440	11	36	125I HPIA
+2078	2	10521440	12	36	ternary complex
+2079	3	10521440	21	29	the a1-adenosine receptor
+2080	3	10521440	24	28	the fusion protein
+2081	2	10521440	25	26	beta gamma-dimers
+2082	5	10521440	27	26	the A1 galphai-1 fusion protein
+2083	2	10521439	5	28	catalytic domain
+2084	3	10521439	7	25	the pro domain
+2085	2	10521437	6	31	TR endocytosis
+2086	2	10521436	3	45	PS II
+2087	4	10521436	6	37	synechocystis sp PCC 6803
+2088	2	10521436	9	25	the D2R8
+2089	3	10521435	6	29	the substrate binding
+2090	2	10521433	3	46	C. albicans
+2091	2	10521433	7	25	Fr Dg
+2092	2	10521432	1	51	DNA binding
+2093	2	10521432	6	34	NUDR binding
+2094	3	10521432	7	33	hnRNP A2 B1
+2095	2	10521432	9	29	NUDR protein
+2096	2	10521432	10	29	the hnRNP
+2097	3	10521432	13	25	the 5 -utrdna
+2098	2	10521431	7	47	nucleotide exchange
+2099	2	10521431	8	33	GST sope78-240
+2100	2	10521431	11	29	cdc42 deltac
+2101	2	10521431	14	26	guanine nucleotide
+2102	2	10521429	5	29	TRIII gene
+2103	3	10521429	8	27	the rat TRIII
+2104	2	10521428	3	43	site 3
+2105	2	10521428	6	28	species B
+2106	2	10521428	7	26	EPR species
+2107	2	10521428	9	25	species C
+2108	2	10521427	1	34	endopolygalacturonase II
+2109	2	10521425	4	48	bhk-glp-2r cells
+2110	3	10521425	6	46	h gly2 -glp-2
+2111	2	10521425	10	29	BHK cells
+2112	2	10521425	12	27	cell proliferation
+2113	2	10521425	14	26	GLP-2 receptor
+2114	2	10521424	2	38	human aoeb166
+2115	2	10521421	2	44	the papain
+2116	3	10521420	6	52	amino acid-depleted cells
+2117	3	10521420	9	42	amino acid depletion
+2118	3	10521420	10	36	the cat-1 mRNA
+2119	2	10521420	14	27	amino acid-fed
+2120	2	10521419	5	28	kinase activity
+2121	2	10521418	6	40	deltan-186 vav
+2122	2	10521418	12	34	transforming activity
+2123	3	10521418	15	31	the NH2 terminus
+2124	2	10521417	4	41	grp78 promoter
+2125	2	10521417	8	36	the grp78
+2126	2	10521417	10	30	YY1 binding
+2127	2	10521417	14	25	binding site
+2128	2	10521416	3	30	intron 5
+2129	2	10521415	4	39	the CC
+2130	2	10521415	5	33	proton release
+2131	2	10521415	12	25	PS II
+2132	3	10521414	4	110	Tg peptide 1
+2133	2	10521414	6	104	intact Tg
+2134	2	10521414	10	51	heparin binding
+2135	2	10521414	14	44	biotin-labeled heparin
+2136	2	10521414	21	33	rat Tg
+2137	5	10521414	24	31	the anti-tg peptide 1 antibody
+2138	4	10521414	30	26	the 210-kda Tg polypeptide
+2139	2	10521412	6	25	cytochrome c4
+2140	2	10521411	4	27	rho kinase
+2141	2	10521407	2	43	syntaxin 1A
+2142	2	10521406	3	40	neuronal differentiation
+2143	2	10521406	7	27	sh-sy5y cells
+2144	2	10521406	9	26	nf-kappab activation
+2145	2	10521405	1	44	protein synthesis
+2146	2	10514509	9	25	alpha-crystallin domain
+2147	2	10514509	10	25	human alphab-crystallin
+2148	2	10514529	6	33	cytoplasmic domain
+2149	3	10514529	11	27	F ab 2
+2150	2	10514528	2	71	MAP kinase
+2151	2	10514527	2	57	C2C12 cells
+2152	2	10514527	9	31	myotube formation
+2153	2	10514527	11	25	M. P.
+2154	2	10514527	12	25	caveolin-3 antisense
+2155	2	10514526	2	42	DNA replication
+2156	3	10514525	2	57	gene 4 protein
+2157	2	10514525	9	38	dttpase activity
+2158	3	10514525	16	30	richardson C. C.
+2159	3	10514525	17	29	T7 DNA polymerase
+2160	2	10514524	7	25	N153T D156E
+2161	2	10514522	2	79	class C
+2162	2	10514522	5	32	triton x-100
+2163	3	10514522	6	31	class C channel
+2164	3	10514522	9	29	class C channels
+2165	2	10514521	6	41	pGl p21
+2166	2	10514521	7	38	p21 promoter
+2167	2	10514521	8	32	MCT cells
+2168	2	10514521	9	30	luciferase activity
+2169	2	10514521	10	28	37 C
+2170	2	10514519	4	28	ca2 -dependent
+2171	2	10514517	5	25	nucleoside transporter
+2172	2	10514516	5	54	Tg mice
+2173	2	10514516	10	33	MAP kinase
+2174	2	10514516	11	31	non-tg mice
+2175	2	10514515	8	41	urea transporter
+2176	2	10514515	10	29	urea transport
+2177	2	10514515	11	27	water permeability
+2178	2	10514514	8	32	tyrosine phosphorylation
+2179	2	10514512	0	53	3 -UTR
+2180	2	10514512	4	31	THP-1 cells
+2181	2	10514511	6	43	nf-kappab activation
+2182	2	10514511	7	40	cell death
+2183	3	10514511	12	26	HEK 293T cells
+2184	3	10514510	3	41	ang1 and ang2
+2185	2	10514510	4	30	coiled coil
+2186	2	10514508	5	41	nuclear extracts
+2187	2	10514508	11	27	deltaose1 oligonucleotide
+2188	2	10514507	8	29	EGFR signaling
+2189	2	10514507	9	29	rate constants
+2190	2	10514507	10	29	time course
+2191	2	10514506	2	52	MLC phosphorylation
+2192	2	10514506	7	37	matrix contraction
+2193	3	10514505	8	37	32D epor-wt cells
+2194	2	10514505	10	29	elk-1 activation
+2195	2	10514505	14	28	epo-induced activation
+2196	2	10514504	7	28	c-terminal tail
+2197	2	10514504	9	28	the rgnrh-r
+2198	2	10514503	7	55	anchorage-independent growth
+2199	2	10514503	8	44	NRK cells
+2200	2	10514503	9	44	surface expression
+2201	3	10514503	10	40	alpha5 beta1 integrin
+2202	2	10514501	1	33	the p38
+2203	2	10514500	7	43	serine 19
+2204	3	10514500	8	32	smooth muscle MLCP
+2205	2	10514500	9	29	the dephosphorylation
+2206	2	10514499	5	32	alpha-ser P
+2207	2	10514499	6	31	antibody binding
+2208	2	10514499	10	30	smooth muscle
+2209	2	10514499	11	29	P 789
+2210	2	10514499	12	28	P 759
+2211	2	10514498	5	35	TH gene
+2212	2	10514498	12	25	prcvhl wt
+2213	2	10514497	10	28	nitric-oxide synthase
+2214	2	10514496	6	32	his 6-exox
+2215	2	10514496	12	25	E. coli
+2216	2	10514495	4	42	UMR 106-01
+2217	3	10514495	9	33	125i-labeled rat collagenase-3
+2218	2	10514494	5	26	cytosolic domain
+2219	2	10514493	4	52	ntr-1 gene
+2220	2	10514493	6	46	n1e-115 cells
+2221	2	10514493	12	34	basal expression
+2222	2	10514493	13	34	the mPAL
+2223	2	10514493	14	31	Me2SO induction
+2224	2	10514493	17	25	CACCC box
+2225	2	10514492	2	43	leptin receptor
+2226	2	10514492	4	36	cho-obrl cells
+2227	2	10514492	7	30	socs-3 mRNA
+2228	2	10514491	4	27	plc1 delta
+2229	2	10514490	6	67	rhinovirus infection
+2230	2	10514490	12	41	rhinovirus induction
+2231	3	10514490	13	40	the vcam-1 promoter
+2232	2	10514490	14	37	a549 cells
+2233	3	10514490	15	34	respiratory epithelial cells
+2234	2	10514490	16	33	vcam-1 mRNA
+2235	2	10514490	17	31	vcam-1 expression
+2236	2	10514490	20	27	rhinovirus 16
+2237	3	10514490	23	25	vcam-1 promoter activity
+2238	3	10514489	1	42	amino acid sequence
+2239	2	10514489	3	38	stratum corneum
+2240	2	10514489	6	28	molecular mass
+2241	2	10514488	4	35	ob ob
+2242	2	10514486	4	31	sulfotransferase activity
+2243	2	10514485	4	44	prelamin A
+2244	2	10514485	12	25	lamin A
+2245	2	10514483	3	53	H1 receptor
+2246	2	10514483	4	52	the H1
+2247	2	10514483	5	46	right-arrow ala
+2248	2	10514483	8	40	H1 antagonists
+2249	2	10514483	12	33	lys200 right-arrow
+2250	2	10514483	15	32	3H mepyramine
+2251	2	10514483	20	25	right-arrow met
+2252	3	10514482	10	46	the gp91phox promoter
+2253	3	10514482	13	34	the BID complex
+2254	3	10514482	18	26	the -145 core
+2255	2	10514481	4	79	oncogenic ras
+2256	3	10514481	12	31	nf-kappab transcription activity
+2257	3	10514481	14	27	NIH 3T3 iRas
+2258	2	10514480	6	30	rho-pth- 1-34
+2259	2	10514479	5	32	U2OS cells
+2260	2	10514479	6	30	S phase
+2261	2	10514479	8	25	G1 phase
+2262	3	10514478	8	35	the dipole potential
+2263	2	10514478	13	25	PC PE
+2264	2	10514476	1	83	beta chain
+2265	2	10514476	2	59	alpha chain
+2266	2	10514472	2	75	cytochrome c
+2267	2	10514472	5	53	rho0 cells
+2268	2	10514472	6	41	delta psim
+2269	2	10514469	10	26	the SRP
+2270	2	10514469	11	25	E. coli
+2271	2	10514468	12	25	stat5b inhibition
+2272	2	10514467	1	49	m z
+2273	2	10514467	4	38	seminal plasma
+2274	3	10514467	17	25	male genital tract
+2275	2	10514466	1	51	cpsase III
+2276	2	10514464	4	31	cytochalasin B
+2277	2	10514463	3	78	exon 5
+2278	4	10514463	5	65	exon 2 3 4
+2279	2	10514463	7	54	SR proteins
+2280	2	10514463	11	34	exon 6
+2281	3	10514463	13	29	exons 2 3
+2282	3	10514463	14	28	SR protein binding
+2283	2	10514463	17	26	the SR
+2284	2	10514462	2	33	hydrogen peroxide
+2285	2	10514462	4	29	bcl-2 expression
+2286	2	10514462	5	29	daudi cells
+2287	2	10514462	8	25	NAD P
+2288	2	10514461	1	62	A2 subunit
+2289	2	10514461	3	51	factor IXa
+2290	2	10514461	5	40	factor VIII
+2291	2	10514461	6	29	the A2
+2292	2	10514461	8	27	factor VIIIa
+2293	3	10514460	6	34	the beta4 subunit
+2294	2	10514460	8	32	caco-2 15
+2295	2	10514459	3	51	nuclear import
+2296	2	10514459	6	25	3T3 cells
+2297	2	10514457	3	60	alphat3-1 cells
+2298	2	10514457	6	45	ERK activation
+2299	2	10514457	10	33	Bay-K 8644
+2300	2	10514457	17	26	calcium influx
+2301	2	10514456	3	37	the FPR
+2302	2	10514454	6	39	zr75-1 cells
+2303	2	10514454	12	27	AP-1 activity
+2304	2	10514453	4	43	C. tepidum
+2305	2	10514452	4	41	m z
+2306	2	10514451	13	27	BH4 oxidation
+2307	2	10514449	4	30	protein synthesis
+2308	2	10514449	5	26	mutant-type cybrids
+2309	2	10514448	3	42	DNA cleavage
+2310	2	10514448	6	26	araC residues
+2311	2	10514447	2	59	ldl-ce-selective uptake
+2312	2	10514447	8	35	COS-7 cells
+2313	2	10514447	10	29	selective uptake
+2314	2	10514446	9	28	tyrosyl residues
+2315	2	10514446	10	27	sulfhydryl groups
+2316	2	10514446	11	27	tyrosine nitration
+2317	2	10514445	1	56	MAT II
+2318	2	10514445	3	36	COS-1 cells
+2319	2	10514445	6	32	beta subunit
+2320	2	10514445	7	27	II alpha2
+2321	3	10514444	4	49	class II ADH
+2322	3	10514444	6	29	mouse class II
+2323	2	10514443	11	31	fusion protein
+2324	2	10514443	12	29	E. coli
+2325	3	10514443	14	28	VIII and IX
+2326	3	10514440	4	49	RGS2 mRNA levels
+2327	3	10514440	7	33	protein kinase C
+2328	2	10514439	3	52	PC species
+2329	3	10514439	6	30	the cdp-choline pathway
+2330	3	10514438	5	38	the cdc2 promoter
+2331	2	10514437	7	37	cell transformation
+2332	2	10514437	9	27	Cl 41
+2333	3	10514437	11	25	dominant negative JNK1
+2334	2	10514436	1	66	PC12 cells
+2335	2	10514436	4	56	neurite outgrowth
+2336	2	10514435	2	122	C. elegans
+2337	2	10514435	11	38	GATA elements
+2338	2	10514435	12	38	mtl-2 lacZ
+2339	2	10514435	14	34	intestinal cells
+2340	2	10514435	16	28	MT transcription
+2341	3	10514435	19	27	mtl-1 and mtl-2
+2342	3	10514435	20	25	C. elegans MT
+2343	2	10514435	21	25	mtl-2 transcription
+2344	3	10514434	10	30	the switch I
+2345	2	10514432	5	42	IgG subclasses
+2346	2	10514432	12	27	table I
+2347	2	10514430	1	36	lipid A
+2348	2	10514429	7	49	chl b
+2349	2	10514429	8	46	chl a
+2350	2	10514429	10	38	the LHCII
+2351	2	10514429	12	31	LHCII control
+2352	2	10514429	13	30	LHCII lutein
+2353	2	10514429	16	29	the chl
+2354	2	10514428	2	40	plasma membrane
+2355	2	10514427	1	47	B2 receptor
+2356	3	10514426	3	27	JNK and p38
+2357	2	10514425	2	48	JNK activation
+2358	2	10506219	3	60	inhibitory region
+2359	2	10506219	8	35	the TnI
+2360	2	10506219	9	34	atpase activity
+2361	2	10506219	10	28	the ca2
+2362	2	10506215	5	35	BH4 domain
+2363	4	10506143	8	57	the jnkk2-jnk1 fusion protein
+2364	3	10506225	6	46	the p21 promoter
+2365	2	10506225	10	33	HepG2 cells
+2366	2	10506222	7	30	TG mice
+2367	2	10506222	10	26	high copy
+2368	2	10506221	5	47	MCF-7 cells
+2369	2	10506221	10	25	D- trp8
+2370	2	10506220	4	35	flagellar pocket
+2371	3	10506220	6	30	the flagellar membrane
+2372	2	10506220	8	26	flagellar targeting
+2373	2	10506218	3	57	ca2 i
+2374	2	10506218	4	53	endothelial cells
+2375	3	10506218	7	32	Na ca2 exchange
+2376	2	10506218	9	26	ca2 entry
+2377	2	10506217	13	27	the m2
+2378	2	10506216	9	32	shank proteins
+2379	2	10506213	7	31	IF proteins
+2380	2	10506213	8	27	R. M.
+2381	2	10506213	10	26	IF protein
+2382	2	10506213	12	25	rod domain
+2383	2	10506212	4	33	membrane-spanning regions
+2384	2	10506211	3	25	DNA binding
+2385	2	10506210	4	36	G1 S
+2386	2	10506208	1	83	rad54 protein
+2387	2	10506208	3	52	the rad54
+2388	2	10506208	7	41	rad54 K341R
+2389	2	10506208	9	38	rad54 K341A
+2390	2	10506207	7	34	DNA binding
+2391	2	10506207	9	34	the ets
+2392	2	10506207	14	30	the PSP
+2393	3	10506207	16	26	ESE-1 and ESE-2
+2394	2	10506207	19	25	ets site
+2395	2	10506207	20	25	salivary gland
+2396	4	10506206	4	94	myosin light chain kinase
+2397	2	10506206	6	59	smooth muscle
+2398	4	10506206	8	26	muscle myosin light chain
+2399	2	10506203	3	102	l127delta NifH
+2400	2	10506203	5	55	femo-co synthesis
+2401	2	10506203	9	26	wild-type NifH
+2402	2	10506202	4	57	c-fos responses
+2403	2	10506202	6	38	D3 receptors
+2404	2	10506202	8	31	D2 D3
+2405	3	10506202	9	28	D2 and D3
+2406	2	10506202	10	28	single mutants
+2407	2	10506201	5	29	electron transfer
+2408	2	10506200	8	37	FS cDNA
+2409	2	10506200	9	37	the canine
+2410	3	10506200	10	35	the human FS
+2411	2	10506200	12	26	forssman glycolipid
+2412	2	10506200	13	25	canine FS
+2413	2	10506199	8	30	the mouse
+2414	2	10506197	2	42	orphan receptors
+2415	2	10506197	9	31	nuclear orphan
+2416	2	10506197	14	26	probe 62
+2417	2	10506196	7	33	the ssu
+2418	2	10506196	11	25	E. coli
+2419	2	10506194	2	127	l-90 cells
+2420	2	10506194	9	50	CHO cells
+2421	2	10506194	11	31	LPDS medium
+2422	2	10506193	8	46	the h19
+2423	2	10506193	10	45	wilms tumors
+2424	2	10506193	14	28	wilms tumor
+2425	2	10506193	16	26	maternal alleles
+2426	2	10506193	18	25	imprinting mark
+2427	2	10506192	4	50	T cells
+2428	2	10506192	9	29	jurkat T
+2429	2	10506192	10	28	itk activation
+2430	2	10506192	15	26	tyrosine phosphorylation
+2431	2	10506192	16	25	T cell
+2432	3	10506192	17	25	the plasma membrane
+2433	2	10506191	4	43	SH2 domains
+2434	2	10506191	5	42	ca2 release
+2435	2	10506191	7	31	src family
+2436	2	10506190	2	77	gbeta gamma
+2437	2	10506190	6	26	PI-4 5-P2
+2438	2	10506190	7	26	kinase activity
+2439	2	10506189	2	34	hsa-dom II
+2440	2	10506189	3	33	hsa-dom I
+2441	2	10506189	4	33	hsa-dom III
+2442	2	10506189	6	29	binding site
+2443	2	10506188	4	57	m15 cells
+2444	2	10506188	9	38	cytochrome c
+2445	2	10506188	10	36	L9 cells
+2446	2	10506188	12	32	mitochondrial PHGPx
+2447	2	10506185	2	55	the met
+2448	2	10506184	6	64	iNOS expression
+2449	2	10506184	8	57	rat islets
+2450	2	10506184	12	51	150 units
+2451	2	10506184	17	34	1.0 unit
+2452	2	10506184	23	27	nitrite formation
+2453	2	10506184	25	26	il-1-induced iNOS
+2454	2	10506184	28	25	ifn-gamma primes
+2455	2	10506184	30	25	the priming
+2456	2	10506183	5	25	L. A.
+2457	2	10506182	4	35	disintegrin domain
+2458	2	10506182	11	26	lymph node
+2459	2	10506181	5	31	smooth muscle
+2460	3	10506180	5	46	P. putida U
+2461	2	10506180	11	30	carbon atoms
+2462	2	10506179	3	43	extracellular domains
+2463	3	10506179	5	32	tbetari and tbetarii
+2464	2	10506179	7	29	receptor complex
+2465	2	10506179	8	25	extracellular domain
+2466	2	10506177	3	43	the nucleus
+2467	2	10506177	6	31	nuclear localization
+2468	2	10506177	7	31	the cytoplasm
+2469	2	10506176	4	28	the dfak56
+2470	3	10506175	8	30	man alpha1-o Me
+2471	2	10506174	4	71	rom D2
+2472	2	10506174	5	52	the rds
+2473	3	10506174	10	26	rds and rom1
+2474	2	10506174	11	25	rds D2
+2475	3	10506173	6	31	prostatic acid phosphatase
+2476	2	10506173	7	27	v v
+2477	2	10506172	7	29	high speed
+2478	2	10506172	8	28	actin filaments
+2479	2	10506172	10	26	the actin
+2480	2	10506171	9	33	the fluorophore
+2481	2	10506171	16	27	the emission
+2482	2	10506170	7	40	the downstream
+2483	2	10506170	10	29	the termination
+2484	2	10506170	11	29	the upstream
+2485	2	10506170	14	27	termination site
+2486	2	10506169	6	52	COX-2 mRNA
+2487	2	10506169	7	48	NHEK cells
+2488	2	10506169	8	33	the induction
+2489	2	10506169	9	26	COX-2 expression
+2490	2	10506168	5	46	the MMP-2
+2491	3	10506168	9	34	MMP-2 promoter activity
+2492	2	10506168	13	27	astroglioma cells
+2493	2	10506168	14	25	human MMP-2
+2494	2	10506167	6	32	amino terminus
+2495	2	10506167	7	32	fusion protein
+2496	2	10506167	9	29	fusion proteins
+2497	2	10506167	11	29	transmembrane segments
+2498	2	10506165	4	48	platelet aggregation
+2499	2	10506165	6	46	Ro 31-8220
+2500	2	10506165	12	27	shape change
+2501	2	10506163	4	36	Bi EDTA
+2502	2	10506162	8	37	loop 199-204
+2503	2	10506162	10	33	normal FIXa
+2504	2	10506162	12	29	fixa199-204 FII
+2505	2	10506161	7	27	the ET
+2506	2	10506160	4	56	zinc finger
+2507	3	10506160	10	32	ssDNA binding activity
+2508	3	10506160	13	28	DNA binding activity
+2509	2	10506158	2	54	H9C2 cells
+2510	2	10506157	6	33	hydrophobic amino
+2511	2	10506157	7	33	side chain
+2512	2	10506157	8	30	riialpha binding
+2513	2	10506157	9	29	domain B
+2514	2	10506156	6	27	glucosylated rho
+2515	2	10506155	7	30	NCAM 120
+2516	2	10506155	10	25	gpi-anchored proteins
+2517	4	10506153	6	39	nab2p and nab4p hrp1p
+2518	2	10506153	11	28	the nucleus
+2519	2	10506152	3	51	acinar cells
+2520	3	10506152	10	39	Na H exchanger
+2521	3	10506152	14	26	intracellular pH recovery
+2522	2	10506150	5	31	schiff base
+2523	2	10506150	6	27	K142A mutant
+2524	2	10506150	9	25	the MutY
+2525	2	10506149	4	39	transport activity
+2526	2	10506149	10	26	alanine transport
+2527	3	10506149	12	26	the 4F2hc 4f2-lc6
+2528	2	10506148	6	33	the switch
+2529	2	10506148	10	25	switch II
+2530	2	10506147	2	109	hnRNP K
+2531	3	10506147	11	25	anti-hnrnp K serum
+2532	2	10506145	6	40	JNK SAPK
+2533	2	10506145	8	36	sertoli cells
+2534	3	10506144	4	30	drosophila pol gamma
+2535	2	10506142	6	43	5-15N glutamine
+2536	2	10506142	13	30	2-15N glutamine
+2537	2	10506142	17	28	g -1
+2538	2	10506142	20	25	15N enrichment
+2539	3	10506141	3	53	pax-6 and cdx-2
+2540	2	10506141	9	28	proglucagon gene
+2541	3	10506140	4	92	PKC apl I
+2542	2	10506140	6	45	threonine 613
+2543	2	10506140	9	25	anti-apl I-P
+2544	2	10506138	6	26	ATP sulfurylase
+2545	2	10506137	0	50	system A
+2546	2	10506137	5	30	amino acid-free
+2547	2	10506137	6	29	ERK1 2
+2548	2	10506137	8	25	human fibroblasts
+2549	2	10506135	3	37	the v-atpase
+2550	2	10506135	4	31	subunit H
+2551	2	10506135	7	25	subunits C
+2552	2	10506134	4	43	beta2ar down-regulation
+2553	2	10506134	6	36	L cells
+2554	2	10506134	7	34	binding sites
+2555	3	10506132	4	28	fricker L. D.
+2556	2	10506131	1	60	side chain
+2557	2	10506131	6	38	d7.49 318
+2558	3	10506131	9	30	the GnRH receptor
+2559	2	10506131	10	26	the H2
+2560	2	10506129	5	53	RNA triphosphatase
+2561	3	10506129	9	32	cet1 201-549 p
+2562	2	10506129	15	26	triphosphatase activity
+2563	2	10506128	3	29	T cell
+2564	2	10506125	2	76	cytochrome c
+2565	2	10497257	4	71	MAP kinase
+2566	2	10497257	5	71	hb-egftmha myc
+2567	3	10497257	9	28	MAP kinase activation
+2568	2	10497257	14	25	deltaraf-1 ER
+2569	2	10497257	15	25	growth factor
+2570	2	10497255	6	37	IRS proteins
+2571	2	10497255	9	30	ser thr
+2572	2	10497255	11	26	insulin receptor
+2573	2	10497254	7	25	cell death
+2574	2	10497252	3	57	the MXI1
+2575	2	10497252	4	53	promoter activity
+2576	2	10497252	6	44	MXI1 promoter
+2577	3	10497251	4	39	cyclin D1 gene
+2578	3	10497251	10	27	rat cyclin D1
+2579	4	10497249	7	29	udp-glcnac 2-epimerase mannac kinase
+2580	3	10497248	6	34	the ER membrane
+2581	2	10497248	14	25	hek-293 cells
+2582	3	10497248	15	25	the FLAG epitope
+2583	2	10497247	7	28	M. thermoautotrophicum
+2584	2	10497247	8	27	exonuclease activity
+2585	3	10497245	8	28	B - 138-594
+2586	3	10497245	11	25	the SUP4 gene
+2587	2	10497244	3	71	PH domain
+2588	3	10497244	9	26	nh2-terminal PH domain
+2589	2	10497243	1	69	cardosin A
+2590	2	10497241	3	49	the AHR
+2591	2	10497241	6	32	AHR protein
+2592	2	10497241	8	25	TCDD 2
+2593	3	10497240	8	43	the JunB promoter
+2594	2	10497240	9	41	M1 cells
+2595	2	10497240	15	28	HepG2 cells
+2596	2	10497240	16	28	the IL-6
+2597	2	10497240	18	25	IL-6 response
+2598	4	10497240	20	25	the -65 -52 il-6re
+2599	2	10497239	3	47	the E2A
+2600	2	10497239	8	31	degradation domain
+2601	2	10497239	9	29	e47delta 478-531
+2602	2	10497238	4	45	delta51 cells
+2603	2	10497238	5	34	ca2 i
+2604	2	10497238	7	28	the delta51
+2605	2	10497237	1	61	clone 17a
+2606	2	10497237	6	25	B2 sequences
+2607	2	10497236	6	29	PS2 D366A
+2608	2	10497236	7	28	the PS2
+2609	2	10497235	2	124	triadin 1
+2610	3	10497235	11	35	cardiac triadin 1
+2611	3	10497235	14	28	canine cardiac triadin
+2612	2	10497235	15	25	cardiac microsomes
+2613	3	10497235	18	25	skeletal muscle triadin
+2614	2	10497235	19	25	triadin 3
+2615	2	10497234	6	35	protein secretion
+2616	2	10497234	7	34	protein transit
+2617	2	10497233	6	41	mRNA levels
+2618	2	10497233	9	30	GLN deprivation
+2619	2	10497233	10	30	TSE cells
+2620	3	10497233	11	29	gadd45 and gadd153
+2621	2	10497233	12	28	gadd153 mRNA
+2622	2	10497233	15	26	gln-free medium
+2623	3	10497232	8	35	the insulin receptor
+2624	2	10497231	6	28	CSF1R IR
+2625	3	10497231	7	27	the CSF1R irdelta960
+2626	2	10497229	6	32	pye352 scmfe-2
+2627	2	10497229	7	30	Ct MFE-2
+2628	2	10497228	6	59	the hydrolysis
+2629	3	10497228	12	41	the mouse sequence
+2630	3	10497228	15	31	the human sequence
+2631	2	10497228	18	28	GA2 HexA
+2632	2	10497227	4	28	NQO9 subunit
+2633	3	10497227	6	27	the P. denitrificans
+2634	3	10497227	7	25	P. denitrificans NDH-1
+2635	2	10497227	8	25	the NQO9
+2636	3	10497226	4	42	the NQO9 subunit
+2637	2	10497226	8	28	iron-sulfur clusters
+2638	2	10497225	9	25	RI N
+2639	2	10497225	11	25	topological domain
+2640	2	10497224	2	54	ku-80 cells
+2641	2	10497224	3	45	MT-I promoter
+2642	2	10497223	3	59	alphaiib beta3
+2643	2	10497223	6	29	cytoplasmic tail
+2644	2	10497222	4	46	the pkc-eta
+2645	2	10497222	9	34	pkc-eta gene
+2646	3	10497220	12	28	the srd-13a cells
+2647	3	10497220	15	25	brown M. S.
+2648	2	10497219	4	25	beta cells
+2649	2	10497218	1	40	the nucleus
+2650	3	10497216	9	30	HPV gene expression
+2651	2	10497216	10	30	expression vector
+2652	2	10497216	12	27	SiHa cells
+2653	3	10497214	7	43	UACC 1227 cells
+2654	2	10497214	9	31	a375 cells
+2655	2	10497214	11	25	kinase activity
+2656	2	10497213	10	25	metal-binding domain
+2657	2	10497211	9	32	Na current
+2658	2	10497211	10	31	the pore
+2659	2	10497209	9	44	breast muscle
+2660	2	10497209	13	35	skeletal muscle
+2661	2	10497209	16	31	pointed ends
+2662	2	10497209	18	29	V. M.
+2663	4	10497208	7	77	trx1 delta trx2 delta
+2664	2	10497208	10	33	delta mutant
+2665	2	10497208	12	29	the yap1
+2666	3	10497208	14	27	the trx1 delta
+2667	2	10497208	15	26	yap1 delta
+2668	2	10497206	4	41	the c-lobe
+2669	2	10497206	8	29	the n-lobe
+2670	3	10497203	1	43	L- 14C lactate
+2671	2	10497202	3	46	coreceptor activity
+2672	2	10497202	9	25	the N-ED
+2673	2	10497200	2	49	oxidized LDL
+2674	2	10497200	5	39	m z
+2675	2	10497200	9	28	PAF receptor
+2676	2	10497199	4	45	the GlRE
+2677	2	10497199	6	36	the L-PK
+2678	2	10497198	4	49	poly adp-ribose
+2679	2	10497198	8	25	PARP cleavage
+2680	3	10497197	7	42	swiss 3T3 cells
+2681	2	10497197	10	37	rozengurt E.
+2682	2	10497197	14	34	tyrosine phosphorylation
+2683	3	10497197	17	32	FAK src association
+2684	2	10497197	18	31	complex formation
+2685	2	10497197	20	31	western blotting
+2686	3	10497197	21	29	FAK and src
+2687	2	10497196	1	85	troponin T
+2688	2	10497196	6	32	the troponin
+2689	2	10497196	7	31	thin filament
+2690	2	10497196	8	30	cardiac troponin
+2691	2	10497196	13	25	thin filaments
+2692	2	10497195	4	30	subdomain IV
+2693	2	10497194	3	27	epsilon subunit
+2694	2	10497193	10	27	the ca2
+2695	2	10497193	11	26	ATP hydrolysis
+2696	2	10497193	12	26	ca2 -atpase
+2697	2	10497193	15	25	the vesicles
+2698	2	10497192	5	42	the alphapdgfr
+2699	2	10497192	8	31	signaling enzymes
+2700	2	10497192	10	28	DNA synthesis
+2701	2	10497192	11	28	the WT
+2702	2	10497189	4	29	mAb 12
+2703	2	10497187	4	30	jurkat T
+2704	2	10497187	5	27	70-kda protein
+2705	2	10497187	6	26	T cells
+2706	2	10497187	8	26	the 70-kda
+2707	2	10497186	1	111	shape change
+2708	3	10497186	11	42	platelet shape change
+2709	4	10497186	13	37	myosin light chain phosphorylation
+2710	3	10497186	14	34	5 5 -dimethyl-bapta
+2711	2	10497186	16	32	cytosolic ca2
+2712	2	10497186	17	25	HA 1077
+2713	2	10497185	5	44	u937 cells
+2714	2	10497184	1	89	bpV phen
+2715	2	10497184	3	58	GS activation
+2716	2	10497184	6	47	PKB akt
+2717	3	10497184	12	36	PKC zeta lambda
+2718	3	10497183	7	56	human RNase H1
+2719	2	10497183	10	33	RNase H
+2720	4	10497183	17	26	E. coli RNase H1
+2721	2	10497182	4	33	LTA4 metabolites
+2722	2	10497182	6	29	human neutrophils
+2723	2	10497181	11	34	mice fed
+2724	3	10497181	13	33	low Pi diet
+2725	3	10497181	14	33	the NPT2 gene
+2726	2	10497181	18	27	fed a
+2727	3	10497181	19	26	a low Pi
+2728	2	10497180	4	46	cleavage sites
+2729	2	10497180	5	43	the human
+2730	2	10497180	8	40	DNA cleavage
+2731	2	10497180	10	31	the yeast
+2732	2	10497180	13	25	human top2alpha
+2733	2	10497179	2	47	GLN domain
+2734	2	10497179	6	34	E. coli
+2735	2	10497179	14	27	carbamoyl phosphate
+2736	2	10497179	15	26	the GLN
+2737	2	10497178	14	25	peroxidase activity
+2738	2	10497177	6	60	FXa tfpifl
+2739	2	10497177	9	44	TF PSPC
+2740	2	10497177	11	41	TF FVIIa
+2741	2	10497177	13	40	FXa generation
+2742	2	10497177	14	34	FX activation
+2743	2	10497177	17	31	TF PC
+2744	2	10497177	18	29	FXa tfpi1-161
+2745	2	10497177	19	29	the TF
+2746	2	10497177	21	27	FXa TFPI
+2747	3	10497176	4	80	linoleate diol synthase
+2748	2	10497176	7	41	PGH synthases
+2749	2	10497175	0	37	15 S
+2750	3	10497175	4	26	pace-asciak C. R.
+2751	2	10497173	6	30	full-size heparin
+2752	2	10497173	8	27	extracellular tat
+2753	2	10497173	9	26	3H heparin
+2754	2	10497173	10	26	immobilized gst-tat
+2755	2	10497172	1	85	SPase II
+2756	2	10497172	3	43	B. subtilis
+2757	3	10497172	5	32	type II spases
+2758	3	10497170	9	49	wild type RT
+2759	3	10497170	13	31	the primer grip
+2760	2	10497170	15	27	T. A.
+2761	2	10497170	17	26	mismatch extension
+2762	2	10497168	5	68	horseradish peroxidase
+2763	2	10497168	8	50	oxygen consumption
+2764	3	10497167	5	77	brown fat mitochondria
+2765	2	10497167	7	59	ucp1-ablated mice
+2766	3	10497167	13	35	free fatty acids
+2767	2	10497167	14	34	membrane potential
+2768	3	10497167	18	26	brown adipose tissue
+2769	2	10497167	19	25	the mitochondria
+2770	2	10497166	4	55	factor Xa
+2771	2	10497166	15	28	rate constants
+2772	2	10497166	16	25	S. T.
+2773	2	10497165	3	39	the ca2
+2774	2	10497163	4	29	phospholipase B
+2775	2	10497162	8	36	phospholipid flip-flop
+2776	2	10497162	11	30	PS appearance
+2777	2	10497160	5	36	low affinity
+2778	3	10497160	7	34	the high affinity
+2779	2	10497160	8	31	affinity adomet
+2780	2	10497160	12	25	adomet permease
+2781	3	10497159	7	49	the plasma membrane
+2782	2	10497159	9	40	BoNT E
+2783	2	10497159	11	38	3t3-l1 adipocytes
+2784	2	10497159	15	27	GLUT4 translocation
+2785	2	10497159	16	25	BoNT B
+2786	3	10497158	7	31	DnaK DnaJ GrpE
+2787	2	10497156	5	30	the HBV
+2788	2	10497156	6	28	isre-like sequence
+2789	2	10497155	3	44	head domain
+2790	2	10497155	5	29	talin head
+2791	2	10497152	2	48	DNA replication
+2792	3	10497152	8	26	lehman I. R.
+2793	2	10488081	3	39	NB cells
+2794	2	10488157	10	28	the shb
+2795	2	10488157	12	26	SH2 domain
+2796	2	10488156	3	32	wild-type p53
+2797	2	10488155	3	41	alpha-exon inclusion
+2798	2	10488155	4	34	the alpha-exon
+2799	2	10488155	7	26	snb-19 cells
+2800	2	10488154	6	34	gene expression
+2801	3	10488154	9	30	cooper T. G.
+2802	2	10488154	14	25	GATA sequences
+2803	2	10488153	4	39	hHR23 proteins
+2804	3	10488153	7	30	26 S proteasome
+2805	2	10488151	5	30	platelet membranes
+2806	2	10488150	2	76	gag protein
+2807	2	10488150	4	28	the gag
+2808	2	10488149	2	134	smooth muscle
+2809	3	10488149	7	41	smooth muscle cells
+2810	2	10488149	10	32	sarcoglycan complex
+2811	2	10488149	11	29	muscle DGC
+2812	2	10488149	12	29	skeletal muscle
+2813	2	10488149	14	27	K. P.
+2814	3	10488149	16	27	the smooth muscle
+2815	3	10488148	7	37	the HIV-1 LTR
+2816	3	10488148	12	25	HIV-1 gene expression
+2817	2	10488146	5	41	serine phosphorylation
+2818	2	10488146	7	35	tyrosine phosphorylation
+2819	2	10488146	10	30	irs-1- 511-772
+2820	3	10488144	5	29	myr 1 2
+2821	3	10488144	7	25	nck SH3 domains
+2822	2	10488143	3	38	triton x-100
+2823	2	10488143	4	35	CDase activity
+2824	3	10488141	3	46	G protein coupling
+2825	2	10488140	5	81	apoE secretion
+2826	2	10488140	7	55	cholesterol efflux
+2827	2	10488140	11	25	24 h
+2828	4	10488139	7	71	the hBRIE 380i cells
+2829	2	10488139	18	27	epithelial cells
+2830	2	10488138	6	36	INS-1 cells
+2831	2	10488138	8	32	oxidative stress
+2832	2	10488138	11	27	insulin secretion
+2833	2	10488138	13	26	delta psim
+2834	2	10488137	4	37	glycosylation site
+2835	2	10488137	5	35	the ER
+2836	2	10488137	8	28	COS-7 cells
+2837	2	10488136	5	28	the nucleus
+2838	2	10488135	1	27	molecular weight
+2839	3	10488134	15	32	the cell-surface-expressed nucleolin
+2840	2	10488134	17	30	HIV attachment
+2841	2	10488134	18	30	HIV-1 lai
+2842	2	10488134	19	30	V3 loop
+2843	2	10488134	22	27	cell surface
+2844	2	10488134	24	25	HeLa P4
+2845	3	10488132	9	28	hgralpha and hgrbeta
+2846	2	10488132	15	25	COS-1 cells
+2847	3	10488132	16	25	dominant negative activity
+2848	2	10488131	1	82	heat shock
+2849	2	10488130	9	27	PalF cells
+2850	3	10488130	11	26	the BPV-4 promoter
+2851	2	10488129	5	41	cell cycle
+2852	2	10488129	11	27	the PCNA
+2853	2	10488128	3	40	ctk1 delta
+2854	2	10488128	7	27	CTD phosphorylation
+2855	3	10488127	9	29	the resultant plasmid
+2856	2	10488127	11	28	oda K.
+2857	3	10488127	13	25	a sense primer
+2858	2	10488127	14	25	antisense primer
+2859	2	10488126	2	86	DHFR mRNA
+2860	2	10488126	5	42	polyadenylation site
+2861	2	10488125	5	31	nitrite transport
+2862	2	10488125	6	31	nrt2 3
+2863	2	10488125	8	26	strain D2
+2864	2	10488125	9	26	transport activity
+2865	2	10488125	11	25	system III
+2866	2	10488124	11	36	MTP activity
+2867	2	10488124	13	26	3H TG
+2868	2	10488124	15	25	VLDL assembly
+2869	2	10488123	3	39	HL-60 cells
+2870	3	10488123	5	31	1alpha 25- OH
+2871	2	10488122	4	54	sf9 cells
+2872	2	10488122	7	37	lysophosphatidic acid
+2873	2	10488121	5	69	PKB akt
+2874	2	10488121	8	62	PI 3-kinase
+2875	3	10488121	10	48	the EGF receptor
+2876	2	10488121	12	37	COS1 cells
+2877	2	10488120	4	62	ca2 i
+2878	2	10488120	6	43	tumor spheroids
+2879	2	10488120	9	31	ca2 influx
+2880	2	10488120	11	27	the ca2
+2881	2	10488120	12	26	multicellular tumor
+2882	2	10488120	13	25	cell cycle
+2883	2	10488119	3	42	beta125- 41-65
+2884	2	10488118	8	40	marrow cultures
+2885	2	10488118	10	35	OCL formation
+2886	2	10488118	11	34	bone marrow
+2887	2	10488118	15	30	293 cells
+2888	2	10488117	7	30	electrophorus AChE
+2889	3	10488115	4	115	group IIA PLA2
+2890	2	10488114	3	30	the heme
+2891	2	10488113	5	31	human MnSOD
+2892	2	10488112	2	61	PAC1 receptor
+2893	2	10488112	10	32	the PAC1
+2894	2	10488112	13	25	inositol phosphate
+2895	2	10488111	1	44	cardosin A
+2896	2	10488109	3	35	full length
+2897	3	10488108	7	39	the RING finger
+2898	2	10488108	12	27	the CIP8
+2899	3	10488108	13	25	COP1 RING finger
+2900	3	10488108	14	25	the COP1 RING
+2901	2	10488107	2	107	HIV-1 RT
+2902	2	10488107	12	32	RT proteins
+2903	2	10488107	15	26	SIV RT
+2904	2	10488106	1	46	DGD protein
+2905	2	10488106	9	27	the DGD
+2906	2	10488105	6	36	MAP2 kinase
+2907	2	10488105	7	31	the integrin
+2908	2	10488105	9	28	signal transduction
+2909	2	10488105	10	27	c-raf-1 MAP2
+2910	2	10488105	11	26	c-raf-1 kinase
+2911	2	10488105	12	26	the c-raf-1
+2912	2	10488104	10	40	cell surface
+2913	2	10488104	18	30	dimer formation
+2914	3	10488104	19	30	wild type hCaR
+2915	5	10488104	23	26	the C129S C131S double mutant
+2916	2	10488104	24	26	the hCaR
+2917	2	10488103	2	102	cyclin A
+2918	2	10488103	3	84	cyclin E
+2919	3	10488103	4	36	cyclin A promoter
+2920	2	10488103	8	31	cell cycle
+2921	2	10488103	9	28	CV1 cells
+2922	2	10488102	6	39	water molecules
+2923	2	10488102	12	27	fv-hel complex
+2924	3	10488101	5	37	KS IMM cells
+2925	2	10488100	4	39	receptor down-regulation
+2926	2	10488100	5	31	MOR down-regulation
+2927	2	10488100	9	26	pertussis toxin
+2928	2	10488100	10	25	mutant receptor
+2929	2	10488099	2	40	MAP kinase
+2930	2	10488098	6	57	thrombin inactivation
+2931	2	10488098	9	30	mut D
+2932	2	10488097	6	43	sod1delta yeast
+2933	2	10488097	7	30	the vacuole
+2934	2	10488095	2	47	E. coli
+2935	2	10488095	3	44	P complex
+2936	2	10488094	6	29	CaM binding
+2937	2	10488094	7	25	PKC phosphorylation
+2938	2	10488094	8	25	ca2 CaM
+2939	3	10488093	6	44	the rpg1-1 ts
+2940	3	10488092	5	30	the COX-2 promoter
+2941	2	10488091	7	26	R. A.
+2942	2	10488090	6	35	phase II
+2943	2	10488090	9	31	HepG2 cells
+2944	2	10488090	12	28	the induction
+2945	2	10488090	13	26	ERK2 activity
+2946	2	10488089	7	41	channel gating
+2947	2	10488089	11	33	CFTR channels
+2948	2	10488089	13	31	burst duration
+2949	2	10488089	14	29	CFTR channel
+2950	2	10488088	6	37	bcl-2 promoter
+2951	2	10488088	7	36	p38 MAPK
+2952	3	10488088	8	32	MAPK kinase 6
+2953	2	10488088	9	31	PC12 cells
+2954	2	10488087	3	41	SP-A gene
+2955	2	10488087	5	28	the MBS
+2956	3	10488086	8	30	35S gtpgammas binding
+2957	2	10488085	2	43	rantes E66S
+2958	2	10488085	6	29	jurkat cells
+2959	2	10488085	8	27	T cells
+2960	2	10488085	14	25	disaggregated rantes
+2961	2	10488084	8	33	GS activity
+2962	2	10488084	10	31	3t3-l1 adipocytes
+2963	2	10488084	13	27	cytosolic GS
+2964	2	10488084	14	26	glycogen synthase
+2965	3	10488082	7	64	strand displacement activity
+2966	2	10488082	8	58	pol I
+2967	2	10488082	9	54	pol II
+2968	2	10488082	14	41	T4 pol
+2969	2	10488082	15	40	T7 pol
+2970	2	10488082	19	36	E. coli
+2971	2	10488082	21	33	phi29 pol
+2972	2	10488082	23	29	pol III
+2973	2	10488082	24	27	DNA polymerase
+2974	3	10488080	8	33	the nNOS PDZ
+2975	3	10488080	9	27	nNOS PDZ domain
+2976	2	10488078	3	33	HERG 4M
+2977	2	10488078	5	26	the HERG
+2978	2	10488078	6	25	activation curve
+2979	2	10488077	2	92	MD 2IQ
+2980	2	10488077	6	55	myosin V
+2981	2	10488077	10	38	acto-md 2IQ
+2982	2	10488076	5	34	leucine zipper
+2983	2	10488076	6	33	repressor activity
+2984	2	10488075	3	28	G right-arrow
+2985	2	10488074	6	55	insulin secretion
+2986	3	10488074	10	26	LPL enzyme activity
+2987	2	10488073	8	33	CHO cells
+2988	2	10488073	12	25	CFTR chloride
+2989	2	10488073	13	25	MPB compounds
+2990	2	10488072	9	37	c2in-c3 C2II
+2991	2	10488072	12	27	fusion toxin
+2992	2	10488071	3	27	ZF domains
+2993	3	10488070	3	38	pro-alpha1 I chains
+2994	2	10488070	9	27	mov13 cells
+2995	3	10488070	10	27	mutant pro-alpha1 I
+2996	2	10488069	2	44	PLD activation
+2997	2	10488069	9	29	MAP kinase
+2998	2	10488069	10	29	NIH 3T3
+2999	2	10488069	15	26	gelsolin overexpression
+3000	2	10488068	3	37	receiver domain
+3001	2	10488066	6	49	ca2 i
+3002	2	10488066	8	39	ca2 influx
+3003	2	10488066	10	32	extracellular ca2
+3004	2	10488066	11	30	ca2 -free
+3005	2	10488066	13	30	mn2 influx
+3006	2	10488065	4	41	G proteins
+3007	2	10488065	6	40	35S gtpgammas
+3008	2	10488065	10	34	G protein
+3009	2	10488065	14	28	sf9 cells
+3010	2	10488065	15	27	hek293 cells
+3011	3	10488065	16	26	edg-3 and edg-5
+3012	2	10488062	5	38	kappa B
+3013	2	10480916	1	92	mast cells
+3014	2	10480916	6	44	IgE receptor
+3015	2	10480916	8	37	mast cell
+3016	2	10480916	11	31	rbl-2h3 cells
+3017	2	10480877	8	28	the generation
+3018	2	10480953	4	69	GABAB receptors
+3019	3	10480953	5	52	GBR1a and GBR1b
+3020	2	10480953	8	36	the GBR1a
+3021	2	10480953	9	34	GBR1a GBR1b
+3022	3	10480953	11	31	GBR1a b- 922-944
+3023	2	10480953	12	29	GABAB receptor
+3024	3	10480952	3	43	MHC class II
+3025	2	10480951	9	32	kinase activity
+3026	3	10480951	17	29	the nf-kappab pathway
+3027	2	10480951	21	25	COS cells
+3028	2	10480950	8	26	ub2 synthesis
+3029	2	10480949	6	45	the gp61
+3030	2	10480949	11	39	32P gp61ck
+3031	2	10480949	20	31	gp41 hexamer
+3032	2	10480949	21	27	gp61 derivatives
+3033	2	10480949	22	27	the primase
+3034	2	10480949	23	26	the T4
+3035	2	10480949	24	26	the primosome
+3036	2	10480948	5	31	plasma membrane
+3037	2	10480947	1	99	alpha toxin
+3038	3	10480947	8	26	CHO lec2 UH
+3039	2	10480947	9	26	gpi-anchored proteins
+3040	2	10480946	6	40	nascent HMM
+3041	2	10480946	11	30	light chains
+3042	2	10480946	12	30	mg2 ATP
+3043	2	10480945	4	69	matrix assembly
+3044	3	10480945	9	42	the heparin-binding domain
+3045	3	10480945	12	33	125i-labeled 70-kda fragment
+3046	2	10480945	17	27	fibronectin matrix
+3047	3	10480945	20	26	70-kda fragment binding
+3048	4	10480945	21	26	matrix assembly site expression
+3049	2	10480944	4	50	CHO cells
+3050	2	10480944	7	41	cell migration
+3051	3	10480944	12	27	type IV collagen
+3052	2	10480943	3	41	DNA replication
+3053	2	10480942	6	30	cd8alpha alpha
+3054	2	10480942	9	27	cd8alpha beta
+3055	2	10480942	13	26	cd8alpha alphaf-lz
+3056	2	10480941	6	25	nuclear foci
+3057	2	10480938	7	38	NMDA receptor
+3058	2	10480938	8	38	anti-nr2a antibody
+3059	3	10480938	12	33	HEK 293 cells
+3060	2	10480938	13	33	NMDA receptors
+3061	3	10480938	16	28	3H Ro 25-6981
+3062	2	10480938	17	26	NR2 subunits
+3063	3	10480937	6	29	dakap200 and deltadakap200
+3064	2	10480937	9	27	anchor protein
+3065	2	10480936	8	34	anchor protein
+3066	2	10480936	10	28	S2 cells
+3067	2	10480935	6	30	the PmrA
+3068	2	10480935	7	29	PmrA protein
+3069	2	10480935	10	25	the pmrC
+3070	2	10480934	6	33	REF52 cells
+3071	2	10480934	7	33	cell migration
+3072	2	10480934	10	30	MAP kinase
+3073	2	10480934	12	29	egf-stimulated migration
+3074	2	10480933	4	37	the NTK
+3075	2	10480932	6	40	transforming growth
+3076	2	10480932	9	26	transcriptional activation
+3077	2	10480931	7	34	metal ion
+3078	3	10480931	8	34	the E9 DNase
+3079	2	10480931	13	28	the DNase
+3080	3	10480931	16	25	the HNH motif
+3081	2	10480930	11	25	3H epibatidine
+3082	2	10480929	3	57	RecA protein
+3083	2	10480929	4	54	recbd1080acd enzyme
+3084	2	10480929	6	39	recbcd enzyme
+3085	2	10480929	10	26	RecBC enzyme
+3086	2	10480928	4	47	the nucleosome
+3087	2	10480928	10	27	a nucleosome
+3088	2	10480928	13	25	the intron
+3089	2	10480927	4	43	FAK phosphorylation
+3090	2	10480927	7	33	integrin expression
+3091	2	10480927	8	32	ERK2 activity
+3092	2	10480927	10	30	ERK2 activation
+3093	2	10480927	12	26	the ERK2
+3094	2	10480927	13	25	ERK2 response
+3095	2	10480926	6	26	mismatch repair
+3096	2	10480925	4	25	E. coli
+3097	2	10480924	10	26	plasma membrane
+3098	2	10480923	1	57	the 144
+3099	2	10480923	2	40	CTCF binding
+3100	2	10480923	3	25	binding site
+3101	2	10480922	8	30	the nucleus
+3102	2	10480922	11	25	skeletal muscle
+3103	2	10480921	4	44	the kangaroo
+3104	2	10480921	5	29	kangaroo ci-mpr
+3105	2	10480920	7	25	RS-NO formation
+3106	2	10480919	3	82	sertoli cells
+3107	2	10480919	4	63	germ cells
+3108	2	10480919	6	50	sertoli cell
+3109	2	10480919	9	44	sertolin expression
+3110	2	10480919	11	33	sertolin mRNA
+3111	2	10480919	12	31	mRNA level
+3112	2	10480919	15	30	the testis
+3113	2	10480919	17	29	sertoli-germ cell
+3114	3	10480919	20	25	cheng C. Y.
+3115	2	10480918	8	28	E. coli
+3116	4	10480918	10	28	raetz C. R. H.
+3117	2	10480918	13	26	C. glutamicum
+3118	2	10480918	15	25	the LpxA
+3119	2	10480917	5	29	PKC activation
+3120	3	10480917	6	28	RACK1 and betaiipkc
+3121	2	10480915	1	62	glutamic acid
+3122	3	10480914	6	31	the Y361L mutant
+3123	2	10480914	10	27	human FTase
+3124	4	10480913	10	37	the tsa1 delta mutant
+3125	2	10480913	11	34	oxidative stress
+3126	2	10480913	14	27	gpx3 delta
+3127	2	10480911	4	40	the nucleus
+3128	2	10480911	9	25	ng108-15 cells
+3129	2	10480909	5	33	heparan sulfate
+3130	2	10480907	1	49	the heme
+3131	2	10480907	5	35	electron transfer
+3132	4	10480906	4	53	nkcc1 - - mice
+3133	2	10480905	5	43	E. faecalis
+3134	2	10480905	8	35	cna 151-318
+3135	3	10480905	9	32	ace A domain
+3136	2	10480904	2	64	Go alpha
+3137	2	10480902	8	28	KBM cells
+3138	2	10480900	4	32	NO synthesis
+3139	2	10480899	4	48	UV irradiation
+3140	2	10480899	9	37	cell survival
+3141	2	10480898	5	37	the MSEu
+3142	2	10480898	6	25	DNA binding
+3143	2	10480897	3	41	pH 7.5
+3144	2	10480897	7	31	v-atpase null
+3145	2	10480897	12	25	null mutants
+3146	2	10480896	6	27	the USP3
+3147	2	10480895	7	47	cytoplasmic tail
+3148	2	10480895	8	35	deletion mutants
+3149	2	10480895	10	34	delta beta2
+3150	2	10480895	19	26	cell surface
+3151	2	10480895	20	26	cytochalasin D
+3152	2	10480894	5	36	gtpase activity
+3153	2	10480894	10	28	RGS proteins
+3154	2	10480893	7	49	CBP p300
+3155	2	10480893	14	31	k562 cells
+3156	2	10480893	16	28	NF-E2 sites
+3157	2	10480890	6	30	M gdmscn
+3158	2	10480890	9	26	free energy
+3159	2	10480889	4	40	S. pombe
+3160	2	10480888	4	40	cell rounding
+3161	2	10480887	4	34	gpi-anchored proteins
+3162	2	10480886	5	43	shear stress
+3163	2	10480886	7	31	ERK1 2
+3164	3	10480886	10	30	cas tyrosine phosphorylation
+3165	2	10480885	4	35	recombinant MPO
+3166	2	10480885	9	26	met243 mutants
+3167	2	10480885	10	26	the met243
+3168	4	10480883	7	39	rarbeta2 - - cells
+3169	2	10480883	9	37	the rarbeta2
+3170	3	10480883	11	30	F9 WT cells
+3171	3	10480883	13	27	the F9 WT
+3172	2	10480883	14	26	chambon P.
+3173	3	10480883	15	26	the F9 rarbeta2
+3174	2	10480882	4	40	p70 S6K
+3175	2	10480882	6	38	endothelial cells
+3176	2	10480882	10	32	protein synthesis
+3177	2	10480881	5	32	stat5 protease
+3178	2	10480880	8	25	transgenic mice
+3179	3	10480879	3	49	wild type villin
+3180	2	10480879	5	34	villin variants
+3181	2	10480879	7	29	RKR AAE
+3182	2	10480878	6	38	GDP fucose
+3183	2	10480876	9	26	G. F.-L
+3184	2	10480875	4	47	eif4g1- 542-883
+3185	2	10480874	6	38	the MMTV
+3186	2	10480874	8	32	octamer motifs
+3187	2	10480874	12	27	the octamer
+3188	2	10480873	4	27	phosphatase activity
+3189	3	10480872	6	30	CLK1 and CLK2
+3190	2	10480872	7	26	phosphatase activity
+3191	2	10480870	2	55	delta psi
+3192	2	10480869	4	57	T G
+3193	2	10480869	5	51	insertion deletion
+3194	2	10480869	7	43	mismatch repair
+3195	2	10480869	11	32	C G
+3196	2	10480869	13	30	the mispair
+3197	2	10480869	16	25	mispair recognition
+3198	2	10480868	5	47	the IL-3
+3199	2	10480868	11	26	IL-3 promoter
+3200	3	10480868	17	25	the NIP element
+3201	2	10480867	6	36	heat shock
+3202	3	10480867	10	28	hsp90 chaperone complex
+3203	3	10480867	11	27	the hsp90 chaperone
+3204	2	10480867	14	25	HSF 1-583
+3205	2	10480866	3	73	pol delta
+3206	3	10480866	4	27	p125 and PCNA
+3207	2	10480864	3	31	3H muscimol
+3208	2	10480864	4	30	GABAA receptor
+3209	2	10480864	5	29	mutant alpha1
+3210	3	10480862	3	27	carey P. R.
+3211	2	10473624	4	52	StAR promoter
+3212	2	10473624	5	51	C EBP
+3213	2	10473624	7	41	C ebpbeta
+3214	2	10473624	9	36	StAR gene
+3215	2	10473624	10	33	promoter activity
+3216	4	10473624	15	26	C ebpalpha and -beta
+3217	2	10473535	2	41	LDL oxidation
+3218	3	10473627	4	76	L-Glu gamma HXM
+3219	2	10473626	4	45	smooth muscle
+3220	2	10473626	8	40	epithelial cells
+3221	2	10473626	13	35	skeletal muscle
+3222	2	10473626	14	34	dystroglycan complex
+3223	3	10473626	16	29	campbell K. P.
+3224	2	10473625	4	43	the dlx3
+3225	2	10473625	5	38	dlx3 promoter
+3226	2	10473625	9	28	mouse keratinocytes
+3227	2	10473623	6	47	the ARE
+3228	2	10473623	10	34	binding site
+3229	2	10473623	11	33	DNA binding
+3230	2	10473623	13	27	ARF binding
+3231	2	10473623	14	27	smad binding
+3232	2	10473621	1	95	RNase III
+3233	2	10473621	7	43	hok mRNA
+3234	2	10473621	9	34	sok RNA
+3235	2	10473620	7	29	protein kinase
+3236	2	10473620	10	26	ERK5 activation
+3237	2	10473620	11	26	mitogen-activated protein
+3238	2	10473618	5	50	pol III
+3239	2	10473618	9	39	abortive initiation
+3240	2	10473618	14	26	elongation complex
+3241	2	10473618	15	25	RNA polymerase
+3242	2	10473617	2	194	PKD PKCµ
+3243	3	10473617	6	50	the pS916 antibody
+3244	2	10473617	8	29	protein kinase
+3245	2	10473617	11	28	serine 916
+3246	3	10473615	6	61	human topoisomerase iialpha
+3247	2	10473615	7	61	topoisomerase II
+3248	2	10473613	0	67	H -atpase
+3249	2	10473613	2	34	apical membrane
+3250	2	10473613	3	31	IMCD cells
+3251	2	10473613	5	25	31-kda subunit
+3252	3	10473612	5	28	sodium channel beta
+3253	2	10473611	2	94	PC12 cells
+3254	3	10473611	5	76	p38 MAP kinase
+3255	2	10473611	11	37	neurite outgrowth
+3256	2	10473611	13	35	neuronal differentiation
+3257	2	10473611	16	25	activin A
+3258	2	10473611	17	25	the p38
+3259	2	10473610	7	58	GTP hydrolysis
+3260	2	10473610	14	43	the NPC
+3261	2	10473610	17	30	nuclear import
+3262	3	10473610	20	29	the kapbeta1 rangtp
+3263	3	10473610	22	25	kapbeta1 rangtp complex
+3264	2	10473609	4	50	PC12 cells
+3265	4	10473609	7	42	ERKs 1 and 2
+3266	2	10473609	16	28	serines threonines
+3267	2	10473608	3	33	the EDA
+3268	2	10473607	11	32	NE release
+3269	3	10473607	13	28	membrane EGTA extract
+3270	3	10473606	8	39	10 -4 M
+3271	2	10473606	12	31	the p2y2-r
+3272	2	10473606	14	30	ion transport
+3273	2	10473606	16	28	n 3
+3274	2	10473605	2	56	ca2 i
+3275	2	10473605	5	42	epithelial cells
+3276	2	10473603	9	33	serum ferritin
+3277	2	10473603	10	30	the IRE
+3278	2	10473602	6	37	igfbp-5 promoter
+3279	2	10473602	8	25	CACCC box
+3280	2	10473601	6	28	sf21 cells
+3281	3	10473600	8	32	the 16K P
+3282	2	10473599	6	39	ARIA release
+3283	2	10473599	7	34	the WT
+3284	3	10473599	9	30	amino acid residues
+3285	2	10473599	13	28	cytoplasmic domain
+3286	2	10473597	9	25	monocyte survival
+3287	2	10473596	3	33	the cig30
+3288	2	10473595	4	44	pdgfbeta receptor
+3289	2	10473595	8	35	UV irradiation
+3290	2	10473594	5	26	g-rich oligonucleotides
+3291	3	10473593	9	29	the sea receptor
+3292	2	10473593	10	29	the sea-fc
+3293	3	10473592	7	36	caveolin-1 scaffolding domain
+3294	3	10473592	9	33	lisanti M. P.
+3295	2	10473592	10	30	the caveolin-1
+3296	2	10473591	0	130	H protein
+3297	2	10473591	4	39	HV62M A64M
+3298	2	10473591	10	25	H apoprotein
+3299	2	10473589	2	42	RSV RT
+3300	2	10473589	4	37	RNase H
+3301	2	10473589	9	28	HIV-1 RT
+3302	2	10473589	11	25	RSV RTs
+3303	3	10473588	10	27	the KIX domain
+3304	2	10473587	6	27	m-type sPLA2
+3305	2	10473586	8	38	collecting duct
+3306	2	10473586	12	32	branching morphogenesis
+3307	2	10473586	16	28	mimcd-3 cells
+3308	2	10473585	4	25	erythropolis DCL14
+3309	2	10473584	11	25	adipocyte differentiation
+3310	2	10473583	1	33	alpha-d- 1
+3311	2	10473583	3	25	active site
+3312	2	10473582	3	30	decorin binding
+3313	2	10473582	5	26	lysine residues
+3314	4	10473581	7	30	MHC class II molecules
+3315	2	10473581	8	30	T cell
+3316	2	10473580	1	80	T cells
+3317	3	10473580	8	36	intestinal epithelial cells
+3318	2	10473579	3	36	bone marrow
+3319	2	10473578	3	44	PC synthesis
+3320	2	10473578	9	29	the nucleus
+3321	2	10473578	12	25	IIC9 cells
+3322	2	10473576	3	54	the SRH
+3323	2	10473576	7	34	the AAA
+3324	2	10473576	8	29	atpase activity
+3325	2	10473575	7	34	HepG2 cells
+3326	2	10473575	8	32	mC5 cells
+3327	2	10473574	2	38	intracellular calcium
+3328	2	10473574	4	29	calcium levels
+3329	2	10473574	5	29	calcium uptake
+3330	3	10473573	10	30	the auto-inhibitory domain
+3331	2	10473573	11	29	ca2 -independent
+3332	3	10473573	12	28	CaM kinase II
+3333	2	10473572	1	96	peroxidase 1
+3334	2	10473572	4	35	cell wall
+3335	2	10473570	2	52	B. subtilis
+3336	2	10473569	3	38	tachystatin C
+3337	2	10473569	5	27	tachystatins A
+3338	3	10473567	12	25	E. coli QFR
+3339	2	10473566	1	80	oligopeptidase B
+3340	2	10473566	4	40	T. brucei
+3341	2	10473566	8	25	prolyl oligopeptidase
+3342	2	10473566	9	25	the oligopeptidase
+3343	2	10473564	7	25	Cu II
+3344	2	10473564	8	25	T1 Cu
+3345	2	10473563	6	45	PC12 cells
+3346	2	10473563	7	42	pc12-d1 cells
+3347	2	10473563	8	40	extracellular ca2
+3348	2	10473563	10	28	IP3 production
+3349	2	10473563	11	27	ca2 i
+3350	3	10473562	7	35	3H ryanodine binding
+3351	2	10473562	9	32	ca2 binding
+3352	2	10473562	11	31	ca2 inactivation
+3353	2	10473562	12	28	affinity ca2
+3354	2	10473562	14	25	RF9 10
+3355	2	10473562	15	25	ca2 release
+3356	2	10473562	16	25	low affinity
+3357	3	10473561	3	39	alpha3 alpha1 5
+3358	2	10473560	4	40	the IR
+3359	2	10473560	9	34	3t3-l1 adipocytes
+3360	2	10473560	12	29	IRS proteins
+3361	2	10473559	10	25	NADPH oxidase
+3362	2	10473558	4	48	EGF receptor
+3363	2	10473558	9	31	fusion proteins
+3364	2	10473558	11	26	GST N
+3365	2	10473558	13	25	fusion protein
+3366	2	10473557	2	49	S protein
+3367	2	10473557	8	31	cell fusion
+3368	2	10473557	10	25	DBT cells
+3369	2	10473557	11	25	S gene
+3370	2	10473556	1	139	B2 receptor
+3371	3	10473556	5	48	the B2 receptor
+3372	2	10473556	6	46	receptor dimerization
+3373	3	10473556	10	28	the amino terminus
+3374	2	10473555	4	37	HO-1 gene
+3375	2	10473553	15	25	ATP Mg
+3376	2	10473552	3	50	E. histolytica
+3377	2	10473551	6	44	cell-cell adhesion
+3378	3	10473551	7	36	cdc42 and rac1
+3379	2	10473551	12	31	EL cells
+3380	3	10473551	13	30	the cadherin-catenin complex
+3381	2	10473550	5	50	WT hPRL
+3382	2	10473550	11	33	site 1
+3383	2	10473550	13	31	binding site
+3384	2	10473550	15	27	the D183E
+3385	2	10473550	17	25	biological properties
+3386	2	10473549	3	29	stationary phase
+3387	2	10473548	2	39	class IV
+3388	2	10473548	4	26	class I
+3389	2	10473547	3	31	bovine TC
+3390	2	10473546	2	46	20 S
+3391	2	10473546	5	30	26 S
+3392	3	10473545	4	32	UCP2 and UCP3
+3393	2	10473545	6	25	uncoupling protein
+3394	2	10473544	4	42	the RSL
+3395	2	10473544	7	32	the beta-sheet
+3396	5	10473543	13	46	the B. subtilis RecA protein
+3397	2	10473543	17	39	strand exchange
+3398	3	10473543	19	34	E. coli SSB
+3399	4	10473543	20	29	E. coli RecA protein
+3400	3	10473543	21	29	the E. coli
+3401	3	10473543	22	28	ATP and dATP
+3402	2	10473543	23	28	dATP hydrolysis
+3403	2	10473540	2	52	strand exchange
+3404	2	10473540	3	49	RecA protein
+3405	2	10473540	6	41	S69G RecA
+3406	3	10473539	8	26	the repeat tract
+3407	2	10473538	3	27	ryanodine receptor
+3408	2	10473538	4	25	ryanodine binding
+3409	3	10473537	3	53	group V sPLA2
+3410	2	10473536	2	48	dynamin 1
+3411	2	10464326	6	37	the A1
+3412	2	10464326	7	36	the A2
+3413	2	10464326	10	32	the adduct
+3414	2	10464273	4	38	thyroid cells
+3415	2	10464273	6	36	cell death
+3416	2	10464258	4	25	gut contents
+3417	2	10464340	7	26	the ER
+3418	2	10464339	4	60	LMW abeta
+3419	2	10464338	12	36	eosinophil peroxidase
+3420	2	10464334	2	86	DER cells
+3421	2	10464334	3	69	vero-h cells
+3422	2	10464334	7	31	target cells
+3423	2	10464334	10	26	vero cells
+3424	2	10464333	5	27	S. pombe
+3425	3	10464332	10	39	fish oil feeding
+3426	2	10464332	14	27	safflower oil
+3427	2	10464331	4	25	rod domain
+3428	3	10464330	4	63	the VLDL receptor
+3429	2	10464329	5	38	hydrogen peroxide
+3430	2	10464329	8	34	mn-sod-overexpressing cells
+3431	2	10464329	9	31	mRNA levels
+3432	3	10464328	4	33	alpha3 IV NC1
+3433	2	10464328	7	29	alpha1 IV
+3434	2	10464325	8	33	MAPK activity
+3435	2	10464324	0	102	MAP kinase
+3436	2	10464324	8	34	hek-a2a cells
+3437	3	10464323	6	41	synechocystis PCC 6803
+3438	3	10464323	9	33	the coaT operator-promoter
+3439	2	10464322	2	53	src kinase
+3440	3	10464321	4	30	delta2 delta4-dienoyl-coa reductase
+3441	2	10464320	5	44	pol II
+3442	2	10464318	8	41	DNA methylation
+3443	2	10464318	9	37	replication origins
+3444	2	10464318	10	35	DNA replication
+3445	2	10464318	13	29	nascent DNA
+3446	2	10464317	8	33	LRP alpha2mr
+3447	2	10464317	11	28	1 h
+3448	2	10464317	12	27	insulin 10
+3449	2	10464316	5	36	HK binding
+3450	2	10464316	6	34	apple domains
+3451	2	10464316	9	25	apple domain
+3452	2	10464315	3	77	SB 203580
+3453	2	10464315	5	70	T cells
+3454	2	10464315	6	69	p38 MAPK
+3455	2	10464315	8	48	FasL expression
+3456	2	10464315	12	29	cell death
+3457	2	10464314	7	37	the enhancer
+3458	2	10464314	11	25	the PSA
+3459	2	10464313	6	33	DNA binding
+3460	2	10464312	4	40	T cells
+3461	2	10464310	3	64	alphar FR
+3462	2	10464310	6	42	PAE cells
+3463	2	10464310	11	29	jun kinase
+3464	3	10464310	12	28	crk SH2 domain
+3465	3	10464310	14	25	SH2 domain mutant
+3466	3	10464310	15	25	alphar FR Y463F
+3467	2	10464310	16	25	the crk
+3468	2	10464309	3	55	k562 cells
+3469	3	10464309	8	27	lisanti M. P.
+3470	2	10464309	10	25	endogenous caveolin-2
+3471	2	10464308	4	72	FRT cells
+3472	2	10464308	6	40	MDCK cells
+3473	2	10464308	9	28	plasma membrane
+3474	4	10464307	7	38	ptdins 4 5 P2
+3475	2	10464307	10	25	AMPD activity
+3476	3	10464306	12	38	26 S proteasomes
+3477	2	10464306	14	38	the s10b
+3478	4	10464306	20	31	the 26 S proteasome
+3479	2	10464306	21	28	glycerol gradient
+3480	3	10464306	22	28	the 220-kda complex
+3481	3	10464305	3	158	the 50-kda protein
+3482	2	10464305	8	33	endonuclease activity
+3483	2	10464305	10	32	the endonuclease
+3484	2	10464305	13	25	the endo.scei
+3485	5	10464304	6	45	alpha7 S2 T L9 T
+3486	2	10464304	8	33	alpha7 nachrs
+3487	5	10464304	11	26	S2 T L9 T nachrs
+3488	2	10464303	5	31	the RXR
+3489	2	10464302	8	34	mitogenic pathway
+3490	3	10464302	10	32	carraway K. L.
+3491	4	10464302	15	27	carraway C. A. C.
+3492	2	10464301	10	27	the TMC
+3493	2	10464301	11	27	tmc-gp complex
+3494	2	10464300	1	92	7SL RNA
+3495	2	10464300	2	58	7SL I
+3496	2	10464300	5	31	7SL II
+3497	3	10464300	6	27	the 7SL RNA
+3498	2	10464299	2	65	lgmd-1c mutants
+3499	3	10464299	5	52	wild type caveolin-3
+3500	3	10464299	6	35	lisanti M. P.
+3501	2	10464298	1	49	the lse
+3502	3	10464295	1	54	the 8-kDa domain
+3503	2	10464295	5	35	pol beta
+3504	2	10464295	9	26	domain fragment
+3505	2	10464295	10	25	DNA polymerase
+3506	3	10464294	3	30	the nuclear envelope
+3507	3	10464293	6	39	the VIP gene
+3508	2	10464293	10	28	sk-n-sh cells
+3509	2	10464292	6	25	the cyclase
+3510	2	10464291	4	52	C ebpdelta
+3511	2	10464291	5	44	C EBP
+3512	2	10464290	1	94	ATM protein
+3513	2	10464290	5	31	double strand
+3514	2	10464290	7	26	the ATM
+3515	2	10464287	6	38	Hb A
+3516	3	10464287	8	35	rHb betaf41y K66T
+3517	2	10464287	9	28	oxygen affinity
+3518	2	10464286	4	35	H3 phosphorylation
+3519	2	10464286	7	30	chromosome condensation
+3520	2	10464285	2	40	2-5 A
+3521	2	10464285	4	34	the wt
+3522	2	10464285	7	25	catalytic domain
+3523	2	10464284	2	84	CD44 cleavage
+3524	2	10464284	4	40	u251mg cells
+3525	2	10464283	3	37	HeLa cells
+3526	2	10464282	4	31	TAFI activation
+3527	2	10464282	5	28	PC activation
+3528	2	10464281	15	31	superose-6 FPLC
+3529	2	10464281	16	26	Hep3B cells
+3530	2	10464278	3	54	HL-60 cells
+3531	2	10464278	7	48	Trf-R cells
+3532	3	10464278	9	44	p70 S6 kinase
+3533	5	10464278	12	38	Trf-R and Trf-R - cells
+3534	2	10464278	15	35	STAT 3
+3535	2	10464278	18	25	cell sorting
+3536	2	10464277	7	29	helix 2
+3537	2	10464277	8	28	the proteolipid
+3538	2	10464277	9	26	16-kda proteolipid
+3539	3	10464275	6	29	PHGPx 3 UTR
+3540	2	10464275	8	27	SBP2 binding
+3541	2	10464274	3	41	calcium channels
+3542	2	10464274	6	38	peak current
+3543	2	10464272	5	36	the rLHR
+3544	2	10464272	7	33	the rFSHR
+3545	3	10464272	9	27	the t1 2
+3546	3	10464271	5	41	the GQ domain
+3547	2	10464270	4	43	effector domain
+3548	2	10464270	9	31	LV39 SN
+3549	2	10464269	1	42	coat protein
+3550	2	10464269	3	27	RNA binding
+3551	3	10464268	6	33	the P0 promoter
+3552	2	10464268	8	31	the pts
+3553	2	10464266	6	49	beta cells
+3554	2	10464266	10	45	insulin secretion
+3555	2	10464266	13	36	ca2 c
+3556	3	10464266	14	34	the KATP channel
+3557	2	10464266	16	30	mgpdh-deficient beta
+3558	2	10464265	6	28	3 -UTR
+3559	2	10464265	7	26	SECIS element
+3560	2	10464265	10	25	the TRR
+3561	3	10464264	10	30	the tumor cells
+3562	2	10464264	12	26	a2058 melanoma
+3563	2	10464264	13	26	melanoma cells
+3564	2	10464262	2	73	calphostin C
+3565	2	10464260	3	69	mouse stat2
+3566	2	10464260	8	31	human stat2
+3567	2	10464259	7	33	wild-type RuvB
+3568	2	10464257	14	25	protein h12
+3569	3	10464256	6	53	pkc-zeta and pkc-lambda
+3570	2	10464256	9	43	pkc-zeta lambda
+3571	2	10464256	13	36	protein kinase
+3572	5	10464256	18	31	PI 3 4 5- PO4
+3573	5	10464256	19	30	3 4 5- PO4 3
+3574	2	10464256	26	26	rat adipocytes
+3575	2	10464256	27	26	threonine 410
+3576	2	10464255	2	78	fibrinogen binding
+3577	2	10464255	6	63	alphaiib beta3
+3578	3	10464255	10	29	cyto-d and Lat-A
+3579	2	10464254	3	36	3t3-l1 adipocytes
+3580	4	10464253	8	27	s100a12 MRP8 and MRP14
+3581	2	10464252	0	132	region I
+3582	2	10464252	5	38	the holoenzyme
+3583	2	10464252	13	25	the activator
+3584	2	10464250	4	42	mechanical stress
+3585	2	10464250	6	37	MKP-1 expression
+3586	2	10464249	5	50	low phosphate
+3587	2	10464249	6	46	napi-2 mRNA
+3588	2	10464249	10	38	the napi-2
+3589	2	10464249	12	32	renal proteins
+3590	2	10464249	14	30	5 -UTR
+3591	3	10464249	17	27	the 3 -UTR
+3592	2	10464247	4	35	redox potential
+3593	2	10464247	6	34	thioredoxin variants
+3594	2	10464247	8	29	the thioredoxin
+3595	2	10464246	2	28	ca2 i
+3596	4	10464245	8	31	the cyclin D1 promoter
+3597	2	10464245	10	26	R. G.
+3598	2	10464244	5	28	high affinity
+3599	2	10464243	2	63	ca2 -atpase
+3600	2	10464243	10	36	pH 7.0
+3601	2	10464243	13	31	pH 8.5
+3602	2	10464243	14	31	the ca2
+3603	2	10464242	10	26	guanidinium nitrogen
+3604	2	10464241	7	30	plasma membrane
+3605	2	10464241	9	25	cell surface
+3606	2	10464238	3	27	microspike formation
+3607	2	10464237	4	28	nonbilayer structures

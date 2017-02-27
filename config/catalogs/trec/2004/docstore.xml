@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<catalog>
+    <chain name="PubmedLoader" className="textractor.chain.loader.PubmedArticleLoader"
+        list="/home/icb/db/trec/trec-gen/2004/corpus/CORPUS-FILE-LIST"
+        writeRetractionMap="false" retractionMapFile="Trec2004RetractionMap.ser"
+        appendSentencesInOneDocument="false" loadTitles="true" loadAbstracts="true">
+            <command name="DocStoreBuilder"
+                     className="textractor.chain.docstore.DocumentStoreBuilder"
+                     basename="index/trec-2004-index"
+                     chunk-size="1000" optimize="true"/>
+    </chain>
+</catalog>

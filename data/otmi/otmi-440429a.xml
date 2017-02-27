@@ -1,0 +1,222 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Chemistry Perkin, the mauve maker</title>
+      <id>info:doi/10.1038/440429a</id>
+      <link href='http://dx.doi.org/10.1038/440429a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Philip Ball</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>429</prism:startingPage>
+      <prism:endingPage>429</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='6'>Perkin</otmi:vector>
+              <otmi:vector count='6'>aniline</otmi:vector>
+              <otmi:vector count='3'>mauve</otmi:vector>
+              <otmi:vector count='3'>his</otmi:vector>
+              <otmi:vector count='3'>Hofmann</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>compound</otmi:vector>
+              <otmi:vector count='2'>extracted</otmi:vector>
+              <otmi:vector count='2'>reaction</otmi:vector>
+              <otmi:vector count='2'>which</otmi:vector>
+              <otmi:vector count='2'>chemicals</otmi:vector>
+              <otmi:vector count='2'>natural</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>dyed</otmi:vector>
+              <otmi:vector count='2'>only</otmi:vector>
+              <otmi:vector count='2'>compounds</otmi:vector>
+              <otmi:vector count='2'>had</otmi:vector>
+              <otmi:vector count='2'>called</otmi:vector>
+              <otmi:vector count='2'>tried</otmi:vector>
+              <otmi:vector count='2'>home</otmi:vector>
+              <otmi:vector count='2'>dye</otmi:vector>
+              <otmi:vector count='2'>made</otmi:vector>
+              <otmi:vector count='2'>dyes</otmi:vector>
+              <otmi:vector count='2'>industry</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>he</otmi:vector>
+              <otmi:vector count='2'>tar</otmi:vector>
+              <otmi:vector count='2'>quinine</otmi:vector>
+              <otmi:vector count='2'>student</otmi:vector>
+              <otmi:vector count='2'>chemical</otmi:vector>
+              <otmi:vector count='1'>Boldly</otmi:vector>
+              <otmi:vector count='1'>Royal</otmi:vector>
+              <otmi:vector count='1'>indigo</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>discovery</otmi:vector>
+              <otmi:vector count='1'>Hoechst</otmi:vector>
+              <otmi:vector count='1'>shawl</otmi:vector>
+              <otmi:vector count='1'>Liebig</otmi:vector>
+              <otmi:vector count='1'>laboratory</otmi:vector>
+              <otmi:vector count='1'>malaria</otmi:vector>
+              <otmi:vector count='1'>nascent</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>solution</otmi:vector>
+              <otmi:vector count='1'>himself</otmi:vector>
+              <otmi:vector count='1'>small</otmi:vector>
+              <otmi:vector count='1'>black</otmi:vector>
+              <otmi:vector count='1'>him</otmi:vector>
+              <otmi:vector count='1'>serendipity</otmi:vector>
+              <otmi:vector count='1'>distilled</otmi:vector>
+              <otmi:vector count='1'>launched</otmi:vector>
+              <otmi:vector count='1'>Hitherto</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>included</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>German</otmi:vector>
+              <otmi:vector count='1'>intense</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>College</otmi:vector>
+              <otmi:vector count='1'>today&apos;s</otmi:vector>
+              <otmi:vector count='1'>William</otmi:vector>
+              <otmi:vector count='1'>sludge</otmi:vector>
+              <otmi:vector count='1'>spirits</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>entirely</otmi:vector>
+              <otmi:vector count='1'>companies</otmi:vector>
+              <otmi:vector count='1'>aniline-dye</otmi:vector>
+              <otmi:vector count='1'>enough</otmi:vector>
+              <otmi:vector count='1'>classic</otmi:vector>
+              <otmi:vector count='1'>name</otmi:vector>
+              <otmi:vector count='1'>chemist</otmi:vector>
+              <otmi:vector count='1'>giants</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>manufacture</otmi:vector>
+              <otmi:vector count='1'>almost</otmi:vector>
+              <otmi:vector count='1'>silk</otmi:vector>
+              <otmi:vector count='1'>dissolved</otmi:vector>
+              <otmi:vector count='1'>makeshift</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>brother</otmi:vector>
+              <otmi:vector count='1'>Chemistry</otmi:vector>
+              <otmi:vector count='1'>famous</otmi:vector>
+              <otmi:vector count='1'>Coal</otmi:vector>
+              <otmi:vector count='1'>Textiles</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>else</otmi:vector>
+              <otmi:vector count='1'>chanced</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>Perkins</otmi:vector>
+              <otmi:vector count='1'>precipitate</otmi:vector>
+              <otmi:vector count='1'>there</otmi:vector>
+              <otmi:vector count='1'>synthesize</otmi:vector>
+              <otmi:vector count='1'>something</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>formulae</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>when</otmi:vector>
+              <otmi:vector count='1'>hundred</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>inquisitive</otmi:vector>
+              <otmi:vector count='1'>Bayer</otmi:vector>
+              <otmi:vector count='1'>richly</otmi:vector>
+              <otmi:vector count='1'>purple</otmi:vector>
+              <otmi:vector count='1'>1862</otmi:vector>
+              <otmi:vector count='1'>finding</otmi:vector>
+              <otmi:vector count='1'>residue</otmi:vector>
+              <otmi:vector count='1'>coal-gas</otmi:vector>
+              <otmi:vector count='1'>based</otmi:vector>
+              <otmi:vector count='1'>properties</otmi:vector>
+              <otmi:vector count='1'>BASF.</otmi:vector>
+              <otmi:vector count='1'>plants</otmi:vector>
+              <otmi:vector count='1'>astute</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>oxidation</otmi:vector>
+              <otmi:vector count='1'>renowned</otmi:vector>
+              <otmi:vector count='1'>remedy</otmi:vector>
+              <otmi:vector count='1'>dyeing</otmi:vector>
+              <otmi:vector count='1'>Justus</otmi:vector>
+              <otmi:vector count='1'>fifty</otmi:vector>
+              <otmi:vector count='1'>factory</otmi:vector>
+              <otmi:vector count='1'>Working</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>uses</otmi:vector>
+              <otmi:vector count='1'>coal</otmi:vector>
+              <otmi:vector count='1'>discovered</otmi:vector>
+              <otmi:vector count='1'>attempting</otmi:vector>
+              <otmi:vector count='1'>raw</otmi:vector>
+              <otmi:vector count='1'>big</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>coloured</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>teenager</otmi:vector>
+              <otmi:vector count='1'>molecular</otmi:vector>
+              <otmi:vector count='1'>mid-1860s</otmi:vector>
+              <otmi:vector count='1'>soon</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>18-year-old</otmi:vector>
+              <otmi:vector count='1'>business</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>father</otmi:vector>
+              <otmi:vector count='1'>interest</otmi:vector>
+              <otmi:vector count='1'>picture</otmi:vector>
+              <otmi:vector count='1'>week</otmi:vector>
+              <otmi:vector count='1'>von</otmi:vector>
+              <otmi:vector count='1'>reddish</otmi:vector>
+              <otmi:vector count='1'>aromatic</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>obtained</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>London</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>got</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>plant-derived</otmi:vector>
+              <otmi:vector count='1'>August</otmi:vector>
+              <otmi:vector count='1'>derivative</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>persuaded</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>experimenting</otmi:vector>
+              <otmi:vector count='1'>Wilhelm</otmi:vector>
+              <otmi:vector count='1'>rainbow</otmi:vector>
+              <otmi:vector count='1'>methylated</otmi:vector>
+              <otmi:vector count='1'>structures</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>similarity</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>But</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>As a student of the renowned German chemist Justus von Liebig, Hofmann had made a name for himself by showing that a basic compound called aniline, obtained from coal tar, had the same properties as a compound distilled from raw, plant-derived indigo</otmi:snippet>
+              <otmi:snippet>Boldly, Perkin persuaded his father and brother to set up a small factory with him to manufacture the dye, which he called mauve; the picture here is of a shawl, dyed with mauve, from 1862</otmi:snippet>
+              <otmi:snippet>But when the inquisitive Perkin tried the reaction using aniline instead, he got a black precipitate that dissolved in methylated spirits to give a purple solution</otmi:snippet>
+              <otmi:snippet>Coal tar was the residue of coal-gas production, and there was intense interest in finding uses for the aromatic compounds, such as aniline, that could be extracted from it</otmi:snippet>
+              <otmi:snippet>Hitherto, almost all dyes were natural compounds extracted from plants and animals</otmi:snippet>
+              <otmi:snippet>In a classic case of serendipity, Perkin chanced on his famous &quot;aniline mauve&quot; dye while attempting to synthesize something else entirely: quinine, then the only known remedy for malaria</otmi:snippet>
+              <otmi:snippet>One hundred and fifty years ago this week, a teenager experimenting in his makeshift home laboratory made a discovery that in effect launched the modern chemicals industry</otmi:snippet>
+              <otmi:snippet>Textiles and dyeing being big business at the time, Perkin was astute enough to test the coloured compound on silk, which it dyed richly</otmi:snippet>
+              <otmi:snippet>The Perkins and others (including Hofmann) soon discovered a whole rainbow of aniline dyes, and by the mid-1860s aniline-dye companies included the nascent giants of today&apos;s chemicals industry, such as Bayer, Hoechst and BASF.</otmi:snippet>
+              <otmi:snippet>The reaction produced only a reddish sludge</otmi:snippet>
+              <otmi:snippet>William Perkin was an 18-year-old student of August Wilhelm Hofmann at the Royal College of Chemistry in London, working on the chemical synthesis of natural products</otmi:snippet>
+              <otmi:snippet>Working at home, Perkin tried to use an aniline derivative to make quinine by oxidation, based on the similarity of their chemical formulae (their molecular structures are very different)</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:references>
+          <otmi:refsnoid>0</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

@@ -1,0 +1,756 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>2020 Computing Can computers help to explain biology?</title>
+      <id>info:doi/10.1038/440416a</id>
+      <link href='http://dx.doi.org/10.1038/440416a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Roger Brent</name>
+      </author>
+      <author>
+        <name>Jehoshua Bruck</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>416</prism:startingPage>
+      <prism:endingPage>417</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='26'>biological</otmi:vector>
+              <otmi:vector count='18'>systems</otmi:vector>
+              <otmi:vector count='12'>their</otmi:vector>
+              <otmi:vector count='12'>will</otmi:vector>
+              <otmi:vector count='12'>information</otmi:vector>
+              <otmi:vector count='11'>function</otmi:vector>
+              <otmi:vector count='10'>understanding</otmi:vector>
+              <otmi:vector count='9'>at</otmi:vector>
+              <otmi:vector count='9'>computers</otmi:vector>
+              <otmi:vector count='8'>But</otmi:vector>
+              <otmi:vector count='8'>theory</otmi:vector>
+              <otmi:vector count='8'>meaning</otmi:vector>
+              <otmi:vector count='8'>have</otmi:vector>
+              <otmi:vector count='8'>can</otmi:vector>
+              <otmi:vector count='8'>but</otmi:vector>
+              <otmi:vector count='7'>they</otmi:vector>
+              <otmi:vector count='7'>most</otmi:vector>
+              <otmi:vector count='7'>between</otmi:vector>
+              <otmi:vector count='6'>such</otmi:vector>
+              <otmi:vector count='6'>not</otmi:vector>
+              <otmi:vector count='6'>code</otmi:vector>
+              <otmi:vector count='6'>computer</otmi:vector>
+              <otmi:vector count='6'>selection</otmi:vector>
+              <otmi:vector count='6'>biologists</otmi:vector>
+              <otmi:vector count='6'>might</otmi:vector>
+              <otmi:vector count='6'>formalisms</otmi:vector>
+              <otmi:vector count='6'>biology</otmi:vector>
+              <otmi:vector count='6'>which</otmi:vector>
+              <otmi:vector count='6'>new</otmi:vector>
+              <otmi:vector count='5'>levels</otmi:vector>
+              <otmi:vector count='5'>more</otmi:vector>
+              <otmi:vector count='5'>deeper</otmi:vector>
+              <otmi:vector count='5'>science</otmi:vector>
+              <otmi:vector count='5'>do</otmi:vector>
+              <otmi:vector count='5'>processing</otmi:vector>
+              <otmi:vector count='5'>better</otmi:vector>
+              <otmi:vector count='5'>encoded</otmi:vector>
+              <otmi:vector count='5'>could</otmi:vector>
+              <otmi:vector count='5'>These</otmi:vector>
+              <otmi:vector count='5'>lack</otmi:vector>
+              <otmi:vector count='5'>those</otmi:vector>
+              <otmi:vector count='5'>limited</otmi:vector>
+              <otmi:vector count='5'>ways</otmi:vector>
+              <otmi:vector count='4'>genome</otmi:vector>
+              <otmi:vector count='4'>stories</otmi:vector>
+              <otmi:vector count='4'>many</otmi:vector>
+              <otmi:vector count='4'>other</otmi:vector>
+              <otmi:vector count='4'>has</otmi:vector>
+              <otmi:vector count='4'>some</otmi:vector>
+              <otmi:vector count='4'>activity</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>reactions</otmi:vector>
+              <otmi:vector count='4'>behaviour</otmi:vector>
+              <otmi:vector count='4'>then</otmi:vector>
+              <otmi:vector count='4'>into</otmi:vector>
+              <otmi:vector count='4'>design</otmi:vector>
+              <otmi:vector count='4'>proteins</otmi:vector>
+              <otmi:vector count='4'>narratives</otmi:vector>
+              <otmi:vector count='4'>chemical</otmi:vector>
+              <otmi:vector count='4'>about</otmi:vector>
+              <otmi:vector count='4'>boundaries</otmi:vector>
+              <otmi:vector count='3'>usually</otmi:vector>
+              <otmi:vector count='3'>natural-language</otmi:vector>
+              <otmi:vector count='3'>difficult</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>machines</otmi:vector>
+              <otmi:vector count='3'>ones</otmi:vector>
+              <otmi:vector count='3'>work</otmi:vector>
+              <otmi:vector count='3'>multiple</otmi:vector>
+              <otmi:vector count='3'>output</otmi:vector>
+              <otmi:vector count='3'>dynamic</otmi:vector>
+              <otmi:vector count='3'>execution</otmi:vector>
+              <otmi:vector count='3'>2006</otmi:vector>
+              <otmi:vector count='3'>also</otmi:vector>
+              <otmi:vector count='3'>semantic</otmi:vector>
+              <otmi:vector count='3'>these</otmi:vector>
+              <otmi:vector count='3'>now</otmi:vector>
+              <otmi:vector count='3'>build</otmi:vector>
+              <otmi:vector count='3'>However</otmi:vector>
+              <otmi:vector count='3'>measure</otmi:vector>
+              <otmi:vector count='3'>system</otmi:vector>
+              <otmi:vector count='3'>molecules</otmi:vector>
+              <otmi:vector count='3'>use</otmi:vector>
+              <otmi:vector count='3'>mathematics</otmi:vector>
+              <otmi:vector count='3'>natural</otmi:vector>
+              <otmi:vector count='3'>beyond</otmi:vector>
+              <otmi:vector count='3'>protein</otmi:vector>
+              <otmi:vector count='3'>does</otmi:vector>
+              <otmi:vector count='3'>inputs</otmi:vector>
+              <otmi:vector count='3'>reaction</otmi:vector>
+              <otmi:vector count='3'>relevant</otmi:vector>
+              <otmi:vector count='3'>program</otmi:vector>
+              <otmi:vector count='3'>language</otmi:vector>
+              <otmi:vector count='3'>molecular</otmi:vector>
+              <otmi:vector count='3'>cause-and-effect</otmi:vector>
+              <otmi:vector count='3'>living</otmi:vector>
+              <otmi:vector count='3'>arise</otmi:vector>
+              <otmi:vector count='3'>view</otmi:vector>
+              <otmi:vector count='3'>processes</otmi:vector>
+              <otmi:vector count='3'>level</otmi:vector>
+              <otmi:vector count='3'>2020</otmi:vector>
+              <otmi:vector count='3'>greatly</otmi:vector>
+              <otmi:vector count='3'>human</otmi:vector>
+              <otmi:vector count='2'>types</otmi:vector>
+              <otmi:vector count='2'>external</otmi:vector>
+              <otmi:vector count='2'>clear</otmi:vector>
+              <otmi:vector count='2'>describe</otmi:vector>
+              <otmi:vector count='2'>highly</otmi:vector>
+              <otmi:vector count='2'>Here</otmi:vector>
+              <otmi:vector count='2'>fact</otmi:vector>
+              <otmi:vector count='2'>consequence</otmi:vector>
+              <otmi:vector count='2'>eventually</otmi:vector>
+              <otmi:vector count='2'>may</otmi:vector>
+              <otmi:vector count='2'>hope</otmi:vector>
+              <otmi:vector count='2'>functions</otmi:vector>
+              <otmi:vector count='2'>point</otmi:vector>
+              <otmi:vector count='2'>technology</otmi:vector>
+              <otmi:vector count='2'>developments</otmi:vector>
+              <otmi:vector count='2'>vocabulary</otmi:vector>
+              <otmi:vector count='2'>eye</otmi:vector>
+              <otmi:vector count='2'>experiments</otmi:vector>
+              <otmi:vector count='2'>least</otmi:vector>
+              <otmi:vector count='2'>identify</otmi:vector>
+              <otmi:vector count='2'>ability</otmi:vector>
+              <otmi:vector count='2'>apparatus</otmi:vector>
+              <otmi:vector count='2'>before</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='2'>von</otmi:vector>
+              <otmi:vector count='2'>generate</otmi:vector>
+              <otmi:vector count='2'>codified</otmi:vector>
+              <otmi:vector count='2'>Instead</otmi:vector>
+              <otmi:vector count='2'>procedural</otmi:vector>
+              <otmi:vector count='2'>imagine</otmi:vector>
+              <otmi:vector count='2'>workaday</otmi:vector>
+              <otmi:vector count='2'>out</otmi:vector>
+              <otmi:vector count='2'>data</otmi:vector>
+              <otmi:vector count='2'>Because</otmi:vector>
+              <otmi:vector count='2'>already</otmi:vector>
+              <otmi:vector count='2'>determined</otmi:vector>
+              <otmi:vector count='2'>help</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>terms</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>takes</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>medicine</otmi:vector>
+              <otmi:vector count='2'>existing</otmi:vector>
+              <otmi:vector count='2'>Neumann</otmi:vector>
+              <otmi:vector count='2'>defined</otmi:vector>
+              <otmi:vector count='2'>others</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>without</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>stored</otmi:vector>
+              <otmi:vector count='2'>acts</otmi:vector>
+              <otmi:vector count='2'>sites</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>imperative</otmi:vector>
+              <otmi:vector count='2'>components</otmi:vector>
+              <otmi:vector count='2'>even</otmi:vector>
+              <otmi:vector count='2'>languages</otmi:vector>
+              <otmi:vector count='2'>restricted</otmi:vector>
+              <otmi:vector count='2'>same</otmi:vector>
+              <otmi:vector count='2'>order</otmi:vector>
+              <otmi:vector count='2'>business</otmi:vector>
+              <otmi:vector count='2'>affect</otmi:vector>
+              <otmi:vector count='2'>make</otmi:vector>
+              <otmi:vector count='2'>usual</otmi:vector>
+              <otmi:vector count='2'>differential</otmi:vector>
+              <otmi:vector count='2'>decisions</otmi:vector>
+              <otmi:vector count='2'>purpose</otmi:vector>
+              <otmi:vector count='2'>path</otmi:vector>
+              <otmi:vector count='2'>equations</otmi:vector>
+              <otmi:vector count='2'>trajectory</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>stored-program</otmi:vector>
+              <otmi:vector count='2'>wish</otmi:vector>
+              <otmi:vector count='2'>regulatory</otmi:vector>
+              <otmi:vector count='2'>adequate</otmi:vector>
+              <otmi:vector count='2'>selected</otmi:vector>
+              <otmi:vector count='2'>executes</otmi:vector>
+              <otmi:vector count='2'>approach</otmi:vector>
+              <otmi:vector count='2'>complex</otmi:vector>
+              <otmi:vector count='2'>continue</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>differ</otmi:vector>
+              <otmi:vector count='2'>seems</otmi:vector>
+              <otmi:vector count='2'>because</otmi:vector>
+              <otmi:vector count='2'>reasonable</otmi:vector>
+              <otmi:vector count='2'>used</otmi:vector>
+              <otmi:vector count='2'>both</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>Information</otmi:vector>
+              <otmi:vector count='2'>descriptions</otmi:vector>
+              <otmi:vector count='2'>developmental</otmi:vector>
+              <otmi:vector count='2'>fitness</otmi:vector>
+              <otmi:vector count='2'>methods</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>fundamental</otmi:vector>
+              <otmi:vector count='2'>physical</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>things</otmi:vector>
+              <otmi:vector count='2'>species</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>means</otmi:vector>
+              <otmi:vector count='1'>networks</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>purposes</otmi:vector>
+              <otmi:vector count='1'>helping</otmi:vector>
+              <otmi:vector count='1'>network</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>vision</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>definition</otmi:vector>
+              <otmi:vector count='1'>write</otmi:vector>
+              <otmi:vector count='1'>represented</otmi:vector>
+              <otmi:vector count='1'>thing</otmi:vector>
+              <otmi:vector count='1'>processor</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>analyse</otmi:vector>
+              <otmi:vector count='1'>scientists</otmi:vector>
+              <otmi:vector count='1'>readily</otmi:vector>
+              <otmi:vector count='1'>floods</otmi:vector>
+              <otmi:vector count='1'>truths</otmi:vector>
+              <otmi:vector count='1'>muddy</otmi:vector>
+              <otmi:vector count='1'>bring</otmi:vector>
+              <otmi:vector count='1'>communications</otmi:vector>
+              <otmi:vector count='1'>mathematicians</otmi:vector>
+              <otmi:vector count='1'>wanted</otmi:vector>
+              <otmi:vector count='1'>capacity</otmi:vector>
+              <otmi:vector count='1'>compare</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>Sussman</otmi:vector>
+              <otmi:vector count='1'>concepts</otmi:vector>
+              <otmi:vector count='1'>content</otmi:vector>
+              <otmi:vector count='1'>lens</otmi:vector>
+              <otmi:vector count='1'>synthetic</otmi:vector>
+              <otmi:vector count='1'>practice</otmi:vector>
+              <otmi:vector count='1'>PubMed</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>search</otmi:vector>
+              <otmi:vector count='1'>observe</otmi:vector>
+              <otmi:vector count='1'>recipient</otmi:vector>
+              <otmi:vector count='1'>apply</otmi:vector>
+              <otmi:vector count='1'>script</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>Blurred</otmi:vector>
+              <otmi:vector count='1'>probabilistic</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>communicates</otmi:vector>
+              <otmi:vector count='1'>reasoning</otmi:vector>
+              <otmi:vector count='1'>literature</otmi:vector>
+              <otmi:vector count='1'>ours</otmi:vector>
+              <otmi:vector count='1'>knew</otmi:vector>
+              <otmi:vector count='1'>prepositional</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>probably</otmi:vector>
+              <otmi:vector count='1'>happens</otmi:vector>
+              <otmi:vector count='1'>worked</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>semantics</otmi:vector>
+              <otmi:vector count='1'>Measure</otmi:vector>
+              <otmi:vector count='1'>current</otmi:vector>
+              <otmi:vector count='1'>Living</otmi:vector>
+              <otmi:vector count='1'>objective</otmi:vector>
+              <otmi:vector count='1'>process</otmi:vector>
+              <otmi:vector count='1'>inspired</otmi:vector>
+              <otmi:vector count='1'>redefining</otmi:vector>
+              <otmi:vector count='1'>grand</otmi:vector>
+              <otmi:vector count='1'>Similarly</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>visualization</otmi:vector>
+              <otmi:vector count='1'>passage</otmi:vector>
+              <otmi:vector count='1'>engineered</otmi:vector>
+              <otmi:vector count='1'>begin</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>Fig</otmi:vector>
+              <otmi:vector count='1'>until</otmi:vector>
+              <otmi:vector count='1'>approximate</otmi:vector>
+              <otmi:vector count='1'>metadata</otmi:vector>
+              <otmi:vector count='1'>communication</otmi:vector>
+              <otmi:vector count='1'>master</otmi:vector>
+              <otmi:vector count='1'>seeing</otmi:vector>
+              <otmi:vector count='1'>specify</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>computation</otmi:vector>
+              <otmi:vector count='1'>channel</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>offer</otmi:vector>
+              <otmi:vector count='1'>teleology</otmi:vector>
+              <otmi:vector count='1'>analytically</otmi:vector>
+              <otmi:vector count='1'>space</otmi:vector>
+              <otmi:vector count='1'>specified</otmi:vector>
+              <otmi:vector count='1'>worth</otmi:vector>
+              <otmi:vector count='1'>narrow</otmi:vector>
+              <otmi:vector count='1'>constitute</otmi:vector>
+              <otmi:vector count='1'>boundary</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>prophetic</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>proper</otmi:vector>
+              <otmi:vector count='1'>reduce</otmi:vector>
+              <otmi:vector count='1'>input</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>fixed</otmi:vector>
+              <otmi:vector count='1'>wanting</otmi:vector>
+              <otmi:vector count='1'>pathway</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>go</otmi:vector>
+              <otmi:vector count='1'>Bruck</otmi:vector>
+              <otmi:vector count='1'>doesn&apos;t</otmi:vector>
+              <otmi:vector count='1'>crisper</otmi:vector>
+              <otmi:vector count='1'>considerable</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>assemblage</otmi:vector>
+              <otmi:vector count='1'>organisms</otmi:vector>
+              <otmi:vector count='1'>16</otmi:vector>
+              <otmi:vector count='1'>starting</otmi:vector>
+              <otmi:vector count='1'>difference</otmi:vector>
+              <otmi:vector count='1'>execute</otmi:vector>
+              <otmi:vector count='1'>form</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>impulse</otmi:vector>
+              <otmi:vector count='1'>set</otmi:vector>
+              <otmi:vector count='1'>approached</otmi:vector>
+              <otmi:vector count='1'>evident</otmi:vector>
+              <otmi:vector count='1'>generation</otmi:vector>
+              <otmi:vector count='1'>patch</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>nerve</otmi:vector>
+              <otmi:vector count='1'>experiment</otmi:vector>
+              <otmi:vector count='1'>naturally</otmi:vector>
+              <otmi:vector count='1'>developed</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>fields</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>determines</otmi:vector>
+              <otmi:vector count='1'>answers</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>web</otmi:vector>
+              <otmi:vector count='1'>describing</otmi:vector>
+              <otmi:vector count='1'>J</otmi:vector>
+              <otmi:vector count='1'>profoundly</otmi:vector>
+              <otmi:vector count='1'>world</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>architects</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>steps</otmi:vector>
+              <otmi:vector count='1'>potential</otmi:vector>
+              <otmi:vector count='1'>signal-transduction</otmi:vector>
+              <otmi:vector count='1'>concept</otmi:vector>
+              <otmi:vector count='1'>forecasting</otmi:vector>
+              <otmi:vector count='1'>inside</otmi:vector>
+              <otmi:vector count='1'>central</otmi:vector>
+              <otmi:vector count='1'>genomes</otmi:vector>
+              <otmi:vector count='1'>handling</otmi:vector>
+              <otmi:vector count='1'>why</otmi:vector>
+              <otmi:vector count='1'>M</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>analogy</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>crisp</otmi:vector>
+              <otmi:vector count='1'>accessed</otmi:vector>
+              <otmi:vector count='1'>actions</otmi:vector>
+              <otmi:vector count='1'>contemporary</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>said</otmi:vector>
+              <otmi:vector count='1'>entities</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>aspects</otmi:vector>
+              <otmi:vector count='1'>denoting</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>transparent</otmi:vector>
+              <otmi:vector count='1'>embodied</otmi:vector>
+              <otmi:vector count='1'>Deeper</otmi:vector>
+              <otmi:vector count='1'>kinetics</otmi:vector>
+              <otmi:vector count='1'>chance</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>extended</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>systematizable</otmi:vector>
+              <otmi:vector count='1'>Systems</otmi:vector>
+              <otmi:vector count='1'>Equally</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>textbooks</otmi:vector>
+              <otmi:vector count='1'>perturb</otmi:vector>
+              <otmi:vector count='1'>impoverished</otmi:vector>
+              <otmi:vector count='1'>paths</otmi:vector>
+              <otmi:vector count='1'>laying</otmi:vector>
+              <otmi:vector count='1'>mud</otmi:vector>
+              <otmi:vector count='1'>Like</otmi:vector>
+              <otmi:vector count='1'>nouns</otmi:vector>
+              <otmi:vector count='1'>internal</otmi:vector>
+              <otmi:vector count='1'>all</otmi:vector>
+              <otmi:vector count='1'>interesting</otmi:vector>
+              <otmi:vector count='1'>division</otmi:vector>
+              <otmi:vector count='1'>up</otmi:vector>
+              <otmi:vector count='1'>panache</otmi:vector>
+              <otmi:vector count='1'>surveyors</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>exploring</otmi:vector>
+              <otmi:vector count='1'>starkly</otmi:vector>
+              <otmi:vector count='1'>integration</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>differential-equation</otmi:vector>
+              <otmi:vector count='1'>Geographical</otmi:vector>
+              <otmi:vector count='1'>interest</otmi:vector>
+              <otmi:vector count='1'>chains</otmi:vector>
+              <otmi:vector count='1'>(which</otmi:vector>
+              <otmi:vector count='1'>ultimate</otmi:vector>
+              <otmi:vector count='1'>occurring</otmi:vector>
+              <otmi:vector count='1'>considerably</otmi:vector>
+              <otmi:vector count='1'>translates</otmi:vector>
+              <otmi:vector count='1'>Today</otmi:vector>
+              <otmi:vector count='1'>formalizes</otmi:vector>
+              <otmi:vector count='1'>interactions</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>element</otmi:vector>
+              <otmi:vector count='1'>avoid</otmi:vector>
+              <otmi:vector count='1'>constrained</otmi:vector>
+              <otmi:vector count='1'>collection</otmi:vector>
+              <otmi:vector count='1'>executed</otmi:vector>
+              <otmi:vector count='1'>optimized</otmi:vector>
+              <otmi:vector count='1'>verbs</otmi:vector>
+              <otmi:vector count='1'>decides</otmi:vector>
+              <otmi:vector count='1'>performs</otmi:vector>
+              <otmi:vector count='1'>capture</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>personal</otmi:vector>
+              <otmi:vector count='1'>direct</otmi:vector>
+              <otmi:vector count='1'>successful</otmi:vector>
+              <otmi:vector count='1'>transmission</otmi:vector>
+              <otmi:vector count='1'>equation</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>Egyptian</otmi:vector>
+              <otmi:vector count='1'>consider</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>routes</otmi:vector>
+              <otmi:vector count='1'>deliberately</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>outlines</otmi:vector>
+              <otmi:vector count='1'>frustrate</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>phrases</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>involving</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>bear</otmi:vector>
+              <otmi:vector count='1'>vital</otmi:vector>
+              <otmi:vector count='1'>arrive</otmi:vector>
+              <otmi:vector count='1'>channels</otmi:vector>
+              <otmi:vector count='1'>mixed</otmi:vector>
+              <otmi:vector count='1'>require</otmi:vector>
+              <otmi:vector count='1'>attain</otmi:vector>
+              <otmi:vector count='1'>insofar</otmi:vector>
+              <otmi:vector count='1'>Riedel</otmi:vector>
+              <otmi:vector count='1'>location</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>self-assembly</otmi:vector>
+              <otmi:vector count='1'>twentieth-century</otmi:vector>
+              <otmi:vector count='1'>tested</otmi:vector>
+              <otmi:vector count='1'>modelled</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>papers</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>leave</otmi:vector>
+              <otmi:vector count='1'>yet</otmi:vector>
+              <otmi:vector count='1'>sophisticated</otmi:vector>
+              <otmi:vector count='1'>translating</otmi:vector>
+              <otmi:vector count='1'>predictive</otmi:vector>
+              <otmi:vector count='1'>operate</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>One</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>string</otmi:vector>
+              <otmi:vector count='1'>begins</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>importantly</otmi:vector>
+              <otmi:vector count='1'>operations</otmi:vector>
+              <otmi:vector count='1'>complexity</otmi:vector>
+              <otmi:vector count='1'>four</otmi:vector>
+              <otmi:vector count='1'>simultaneously</otmi:vector>
+              <otmi:vector count='1'>messages</otmi:vector>
+              <otmi:vector count='1'>spirit</otmi:vector>
+              <otmi:vector count='1'>memory</otmi:vector>
+              <otmi:vector count='1'>true</otmi:vector>
+              <otmi:vector count='1'>resulting</otmi:vector>
+              <otmi:vector count='1'>thinking</otmi:vector>
+              <otmi:vector count='1'>influenced</otmi:vector>
+              <otmi:vector count='1'>era</otmi:vector>
+              <otmi:vector count='1'>Teleology</otmi:vector>
+              <otmi:vector count='1'>working</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>predict</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>hard</otmi:vector>
+              <otmi:vector count='1'>indeed.</otmi:vector>
+              <otmi:vector count='1'>unchanged</otmi:vector>
+              <otmi:vector count='1'>stochastic</otmi:vector>
+              <otmi:vector count='1'>DNA</otmi:vector>
+              <otmi:vector count='1'>relationships</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>marvellous</otmi:vector>
+              <otmi:vector count='1'>cell</otmi:vector>
+              <otmi:vector count='1'>great</otmi:vector>
+              <otmi:vector count='1'>offered</otmi:vector>
+              <otmi:vector count='1'>devices</otmi:vector>
+              <otmi:vector count='1'>algebra</otmi:vector>
+              <otmi:vector count='1'>roots</otmi:vector>
+              <otmi:vector count='1'>organism</otmi:vector>
+              <otmi:vector count='1'>numerical</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>biochemical</otmi:vector>
+              <otmi:vector count='1'>organized</otmi:vector>
+              <otmi:vector count='1'>executable</otmi:vector>
+              <otmi:vector count='1'>biologically</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>simulating</otmi:vector>
+              <otmi:vector count='1'>mean</otmi:vector>
+              <otmi:vector count='1'>sender</otmi:vector>
+              <otmi:vector count='1'>ground</otmi:vector>
+              <otmi:vector count='1'>artificial</otmi:vector>
+              <otmi:vector count='1'>numerous</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>chose</otmi:vector>
+              <otmi:vector count='1'>seek</otmi:vector>
+              <otmi:vector count='1'>systematizations</otmi:vector>
+              <otmi:vector count='1'>frustrations</otmi:vector>
+              <otmi:vector count='1'>theorists</otmi:vector>
+              <otmi:vector count='1'>Rigorous</otmi:vector>
+              <otmi:vector count='1'>simplest</otmi:vector>
+              <otmi:vector count='1'>cells</otmi:vector>
+              <otmi:vector count='1'>weather</otmi:vector>
+              <otmi:vector count='1'>perturbations</otmi:vector>
+              <otmi:vector count='1'>frustration</otmi:vector>
+              <otmi:vector count='1'>growing</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>insight</otmi:vector>
+              <otmi:vector count='1'>providing</otmi:vector>
+              <otmi:vector count='1'>formally</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>agriculture</otmi:vector>
+              <otmi:vector count='1'>rules</otmi:vector>
+              <otmi:vector count='1'>circadian-rhythm</otmi:vector>
+              <otmi:vector count='1'>next</otmi:vector>
+              <otmi:vector count='1'>failed</otmi:vector>
+              <otmi:vector count='1'>carrying</otmi:vector>
+              <otmi:vector count='1'>discovered</otmi:vector>
+              <otmi:vector count='1'>named</otmi:vector>
+              <otmi:vector count='1'>deliberate</otmi:vector>
+              <otmi:vector count='1'>typically</otmi:vector>
+              <otmi:vector count='1'>known</otmi:vector>
+              <otmi:vector count='1'>within</otmi:vector>
+              <otmi:vector count='1'>stir</otmi:vector>
+              <otmi:vector count='1'>possibilities</otmi:vector>
+              <otmi:vector count='1'>fruitful</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>expanded</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>plant</otmi:vector>
+              <otmi:vector count='1'>avenues</otmi:vector>
+              <otmi:vector count='1'>undergone</otmi:vector>
+              <otmi:vector count='1'>cast</otmi:vector>
+              <otmi:vector count='1'>He</otmi:vector>
+              <otmi:vector count='1'>outputs</otmi:vector>
+              <otmi:vector count='1'>sentient</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>Google</otmi:vector>
+              <otmi:vector count='1'>primarily</otmi:vector>
+              <otmi:vector count='1'>fruit</otmi:vector>
+              <otmi:vector count='1'>third</otmi:vector>
+              <otmi:vector count='1'>distinction</otmi:vector>
+              <otmi:vector count='1'>sense</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>computing</otmi:vector>
+              <otmi:vector count='1'>commands</otmi:vector>
+              <otmi:vector count='1'>geometry</otmi:vector>
+              <otmi:vector count='1'>contribution</otmi:vector>
+              <otmi:vector count='1'>trigonometry</otmi:vector>
+              <otmi:vector count='1'>time-evolving</otmi:vector>
+              <otmi:vector count='1'>vast</otmi:vector>
+              <otmi:vector count='1'>hypotheses</otmi:vector>
+              <otmi:vector count='1'>through</otmi:vector>
+              <otmi:vector count='1'>tractable</otmi:vector>
+              <otmi:vector count='1'>simultaneous</otmi:vector>
+              <otmi:vector count='1'>Formalizations</otmi:vector>
+              <otmi:vector count='1'>insights</otmi:vector>
+              <otmi:vector count='1'>Happily</otmi:vector>
+              <otmi:vector count='1'>mentioning</otmi:vector>
+              <otmi:vector count='1'>implement</otmi:vector>
+              <otmi:vector count='1'>intelligible</otmi:vector>
+              <otmi:vector count='1'>telephone</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>modularity</otmi:vector>
+              <otmi:vector count='1'>Nile</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>commercial</otmi:vector>
+              <otmi:vector count='1'>own</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>quantifying</otmi:vector>
+              <otmi:vector count='1'>factory</otmi:vector>
+              <otmi:vector count='1'>subsumed</otmi:vector>
+              <otmi:vector count='1'>cause</otmi:vector>
+              <otmi:vector count='1'>simulations</otmi:vector>
+              <otmi:vector count='1'>multicellular</otmi:vector>
+              <otmi:vector count='1'>They</otmi:vector>
+              <otmi:vector count='1'>mature</otmi:vector>
+              <otmi:vector count='1'>alongside</otmi:vector>
+              <otmi:vector count='1'>companies</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>receded</otmi:vector>
+              <otmi:vector count='1'>None</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>omic</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A third path to better understanding of function begins with deeper analysis of the natural language now used to describe it</otmi:snippet>
+              <otmi:snippet>And in the same spirit, we can view any signal-transduction pathway as a collection of protein machines that takes inputs from inside and outside the cell, performs processing operations on those inputs to arrive at decisions, and communicates those decisions to an apparatus that executes it</otmi:snippet>
+              <otmi:snippet>As we have said, biology does offer a clear definition of meaning (&quot;it was selected&quot;), but the multiple levels at which selection acts means that meaning is always difficult to determine</otmi:snippet>
+              <otmi:snippet>As yet there is no theory that can specify the meaning or purpose of a string of computer code, but Sussman has suggested how elements of such theory might arise </otmi:snippet>
+              <otmi:snippet>At the level of cells and organisms, biological systems differ from computers in many ways, including (but not limited to): lack of modularity and boundaries in code; lack of fixed order of execution in code; self-assembly of encoded components; lack of intelligible sentient design; and lack of crisp boundaries between memory, processor, input and output components</otmi:snippet>
+              <otmi:snippet>Because of this difference, it is unlikely that even a mature theory of stored-program machines will be adequate to explain biological systems</otmi:snippet>
+              <otmi:snippet>Because the dynamic behaviour of biological systems is highly determined by a central stored program, living systems differ profoundly from all other naturally occurring, time-evolving systems</otmi:snippet>
+              <otmi:snippet>Blurred boundaries In biological systems it seems reasonable to view the DNA script in the genome as executable code, code that could have been specified by a set of commands in a procedural imperative language</otmi:snippet>
+              <otmi:snippet>Bruck, personal communication)</otmi:snippet>
+              <otmi:snippet>But for biological function, just beyond cause-and-effect narratives and before the ultimate truths of fitness and selection, there lies a muddy patch of ground known as &quot;teleology&quot;</otmi:snippet>
+              <otmi:snippet>But in that mud there may be hope</otmi:snippet>
+              <otmi:snippet>But insofar as biologists wish to attain deeper understanding (for example, to predict the quantitative behaviour of biological systems), they will need to produce biological knowledge and operate on it in ways that natural language does not allow</otmi:snippet>
+              <otmi:snippet>But others, including most biological functions, arise from the genome by considerably more complex routes, with the consequence that function typically occurs simultaneously at multiple levels </otmi:snippet>
+              <otmi:snippet>But the outlines of most of these stories will probably remain unchanged</otmi:snippet>
+              <otmi:snippet>But their dynamic behaviour can be approached down a second path — by simulating approximate numerical and stochastic methods </otmi:snippet>
+              <otmi:snippet>But we also observe growing frustration with business as usual</otmi:snippet>
+              <otmi:snippet>But we will leave forecasting about PubMed and Google, metadata and the semantic web to others</otmi:snippet>
+              <otmi:snippet>By 2020 we expect that biologists will use computers, numerous &quot;omic&quot; data types (ref. 1 ) and a greatly expanded biological literature to design experiments, generate and analyse new data, and think about their own work</otmi:snippet>
+              <otmi:snippet>By laying out three paths from current computer science that might lead to deeper insights, we at least hope to stir things up</otmi:snippet>
+              <otmi:snippet>Deeper understanding Happily, there is considerable interest in wanting to build one element of biological semantics — the passage of time — into information theory</otmi:snippet>
+              <otmi:snippet>Equally important, they have inspired mathematicians and computer scientists to apply existing means to reduce complexity and seek new ones</otmi:snippet>
+              <otmi:snippet>For example, biological reaction networks do not have an order of execution, but probabilistic methods can be used to explore the most likely chains of reactions executed by a given network (M</otmi:snippet>
+              <otmi:snippet>Formalizations of information processing that embodied this and other semantic concepts relevant to biology might help biologists to go beyond quantifying reaction rates and molecular species of biological systems to understand their dynamic behaviour</otmi:snippet>
+              <otmi:snippet>He points out that mathematics had its roots in a workaday human activity, that of Egyptian surveyors redefining the boundaries of fields after the Nile floods receded</otmi:snippet>
+              <otmi:snippet>Here we describe three avenues worth exploring</otmi:snippet>
+              <otmi:snippet>Here, however, we imagine ways that formalisms from computer science might contribute to a deeper understanding of biological function</otmi:snippet>
+              <otmi:snippet>However marvellous developments in computation are by 2020, if their impact is limited to information generation, handling, visualization and integration, it will mean that their potential contribution to a more predictive understanding of biological function will have failed</otmi:snippet>
+              <otmi:snippet>However, even in the absence of grand theory, one can work on intermediate steps</otmi:snippet>
+              <otmi:snippet>However, to make the analogy between biological systems and von Neumann computers is to reveal important differences between them ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>If biology and information science continue with business as usual, then, by 2020, most of the natural-language stories of 2006 about biological function will be subsumed into more sophisticated narratives, which will be better organized and accessed by computers</otmi:snippet>
+              <otmi:snippet>If we knew better how biological systems worked, we could better perturb existing ones (such as ours, for human medicine) and we could design and build better ones</otmi:snippet>
+              <otmi:snippet>In 2006, it seems reasonable to compare living systems to &quot;von Neumann&quot;, or stored-program, computers, with processing systems (here encoded by the stored program), various external and internal inputs, and outputs in the form of execution</otmi:snippet>
+              <otmi:snippet>In biology, differential-equation models have a mixed history; they were vital for understanding transmission of the nerve impulse and for helping to identify reaction types before the channel molecules were discovered, but were less successful in circadian-rhythm research until biologists identified molecular entities and relevant reactions</otmi:snippet>
+              <otmi:snippet>In the same way, a workaday activity — the design and use of procedural imperative languages to write code (&quot;do this, now, do that, if such a thing happens, then do this!&quot;) to program computers — may lead to new formalisms describing information processing and eventually to new mathematics</otmi:snippet>
+              <otmi:snippet>In this view, the biological system is not primarily a factory or a chemical plant but an assemblage that takes information, processes it, decides and executes</otmi:snippet>
+              <otmi:snippet>Information theorists wanted to build a theory that involved the meaning (the semantic content) of messages, but could not measure meaning in sender, recipient or at any point in between</otmi:snippet>
+              <otmi:snippet>Instead, they chose a meaning for information that was restricted to the carrying capacity of communications channels such as telephone lines — the information technology of their era</otmi:snippet>
+              <otmi:snippet>Instead, we wish to consider some of the formalisms offered by computer science that developed alongside computing machines</otmi:snippet>
+              <otmi:snippet>It doesn&apos;t require vast prophetic vision to identify developments in computers and information technology that will greatly affect the practice of biology</otmi:snippet>
+              <otmi:snippet>Like information in Geographical Information Systems, which also have a limited vocabulary, biological narratives of cause and effect are readily systematizable by computers</otmi:snippet>
+              <otmi:snippet>Living computers We begin with what we know in 2006: the trajectory of living systems through developmental time and space is highly determined by the actions and interactions of functional molecules encoded by their genomes</otmi:snippet>
+              <otmi:snippet>Measure of meaning For most biological narratives, the resulting sets of differential equations are too complex to be analytically tractable</otmi:snippet>
+              <otmi:snippet>Most importantly, biological systems usually lack a clear boundary between processing apparatus and output</otmi:snippet>
+              <otmi:snippet>None of these levels is more true or fundamental than the other</otmi:snippet>
+              <otmi:snippet>One fruitful approach formalizes cause-and-effect relationships between named proteins and regulatory sites by translating these into defined chemical reactions undergone by defined molecular species</otmi:snippet>
+              <otmi:snippet>Riedel and J</otmi:snippet>
+              <otmi:snippet>Rigorous thinking about this activity led eventually to mathematics: geometry, trigonometry, algebra and beyond</otmi:snippet>
+              <otmi:snippet>Similarly, biologists would like to cast their descriptions in terms of meaning and purpose, but are limited in their ability to measure those things</otmi:snippet>
+              <otmi:snippet>Some aspects of biological systems, such as the sequence of encoded proteins (which determines their structure), arise directly from the genome</otmi:snippet>
+              <otmi:snippet>Teleology is hard to avoid: it is difficult to explain why the lens of the eye is transparent without at some point mentioning that the eye is &quot;for&quot; seeing</otmi:snippet>
+              <otmi:snippet>The cause-and-effect stories of function of proteins and regulatory sites use an impoverished vocabulary: many proper nouns, few verbs and some prepositional phrases denoting location</otmi:snippet>
+              <otmi:snippet>The development of computer science required both new formalisms to capture reasoning in natural languages and ways to implement those formalisms in physical devices </otmi:snippet>
+              <otmi:snippet>The fact that both possibilities and frustrations are now starkly evident should make the next 16 years interesting indeed.</otmi:snippet>
+              <otmi:snippet>The search for biologically relevant formalisms has a chance to greatly affect the understanding of biological function, in ways we are just starting to imagine</otmi:snippet>
+              <otmi:snippet>The twentieth-century architects of information theory deliberately restricted their concept of information because they were limited by their ability to define and measure it</otmi:snippet>
+              <otmi:snippet>The weather has no genome</otmi:snippet>
+              <otmi:snippet>There are at least four commercial companies working to provide such systematizations, which are already providing some insight </otmi:snippet>
+              <otmi:snippet>These approaches will not bear fruit without deliberate and difficult work</otmi:snippet>
+              <otmi:snippet>These encoded molecules are further influenced by external perturbations</otmi:snippet>
+              <otmi:snippet>These levels include the biochemical activity of an individual protein, the function of that protein in cellular processes involving other proteins, and the developmental trajectory of those processes within a multicellular organism </otmi:snippet>
+              <otmi:snippet>These reactions can be modelled as differential equations constrained by the rules of chemical kinetics, more formally codified as the &quot;chemical master equation&quot; </otmi:snippet>
+              <otmi:snippet>These simulations already constitute &quot;theory&quot;, in the narrow sense that they can generate hypotheses that can then be tested by direct experiment</otmi:snippet>
+              <otmi:snippet>They might also help to suggest new experiments — perhaps on synthetic biological systems engineered to have a crisper division between process and output, which could then be evolved by artificial selection</otmi:snippet>
+              <otmi:snippet>This approach might bring a deeper understanding of function at its most fundamental level of fitness and selection</otmi:snippet>
+              <otmi:snippet>This distinction arises because function in biology is a consequence of selection, and selection usually acts at many different levels</otmi:snippet>
+              <otmi:snippet>This fact will continue to frustrate analyses of biological systems in terms of the &quot;objective functions&quot; they are &quot;optimized&quot; to &quot;execute&quot;</otmi:snippet>
+              <otmi:snippet>This level of understanding is adequate for many purposes (including medicine and agriculture) and is being extended by contemporary biologists with great panache</otmi:snippet>
+              <otmi:snippet>Thus, the simplest human question &quot;what does the system do?&quot; (which translates into &quot;what was the system selected for?&quot;) usually has simultaneous multiple correct answers</otmi:snippet>
+              <otmi:snippet>Today, by contrast with descriptions of the physical world, the understanding of biological systems is most often represented by natural-language stories codified in natural-language papers and textbooks</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Biological systems (right) have similarities and differences to von Neumann computers (left).</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>In biological systems there is no distinction between processor and output, as function, phenotype and selection act at many levels.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/ng0497-325</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cell.2005.05.005</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)81693-1</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0378-4371(92)90283-V</otmi:refid>
+          <otmi:refid>info:doi/10.1021/j100540a008 </otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03985</otmi:refid>
+          <otmi:refsnoid>5</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

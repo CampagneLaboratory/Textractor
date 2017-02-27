@@ -1,0 +1,23 @@
+#JBC1999
+#274_52_37400
+p70 S6K
+PKB
+PKBalpha
+PDK1
+PIF
+IGF
+
+#274_53_37965
+ERK2
+L1
+Raf 1
+ankyrin
+CKII
+p90rsk
+
+#274_53_38225
+hRARalpha
+hRXRalpha
+PKCalpha
+PKCgamma
+hVDR

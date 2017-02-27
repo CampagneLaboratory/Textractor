@@ -1,0 +1,1639 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>From molecule to malady</title>
+      <id>info:doi/10.1038/nature04707</id>
+      <link href='http://dx.doi.org/10.1038/nature04707' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Frances M. Ashcroft</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>440</prism:startingPage>
+      <prism:endingPage>447</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>Ion channels are membrane proteins, found in virtually all cells, that are of crucial physiological importance. In the past decade, an explosion in the number of crystal structures of ion channels has led to a marked increase in our understanding of how ion channels open and close, and select between permeant ions. There has been a parallel advance in research on channelopathies (diseases resulting from impaired channel function), and mutations in over 60 ion-channel genes are now known to cause human disease. Characterization of their functional consequences has afforded unprecedented and unexpected insights into ion-channel mechanisms and physiological roles.</otmi:rawtext>
+          <otmi:reducedtext>Ion channels membrane proteins, found virtually all cells, crucial physiological importance. past decade, explosion number crystal structures ion channels has led marked increase our understanding how ion channels open close, select between permeant ions. There has been parallel advance research channelopathies (diseases resulting impaired channel function), mutations over 60 ion-channel genes now known cause human disease. Characterization their functional consequences has afforded unprecedented unexpected insights into ion-channel mechanisms physiological roles.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='3'>has</otmi:vector>
+            <otmi:vector count='3'>channels</otmi:vector>
+            <otmi:vector count='2'>physiological</otmi:vector>
+            <otmi:vector count='2'>ion</otmi:vector>
+            <otmi:vector count='2'>ion-channel</otmi:vector>
+            <otmi:vector count='1'>afforded</otmi:vector>
+            <otmi:vector count='1'>past</otmi:vector>
+            <otmi:vector count='1'>genes</otmi:vector>
+            <otmi:vector count='1'>diseases</otmi:vector>
+            <otmi:vector count='1'>been</otmi:vector>
+            <otmi:vector count='1'>our</otmi:vector>
+            <otmi:vector count='1'>marked</otmi:vector>
+            <otmi:vector count='1'>all</otmi:vector>
+            <otmi:vector count='1'>human</otmi:vector>
+            <otmi:vector count='1'>close</otmi:vector>
+            <otmi:vector count='1'>increase</otmi:vector>
+            <otmi:vector count='1'>number</otmi:vector>
+            <otmi:vector count='1'>virtually</otmi:vector>
+            <otmi:vector count='1'>found</otmi:vector>
+            <otmi:vector count='1'>functional</otmi:vector>
+            <otmi:vector count='1'>mutations</otmi:vector>
+            <otmi:vector count='1'>60</otmi:vector>
+            <otmi:vector count='1'>There</otmi:vector>
+            <otmi:vector count='1'>understanding</otmi:vector>
+            <otmi:vector count='1'>into</otmi:vector>
+            <otmi:vector count='1'>structures</otmi:vector>
+            <otmi:vector count='1'>crystal</otmi:vector>
+            <otmi:vector count='1'>decade</otmi:vector>
+            <otmi:vector count='1'>how</otmi:vector>
+            <otmi:vector count='1'>crucial</otmi:vector>
+            <otmi:vector count='1'>roles.</otmi:vector>
+            <otmi:vector count='1'>unexpected</otmi:vector>
+            <otmi:vector count='1'>function</otmi:vector>
+            <otmi:vector count='1'>advance</otmi:vector>
+            <otmi:vector count='1'>unprecedented</otmi:vector>
+            <otmi:vector count='1'>known</otmi:vector>
+            <otmi:vector count='1'>channel</otmi:vector>
+            <otmi:vector count='1'>permeant</otmi:vector>
+            <otmi:vector count='1'>mechanisms</otmi:vector>
+            <otmi:vector count='1'>their</otmi:vector>
+            <otmi:vector count='1'>ions</otmi:vector>
+            <otmi:vector count='1'>between</otmi:vector>
+            <otmi:vector count='1'>parallel</otmi:vector>
+            <otmi:vector count='1'>membrane</otmi:vector>
+            <otmi:vector count='1'>Ion</otmi:vector>
+            <otmi:vector count='1'>insights</otmi:vector>
+            <otmi:vector count='1'>led</otmi:vector>
+            <otmi:vector count='1'>consequences</otmi:vector>
+            <otmi:vector count='1'>Characterization</otmi:vector>
+            <otmi:vector count='1'>cause</otmi:vector>
+            <otmi:vector count='1'>over</otmi:vector>
+            <otmi:vector count='1'>resulting</otmi:vector>
+            <otmi:vector count='1'>research</otmi:vector>
+            <otmi:vector count='1'>importance</otmi:vector>
+            <otmi:vector count='1'>proteins</otmi:vector>
+            <otmi:vector count='1'>impaired</otmi:vector>
+            <otmi:vector count='1'>disease</otmi:vector>
+            <otmi:vector count='1'>channelopathies</otmi:vector>
+            <otmi:vector count='1'>select</otmi:vector>
+            <otmi:vector count='1'>open</otmi:vector>
+            <otmi:vector count='1'>explosion</otmi:vector>
+            <otmi:vector count='1'>now</otmi:vector>
+            <otmi:vector count='1'>cells</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>Characterization of their functional consequences has afforded unprecedented and unexpected insights into ion-channel mechanisms and physiological roles.</otmi:snippet>
+            <otmi:snippet>In the past decade, an explosion in the number of crystal structures of ion channels has led to a marked increase in our understanding of how ion channels open and close, and select between permeant ions</otmi:snippet>
+            <otmi:snippet>Ion channels are membrane proteins, found in virtually all cells, that are of crucial physiological importance</otmi:snippet>
+            <otmi:snippet>There has been a parallel advance in research on channelopathies (diseases resulting from impaired channel function), and mutations in over 60 ion-channel genes are now known to cause human disease</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='110'>channels</otmi:vector>
+              <otmi:vector count='48'>channel</otmi:vector>
+              <otmi:vector count='42'>ion</otmi:vector>
+              <otmi:vector count='41'>p</otmi:vector>
+              <otmi:vector count='40'>see</otmi:vector>
+              <otmi:vector count='28'>K</otmi:vector>
+              <otmi:vector count='28'>mutations</otmi:vector>
+              <otmi:vector count='27'>which</otmi:vector>
+              <otmi:vector count='24'>also</otmi:vector>
+              <otmi:vector count='22'>have</otmi:vector>
+              <otmi:vector count='21'>pore</otmi:vector>
+              <otmi:vector count='20'>subunits</otmi:vector>
+              <otmi:vector count='18'>V</otmi:vector>
+              <otmi:vector count='18'>can</otmi:vector>
+              <otmi:vector count='17'>membrane</otmi:vector>
+              <otmi:vector count='17'>their</otmi:vector>
+              <otmi:vector count='16'>Na</otmi:vector>
+              <otmi:vector count='15'>2</otmi:vector>
+              <otmi:vector count='15'>function</otmi:vector>
+              <otmi:vector count='14'>disease</otmi:vector>
+              <otmi:vector count='14'>channelopathies</otmi:vector>
+              <otmi:vector count='14'>1</otmi:vector>
+              <otmi:vector count='13'>ATP</otmi:vector>
+              <otmi:vector count='12'>may</otmi:vector>
+              <otmi:vector count='12'>example</otmi:vector>
+              <otmi:vector count='12'>gating</otmi:vector>
+              <otmi:vector count='12'>AChR</otmi:vector>
+              <otmi:vector count='12'>protein</otmi:vector>
+              <otmi:vector count='12'>some</otmi:vector>
+              <otmi:vector count='12'>genes</otmi:vector>
+              <otmi:vector count='11'>Fig</otmi:vector>
+              <otmi:vector count='11'>at</otmi:vector>
+              <otmi:vector count='11'>activity</otmi:vector>
+              <otmi:vector count='11'>ion-channel</otmi:vector>
+              <otmi:vector count='11'>470</otmi:vector>
+              <otmi:vector count='10'>such</otmi:vector>
+              <otmi:vector count='10'>structure</otmi:vector>
+              <otmi:vector count='10'>ions</otmi:vector>
+              <otmi:vector count='10'>mutation</otmi:vector>
+              <otmi:vector count='10'>disorders</otmi:vector>
+              <otmi:vector count='10'>many</otmi:vector>
+              <otmi:vector count='10'>cause</otmi:vector>
+              <otmi:vector count='10'>site</otmi:vector>
+              <otmi:vector count='10'>more</otmi:vector>
+              <otmi:vector count='10'>drugs</otmi:vector>
+              <otmi:vector count='9'>they</otmi:vector>
+              <otmi:vector count='9'>sites</otmi:vector>
+              <otmi:vector count='9'>selectivity</otmi:vector>
+              <otmi:vector count='9'>463</otmi:vector>
+              <otmi:vector count='9'>proteins</otmi:vector>
+              <otmi:vector count='9'>not</otmi:vector>
+              <otmi:vector count='8'>one</otmi:vector>
+              <otmi:vector count='8'>ligand-binding</otmi:vector>
+              <otmi:vector count='8'>other</otmi:vector>
+              <otmi:vector count='8'>only</otmi:vector>
+              <otmi:vector count='8'>different</otmi:vector>
+              <otmi:vector count='8'>transporters</otmi:vector>
+              <otmi:vector count='8'>Ion</otmi:vector>
+              <otmi:vector count='8'>muscle</otmi:vector>
+              <otmi:vector count='8'>between</otmi:vector>
+              <otmi:vector count='8'>but</otmi:vector>
+              <otmi:vector count='8'>subunit</otmi:vector>
+              <otmi:vector count='8'>produce</otmi:vector>
+              <otmi:vector count='8'>accessory</otmi:vector>
+              <otmi:vector count='8'>through</otmi:vector>
+              <otmi:vector count='8'>four</otmi:vector>
+              <otmi:vector count='8'>how</otmi:vector>
+              <otmi:vector count='8'>will</otmi:vector>
+              <otmi:vector count='8'>448</otmi:vector>
+              <otmi:vector count='8'>review</otmi:vector>
+              <otmi:vector count='8'>domains</otmi:vector>
+              <otmi:vector count='7'>found</otmi:vector>
+              <otmi:vector count='7'>been</otmi:vector>
+              <otmi:vector count='7'>intracellular</otmi:vector>
+              <otmi:vector count='7'>pore-loop</otmi:vector>
+              <otmi:vector count='7'>important</otmi:vector>
+              <otmi:vector count='7'>than</otmi:vector>
+              <otmi:vector count='7'>common</otmi:vector>
+              <otmi:vector count='7'>issue</otmi:vector>
+              <otmi:vector count='7'>Ca</otmi:vector>
+              <otmi:vector count='7'>binding</otmi:vector>
+              <otmi:vector count='7'>residues</otmi:vector>
+              <otmi:vector count='7'>syndrome</otmi:vector>
+              <otmi:vector count='7'>movement</otmi:vector>
+              <otmi:vector count='7'>gate</otmi:vector>
+              <otmi:vector count='7'>changes</otmi:vector>
+              <otmi:vector count='7'>open</otmi:vector>
+              <otmi:vector count='7'>pore-forming</otmi:vector>
+              <otmi:vector count='7'>receptors</otmi:vector>
+              <otmi:vector count='7'>filter</otmi:vector>
+              <otmi:vector count='7'>charged</otmi:vector>
+              <otmi:vector count='6'>dominant</otmi:vector>
+              <otmi:vector count='6'>because</otmi:vector>
+              <otmi:vector count='6'>cell</otmi:vector>
+              <otmi:vector count='6'>epilepsy</otmi:vector>
+              <otmi:vector count='6'>act</otmi:vector>
+              <otmi:vector count='6'>most</otmi:vector>
+              <otmi:vector count='6'>These</otmi:vector>
+              <otmi:vector count='6'>has</otmi:vector>
+              <otmi:vector count='6'>these</otmi:vector>
+              <otmi:vector count='6'>ref</otmi:vector>
+              <otmi:vector count='6'>if</otmi:vector>
+              <otmi:vector count='6'>S4</otmi:vector>
+              <otmi:vector count='6'>voltage</otmi:vector>
+              <otmi:vector count='6'>ligand</otmi:vector>
+              <otmi:vector count='6'>same</otmi:vector>
+              <otmi:vector count='6'>transmembrane</otmi:vector>
+              <otmi:vector count='6'>Kir</otmi:vector>
+              <otmi:vector count='6'>into</otmi:vector>
+              <otmi:vector count='6'>result</otmi:vector>
+              <otmi:vector count='6'>closed</otmi:vector>
+              <otmi:vector count='6'>too</otmi:vector>
+              <otmi:vector count='6'>two</otmi:vector>
+              <otmi:vector count='6'>recessive</otmi:vector>
+              <otmi:vector count='5'>known</otmi:vector>
+              <otmi:vector count='5'>effects</otmi:vector>
+              <otmi:vector count='5'>several</otmi:vector>
+              <otmi:vector count='5'>CFTR</otmi:vector>
+              <otmi:vector count='5'>new</otmi:vector>
+              <otmi:vector count='5'>all</otmi:vector>
+              <otmi:vector count='5'>so</otmi:vector>
+              <otmi:vector count='5'>ligand-gated</otmi:vector>
+              <otmi:vector count='5'>form</otmi:vector>
+              <otmi:vector count='5'>types</otmi:vector>
+              <otmi:vector count='5'>plasma</otmi:vector>
+              <otmi:vector count='5'>multimeric</otmi:vector>
+              <otmi:vector count='5'>results</otmi:vector>
+              <otmi:vector count='5'>studies</otmi:vector>
+              <otmi:vector count='5'>causes</otmi:vector>
+              <otmi:vector count='5'>diverse</otmi:vector>
+              <otmi:vector count='5'>484</otmi:vector>
+              <otmi:vector count='5'>Although</otmi:vector>
+              <otmi:vector count='5'>family</otmi:vector>
+              <otmi:vector count='5'>understanding</otmi:vector>
+              <otmi:vector count='5'>SUR</otmi:vector>
+              <otmi:vector count='5'>receptor</otmi:vector>
+              <otmi:vector count='5'>LQT</otmi:vector>
+              <otmi:vector count='5'>477</otmi:vector>
+              <otmi:vector count='5'>those</otmi:vector>
+              <otmi:vector count='5'>reviews</otmi:vector>
+              <otmi:vector count='5'>Cys-loop</otmi:vector>
+              <otmi:vector count='5'>They</otmi:vector>
+              <otmi:vector count='5'>both</otmi:vector>
+              <otmi:vector count='5'>structures</otmi:vector>
+              <otmi:vector count='4'>case</otmi:vector>
+              <otmi:vector count='4'>Cl</otmi:vector>
+              <otmi:vector count='4'>required</otmi:vector>
+              <otmi:vector count='4'>across</otmi:vector>
+              <otmi:vector count='4'>pumps</otmi:vector>
+              <otmi:vector count='4'>wild-type</otmi:vector>
+              <otmi:vector count='4'>epithelial</otmi:vector>
+              <otmi:vector count='4'>discussed</otmi:vector>
+              <otmi:vector count='4'>theme</otmi:vector>
+              <otmi:vector count='4'>functional</otmi:vector>
+              <otmi:vector count='4'>electrical</otmi:vector>
+              <otmi:vector count='4'>single</otmi:vector>
+              <otmi:vector count='4'>potential</otmi:vector>
+              <otmi:vector count='4'>Table</otmi:vector>
+              <otmi:vector count='4'>ligands</otmi:vector>
+              <otmi:vector count='4'>lead</otmi:vector>
+              <otmi:vector count='4'>depends</otmi:vector>
+              <otmi:vector count='4'>acquired</otmi:vector>
+              <otmi:vector count='4'>Because</otmi:vector>
+              <otmi:vector count='4'>present</otmi:vector>
+              <otmi:vector count='4'>why</otmi:vector>
+              <otmi:vector count='4'>loops</otmi:vector>
+              <otmi:vector count='4'>influence</otmi:vector>
+              <otmi:vector count='4'>therapeutic</otmi:vector>
+              <otmi:vector count='4'>well</otmi:vector>
+              <otmi:vector count='4'>when</otmi:vector>
+              <otmi:vector count='4'>cardiac</otmi:vector>
+              <otmi:vector count='4'>individuals</otmi:vector>
+              <otmi:vector count='4'>key</otmi:vector>
+              <otmi:vector count='4'>mutant</otmi:vector>
+              <otmi:vector count='4'>possess</otmi:vector>
+              <otmi:vector count='4'>variety</otmi:vector>
+              <otmi:vector count='4'>diabetes</otmi:vector>
+              <otmi:vector count='4'>there</otmi:vector>
+              <otmi:vector count='4'>certain</otmi:vector>
+              <otmi:vector count='4'>secretion</otmi:vector>
+              <otmi:vector count='4'>TMs</otmi:vector>
+              <otmi:vector count='4'>electrochemical</otmi:vector>
+              <otmi:vector count='4'>like</otmi:vector>
+              <otmi:vector count='4'>state</otmi:vector>
+              <otmi:vector count='4'>properties</otmi:vector>
+              <otmi:vector count='4'>However</otmi:vector>
+              <otmi:vector count='4'>Tables</otmi:vector>
+              <otmi:vector count='4'>Accessory</otmi:vector>
+              <otmi:vector count='4'>cases</otmi:vector>
+              <otmi:vector count='3'>features</otmi:vector>
+              <otmi:vector count='3'>gene</otmi:vector>
+              <otmi:vector count='3'>interact</otmi:vector>
+              <otmi:vector count='3'>hERG</otmi:vector>
+              <otmi:vector count='3'>opening</otmi:vector>
+              <otmi:vector count='3'>rapsyn</otmi:vector>
+              <otmi:vector count='3'>specific</otmi:vector>
+              <otmi:vector count='3'>backbone</otmi:vector>
+              <otmi:vector count='3'>cyclic-nucleotide-binding</otmi:vector>
+              <otmi:vector count='3'>often</otmi:vector>
+              <otmi:vector count='3'>yet</otmi:vector>
+              <otmi:vector count='3'>456</otmi:vector>
+              <otmi:vector count='3'>extracellular</otmi:vector>
+              <otmi:vector count='3'>transport</otmi:vector>
+              <otmi:vector count='3'>roles</otmi:vector>
+              <otmi:vector count='3'>importance</otmi:vector>
+              <otmi:vector count='3'>belong</otmi:vector>
+              <otmi:vector count='3'>rise</otmi:vector>
+              <otmi:vector count='3'>move</otmi:vector>
+              <otmi:vector count='3'>proliferation</otmi:vector>
+              <otmi:vector count='3'>domain</otmi:vector>
+              <otmi:vector count='3'>extent</otmi:vector>
+              <otmi:vector count='3'>Indeed</otmi:vector>
+              <otmi:vector count='3'>composed</otmi:vector>
+              <otmi:vector count='3'>human</otmi:vector>
+              <otmi:vector count='3'>almost</otmi:vector>
+              <otmi:vector count='3'>tissues</otmi:vector>
+              <otmi:vector count='3'>phenotype</otmi:vector>
+              <otmi:vector count='3'>positively</otmi:vector>
+              <otmi:vector count='3'>energy</otmi:vector>
+              <otmi:vector count='3'>helices</otmi:vector>
+              <otmi:vector count='3'>first</otmi:vector>
+              <otmi:vector count='3'>conformational</otmi:vector>
+              <otmi:vector count='3'>central</otmi:vector>
+              <otmi:vector count='3'>others</otmi:vector>
+              <otmi:vector count='3'>ClC</otmi:vector>
+              <otmi:vector count='3'>sensitivity</otmi:vector>
+              <otmi:vector count='3'>loss-of-function</otmi:vector>
+              <otmi:vector count='3'>illuminated</otmi:vector>
+              <otmi:vector count='3'>described</otmi:vector>
+              <otmi:vector count='3'>either</otmi:vector>
+              <otmi:vector count='3'>sufficient</otmi:vector>
+              <otmi:vector count='3'>nerve</otmi:vector>
+              <otmi:vector count='3'>loop</otmi:vector>
+              <otmi:vector count='3'>glutamate</otmi:vector>
+              <otmi:vector count='3'>diseases</otmi:vector>
+              <otmi:vector count='3'>nature</otmi:vector>
+              <otmi:vector count='3'>pores</otmi:vector>
+              <otmi:vector count='3'>myotonia</otmi:vector>
+              <otmi:vector count='3'>similar</otmi:vector>
+              <otmi:vector count='3'>even</otmi:vector>
+              <otmi:vector count='3'>evolved</otmi:vector>
+              <otmi:vector count='3'>Other</otmi:vector>
+              <otmi:vector count='3'>revealed</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>whereas</otmi:vector>
+              <otmi:vector count='3'>hydrolysis</otmi:vector>
+              <otmi:vector count='3'>novel</otmi:vector>
+              <otmi:vector count='3'>structural</otmi:vector>
+              <otmi:vector count='3'>next</otmi:vector>
+              <otmi:vector count='3'>genetic</otmi:vector>
+              <otmi:vector count='3'>hypertension</otmi:vector>
+              <otmi:vector count='3'>core</otmi:vector>
+              <otmi:vector count='3'>inactivation</otmi:vector>
+              <otmi:vector count='3'>voltage-gated</otmi:vector>
+              <otmi:vector count='3'>conductance</otmi:vector>
+              <otmi:vector count='3'>large</otmi:vector>
+              <otmi:vector count='3'>against</otmi:vector>
+              <otmi:vector count='3'>gradient</otmi:vector>
+              <otmi:vector count='3'>bacterial</otmi:vector>
+              <otmi:vector count='3'>least</otmi:vector>
+              <otmi:vector count='3'>very</otmi:vector>
+              <otmi:vector count='3'>five</otmi:vector>
+              <otmi:vector count='3'>flux</otmi:vector>
+              <otmi:vector count='3'>helix</otmi:vector>
+              <otmi:vector count='3'>charge</otmi:vector>
+              <otmi:vector count='3'>clinical</otmi:vector>
+              <otmi:vector count='3'>hyperexcitability</otmi:vector>
+              <otmi:vector count='3'>current</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>provides</otmi:vector>
+              <otmi:vector count='3'>vesicles</otmi:vector>
+              <otmi:vector count='3'>ATP-binding</otmi:vector>
+              <otmi:vector count='3'>CNG</otmi:vector>
+              <otmi:vector count='3'>Most</otmi:vector>
+              <otmi:vector count='3'>interactions</otmi:vector>
+              <otmi:vector count='3'>congenital</otmi:vector>
+              <otmi:vector count='3'>All</otmi:vector>
+              <otmi:vector count='3'>its</otmi:vector>
+              <otmi:vector count='3'>beta-cells</otmi:vector>
+              <otmi:vector count='3'>species</otmi:vector>
+              <otmi:vector count='3'>being</otmi:vector>
+              <otmi:vector count='3'>Insight</otmi:vector>
+              <otmi:vector count='3'>use</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='2'>polymorphisms</otmi:vector>
+              <otmi:vector count='2'>conformations</otmi:vector>
+              <otmi:vector count='2'>advances</otmi:vector>
+              <otmi:vector count='2'>therapies</otmi:vector>
+              <otmi:vector count='2'>suggests</otmi:vector>
+              <otmi:vector count='2'>endocytotic</otmi:vector>
+              <otmi:vector count='2'>pressure</otmi:vector>
+              <otmi:vector count='2'>adversely</otmi:vector>
+              <otmi:vector count='2'>oxygens</otmi:vector>
+              <otmi:vector count='2'>energetic</otmi:vector>
+              <otmi:vector count='2'>inhibitory</otmi:vector>
+              <otmi:vector count='2'>short</otmi:vector>
+              <otmi:vector count='2'>achieved</otmi:vector>
+              <otmi:vector count='2'>balance</otmi:vector>
+              <otmi:vector count='2'>blood</otmi:vector>
+              <otmi:vector count='2'>role</otmi:vector>
+              <otmi:vector count='2'>rotation</otmi:vector>
+              <otmi:vector count='2'>severity</otmi:vector>
+              <otmi:vector count='2'>probably</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>work</otmi:vector>
+              <otmi:vector count='2'>http:</otmi:vector>
+              <otmi:vector count='2'>detail</otmi:vector>
+              <otmi:vector count='2'>salt</otmi:vector>
+              <otmi:vector count='2'>modulators</otmi:vector>
+              <otmi:vector count='2'>essential</otmi:vector>
+              <otmi:vector count='2'>available</otmi:vector>
+              <otmi:vector count='2'>-binding</otmi:vector>
+              <otmi:vector count='2'>link</otmi:vector>
+              <otmi:vector count='2'>solved</otmi:vector>
+              <otmi:vector count='2'>Selectivity</otmi:vector>
+              <otmi:vector count='2'>contains</otmi:vector>
+              <otmi:vector count='2'>agents</otmi:vector>
+              <otmi:vector count='2'>accompanying</otmi:vector>
+              <otmi:vector count='2'>thus</otmi:vector>
+              <otmi:vector count='2'>heterozygous</otmi:vector>
+              <otmi:vector count='2'>nervous</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>them</otmi:vector>
+              <otmi:vector count='2'>renal</otmi:vector>
+              <otmi:vector count='2'>line</otmi:vector>
+              <otmi:vector count='2'>MiRP</otmi:vector>
+              <otmi:vector count='2'>contain</otmi:vector>
+              <otmi:vector count='2'>usually</otmi:vector>
+              <otmi:vector count='2'>high</otmi:vector>
+              <otmi:vector count='2'>therapy</otmi:vector>
+              <otmi:vector count='2'>crystal</otmi:vector>
+              <otmi:vector count='2'>better</otmi:vector>
+              <otmi:vector count='2'>needs</otmi:vector>
+              <otmi:vector count='2'>contributes</otmi:vector>
+              <otmi:vector count='2'>affects</otmi:vector>
+              <otmi:vector count='2'>eight</otmi:vector>
+              <otmi:vector count='2'>target</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>discriminate</otmi:vector>
+              <otmi:vector count='2'>hyperinsulinaemia</otmi:vector>
+              <otmi:vector count='2'>number</otmi:vector>
+              <otmi:vector count='2'>triggers</otmi:vector>
+              <otmi:vector count='2'>temperature</otmi:vector>
+              <otmi:vector count='2'>waters</otmi:vector>
+              <otmi:vector count='2'>separate</otmi:vector>
+              <otmi:vector count='2'>however</otmi:vector>
+              <otmi:vector count='2'>research</otmi:vector>
+              <otmi:vector count='2'>predispose</otmi:vector>
+              <otmi:vector count='2'>KcsA</otmi:vector>
+              <otmi:vector count='2'>differently</otmi:vector>
+              <otmi:vector count='2'>Box</otmi:vector>
+              <otmi:vector count='2'>small</otmi:vector>
+              <otmi:vector count='2'>second</otmi:vector>
+              <otmi:vector count='2'>within</otmi:vector>
+              <otmi:vector count='2'>no</otmi:vector>
+              <otmi:vector count='2'>SR</otmi:vector>
+              <otmi:vector count='2'>presence</otmi:vector>
+              <otmi:vector count='2'>repeated</otmi:vector>
+              <otmi:vector count='2'>co-operative</otmi:vector>
+              <otmi:vector count='2'>bone</otmi:vector>
+              <otmi:vector count='2'>gain-of-function</otmi:vector>
+              <otmi:vector count='2'>although</otmi:vector>
+              <otmi:vector count='2'>carrying</otmi:vector>
+              <otmi:vector count='2'>side</otmi:vector>
+              <otmi:vector count='2'>fluid</otmi:vector>
+              <otmi:vector count='2'>heart</otmi:vector>
+              <otmi:vector count='2'>range</otmi:vector>
+              <otmi:vector count='2'>selective</otmi:vector>
+              <otmi:vector count='2'>BK</otmi:vector>
+              <otmi:vector count='2'>lymphocyte</otmi:vector>
+              <otmi:vector count='2'>itself</otmi:vector>
+              <otmi:vector count='2'>greater</otmi:vector>
+              <otmi:vector count='2'>severe</otmi:vector>
+              <otmi:vector count='2'>thereby</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>developed</otmi:vector>
+              <otmi:vector count='2'>acetylcholine-binding</otmi:vector>
+              <otmi:vector count='2'>kidney</otmi:vector>
+              <otmi:vector count='2'>subtle</otmi:vector>
+              <otmi:vector count='2'>action-potential</otmi:vector>
+              <otmi:vector count='2'>gap-junction</otmi:vector>
+              <otmi:vector count='2'>QT</otmi:vector>
+              <otmi:vector count='2'>permit</otmi:vector>
+              <otmi:vector count='2'>larger</otmi:vector>
+              <otmi:vector count='2'>barrier</otmi:vector>
+              <otmi:vector count='2'>hydrophobic</otmi:vector>
+              <otmi:vector count='2'>produced</otmi:vector>
+              <otmi:vector count='2'>Interestingly</otmi:vector>
+              <otmi:vector count='2'>pass</otmi:vector>
+              <otmi:vector count='2'>single-channel</otmi:vector>
+              <otmi:vector count='2'>became</otmi:vector>
+              <otmi:vector count='2'>exclude</otmi:vector>
+              <otmi:vector count='2'>affected</otmi:vector>
+              <otmi:vector count='2'>negatively</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>just</otmi:vector>
+              <otmi:vector count='2'>permeation</otmi:vector>
+              <otmi:vector count='2'>neurons</otmi:vector>
+              <otmi:vector count='2'>ABC</otmi:vector>
+              <otmi:vector count='2'>part</otmi:vector>
+              <otmi:vector count='2'>carbonyls</otmi:vector>
+              <otmi:vector count='2'>Many</otmi:vector>
+              <otmi:vector count='2'>pancreatic</otmi:vector>
+              <otmi:vector count='2'>therefore</otmi:vector>
+              <otmi:vector count='2'>clear</otmi:vector>
+              <otmi:vector count='2'>largest</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>diversity</otmi:vector>
+              <otmi:vector count='2'>Structural</otmi:vector>
+              <otmi:vector count='2'>tetrameric</otmi:vector>
+              <otmi:vector count='2'>pentameric</otmi:vector>
+              <otmi:vector count='2'>mechanism</otmi:vector>
+              <otmi:vector count='2'>cation</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>practice</otmi:vector>
+              <otmi:vector count='2'>enable</otmi:vector>
+              <otmi:vector count='2'>Miller</otmi:vector>
+              <otmi:vector count='2'>distinguish</otmi:vector>
+              <otmi:vector count='2'>High-resolution</otmi:vector>
+              <otmi:vector count='2'>Some</otmi:vector>
+              <otmi:vector count='2'>fact</otmi:vector>
+              <otmi:vector count='2'>fibrosis</otmi:vector>
+              <otmi:vector count='2'>distinct</otmi:vector>
+              <otmi:vector count='2'>Thus</otmi:vector>
+              <otmi:vector count='2'>density</otmi:vector>
+              <otmi:vector count='2'>persistent</otmi:vector>
+              <otmi:vector count='2'>interacting</otmi:vector>
+              <otmi:vector count='2'>acetylcholine</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>fourth</otmi:vector>
+              <otmi:vector count='2'>crucial</otmi:vector>
+              <otmi:vector count='2'>location</otmi:vector>
+              <otmi:vector count='2'>sensing</otmi:vector>
+              <otmi:vector count='2'>bind</otmi:vector>
+              <otmi:vector count='2'>hydrated</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>principle</otmi:vector>
+              <otmi:vector count='2'>rapid</otmi:vector>
+              <otmi:vector count='2'>relationships</otmi:vector>
+              <otmi:vector count='2'>sometimes</otmi:vector>
+              <otmi:vector count='2'>anaesthetics</otmi:vector>
+              <otmi:vector count='2'>wall</otmi:vector>
+              <otmi:vector count='2'>people</otmi:vector>
+              <otmi:vector count='2'>leads</otmi:vector>
+              <otmi:vector count='2'>34</otmi:vector>
+              <otmi:vector count='2'>modulate</otmi:vector>
+              <otmi:vector count='2'>particularly</otmi:vector>
+              <otmi:vector count='2'>brain</otmi:vector>
+              <otmi:vector count='2'>Mutations</otmi:vector>
+              <otmi:vector count='2'>serve</otmi:vector>
+              <otmi:vector count='2'>prevent</otmi:vector>
+              <otmi:vector count='2'>anions</otmi:vector>
+              <otmi:vector count='2'>high-resolution</otmi:vector>
+              <otmi:vector count='2'>water</otmi:vector>
+              <otmi:vector count='2'>half</otmi:vector>
+              <otmi:vector count='2'>affect</otmi:vector>
+              <otmi:vector count='2'>regulation</otmi:vector>
+              <otmi:vector count='2'>acts</otmi:vector>
+              <otmi:vector count='2'>membranes</otmi:vector>
+              <otmi:vector count='2'>enough</otmi:vector>
+              <otmi:vector count='2'>physically</otmi:vector>
+              <otmi:vector count='2'>caused</otmi:vector>
+              <otmi:vector count='2'>give</otmi:vector>
+              <otmi:vector count='2'>determined</otmi:vector>
+              <otmi:vector count='2'>true</otmi:vector>
+              <otmi:vector count='2'>change</otmi:vector>
+              <otmi:vector count='2'>confined</otmi:vector>
+              <otmi:vector count='2'>subsequent</otmi:vector>
+              <otmi:vector count='2'>Kir6.2</otmi:vector>
+              <otmi:vector count='2'>unhydrated</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='2'>formed</otmi:vector>
+              <otmi:vector count='2'>ability</otmi:vector>
+              <otmi:vector count='2'>GYG</otmi:vector>
+              <otmi:vector count='2'>carbonyl</otmi:vector>
+              <otmi:vector count='2'>trafficking</otmi:vector>
+              <otmi:vector count='2'>impaired</otmi:vector>
+              <otmi:vector count='2'>involved</otmi:vector>
+              <otmi:vector count='2'>repolarization</otmi:vector>
+              <otmi:vector count='2'>impair</otmi:vector>
+              <otmi:vector count='2'>our</otmi:vector>
+              <otmi:vector count='2'>chains</otmi:vector>
+              <otmi:vector count='2'>response</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>cousins</otmi:vector>
+              <otmi:vector count='2'>built</otmi:vector>
+              <otmi:vector count='2'>fatal</otmi:vector>
+              <otmi:vector count='2'>targets</otmi:vector>
+              <otmi:vector count='2'>physical</otmi:vector>
+              <otmi:vector count='2'>hydration</otmi:vector>
+              <otmi:vector count='2'>carriers</otmi:vector>
+              <otmi:vector count='2'>show</otmi:vector>
+              <otmi:vector count='2'>field</otmi:vector>
+              <otmi:vector count='2'>Gating</otmi:vector>
+              <otmi:vector count='2'>excitability</otmi:vector>
+              <otmi:vector count='2'>inhibit</otmi:vector>
+              <otmi:vector count='2'>expression</otmi:vector>
+              <otmi:vector count='2'>fundamental</otmi:vector>
+              <otmi:vector count='2'>together</otmi:vector>
+              <otmi:vector count='2'>MinK</otmi:vector>
+              <otmi:vector count='2'>tightly</otmi:vector>
+              <otmi:vector count='2'>class</otmi:vector>
+              <otmi:vector count='2'>myasthenic</otmi:vector>
+              <otmi:vector count='2'>cystic</otmi:vector>
+              <otmi:vector count='2'>myasthenia</otmi:vector>
+              <otmi:vector count='2'>highly</otmi:vector>
+              <otmi:vector count='2'>50</otmi:vector>
+              <otmi:vector count='2'>addition</otmi:vector>
+              <otmi:vector count='2'>rarely</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>GluR</otmi:vector>
+              <otmi:vector count='2'>drug</otmi:vector>
+              <otmi:vector count='1'>replaced</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>targeting</otmi:vector>
+              <otmi:vector count='1'>tandem</otmi:vector>
+              <otmi:vector count='1'>doing</otmi:vector>
+              <otmi:vector count='1'>Man</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>TM2</otmi:vector>
+              <otmi:vector count='1'>neither</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>Disorders</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>Vergani</otmi:vector>
+              <otmi:vector count='1'>Gβγ-binding</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>Different</otmi:vector>
+              <otmi:vector count='1'>date</otmi:vector>
+              <otmi:vector count='1'>concepts</otmi:vector>
+              <otmi:vector count='1'>co-opted</otmi:vector>
+              <otmi:vector count='1'>swings</otmi:vector>
+              <otmi:vector count='1'>levels</otmi:vector>
+              <otmi:vector count='1'>William</otmi:vector>
+              <otmi:vector count='1'>ectopic</otmi:vector>
+              <otmi:vector count='1'>classical</otmi:vector>
+              <otmi:vector count='1'>tissue</otmi:vector>
+              <otmi:vector count='1'>iris</otmi:vector>
+              <otmi:vector count='1'>on–off</otmi:vector>
+              <otmi:vector count='1'>rectifying</otmi:vector>
+              <otmi:vector count='1'>switch</otmi:vector>
+              <otmi:vector count='1'>probability</otmi:vector>
+              <otmi:vector count='1'>simplistic</otmi:vector>
+              <otmi:vector count='1'>undergo</otmi:vector>
+              <otmi:vector count='1'>respond</otmi:vector>
+              <otmi:vector count='1'>determines</otmi:vector>
+              <otmi:vector count='1'>makes</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>orientated</otmi:vector>
+              <otmi:vector count='1'>defective</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>inducing</otmi:vector>
+              <otmi:vector count='1'>amino-terminal</otmi:vector>
+              <otmi:vector count='1'>Future</otmi:vector>
+              <otmi:vector count='1'>1b</otmi:vector>
+              <otmi:vector count='1'>impairment</otmi:vector>
+              <otmi:vector count='1'>members</otmi:vector>
+              <otmi:vector count='1'>confirm</otmi:vector>
+              <otmi:vector count='1'>effectively</otmi:vector>
+              <otmi:vector count='1'>death</otmi:vector>
+              <otmi:vector count='1'>Like</otmi:vector>
+              <otmi:vector count='1'>greasy</otmi:vector>
+              <otmi:vector count='1'>perils</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>maxim&apos;s</otmi:vector>
+              <otmi:vector count='1'>nephrocalcinosis</otmi:vector>
+              <otmi:vector count='1'>great</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>regulated</otmi:vector>
+              <otmi:vector count='1'>phosphorylation</otmi:vector>
+              <otmi:vector count='1'>rate</otmi:vector>
+              <otmi:vector count='1'>haploinsufficiency</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>activator</otmi:vector>
+              <otmi:vector count='1'>located</otmi:vector>
+              <otmi:vector count='1'>viewed</otmi:vector>
+              <otmi:vector count='1'>resolution</otmi:vector>
+              <otmi:vector count='1'>solutes</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>contribute</otmi:vector>
+              <otmi:vector count='1'>Inheritance</otmi:vector>
+              <otmi:vector count='1'>anchoring</otmi:vector>
+              <otmi:vector count='1'>strategy</otmi:vector>
+              <otmi:vector count='1'>Action-potential</otmi:vector>
+              <otmi:vector count='1'>body</otmi:vector>
+              <otmi:vector count='1'>uncontrolled</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>terms</otmi:vector>
+              <otmi:vector count='1'>relevance</otmi:vector>
+              <otmi:vector count='1'>toxins</otmi:vector>
+              <otmi:vector count='1'>include</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>entrez</otmi:vector>
+              <otmi:vector count='1'>adapted</otmi:vector>
+              <otmi:vector count='1'>page</otmi:vector>
+              <otmi:vector count='1'>learning</otmi:vector>
+              <otmi:vector count='1'>Harvey</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>ion-permeation</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>Functionally</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>fine-tune</otmi:vector>
+              <otmi:vector count='1'>hinged</otmi:vector>
+              <otmi:vector count='1'>Loss-of-channel</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>involve</otmi:vector>
+              <otmi:vector count='1'>excitatory</otmi:vector>
+              <otmi:vector count='1'>childhood</otmi:vector>
+              <otmi:vector count='1'>large-conductance</otmi:vector>
+              <otmi:vector count='1'>individual&apos;s</otmi:vector>
+              <otmi:vector count='1'>place</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>water-soluble</otmi:vector>
+              <otmi:vector count='1'>end</otmi:vector>
+              <otmi:vector count='1'>ways</otmi:vector>
+              <otmi:vector count='1'>Gain-of-function</otmi:vector>
+              <otmi:vector count='1'>studied</otmi:vector>
+              <otmi:vector count='1'>discover</otmi:vector>
+              <otmi:vector count='1'>bundle-crossing</otmi:vector>
+              <otmi:vector count='1'>nutrients</otmi:vector>
+              <otmi:vector count='1'>considerable</otmi:vector>
+              <otmi:vector count='1'>stolen</otmi:vector>
+              <otmi:vector count='1'>How</otmi:vector>
+              <otmi:vector count='1'>mediated</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>large-scale</otmi:vector>
+              <otmi:vector count='1'>closure</otmi:vector>
+              <otmi:vector count='1'>Sine</otmi:vector>
+              <otmi:vector count='1'>obtained</otmi:vector>
+              <otmi:vector count='1'>absent</otmi:vector>
+              <otmi:vector count='1'>conundrum</otmi:vector>
+              <otmi:vector count='1'>modulation</otmi:vector>
+              <otmi:vector count='1'>website</otmi:vector>
+              <otmi:vector count='1'>fit</otmi:vector>
+              <otmi:vector count='1'>block</otmi:vector>
+              <otmi:vector count='1'>Also</otmi:vector>
+              <otmi:vector count='1'>index.html</otmi:vector>
+              <otmi:vector count='1'>attractive</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>adults</otmi:vector>
+              <otmi:vector count='1'>pharmacology</otmi:vector>
+              <otmi:vector count='1'>appropriated</otmi:vector>
+              <otmi:vector count='1'>prolong</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>tethered</otmi:vector>
+              <otmi:vector count='1'>dehydration</otmi:vector>
+              <otmi:vector count='1'>importantly</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>towards</otmi:vector>
+              <otmi:vector count='1'>careful</otmi:vector>
+              <otmi:vector count='1'>regulatory</otmi:vector>
+              <otmi:vector count='1'>patients</otmi:vector>
+              <otmi:vector count='1'>permeable</otmi:vector>
+              <otmi:vector count='1'>malignant</otmi:vector>
+              <otmi:vector count='1'>low-molecular-weight</otmi:vector>
+              <otmi:vector count='1'>regulates</otmi:vector>
+              <otmi:vector count='1'>best-known</otmi:vector>
+              <otmi:vector count='1'>classes</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+              <otmi:vector count='1'>exciting</otmi:vector>
+              <otmi:vector count='1'>firing</otmi:vector>
+              <otmi:vector count='1'>Faster</otmi:vector>
+              <otmi:vector count='1'>distinction</otmi:vector>
+              <otmi:vector count='1'>focuses</otmi:vector>
+              <otmi:vector count='1'>cardinal</otmi:vector>
+              <otmi:vector count='1'>neuromyotonia</otmi:vector>
+              <otmi:vector count='1'>governs</otmi:vector>
+              <otmi:vector count='1'>osteopetrosis</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>possesses</otmi:vector>
+              <otmi:vector count='1'>40</otmi:vector>
+              <otmi:vector count='1'>totally</otmi:vector>
+              <otmi:vector count='1'>prolonged</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>cancer</otmi:vector>
+              <otmi:vector count='1'>basic</otmi:vector>
+              <otmi:vector count='1'>acetlycholinesterase</otmi:vector>
+              <otmi:vector count='1'>secretory</otmi:vector>
+              <otmi:vector count='1'>comprises</otmi:vector>
+              <otmi:vector count='1'>wider</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>Online</otmi:vector>
+              <otmi:vector count='1'>monomers</otmi:vector>
+              <otmi:vector count='1'>wide</otmi:vector>
+              <otmi:vector count='1'>fashion</otmi:vector>
+              <otmi:vector count='1'>hormone</otmi:vector>
+              <otmi:vector count='1'>decade</otmi:vector>
+              <otmi:vector count='1'>gradients</otmi:vector>
+              <otmi:vector count='1'>stress</otmi:vector>
+              <otmi:vector count='1'>duration</otmi:vector>
+              <otmi:vector count='1'>Rings</otmi:vector>
+              <otmi:vector count='1'>invariably</otmi:vector>
+              <otmi:vector count='1'>generalized</otmi:vector>
+              <otmi:vector count='1'>hydrolysing</otmi:vector>
+              <otmi:vector count='1'>encode</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>Uniquely</otmi:vector>
+              <otmi:vector count='1'>criterion</otmi:vector>
+              <otmi:vector count='1'>organisms</otmi:vector>
+              <otmi:vector count='1'>determination</otmi:vector>
+              <otmi:vector count='1'>Channel-mediated</otmi:vector>
+              <otmi:vector count='1'>expected</otmi:vector>
+              <otmi:vector count='1'>(see</otmi:vector>
+              <otmi:vector count='1'>pharmacological</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>invariant</otmi:vector>
+              <otmi:vector count='1'>Ion-channel</otmi:vector>
+              <otmi:vector count='1'>accumulating</otmi:vector>
+              <otmi:vector count='1'>340</otmi:vector>
+              <otmi:vector count='1'>neurotransmitter-binding</otmi:vector>
+              <otmi:vector count='1'>perspectives</otmi:vector>
+              <otmi:vector count='1'>2–5</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>b</otmi:vector>
+              <otmi:vector count='1'>additional</otmi:vector>
+              <otmi:vector count='1'>closings</otmi:vector>
+              <otmi:vector count='1'>stronger</otmi:vector>
+              <otmi:vector count='1'>apparently</otmi:vector>
+              <otmi:vector count='1'>opened</otmi:vector>
+              <otmi:vector count='1'>mechanisms</otmi:vector>
+              <otmi:vector count='1'>genetically</otmi:vector>
+              <otmi:vector count='1'>Unsurprisingly</otmi:vector>
+              <otmi:vector count='1'>worth</otmi:vector>
+              <otmi:vector count='1'>macromolecular</otmi:vector>
+              <otmi:vector count='1'>choosy</otmi:vector>
+              <otmi:vector count='1'>camera</otmi:vector>
+              <otmi:vector count='1'>challenge</otmi:vector>
+              <otmi:vector count='1'>homomeric</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>Ancillary</otmi:vector>
+              <otmi:vector count='1'>affecting</otmi:vector>
+              <otmi:vector count='1'>disrupt</otmi:vector>
+              <otmi:vector count='1'>symporters</otmi:vector>
+              <otmi:vector count='1'>alteration</otmi:vector>
+              <otmi:vector count='1'>autoimmune</otmi:vector>
+              <otmi:vector count='1'>glutamate-binding</otmi:vector>
+              <otmi:vector count='1'>back</otmi:vector>
+              <otmi:vector count='1'>exert</otmi:vector>
+              <otmi:vector count='1'>surprisingly</otmi:vector>
+              <otmi:vector count='1'>leucine</otmi:vector>
+              <otmi:vector count='1'>1.3</otmi:vector>
+              <otmi:vector count='1'>Epithelial</otmi:vector>
+              <otmi:vector count='1'>expressed</otmi:vector>
+              <otmi:vector count='1'>Conversely</otmi:vector>
+              <otmi:vector count='1'>ion-transport</otmi:vector>
+              <otmi:vector count='1'>drive</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>Inactivation</otmi:vector>
+              <otmi:vector count='1'>face</otmi:vector>
+              <otmi:vector count='1'>binds</otmi:vector>
+              <otmi:vector count='1'>expect</otmi:vector>
+              <otmi:vector count='1'>shall</otmi:vector>
+              <otmi:vector count='1'>basis</otmi:vector>
+              <otmi:vector count='1'>closely</otmi:vector>
+              <otmi:vector count='1'>outwards</otmi:vector>
+              <otmi:vector count='1'>movements</otmi:vector>
+              <otmi:vector count='1'>percentage</otmi:vector>
+              <otmi:vector count='1'>profound</otmi:vector>
+              <otmi:vector count='1'>interfaces</otmi:vector>
+              <otmi:vector count='1'>local</otmi:vector>
+              <otmi:vector count='1'>350</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>reticulum</otmi:vector>
+              <otmi:vector count='1'>Accumulating</otmi:vector>
+              <otmi:vector count='1'>deafness</otmi:vector>
+              <otmi:vector count='1'>Europe</otmi:vector>
+              <otmi:vector count='1'>hypercalciuria</otmi:vector>
+              <otmi:vector count='1'>presents</otmi:vector>
+              <otmi:vector count='1'>pharmaceutical</otmi:vector>
+              <otmi:vector count='1'>associate</otmi:vector>
+              <otmi:vector count='1'>lies</otmi:vector>
+              <otmi:vector count='1'>energetically</otmi:vector>
+              <otmi:vector count='1'>way</otmi:vector>
+              <otmi:vector count='1'>About</otmi:vector>
+              <otmi:vector count='1'>Eag1</otmi:vector>
+              <otmi:vector count='1'>modifies</otmi:vector>
+              <otmi:vector count='1'>Dent&apos;s</otmi:vector>
+              <otmi:vector count='1'>congenita</otmi:vector>
+              <otmi:vector count='1'>making</otmi:vector>
+              <otmi:vector count='1'>Tristani-Firouzi</otmi:vector>
+              <otmi:vector count='1'>excluding</otmi:vector>
+              <otmi:vector count='1'>Consequently</otmi:vector>
+              <otmi:vector count='1'>anchor</otmi:vector>
+              <otmi:vector count='1'>drug-induced</otmi:vector>
+              <otmi:vector count='1'>modular</otmi:vector>
+              <otmi:vector count='1'>ataxia</otmi:vector>
+              <otmi:vector count='1'>-activated</otmi:vector>
+              <otmi:vector count='1'>Remember</otmi:vector>
+              <otmi:vector count='1'>Straightening</otmi:vector>
+              <otmi:vector count='1'>anion-selective</otmi:vector>
+              <otmi:vector count='1'>water-filled</otmi:vector>
+              <otmi:vector count='1'>closes</otmi:vector>
+              <otmi:vector count='1'>resting</otmi:vector>
+              <otmi:vector count='1'>perhaps</otmi:vector>
+              <otmi:vector count='1'>activation</otmi:vector>
+              <otmi:vector count='1'>Csan´dy</otmi:vector>
+              <otmi:vector count='1'>exquisite</otmi:vector>
+              <otmi:vector count='1'>excluded</otmi:vector>
+              <otmi:vector count='1'>charges</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>cellular</otmi:vector>
+              <otmi:vector count='1'>hyperthermia</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>prevents</otmi:vector>
+              <otmi:vector count='1'>episodic</otmi:vector>
+              <otmi:vector count='1'>non-pore-loop</otmi:vector>
+              <otmi:vector count='1'>blocker</otmi:vector>
+              <otmi:vector count='1'>100–1,000</otmi:vector>
+              <otmi:vector count='1'>homologues</otmi:vector>
+              <otmi:vector count='1'>referred</otmi:vector>
+              <otmi:vector count='1'>contraction</otmi:vector>
+              <otmi:vector count='1'>mixing</otmi:vector>
+              <otmi:vector count='1'>powered</otmi:vector>
+              <otmi:vector count='1'>31</otmi:vector>
+              <otmi:vector count='1'>lesser</otmi:vector>
+              <otmi:vector count='1'>X-ray</otmi:vector>
+              <otmi:vector count='1'>localizing</otmi:vector>
+              <otmi:vector count='1'>tests</otmi:vector>
+              <otmi:vector count='1'>CNS</otmi:vector>
+              <otmi:vector count='1'>mediate</otmi:vector>
+              <otmi:vector count='1'>Over</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>diaphragm</otmi:vector>
+              <otmi:vector count='1'>advance</otmi:vector>
+              <otmi:vector count='1'>Lambert–Eaton</otmi:vector>
+              <otmi:vector count='1'>Their</otmi:vector>
+              <otmi:vector count='1'>synthesis</otmi:vector>
+              <otmi:vector count='1'>antiviral</otmi:vector>
+              <otmi:vector count='1'>narrowest</otmi:vector>
+              <otmi:vector count='1'>ClC-ec1</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>cover</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>themselves</otmi:vector>
+              <otmi:vector count='1'>brings</otmi:vector>
+              <otmi:vector count='1'>inactivated</otmi:vector>
+              <otmi:vector count='1'>interferes</otmi:vector>
+              <otmi:vector count='1'>conform</otmi:vector>
+              <otmi:vector count='1'>cell–cell</otmi:vector>
+              <otmi:vector count='1'>Environmental</otmi:vector>
+              <otmi:vector count='1'>Congenital</otmi:vector>
+              <otmi:vector count='1'>Understanding</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>excitation</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>non-steric</otmi:vector>
+              <otmi:vector count='1'>Properties</otmi:vector>
+              <otmi:vector count='1'>ATPase</otmi:vector>
+              <otmi:vector count='1'>do</otmi:vector>
+              <otmi:vector count='1'>Rather</otmi:vector>
+              <otmi:vector count='1'>biochemical</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>production</otmi:vector>
+              <otmi:vector count='1'>insulin</otmi:vector>
+              <otmi:vector count='1'>examples</otmi:vector>
+              <otmi:vector count='1'>steep</otmi:vector>
+              <otmi:vector count='1'>introduction</otmi:vector>
+              <otmi:vector count='1'>screening</otmi:vector>
+              <otmi:vector count='1'>controversial</otmi:vector>
+              <otmi:vector count='1'>hereditary</otmi:vector>
+              <otmi:vector count='1'>Northern</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>elucidate</otmi:vector>
+              <otmi:vector count='1'>locations</otmi:vector>
+              <otmi:vector count='1'>signals</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>disease-causing</otmi:vector>
+              <otmi:vector count='1'>Not</otmi:vector>
+              <otmi:vector count='1'>cells</otmi:vector>
+              <otmi:vector count='1'>dimers</otmi:vector>
+              <otmi:vector count='1'>sacroplasmic</otmi:vector>
+              <otmi:vector count='1'>myriad</otmi:vector>
+              <otmi:vector count='1'>lie</otmi:vector>
+              <otmi:vector count='1'>plus</otmi:vector>
+              <otmi:vector count='1'>chloride</otmi:vector>
+              <otmi:vector count='1'>rings</otmi:vector>
+              <otmi:vector count='1'>transfer</otmi:vector>
+              <otmi:vector count='1'>considerations</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>staves</otmi:vector>
+              <otmi:vector count='1'>hypotension</otmi:vector>
+              <otmi:vector count='1'>www.ensembl.org</otmi:vector>
+              <otmi:vector count='1'>28</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>glycine</otmi:vector>
+              <otmi:vector count='1'>configuration</otmi:vector>
+              <otmi:vector count='1'>segment</otmi:vector>
+              <otmi:vector count='1'>sliding</otmi:vector>
+              <otmi:vector count='1'>gained</otmi:vector>
+              <otmi:vector count='1'>factors</otmi:vector>
+              <otmi:vector count='1'>ends</otmi:vector>
+              <otmi:vector count='1'>stores</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>commonly</otmi:vector>
+              <otmi:vector count='1'>focus</otmi:vector>
+              <otmi:vector count='1'>interface</otmi:vector>
+              <otmi:vector count='1'>blurred</otmi:vector>
+              <otmi:vector count='1'>down</otmi:vector>
+              <otmi:vector count='1'>your</otmi:vector>
+              <otmi:vector count='1'>rare</otmi:vector>
+              <otmi:vector count='1'>ClC1</otmi:vector>
+              <otmi:vector count='1'>restricted</otmi:vector>
+              <otmi:vector count='1'>Mendelian</otmi:vector>
+              <otmi:vector count='1'>increasing</otmi:vector>
+              <otmi:vector count='1'>duplication</otmi:vector>
+              <otmi:vector count='1'>related</otmi:vector>
+              <otmi:vector count='1'>alter</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>Ligand</otmi:vector>
+              <otmi:vector count='1'>transporter</otmi:vector>
+              <otmi:vector count='1'>sulphonylurea</otmi:vector>
+              <otmi:vector count='1'>myokymia</otmi:vector>
+              <otmi:vector count='1'>causing</otmi:vector>
+              <otmi:vector count='1'>noting</otmi:vector>
+              <otmi:vector count='1'>Autoantibodies</otmi:vector>
+              <otmi:vector count='1'>facilitate</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>rarer</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>Homo_sapiens</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>maximum</otmi:vector>
+              <otmi:vector count='1'>picture</otmi:vector>
+              <otmi:vector count='1'>iatrogenic</otmi:vector>
+              <otmi:vector count='1'>Nichols</otmi:vector>
+              <otmi:vector count='1'>Evolution</otmi:vector>
+              <otmi:vector count='1'>passive</otmi:vector>
+              <otmi:vector count='1'>electric</otmi:vector>
+              <otmi:vector count='1'>permeate</otmi:vector>
+              <otmi:vector count='1'>activator-ligands</otmi:vector>
+              <otmi:vector count='1'>obviously</otmi:vector>
+              <otmi:vector count='1'>4–6</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>achieve</otmi:vector>
+              <otmi:vector count='1'>antiporters</otmi:vector>
+              <otmi:vector count='1'>primordial</otmi:vector>
+              <otmi:vector count='1'>ones</otmi:vector>
+              <otmi:vector count='1'>predominantly</otmi:vector>
+              <otmi:vector count='1'>gain</otmi:vector>
+              <otmi:vector count='1'>decreasing</otmi:vector>
+              <otmi:vector count='1'>refers</otmi:vector>
+              <otmi:vector count='1'>prevented</otmi:vector>
+              <otmi:vector count='1'>distance</otmi:vector>
+              <otmi:vector count='1'>Voltage</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>skeletal</otmi:vector>
+              <otmi:vector count='1'>clusters</otmi:vector>
+              <otmi:vector count='1'>action</otmi:vector>
+              <otmi:vector count='1'>discriminatory</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>disorder</otmi:vector>
+              <otmi:vector count='1'>recent</otmi:vector>
+              <otmi:vector count='1'>failure</otmi:vector>
+              <otmi:vector count='1'>phenotypes</otmi:vector>
+              <otmi:vector count='1'>inhalation</otmi:vector>
+              <otmi:vector count='1'>mechanical</otmi:vector>
+              <otmi:vector count='1'>reasons</otmi:vector>
+              <otmi:vector count='1'>substitute</otmi:vector>
+              <otmi:vector count='1'>forms</otmi:vector>
+              <otmi:vector count='1'>Concepts</otmi:vector>
+              <otmi:vector count='1'>1998</otmi:vector>
+              <otmi:vector count='1'>ago</otmi:vector>
+              <otmi:vector count='1'>variants</otmi:vector>
+              <otmi:vector count='1'>specify</otmi:vector>
+              <otmi:vector count='1'>mostly</otmi:vector>
+              <otmi:vector count='1'>ether-a-go-go</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>resulting</otmi:vector>
+              <otmi:vector count='1'>sedatives</otmi:vector>
+              <otmi:vector count='1'>grouped</otmi:vector>
+              <otmi:vector count='1'>obesity</otmi:vector>
+              <otmi:vector count='1'>cost</otmi:vector>
+              <otmi:vector count='1'>occurs</otmi:vector>
+              <otmi:vector count='1'>reflecting</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>Almost</otmi:vector>
+              <otmi:vector count='1'>modules</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>neonatal</otmi:vector>
+              <otmi:vector count='1'>exhibit</otmi:vector>
+              <otmi:vector count='1'>metazoans</otmi:vector>
+              <otmi:vector count='1'>Engel</otmi:vector>
+              <otmi:vector count='1'>Our</otmi:vector>
+              <otmi:vector count='1'>release</otmi:vector>
+              <otmi:vector count='1'>produces</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>pump</otmi:vector>
+              <otmi:vector count='1'>deficiency</otmi:vector>
+              <otmi:vector count='1'>marrow</otmi:vector>
+              <otmi:vector count='1'>ryanodine</otmi:vector>
+              <otmi:vector count='1'>sieves</otmi:vector>
+              <otmi:vector count='1'>arrangement</otmi:vector>
+              <otmi:vector count='1'>fertilization</otmi:vector>
+              <otmi:vector count='1'>inhibitor</otmi:vector>
+              <otmi:vector count='1'>ancillary</otmi:vector>
+              <otmi:vector count='1'>Furthermore</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>bending</otmi:vector>
+              <otmi:vector count='1'>converse</otmi:vector>
+              <otmi:vector count='1'>medicine</otmi:vector>
+              <otmi:vector count='1'>industry</otmi:vector>
+              <otmi:vector count='1'>antidiabetic</otmi:vector>
+              <otmi:vector count='1'>amino</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>States</otmi:vector>
+              <otmi:vector count='1'>requirement</otmi:vector>
+              <otmi:vector count='1'>identity</otmi:vector>
+              <otmi:vector count='1'>feature</otmi:vector>
+              <otmi:vector count='1'>heterogeneous</otmi:vector>
+              <otmi:vector count='1'>relative</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>share</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>exclusively</otmi:vector>
+              <otmi:vector count='1'>upstroke</otmi:vector>
+              <otmi:vector count='1'>N</otmi:vector>
+              <otmi:vector count='1'>backgrounds</otmi:vector>
+              <otmi:vector count='1'>phosphorylate</otmi:vector>
+              <otmi:vector count='1'>termed</otmi:vector>
+              <otmi:vector count='1'>final</otmi:vector>
+              <otmi:vector count='1'>adjacent</otmi:vector>
+              <otmi:vector count='1'>linked</otmi:vector>
+              <otmi:vector count='1'>contribution</otmi:vector>
+              <otmi:vector count='1'>synaptic</otmi:vector>
+              <otmi:vector count='1'>wrote</otmi:vector>
+              <otmi:vector count='1'>Similarly</otmi:vector>
+              <otmi:vector count='1'>two-pore</otmi:vector>
+              <otmi:vector count='1'>gravis</otmi:vector>
+              <otmi:vector count='1'>idea</otmi:vector>
+              <otmi:vector count='1'>direction</otmi:vector>
+              <otmi:vector count='1'>matching</otmi:vector>
+              <otmi:vector count='1'>Whether</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>enhance</otmi:vector>
+              <otmi:vector count='1'>strictly</otmi:vector>
+              <otmi:vector count='1'>tumours</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>helpful</otmi:vector>
+              <otmi:vector count='1'>multiple</otmi:vector>
+              <otmi:vector count='1'>contractions</otmi:vector>
+              <otmi:vector count='1'>cochlear</otmi:vector>
+              <otmi:vector count='1'>(Ca</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>express</otmi:vector>
+              <otmi:vector count='1'>proper</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>diagnostic</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>closing</otmi:vector>
+              <otmi:vector count='1'>arising</otmi:vector>
+              <otmi:vector count='1'>synapses</otmi:vector>
+              <otmi:vector count='1'>far</otmi:vector>
+              <otmi:vector count='1'>cassette</otmi:vector>
+              <otmi:vector count='1'>TM</otmi:vector>
+              <otmi:vector count='1'>read</otmi:vector>
+              <otmi:vector count='1'>pattern</otmi:vector>
+              <otmi:vector count='1'>extra-pancreatic</otmi:vector>
+              <otmi:vector count='1'>sharp</otmi:vector>
+              <otmi:vector count='1'>acid</otmi:vector>
+              <otmi:vector count='1'>stones</otmi:vector>
+              <otmi:vector count='1'>transduction</otmi:vector>
+              <otmi:vector count='1'>United</otmi:vector>
+              <otmi:vector count='1'>works</otmi:vector>
+              <otmi:vector count='1'>heteropolymerization</otmi:vector>
+              <otmi:vector count='1'>correct</otmi:vector>
+              <otmi:vector count='1'>defects</otmi:vector>
+              <otmi:vector count='1'>discrimination</otmi:vector>
+              <otmi:vector count='1'>functions</otmi:vector>
+              <otmi:vector count='1'>subfamily</otmi:vector>
+              <otmi:vector count='1'>elements</otmi:vector>
+              <otmi:vector count='1'>heterogeneity</otmi:vector>
+              <otmi:vector count='1'>occlusion</otmi:vector>
+              <otmi:vector count='1'>luck</otmi:vector>
+              <otmi:vector count='1'>&quot;Nor</otmi:vector>
+              <otmi:vector count='1'>Inherited</otmi:vector>
+              <otmi:vector count='1'>coordinate</otmi:vector>
+              <otmi:vector count='1'>deep</otmi:vector>
+              <otmi:vector count='1'>Paradoxically</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>multicellular</otmi:vector>
+              <otmi:vector count='1'>chaperones</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>Studies</otmi:vector>
+              <otmi:vector count='1'>anti-anxiety</otmi:vector>
+              <otmi:vector count='1'>polygenic</otmi:vector>
+              <otmi:vector count='1'>physiology</otmi:vector>
+              <otmi:vector count='1'>regulate</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>barrel</otmi:vector>
+              <otmi:vector count='1'>transition</otmi:vector>
+              <otmi:vector count='1'>nucleotide-binding</otmi:vector>
+              <otmi:vector count='1'>understand</otmi:vector>
+              <otmi:vector count='1'>anticipate</otmi:vector>
+              <otmi:vector count='1'>book</otmi:vector>
+              <otmi:vector count='1'>evolutionary</otmi:vector>
+              <otmi:vector count='1'>dominant-negative</otmi:vector>
+              <otmi:vector count='1'>gently</otmi:vector>
+              <otmi:vector count='1'>arose</otmi:vector>
+              <otmi:vector count='1'>Sanguinetti</otmi:vector>
+              <otmi:vector count='1'>preferentially</otmi:vector>
+              <otmi:vector count='1'>Intracellular</otmi:vector>
+              <otmi:vector count='1'>Advances</otmi:vector>
+              <otmi:vector count='1'>cyclic-nucleotide-gated</otmi:vector>
+              <otmi:vector count='1'>inverse</otmi:vector>
+              <otmi:vector count='1'>routine</otmi:vector>
+              <otmi:vector count='1'>consist</otmi:vector>
+              <otmi:vector count='1'>apart</otmi:vector>
+              <otmi:vector count='1'>re-entrant</otmi:vector>
+              <otmi:vector count='1'>characteristic</otmi:vector>
+              <otmi:vector count='1'>heteromeric</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>downhill</otmi:vector>
+              <otmi:vector count='1'>inner</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>mitochondria</otmi:vector>
+              <otmi:vector count='1'>producing</otmi:vector>
+              <otmi:vector count='1'>under-excitement</otmi:vector>
+              <otmi:vector count='1'>tubules</otmi:vector>
+              <otmi:vector count='1'>molecule</otmi:vector>
+              <otmi:vector count='1'>flexible</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>manifested</otmi:vector>
+              <otmi:vector count='1'>fluxes</otmi:vector>
+              <otmi:vector count='1'>favourable</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>organelles</otmi:vector>
+              <otmi:vector count='1'>fully</otmi:vector>
+              <otmi:vector count='1'>kinases</otmi:vector>
+              <otmi:vector count='1'>Voltage-gated</otmi:vector>
+              <otmi:vector count='1'>graded</otmi:vector>
+              <otmi:vector count='1'>endoplasmic</otmi:vector>
+              <otmi:vector count='1'>arrhythmia</otmi:vector>
+              <otmi:vector count='1'>6.5</otmi:vector>
+              <otmi:vector count='1'>occasionally</otmi:vector>
+              <otmi:vector count='1'>proteinuria</otmi:vector>
+              <otmi:vector count='1'>arises</otmi:vector>
+              <otmi:vector count='1'>acidification</otmi:vector>
+              <otmi:vector count='1'>due</otmi:vector>
+              <otmi:vector count='1'>reactions</otmi:vector>
+              <otmi:vector count='1'>influenced</otmi:vector>
+              <otmi:vector count='1'>term</otmi:vector>
+              <otmi:vector count='1'>abundance</otmi:vector>
+              <otmi:vector count='1'>tumour</otmi:vector>
+              <otmi:vector count='1'>overexpressed</otmi:vector>
+              <otmi:vector count='1'>instance</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>times</otmi:vector>
+              <otmi:vector count='1'>unexpected</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>accompanied</otmi:vector>
+              <otmi:vector count='1'>profile.</otmi:vector>
+              <otmi:vector count='1'>regulator</otmi:vector>
+              <otmi:vector count='1'>despite</otmi:vector>
+              <otmi:vector count='1'>must</otmi:vector>
+              <otmi:vector count='1'>concentration</otmi:vector>
+              <otmi:vector count='1'>non-conducting</otmi:vector>
+              <otmi:vector count='1'>sensory</otmi:vector>
+              <otmi:vector count='1'>cations</otmi:vector>
+              <otmi:vector count='1'>another</otmi:vector>
+              <otmi:vector count='1'>investigation</otmi:vector>
+              <otmi:vector count='1'>inwardly</otmi:vector>
+              <otmi:vector count='1'>Thr857Met</otmi:vector>
+              <otmi:vector count='1'>organism</otmi:vector>
+              <otmi:vector count='1'>biophysical</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>poised</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>analysing</otmi:vector>
+              <otmi:vector count='1'>slipping</otmi:vector>
+              <otmi:vector count='1'>permeability</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>experience</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>uptake</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>breakthroughs</otmi:vector>
+              <otmi:vector count='1'>states</otmi:vector>
+              <otmi:vector count='1'>gated</otmi:vector>
+              <otmi:vector count='1'>docking</otmi:vector>
+              <otmi:vector count='1'>eye</otmi:vector>
+              <otmi:vector count='1'>facilitating</otmi:vector>
+              <otmi:vector count='1'>suggesting</otmi:vector>
+              <otmi:vector count='1'>potentially</otmi:vector>
+              <otmi:vector count='1'>ENaC</otmi:vector>
+              <otmi:vector count='1'>Mayer</otmi:vector>
+              <otmi:vector count='1'>Similar</otmi:vector>
+              <otmi:vector count='1'>diameter</otmi:vector>
+              <otmi:vector count='1'>then</otmi:vector>
+              <otmi:vector count='1'>endocrine</otmi:vector>
+              <otmi:vector count='1'>recover</otmi:vector>
+              <otmi:vector count='1'>tailored</otmi:vector>
+              <otmi:vector count='1'>complements</otmi:vector>
+              <otmi:vector count='1'>exemplify</otmi:vector>
+              <otmi:vector count='1'>arrythmia</otmi:vector>
+              <otmi:vector count='1'>KirBac</otmi:vector>
+              <otmi:vector count='1'>used</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>co-operativity</otmi:vector>
+              <otmi:vector count='1'>GABA</otmi:vector>
+              <otmi:vector count='1'>N-terminal</otmi:vector>
+              <otmi:vector count='1'>There</otmi:vector>
+              <otmi:vector count='1'>years</otmi:vector>
+              <otmi:vector count='1'>entering</otmi:vector>
+              <otmi:vector count='1'>elsewhere</otmi:vector>
+              <otmi:vector count='1'>Your</otmi:vector>
+              <otmi:vector count='1'>last</otmi:vector>
+              <otmi:vector count='1'>2,000</otmi:vector>
+              <otmi:vector count='1'>currently</otmi:vector>
+              <otmi:vector count='1'>Gadsby</otmi:vector>
+              <otmi:vector count='1'>resembling</otmi:vector>
+              <otmi:vector count='1'>depolarization</otmi:vector>
+              <otmi:vector count='1'>variable</otmi:vector>
+              <otmi:vector count='1'>kinds</otmi:vector>
+              <otmi:vector count='1'>partially</otmi:vector>
+              <otmi:vector count='1'>explain</otmi:vector>
+              <otmi:vector count='1'>existing</otmi:vector>
+              <otmi:vector count='1'>independently</otmi:vector>
+              <otmi:vector count='1'>intimately</otmi:vector>
+              <otmi:vector count='1'>lipids</otmi:vector>
+              <otmi:vector count='1'>respectively</otmi:vector>
+              <otmi:vector count='1'>insights</otmi:vector>
+              <otmi:vector count='1'>tetramers</otmi:vector>
+              <otmi:vector count='1'>added</otmi:vector>
+              <otmi:vector count='1'>non-functional</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>explained</otmi:vector>
+              <otmi:vector count='1'>dependence</otmi:vector>
+              <otmi:vector count='1'>terminus</otmi:vector>
+              <otmi:vector count='1'>consisting</otmi:vector>
+              <otmi:vector count='1'>seems</otmi:vector>
+              <otmi:vector count='1'>flickers</otmi:vector>
+              <otmi:vector count='1'>major</otmi:vector>
+              <otmi:vector count='1'>structure–function</otmi:vector>
+              <otmi:vector count='1'>overview</otmi:vector>
+              <otmi:vector count='1'>behaviour</otmi:vector>
+              <otmi:vector count='1'>demonstrates</otmi:vector>
+              <otmi:vector count='1'>characterized</otmi:vector>
+              <otmi:vector count='1'>recognized</otmi:vector>
+              <otmi:vector count='1'>airways</otmi:vector>
+              <otmi:vector count='1'>stimulating</otmi:vector>
+              <otmi:vector count='1'>Positive</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>contributed</otmi:vector>
+              <otmi:vector count='1'>confers</otmi:vector>
+              <otmi:vector count='1'>decrease</otmi:vector>
+              <otmi:vector count='1'>disrupting</otmi:vector>
+              <otmi:vector count='1'>takes</otmi:vector>
+              <otmi:vector count='1'>lysozymes</otmi:vector>
+              <otmi:vector count='1'>Further</otmi:vector>
+              <otmi:vector count='1'>passes</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>memory</otmi:vector>
+              <otmi:vector count='1'>illustrate</otmi:vector>
+              <otmi:vector count='1'>metabolic</otmi:vector>
+              <otmi:vector count='1'>earlier</otmi:vector>
+              <otmi:vector count='1'>originate</otmi:vector>
+              <otmi:vector count='1'>actually</otmi:vector>
+              <otmi:vector count='1'>www.ncbi.nlm.nih.gov</otmi:vector>
+              <otmi:vector count='1'>eukaryotic</otmi:vector>
+              <otmi:vector count='1'>association</otmi:vector>
+              <otmi:vector count='1'>query.fcgi?db=OMIM&amp;cmd=Limits</otmi:vector>
+              <otmi:vector count='1'>plugs</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A better understanding of how gating works, how accessory subunits regulate channel structure and how lipids interact with ion channels is likely</otmi:snippet>
+              <otmi:snippet>A dominant disease results if more than 50% of the channel protein is required for normal function (haploinsufficiency) or if the mutant protein interferes with the functional activity of the wild-type protein (the dominant-negative effect), as occurs when a single mutant subunit in a multimeric channel prevents its function</otmi:snippet>
+              <otmi:snippet>A final common feature of ligand-gated channels is that flexible loops (termed gating loops) link the ligand-binding domains to the pore</otmi:snippet>
+              <otmi:snippet>A fundamental requirement for voltage sensing is the transfer of electrical charge through the membrane electric field in response to transmembrane voltage changes</otmi:snippet>
+              <otmi:snippet>A non-steric gating mechanism has been proposed for AChR channels , although the resolution of the channel structure is not yet good enough to confirm the idea</otmi:snippet>
+              <otmi:snippet>A particular challenge will be to elucidate the extent to which polymorphisms in ion-channel genes predispose individuals towards common polygenic diseases such as type 2 diabetes, hypertension, obesity and cardiac disease</otmi:snippet>
+              <otmi:snippet>A persistent Na + current just 2–5% of the maximum is sufficient to cause epilepsy or muscle disorders </otmi:snippet>
+              <otmi:snippet>About half the patients carrying the Thr857Met mutation in the Na V channel α-subunit experience only childhood epilepsy, whereas the other half also have epilepsy as adults </otmi:snippet>
+              <otmi:snippet>Accessory proteins Although ion channels are often viewed as consisting only of pore-forming subunits, this picture is too simplistic</otmi:snippet>
+              <otmi:snippet>Accessory proteins can also be co-opted to serve other functions</otmi:snippet>
+              <otmi:snippet>Accessory subunits may even serve as kinases that phosphorylate the pore-forming subunit or other proteins </otmi:snippet>
+              <otmi:snippet>Accessory subunits specify the location and abundance of ion channels in the plasma membrane, modulate their biophysical properties and fine-tune their sensitivity to physiological ligands and pharmacological agents</otmi:snippet>
+              <otmi:snippet>Accumulating evidence suggests that ion channels have a role in cell proliferation and cancer</otmi:snippet>
+              <otmi:snippet>Action-potential repolarization is mediated by K V channels</otmi:snippet>
+              <otmi:snippet>Advances are also expected from studies of channelopathies, both in terms of structure–function relationships and of how channels contribute to cellular and systems physiology</otmi:snippet>
+              <otmi:snippet>All K + channels possess an almost invariant GYG sequence that earlier functional studies had shown lies at the heart of the selectivity filter </otmi:snippet>
+              <otmi:snippet>All pore-loop channels are built on a common pattern, which suggests that they evolved from a primordial channel resembling the bacterial K + channels KcsA and KirBac </otmi:snippet>
+              <otmi:snippet>All these mechanisms involve large-scale movements of the protein backbone, but in ClC channels the conformational change is apparently quite subtle and the rotation of a single amino acid is sufficient to block ion permeation (see p. 484 )</otmi:snippet>
+              <otmi:snippet>Also discussed in this Insight are CFTR (see the review in this issue by Gadsby, Vergani and Csan´dy, p. 477 ) and the sulphonylurea receptor (SUR; see p. 470 )</otmi:snippet>
+              <otmi:snippet>Although no structures are yet available, functional studies show that these pores are wider than that of K + channels (4–6 Å compared with 3 Å) and that the side chains face into the pore </otmi:snippet>
+              <otmi:snippet>Although the complete structure of CFTR has not yet been solved, the crystal structure of the first nucleotide-binding domain (involved in ATP hydrolysis) is known (see p. 477 )</otmi:snippet>
+              <otmi:snippet>Although the detailed nature of the S4 movement is currently controversial, there is wide agreement on the identity of the gating charges</otmi:snippet>
+              <otmi:snippet>An exception is cystic fibrosis, which affects around 1 in 2,000 people in Northern Europe and the United States</otmi:snippet>
+              <otmi:snippet>Ancillary subunits are also the targets of many therapeutic drugs (see p. 470 ), making them of key importance to the pharmaceutical industry</otmi:snippet>
+              <otmi:snippet>And large conformational changes are needed because the ligand-binding sites lie at some considerable distance from the channel gate (about 50 Å in AChR )</otmi:snippet>
+              <otmi:snippet>And, importantly, they have also led to new therapeutic practice, to new diagnostic tests for genetic disease, to routine screening of drugs to prevent acquired channel disorders and to novel drug therapy</otmi:snippet>
+              <otmi:snippet>As described in the accompanying reviews, this is true for the acetylcholine-binding site of AChR (see p. 448 ), the glutamate-binding site of GluR (see p. 456 ) and the ATP-binding site of Kir6.2 (see p. 470 ; ref. 28 ), as well as the cyclic-nucleotide-binding site of CNG channels </otmi:snippet>
+              <otmi:snippet>As explained in Box 1 , the presence of multiple binding sites is important when analysing how heterozygous mutations affect the behaviour of multimeric channels</otmi:snippet>
+              <otmi:snippet>At least in the case of diabetes and hypertension there is evidence that this is the case</otmi:snippet>
+              <otmi:snippet>Autoantibodies against ion channels also cause a range of disorders, including myasthenia gravis , Lambert–Eaton myasthenic syndrome , acquired neuromyotonia and CNS disorders </otmi:snippet>
+              <otmi:snippet>Because cells in different tissues have variable complements of ion channels, their electrical activity can be affected differently</otmi:snippet>
+              <otmi:snippet>Because heterozygous individuals will express both wild-type and mutant channels in the same cell, heteropolymerization can result in non-functional channels, causing dominant disease</otmi:snippet>
+              <otmi:snippet>Because of their important functional roles, their membrane location, structural heterogeneity and the restricted tissue expression of some channel types, ion channels are attractive targets for drug therapy</otmi:snippet>
+              <otmi:snippet>Because plasma Na + levels influence blood pressure, this causes hereditary hypertension or hypotension, respectively</otmi:snippet>
+              <otmi:snippet>Both types of channel use negatively charged residues, and perhaps some backbone carbonyls as well, to coordinate the cation</otmi:snippet>
+              <otmi:snippet>Channel-mediated ion flux is determined by the number of channels in the membrane, the fraction of time they remain open (the open probability) and the conductance of the single channel</otmi:snippet>
+              <otmi:snippet>Concepts in channelopathies The myriad diseases arising from impairment of channel function exemplify the importance of ion channels to the organism ( Tables 1 and 2 )</otmi:snippet>
+              <otmi:snippet>Congenital myasthenia, for example, can be produced by mutations in rapsyn, by a deficiency of acetlycholinesterase or acetylcholine production, as well as by mutations in the AChR itself (see p. 448 )</otmi:snippet>
+              <otmi:snippet>Consequently, defects in ion-channel function often have profound physiological effects</otmi:snippet>
+              <otmi:snippet>Conversely, anion-selective channels such as GABA and glycine receptors possess rings of positively charged residues</otmi:snippet>
+              <otmi:snippet>Different mutations in the same gene may give rise to either recessive or dominant disease, as is the case for ClC1 mutations that cause both myotonia congenita (dominant) and generalized myotonia (recessive) </otmi:snippet>
+              <otmi:snippet>Disorders caused by defective ion-channel function result from several different causes but the term channelopathies is usually confined to disorders resulting from mutations in ion-channel genes themselves ( Tables 1 and 2 )</otmi:snippet>
+              <otmi:snippet>Environmental effects may also influence the extent to which a phenotype is expressed</otmi:snippet>
+              <otmi:snippet>Epithelial channelopathies Ion channels are important for ion fluxes across epithelial membranes and thus for salt and water balance</otmi:snippet>
+              <otmi:snippet>Evolution has further developed the pore-loop theme by addition of extracellular and/or intracellular modules that act as docking sites for ligands, accessory subunits and other modulators</otmi:snippet>
+              <otmi:snippet>Faster action-potential repolarization may also enable Na V channels to recover more quickly from inactivation, thereby increasing the firing rate </otmi:snippet>
+              <otmi:snippet>First, the ligand-binding site is almost invariably located at the interface between two adjacent subunits or domains</otmi:snippet>
+              <otmi:snippet>For example, K ATP channels are found in tissues as diverse as brain, muscle and pancreatic beta-cells, but only the most severe mutations produce extra-pancreatic effects , because only in beta-cells is the resting potential determined predominantly by the K ATP channel </otmi:snippet>
+              <otmi:snippet>For example, K V 1.3 triggers lymphocyte activation and is overexpressed in various tumours, and ectopic expression of the K V channel Eag1 outside the nervous system triggers tumour formation </otmi:snippet>
+              <otmi:snippet>For example, mutations in at least eight different genes give rise to LQT syndrome ( Table 1 )</otmi:snippet>
+              <otmi:snippet>For example, mutations in rapsyn decrease AChR density, producing congenital myasthenic syndrome (see p. 448 ); loss-of-function mutations in SUR cause congenital hyperinsulinaemia by decreasing K ATP channel activity (see p. 470 and ref. 34 ); and mutations in MinK and MiRP lead to long QT (LQT) syndrome, which can cause fatal arrythmia (see p. 463 ) ( Table 1 )</otmi:snippet>
+              <otmi:snippet>For these reasons, mutations in accessory subunits produce a variety of channelopathies ( Tables 1 and 2 )</otmi:snippet>
+              <otmi:snippet>Functionally, this is important as it provides the potential for co-operative interactions</otmi:snippet>
+              <otmi:snippet>Further information can be found at the Online Mendelian Inheritance in Man website ( http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM&amp;cmd=Limits )</otmi:snippet>
+              <otmi:snippet>Furthermore, the same mutation may have greater or lesser effects on different genetic backgrounds</otmi:snippet>
+              <otmi:snippet>Future perspectives Almost 350 years ago, William Harvey wrote: &quot;Nor is there any better way to advance the proper practice of medicine than ... by careful investigation of the rarer forms of disease&quot;</otmi:snippet>
+              <otmi:snippet>Gain-of-function mutations may also produce disease</otmi:snippet>
+              <otmi:snippet>Gating The opening and closing of most channels is regulated by biological signals ( Fig. 1 ) such as binding of intracellular or extracellular ligands (ligand-gated channels), changes in membrane potential (voltage-gated channels), changes in temperature or mechanical stress </otmi:snippet>
+              <otmi:snippet>Gating is the process of transition between the open and closed states ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>High-resolution structures of several ion channels, or their bacterial homologues, have been obtained, including those of Kir and K V channels, the AChR Cys-loop receptor (see the review in this issue by Sine and Engel, p. 448 ) and the Cl - transporter ClC-ec1 (see also p. 484 )</otmi:snippet>
+              <otmi:snippet>High-resolution structures of the ligand-binding domains of glutamate receptors are also available (see the review in this issue by Mayer, p. 456 )</otmi:snippet>
+              <otmi:snippet>How this is achieved became crystal clear in 1998 when the structure of the bacterial K + channel KcsA was solved </otmi:snippet>
+              <otmi:snippet>However, a small percentage of homomeric wild-type channels will be present, which may explain why dominant mutations are rarely as severe as recessive ones</otmi:snippet>
+              <otmi:snippet>However, the relative contribution the channel makes to the electrical activity of the cell is also important</otmi:snippet>
+              <otmi:snippet>However, there is accumulating evidence that in some channels the selectivity filter itself may act as a second gate, which governs the rapid closings (flickers) characteristic of many ion channels </otmi:snippet>
+              <otmi:snippet>However, voltage-gated Ca 2+ (Ca V ) and Na + (Na V ) channels are composed of a single subunit that contains four similar repeated domains, and some K + channels are dimers, each subunit being composed of two repeated domains ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>If it binds more tightly to the open state, the ligand will be a channel activator, whereas if binding to the closed configuration is stronger, it will be an inhibitor</otmi:snippet>
+              <otmi:snippet>In AChR, closure is accompanied by rotation of TM2, which brings hydrophobic leucine side chains into the pore </otmi:snippet>
+              <otmi:snippet>In addition, therapeutic drugs can cause iatrogenic disease if they interact adversely with ion channels</otmi:snippet>
+              <otmi:snippet>In between are the coupled transporters (antiporters and symporters), in which movement of one ion species against its electrochemical gradient is powered by the downhill movement of another</otmi:snippet>
+              <otmi:snippet>In central neurons, such hyperexcitability results in epilepsy ; in skeletal muscle it causes myotonia (prolonged muscle contraction); and in the heart it causes LQT syndrome (see p. 463 ) ( Tables 1 )</otmi:snippet>
+              <otmi:snippet>In many cases, gating is also influenced by biochemical reactions such as phosphorylation, a process known as modulation</otmi:snippet>
+              <otmi:snippet>In many channels, the pore-forming helices are contributed by separate subunits, so that the channel is tetrameric (Kir channels, for instance) or pentameric (Cys-loop receptors, Fig. 2 )</otmi:snippet>
+              <otmi:snippet>In most cases, however, ion channels are very choosy about the ions they allow through</otmi:snippet>
+              <otmi:snippet>In other cases, however, ligand-binding sites do not show co-operative interactions</otmi:snippet>
+              <otmi:snippet>In pore-loop channels, the inner TMs that line the pore act as a hinged gate, bending outwards to open the channel </otmi:snippet>
+              <otmi:snippet>In principle, alteration of any of these could disrupt channel function, but the last is found only rarely (some CFTR mutations alter single-channel conductance )</otmi:snippet>
+              <otmi:snippet>In the S4 family, where it has been most studied, voltage sensitivity arises from the movement of three to four positively charged residues in S4 within the voltage field (see p. 463 )</otmi:snippet>
+              <otmi:snippet>In the S4 subfamily, additional TMs (mostly four, but five in the case of the large-conductance Ca 2+ -activated K + (BK) channels) are present at the amino-terminal end of the protein </otmi:snippet>
+              <otmi:snippet>In the next decade, we anticipate new high-resolution structures and rapid advances in our understanding of how ion channels work</otmi:snippet>
+              <otmi:snippet>In their absence, channels are reduced in number (Ca V ; ref. 30 ) or totally absent (K ATP ; ref. 31 )</otmi:snippet>
+              <otmi:snippet>Inactivation of some K V channels is produced by a tethered N-terminal blocker, which swings into the pore and physically plugs it </otmi:snippet>
+              <otmi:snippet>Indeed, a re-entrant pore loop seems to be a criterion for high selectivity as it is present in all highly selective channels (although the converse is not true — not all pore-loop channels are highly selective between ions of similar charge)</otmi:snippet>
+              <otmi:snippet>Indeed, gain- and loss-of-function mutations in the same gene can produce distinct clinical disorders: neonatal diabetes (due to too little insulin secretion) and congenital hyperinsulinaemia both result from mutations in Kir6.2 (see p. 470 ; ref. 34 )</otmi:snippet>
+              <otmi:snippet>Indeed, many existing drugs, such as local anaesthetics , sedatives , anti-anxiety agents , antidiabetic drugs (see the review in this issue by Nichols, p. 470 ) and even antiviral therapies , exert their effects by interacting with ion channels</otmi:snippet>
+              <otmi:snippet>Inherited channelopathies are usually very rare</otmi:snippet>
+              <otmi:snippet>Interestingly, specific polymorphisms (gene variants) seem to predispose certain individuals to drug-induced LQT </otmi:snippet>
+              <otmi:snippet>Interestingly, the Cys-loop receptors are found almost exclusively in metazoans (multicellular organisms), suggesting that they evolved only when cell–cell interactions such as those found in the nervous system became important </otmi:snippet>
+              <otmi:snippet>Intracellular ion channels Ion channels are not confined to the plasma membrane</otmi:snippet>
+              <otmi:snippet>Ion channels are also the target of a large and diverse group of toxins that bind to ion channels and either inhibit or enhance their activity </otmi:snippet>
+              <otmi:snippet>Ion channels are gated pores that permit the passive flow of ions down their electrochemical gradients ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Ion pumps, by contrast, use the energy of ATP hydrolysis to transport ions against their electrochemical gradient</otmi:snippet>
+              <otmi:snippet>Ion-channel research is now poised at an exciting point</otmi:snippet>
+              <otmi:snippet>It also provides an overview of channelopathies</otmi:snippet>
+              <otmi:snippet>It is argued that unhydrated ions are actually small enough to pass though the pore but they are prevented from doing so because the energetic cost of dehydration next to a &quot;greasy wall&quot; is too high . (Remember that ions normally move through AChR in the hydrated state.) These two types of gate are physically distinct from the selectivity filter</otmi:snippet>
+              <otmi:snippet>It is worth noting that the change in channel activity required to produce disease can be very subtle</otmi:snippet>
+              <otmi:snippet>K + channels are 100–1,000 times more permeable to K + than Na + , despite the fact that the unhydrated Na + ion is smaller </otmi:snippet>
+              <otmi:snippet>Ligand gating The basic principle of ligand gating is that the ligand must bind differently to the open and the closed conformations</otmi:snippet>
+              <otmi:snippet>Like many proteins, therefore, ion channels are built on a modular theme</otmi:snippet>
+              <otmi:snippet>Loss-of-channel function is commonly the result of mutations that prevent protein synthesis or correct membrane targeting so that the channel density is lower, or that impair channel activity, by disrupting ligand binding, for example</otmi:snippet>
+              <otmi:snippet>Many accessory proteins act like molecular chaperones, facilitating the trafficking of pore-forming subunits to the plasma membrane</otmi:snippet>
+              <otmi:snippet>Many channelopathies are genetically heterogeneous, the same clinical phenotype being caused by mutations in different genes</otmi:snippet>
+              <otmi:snippet>Most channels conform to a common structural theme in which the central pore, through which the ions move, is formed by four or five transmembrane α-helices, which fit together like the staves of a barrel</otmi:snippet>
+              <otmi:snippet>Most channels possess tightly associated accessory subunits, and some form part of much larger macromolecular complexes</otmi:snippet>
+              <otmi:snippet>Most mutations in Na V -channel genes act as gain-of-function mutations </otmi:snippet>
+              <otmi:snippet>Mutations in epithelial Cl - channels , or Kir channels , also cause renal disorders ( Table 2 ), and cystic fibrosis results from impaired fluid secretion, particularly in the airways (see p. 477 )</otmi:snippet>
+              <otmi:snippet>Mutations in the epithelial Na + channel (ENaC) lead to enhanced, or reduced, Na + uptake in the kidney tubules </otmi:snippet>
+              <otmi:snippet>Na V and Ca V channels probably use a different strategy to achieve selectivity</otmi:snippet>
+              <otmi:snippet>Na V channels mediate the upstroke of the action potential in nerve and muscle, first opening in response to depolarization and then rapidly entering a non-conducting inactivated state ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>Not surprisingly, mutations in their genes also cause disease</otmi:snippet>
+              <otmi:snippet>Other ancillary proteins anchor the pore-forming subunit in the membrane or target it to specific locations: rapsyn, for example, clusters AChR at excitatory synapses (see p. 448 )</otmi:snippet>
+              <otmi:snippet>Other channels, particularly those that belong to the pore-loop family, are even more discriminatory</otmi:snippet>
+              <otmi:snippet>Other types of channel disease Although not strictly considered as channelopathies, mutations in other genes can adversely affect ion-channel function</otmi:snippet>
+              <otmi:snippet>Our understanding of how ion channels function has been illuminated by recent breakthroughs in high-resolution structure determination and by studies of diseases that result from impaired channel function (the channelopathies)</otmi:snippet>
+              <otmi:snippet>Over 340 human genes are thought to encode ion channels (see http://www.ensembl.org/Homo_sapiens/index.html )</otmi:snippet>
+              <otmi:snippet>Paradoxically, gain-of-function mutations in K + channels can also cause cardiac arrhythmia (short QT syndrome; see p. 463 ) or epilepsy </otmi:snippet>
+              <otmi:snippet>Positive co-operativity is required for the steep ligand dependence of gating that produces a sharp &quot;on–off&quot; switch of channel activity, as in AChR channels (which have two acetylcholine-binding sites, see p. 448 ), CNG channels (which have four cyclic-nucleotide-binding sites ) and BK channels (which have eight Ca 2+ -binding sites )</otmi:snippet>
+              <otmi:snippet>Properties of ion channels The cardinal properties of ion channels are ion selectivity and gating</otmi:snippet>
+              <otmi:snippet>Rather than physical occlusion, the gate may be an energetic one that results from a &quot;hydrophobic wall&quot; to ion permeation</otmi:snippet>
+              <otmi:snippet>Rings of negatively charged residues in the pore exclude anions and facilitate cation flux</otmi:snippet>
+              <otmi:snippet>Second, many ligand-gated channels have more than one ligand-binding site, reflecting their multimeric structure</otmi:snippet>
+              <otmi:snippet>Selectivity Ion movement through a channel pore depends on the electrochemical gradient across the membrane and the permeability of the pore </otmi:snippet>
+              <otmi:snippet>Selectivity refers to the ability of some channels to discriminate between ion species, allowing some to pass through the pore while excluding others</otmi:snippet>
+              <otmi:snippet>Similar loops also link the ligand-binding domains of GluR channels (see p. 456 ) and the ATP- and Gβγ-binding domain of Kir channels (see also p. 470 ) to the pore</otmi:snippet>
+              <otmi:snippet>Similarly, mutations in regulatory genes can cause diabetes by affecting the activity of ion channels in pancreatic beta-cells</otmi:snippet>
+              <otmi:snippet>Some K + channels have an added intracellular Ca 2+ -binding site , and both cyclic-nucleotide-gated (CNG) channels and hERG (see the review in this issue by Sanguinetti and Tristani-Firouzi, p. 463 ) have appropriated an intracellular cyclic-nucleotide-binding site</otmi:snippet>
+              <otmi:snippet>Some, such as AChR, permit flux of a variety of cations but exclude anions (see p. 448 )</otmi:snippet>
+              <otmi:snippet>Straightening of the helix and sliding of the intracellular ends together (at the helix bundle-crossing region) closes the pore</otmi:snippet>
+              <otmi:snippet>Structural considerations Ion channels are composed of one or more pore-forming subunits, often in association with accessory subunits</otmi:snippet>
+              <otmi:snippet>Structural studies have revealed that most channels are closed by a gate that acts as a physical barrier to ion movement</otmi:snippet>
+              <otmi:snippet>Studies of channelopathies illustrate this maxim&apos;s current relevance, for they have identified novel ion-channel genes, illuminated relationships between channel structure and function, and revealed diverse and unexpected physiological roles for ion channels</otmi:snippet>
+              <otmi:snippet>That of the acetylcholine receptor (AChR), for example, is also present in a separate water-soluble protein </otmi:snippet>
+              <otmi:snippet>The ABC protein SUR is neither a pump nor a channel but a channel regulator (see p. 470 )</otmi:snippet>
+              <otmi:snippet>The ClC chloride channel family presents a conundrum, for it is now clear that some of these proteins are channels whereas others are transporters (see the review in this issue by Miller, p. 484 )</otmi:snippet>
+              <otmi:snippet>The Kir channels consist only of this core, and two-pore K + channels arose by tandem duplication</otmi:snippet>
+              <otmi:snippet>The MinK and MiRP proteins modulate the single-channel conductance, gating and pharmacology of certain kinds of K V channel (see p. 463 ), and the inactivation properties of many other voltage-gated channels originate in their accessory subunits </otmi:snippet>
+              <otmi:snippet>The SUR subunit of the K ATP channel has a key role in the metabolic regulation of the channel by hydrolysing ATP and stimulating channel opening (see p. 470 ); it also confers sensitivity to therapeutic drugs (see p. 470 )</otmi:snippet>
+              <otmi:snippet>The X-ray structure revealed that the backbone carbonyls of the GYG residues line the pore and substitute for the waters of hydration, so that K + passes through the filter by slipping from one binding site to the next </otmi:snippet>
+              <otmi:snippet>The best-known example is that of drugs that inhibit the cardiac K V channel hERG and thereby produce acquired LQT syndrome (see p. 463 )</otmi:snippet>
+              <otmi:snippet>The carbonyl oxygens are too far apart to enable them to interact intimately with Na + ions, so that Na + is effectively excluded from the selectivity filter because the energy required to remove the waters of hydration is greater than that gained by interacting with the carbonyl oxygens</otmi:snippet>
+              <otmi:snippet>The cell membrane is a major barrier to ion movement, and specific proteins — the ion channels, transporters and pumps — have evolved to transport ions across it</otmi:snippet>
+              <otmi:snippet>The central core of these channels, which contains the ion-permeation pore, comprises two transmembrane helices (TMs) linked by a pore loop ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>The eukaryotic cousins of the Cl - transporters described by Miller in this issue ( p. 484 ) are crucial for acidification of endocytotic vesicles in epithelial tissues </otmi:snippet>
+              <otmi:snippet>The extent to which the mutation modifies channel function is obviously crucial</otmi:snippet>
+              <otmi:snippet>The form and severity of the clinical phenotype manifested by individuals carrying a given ion-channel mutation depends on several factors</otmi:snippet>
+              <otmi:snippet>The four inhibitory ATP-binding sites of the K ATP channel act independently and one molecule of ATP is sufficient to close the channel , probably because the channel needs to respond to changes in ATP in a gently graded fashion (see p. 470 )</otmi:snippet>
+              <otmi:snippet>The fourth TM (S4) is adapted for voltage sensing and possesses several positively charged residues</otmi:snippet>
+              <otmi:snippet>The gate of the gap-junction channel acts like the iris diaphragm of a camera </otmi:snippet>
+              <otmi:snippet>The glutamate receptors, for example, contain a pore-loop core, orientated in the membrane in the inverse direction, plus extracellular ligand-binding domains</otmi:snippet>
+              <otmi:snippet>The human ether-a-go-go (hERG) channels, inwardly rectifying K + (Kir) channels and glutamate receptor channels discussed in subsequent reviews belong to this class</otmi:snippet>
+              <otmi:snippet>The importance of certain K V channels in fluid secretion in the cochlear was first recognized from the fact that their mutation causes deafness </otmi:snippet>
+              <otmi:snippet>The largest class of ion channels possess a pore loop, a region of the protein that loops back into the membrane to form the selectivity filter that determines which ion species can permeate ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>The largest pores, such as those of gap-junction channels , function like molecular sieves and discriminate only on the basis of size</otmi:snippet>
+              <otmi:snippet>The latter may result if the mutation preferentially reduces the excitability of inhibitory neurons </otmi:snippet>
+              <otmi:snippet>The multimeric nature of ion channels may also influence the severity of recessive disorders ( Box 1 )</otmi:snippet>
+              <otmi:snippet>The neurotransmitter-binding site is found in the N terminus and, at least in some cases, may have been stolen from elsewhere</otmi:snippet>
+              <otmi:snippet>The non-pore-loop channels can be grouped into a variety of classes, which have no obvious evolutionary relationship ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>The pentameric ligand-gated channels known as the Cys-loop receptors contain four TMs, the pore being formed by the second transmembrane helix in each of the five subunits</otmi:snippet>
+              <otmi:snippet>The perils of over- or under-excitement Ion channels are essential for membrane electrical excitability, and their mutation results in many nerve, muscle and endocrine disorders ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>The range of channelopathies is too great, and too diverse, to cover in a short review — it needs a book </otmi:snippet>
+              <otmi:snippet>The tetrameric nature of most pore-loop channels contributes to ion-channel diversity, as closely related subunits can associate to form heteromeric channels with novel properties</otmi:snippet>
+              <otmi:snippet>Their mutation can produce osteopetrosis, in which the bone marrow is replaced by bone, or Dent&apos;s disease, which is characterized by low-molecular-weight proteinuria, kidney stones, hypercalciuria, nephrocalcinosis and occasionally renal failure </otmi:snippet>
+              <otmi:snippet>There are several other features common to all ligand-gated channels</otmi:snippet>
+              <otmi:snippet>Therefore I shall focus on just a few key concepts or examples that are helpful for understanding the reviews in this Insight</otmi:snippet>
+              <otmi:snippet>These are sometimes known as the autoimmune channelopathies</otmi:snippet>
+              <otmi:snippet>These are sometimes referred to as acquired channelopathies</otmi:snippet>
+              <otmi:snippet>These belong to the ATP-binding cassette (ABC) family of pumps that transport nutrients, drugs and solutes across the membrane using the energy of ATP hydrolysis</otmi:snippet>
+              <otmi:snippet>These include genes involved in trafficking, localizing and anchoring channels in the plasma membrane or those that influence the concentration of ligands or modulators of channel function</otmi:snippet>
+              <otmi:snippet>These structures, described in detail in the accompanying reviews, have illuminated our understanding of how ion channels work, as discussed below</otmi:snippet>
+              <otmi:snippet>They are either tetramers, or monomers of four similar domains</otmi:snippet>
+              <otmi:snippet>They are found in the membranes of all intracellular organelles, including secretory and endocytotic vesicles, synaptic vesicles, lysozymes, mitochondria and the endoplasmic and sacroplasmic reticulum (SR)</otmi:snippet>
+              <otmi:snippet>They have a large water-filled pore (6.5 Å in diameter) through which ions move in the (partially) hydrated state </otmi:snippet>
+              <otmi:snippet>They have important roles in such diverse processes as nerve and muscle excitation, hormone secretion, cell proliferation, sensory transduction, learning and memory, regulation of blood pressure, salt and water balance, lymphocyte proliferation, fertilization and cell death </otmi:snippet>
+              <otmi:snippet>They slow or impair inactivation, which leads to a persistent Na + current and membrane hyperexcitability ( Fig. 3a, b )</otmi:snippet>
+              <otmi:snippet>This &quot;gating charge&quot; can arise from charged residues on the protein, for example in the fourth transmembrane segment (S4) (see p. 463 ), or from charged activator-ligands binding to sites deep within the protein, as in the ClC channels (see p. 484 )</otmi:snippet>
+              <otmi:snippet>This Insight focuses on ion channels</otmi:snippet>
+              <otmi:snippet>This arrangement is energetically more favourable because domain interfaces undergo larger conformational changes on ligand binding</otmi:snippet>
+              <otmi:snippet>This example, along with that of CFTR and SUR (which &quot;should&quot; be pumps), demonstrates that the classical distinction between channels and transporters is blurred and that the two types of ion-transport mechanism share common features</otmi:snippet>
+              <otmi:snippet>This exquisite discrimination takes place at the narrowest part of the pore, known as the selectivity filter</otmi:snippet>
+              <otmi:snippet>This is a recessive disease, and as many as 1 in 20 people are carriers (see p. 477 )</otmi:snippet>
+              <otmi:snippet>This is achieved in a variety of ways</otmi:snippet>
+              <otmi:snippet>This is discussed in detail for Cys-loop receptors (see p. 448 )</otmi:snippet>
+              <otmi:snippet>This is one reason why not all carriers of the same disease-causing mutation are affected or why they exhibit different phenotypes</otmi:snippet>
+              <otmi:snippet>This review provides an introduction to ion-channel structure, a theme that is developed more fully in the subsequent reviews</otmi:snippet>
+              <otmi:snippet>Thus mixing and matching of accessory subunits with different pore-forming subunits contributes to the diversity of ion channels</otmi:snippet>
+              <otmi:snippet>Thus, mutations in the SR ryanodine receptor, which regulates Ca 2+ release from intracellular stores, lead to malignant hyperthermia, a disorder in which common inhalation anaesthetics produce uncontrolled muscle contractions and a potentially fatal rise in body temperature </otmi:snippet>
+              <otmi:snippet>To date, mutations in over 60 ion-channel genes have been associated with human disease</otmi:snippet>
+              <otmi:snippet>Understanding why certain family members function as transporters and others as channels will provide fundamental insights into the essential features that distinguish channels from transporters</otmi:snippet>
+              <otmi:snippet>Uniquely, CFTR is a Cl - channel, and its ATPase activity is used to drive the protein between open and closed conformations (see p. 477 )</otmi:snippet>
+              <otmi:snippet>Unsurprisingly, therefore, loss-of-function mutations in K V channel subunits prolong the action-potential duration, inducing a hyperexcitability that leads to epilepsy, episodic ataxia and myokymia as well as cardiac disorders (see p. 463 ; ref. 40 ; Table 1 )</otmi:snippet>
+              <otmi:snippet>Voltage gating Voltage-gated channels are opened or closed by changes in transmembrane voltage</otmi:snippet>
+              <otmi:snippet>We can also expect that advances in ion-channel research will lead to new therapies, in the form of new drugs and of drugs tailored to the individual&apos;s genetic profile.</otmi:snippet>
+              <otmi:snippet>Whether or not a mutation is dominant or recessive thus depends on whether the channel is multimeric and if the presence of one (or more) mutant subunit affects the wild-type subunits in the complex</otmi:snippet>
+              <otmi:snippet>With luck, we will discover the key structural elements that distinguish ion channels from their cousins the transporters</otmi:snippet>
+              <otmi:snippet>Your ability to read and understand this page depends on the activity of ion channels in your eye and brain</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Molecular nanoswitches.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Schematics illustrating how ion channels open and close, with associated single-channel recordings. Opening and closing of the channel are random events, but the frequency with which they occur is influenced by, for example, ligand-binding ( a ) or transmembrane voltage ( b ). The transition rate between open and closed states is &lt;10 µs. The flux rate through the pore when it is open is of the order of 10 7 ions per second; that mediated by the coupled exchangers is substantially smaller (see p. 484 ). Following opening, some voltage-gated channels enter an inactivated (non-conducting) state in which they are refractory to subsequent depolarization ( b ).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Ion-channel classes.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Predicted transmembrane topology of different types of channel. The numbers in parentheses refer to the number of subunits that make up the channel pore. The beige boxes indicate ligand-binding domains. The S4 domain is highlighted. Kir, inwardly rectifying K + channel. K V , voltage-gated K + channel. Na V , voltage-gated Na + channel. Ca V , voltage-gated Ca 2+ channel. CNG; cyclic-nucleotide-gated channel. HCN, hyperpolarization-activated channel. TRP, transient receptor potential channel. ClC, chloride channel. CFTR, cystic fibrosis transmembrane conductance regulator. IP3R, inositol trisphosphate receptor. RYR, ryanodine receptor. * The number of TMs of RYRs, whether they are evolutionarily related to IP3R, or if RYR and IP3R belong to the pore-loop family, or not, is unknown. The ClC channels have many helices that go only partway across the membrane and their transmembrane topology is not easily depicted (see p. 484 ).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Skeletal muscle channelopathies.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Schematic of the motor nerve terminal, the neuromuscular junction and a skeletal muscle fibre, showing ion channels (numbered 1–8) whose mutation leads to disease ( Tables 1 and 2 ). Mutations in several AChR subunits (1) cause myasthenia (muscle weakness). Autoimmune channelopathies are indicated by binding of antibodies (stars), which leads to internalization and downregulation of channel number. Loss of presynaptic K + -channel function (K V 1.1, KCNA1 ) (2) leads to increased transmitter release and enhanced muscle contraction, whereas downregulation of presynaptic Ca 2+ channels (3) or AChR (1) function causes myasthenia, by preventing neurotransmitter release, or binding, respectively. Gain-of-function mutations in the muscle Na + channel (4, SCN4A ), and loss-of-function mutations in ClC channels (5), cause hyperexcitability and myotonia, while loss-of-function mutations in Kir1.1 (6) cause hyperexcitability and myotonia. Mutations in muscle Ca V channels (7) or RYR channels (8) impair Ca 2+ release from intracellular stores, producing malignant hyperthermia or paralysis ( Tables 1 , 2 ). b , Comparison of wild-type and mutant (red trace) Na + current showing the persistent inward current produced by mutations associated with myotonia and/or periodic paralysis. c , Unlike normal muscle (above), action-potential firing in myotonic muscle (below) continues after stimulation has ceased, producing a sustained contraction.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1152/physrev.00024.2004</otmi:refid>
+          <otmi:refid>info:doi/10.2174/1381612054021024</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.280.5360.69</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1085028</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1116269</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.20028721</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.cellbio.19.110701.154854</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35077011</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1082708</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.jmb.2004.12.031</otmi:refid>
+          <otmi:refid>info:doi/10.1038/307609a0</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.cellbio.19.111301.144309</otmi:refid>
+          <otmi:refid>info:doi/10.1038/366158a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/356441a0</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.68.040204.100431</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.282.5397.2220</otmi:refid>
+          <otmi:refid>info:doi/10.1038/417515a</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02468</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.118.4.341</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600487</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nn1411</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.tips.2004.10.008</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80708-4</otmi:refid>
+          <otmi:refid>info:doi/10.1038/sj.emboj.7600877</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nn1557</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25495</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25466</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25466</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0404756101</otmi:refid>
+          <otmi:refid>info:doi/10.1093/hmg/ddh066</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25525</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35036198</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng1585</otmi:refid>
+          <otmi:refid>info:doi/10.1146/annurev.physiol.64.082101.143243</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25470</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s00232-005-0776-1</otmi:refid>
+          <otmi:refid>info:doi/10.1172/JCI25664</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S1568-9972(02)00146-5</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.180223197</otmi:refid>
+          <otmi:refid>info:doi/10.1038/312446a0</otmi:refid>
+          <otmi:refsnoid>11</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

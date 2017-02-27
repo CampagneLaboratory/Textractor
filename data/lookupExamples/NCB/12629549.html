@@ -1,0 +1,616 @@
+
+	
+
+
+
+<!--
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head xmlns=""><META http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Building a cell cycle oscillator: hysteresis and bistability in the activation of Cdc2 - Nature Cell Biology</title><meta name="description" content="Nature cell biology is a science journal containing cell biology articles and research papers on cell division, cell structure, animal and plant cell biology and cell cycles." />
+<meta name="keywords" content="Nature cell biology, biology articles, cell signalling, cell structure biology, stem cell research, nature, stem cells, animal cells, plant cells, science fairs, cell biology, articles on biology, journal of cell biology, creative labs, science experiments, human anatomy, science news, science articles, science magazines, cell membranes, adipose tissue, science and nature, animal cell biology, microbiology, muscular physiology, molecular cell biology, biochem, molecular biology of the cell, laboratory, labs, red blood cells, female anatomy, science journals, science labs, anatomy and physiology, science and technology, apoptosis, nature magazines, molecular biology, protein synthesis, science news articles, plasma membranes, biology news, cell division, cell cycles, receptor mediated, lighting microscopy, plant cell biology." /><meta content="noarchive" name="robots"><link href="http://www.nature.com/favicon.ico" rel="shortcut icon"><link type="text/css" href="/ncb/style_older.css" rel="stylesheet"><style media="all" type="text/css">@import "/ncb/style.css";</style>
+<script type="text/javascript" language="javascript"><!--
+	var include = ';;;;';
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+//-->
+
+var thisIssue = '/ncb/journal/v5/n4';
+
+
+
+
+// provides cross-browser functionality
+//======================================
+function getObject(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+function getIssueText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Archive';
+	}
+}
+
+function getIssueBreadcrumbText(){
+	if (isCurrent()) {
+		return 'Current issue';
+	} else {
+		return 'Table of Contents';
+	}
+}
+
+function setTitleImg(){
+	var titleImg = getObject('titleImg');
+	if (titleImg){
+		titleImg.alt = getIssueText();
+	}
+}
+
+</script><script src="/mailafriend/mailafriend.js" language="javascript" type="text/javascript"></script><script LANGUAGE="JavaScript">
+var currentIssue = '/ncb/journal/v6/n8';
+
+function isCurrent(){
+
+	//check for archive content
+	if (currentIssue == thisIssue){
+		return true;
+	} else {
+		return false;
+	}
+}
+</script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" bgcolor="#FFFFFF"><a name="top"/><!-- start npg global nav -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td align="center" bgcolor="#CCCCCC"> 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="34" height="37"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/npg_header_logo.gif" width="26" height="26" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" border="0" /></a></td>
+<td width="7" align="left"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://www.nature.com" class="topnav">NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/news/" class="topnav">NEWS@NATURE.COM</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/naturejobs/" class="topnav">NATUREJOBS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="/nature-events/" class="topnav">NATUREEVENTS</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td align="center"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl" class="topnav">ABOUT&#160;NPG</a></td>
+<td width="14" align="center"><img src="/includes/rj_globnavimages/global_divider.gif" width="2" height="13" alt="" /></td>
+<td width="6" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="6" height="13" alt="" /></td>
+<td align="right"> 
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td width="16"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&amp;style=xml/02_welcome.xsl"><img src="/includes/rj_globnavimages/help.gif" width="13" height="13" alt="help" border="0" /></a></td>
+<td><a href="http://npg.nature.com/npg/servlet/Content?data=xml/08_help.xml&amp;style=xml/08_help.xsl" class="topnavsml">Help</a></td>
+<td width="7" align="center"><img src="/includes/rj_globnavimages/spacer.gif" width="8" height="8" alt="" /></td>
+<td width="16"><a href="/siteindex/"><img src="/includes/rj_globnavimages/siteindex.gif" width="12" height="12" border="0" alt="site index" /></a></td>
+<td><a href="/siteindex/" class="topnavsml">Nature.com&#160;site&#160;index</a></td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" height="1"><img src="/includes/rj_globnavimages/spacer.gif" width="1" height="1" alt="" /></td>
+</tr>
+</table>
+<!-- end global nav--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" bgcolor="#546D9F"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#546D9F"><tr height="74"><td width="161" align="left"><a href="/ncb/"><img height="54" width="161" alt="Nature Cell Biology" border="0" src="/includes/rj_globnavimages/ncb_logo.gif"></a></td><td background="/includes/rj_globnavimages/ncb_bg_header.gif" width="100%" align="left"><img alt="" height="1" width="1" src="/includes/rj_globnavimages/spacer.gif"></td><td width="247" valign="bottom">	
+	
+<table width="247" height="100%" border="0" cellpadding="1" cellspacing="0" class="lgn_border">
+<tr><td>
+<table width="245" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<tr><td width="1"><img src="/images/spacer.gif" alt="" width="1" height="71" /></td>
+<td>
+<table width="244" border="0" cellpadding="0" cellspacing="0" class="lgn_background">
+<form name="login" method="post" action="/login/login.taf?_action=form2&login_return=true&_UserReference=C0A804ED46529C9DA618DFCE87474111429D">
+<tr height="10" valign="top">
+<td width="2"><img src="/images/spacer.gif" alt="" width="2" height="10"/></td>
+<td width="4"><img src="/images/spacer.gif" alt="" width="4" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="91"><img src="/images/spacer.gif" alt="" width="91" height="10"/></td>
+<td width="56"><img src="/images/spacer.gif" alt="" width="56" height="10"/></td>
+</tr>
+			<tr valign="top" height="100%">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">Full text access provided to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="lgn_textbig"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+<tr>
+<td colspan="5"><img src="/images/spacer.gif" alt="" width="245" height="3"/></td>
+</tr>
+<tr valign="top">
+<td class="lgn_text" colspan="2">&nbsp;</td>
+<td class="lgn_text" colspan="3">by: <span class="lgn_textalt"><b>Weill Cornell Medical Library</b></span></td>
+</tr>
+
+	<tr height="6"><td colspan="5"><img src="/images/spacer.gif" alt="" width="244" height="6"/></td></tr>
+</form>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table></td><td valign="bottom"></td></tr></table><tr><td height="1" bgcolor="#000000" align="center"><img alt="" height="1" width="100%" src="/includes/rj_globnavimages/spacer.gif"></td></tr></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="30" width="459"><table cellpadding="0" cellspacing="0" border="0" width="459"><form target="_blank" method="post" action="/dynasearch/app/dynasearch.taf" name="f1"><tr><td height="30" width="133"><span class="search">SEARCH&nbsp;JOURNAL</span></td><td height="30" width="140"><input value="Exact" name="sp-w" type="hidden"><input value="search" name="_action" type="hidden"><input value="Any" name="sp-p" type="hidden"><input value="ncb" name="sp_k" type="hidden"><input style="margin-left:0px;margin-right:0px;font-family:verdana,arial,helvetica,sans-serif;width:140px;height:20px;" tabindex="5" size="8" name="search_fulltext" type="text"></td><td height="30" width="10"><img alt="" height="8" width="10" src="/includes/rj_globnavimages/spacer.gif"></td><td height="30" width="36"><input align="middle" alt="search Nature Cell Biology" border="0" height="19" tabindex="6" width="26" src="/includes/rj_globnavimages/ncb_searchgo.gif" name="submit" type="image"></td><td width="6"><img alt="" height="5" width="3" src="/ncb/images/arrow_blue.gif"></td><td width="134" height="30"><a target="_blank" class="adsearch" href="/dynasearch/app/dynasearch.taf?site_source=ncb">Advanced search</a></td></tr></form></table></td><td align="right" height="30" width="87"><a target="_blank" href="/registration/Modify_registration.taf?site_source=ncb"><img alt="my account" border="0" height="15" width="85" src="/includes/rj_globnavimages/myacct.gif"></a></td><td align="right" height="30" width="68"><a target="_blank" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl"><img alt="e-alerts" border="0" height="15" width="66" src="/includes/rj_globnavimages/ealert.gif"></a></td><td align="right" height="30" width="78"><a href="/registration/index.taf?site_source=ncb" target="_blank"><img alt="subscribe" border="0" height="15" width="76" src="/includes/rj_globnavimages/subscribe.gif"></a></td><td align="right" height="30" width="68"><a href="/registration/index.taf?site_source=ncb"><img alt="register" border="0" height="15" width="66" src="/includes/rj_globnavimages/register.gif"></a></td></tr><tr><td height="4" colspan="5" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr xmlns=""><td valign="top" height="22" align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td height="22" bgcolor="#DFE9FD" width="145">&nbsp;</td><td align="left" width="630" height="22" bgcolor="#DFE9FD" class="breadcrumb"><a class="breadcrumblink" href="/ncb/index.html">Journal home</a>&nbsp;&gt;
+<script LANGUAGE="JavaScript">
+	if (!isCurrent()){
+	document.write('<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a>&nbsp;&gt;');
+	}
+</script>
+<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">
+<script LANGUAGE="JavaScript">
+	document.write(getIssueBreadcrumbText());
+</script></a>&nbsp;&gt;&nbsp;<a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html#le">Letter</a> &gt; Full text</td></tr></table></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td valign="top" width="130"><input xmlns="" value="issue" id="leftnav_type" type="hidden"><input xmlns="" value="le" id="categ" type="hidden"><input xmlns="" value="" id="arch_categ" type="hidden"><script LANGUAGE="JavaScript">
+var bgColorOn = "#546D9F";
+var bgColor2 = "#EAEAEA";
+//var bgClassOn = "leftnavOn_bg";
+var imageOn = "/includes/rj_globnavimages/nav_dots1.gif";
+var imageOff = "/includes/rj_globnavimages/nav_dots2.gif";
+var imageSpacer = "/includes/rj_globnavimages/spacer.gif";
+
+var issueType = 'issue';
+var archiveType = 'archive';
+
+var children = new Array();
+
+function addSubLevel(parent, child){
+	children[parent] = child;
+}
+
+function getObjectRef(name) {
+  if(document.getElementById) return document.getElementById(name);
+  else if(document.all) return document.all[name];
+  else return null;
+}
+
+var thisPageType = '';
+
+function setPageType(){
+	var type = getObjectRef("leftnav_type").value;
+	//alert(type);
+
+	if (type == null){
+		type = '';
+	}
+
+	//check for archive content
+	if (type == issueType && !isCurrent()){
+		type = archiveType;
+	}
+
+	thisPageType = type;
+}
+
+function getPageType(){
+	return thisPageType;
+}
+
+setPageType();
+
+function isCurrentType(thisType){
+	if (thisType == getPageType()){
+		return true;
+	}else{
+		var isChild = false;
+		if (typeof children[thisType] != "undefined"){
+			var child = children[thisType];
+			for (var i=0; i<child.length; i++){
+				if (getPageType() == child[i]){
+					isChild = true;
+				}
+			}
+		}
+		return isChild;
+	}
+}
+
+function getNewSubRow(name, linkhref, text){
+	return '<tr><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_1"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_2" valign="top"><img src="'+imageOff+'" id="'+name+'_image" width="5" height="7" alt="" vspace="2"></td><td style="background-color:'+bgColor2+'" id="'+name+'_3"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td><td style="background-color:'+bgColor2+'" id="'+name+'_4"><a href="'+linkhref+'" class="leftnav3" id="'+name+'_link">'+text+'</a></td><td width="5" style="background-color:'+bgColor2+'" id="'+name+'_5" valign="top"><img src="'+imageSpacer+'" width="5" height="15" alt=""></td></tr>';
+}
+
+function getSubRow(newRows){
+	if (newRows != ''){
+		return '<img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr><tr><td height="1" colspan="3"><table width="100%" cellpadding="0" cellspacing="0" border="0">'+newRows+'</table><tr><td colspan="3" height="1"><img src="'+imageSpacer+'" width="5" height="1" alt=""></td></tr>'
+	} else {
+		//return '<img src="'+imageSpacer+'" width="5" height="1" alt="">';
+		return '';
+	}
+}
+
+function hilite(text) {
+// set colors
+
+//alert(getObjectRef(text+"_1").style.backgroundColor);
+	if (getObjectRef(text+"_link") != null){
+
+		var num = 1;
+		while (getObjectRef(text+"_"+num)){
+			//getObjectRef(text+"_"+num).className  = bgClassOn;
+			getObjectRef(text+"_"+num).style.backgroundColor = bgColorOn;
+			num++;
+		}
+
+		getObjectRef(text+"_link").className = getObjectRef(text+"_link").className+"On";
+	}
+
+	if (getObjectRef(text+"_image") != null){
+		//alert(getObjectRef(text+"_image").src);
+		getObjectRef(text+"_image").src = imageOn;
+	}
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/images/spacer.gif"></td></tr><tr><td id="home_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="home_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/index.html" id="home_link">Journal home</a></td><td id="home_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="aop_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="aop_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html" id="aop_link">Advance online publication</a></td><td id="aop_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'aop';
+
+addSubLevel(thisType, new Array("About_AOP"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_AOP', '/ncb/aop/index.html', 'About AOP');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="issue_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="issue_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n7/index.html" id="issue_link">
+Current issue
+</a></td><td id="issue_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="archive_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="archive_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html" id="archive_link">Archive</a></td><td id="archive_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Press_releases_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Press_releases_2" style="background-color:
+#DFE9FD"><a class="leftnav" href="/ncb/press_release/index.html" id="Press_releases_link">Press releases</a></td><td id="Press_releases_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="1" colspan="3"><img alt="" height="1" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="Supplements_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Supplements_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/supplements/index.html" id="Supplements_link">Supplements</a></td><td id="Supplements_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Web_Focuses_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Web_Focuses_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/webfocus/index.html" id="Web_Focuses_link">Focuses</a></td><td id="Web_Focuses_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Cell_of_the_month_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Cell_of_the_month_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/image/index.html" id="Cell_of_the_month_link">Cell of the month</a></td><td id="Cell_of_the_month_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td id="For_authors_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_authors_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/authors/index.html" id="For_authors_link">For authors</a></td><td id="For_authors_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'For_authors';
+
+addSubLevel(thisType, new Array("How_to_submit","Content_types","Editorial_process"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('How_to_submit', '/ncb/authors/submit/index.html', 'How to submit');
+	
+	newRows += getNewSubRow('Content_types', '/ncb/authors/article_types/index.html', 'Content types');
+	
+	newRows += getNewSubRow('Editorial_process', '/ncb/authors/ed_process/index.html', 'Editorial process');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Online submission_1" style="background-color:#DFE9FD" colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="20"><img id="Online_submission_navimage" alt="Online submission" border="0" align="absmiddle" src="/includes/rj_globnavimages/ncb_icon_onlinesub.gif"></td><td><a class="leftnav2" href="http://mts-ncb.nature.com" target="_blank" id="Online_submission_link">Online submission</a></td></tr></table></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Permissions_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Permissions_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank" id="Permissions_link">Permissions</a></td><td id="Permissions_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_referees_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_referees_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/referees/index.html" id="For_referees_link">For referees</a></td><td id="For_referees_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="sample_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="sample_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html" id="sample_link">Free online issue</a></td><td id="sample_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="About_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/about/index.html" id="About_the_journal_link">About the journal</a></td><td id="About_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"><script LANGUAGE="JavaScript">
+
+var thisType = 'About_the_journal';
+
+addSubLevel(thisType, new Array("About_the_editors","Editorial_policies","Masthead"));
+
+var newRows = '';
+if (isCurrentType(thisType) || '' == 'true'){
+
+	
+	newRows += getNewSubRow('About_the_editors', '/ncb/about/about_eds/index.html', 'About the editors');
+	
+	newRows += getNewSubRow('Editorial_policies', '/ncb/about/ed_policies/index.html', 'Editorial policies');
+	
+	newRows += getNewSubRow('Masthead', '/ncb/about/masthead/index.html', 'Masthead');
+		
+
+	if (isCurrentType(thisType) && thisType != getPageType()){
+		hilite(thisType);
+	}
+
+}
+
+document.write (getSubRow(newRows));
+</script></td></tr><tr><td id="Contact_the_journal_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Contact_the_journal_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/contact/index.html" id="Contact_the_journal_link">Contact the journal</a></td><td id="Contact_the_journal_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Subscribe_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Subscribe_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/registration/index.taf?site_source=ncb" target="_blank" id="Subscribe_link">Subscribe</a></td><td id="Subscribe_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Advertising_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Advertising_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://advertising.nature.com" target="_blank" id="Advertising_link">Advertising</a></td><td id="Advertising_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Work_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Work_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/forms/03_current.jsp" id="Work_link">work@npg</a></td><td id="Work_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="Reprints_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="Reprints_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://www.naturereprints.com" target="_blank" id="Reprints_link">naturereprints</a></td><td id="Reprints_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td id="About_this_site_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="About_this_site_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="/ncb/site/index.html" id="About_this_site_link">About this site</a></td><td id="About_this_site_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr><tr><td height="12" colspan="3"><img alt="" height="12" width="5" src="/images/spacer.gif"></td></tr><tr><td id="For_librarians_1" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td><td id="For_librarians_2" style="background-color:
+#DFE9FD"><a class="leftnav2" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank" id="For_librarians_link">For librarians</a></td><td id="For_librarians_3" width="5" style="background-color:
+#DFE9FD"><img alt="" height="20" width="5" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td height="1" colspan="3"></td></tr></table>
+<script LANGUAGE="JavaScript">
+	hilite(getPageType());
+</script></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td width="470" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="470"><tr xmlns=""><td valign="top" height="21"><img alt="" height="21" width="1" src="/images/spacer.gif"></td></tr><tr xmlns=""><td valign="top" height="22"><span class="categ_large">Letter</span></td></tr><tr xmlns=""><td><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr xmlns=""><td height="14"><img alt="" height="14" width="1" src="/images/spacer.gif"></td></tr><tr><td><span xmlns="" class="blacksml"><i>Nature Cell Biology</i>
+&nbsp;<b>5</b>, 346 - 351 (2003)
+ <br>Published online: 10&nbsp;March&nbsp;2003;  | doi:10.1038/ncb954
+</span><h2 xmlns="">Building a cell cycle oscillator: hysteresis and bistability in the activation of Cdc2</h2><span xmlns="" class="author">Joseph R. Pomerening<sup>1</sup>, Eduardo D. Sontag<sup>2</sup>
+&amp;&nbsp;James E. Ferrell Jr<sup>1</sup><p class="blacksml"><sup>1</sup>&nbsp;Department of Molecular Pharmacology, Stanford University School of Medicine, Stanford, CA 94305-5174, USA</p><p class="blacksml"><sup>2</sup>&nbsp;Department of Mathematics, Rutgers University, New Brunswick, NJ 08903, USA</p><span class="blacksml">
+Correspondence should be addressed to James E. Ferrell Jr <a href="mailto:james.ferrell@stanford.edu">james.ferrell@stanford.edu</a></span></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="abstract"></a><span xmlns="" class="articletext"><b>In the early embryonic cell cycle, Cdc2&#150;cyclin B functions like an autonomous oscillator, whose robust biochemical rhythm continues even when DNA replication or mitosis is blocked<sup><a href="#B1">1</a></sup>. At the core of the oscillator is a negative feedback loop; cyclins accumulate and produce active mitotic Cdc2&#150;cyclin B<sup><a href="#B2">2, 
+</a></sup><sup><a href="#B3">3</a></sup>; Cdc2 activates the anaphase-promoting complex (APC); the APC then promotes cyclin degradation and resets Cdc2 to its inactive, interphase state. Cdc2 regulation also involves positive feedback<sup><a href="#B4">4</a></sup>, with active Cdc2&#150;cyclin B stimulating its activator Cdc25 (refs <a href="#B5">5, 
+</a><a href="#B6">6, 
+</a><a href="#B7">7</a>) and inactivating its inhibitors Wee1 and Myt1 (refs <a href="#B8">8, 
+</a><a href="#B9">9, 
+</a><a href="#B10">10, 
+</a><a href="#B11">11</a>). Under the correct circumstances, these positive feedback loops could function as a bistable trigger for mitosis<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B13">13</a></sup>, and oscillators with bistable triggers may be particularly relevant to biological applications such as cell cycle regulation<sup><a href="#B14">14, 
+</a></sup><sup><a href="#B15">15, 
+</a></sup><sup><a href="#B16">16, 
+</a></sup><sup><a href="#B17">17</a></sup>. Therefore, we examined whether Cdc2 activation is bistable. We confirm that the response of Cdc2 to non-degradable cyclin B is temporally abrupt and switch-like, as would be expected if Cdc2 activation were bistable. We also show that Cdc2 activation exhibits hysteresis, a property of bistable systems with particular relevance to biochemical oscillators. These findings help establish the basic systems-level logic of the mitotic oscillator.<br><br></b></span><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="450"><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr><tr><td height="1"><img alt="" height="1" width="450" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">It has been known for thirty years that there is an autocatalytic element to activation of the M-phase trigger. Microinjection of cytoplasm from M-phase <i>Rana pipiens</i><sup><a href="#B4">4</a></sup> or <i>Xenopus laevis</i><sup><a href="#B18">18, 
+</a></sup><sup><a href="#B19">19</a></sup> oocytes causes G2-phase oocytes to enter M phase. Furthermore, microinjection of cytoplasm from these M-phase oocytes causes progesterone-na&iuml;ve G2-phase oocytes to enter M phase, and the titre of the mature oocytes' M-phase promoting factor (MPF) activity never decreases with sequential cytoplasmic transfer<sup><a href="#B4">4</a></sup>. The basic mechanisms of this autocatalysis were defined through experiments with <i>Xenopus</i> egg extracts treated with recombinant, non-degradable cyclins<sup><a href="#B20">20</a></sup>. Cyclin-induced activation of Cdc2 inactivates the kinases that inhibit Cdc2 activity and activates the phosphatase that dephosphorylates the same target residues<sup><a href="#B20">20</a></sup>. Subsequent work established that Cdc2 can activate its activator Cdc25 (refs <a href="#B5">5, 
+</a><a href="#B6">6, 
+</a><a href="#B7">7</a>) through the intermediacy of the Polo-like kinase Plx1 (refs <a href="#B21">21</a>, <a href="#B22">22</a>), and that Cdc2 can inactivate its inactivators Wee1 and Myt1 (refs <a href="#B8">8, 
+</a><a href="#B9">9, 
+</a><a href="#B10">10, 
+</a><a href="#B11">11</a>).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">It was realized that these positive feedback loops &#151; Cdc2-mediated activation of Cdc25 and inactivation of Wee1 and Myt1 &#151; could function as a bistable system<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B13">13</a></sup>, toggling between two discrete alternative stable steady states. Systems are termed bistable if they toggle between two discrete alternative states without being able to rest in intermediate states (<a href="#f1">Fig. 1c</a>). In this case, the two stable states are interphase, in which Cdc2 and Cdc25 are inactive and Wee1 and Myt1 are active, and the early part of mitosis (up to anaphase), in which Cdc2 and Cdc25 are active and Wee1 and Myt1 are inactive. Bistability is not an inevitable consequence of positive feedback<sup><a href="#B23">23</a></sup>, nor is it the only useful systems-level property that can arise from positive feedback loops (for example, sensitivity amplification<sup><a href="#B24">24</a></sup> is a more robust property of positive feedback systems than bistability is). Nevertheless, a bistable trigger could be critical for mitotic oscillator function by ensuring that a cell settles in discrete, mutually exclusive interphase and M-phase states and not in a continuum of intermediate states<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B13">13</a></sup>. Bistability could also help keep a cell from slipping rapidly back and forth between cell cycle phases ('chattering') during transitions into and out of mitosis<sup><a href="#B13">13</a></sup>.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f1"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F1.html">Figure&nbsp;1.</a>&nbsp;Expected behaviours of several plausible Cdc2-APC circuits.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F1.html"><img border="0" alt="Figure&nbsp;1 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb954-f1.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>&#150;<b>c</b>, Three ways that Cdc2 could respond to different concentrations of non-degradable cyclin in the absence of the APC. The Michaelian response (<b>a</b>) would be expected if cyclin directly activated Cdc2. The ultrasensitive response (<b>b</b>) could arise from multistep activation mechanisms, from stoichiometric inhibitors or from saturation effects. The bistable response (<b>c</b>) could arise from a combination of ultrasensitivity and positive feedback. <b>d</b>&#150;<b>i</b>, Three ways that a Cdc2&#150;APC circuit could respond to a constant rate of cyclin synthesis. If the response of Cdc2 to cyclin is Michaelian or ultrasensitive (as in <b>a</b> and <b>b</b>) and the regulation of the APC by Cdc2 is direct, then the system will always approach a stable steady state (<b>d</b>, <b>e</b>). Adding an intermediate enzyme (such as Plx1) between Cdc2 and the APC can turn a monostable system (as in <b>d</b> and <b>e</b>) into a negative feedback oscillator (<b>f</b>, <b>g</b>). Adding positive feedback to make the response of Cdc2 to cyclin bistable (as in <b>c</b>) can turn the system into a relaxation oscillator, with explosive spikes of Cdc2 activity (<b>h</b>&#150;<b>i</b>). Details of the modelling can be found in <a href="/ncb/journal/v5/n4/suppinfo/ncb954_S1.html">Supplementary Information, Part 3</a>.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F1.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F1.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F1.html">Full Figure and legend (44K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Moreover, bistability is one way to ensure that a mitotic oscillator will never approach a stable steady-state, but will instead oscillate indefinitely, and an oscillator that possesses a bistable trigger &#151; a relaxation oscillator, similar in its basic mechanism to the Van der Pol oscillator from electrical engineering and the FitzHugh/Nagano oscillator from ecology&#151;has a number of distinctive properties. A simple two-component negative feedback system, such as one in which Cdc2&#150;cyclin B directly activates the APC and the APC in turn directly inactivates Cdc2&#150;cyclin B, will inevitably approach a stable, intermediate steady state (<a href="#f1">Fig. 1d, e</a>; also see <a href="/ncb/journal/v5/n4/suppinfo/ncb954_S1.html">Supplementary Information Part 1</a> for a mathematical demonstration). Some aspect of the circuit must be altered to convert it into a satisfactory oscillator. One way is to add another component to the feedback loop; for example, an intermediary, such as Plx1, between active Cdc2 and the APC (<a href="#f1">Fig. 1f</a>). The resulting regulatory circuit can exhibit sustained negative feedback oscillations (<a href="#f1">Fig. 1g</a>), and an oscillator of this class could in principle be the basis of the early embryonic cell cycle<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B25">25</a></sup>. A different way of producing sustained oscillations is to add a bistable trigger to a negative feedback loop, resulting in a relaxation oscillator (<a href="#f1">Fig. 1h, i</a>). This type of oscillator may have advantages over simple negative feedback oscillators in terms of noise rejection, reliability, self-synchronization and spatial propagation<sup><a href="#B14">14, 
+</a></sup><sup><a href="#B15">15, 
+</a></sup><sup><a href="#B16">16</a></sup>, and may be particularly suitable as a biological timer.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Therefore, we wanted to determine experimentally whether the Cdc2 system is actually bistable. We began by examining the time course of Cdc2 activation by a non-destructible <i>Xenopus</i> B-type cyclin, <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1, in undiluted, cycloheximide-treated interphase <i>Xenopus</i> egg extracts lacking endogenous cyclins (the non-destructible cyclin is not subject to APC-mediated proteolysis, allowing an examination of Cdc2 responses to specific, unchanging cyclin concentrations). If activation of Cdc2 is bistable, then the time course of Cdc2 activation in response to a constant level of non-degradable cyclin should exhibit a temporal lag that precedes an abrupt transition between low and high Cdc2 activity, as autocatalysis means that the rate of Cdc2 activation will increase as Cdc2 activity increases. The activation of Cdc2 was temporally abrupt and reached an apparent steady state within approximately 60 min (<a href="#f2">Fig. 2a</a>), as previously reported for activation of <i>Xenopus</i> Cdc2 by a non-degradable sea urchin cyclin protein in extracts<sup><a href="#B20">20</a></sup>. The observed temporal abruptness is consistent with the predicted behaviour of a bistable system, although temporal abruptness can also be detected in a highly switch-like, but monostable, system (one that is highly cooperative or ultrasensitive (<a href="#f1">Fig. 1b</a>), but not bistable (<a href="#f1">Fig. 1c</a>)).</span><br xmlns=""><br xmlns=""><a xmlns="" name="f2"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F2.html">Figure&nbsp;2.</a>&nbsp;Cdc2 activation in interphase extracts treated with <img border=0 src="/__chars/_delta/black/bold/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F2.html"><img border="0" alt="Figure&nbsp;2 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb954-f2.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Time course of Cdc2 activation. Extracts were treated with a supra-threshold concentration of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 (200 nM) and the resulting Cdc2 activity was measured as a function of time. Data are shown as means <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. for three replicates. <b>b</b>, Steady-state Cdc2 activity as a function <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 concentration. Data are shown as means <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. for three replicates. The data are consistent with an ultrasensitive response that is monostable and continuous (with a Hill coefficient of approximately 10), or one that is discontinuous and bistable.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F2.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F2.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F2.html">Full Figure and legend (15K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">In addition, if activation of Cdc2 is bistable, there should be a discontinuity in the steady-state level of Cdc2 activity as a function of added <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 concentration. As previously reported for activation of Cdc2 by sea urchin cyclin<sup><a href="#B20">20</a></sup>, small changes in cyclin concentration result in large changes in Cdc2 activity (<a href="#f2">Fig. 2b</a>). These data are consistent with a bistable response &#151; there could be a discontinuity in the stimulus/response curve &#151; but again the data are also compatible with a highly switch-like, ultrasensitive monostable response.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">A more definitive way of distinguishing between monostable and bistable responses is to try and detect hysteresis &#151; a distinctive splitting of the stimulus&#150;response relationship &#151; in the response of Cdc2 to <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1. For a given fixed concentration of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1, a monostable system will approach one particular steady-state level of Cdc2 activity regardless of the system's history (<a href="#f1">Fig. 1a, b</a>). In contrast, a bistable system has the potential to approach either of two different stable steady-states, depending on the history of the system. The stimulus&#150;response curve for a bistable system should exhibit hysteresis, with a relatively high threshold for switching from interphase to M phase, and a lower threshold for switching from M phase back to interphase (<a href="#f1">Fig. 1c</a>). Thus, if the Cdc2 system is bistable, there should be concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 that are not sufficient to drive an interphase extract into M phase, but are sufficient to maintain an M-phase extract in M phase for long periods of time.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">To experimentally determine whether the response of Cdc2 to <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 exhibited hysteresis, we prepared M-phase extracts (also termed cytostatic factor (CSF) extracts) from unfertilized <i>Xenopus</i> eggs and split them into two aliquots (<a href="#f3">Fig. 3a, b</a>). One aliquot was incubated with calcium (1 mM) for 30 min to trigger cyclin destruction and drive the extract into interphase. Various concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 were then added to this interphase extract and Cdc2 H1 kinase activity was assessed every 15&#150;30 min (<a href="#f3">Fig. 3a</a>). An apparent steady state was reached within 60&#150;90 min (data not shown), allowing the steady-state level of Cdc2 activity to be determined for a given concentration of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 in an extract coming from interphase (<a href="#f3">Fig. 3a, c&#150;g</a>; going up). The other aliquot of M-phase extract was incubated with various concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 for 30 min to allow excess endogenous Cdc2 to bind the non-degradable cyclin and become activated. The extract was then incubated with calcium to trigger destruction of the endogenous cyclin (<a href="#f3">Fig. 3b</a>). Again, an apparent steady state was reached within 60&#150;90 min, allowing us to determine the steady-state level of Cdc2 activity for a given concentration of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 in an extract coming from M phase (<a href="#f3">Fig. 3b&#150;g</a>; coming down).</span><br xmlns=""><br xmlns=""><a xmlns="" name="f3"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F3.html">Figure&nbsp;3.</a>&nbsp;Hysteresis in the response of Cdc2 to cyclin, part 1.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F3.html"><img border="0" alt="Figure&nbsp;3 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb954-f3.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Interphase extracts were treated with recombinant <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 and allowed to reach steady-state ('going up'). <b>b</b>, Alternatively, CSF extracts were treated with recombinant <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 and then with 1 mM calcium to trigger degradation of the endogenous cyclin. Extracts were then allowed to reach steady-state ('coming down'). <b>c</b>, Hysteresis in steady-state histone H1 kinase activity. Filled squares represent extracts going up from interphase to M phase; open squares represent extracts coming down from M phase to interphase. <b>d</b>&#150;<b>g</b>, Cdc25 hyperphosphorylation (<b>d</b>) Wee1 hyperphosphorylation (<b>e</b>), p42 MAPK phosphorylation (<b>f</b>) and nuclear morphology (<b>g</b>). The data in <b>d</b>&#150;<b>g</b> were derived from one experiment; the data in <b>c</b> are means <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. from three experiments. <b>h</b>, Calcium-triggered degradation of endogenous cyclins. The top panel shows an autoradiograph of p13 Suc1-precipitated <sup>35</sup>S-labelled endogenous cyclins in a CSF extract, a CSF extract treated with calcium, and a CSF extract treated with non-degradable <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 and then with calcium. The bottom panel shows the histone H1 kinase activities in the same samples.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F3.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F3.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F3.html">Full Figure and legend (98K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">At 45&#150;60 nM <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1, there seemed to be two distinct alternative steady states for the Cdc2 system, depending on whether it was going up from interphase or coming down from M phase (<a href="#f3">Fig. 3c</a>). Cyclin concentrations in this range were able to sustain the elevated Cdc2 activities of M-phase extracts for long periods of time, but were unable to significantly increase Cdc2 activities in interphase extracts (<a href="#f3">Fig. 3c</a>). Thus, activation of Cdc2 does exhibit hysteresis, supporting the hypothesis that the mitotic trigger is bistable.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Next we assessed whether the differences in Cdc2 activity present in the on state (<a href="#f3">Fig. 3c</a>, upper curve) versus the off state (<a href="#f3">Fig. 3c</a>, lower curve) had significant effects on the biochemistry and cell biology of the extracts. Therefore, we assessed the phosphorylation states of Cdc25 (<a href="#f3">Fig. 3d</a>), Wee1 (<a href="#f3">Fig. 3e</a>) and p42 mitogen-activated protein kinase (MAPK; <a href="#f3">Fig. 3f</a>) in the two types of extracts. In M-phase extracts and M-phase embryos, all three proteins are known to become hyperphosphorylated and shift to a higher apparent molecular mass on immunoblots. These shifts can therefore be used as biochemical markers of whether an extract is in an M-phase-like state. Concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 between 45 and 60 nM did not cause mitotic hyperphosphorylation of Cdc25, Wee1 or p42 MAPK when the extract was coming out of interphase (<a href="#f3">Fig. 3d&#150;f</a>, going up), but did sustain their mitotic hyperphosphorylation when the extract was coming out of M phase (<a href="#f3">Fig. 3d&#150;f</a>, coming down). Hysteresis can also be assessed morphologically using added sperm chromatin to determine whether an extract is in interphase (chromatin decondensed, nuclear envelope intact) or M phase (chromatin condensed, nuclear envelope dissolved). Addition of 45&#150;60 nM <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 did not induce chromatin condensation or nuclear envelope breakdown in interphase extracts, but did sustain chromatin condensation and nuclear envelope breakdown in M-phase extracts (<a href="#f3">Fig. 3g</a>). Thus, the quantitative differences in the Cdc2 activity responses of mitotic and interphase extracts are significant and result in qualitative differences in the cell cycle phase of the extract, as assessed by biochemical and morphological analysis.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">One trivial explanation for these findings could be that different levels of cyclin protein were present in the 'going up' and 'coming down' extracts, either because the endogenous cyclin was not completely degraded in the 'coming down' extracts, or because the <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 was unstable in the 'going up' extracts. To test this, we used <sup>35</sup>S-methionine to metabolically label cyclins in a CSF-arrested extract and then examined the disappearance of the <sup>35</sup>S-labelled cyclins as a function of time after calcium treatment. All of the detectable cyclin bands were rapidly degraded (<a href="#f3">Fig. 3h</a>), suggesting that cyclin destruction was complete and that undegraded endogenous cyclin did not account for the elevated Cdc2 activity detected in the 'coming down' extracts. To ensure that <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 was not unstable in the 'going up' extracts, we added trace amounts of <sup>35</sup>S-labelled <i>in-vitro</i>-translated <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 to interphase extracts treated with or without additional unlabelled <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 before examining its degradation. We found no measurable degradation of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 over a 90-min incubation in either type of extract (see <a href="/ncb/journal/v5/n4/suppinfo/ncb954_S1.html">Supplementary Information, Fig. S2</a>). Taken together, these experiments demonstrate that the observed hysteresis was not caused by problems with the degradation of endogenous cyclin B1 or the stability of exogenous <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Next, we asked whether hysteresis is a special property of the cell cycle stages examined in <a href="#f3">Fig. 3</a>, or is also present in later cell cycles. Thus, we prepared cycling egg extracts<sup><a href="#B26">26</a></sup> and verified morphologically that they underwent multiple rounds of mitosis (<a href="#f4">Fig. 4a</a>, top). We also verified that addition of cycloheximide at the time of the first mitotic M phase (50 min) resulted in arrest of the extract in interphase (<a href="#f4">Fig. 4a</a>, bottom). We then compared the amount of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 required to drive a <i>Xenopus</i> egg extract from this interphase into the second mitotic M phase (the 'going up' extracts in this case; <a href="#f4">Fig. 4b</a>) with the amount required to suppress exit from the first mitotic M phase (the 'coming down' extracts; <a href="#f4">Fig. 4c</a>). We verified that both types of extracts approached steady-state levels of Cdc2 activity within 60&#150;90 min of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 addition (data not shown). We then assessed Cdc2 activity (<a href="#f4">Fig. 4d</a>), Cdc25 hyperphosphorylation (<a href="#f4">Fig. 4e</a>), Wee1 hyperphosphorylation (<a href="#f4">Fig. 4f</a>), p42 MAPK phosphorylation (<a href="#f4">Fig. 4g</a>) and nuclear morphology (<a href="#f4">Fig. 4h</a>) at steady state in the two types of extracts. We found that as little as 45 nM cyclin was sufficient to maintain the extracts in an M-phase-like state indefinitely, with high Cdc2 activity, hyperphosphorylated Cdc25, Wee1 and p42 MAPK, and condensed chromatin (<a href="#f4">Fig. 4d&#150;h</a>, 'coming down'). In contrast, at least 60 nM cyclin was required to drive the interphase extracts into M phase (<a href="#f4">Fig. 4d&#150;h</a>, 'going up'). Control experiments with <sup>35</sup>S-methionine labelling and Suc1 precipitation established that the difference in thresholds could not be attributed to differences in the levels of endogenous cyclins (data not shown). Thus, these extracts exhibit hysteresis in their responses to <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 and hysteresis seems to be a general feature of Cdc2 activation and inactivation.</span><br xmlns=""><br xmlns=""><a xmlns="" name="f4"></a><table xmlns="" cellpadding="10" cellspacing="0" border="0" width="470"><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="430"><tr><td class="articletext" colspan="2"><b><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F4.html">Figure&nbsp;4.</a>&nbsp;Hysteresis in the response of Cdc2 to cyclin, part 2.</b></td></tr><tr><td height="15"><img alt="" height="1" width="160" src="/images/spacer.gif"></td><td height="15"><img alt="" height="1" width="270" src="/images/spacer.gif"></td></tr><tr><td width="160" valign="top"><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F4.html"><img border="0" alt="Figure&nbsp;4 thumbnail" src="/ncb/journal/v5/n4/thumbs/ncb954-f4.gif"></a></td><td class="blacksml" width="270" valign="top"><p class="blacksml"><b>a</b>, Nuclear morphology in cycling extracts (top) and in cycling extracts treated with cycloheximide at 50 min (bottom). <b>b</b>, Cycling <i>Xenopus</i> egg extracts were treated with cycloheximide at the time of the first mitotic M phase (50 min) and with recombinant <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 (30 min later). The extracts were then allowed to reach steady-state (going up). <b>c</b>, Alternatively, cycling were treated with recombinant <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 before the first mitotic M phase and were then treated with cycloheximide (at 50 min) to allow degradation of the endogenous cyclin and to ensure that cyclin was not resynthesized (coming down). <b>d</b>, Hysteresis in steady-state histone H1 kinase activity. Filled squares represent extracts going up from interphase to M phase; open squares represent extracts coming down from M phase to interphase. <b>e</b>&#150;<b>h</b>, Hysteresis in Cdc25 hyperphosphorylation (<b>e</b>), Wee1 hyperphosphorylation (<b>f</b>), p42 MAPK phosphorylation (<b>g</b>) and nuclear morphology (<b>h</b>). The data in <b>e</b>&#150;<b>h</b> were derived from one experiment; the data in <b>d</b> are means <img border=0 src="/__chars/plus/special/plusmn/black/med/base/glyph.gif" align="bottom"> s.e.m. from two experiments.</p><br><br><a onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F4.html"><img border="0" align="bottom" alt="Full Figure" height="11" width="17" src="/ncb/images/fullsize_icon.gif"></a><a class="sml" onclick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_F4.html','Figure_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=yes,width=617,top=20,left=20');return false;" href="/ncb/journal/v5/n4/fig_tab/ncb954_F4.html">Full Figure and legend (109K)</a></td></tr></table></td></tr><tr><td><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">In summary, the Cdc2 activation system in <i>Xenopus</i> egg extracts is bistable: Cdc2 exhibits responses that are temporally abrupt, highly switch-like in steady-state terms, and, most importantly, characterized by biochemical hysteresis. The bistability of the mitotic trigger may allow the negative feedback loop of Cdc2 and the APC to exhibit sustained oscillations and function as a relaxation oscillator. These findings illustrate how two biochemical circuit elements with distinctive properties &#151; a bistable positive feedback system (which alone behaves like a toggle switch) and a negative feedback loop (which alone behaves like an adaptational or homeostatic mechanism) &#151; can combine to yield a third, distinct type of behaviour: the self-sustaining, spike-like oscillations of a relaxation oscillator.</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Bistability is one mechanism to ensure that a biochemical oscillator produces sustained, rather than damped, oscillations. As mentioned above, a sufficiently long negative feedback loop may still be able to produce sustained oscillations in the absence of bistability<sup><a href="#B12">12, 
+</a></sup><sup><a href="#B25">25</a></sup>. However, it seems that the combination of bistability and negative feedback may be a recurring motif in naturally occurring biological oscillators. For example, the mechanism that underlies the autonomous oscillations of cardiac pacemaker cells is analogous to the Cdc2 oscillator: the positive feedback in the opening of sodium channels corresponds to bistable activation of Cdc2 and the auto-inactivation of the sodium channel corresponds to APC-mediated cyclin degradation. Intracellular calcium oscillations have also been proposed to arise from combinations of bistability and negative feedback<sup><a href="#B27">27</a></sup>. Several aspects of <i>Saccharomyces cerevisiae</i> cell cycle regulation seem to be driven by combinations of positive and negative feedback loops, and there appears to be hysteresis in accumulation of the B-type cyclin Clb2 in <i>S. cerevesiae</i><sup><a href="#B28">28</a></sup>, raising the possibility that the cell cycle includes multiple, inter-linked relaxation oscillators. A hysteresis-based oscillator may drive circadian rhythms<sup><a href="#B15">15</a></sup>, with the comparatively slow pace of this oscillator arising out of its reliance on transcriptional changes. The fact that nature has converged on the same basic systems-level logic to produce oscillatory circuits out of very different types of signalling proteins in very different biological contexts argues that the positive feedback/negative feedback relaxation oscillator may be a particularly evolvable, reliable, or otherwise advantageous way of building biological clocks.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Methods"></a><span xmlns="" class="heading3">Methods</span><br xmlns=""><a xmlns="" name="Recombinant |[Delta]|65-cyclin B1"></a><span xmlns="" class="articletext"><b>Recombinant <img border=0 src="/__chars/_delta/black/bold/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1</b></span><br xmlns=""><span xmlns="" class="articletext">The cDNA for an amino-terminal truncation of <i>Xenopus</i> cyclin B1 lacking the destruction box (<img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1) was subcloned into pRSET B (Invitrogen, Carlsbad, CA). <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 protein was expressed and purified essentially as described<sup><a href="#B29">29</a></sup>, except that inclusion bodies were resuspended in 6 M guanidine and the hexahistidine-tagged protein was enriched using a cobalt affinity resin (Clontech, Palo Alto, CA) and then eluted according to manufacturer's specifications. Selected fractions were pooled and dialysed<sup><a href="#B29">29</a></sup> and the final protein concentration was determined by electrophoresis, Coomassie staining, gel scanning, and linear regression analysis using bovine serum albumin as a standard.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Xenopus egg extracts"></a><span xmlns="" class="articletext"><b><i>Xenopus</i> egg extracts</b></span><br xmlns=""><span xmlns="" class="articletext">Interphase cytosol and demembranated sperm chromatin were prepared as described previously<sup><a href="#B30">30</a></sup>. Steady-state responses and time-course experiments were performed in triplicate using interphase extracts. Hysteresis experiments were performed in duplicate or triplicate in two types of extracts, CSF extracts and cycling extracts, prepared essentially as previously described<sup><a href="#B26">26</a></sup>. The CSF extracts were prepared from unactivated eggs in the presence of 100 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> cycloheximide and then treated in one of two ways. First, the extracts were incubated for 30 min at room temperature with 1 mM calcium chloride to initiate cyclin destruction and drive the extract into an interphase state. Various concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 were then added. Alternatively, various concentrations of <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 were incubated with the CSF extract for 30 min before addition of 1 mM calcium chloride to selectively degrade the endogenous cyclin. Cycling extracts were prepared from dejellied eggs treated with calcium ionophore A23187 (Sigma, St Louis, MO).</span><br xmlns=""><br xmlns=""><span xmlns="" class="articletext">Samples of egg extracts were removed at intervals up to 90 min and frozen on dry ice for subsequent histone H1 kinase assays<sup><a href="#B26">26</a></sup>. Histone H1 kinase assay samples were electrophoresed through 10% SDS&#150;polyacrylamide gels and blotted onto PVDF (Amersham Pharmacia Biotech, Piscataway, NJ). <sup>32</sup>P-labelled histone was detected by autoradiography (Biomax MR film; Kodak, Rochester, NY) and quantified by phosphorimaging. In some experiments, proteins were metabolically labelled <i>in extracto</i> with <sup>35</sup>S-methionine (0.9 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">Ci <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">l<sup>-1</sup>; Amersham Pharmacia Biotech) and labelled cyclin proteins were detected by p13 Suc1 precipitation and autoradiography. Nuclear envelope breakdown (NEBD) was assayed by including demembranated sperm chromatin in the extracts (1,000 sperm <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">l<sup>-1</sup>) and then staining the chromatin with DAPI and assessing morphology by fluorescence and phase microscopy.</span><br xmlns=""><br xmlns=""><a xmlns="" name="Immunoblots"></a><span xmlns="" class="articletext"><b>Immunoblots</b></span><br xmlns=""><span xmlns="" class="articletext">Samples of egg extract were separated through a 10% 100:1 acrylamide-bisacrylamide gel, blotted onto PVDF and probed with rabbit polyclonal antibodies to Cdc25C (Zymed, San Francisco, CA), Wee1 (Zymed) or p42 MAPK (antiserum DC3, raised in our laboratory). Antibody concentrations were 0.5 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> for Cdc25C, 1 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> for Wee1 and 20 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup> for p42 MAPK. The washed blot was then probed with donkey anti-rabbit horseradish peroxidase-conjugated secondary antibody (0.2 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup>; Amersham Pharmacia Biotech) and treated with ECL Plus chemiluminescent substrate (Amersham Pharmacia Biotech), or probed with goat anti-rabbit alkaline phosphatase-conjugated secondary antibody (0.2 <img border=0 src="/__chars/mu/black/med/base/glyph.gif" align="middle" alt="mu">g ml<sup>-1</sup>; Sigma) and treated with CDP-Star chemiluminescent substrate (Perkin-Elmer, Norwalk, CT). Biomax MR film was exposed to all blots and developed.</span><br xmlns=""><br xmlns=""><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><span xmlns="" class="articletext">Received 6 January 2003; </span><span xmlns="" class="articletext">Accepted 4 February 2003; </span><span xmlns="" class="articletext">Published online 10 March 2003.</span><br xmlns=""><br xmlns=""><a xmlns="" name="References"></a><span xmlns="" class="heading3">REFERENCES </span><ol xmlns="" class="articletext"><li><A name="B1"></a>
+Hara, K., Tydeman, P. &amp; Kirschner, M. A cytoplasmic clock with the same period as the division cycle in <i>Xenopus</i> eggs. <i>Proc. Natl Acad. Sci. USA</i> <b>77</b>, 462&#150;466 (1980).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6928638&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:Bi%2BC2crmsVA%3D&pissn=1465-7392&pyear=2003&md5=179b94fa00c222facc4beb9749957af7" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B2"></a>
+Evans, T., Rosenthal, E.T., Youngblom, J., Distel, D. &amp; Hunt, T. Cyclin: a protein specified by maternal mRNA in sea urchin eggs that is destroyed at each cleavage division. <i>Cell</i> <b>33</b>, 389&#150;396 (1983).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6134587&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1983QV90600015&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL3sXksFSlurs%3D&pissn=1465-7392&pyear=2003&md5=c56c62d808de383537f0b22447e81130" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B3"></a>
+Murray, A.W. &amp; Kirschner, M.W. Cyclin synthesis drives the early embryonic cell cycle. <i>Nature</i> <b>339</b>, 275&#150;280 (1989).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F339275a0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2566917&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1989U783200052&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL1MXktlGhsLc%3D&pissn=1465-7392&pyear=2003&md5=66f02af6c5aafb505c30e8e62949513d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B4"></a>
+Masui, Y. &amp; Markert, C.L. Cytoplasmic control of nuclear behaviour during meiotic maturation of frog oocytes. <i>J. Exp. Zool.</i> <b>177</b>, 129&#150;145 (1971).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=5106340&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1971J519000001&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:CS6B1M7ntFI%3D&pissn=1465-7392&pyear=2003&md5=ad0b8bd42607d799984eac3483dc48af" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B5"></a>
+Kumagai, A. &amp; Dunphy, W.G. Regulation of the Cdc25 protein during the cell cycle in <i>Xenopus</i> extracts. <i>Cell</i> <b>70</b>, 139&#150;151 (1992).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1623517&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1992JC95700015&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXkt1Cqt7s%3D&pissn=1465-7392&pyear=2003&md5=5c1a575e96236d5d689dbfeadad8cbb6" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B6"></a>
+Izumi, T., Walker, D.H. &amp; Maller, J.L. Periodic changes in phosphorylation of the <i>Xenopus</i> Cdc25 phosphatase regulate its activity. <i>Mol. Biol. Cell</i> <b>3</b>, 927&#150;939 (1992).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1392080&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1992JM38600008&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXkvFWksb8%3D&pissn=1465-7392&pyear=2003&md5=0be5de65cd4ba8001f85c626a88faceb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B7"></a>
+Hoffmann, I., Clarke, P.R., Marcote, M.J., Karsenti, E. &amp; Draetta, G. Phosphorylation and activation of human Cdc25-C by Cdc2&#150;cyclin B and its involvement in the self-amplification of MPF at mitosis. <i>EMBO J.</i> <b>12</b>, 53&#150;63 (1993).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8428594&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1993KG62100007&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXpvV2ntQ%3D%3D&pissn=1465-7392&pyear=2003&md5=49181924af1265dcb5bca0895257a855" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B8"></a>
+Tang, Z., Coleman, T.R. &amp; Dunphy, W.G. Two distinct mechanisms for negative regulation of the Wee1 protein kinase. <i>EMBO J.</i> <b>12</b>, 3427&#150;3436 (1993).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7504624&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1993LU51300010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3sXmt1Wgsbc%3D&pissn=1465-7392&pyear=2003&md5=75af65dd2d4140660370200123e9aaae" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B9"></a>
+Mueller, P.R., Coleman, T.R. &amp; Dunphy, W.G. Cell cycle regulation of a <i>Xenopus</i> Wee1-like kinase. <i>Mol. Biol. Cell</i> <b>6</b>, 119&#150;134 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7749193&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995QT65000010&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXksFCns7o%3D&pissn=1465-7392&pyear=2003&md5=934c5f8d50091cbae5e2b61981518979" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B10"></a>
+McGowan, C.H. &amp; Russell, P. Cell cycle regulation of human WEE1. <i>EMBO J.</i> <b>14</b>, 2166&#150;2175 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7774574&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995QZ86200004&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXlvFynsLs%3D&pissn=1465-7392&pyear=2003&md5=86293f429b37adb6095e3ad758135d73" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B11"></a>
+Mueller, P.R., Coleman, T.R., Kumagai, A. &amp; Dunphy, W.G. Myt1: a membrane-associated inhibitory kinase that phosphorylates Cdc2 on both threonine-14 and tyrosine-15. <i>Science</i> <b>270</b>, 86&#150;90 (1995).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=7569953&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1995RY30200038&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXosFOmsLk%3D&pissn=1465-7392&pyear=2003&md5=50530b7621fca9149e5ee0fa6b4e5888" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B12"></a>
+Novak, B. &amp; Tyson, J.J. Numerical analysis of a comprehensive model of M-phase control in <i>Xenopus</i> oocyte extracts and intact embryos. <i>J. Cell Sci.</i> <b>106</b>, 1153&#150;1168 (1993).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8126097&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1993MP52900014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2cXjtF2ksLg%3D&pissn=1465-7392&pyear=2003&md5=cea1882f4a8322d1910d61d046cf6d30" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B13"></a>
+Thron, C.D. A model for a bistable biochemical trigger of mitosis. <i>Biophys. Chem.</i> <b>57</b>, 239&#150;251 (1996).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2F0301-4622%2895%2900075-5" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8573678&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1996TJ90500011&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK2MXhtVSgsLzO&pissn=1465-7392&pyear=2003&md5=9bfa76fe82030696ae54f285cbe1ad3a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B14"></a>
+McMillen, D., Kopell, N., Hasty, J. &amp; Collins, J.J. Synchronizing genetic relaxation oscillators by intercell signaling. <i>Proc. Natl Acad. Sci. USA</i> <b>99</b>, 679&#150;684 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.022642299" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11805323&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38Xht1Wjurc%3D&pissn=1465-7392&pyear=2003&md5=c682c4d07b78a49580ef7507e24daebb" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B15"></a>
+Vilar, J., Kueh, H., Barkai, N. &amp; Leibler, S. Mechanisms of noise-resistance in genetic oscillators. <i>Proc. Natl Acad. Sci. USA</i> <b>99</b>, 5988&#150;5992 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073%2Fpnas.092133899" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11972055&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XjslWgurs%3D&pissn=1465-7392&pyear=2003&md5=6804e7469cde514c3fd3059d79a11bb6" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B16"></a>
+Goldbeter, A. Computational approaches to cellular rhythms. <i>Nature</i> <b>420</b>, 238&#150;245 (2002).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2Fnature01259" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12432409&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000179200900061&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38Xos1Gnsbc%3D&pissn=1465-7392&pyear=2003&md5=345afbeaa515ad877c4dfead88aaca41" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B17"></a>
+Tyson, J.J., Csikasz-Nagy, A. &amp; Novak, B. The dynamics of cell cycle regulation. <i>BioEssays</i> <b>24</b>, 1095&#150;1109 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002%2Fbies.10191" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=12447975&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000179517800003&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XpsleltLs%3D&pissn=1465-7392&pyear=2003&md5=7fcae6f0d68325ebc427d466d152171a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B18"></a>
+Reynhout, J.K. &amp; Smith, L.D. Studies on the appearance and nature of a maturation-inducing factor in the cytoplasm of amphibian oocytes exposed to progesterone. <i>Dev. Biol.</i> <b>38</b>, 394&#150;400 (1974).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=4545456&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1974T215700016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaE2cXksVOltL0%3D&pissn=1465-7392&pyear=2003&md5=497a24e02f19153fc3c68e546fc37fbf" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B19"></a>
+Schorderet-Slatkine, S. Action of progesterone and related steroids on oocyte maturation in <i>Xenopus laevis</i>. An <i>in vitro</i> study. <i>Cell Differ.</i> <b>1</b>, 179&#150;189 (1972).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2F0045-6039%2872%2990027-9" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=4670882&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaE3sXisVehtQ%3D%3D&pissn=1465-7392&pyear=2003&md5=fd6c4e2fb73dd9f6868c8a8e79eda76c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B20"></a>
+Solomon, M.J., Glotzer, M., Lee, T.H., Philippe, M. &amp; Kirschner, M.W. Cyclin activation of p34<sup><i>cdc2</i></sup>. <i>Cell</i> <b>63</b>, 1013&#150;1024 (1990).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2147872&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1990EL75900016&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXktVSntg%3D%3D&pissn=1465-7392&pyear=2003&md5=9a5f09594655d72b99917722d2b9874a" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B21"></a>
+Abrieu, A. <i>et al</i>. The Polo-like kinase Plx1 is a component of the MPF amplification loop at the G2/M-phase transition of the cell cycle in <i>Xenopus</i> eggs. <i>J. Cell Sci.</i> <b>111</b>, 1751&#150;1757 (1998).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=9601104&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000074602000014&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK1cXksFantL8%3D&pissn=1465-7392&pyear=2003&md5=f458b09caac390947a582e578aac30ea" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B22"></a>
+Qian, Y.W., Erikson, E., Taieb, F.E. &amp; Maller, J.L. The polo-like kinase Plx1 is required for activation of the phosphatase Cdc25C and cyclin B&#150;Cdc2 in <i>Xenopus</i> oocytes. <i>Mol. Biol. Cell</i> <b>12</b>, 1791&#150;1799 (2001).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11408585&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000170350200019&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD3MXotVSjtr4%3D&pissn=1465-7392&pyear=2003&md5=2a3eec48d0cc11a682893cc5d5c2ca2c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B23"></a>
+Ferrell, J.E. Self-perpetuating states in signal transduction: positive feedback, double-negative feedback and bistability. <i>Curr. Opin. Cell Biol.</i> <b>14</b>, 140&#150;148 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016%2FS0955-0674%2802%2900314-9" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11891111&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000174193300002&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XhvVCntrk%3D&pissn=1465-7392&pyear=2003&md5=b17512ad47707cb87b3258ee42987905" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B24"></a>
+Goldbeter, A. &amp; Koshland, D.E.Jr An amplified sensitivity arising from covalent modification in biological systems. <i>Proc. Natl. Acad. Sci. USA</i> <b>78</b>, 6840&#150;6844 (1981).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=6947258&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL38XivVOi&pissn=1465-7392&pyear=2003&md5=243617b33dd6145a1383ee152b581111" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B25"></a>
+Goldbeter, A. A minimal cascade model for the mitotic oscillator involving cyclin and Cdc2 kinase. <i>Proc. Natl Acad. Sci. USA</i> <b>88</b>, 9107&#150;9111 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1833774&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXmslelsLg%3D&pissn=1465-7392&pyear=2003&md5=dcd34d740c07fda34acef47a66332ce3" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B26"></a>
+Murray, A.W. Cell cycle extracts. <i>Methods Cell Biol.</i> <b>36</b>, 581&#150;605 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1839804&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:STN:280:By2B2cvgvFY%3D&pissn=1465-7392&pyear=2003&md5=9323b97e75b7bcad4fa303fc69fa93ba" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B27"></a>
+Meyer, T. &amp; Stryer, L. Molecular model for receptor-stimulated calcium spiking. <i>Proc. Natl Acad. Sci. USA</i> <b>85</b>, 5051&#150;5055 (1988).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=2455890&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaL1cXlsVCksL8%3D&pissn=1465-7392&pyear=2003&md5=9cc11a536d7d40c7493de159f6f19293" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B28"></a>
+Cross, F.R., Archambault, V., Miller, M. &amp; Klovstad, M. Testing a mathematical model of the yeast cell cycle. <i>Mol. Biol. Cell</i> <b>13</b>, 52&#150;70 (2002).&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1091%2Fmbc.01-05-0265" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=11809822&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=000173402000005&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DC%2BD38XnvFCjsA%3D%3D&pissn=1465-7392&pyear=2003&md5=f434faa63a2df5a695999943ec1ded93" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B29"></a>
+Glotzer, M., Murray, A.W. &amp; Kirschner, M.W. Cyclin is degraded by the ubiquitin pathway. <i>Nature</i> <b>349</b>, 132&#150;138 (1991).&nbsp;|&nbsp;<a href="/doifinder/10.1038%2F349132a0" target="external">Article</a>&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1846030&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&GWVersion=2&SrcAuth=Nature&SrcApp=Nature&DestLinkType=FullRecord&KeyUT=A1991ER41800049&DestApp=WOS_CPL" target="external">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK3MXps12jtA%3D%3D&pissn=1465-7392&pyear=2003&md5=e8f969202dc969ca1d7cc9bbf389e89d" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li>
+<li><A name="B30"></a>
+Smythe, C. &amp; Newport, J.W. Systems for the study of nuclear assembly, DNA replication, and nuclear breakdown in <i>Xenopus laevis</i> egg extracts. <i>Methods Cell Biol.</i> <b>35</b>, 449&#150;468 (1991).&nbsp;|&nbsp;<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=1664032&dopt=Abstract" target="external"><span 
+class="intlink">PubMed</span></a> &nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=npg&version=1.0&coi=1:CAS:528:DyaK38Xks1eqsrg%3D&pissn=1465-7392&pyear=2003&md5=c7fa996bd3cad20093842d355f3d9e5c" target="external" alt="Chemical 
+Abstracts Service">ChemPort</a>&nbsp;|</li></ol><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="470"><tr><td rowspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td><td align="right"><img alt="" height="3" width="5" src="/ncb/images/arrow_black_up.gif">&nbsp;<a class="top" href="#top">Top</a></td></tr><tr><td height="7" align="right"><img alt="" height="7" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="1"><img alt="" height="1" width="470" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td colspan="2" height="20"><img alt="" height="20" width="1" src="/images/spacer.gif"></td></tr></table><a xmlns="" name="Acknowledgments"></a><span xmlns="" class="heading3">Acknowledgments</span><br xmlns=""><span xmlns="" class="articletext">We thank H. Hochegger and T. Hunt for generously providing cyclin B1 antibodies, B. Dunphy for providing a cyclin B1 clone, S. Walter for constructing the <img border=0 src="/__chars/_delta/black/med/base/glyph.gif" align="bottom" alt="Delta">65-cyclin B1 clone, T. Guadagno and S. Guadagno for producing and providing the Cdc25 and Wee1 antibodies, M. Hekmat-Nejad for advice on extract preparation, D. Gong for help with experiments, O. Brandmann, B. Novak, W. Sha, J. Sible and J. Tyson for helpful discussions, and K. Cimprich and members of the Ferrell laboratory for comments on the manuscript. This work was supported by the National Institutes of Health (grants GM61276 and GM46383).</span><br xmlns=""><br xmlns=""><p xmlns="" class="articletext"><b>Competing interests statement:</b>&nbsp;
+The authors declare that they have no competing financial interests.</p></td></tr></table></td><td width="15"><img alt="" height="1" width="15" src="/images/spacer.gif"/></td><td valign="top" width="130"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="130"><tr><td><img alt="" height="34" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" height="22"><img alt="" height="22" width="1" src="/images/spacer.gif"></td></tr><tr><td colspan="2" class="whitesml" height="20" bgcolor="#546D9F" align="center"><b>FULL  TEXT</b></td></tr><tr><td valign="middle" colspan="2" bgcolor="#DFE9FD" height="17" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="106"><tr><td width="3"><img border="0" alt="" height="5" width="3" src="/ncb/images/arrow_black_prev.gif"></td><td width="100" align="center"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb953.html">Previous</a><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb955.html"> | Next</a></td><td height="10" width="3"><img alt="" height="5" width="3" src="/ncb/images/arrow_black.gif"></td></tr></table></td></tr><tr><td colspan="2"><img alt="" height="1" width="130" src="/ni/images/spacer.gif"></td></tr><tr><td width="15" bgcolor="#DFE9FD" height="15" align="center" class="blacksml2"><img alt="" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td width="115" bgcolor="#DFE9FD" height="17" class="blacksml2"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/index.html">Table of contents</a></td></tr><tr><td colspan="2" height="15" align="center" class="blacksml2"><table cellpadding="1" cellspacing="0" border="0" width="130"><tr><td bgcolor="#DFE9FD"><table cellpadding="0" cellspacing="0" border="0" width="128"><tr><td colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td width="23" align="center" bgcolor="#FFFFFF"><img alt="Download PDF" height="14" width="14" src="/ncb/images/icon_pdf.gif"></td><td height="14" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v5/n4/full/ncb954.html&filetype=pdf">Download PDF</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="6" width="1" src="/images/spacer.gif"></td></tr><tr><td valign="middle" width="23" align="center" bgcolor="#FFFFFF"><img alt="Send to a friend" height="10" width="13" src="/ncb/images/icon_email.gif"></td><td valign="middle" height="12" width="105" bgcolor="#FFFFFF"><a class="breadcrumblink" onclick="mailafriend('0','/ncb/sendfriend/sendfriend_form.html','600','600')" href="javascript:void(0)">Send 
+to a friend</a></td></tr><tr><td valign="middle" colspan="2" align="center" bgcolor="#FFFFFF"><img alt="" height="5" width="1" src="/ni/images/spacer.gif"></td></tr></table></td></tr></table></td></tr><table cellpadding="0" cellspacing="0" border="0" width="130"><tr><td height="10"><img alt="" height="1" width="15" src="/ni/images/spacer.gif"></td><td height="10"><img alt="" height="1" width="115" src="/ni/images/spacer.gif"></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Methods">Methods</a></td></tr><tr><td align="center" width="15" class="blacksml2" valign="top"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="javascript:void(0)" onClick="window.open('/ncb/journal/v5/n4/fig_tab/ncb954_ft.html','fig_tab','width=600,height=400,scrollbars=yes')">Figures &amp; Tables</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#Acknowledgments">Acknowledgments</a></td></tr><tr><td align="center" width="15" class="blacksml2"><img alt="" border="0" height="3" width="5" src="/ncb/images/arrow_black_dwn.gif"></td><td height="15" width="115" class="blacksml2"><a class="breadcrumblink" href="#References">References</a></td></tr><tr><td valign="top" align="center" width="15" class="blacksml2"><img alt="" vspace="4" border="0" height="5" width="3" src="/ncb/images/arrow_black.gif"></td><td height="15" width="115" class="blacksml2"><a href="/ncb/journal/v5/n4/suppinfo/ncb954_S1.html" target="_blank" class="breadcrumblink">Supplementary info</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb954.ris" target="_blank" class="breadcrumblink">Export citation</a></td></tr><tr><td class="blacksml2" width="15" align="center"><img src="/images/arrow_black.gif" width="3" height="5" border="0" alt=""></td><td class="blacksml2" width="115" height="15"><a href="/ncb/journal/v5/n4/ris/ncb954refs.ris" target="_blank" class="breadcrumblink">Export references</a></td></tr><tr><td align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/images/spacer.gif"></td></tr>
+ <SCRIPT>
+ var show = '543';
+ if(show > 0)
+ {
+ document.write('<tr>');
+ document.write('<td class="blacksml2" width="15" align="center">');
+ document.write('<img src="/ncb/images/arrow_black.gif" width="3" height="5" border="0" alt="">');
+ document.write('</td>');
+ document.write('<td class="blacksml2" width="115" height="15">');
+ }
+ </SCRIPT>
+       <A class="breadcrumblink" HREF="javascript:void(0)" onclick="window.open('http://sherman.nature.com/arls/Query?prod=NCB&query=http%3A//www.nature.com/doifinder/10.1038/ncb954&type=LE&src_title=Building%20a%20cell%20cycle%20oscillator%3A%20hysteresis%20and%20bistability%20in%20the%20activation%20of%20Cdc2&src_jrnl=Nature%20Cell%20Biology&src_vol=5&src_pp=346-351&src_date=2003&target=popup', 'autonomypopup', 'resizeable=yes,scrollbars=yes,scrolling=yes,statusbar=no,navbar=no,width=550,height=550');return false;">More articles like this</A>
+   <SCRIPT>
+	if(show > 0){
+	   document.write('</td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td height="5" align="center" colspan="2" class="blacksml2"><img alt="" height="5" width="1" src="/nsmb/images/spacer.gif"></td>');
+	   document.write('</tr>');
+	   document.write('<tr>');
+	   document.write('<td align="center" colspan="2" class="blacksml2"><img alt="" height="1" width="130" src="/ncb/images/spacer_grey.gif"></td>');
+	   document.write('</tr>');
+
+	}
+   </SCRIPT><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td height="30" align="center">&nbsp;</td></tr><tr><td align="center"><span class="greysml">ADVERTISEMENT</span></td></tr><tr><td><img alt="" height="3" width="1" src="/ni/images/spacer.gif"></td></tr><tr><td align="center"><script type="text/javascript" language="javascript">
+<!--
+document.write ('<ILAYER HEIGHT="600" WIDTH="120" VISIBILITY="hidden" ID="layer2"></ILAYER>');
+document.write ('<NOLAYER>');
+document.write ('<IFRAME scrolling="no" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" height="600" width="120" SRC="http://ad.doubleclick.net/adi/cellbio.nature.com/curr_back;pos=right;' + adinf + ';sz=120x600;ord=' + ordval + '?">');
+document.write ('<A HREF="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></A>');
+document.write ('<IMG alt="advertisement" align="center" HSPACE="0" HEIGHT="600" WIDTH="120" BORDER="0" SRC="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!ie4;abr=!ie5;' + adinf + 'sz=120x600;ord=' + ordval + '?"></IFRAME>');
+document.write ('</NOLAYER>');
+// --></script><noscript><a href="http://ad.doubleclick.net/jump/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"><img alt="advertisement" height="600" width="120" border="0" src="http://ad.doubleclick.net/ad/cellbio.nature.com/curr_back;pos=right;abr=!NN2;sz=120x600;ord=07893195?"></a></noscript></td></tr></table></table></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">&nbsp;</td></tr><tr><td height="4" align="center" bgcolor="#546D9F"><img alt="" height="4" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr><tr><td width="145" valign="top"><a href="/ncb/"><img height="41" width="128" border="0" alt="Nature Cell Biology" src="/includes/rj_globnavimages/ncb_footer_logo.gif"></a><br><span class="blacksmltext">
+ISSN:&nbsp;1465-7392<br>
+EISSN:&nbsp;1476-4679</span></td><td class="blacknorm" width="615" valign="top"><a class="footer" href="/ncb/index.html">Journal home</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/vaop/ncurrent/index.html">Advance online publication</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n3/index.html">
+Current issue
+</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/archive/index.html">Archive</a> | <a class="footer" href="/ncb/press_release/index.html">Press releases</a> | 
+<a class="footer" href="/ncb/supplements/index.html">Supplements</a> | <a class="footer" href="/ncb/webfocus/index.html">Focuses</a> | <a class="footer" href="/ncb/image/index.html">Cell of the month</a> | 
+<a class="footer" href="/ncb/authors/index.html">For authors</a> | <a class="footer" href="http://mts-ncb.nature.com" target="_blank">Online submission</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/01_reprints.xml&amp;style=xml/01_reprints.xsl" target="_blank">Permissions</a> | <a class="footer" href="/ncb/referees/index.html">For referees</a> | <a class="footer" href="/cgi-taf/DynaPage.taf?file=/ncb/journal/v6/n1/index.html">Free online issue</a> | <a class="footer" href="/ncb/about/index.html">About the journal</a> | <a class="footer" href="/ncb/contact/index.html">Contact the journal</a> | <a class="footer" href="/registration/index.taf?site_source=ncb" target="_blank">Subscribe</a> | <a class="footer" href="http://advertising.nature.com" target="_blank">Advertising</a> | <a class="footer" href="http://npg.nature.com/npg/forms/03_current.jsp">work@npg</a> | <a class="footer" href="http://www.naturereprints.com" target="_blank">naturereprints</a> | <a class="footer" href="/ncb/site/index.html">About this site</a> | <a class="footer" href="http://npg.nature.com/npg/servlet/Content?data=xml/07_home.xml&amp;style=xml/07_home.xsl" target="_blank">For librarians</a>
+</td></tr><tr><td colspan="2" valign="top"><img alt="" height="10" width="1" src="/images/spacer.gif"></td></tr></table></td></tr><tr><td height="2" align="center" bgcolor="#546D9F"><img alt="" height="2" width="1" src="/images/spacer.gif"></td></tr><tr><td align="center"><table xmlns="" cellpadding="0" cellspacing="0" border="0" width="760"><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr><tr><td align="right" width="130" valign="top"><a href="http://npg.nature.com/npg/servlet/Content?data=xml/02_welcome.xml&style=xml/02_welcome.xsl"><img border="0" alt="Nature Publishing Group, publisher of Nature, and other science journals and reference works" height="26" width="26" src="/includes/rj_globnavimages/npg_footer_logo.gif"></a></td><td align="right" width="15" valign="top"><img alt="" height="1" width="15" src="/includes/rj_globnavimages/spacer.gif"></td><td class="blacksmltext" width="615" valign="middle"><a href="/copyright/copyright_ncb.html" onClick="window.open('/copyright/copyright_ncb.html','copyright_window','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=450,height=280,top=380,left=20');return false;" class="copyright">&copy;2003&nbsp;Nature Publishing Group</a> | <a target="_blank" class="privacy" href="http://npg.nature.com/npg/servlet/Content?data=xml/08_privacy.xml&style=xml/08_privacy.xsl">Privacy policy</a></td></tr><tr><td colspan="3" valign="top"><img alt="" height="10" width="1" src="/includes/rj_globnavimages/spacer.gif"></td></tr></table></td></tr></table><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer src="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=top;dcopt=ist;' + adinf + 'sz=468x60;ord=' + ordval + '?" visibility="hidden" width="468" height="60" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></layer>');
+// -->
+</script><script type="text/javascript" language="javascript">
+<!--
+document.writeln ('<layer SRC="http://ad.doubleclick.net/adl/cellbio.nature.com/curr_back;pos=right;' + adinf + 'sz=120x600;ord=' + ordval + '?" visibility="hidden"  width="120" height="600" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=120;visibility=\'show\';"></layer>');
+// -->
+</script></body></html>

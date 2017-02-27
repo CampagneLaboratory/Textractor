@@ -1,0 +1,1511 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>hERG potassium channels and cardiac arrhythmia</title>
+      <id>info:doi/10.1038/nature04710</id>
+      <link href='http://dx.doi.org/10.1038/nature04710' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Michael C. Sanguinetti</name>
+      </author>
+      <author>
+        <name>Martin Tristani-Firouzi</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>463</prism:startingPage>
+      <prism:endingPage>469</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>hERG potassium channels are essential for normal electrical activity in the heart. Inherited mutations in the HERG gene cause long QT syndrome, a disorder that predisposes individuals to life-threatening arrhythmias. Arrhythmia can also be induced by a blockage of hERG channels by a surprisingly diverse group of drugs. This side effect is a common reason for drug failure in preclinical safety trials. Insights gained from the crystal structures of other potassium channels have helped our understanding of the block of hERG channels and the mechanisms of gating.</otmi:rawtext>
+          <otmi:reducedtext>hERG potassium channels essential normal electrical activity heart. Inherited mutations HERG gene cause long QT syndrome, disorder predisposes individuals life-threatening arrhythmias. Arrhythmia can also induced blockage hERG channels surprisingly diverse group drugs. side effect common reason drug failure preclinical safety trials. Insights gained crystal structures other potassium channels have helped our understanding block hERG channels mechanisms gating.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='4'>channels</otmi:vector>
+            <otmi:vector count='3'>hERG</otmi:vector>
+            <otmi:vector count='2'>potassium</otmi:vector>
+            <otmi:vector count='1'>predisposes</otmi:vector>
+            <otmi:vector count='1'>also</otmi:vector>
+            <otmi:vector count='1'>normal</otmi:vector>
+            <otmi:vector count='1'>our</otmi:vector>
+            <otmi:vector count='1'>gained</otmi:vector>
+            <otmi:vector count='1'>side</otmi:vector>
+            <otmi:vector count='1'>surprisingly</otmi:vector>
+            <otmi:vector count='1'>induced</otmi:vector>
+            <otmi:vector count='1'>electrical</otmi:vector>
+            <otmi:vector count='1'>arrhythmias</otmi:vector>
+            <otmi:vector count='1'>QT</otmi:vector>
+            <otmi:vector count='1'>gene</otmi:vector>
+            <otmi:vector count='1'>mutations</otmi:vector>
+            <otmi:vector count='1'>understanding</otmi:vector>
+            <otmi:vector count='1'>helped</otmi:vector>
+            <otmi:vector count='1'>structures</otmi:vector>
+            <otmi:vector count='1'>crystal</otmi:vector>
+            <otmi:vector count='1'>individuals</otmi:vector>
+            <otmi:vector count='1'>disorder</otmi:vector>
+            <otmi:vector count='1'>activity</otmi:vector>
+            <otmi:vector count='1'>Insights</otmi:vector>
+            <otmi:vector count='1'>can</otmi:vector>
+            <otmi:vector count='1'>common</otmi:vector>
+            <otmi:vector count='1'>block</otmi:vector>
+            <otmi:vector count='1'>syndrome</otmi:vector>
+            <otmi:vector count='1'>heart</otmi:vector>
+            <otmi:vector count='1'>safety</otmi:vector>
+            <otmi:vector count='1'>blockage</otmi:vector>
+            <otmi:vector count='1'>life-threatening</otmi:vector>
+            <otmi:vector count='1'>HERG</otmi:vector>
+            <otmi:vector count='1'>essential</otmi:vector>
+            <otmi:vector count='1'>drug</otmi:vector>
+            <otmi:vector count='1'>mechanisms</otmi:vector>
+            <otmi:vector count='1'>have</otmi:vector>
+            <otmi:vector count='1'>reason</otmi:vector>
+            <otmi:vector count='1'>drugs</otmi:vector>
+            <otmi:vector count='1'>Inherited</otmi:vector>
+            <otmi:vector count='1'>other</otmi:vector>
+            <otmi:vector count='1'>group</otmi:vector>
+            <otmi:vector count='1'>diverse</otmi:vector>
+            <otmi:vector count='1'>Arrhythmia</otmi:vector>
+            <otmi:vector count='1'>cause</otmi:vector>
+            <otmi:vector count='1'>preclinical</otmi:vector>
+            <otmi:vector count='1'>gating.</otmi:vector>
+            <otmi:vector count='1'>failure</otmi:vector>
+            <otmi:vector count='1'>effect</otmi:vector>
+            <otmi:vector count='1'>long</otmi:vector>
+            <otmi:vector count='1'>trials</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>Arrhythmia can also be induced by a blockage of hERG channels by a surprisingly diverse group of drugs</otmi:snippet>
+            <otmi:snippet>Inherited mutations in the HERG gene cause long QT syndrome, a disorder that predisposes individuals to life-threatening arrhythmias</otmi:snippet>
+            <otmi:snippet>Insights gained from the crystal structures of other potassium channels have helped our understanding of the block of hERG channels and the mechanisms of gating.</otmi:snippet>
+            <otmi:snippet>This side effect is a common reason for drug failure in preclinical safety trials</otmi:snippet>
+            <otmi:snippet>hERG potassium channels are essential for normal electrical activity in the heart</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='68'>hERG</otmi:vector>
+              <otmi:vector count='55'>channels</otmi:vector>
+              <otmi:vector count='39'>channel</otmi:vector>
+              <otmi:vector count='21'>K</otmi:vector>
+              <otmi:vector count='19'>can</otmi:vector>
+              <otmi:vector count='17'>residues</otmi:vector>
+              <otmi:vector count='17'>mutations</otmi:vector>
+              <otmi:vector count='16'>domain</otmi:vector>
+              <otmi:vector count='16'>gating</otmi:vector>
+              <otmi:vector count='15'>Kv</otmi:vector>
+              <otmi:vector count='15'>arrhythmia</otmi:vector>
+              <otmi:vector count='14'>drugs</otmi:vector>
+              <otmi:vector count='14'>cardiac</otmi:vector>
+              <otmi:vector count='14'>inactivation</otmi:vector>
+              <otmi:vector count='14'>repolarization</otmi:vector>
+              <otmi:vector count='13'>LQTS</otmi:vector>
+              <otmi:vector count='13'>S4</otmi:vector>
+              <otmi:vector count='12'>subunits</otmi:vector>
+              <otmi:vector count='12'>Shaker</otmi:vector>
+              <otmi:vector count='12'>pore</otmi:vector>
+              <otmi:vector count='12'>membrane</otmi:vector>
+              <otmi:vector count='12'>Fig</otmi:vector>
+              <otmi:vector count='12'>has</otmi:vector>
+              <otmi:vector count='12'>have</otmi:vector>
+              <otmi:vector count='11'>ventricular</otmi:vector>
+              <otmi:vector count='11'>potential</otmi:vector>
+              <otmi:vector count='11'>two</otmi:vector>
+              <otmi:vector count='11'>cause</otmi:vector>
+              <otmi:vector count='11'>TdP</otmi:vector>
+              <otmi:vector count='11'>S6</otmi:vector>
+              <otmi:vector count='11'>current</otmi:vector>
+              <otmi:vector count='10'>other</otmi:vector>
+              <otmi:vector count='10'>hERG-channel</otmi:vector>
+              <otmi:vector count='9'>most</otmi:vector>
+              <otmi:vector count='9'>but</otmi:vector>
+              <otmi:vector count='9'>activation</otmi:vector>
+              <otmi:vector count='9'>However</otmi:vector>
+              <otmi:vector count='9'>QT</otmi:vector>
+              <otmi:vector count='9'>phase</otmi:vector>
+              <otmi:vector count='9'>not</otmi:vector>
+              <otmi:vector count='9'>potentials</otmi:vector>
+              <otmi:vector count='8'>into</otmi:vector>
+              <otmi:vector count='8'>cell</otmi:vector>
+              <otmi:vector count='8'>closed</otmi:vector>
+              <otmi:vector count='8'>example</otmi:vector>
+              <otmi:vector count='8'>action</otmi:vector>
+              <otmi:vector count='8'>biophysical</otmi:vector>
+              <otmi:vector count='8'>its</otmi:vector>
+              <otmi:vector count='8'>subunit</otmi:vector>
+              <otmi:vector count='8'>basis</otmi:vector>
+              <otmi:vector count='8'>more</otmi:vector>
+              <otmi:vector count='8'>drug</otmi:vector>
+              <otmi:vector count='8'>structure</otmi:vector>
+              <otmi:vector count='8'>these</otmi:vector>
+              <otmi:vector count='8'>helix</otmi:vector>
+              <otmi:vector count='7'>several</otmi:vector>
+              <otmi:vector count='7'>blockage</otmi:vector>
+              <otmi:vector count='7'>structures</otmi:vector>
+              <otmi:vector count='7'>1</otmi:vector>
+              <otmi:vector count='7'>studies</otmi:vector>
+              <otmi:vector count='7'>than</otmi:vector>
+              <otmi:vector count='7'>much</otmi:vector>
+              <otmi:vector count='7'>form</otmi:vector>
+              <otmi:vector count='7'>only</otmi:vector>
+              <otmi:vector count='7'>linker</otmi:vector>
+              <otmi:vector count='7'>all</otmi:vector>
+              <otmi:vector count='6'>2</otmi:vector>
+              <otmi:vector count='6'>I</otmi:vector>
+              <otmi:vector count='6'>rapid</otmi:vector>
+              <otmi:vector count='6'>called</otmi:vector>
+              <otmi:vector count='6'>single</otmi:vector>
+              <otmi:vector count='6'>important</otmi:vector>
+              <otmi:vector count='6'>between</otmi:vector>
+              <otmi:vector count='6'>electrical</otmi:vector>
+              <otmi:vector count='6'>functions</otmi:vector>
+              <otmi:vector count='6'>expressed</otmi:vector>
+              <otmi:vector count='6'>structural</otmi:vector>
+              <otmi:vector count='6'>heart</otmi:vector>
+              <otmi:vector count='6'>at</otmi:vector>
+              <otmi:vector count='6'>residue</otmi:vector>
+              <otmi:vector count='6'>Mutations</otmi:vector>
+              <otmi:vector count='6'>crystal</otmi:vector>
+              <otmi:vector count='6'>gene</otmi:vector>
+              <otmi:vector count='6'>S4–S5</otmi:vector>
+              <otmi:vector count='6'>state</otmi:vector>
+              <otmi:vector count='6'>risk</otmi:vector>
+              <otmi:vector count='6'>binding</otmi:vector>
+              <otmi:vector count='6'>expression</otmi:vector>
+              <otmi:vector count='6'>activity</otmi:vector>
+              <otmi:vector count='6'>interval</otmi:vector>
+              <otmi:vector count='5'>charged</otmi:vector>
+              <otmi:vector count='5'>identified</otmi:vector>
+              <otmi:vector count='5'>located</otmi:vector>
+              <otmi:vector count='5'>transmembrane</otmi:vector>
+              <otmi:vector count='5'>function</otmi:vector>
+              <otmi:vector count='5'>filter</otmi:vector>
+              <otmi:vector count='5'>syndrome</otmi:vector>
+              <otmi:vector count='5'>gate</otmi:vector>
+              <otmi:vector count='5'>their</otmi:vector>
+              <otmi:vector count='5'>ions</otmi:vector>
+              <otmi:vector count='5'>voltage</otmi:vector>
+              <otmi:vector count='5'>selectivity</otmi:vector>
+              <otmi:vector count='5'>because</otmi:vector>
+              <otmi:vector count='5'>open</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='5'>same</otmi:vector>
+              <otmi:vector count='5'>normal</otmi:vector>
+              <otmi:vector count='5'>similar</otmi:vector>
+              <otmi:vector count='5'>caused</otmi:vector>
+              <otmi:vector count='5'>C-type</otmi:vector>
+              <otmi:vector count='5'>outward</otmi:vector>
+              <otmi:vector count='5'>hinge</otmi:vector>
+              <otmi:vector count='5'>mechanism</otmi:vector>
+              <otmi:vector count='5'>drug-induced</otmi:vector>
+              <otmi:vector count='5'>KvAP</otmi:vector>
+              <otmi:vector count='5'>also</otmi:vector>
+              <otmi:vector count='5'>inherited</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='5'>movement</otmi:vector>
+              <otmi:vector count='5'>during</otmi:vector>
+              <otmi:vector count='5'>when</otmi:vector>
+              <otmi:vector count='5'>conserved</otmi:vector>
+              <otmi:vector count='4'>chemical</otmi:vector>
+              <otmi:vector count='4'>lethal</otmi:vector>
+              <otmi:vector count='4'>HERG</otmi:vector>
+              <otmi:vector count='4'>very</otmi:vector>
+              <otmi:vector count='4'>KCNQ1</otmi:vector>
+              <otmi:vector count='4'>trafficking</otmi:vector>
+              <otmi:vector count='4'>Kv1.2</otmi:vector>
+              <otmi:vector count='4'>whether</otmi:vector>
+              <otmi:vector count='4'>rare</otmi:vector>
+              <otmi:vector count='4'>interaction</otmi:vector>
+              <otmi:vector count='4'>Gly</otmi:vector>
+              <otmi:vector count='4'>associated</otmi:vector>
+              <otmi:vector count='4'>four</otmi:vector>
+              <otmi:vector count='4'>blockers</otmi:vector>
+              <otmi:vector count='4'>opening</otmi:vector>
+              <otmi:vector count='4'>role</otmi:vector>
+              <otmi:vector count='4'>highly</otmi:vector>
+              <otmi:vector count='4'>MiRP1</otmi:vector>
+              <otmi:vector count='4'>muscle</otmi:vector>
+              <otmi:vector count='4'>Arg</otmi:vector>
+              <otmi:vector count='4'>KcsA</otmi:vector>
+              <otmi:vector count='4'>against</otmi:vector>
+              <otmi:vector count='4'>surface</otmi:vector>
+              <otmi:vector count='4'>central</otmi:vector>
+              <otmi:vector count='4'>multiple</otmi:vector>
+              <otmi:vector count='4'>Although</otmi:vector>
+              <otmi:vector count='4'>side</otmi:vector>
+              <otmi:vector count='4'>Thr</otmi:vector>
+              <otmi:vector count='4'>positive</otmi:vector>
+              <otmi:vector count='4'>moves</otmi:vector>
+              <otmi:vector count='4'>cells</otmi:vector>
+              <otmi:vector count='4'>coupling</otmi:vector>
+              <otmi:vector count='4'>terfenadine</otmi:vector>
+              <otmi:vector count='4'>properties</otmi:vector>
+              <otmi:vector count='4'>system</otmi:vector>
+              <otmi:vector count='4'>changes</otmi:vector>
+              <otmi:vector count='4'>rate</otmi:vector>
+              <otmi:vector count='4'>including</otmi:vector>
+              <otmi:vector count='4'>slow</otmi:vector>
+              <otmi:vector count='4'>proposed</otmi:vector>
+              <otmi:vector count='4'>Tyr</otmi:vector>
+              <otmi:vector count='4'>may</otmi:vector>
+              <otmi:vector count='4'>helices</otmi:vector>
+              <otmi:vector count='4'>site</otmi:vector>
+              <otmi:vector count='4'>652</otmi:vector>
+              <otmi:vector count='4'>cisapride</otmi:vector>
+              <otmi:vector count='4'>antiarrhythmic</otmi:vector>
+              <otmi:vector count='4'>one</otmi:vector>
+              <otmi:vector count='3'>interactions</otmi:vector>
+              <otmi:vector count='3'>human</otmi:vector>
+              <otmi:vector count='3'>mechanisms</otmi:vector>
+              <otmi:vector count='3'>positively</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>blocking</otmi:vector>
+              <otmi:vector count='3'>faster</otmi:vector>
+              <otmi:vector count='3'>conductance</otmi:vector>
+              <otmi:vector count='3'>effect</otmi:vector>
+              <otmi:vector count='3'>blocked</otmi:vector>
+              <otmi:vector count='3'>Ser</otmi:vector>
+              <otmi:vector count='3'>genes</otmi:vector>
+              <otmi:vector count='3'>level</otmi:vector>
+              <otmi:vector count='3'>mutant</otmi:vector>
+              <otmi:vector count='3'>formed</otmi:vector>
+              <otmi:vector count='3'>small</otmi:vector>
+              <otmi:vector count='3'>narrow</otmi:vector>
+              <otmi:vector count='3'>severe</otmi:vector>
+              <otmi:vector count='3'>many</otmi:vector>
+              <otmi:vector count='3'>sudden</otmi:vector>
+              <otmi:vector count='3'>N</otmi:vector>
+              <otmi:vector count='3'>understanding</otmi:vector>
+              <otmi:vector count='3'>cytoplasmic</otmi:vector>
+              <otmi:vector count='3'>insights</otmi:vector>
+              <otmi:vector count='3'>aromatic</otmi:vector>
+              <otmi:vector count='3'>result</otmi:vector>
+              <otmi:vector count='3'>disorder</otmi:vector>
+              <otmi:vector count='3'>greatly</otmi:vector>
+              <otmi:vector count='3'>provided</otmi:vector>
+              <otmi:vector count='3'>slower</otmi:vector>
+              <otmi:vector count='3'>any</otmi:vector>
+              <otmi:vector count='3'>recent</otmi:vector>
+              <otmi:vector count='3'>our</otmi:vector>
+              <otmi:vector count='3'>depolarized</otmi:vector>
+              <otmi:vector count='3'>point</otmi:vector>
+              <otmi:vector count='3'>accessory</otmi:vector>
+              <otmi:vector count='3'>plateau</otmi:vector>
+              <otmi:vector count='3'>extracellular</otmi:vector>
+              <otmi:vector count='3'>mutation</otmi:vector>
+              <otmi:vector count='3'>bacterial</otmi:vector>
+              <otmi:vector count='3'>voltage-gated</otmi:vector>
+              <otmi:vector count='3'>diverse</otmi:vector>
+              <otmi:vector count='3'>Mutation</otmi:vector>
+              <otmi:vector count='3'>PAS</otmi:vector>
+              <otmi:vector count='3'>different</otmi:vector>
+              <otmi:vector count='3'>Kr</otmi:vector>
+              <otmi:vector count='3'>Table</otmi:vector>
+              <otmi:vector count='3'>prolongation</otmi:vector>
+              <otmi:vector count='3'>phases</otmi:vector>
+              <otmi:vector count='3'>mammalian</otmi:vector>
+              <otmi:vector count='3'>three</otmi:vector>
+              <otmi:vector count='3'>physiological</otmi:vector>
+              <otmi:vector count='3'>inward</otmi:vector>
+              <otmi:vector count='3'>contains</otmi:vector>
+              <otmi:vector count='3'>interact</otmi:vector>
+              <otmi:vector count='3'>states</otmi:vector>
+              <otmi:vector count='3'>field</otmi:vector>
+              <otmi:vector count='3'>suggesting</otmi:vector>
+              <otmi:vector count='3'>Phe</otmi:vector>
+              <otmi:vector count='3'>does</otmi:vector>
+              <otmi:vector count='3'>Ca</otmi:vector>
+              <otmi:vector count='3'>rectifier</otmi:vector>
+              <otmi:vector count='3'>death</otmi:vector>
+              <otmi:vector count='3'>domains</otmi:vector>
+              <otmi:vector count='3'>used</otmi:vector>
+              <otmi:vector count='3'>understood</otmi:vector>
+              <otmi:vector count='3'>models</otmi:vector>
+              <otmi:vector count='3'>distinct</otmi:vector>
+              <otmi:vector count='3'>conduction</otmi:vector>
+              <otmi:vector count='3'>reduce</otmi:vector>
+              <otmi:vector count='3'>altered</otmi:vector>
+              <otmi:vector count='3'>module</otmi:vector>
+              <otmi:vector count='3'>discovery</otmi:vector>
+              <otmi:vector count='3'>helical</otmi:vector>
+              <otmi:vector count='3'>increases</otmi:vector>
+              <otmi:vector count='3'>terminus</otmi:vector>
+              <otmi:vector count='3'>fibrillation</otmi:vector>
+              <otmi:vector count='3'>practice</otmi:vector>
+              <otmi:vector count='3'>ion</otmi:vector>
+              <otmi:vector count='3'>compounds</otmi:vector>
+              <otmi:vector count='3'>some</otmi:vector>
+              <otmi:vector count='3'>Na</otmi:vector>
+              <otmi:vector count='3'>characterized</otmi:vector>
+              <otmi:vector count='3'>Further</otmi:vector>
+              <otmi:vector count='3'>coassemble</otmi:vector>
+              <otmi:vector count='2'>Nonetheless</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>colleagues</otmi:vector>
+              <otmi:vector count='2'>affinity</otmi:vector>
+              <otmi:vector count='2'>therapeutic</otmi:vector>
+              <otmi:vector count='2'>restricted</otmi:vector>
+              <otmi:vector count='2'>prolongs</otmi:vector>
+              <otmi:vector count='2'>action-potential</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>Delayed</otmi:vector>
+              <otmi:vector count='2'>ether-a-go-go</otmi:vector>
+              <otmi:vector count='2'>eliminates</otmi:vector>
+              <otmi:vector count='2'>responsible</otmi:vector>
+              <otmi:vector count='2'>inactivated</otmi:vector>
+              <otmi:vector count='2'>portion</otmi:vector>
+              <otmi:vector count='2'>interface</otmi:vector>
+              <otmi:vector count='2'>5</otmi:vector>
+              <otmi:vector count='2'>importance</otmi:vector>
+              <otmi:vector count='2'>656</otmi:vector>
+              <otmi:vector count='2'>mediate</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>X-ray</otmi:vector>
+              <otmi:vector count='2'>3</otmi:vector>
+              <otmi:vector count='2'>requires</otmi:vector>
+              <otmi:vector count='2'>region</otmi:vector>
+              <otmi:vector count='2'>effects</otmi:vector>
+              <otmi:vector count='2'>resting</otmi:vector>
+              <otmi:vector count='2'>sensing</otmi:vector>
+              <otmi:vector count='2'>over</otmi:vector>
+              <otmi:vector count='2'>tumour</otmi:vector>
+              <otmi:vector count='2'>disrupt</otmi:vector>
+              <otmi:vector count='2'>mutagenesis</otmi:vector>
+              <otmi:vector count='2'>Ks</otmi:vector>
+              <otmi:vector count='2'>potent</otmi:vector>
+              <otmi:vector count='2'>MthK</otmi:vector>
+              <otmi:vector count='2'>fibres</otmi:vector>
+              <otmi:vector count='2'>promiscuous</otmi:vector>
+              <otmi:vector count='2'>531</otmi:vector>
+              <otmi:vector count='2'>0</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>predictive</otmi:vector>
+              <otmi:vector count='2'>heteromultimeric</otmi:vector>
+              <otmi:vector count='2'>specific</otmi:vector>
+              <otmi:vector count='2'>hydrophobic</otmi:vector>
+              <otmi:vector count='2'>C-terminal</otmi:vector>
+              <otmi:vector count='2'>obvious</otmi:vector>
+              <otmi:vector count='2'>L-type</otmi:vector>
+              <otmi:vector count='2'>removes</otmi:vector>
+              <otmi:vector count='2'>reticulum</otmi:vector>
+              <otmi:vector count='2'>putative</otmi:vector>
+              <otmi:vector count='2'>forms</otmi:vector>
+              <otmi:vector count='2'>cyclic-nucleotide-binding</otmi:vector>
+              <otmi:vector count='2'>resulting</otmi:vector>
+              <otmi:vector count='2'>occurs</otmi:vector>
+              <otmi:vector count='2'>voltage-sensing</otmi:vector>
+              <otmi:vector count='2'>direct</otmi:vector>
+              <otmi:vector count='2'>MacKinnon</otmi:vector>
+              <otmi:vector count='2'>prevent</otmi:vector>
+              <otmi:vector count='2'>chains</otmi:vector>
+              <otmi:vector count='2'>towards</otmi:vector>
+              <otmi:vector count='2'>led</otmi:vector>
+              <otmi:vector count='2'>Asp</otmi:vector>
+              <otmi:vector count='2'>classes</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>such</otmi:vector>
+              <otmi:vector count='2'>increase</otmi:vector>
+              <otmi:vector count='2'>rapidly</otmi:vector>
+              <otmi:vector count='2'>amino</otmi:vector>
+              <otmi:vector count='2'>approach</otmi:vector>
+              <otmi:vector count='2'>atoms</otmi:vector>
+              <otmi:vector count='2'>electromechanical</otmi:vector>
+              <otmi:vector count='2'>entry</otmi:vector>
+              <otmi:vector count='2'>provides</otmi:vector>
+              <otmi:vector count='2'>interference</otmi:vector>
+              <otmi:vector count='2'>assessment</otmi:vector>
+              <otmi:vector count='2'>change</otmi:vector>
+              <otmi:vector count='2'>near</otmi:vector>
+              <otmi:vector count='2'>LQTS-associated</otmi:vector>
+              <otmi:vector count='2'>duration</otmi:vector>
+              <otmi:vector count='2'>so</otmi:vector>
+              <otmi:vector count='2'>acidic</otmi:vector>
+              <otmi:vector count='2'>decreased</otmi:vector>
+              <otmi:vector count='2'>derived</otmi:vector>
+              <otmi:vector count='2'>if</otmi:vector>
+              <otmi:vector count='2'>induce</otmi:vector>
+              <otmi:vector count='2'>contrast</otmi:vector>
+              <otmi:vector count='2'>sensor</otmi:vector>
+              <otmi:vector count='2'>myocytes</otmi:vector>
+              <otmi:vector count='2'>force</otmi:vector>
+              <otmi:vector count='2'>Regardless</otmi:vector>
+              <otmi:vector count='2'>motif</otmi:vector>
+              <otmi:vector count='2'>shift</otmi:vector>
+              <otmi:vector count='2'>cavity</otmi:vector>
+              <otmi:vector count='2'>pharmaceutical</otmi:vector>
+              <otmi:vector count='2'>ECG</otmi:vector>
+              <otmi:vector count='2'>basic</otmi:vector>
+              <otmi:vector count='2'>coassembly</otmi:vector>
+              <otmi:vector count='2'>Inherited</otmi:vector>
+              <otmi:vector count='2'>cannot</otmi:vector>
+              <otmi:vector count='2'>deactivation</otmi:vector>
+              <otmi:vector count='2'>long</otmi:vector>
+              <otmi:vector count='2'>Pro-Val-Pro</otmi:vector>
+              <otmi:vector count='2'>efforts</otmi:vector>
+              <otmi:vector count='2'>types</otmi:vector>
+              <otmi:vector count='2'>homology</otmi:vector>
+              <otmi:vector count='2'>Drug-induced</otmi:vector>
+              <otmi:vector count='2'>regulatory</otmi:vector>
+              <otmi:vector count='2'>pathway</otmi:vector>
+              <otmi:vector count='2'>gain-of-function</otmi:vector>
+              <otmi:vector count='2'>accommodate</otmi:vector>
+              <otmi:vector count='2'>patients</otmi:vector>
+              <otmi:vector count='2'>outermost</otmi:vector>
+              <otmi:vector count='2'>agencies</otmi:vector>
+              <otmi:vector count='2'>selective</otmi:vector>
+              <otmi:vector count='2'>common</otmi:vector>
+              <otmi:vector count='2'>related</otmi:vector>
+              <otmi:vector count='2'>tethered</otmi:vector>
+              <otmi:vector count='2'>why</otmi:vector>
+              <otmi:vector count='2'>block</otmi:vector>
+              <otmi:vector count='2'>N-type</otmi:vector>
+              <otmi:vector count='2'>large</otmi:vector>
+              <otmi:vector count='2'>lead</otmi:vector>
+              <otmi:vector count='2'>homologous</otmi:vector>
+              <otmi:vector count='2'>Thr449Val</otmi:vector>
+              <otmi:vector count='2'>particular</otmi:vector>
+              <otmi:vector count='2'>carboxy-terminal</otmi:vector>
+              <otmi:vector count='2'>response</otmi:vector>
+              <otmi:vector count='2'>endoplasmic</otmi:vector>
+              <otmi:vector count='2'>end</otmi:vector>
+              <otmi:vector count='2'>close</otmi:vector>
+              <otmi:vector count='2'>place</otmi:vector>
+              <otmi:vector count='2'>relatively</otmi:vector>
+              <otmi:vector count='2'>often</otmi:vector>
+              <otmi:vector count='2'>arranged</otmi:vector>
+              <otmi:vector count='2'>sequence</otmi:vector>
+              <otmi:vector count='2'>process</otmi:vector>
+              <otmi:vector count='2'>causing</otmi:vector>
+              <otmi:vector count='2'>affected</otmi:vector>
+              <otmi:vector count='2'>nervous</otmi:vector>
+              <otmi:vector count='2'>624</otmi:vector>
+              <otmi:vector count='2'>first</otmi:vector>
+              <otmi:vector count='2'>six</otmi:vector>
+              <otmi:vector count='2'>623</otmi:vector>
+              <otmi:vector count='2'>non-conducting</otmi:vector>
+              <otmi:vector count='2'>another</otmi:vector>
+              <otmi:vector count='2'>quinidine</otmi:vector>
+              <otmi:vector count='2'>mV</otmi:vector>
+              <otmi:vector count='2'>include</otmi:vector>
+              <otmi:vector count='2'>Studies</otmi:vector>
+              <otmi:vector count='2'>bulk</otmi:vector>
+              <otmi:vector count='2'>screening</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>third</otmi:vector>
+              <otmi:vector count='2'>found</otmi:vector>
+              <otmi:vector count='2'>known</otmi:vector>
+              <otmi:vector count='2'>voltage-sensor</otmi:vector>
+              <otmi:vector count='2'>defined</otmi:vector>
+              <otmi:vector count='2'>counteract</otmi:vector>
+              <otmi:vector count='2'>assumed</otmi:vector>
+              <otmi:vector count='2'>oxygen</otmi:vector>
+              <otmi:vector count='2'>1b</otmi:vector>
+              <otmi:vector count='2'>N-terminal</otmi:vector>
+              <otmi:vector count='2'>each</otmi:vector>
+              <otmi:vector count='2'>early</otmi:vector>
+              <otmi:vector count='2'>followed</otmi:vector>
+              <otmi:vector count='2'>Purkinje</otmi:vector>
+              <otmi:vector count='2'>delayed</otmi:vector>
+              <otmi:vector count='2'>1a</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>unusual</otmi:vector>
+              <otmi:vector count='2'>transient</otmi:vector>
+              <otmi:vector count='2'>addition</otmi:vector>
+              <otmi:vector count='2'>increased</otmi:vector>
+              <otmi:vector count='2'>needed</otmi:vector>
+              <otmi:vector count='2'>best</otmi:vector>
+              <otmi:vector count='2'>molecular</otmi:vector>
+              <otmi:vector count='2'>depolarization</otmi:vector>
+              <otmi:vector count='2'>few</otmi:vector>
+              <otmi:vector count='2'>reduced</otmi:vector>
+              <otmi:vector count='2'>dependence</otmi:vector>
+              <otmi:vector count='2'>explain</otmi:vector>
+              <otmi:vector count='2'>analysis</otmi:vector>
+              <otmi:vector count='2'>time</otmi:vector>
+              <otmi:vector count='2'>medications</otmi:vector>
+              <otmi:vector count='2'>manner</otmi:vector>
+              <otmi:vector count='2'>aperture</otmi:vector>
+              <otmi:vector count='2'>ironically</otmi:vector>
+              <otmi:vector count='2'>position</otmi:vector>
+              <otmi:vector count='2'>gates</otmi:vector>
+              <otmi:vector count='2'>silico</otmi:vector>
+              <otmi:vector count='2'>Timothy</otmi:vector>
+              <otmi:vector count='2'>loss</otmi:vector>
+              <otmi:vector count='2'>suggests</otmi:vector>
+              <otmi:vector count='2'>across</otmi:vector>
+              <otmi:vector count='2'>pacemaker</otmi:vector>
+              <otmi:vector count='2'>neural</otmi:vector>
+              <otmi:vector count='2'>prolong</otmi:vector>
+              <otmi:vector count='2'>unique</otmi:vector>
+              <otmi:vector count='2'>now</otmi:vector>
+              <otmi:vector count='1'>file</otmi:vector>
+              <otmi:vector count='1'>sertindole</otmi:vector>
+              <otmi:vector count='1'>shortens</otmi:vector>
+              <otmi:vector count='1'>defibrillators</otmi:vector>
+              <otmi:vector count='1'>sensitivity</otmi:vector>
+              <otmi:vector count='1'>unacceptable</otmi:vector>
+              <otmi:vector count='1'>Activation</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+              <otmi:vector count='1'>Voltage-dependent</otmi:vector>
+              <otmi:vector count='1'>abnormalities</otmi:vector>
+              <otmi:vector count='1'>companies</otmi:vector>
+              <otmi:vector count='1'>detected</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>seem</otmi:vector>
+              <otmi:vector count='1'>recessive</otmi:vector>
+              <otmi:vector count='1'>extreme</otmi:vector>
+              <otmi:vector count='1'>signature</otmi:vector>
+              <otmi:vector count='1'>b</otmi:vector>
+              <otmi:vector count='1'>Rapid</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>Rockefeller</otmi:vector>
+              <otmi:vector count='1'>orientated</otmi:vector>
+              <otmi:vector count='1'>class</otmi:vector>
+              <otmi:vector count='1'>pore-forming</otmi:vector>
+              <otmi:vector count='1'>Repolarization</otmi:vector>
+              <otmi:vector count='1'>induces</otmi:vector>
+              <otmi:vector count='1'>emphasizes</otmi:vector>
+              <otmi:vector count='1'>convert</otmi:vector>
+              <otmi:vector count='1'>opened</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>summarize</otmi:vector>
+              <otmi:vector count='1'>imperfect</otmi:vector>
+              <otmi:vector count='1'>K1</otmi:vector>
+              <otmi:vector count='1'>reveal</otmi:vector>
+              <otmi:vector count='1'>concentric</otmi:vector>
+              <otmi:vector count='1'>gastrointestinal</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>fluorophore</otmi:vector>
+              <otmi:vector count='1'>driving</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>radically</otmi:vector>
+              <otmi:vector count='1'>medication</otmi:vector>
+              <otmi:vector count='1'>functionally</otmi:vector>
+              <otmi:vector count='1'>excitable</otmi:vector>
+              <otmi:vector count='1'>predisposes</otmi:vector>
+              <otmi:vector count='1'>maintained</otmi:vector>
+              <otmi:vector count='1'>would</otmi:vector>
+              <otmi:vector count='1'>makes</otmi:vector>
+              <otmi:vector count='1'>screen</otmi:vector>
+              <otmi:vector count='1'>hastens</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>Lys</otmi:vector>
+              <otmi:vector count='1'>S5–S6</otmi:vector>
+              <otmi:vector count='1'>tightly</otmi:vector>
+              <otmi:vector count='1'>conclusions</otmi:vector>
+              <otmi:vector count='1'>cisapride-induced</otmi:vector>
+              <otmi:vector count='1'>disorders</otmi:vector>
+              <otmi:vector count='1'>Together</otmi:vector>
+              <otmi:vector count='1'>frequent</otmi:vector>
+              <otmi:vector count='1'>pushes</otmi:vector>
+              <otmi:vector count='1'>Other</otmi:vector>
+              <otmi:vector count='1'>generate</otmi:vector>
+              <otmi:vector count='1'>maintenance</otmi:vector>
+              <otmi:vector count='1'>drug-design</otmi:vector>
+              <otmi:vector count='1'>Truncation</otmi:vector>
+              <otmi:vector count='1'>progress</otmi:vector>
+              <otmi:vector count='1'>shield</otmi:vector>
+              <otmi:vector count='1'>degenerate</otmi:vector>
+              <otmi:vector count='1'>100-fold</otmi:vector>
+              <otmi:vector count='1'>dysfunction</otmi:vector>
+              <otmi:vector count='1'>ion-channel</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>Per–Arnt–Sim</otmi:vector>
+              <otmi:vector count='1'>variant</otmi:vector>
+              <otmi:vector count='1'>certainly</otmi:vector>
+              <otmi:vector count='1'>systems</otmi:vector>
+              <otmi:vector count='1'>folding</otmi:vector>
+              <otmi:vector count='1'>determine</otmi:vector>
+              <otmi:vector count='1'>slight</otmi:vector>
+              <otmi:vector count='1'>pointes</otmi:vector>
+              <otmi:vector count='1'>body</otmi:vector>
+              <otmi:vector count='1'>strongly</otmi:vector>
+              <otmi:vector count='1'>Common</otmi:vector>
+              <otmi:vector count='1'>amphipathic</otmi:vector>
+              <otmi:vector count='1'>combination</otmi:vector>
+              <otmi:vector count='1'>ligand-docking</otmi:vector>
+              <otmi:vector count='1'>antimicrobial</otmi:vector>
+              <otmi:vector count='1'>optimally</otmi:vector>
+              <otmi:vector count='1'>ubiquitin–proteasome</otmi:vector>
+              <otmi:vector count='1'>Thr-Val-Gly-Tyr-Gly</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>antihistamines</otmi:vector>
+              <otmi:vector count='1'>structurally</otmi:vector>
+              <otmi:vector count='1'>relegate</otmi:vector>
+              <otmi:vector count='1'>accompanies</otmi:vector>
+              <otmi:vector count='1'>HCN</otmi:vector>
+              <otmi:vector count='1'>remain</otmi:vector>
+              <otmi:vector count='1'>scrutiny</otmi:vector>
+              <otmi:vector count='1'>development</otmi:vector>
+              <otmi:vector count='1'>retained</otmi:vector>
+              <otmi:vector count='1'>Much</otmi:vector>
+              <otmi:vector count='1'>toes</otmi:vector>
+              <otmi:vector count='1'>sinus</otmi:vector>
+              <otmi:vector count='1'>Kv1–Kv4</otmi:vector>
+              <otmi:vector count='1'>database</otmi:vector>
+              <otmi:vector count='1'>electrochemical</otmi:vector>
+              <otmi:vector count='1'>considerable</otmi:vector>
+              <otmi:vector count='1'>World</otmi:vector>
+              <otmi:vector count='1'>regarding</otmi:vector>
+              <otmi:vector count='1'>ERG</otmi:vector>
+              <otmi:vector count='1'>implantable</otmi:vector>
+              <otmi:vector count='1'>absence</otmi:vector>
+              <otmi:vector count='1'>activate</otmi:vector>
+              <otmi:vector count='1'>quickly</otmi:vector>
+              <otmi:vector count='1'>induced</otmi:vector>
+              <otmi:vector count='1'>non-cardiac</otmi:vector>
+              <otmi:vector count='1'>unlike</otmi:vector>
+              <otmi:vector count='1'>prescribed</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>five</otmi:vector>
+              <otmi:vector count='1'>disruption</otmi:vector>
+              <otmi:vector count='1'>phenotype</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>hotly</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>inadequate</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>Depolarization</otmi:vector>
+              <otmi:vector count='1'>Approximately</otmi:vector>
+              <otmi:vector count='1'>core-glycosylated</otmi:vector>
+              <otmi:vector count='1'>loss-of-function</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>electrostatic</otmi:vector>
+              <otmi:vector count='1'>mammals</otmi:vector>
+              <otmi:vector count='1'>criss-cross</otmi:vector>
+              <otmi:vector count='1'>currents</otmi:vector>
+              <otmi:vector count='1'>millivolts</otmi:vector>
+              <otmi:vector count='1'>promiscuity</otmi:vector>
+              <otmi:vector count='1'>astemizole</otmi:vector>
+              <otmi:vector count='1'>runs</otmi:vector>
+              <otmi:vector count='1'>industry</otmi:vector>
+              <otmi:vector count='1'>widens</otmi:vector>
+              <otmi:vector count='1'>1994</otmi:vector>
+              <otmi:vector count='1'>conformation</otmi:vector>
+              <otmi:vector count='1'>refractory</otmi:vector>
+              <otmi:vector count='1'>carbonyl</otmi:vector>
+              <otmi:vector count='1'>torsade</otmi:vector>
+              <otmi:vector count='1'>200</otmi:vector>
+              <otmi:vector count='1'>abolishes</otmi:vector>
+              <otmi:vector count='1'>recovery</otmi:vector>
+              <otmi:vector count='1'>spliced</otmi:vector>
+              <otmi:vector count='1'>electrocardiogram</otmi:vector>
+              <otmi:vector count='1'>primary</otmi:vector>
+              <otmi:vector count='1'>avoid</otmi:vector>
+              <otmi:vector count='1'>event</otmi:vector>
+              <otmi:vector count='1'>Compared</otmi:vector>
+              <otmi:vector count='1'>assayed</otmi:vector>
+              <otmi:vector count='1'>ability</otmi:vector>
+              <otmi:vector count='1'>side-chain</otmi:vector>
+              <otmi:vector count='1'>market</otmi:vector>
+              <otmi:vector count='1'>voltage-clamp</otmi:vector>
+              <otmi:vector count='1'>clinical</otmi:vector>
+              <otmi:vector count='1'>pattern</otmi:vector>
+              <otmi:vector count='1'>full-length</otmi:vector>
+              <otmi:vector count='1'>MK-499</otmi:vector>
+              <otmi:vector count='1'>KCNE1</otmi:vector>
+              <otmi:vector count='1'>3a</otmi:vector>
+              <otmi:vector count='1'>prolonged</otmi:vector>
+              <otmi:vector count='1'>compound</otmi:vector>
+              <otmi:vector count='1'>answer</otmi:vector>
+              <otmi:vector count='1'>comprises</otmi:vector>
+              <otmi:vector count='1'>premature</otmi:vector>
+              <otmi:vector count='1'>stabilize</otmi:vector>
+              <otmi:vector count='1'>coordinate</otmi:vector>
+              <otmi:vector count='1'>sensorineural</otmi:vector>
+              <otmi:vector count='1'>3c</otmi:vector>
+              <otmi:vector count='1'>CACNA1C</otmi:vector>
+              <otmi:vector count='1'>ultimately</otmi:vector>
+              <otmi:vector count='1'>Precisely</otmi:vector>
+              <otmi:vector count='1'>assessing</otmi:vector>
+              <otmi:vector count='1'>patch</otmi:vector>
+              <otmi:vector count='1'>high</otmi:vector>
+              <otmi:vector count='1'>mediates</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>Roles</otmi:vector>
+              <otmi:vector count='1'>540</otmi:vector>
+              <otmi:vector count='1'>Second</otmi:vector>
+              <otmi:vector count='1'>wild-type</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>overlooked</otmi:vector>
+              <otmi:vector count='1'>fide</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>too</otmi:vector>
+              <otmi:vector count='1'>fingers</otmi:vector>
+              <otmi:vector count='1'>fainting</otmi:vector>
+              <otmi:vector count='1'>water</otmi:vector>
+              <otmi:vector count='1'>inactivate</otmi:vector>
+              <otmi:vector count='1'>solved</otmi:vector>
+              <otmi:vector count='1'>formation</otmi:vector>
+              <otmi:vector count='1'>finely</otmi:vector>
+              <otmi:vector count='1'>coordination</otmi:vector>
+              <otmi:vector count='1'>degraded</otmi:vector>
+              <otmi:vector count='1'>divalent</otmi:vector>
+              <otmi:vector count='1'>separated</otmi:vector>
+              <otmi:vector count='1'>2–9</otmi:vector>
+              <otmi:vector count='1'>affecting</otmi:vector>
+              <otmi:vector count='1'>Structure</otmi:vector>
+              <otmi:vector count='1'>required</otmi:vector>
+              <otmi:vector count='1'>finding</otmi:vector>
+              <otmi:vector count='1'>partly</otmi:vector>
+              <otmi:vector count='1'>Heart</otmi:vector>
+              <otmi:vector count='1'>Loss-of-function</otmi:vector>
+              <otmi:vector count='1'>slowly</otmi:vector>
+              <otmi:vector count='1'>C</otmi:vector>
+              <otmi:vector count='1'>Current</otmi:vector>
+              <otmi:vector count='1'>supports</otmi:vector>
+              <otmi:vector count='1'>salt</otmi:vector>
+              <otmi:vector count='1'>4a</otmi:vector>
+              <otmi:vector count='1'>docking</otmi:vector>
+              <otmi:vector count='1'>4b</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>deduced</otmi:vector>
+              <otmi:vector count='1'>compare</otmi:vector>
+              <otmi:vector count='1'>4c</otmi:vector>
+              <otmi:vector count='1'>waxing</otmi:vector>
+              <otmi:vector count='1'>alternatively</otmi:vector>
+              <otmi:vector count='1'>Additional</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>face</otmi:vector>
+              <otmi:vector count='1'>ERG3</otmi:vector>
+              <otmi:vector count='1'>truly</otmi:vector>
+              <otmi:vector count='1'>surprising</otmi:vector>
+              <otmi:vector count='1'>ERG2</otmi:vector>
+              <otmi:vector count='1'>Kv1.1</otmi:vector>
+              <otmi:vector count='1'>should</otmi:vector>
+              <otmi:vector count='1'>CNG</otmi:vector>
+              <otmi:vector count='1'>discussed</otmi:vector>
+              <otmi:vector count='1'>665</otmi:vector>
+              <otmi:vector count='1'>preclinical</otmi:vector>
+              <otmi:vector count='1'>people</otmi:vector>
+              <otmi:vector count='1'>treatment</otmi:vector>
+              <otmi:vector count='1'>Individual</otmi:vector>
+              <otmi:vector count='1'>deafness</otmi:vector>
+              <otmi:vector count='1'>fused</otmi:vector>
+              <otmi:vector count='1'>account</otmi:vector>
+              <otmi:vector count='1'>functional</otmi:vector>
+              <otmi:vector count='1'>eliminated</otmi:vector>
+              <otmi:vector count='1'>drug-binding</otmi:vector>
+              <otmi:vector count='1'>water-filled</otmi:vector>
+              <otmi:vector count='1'>causes</otmi:vector>
+              <otmi:vector count='1'>stabilizes</otmi:vector>
+              <otmi:vector count='1'>treat</otmi:vector>
+              <otmi:vector count='1'>hopeless</otmi:vector>
+              <otmi:vector count='1'>lines</otmi:vector>
+              <otmi:vector count='1'>implies</otmi:vector>
+              <otmi:vector count='1'>15–20</otmi:vector>
+              <otmi:vector count='1'>well-known</otmi:vector>
+              <otmi:vector count='1'>neighbouring</otmi:vector>
+              <otmi:vector count='1'>partially</otmi:vector>
+              <otmi:vector count='1'>stage</otmi:vector>
+              <otmi:vector count='1'>conducted</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>antibiotics</otmi:vector>
+              <otmi:vector count='1'>problems</otmi:vector>
+              <otmi:vector count='1'>location</otmi:vector>
+              <otmi:vector count='1'>charge</otmi:vector>
+              <otmi:vector count='1'>toxicity</otmi:vector>
+              <otmi:vector count='1'>affects</otmi:vector>
+              <otmi:vector count='1'>de</otmi:vector>
+              <otmi:vector count='1'>greatest</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>well-characterized</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>fourth</otmi:vector>
+              <otmi:vector count='1'>pc4.fsm.it:81</otmi:vector>
+              <otmi:vector count='1'>completely</otmi:vector>
+              <otmi:vector count='1'>Recognition</otmi:vector>
+              <otmi:vector count='1'>hydroxyl</otmi:vector>
+              <otmi:vector count='1'>techniques</otmi:vector>
+              <otmi:vector count='1'>allow</otmi:vector>
+              <otmi:vector count='1'>conventional</otmi:vector>
+              <otmi:vector count='1'>attraction</otmi:vector>
+              <otmi:vector count='1'>repolarizing</otmi:vector>
+              <otmi:vector count='1'>Each</otmi:vector>
+              <otmi:vector count='1'>positions</otmi:vector>
+              <otmi:vector count='1'>persistent</otmi:vector>
+              <otmi:vector count='1'>remains</otmi:vector>
+              <otmi:vector count='1'>attached</otmi:vector>
+              <otmi:vector count='1'>atria</otmi:vector>
+              <otmi:vector count='1'>observation</otmi:vector>
+              <otmi:vector count='1'>external</otmi:vector>
+              <otmi:vector count='1'>delay</otmi:vector>
+              <otmi:vector count='1'>allows</otmi:vector>
+              <otmi:vector count='1'>easily</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>revolutionized</otmi:vector>
+              <otmi:vector count='1'>splay</otmi:vector>
+              <otmi:vector count='1'>transitions</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>Organization</otmi:vector>
+              <otmi:vector count='1'>cloned</otmi:vector>
+              <otmi:vector count='1'>Before</otmi:vector>
+              <otmi:vector count='1'>debate</otmi:vector>
+              <otmi:vector count='1'>Connection</otmi:vector>
+              <otmi:vector count='1'>planar</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>withdrawal</otmi:vector>
+              <otmi:vector count='1'>octahedral</otmi:vector>
+              <otmi:vector count='1'>Mutagenesis</otmi:vector>
+              <otmi:vector count='1'>ensures</otmi:vector>
+              <otmi:vector count='1'>grepafloxacin</otmi:vector>
+              <otmi:vector count='1'>occupied</otmi:vector>
+              <otmi:vector count='1'>salt-bridge</otmi:vector>
+              <otmi:vector count='1'>diversity</otmi:vector>
+              <otmi:vector count='1'>Structural</otmi:vector>
+              <otmi:vector count='1'>induction</otmi:vector>
+              <otmi:vector count='1'>individuals</otmi:vector>
+              <otmi:vector count='1'>since</otmi:vector>
+              <otmi:vector count='1'>sine</otmi:vector>
+              <otmi:vector count='1'>7</otmi:vector>
+              <otmi:vector count='1'>antihistamine</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>rings</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>voltage-dependent</otmi:vector>
+              <otmi:vector count='1'>Ala</otmi:vector>
+              <otmi:vector count='1'>support</otmi:vector>
+              <otmi:vector count='1'>packed</otmi:vector>
+              <otmi:vector count='1'>configuration</otmi:vector>
+              <otmi:vector count='1'>SCN5A</otmi:vector>
+              <otmi:vector count='1'>consequences</otmi:vector>
+              <otmi:vector count='1'>reveals</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>rods</otmi:vector>
+              <otmi:vector count='1'>heterologous</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>inactivates</otmi:vector>
+              <otmi:vector count='1'>Ser631Val</otmi:vector>
+              <otmi:vector count='1'>occludes</otmi:vector>
+              <otmi:vector count='1'>defining</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>mutated</otmi:vector>
+              <otmi:vector count='1'>activators</otmi:vector>
+              <otmi:vector count='1'>initiates</otmi:vector>
+              <otmi:vector count='1'>syndactyly</otmi:vector>
+              <otmi:vector count='1'>enter</otmi:vector>
+              <otmi:vector count='1'>extraordinary</otmi:vector>
+              <otmi:vector count='1'>commonly</otmi:vector>
+              <otmi:vector count='1'>unusually</otmi:vector>
+              <otmi:vector count='1'>Thus</otmi:vector>
+              <otmi:vector count='1'>issues</otmi:vector>
+              <otmi:vector count='1'>activated</otmi:vector>
+              <otmi:vector count='1'>Screening</otmi:vector>
+              <otmi:vector count='1'>every</otmi:vector>
+              <otmi:vector count='1'>milliseconds</otmi:vector>
+              <otmi:vector count='1'>S2</otmi:vector>
+              <otmi:vector count='1'>disease</otmi:vector>
+              <otmi:vector count='1'>instruments</otmi:vector>
+              <otmi:vector count='1'>unpredictability</otmi:vector>
+              <otmi:vector count='1'>fluorescence</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>encompass</otmi:vector>
+              <otmi:vector count='1'>S3</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>worldwide</otmi:vector>
+              <otmi:vector count='1'>generation</otmi:vector>
+              <otmi:vector count='1'>less</otmi:vector>
+              <otmi:vector count='1'>slowed</otmi:vector>
+              <otmi:vector count='1'>alter</otmi:vector>
+              <otmi:vector count='1'>cones</otmi:vector>
+              <otmi:vector count='1'>S5</otmi:vector>
+              <otmi:vector count='1'>attention</otmi:vector>
+              <otmi:vector count='1'>processing</otmi:vector>
+              <otmi:vector count='1'>variety</otmi:vector>
+              <otmi:vector count='1'>became</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>effectively</otmi:vector>
+              <otmi:vector count='1'>explaining</otmi:vector>
+              <otmi:vector count='1'>barrier</otmi:vector>
+              <otmi:vector count='1'>identical</otmi:vector>
+              <otmi:vector count='1'>inferred</otmi:vector>
+              <otmi:vector count='1'>unresolved</otmi:vector>
+              <otmi:vector count='1'>high-throughput</otmi:vector>
+              <otmi:vector count='1'>electric</otmi:vector>
+              <otmi:vector count='1'>KCNJ2</otmi:vector>
+              <otmi:vector count='1'>doses</otmi:vector>
+              <otmi:vector count='1'>received</otmi:vector>
+              <otmi:vector count='1'>obviously</otmi:vector>
+              <otmi:vector count='1'>At</otmi:vector>
+              <otmi:vector count='1'>Below</otmi:vector>
+              <otmi:vector count='1'>distance</otmi:vector>
+              <otmi:vector count='1'>permit</otmi:vector>
+              <otmi:vector count='1'>lined</otmi:vector>
+              <otmi:vector count='1'>When</otmi:vector>
+              <otmi:vector count='1'>Two</otmi:vector>
+              <otmi:vector count='1'>cAMP</otmi:vector>
+              <otmi:vector count='1'>skeletal</otmi:vector>
+              <otmi:vector count='1'>thought</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>safety</otmi:vector>
+              <otmi:vector count='1'>optimum</otmi:vector>
+              <otmi:vector count='1'>corresponds</otmi:vector>
+              <otmi:vector count='1'>cases</otmi:vector>
+              <otmi:vector count='1'>conducts</otmi:vector>
+              <otmi:vector count='1'>asymmetrical</otmi:vector>
+              <otmi:vector count='1'>moderate</otmi:vector>
+              <otmi:vector count='1'>allergies</otmi:vector>
+              <otmi:vector count='1'>diffusion</otmi:vector>
+              <otmi:vector count='1'>subtle</otmi:vector>
+              <otmi:vector count='1'>observed</otmi:vector>
+              <otmi:vector count='1'>passage</otmi:vector>
+              <otmi:vector count='1'>Future</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>useful</otmi:vector>
+              <otmi:vector count='1'>minK</otmi:vector>
+              <otmi:vector count='1'>progressively</otmi:vector>
+              <otmi:vector count='1'>EAG</otmi:vector>
+              <otmi:vector count='1'>nearly</otmi:vector>
+              <otmi:vector count='1'>structure–activity</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>mouth</otmi:vector>
+              <otmi:vector count='1'>Health</otmi:vector>
+              <otmi:vector count='1'>non-life-threatening</otmi:vector>
+              <otmi:vector count='1'>modules</otmi:vector>
+              <otmi:vector count='1'>paralysis</otmi:vector>
+              <otmi:vector count='1'>suitable</otmi:vector>
+              <otmi:vector count='1'>periodic</otmi:vector>
+              <otmi:vector count='1'>receptor</otmi:vector>
+              <otmi:vector count='1'>blockade</otmi:vector>
+              <otmi:vector count='1'>using</otmi:vector>
+              <otmi:vector count='1'>psychiatric</otmi:vector>
+              <otmi:vector count='1'>technology</otmi:vector>
+              <otmi:vector count='1'>produces</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>ways</otmi:vector>
+              <otmi:vector count='1'>base</otmi:vector>
+              <otmi:vector count='1'>lasts</otmi:vector>
+              <otmi:vector count='1'>website</otmi:vector>
+              <otmi:vector count='1'>accordance</otmi:vector>
+              <otmi:vector count='1'>autism</otmi:vector>
+              <otmi:vector count='1'>polar</otmi:vector>
+              <otmi:vector count='1'>dimensions</otmi:vector>
+              <otmi:vector count='1'>Ile</otmi:vector>
+              <otmi:vector count='1'>minK-related</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>waning</otmi:vector>
+              <otmi:vector count='1'>Phase</otmi:vector>
+              <otmi:vector count='1'>complexes</otmi:vector>
+              <otmi:vector count='1'>paddle</otmi:vector>
+              <otmi:vector count='1'>bona</otmi:vector>
+              <otmi:vector count='1'>voltage-independent</otmi:vector>
+              <otmi:vector count='1'>high-capacity</otmi:vector>
+              <otmi:vector count='1'>streamline</otmi:vector>
+              <otmi:vector count='1'>S1–S6</otmi:vector>
+              <otmi:vector count='1'>consequence</otmi:vector>
+              <otmi:vector count='1'>metabolism</otmi:vector>
+              <otmi:vector count='1'>aid</otmi:vector>
+              <otmi:vector count='1'>made</otmi:vector>
+              <otmi:vector count='1'>directly</otmi:vector>
+              <otmi:vector count='1'>susceptible</otmi:vector>
+              <otmi:vector count='1'>move</otmi:vector>
+              <otmi:vector count='1'>lever</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>5,000–10,000</otmi:vector>
+              <otmi:vector count='1'>tissues</otmi:vector>
+              <otmi:vector count='1'>trace</otmi:vector>
+              <otmi:vector count='1'>final</otmi:vector>
+              <otmi:vector count='1'>regulation</otmi:vector>
+              <otmi:vector count='1'>substitution</otmi:vector>
+              <otmi:vector count='1'>summary</otmi:vector>
+              <otmi:vector count='1'>irregular</otmi:vector>
+              <otmi:vector count='1'>linked</otmi:vector>
+              <otmi:vector count='1'>strikingly</otmi:vector>
+              <otmi:vector count='1'>promises</otmi:vector>
+              <otmi:vector count='1'>S1–S4</otmi:vector>
+              <otmi:vector count='1'>cylinder</otmi:vector>
+              <otmi:vector count='1'>adequate</otmi:vector>
+              <otmi:vector count='1'>120,000</otmi:vector>
+              <otmi:vector count='1'>Kv-channel</otmi:vector>
+              <otmi:vector count='1'>ball-like</otmi:vector>
+              <otmi:vector count='1'>prompted</otmi:vector>
+              <otmi:vector count='1'>electrons</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>S1–S3</otmi:vector>
+              <otmi:vector count='1'>Asn588Lys</otmi:vector>
+              <otmi:vector count='1'>native</otmi:vector>
+              <otmi:vector count='1'>differ</otmi:vector>
+              <otmi:vector count='1'>consistent</otmi:vector>
+              <otmi:vector count='1'>case</otmi:vector>
+              <otmi:vector count='1'>relevant</otmi:vector>
+              <otmi:vector count='1'>Negatively</otmi:vector>
+              <otmi:vector count='1'>directions</otmi:vector>
+              <otmi:vector count='1'>hope</otmi:vector>
+              <otmi:vector count='1'>proper</otmi:vector>
+              <otmi:vector count='1'>First</otmi:vector>
+              <otmi:vector count='1'>safely</otmi:vector>
+              <otmi:vector count='1'>limitations</otmi:vector>
+              <otmi:vector count='1'>dominant</otmi:vector>
+              <otmi:vector count='1'>smooth</otmi:vector>
+              <otmi:vector count='1'>outwards</otmi:vector>
+              <otmi:vector count='1'>balanced</otmi:vector>
+              <otmi:vector count='1'>tremendous</otmi:vector>
+              <otmi:vector count='1'>always</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>upregulated</otmi:vector>
+              <otmi:vector count='1'>Gene</otmi:vector>
+              <otmi:vector count='1'>immune</otmi:vector>
+              <otmi:vector count='1'>triggers</otmi:vector>
+              <otmi:vector count='1'>analyses</otmi:vector>
+              <otmi:vector count='1'>suppression</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>poorly</otmi:vector>
+              <otmi:vector count='1'>drug-development</otmi:vector>
+              <otmi:vector count='1'>reduction</otmi:vector>
+              <otmi:vector count='1'>dehydrated</otmi:vector>
+              <otmi:vector count='1'>relationship</otmi:vector>
+              <otmi:vector count='1'>senses</otmi:vector>
+              <otmi:vector count='1'>substituted</otmi:vector>
+              <otmi:vector count='1'>know</otmi:vector>
+              <otmi:vector count='1'>helping</otmi:vector>
+              <otmi:vector count='1'>adrenergic</otmi:vector>
+              <otmi:vector count='1'>revert</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>constriction</otmi:vector>
+              <otmi:vector count='1'>turns</otmi:vector>
+              <otmi:vector count='1'>chemicals</otmi:vector>
+              <otmi:vector count='1'>Residues</otmi:vector>
+              <otmi:vector count='1'>cardiovascular</otmi:vector>
+              <otmi:vector count='1'>pharmaco-phore</otmi:vector>
+              <otmi:vector count='1'>excitation</otmi:vector>
+              <otmi:vector count='1'>captured</otmi:vector>
+              <otmi:vector count='1'>frustrated</otmi:vector>
+              <otmi:vector count='1'>voltage-induced</otmi:vector>
+              <otmi:vector count='1'>instability</otmi:vector>
+              <otmi:vector count='1'>cation</otmi:vector>
+              <otmi:vector count='1'>cyclic-nucleotide-gated</otmi:vector>
+              <otmi:vector count='1'>environmental</otmi:vector>
+              <otmi:vector count='1'>individually</otmi:vector>
+              <otmi:vector count='1'>Andersen–Tawil</otmi:vector>
+              <otmi:vector count='1'>proliferation</otmi:vector>
+              <otmi:vector count='1'>hERG-binding</otmi:vector>
+              <otmi:vector count='1'>routine</otmi:vector>
+              <otmi:vector count='1'>re-entrant</otmi:vector>
+              <otmi:vector count='1'>excitation–contraction</otmi:vector>
+              <otmi:vector count='1'>inner</otmi:vector>
+              <otmi:vector count='1'>proceeds</otmi:vector>
+              <otmi:vector count='1'>Potassium-selective</otmi:vector>
+              <otmi:vector count='1'>University</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>alters</otmi:vector>
+              <otmi:vector count='1'>molecule</otmi:vector>
+              <otmi:vector count='1'>creates</otmi:vector>
+              <otmi:vector count='1'>interacts</otmi:vector>
+              <otmi:vector count='1'>Less</otmi:vector>
+              <otmi:vector count='1'>therapy</otmi:vector>
+              <otmi:vector count='1'>driven</otmi:vector>
+              <otmi:vector count='1'>gain</otmi:vector>
+              <otmi:vector count='1'>dofetilide</otmi:vector>
+              <otmi:vector count='1'>160</otmi:vector>
+              <otmi:vector count='1'>misfolded</otmi:vector>
+              <otmi:vector count='1'>arrhythmias</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>unclear</otmi:vector>
+              <otmi:vector count='1'>biotin-accessibility</otmi:vector>
+              <otmi:vector count='1'>eukaryotes</otmi:vector>
+              <otmi:vector count='1'>exists</otmi:vector>
+              <otmi:vector count='1'>reduces</otmi:vector>
+              <otmi:vector count='1'>deficiency</otmi:vector>
+              <otmi:vector count='1'>Lange-Nielsen</otmi:vector>
+              <otmi:vector count='1'>protein</otmi:vector>
+              <otmi:vector count='1'>cytoplasm</otmi:vector>
+              <otmi:vector count='1'>deactivates</otmi:vector>
+              <otmi:vector count='1'>approaches</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>precede</otmi:vector>
+              <otmi:vector count='1'>prokaryotes</otmi:vector>
+              <otmi:vector count='1'>compound-specific</otmi:vector>
+              <otmi:vector count='1'>measuring</otmi:vector>
+              <otmi:vector count='1'>usually</otmi:vector>
+              <otmi:vector count='1'>well-understood</otmi:vector>
+              <otmi:vector count='1'>Perhaps</otmi:vector>
+              <otmi:vector count='1'>atrial</otmi:vector>
+              <otmi:vector count='1'>drives</otmi:vector>
+              <otmi:vector count='1'>Swapping</otmi:vector>
+              <otmi:vector count='1'>constructed</otmi:vector>
+              <otmi:vector count='1'>both</otmi:vector>
+              <otmi:vector count='1'>parallel</otmi:vector>
+              <otmi:vector count='1'>drug-monitoring</otmi:vector>
+              <otmi:vector count='1'>cardmoc</otmi:vector>
+              <otmi:vector count='1'>Rod</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>trigger</otmi:vector>
+              <otmi:vector count='1'>cycle</otmi:vector>
+              <otmi:vector count='1'>drug–drug</otmi:vector>
+              <otmi:vector count='1'>Mutated</otmi:vector>
+              <otmi:vector count='1'>cations</otmi:vector>
+              <otmi:vector count='1'>ion-conduction</otmi:vector>
+              <otmi:vector count='1'>oocytes</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>chimaera</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>bulky</otmi:vector>
+              <otmi:vector count='1'>a-subunits</otmi:vector>
+              <otmi:vector count='1'>beats</otmi:vector>
+              <otmi:vector count='1'>resembles</otmi:vector>
+              <otmi:vector count='1'>containing</otmi:vector>
+              <otmi:vector count='1'>permeability</otmi:vector>
+              <otmi:vector count='1'>autosomal</otmi:vector>
+              <otmi:vector count='1'>treated</otmi:vector>
+              <otmi:vector count='1'>4d–f</otmi:vector>
+              <otmi:vector count='1'>group</otmi:vector>
+              <otmi:vector count='1'>circumvent</otmi:vector>
+              <otmi:vector count='1'>resolve</otmi:vector>
+              <otmi:vector count='1'>divided</otmi:vector>
+              <otmi:vector count='1'>dominant-negative</otmi:vector>
+              <otmi:vector count='1'>rhythm</otmi:vector>
+              <otmi:vector count='1'>Ile-Phe-Gly</otmi:vector>
+              <otmi:vector count='1'>attempts</otmi:vector>
+              <otmi:vector count='1'>eye</otmi:vector>
+              <otmi:vector count='1'>heterologously</otmi:vector>
+              <otmi:vector count='1'>-channel</otmi:vector>
+              <otmi:vector count='1'>deletion</otmi:vector>
+              <otmi:vector count='1'>consists</otmi:vector>
+              <otmi:vector count='1'>myocyte</otmi:vector>
+              <otmi:vector count='1'>disagreements</otmi:vector>
+              <otmi:vector count='1'>diameter</otmi:vector>
+              <otmi:vector count='1'>multi-organ</otmi:vector>
+              <otmi:vector count='1'>termination</otmi:vector>
+              <otmi:vector count='1'>http:</otmi:vector>
+              <otmi:vector count='1'>terminates</otmi:vector>
+              <otmi:vector count='1'>new</otmi:vector>
+              <otmi:vector count='1'>raises</otmi:vector>
+              <otmi:vector count='1'>animals</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>occurred</otmi:vector>
+              <otmi:vector count='1'>novel</otmi:vector>
+              <otmi:vector count='1'>settle</otmi:vector>
+              <otmi:vector count='1'>unveils</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>acids</otmi:vector>
+              <otmi:vector count='1'>Drosophila</otmi:vector>
+              <otmi:vector count='1'>clearly</otmi:vector>
+              <otmi:vector count='1'>Val</otmi:vector>
+              <otmi:vector count='1'>Trp</otmi:vector>
+              <otmi:vector count='1'>transcriptional</otmi:vector>
+              <otmi:vector count='1'>review</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+              <otmi:vector count='1'>agents</otmi:vector>
+              <otmi:vector count='1'>via</otmi:vector>
+              <otmi:vector count='1'>evidence</otmi:vector>
+              <otmi:vector count='1'>intense</otmi:vector>
+              <otmi:vector count='1'>entities.</otmi:vector>
+              <otmi:vector count='1'>Phe656</otmi:vector>
+              <otmi:vector count='1'>wave</otmi:vector>
+              <otmi:vector count='1'>Jervell</otmi:vector>
+              <otmi:vector count='1'>protein–protein</otmi:vector>
+              <otmi:vector count='1'>180</otmi:vector>
+              <otmi:vector count='1'>indicated</otmi:vector>
+              <otmi:vector count='1'>minor</otmi:vector>
+              <otmi:vector count='1'>arrythmia</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>outside</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>kinetics</otmi:vector>
+              <otmi:vector count='1'>congenital</otmi:vector>
+              <otmi:vector count='1'>debated</otmi:vector>
+              <otmi:vector count='1'>sites</otmi:vector>
+              <otmi:vector count='1'>tolerated</otmi:vector>
+              <otmi:vector count='1'>passes</otmi:vector>
+              <otmi:vector count='1'>takes</otmi:vector>
+              <otmi:vector count='1'>Ala-scanning</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>Potent</otmi:vector>
+              <otmi:vector count='1'>widespread</otmi:vector>
+              <otmi:vector count='1'>polymorphisms</otmi:vector>
+              <otmi:vector count='1'>returns</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>physicochemical</otmi:vector>
+              <otmi:vector count='1'>bridges</otmi:vector>
+              <otmi:vector count='1'>safeguard</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A direct interaction between the S4–S5 linker and the activation gate was first suggested by attempts to convert the normally voltage-independent KcsA channel into a voltage-gated channel</otmi:snippet>
+              <otmi:snippet>A long action potential ensures adequate time for entry of extracellular Ca 2+ into the myocyte for optimum excitation–contraction coupling</otmi:snippet>
+              <otmi:snippet>A strongly hydrophobic attraction with Phe656 was identified for the same drugs </otmi:snippet>
+              <otmi:snippet>A summary of the ion-channel genes associated with inherited arrhythmia is presented in Table 1 </otmi:snippet>
+              <otmi:snippet>Activation of inward Na + current triggers a rapid depolarization of the membrane (phase 0)</otmi:snippet>
+              <otmi:snippet>Additional activities of a drug (for example, blocking L-type Ca 2+ channels) can counteract the effects of hERG-channel blockage on the duration of action potentials</otmi:snippet>
+              <otmi:snippet>Although Kv1–Kv4 channels also have a Gly in the same location, a different molecular hinge may mediate channel activation</otmi:snippet>
+              <otmi:snippet>Although considerable progress has been made in defining the structural basis of the voltage sensor and the activation gate in Kv channels, the mechanism and structures responsible for coupling voltage-sensor movement to channel opening (electromechanical coupling ) are less well understood</otmi:snippet>
+              <otmi:snippet>Although inactivation of hERG channels is very rapid, it is not greatly affected by N-terminal deletion </otmi:snippet>
+              <otmi:snippet>Although the crucial residues of the drug-binding site seem to have been identified, clearly not all drugs interact with hERG in the same manner</otmi:snippet>
+              <otmi:snippet>An Ala-scanning mutagenesis approach was used to identify residues of hERG that interact with several drugs</otmi:snippet>
+              <otmi:snippet>An example of altered gating is the enhanced inactivation caused by point mutations located in the extracellular linker between the S5 domain and the pore helix </otmi:snippet>
+              <otmi:snippet>An exception is Timothy syndrome, a very rare and complex multi-organ disorder that is associated with congenital heart disease, extreme QT prolongation, severe and often lethal arrhythmia, syndactyly (where toes and fingers are partly fused), immune deficiency and autism </otmi:snippet>
+              <otmi:snippet>Approximately 200 LQTS-associated mutations in HERG have been described (see the Gene Connection for the Heart website: http://pc4.fsm.it:81/cardmoc/ )</otmi:snippet>
+              <otmi:snippet>Arg 531 corresponds to the fourth basic residue in the S4 of Shaker, and it is proposed to move completely across the transmembrane electric field during the gating process </otmi:snippet>
+              <otmi:snippet>As discussed below, the answer may be that hERG has structural features that can more effectively accommodate the binding of drugs compared with other K + channels. hERG channels are blocked by chemicals with diverse structures that encompass several therapeutic drug classes, including antiarrhythmic, psychiatric, antimicrobial and antihistamine</otmi:snippet>
+              <otmi:snippet>As the membrane potential is progressively depolarized to more positive potentials, channels enter another non-conducting configuration called the inactivated state. hERG gating is unlike that of most other Kv channels in two ways</otmi:snippet>
+              <otmi:snippet>At negative membrane potentials (for example, 180 mV), hERG channels are in a non-conducting closed state ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>Before this discovery, it was known that a similar disorder could be induced by high doses of some hERG-channel blockers (for example, quinidine and dofetilide) that were, ironically, used to prevent arrhythmia</otmi:snippet>
+              <otmi:snippet>Below the selectivity filter, the pore widens into a water-filled region, called the central cavity, that is lined by the S6 α-helices</otmi:snippet>
+              <otmi:snippet>Both techniques reveal two distinct components of voltage-sensor movement that differ by nearly 100-fold in their kinetics</otmi:snippet>
+              <otmi:snippet>By contrast, X-ray structures and tethered biotin-accessibility studies of KvAP channels suggest that the voltage sensor moves like a paddle across a much larger distance (15–20 Å) </otmi:snippet>
+              <otmi:snippet>By contrast, one mutation in hERG, Asn588Lys, abolishes inactivation and increases outward repolarizing current, a gain of function</otmi:snippet>
+              <otmi:snippet>Compared with their well-understood role in cardiac repolarization, the physiological functions of hERG channels in the central nervous system are poorly understood</otmi:snippet>
+              <otmi:snippet>Current treatment for inherited LQTS consists of β-adrenergic blockers, followed by implantable defibrillators if drug therapy is inadequate</otmi:snippet>
+              <otmi:snippet>Delayed repolarization also makes cardiac muscle refractory to premature excitation — an important, but imperfect, safeguard against the generation of re-entrant arrhythmia</otmi:snippet>
+              <otmi:snippet>Delayed repolarization increases the risk of torsade de pointes (TdP), a unique cardiac arrhythmia characterized by an ECG trace that resembles a waxing and waning sine wave ( Fig. 3c )</otmi:snippet>
+              <otmi:snippet>Depolarization of the cell membrane to potentials more positive than 160 mV induces channels to open and allows the outward diffusion of K + ions in accordance with its electrochemical driving force</otmi:snippet>
+              <otmi:snippet>Despite intense scrutiny, many issues regarding the physiological functions and mechanisms of gating of hERG channels remain unresolved</otmi:snippet>
+              <otmi:snippet>Drug-induced TdP by the antiarrhythmic drug quinidine is a relatively frequent side effect, affecting 2–9% of treated patients </otmi:snippet>
+              <otmi:snippet>Drug-induced block of hERG channels Common medications can prolong the QT interval and induce TdP, effects similar to those of inherited LQTS</otmi:snippet>
+              <otmi:snippet>Each subunit comprises two functionally distinct modules, one that senses transmembrane potential (S1–S4) and one that forms the K + -selective pore (S5–S6)</otmi:snippet>
+              <otmi:snippet>First, inactivation is much faster than activation: this reduces outward conductance at depolarized potentials and prolongs phase 2 of the action potential</otmi:snippet>
+              <otmi:snippet>For example, autosomal recessive mutations in KCNQ1 , or its accessory β-subunit KCNE1 , cause a rare and more severe form of LQTS (Jervell and Lange-Nielsen syndrome) associated with sensorineural deafness</otmi:snippet>
+              <otmi:snippet>For example, cisapride-induced TdP occurred in only about 1 out of 120,000 patients prescribed this medication </otmi:snippet>
+              <otmi:snippet>For example, minK β-subunits coassemble with KCNQ1 α-subunits to form I Ks channels with radically slowed activation </otmi:snippet>
+              <otmi:snippet>Further biophysical studies that directly compare Shaker and KvAP, and a crystal structure of any Kv channel captured in the closed state, should settle the disagreements</otmi:snippet>
+              <otmi:snippet>Further mutagenesis identified the most relevant physicochemical properties of these two S6 residues</otmi:snippet>
+              <otmi:snippet>Further studies are needed to explain why hERG in particular is blocked by so many different drugs</otmi:snippet>
+              <otmi:snippet>Future directions hERG has received a tremendous amount of attention since its discovery in 1994 because inherited mutations or drug-induced blockade of channels increases the risk of lethal arrhythmia</otmi:snippet>
+              <otmi:snippet>However, all is not hopeless, because pharmaco-phore models based on a restricted and well-characterized chemical class of compound have some predictive value </otmi:snippet>
+              <otmi:snippet>However, binding of cAMP to this domain has a relatively minor effect on gating, causing a shift of only a few millivolts in the voltage dependence of channel activation </otmi:snippet>
+              <otmi:snippet>However, hERG is most highly expressed in the heart, and this is where its function — and dysfunction — is best understood</otmi:snippet>
+              <otmi:snippet>However, heteromultimeric channels formed by coassembly of full-length hERG and an alternatively spliced variant that removes the PAS domain produces a channel that deactivates quickly, similar to native I Kr </otmi:snippet>
+              <otmi:snippet>However, in clinical practice, drug-induced QT prolongation and TdP are caused by direct blockage of hERG channels , interference with hERG-channel trafficking to the cell surface or drug–drug interactions (for example, interference with metabolism) that ultimately lead to a reduction in hERG-channel current</otmi:snippet>
+              <otmi:snippet>However, inactivation of hERG is eliminated by a mutation (Ser631Val) that is homologous to the Thr449Val that removes C-type inactivation in Shaker</otmi:snippet>
+              <otmi:snippet>However, induction of TdP by drugs other than antiarrhythmic agents is rare</otmi:snippet>
+              <otmi:snippet>However, mutations and polymorphisms in MiRP1 have been associated with ventricular arrhythmia and LQTS, suggesting a role for altered electrical activity of Purkinje fibres in these cases</otmi:snippet>
+              <otmi:snippet>However, the two S6 residues (Tyr 652 and Phe 656) are not conserved — most Kv channels have an Ile and a Val in homologous positions</otmi:snippet>
+              <otmi:snippet>In addition to helping resolve the debate over S4 movement, crystal structures of the closed and open states of a single type of Kv channel would greatly aid our understanding of the mechanism of electromechanical coupling</otmi:snippet>
+              <otmi:snippet>In addition, recent X-ray crystal structures of several bacterial K + channels and a mammalian Kv1.2 K + channel have revolutionized our understanding of the structural basis of selective K + permeability and channel gating</otmi:snippet>
+              <otmi:snippet>In each subunit, the side-chain hydroxyl group of Thr and the carbonyl oxygen atoms of the other four residues face towards the narrow ion-conduction pathway</otmi:snippet>
+              <otmi:snippet>In hERG, an electrostatic interaction between specific residues in the S4–S5 linker (Asp 540) and the C-terminal region of the S6 domain (Arg 665) stabilizes the closed channel conformation </otmi:snippet>
+              <otmi:snippet>In hERG, the Thr and Tyr residues are substituted with Ser and Phe, but it is assumed that the structure of the selectivity filter is conserved</otmi:snippet>
+              <otmi:snippet>In heterologous expression systems, hERG α-subunits interact with a related β-subunit called MiRP1 (minK-related protein 1), causing decreased trafficking of channels to the cell surface and a more rapid rate of deactivation </otmi:snippet>
+              <otmi:snippet>In most forms of LQTS, the heart is structurally normal</otmi:snippet>
+              <otmi:snippet>In place of the Pro-Val-Pro motif, hERG has Ile-Phe-Gly</otmi:snippet>
+              <otmi:snippet>In response to membrane depolarization, the S6 α-helices splay outwards and increase the diameter of the aperture to allow passage of ions ( Fig. 4c )</otmi:snippet>
+              <otmi:snippet>In silico docking of drugs to homology models of hERG supports these conclusions </otmi:snippet>
+              <otmi:snippet>In the absence of a crystal structure for hERG, analysis of mutant channels has provided useful insights into their function. hERG mediates cardiac repolarization hERG is expressed in multiple tissues and cell types, including neural , smooth muscle and tumour cells </otmi:snippet>
+              <otmi:snippet>In the bacterial KcsA, MthK and KvAP channels, a conserved Gly residue in S6 is proposed to serve as the hinge for the activation gate </otmi:snippet>
+              <otmi:snippet>In the central nervous system of mammals, two other ERG channel genes are expressed ( ERG2 and ERG3 ) , and here heteromultimeric channel complexes of all three subunits can be formed </otmi:snippet>
+              <otmi:snippet>In the closed state, the four S6 domains criss-cross near the cytoplasmic interface to form a narrow aperture that is too small to permit entry of ions from the cytoplasm ( Fig. 4b )</otmi:snippet>
+              <otmi:snippet>In these channels, the S6 domain is proposed to hinge at a Pro-Val-Pro motif that is located two helical turns below the putative Gly gating hinge</otmi:snippet>
+              <otmi:snippet>In this case, gain-of-function point mutations reduce the ability of Na + channels to inactivate, resulting in a small but persistent inward current during the plateau phase that prolongs action-potential duration </otmi:snippet>
+              <otmi:snippet>In this review we summarize the normal physiological functions of hERG channels, define the structural basis of their unusual gating and describe how mutations in the HERG gene or promiscuous blocking of the channels by drugs cause arrhythmia</otmi:snippet>
+              <otmi:snippet>Individual substitution of the six charged residues in the S4 of hERG with a bulky and hydrophobic Trp residue is well tolerated and suggests that the S4 helix is not tightly packed against neighbouring helices </otmi:snippet>
+              <otmi:snippet>Inherited LQTS and TdP are caused by loss-of-function mutations in several cardiac K + channels ( Table 1 )</otmi:snippet>
+              <otmi:snippet>Inherited LQTS can also result from mutations in the cardiac Na + channel gene SCN5A </otmi:snippet>
+              <otmi:snippet>It is not known whether the PAS domain in hERG has any similar functions</otmi:snippet>
+              <otmi:snippet>It is now common practice for pharmaceutical companies to screen compounds for hERG-channel activity early during preclinical safety assessment </otmi:snippet>
+              <otmi:snippet>It is now routine practice in the pharmaceutical industry to test compounds for hERG-channel activity early in the drug-development process</otmi:snippet>
+              <otmi:snippet>Kv channels, which include Shaker, KvAP, Kv1.2 and hERG, are formed by coassembly of four identical α-subunits, each containing six α-helical transmembrane domains, S1–S6 ( Fig. 4a )</otmi:snippet>
+              <otmi:snippet>LQTS affects an estimated 1 in 5,000–10,000 people worldwide and is caused most often by dominant mutations in HERG or KCNQ1 , the α-subunit for the channel that conducts the slow delayed rectifier K + current, I Ks ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>Less commonly, mutations in accessory β-subunits that coassemble with hERG or KCNQ1 α-subunits cause LQTS ( Table 1 )</otmi:snippet>
+              <otmi:snippet>Loss-of-function mutations in the inward rectifier K + channel ( I K1 ) gene KCNJ2 cause Andersen–Tawil syndrome , which is characterized by skeletal muscle periodic paralysis and ventricular arrhythmias that result from a delay in the final stage of ventricular repolarization</otmi:snippet>
+              <otmi:snippet>MacKinnon and colleagues proposed that the S4–S5 linker functions as a lever, driven by voltage-induced changes in S4, which pushes against the S6 helices to close the channel </otmi:snippet>
+              <otmi:snippet>MiRP1 is highly expressed in Purkinje fibres of the ventricular conduction system and in pacemaker cells of the atria, but its level of expression in ventricular and atrial muscle is very low </otmi:snippet>
+              <otmi:snippet>Much of our current understanding of hERG-channel gating is inferred from detailed biophysical studies of another voltage-gated K + (Kv) channel, called Shaker, in Drosophila </otmi:snippet>
+              <otmi:snippet>Mutagenesis of S4 identified Arg 531 as the most important positively charged residue for proper voltage sensing in hERG </otmi:snippet>
+              <otmi:snippet>Mutated and misfolded hERG subunits are usually retained in the endoplasmic reticulum in the core-glycosylated form and are rapidly degraded by the ubiquitin–proteasome pathway </otmi:snippet>
+              <otmi:snippet>Mutation of a single residue in the pore helix of Shaker (Thr449Val) eliminates C-type inactivation</otmi:snippet>
+              <otmi:snippet>Mutation of the putative Gly hinge in hERG alters gating but does not prevent channel opening </otmi:snippet>
+              <otmi:snippet>Mutation of two polar residues (Thr 623 and Ser 624) located at the base of the pore helix and two aromatic residues (Tyr 652 and Phe 656) located in the S6 domain of the hERG subunit decreased the affinity of MK-499, a potent antiarrhythmic drug</otmi:snippet>
+              <otmi:snippet>Mutations can also alter hERG gating or cause dominant-negative suppression when mutant and wild-type subunits coassemble </otmi:snippet>
+              <otmi:snippet>Mutations in any of the α- or β-subunits reduce outward K + conductance, slow the rate of action-potential repolarization and result in electrical instability that can generate TdP</otmi:snippet>
+              <otmi:snippet>Mutations in certain LQTS genes can cause problems beyond an increased risk of arrhythmia</otmi:snippet>
+              <otmi:snippet>Mutations in hERG cause cardiac arrhythmia LQTS is defined by prolongation of the QT interval measured by a body surface electrocardiogram (ECG) and a greatly increased risk of ventricular fibrillation</otmi:snippet>
+              <otmi:snippet>Mutations in hERG may cause subtle neural abnormalities, previously overlooked because the cardiovascular phenotype was so severe. hERG-channel expression is upregulated in tumour cells , but it remains to be determined whether this is a key event or just one of many changes in gene expression that accompanies cell proliferation</otmi:snippet>
+              <otmi:snippet>Mutations in the cyclic-nucleotide-binding domain affect the processing of hERG channels in the endoplasmic reticulum and disrupt trafficking , but it is unclear whether this domain has an important role in gating, as it certainly does in more bona fide cyclic-nucleotide-gated (CNG) channels expressed in the rods and cones of the eye or in pacemaker (HCN) channels of the heart</otmi:snippet>
+              <otmi:snippet>Negatively charged acidic residues in S1–S3 form transient salt bridges with specific basic residues in the S4 to stabilize the closed, intermediate and open states of EAG ( ether-a-go-go ) and hERG channels</otmi:snippet>
+              <otmi:snippet>Nonetheless, measuring hERG current is more suitable for moderate to high-throughput screening than assessing changes in QT interval and arrhythmia risk in animals</otmi:snippet>
+              <otmi:snippet>Nonetheless, this level of risk is obviously unacceptable for drugs such as cisapride or terfenadine that are used to treat non-life-threatening gastrointestinal disorders or allergies</otmi:snippet>
+              <otmi:snippet>On the basis of this expression pattern and biophysical studies , it is unlikely that MiRP1 interacts with hERG outside the conduction system</otmi:snippet>
+              <otmi:snippet>Other common non-cardiac medications (such as some antihistamines and antibiotics) can also trigger ventricular arrhythmia and sudden death via block of the hERG channel</otmi:snippet>
+              <otmi:snippet>Perhaps the multiple aromatic side chains (eight per channel), arranged in two concentric rings, can accommodate multiple and compound-specific interactions, partially explaining the surprising chemical diversity of hERG blockers</otmi:snippet>
+              <otmi:snippet>Phase 1 repolarization proceeds rapidly, lasts only a few milliseconds and is followed by a much slower rate of repolarization (phase 2) called the plateau</otmi:snippet>
+              <otmi:snippet>Potassium-selective channels have diverse structures and functions</otmi:snippet>
+              <otmi:snippet>Potent blockage of hERG by cisapride and terfenadine requires an aromatic residue in position 652, suggesting the possible importance of a cation-π interaction between the positively charged N of the drug and the π-electrons of Tyr 652</otmi:snippet>
+              <otmi:snippet>Precisely how the S4 domain moves in response to changes in membrane potential is hotly debated</otmi:snippet>
+              <otmi:snippet>Rapid &apos;N-type&apos; inactivation takes place when a cytoplasmic ball-like structure tethered to the N terminus of a single subunit occludes the inner mouth of the channel pore</otmi:snippet>
+              <otmi:snippet>Recognition of rare drug-induced TdP prompted regulatory agencies to remove from the market, or relegate to restricted use, several drugs, including cisapride, sertindole, grepafloxacin, terfenadine and astemizole</otmi:snippet>
+              <otmi:snippet>Regardless of the mechanisms responsible for this promiscuity, a combination of ligand-docking and receptor homology models and quantitative structure–activity relationship analyses provides the best hope of truly predictive in silico assessment of the potential hERG-binding affinity of new chemical entities.</otmi:snippet>
+              <otmi:snippet>Regardless of the molecular mechanism, all LQTS-associated hERG mutations reduce current magnitude, a loss of function</otmi:snippet>
+              <otmi:snippet>Repolarization is much slower and occurs in three phases</otmi:snippet>
+              <otmi:snippet>Residues within the pore module were individually mutated to an Ala, and the resulting mutant channels assayed for sensitivity to potent hERG blockers </otmi:snippet>
+              <otmi:snippet>Roles for them include maintenance of the resting membrane potential in all cell types and termination of action potentials in excitable cells</otmi:snippet>
+              <otmi:snippet>Screening efforts to avoid drug blockage of hERG led to the recent discovery of novel compounds that, ironically, increase channel activity </otmi:snippet>
+              <otmi:snippet>Second, recovery from inactivation is much faster than deactivation: this initiates phase 3 repolarization of the action potential ( Fig. 1a )</otmi:snippet>
+              <otmi:snippet>Shaker/KcsA chimaera channels gate in a voltage-dependent manner only if the S4–S5 linker and a portion of the activation gate is derived from Shaker </otmi:snippet>
+              <otmi:snippet>Structural basis of hERG-channel gating The biophysical properties of I Kr were first characterized in cardiac myocytes , but cloned hERG channels heterologously expressed in oocytes and mammalian cell lines have provided the greatest insights into the structural basis of its unusual biophysical properties</otmi:snippet>
+              <otmi:snippet>Structure of the hERG channel Most of what we know about the biophysical basis of K + channel gating is derived from studies of Shaker (Kv1.1) channels</otmi:snippet>
+              <otmi:snippet>Studies are needed to determine whether activators can safely counteract the consequences of reduced hERG-channel current in LQTS</otmi:snippet>
+              <otmi:snippet>Studies in a variety of voltage-gated ion channels, including hERG, support an important role for the S4–S5 linker in channel gating</otmi:snippet>
+              <otmi:snippet>Swapping these three amino acids in hERG creates a channel that gates between the open and inactivated state but cannot close </otmi:snippet>
+              <otmi:snippet>TdP can either revert to a normal sinus rhythm or degenerate into lethal ventricular fibrillation</otmi:snippet>
+              <otmi:snippet>The C terminus contains a cyclic-nucleotide-binding domain</otmi:snippet>
+              <otmi:snippet>The QT interval is the time required for ventricular repolarization during a single cardiac cycle ( Fig. 3a, b )</otmi:snippet>
+              <otmi:snippet>The action potential of human ventricular myocytes can be divided into five distinct phases (phases 0 to 4; Fig. 1a )</otmi:snippet>
+              <otmi:snippet>The amino- and carboxy-terminal regions of hERG channels are similar to domains with well-known structure</otmi:snippet>
+              <otmi:snippet>The biophysical properties of Kv channels can be altered by the interaction of pore-forming a-subunits with accessory β-subunits</otmi:snippet>
+              <otmi:snippet>The bulk of evidence from biophysical studies of Shaker channels suggests that the S4 domain moves only slightly (5 Å) </otmi:snippet>
+              <otmi:snippet>The bulk of the charge movement occurs very slowly and can account for the slow rate of hERG channel activation and implies that a large energy barrier exists for transitions between the multiple closed states of the channel that are assumed to precede channel opening</otmi:snippet>
+              <otmi:snippet>The channel pore is asymmetrical and its dimensions change when the channel gates from a closed to an open state</otmi:snippet>
+              <otmi:snippet>The crystal structure of Kv1.2 (ref. 7 ) reveals that the voltage-sensing module is linked to the pore module by the S4–S5 linker, an amphipathic α-helix that runs parallel to the membrane near the cytoplasmic interface and passes over the C-terminal portion of the S6 α-helix within the same subunit ( Fig. 4d–f )</otmi:snippet>
+              <otmi:snippet>The crystal structures of bacterial K + channels (KcsA , MthK and KvAP ) and a mammalian channel (Kv1.2 ) solved by Rod MacKinnon and colleagues at Rockefeller University have provided extraordinary insights into the structural basis of channel function</otmi:snippet>
+              <otmi:snippet>The extracellular end of the pore is a narrow cylinder called the K + -selectivity filter that is optimally constructed for conduction of K + ions</otmi:snippet>
+              <otmi:snippet>The finding that both loss- and gain-of-function mutations in hERG can cause lethal arrhythmia emphasizes that normal electrical activity of the heart requires a finely balanced expression of ion channels</otmi:snippet>
+              <otmi:snippet>The functional consequence of most hERG mutations is a disruption of the folding of subunits and of trafficking of the channel to the cell surface membrane </otmi:snippet>
+              <otmi:snippet>The hERG N terminus contains a PAS (Per–Arnt–Sim) domain </otmi:snippet>
+              <otmi:snippet>The hERG channel is unusually susceptible to blockage by drugs in comparison with other Kv channels, suggesting that it has a unique binding site</otmi:snippet>
+              <otmi:snippet>The importance of hERG (human ether-a-go-go -related gene ) K + channels in normal human cardiac electrical activity became strikingly obvious when inherited mutations in HERG were found to cause long QT syndrome (LQTS) , a cardiac repolarization disorder that predisposes affected individuals to arrhythmia (rapid irregular heart beats that can lead to fainting and sudden death)</otmi:snippet>
+              <otmi:snippet>The mechanism of C-type inactivation, deduced by study of Kv channels other than hERG, is thought to be a slight constriction of the selectivity filter that may only occur when the outermost K + -binding site is not occupied by an ion </otmi:snippet>
+              <otmi:snippet>The most important component of phase 3 repolarization is the rapid delayed rectifier K + current ( I Kr ) conducted by hERG channels </otmi:snippet>
+              <otmi:snippet>The outermost acidic Asp residues in S2 and S3 form a coordination site for external divalent cations that shield against salt-bridge formation and shift the voltage dependence of hERG opening to more positive potentials </otmi:snippet>
+              <otmi:snippet>The plateau of cardiac action potentials is prolonged because the K + currents activated during this phase are slow to activate and/or have a reduced conductance at positive transmembrane potentials ( Fig. 1b )</otmi:snippet>
+              <otmi:snippet>The primary voltage-sensing structure of hERG and all other Kv channels is the S4 α-helical domain, which contains positively charged Lys or Arg residues in every third position</otmi:snippet>
+              <otmi:snippet>The recent development of high-capacity voltage-clamp instruments based on planar patch technology promises to streamline these screening efforts</otmi:snippet>
+              <otmi:snippet>The same residues were found to be important for binding of cisapride, terfenadine and several other drugs from diverse chemical and therapeutic classes </otmi:snippet>
+              <otmi:snippet>The selectivity filter of Kv channels is defined by the highly conserved sequence Thr-Val-Gly-Tyr-Gly (the K + signature sequence), located at the carboxy-terminal end of the pore helix </otmi:snippet>
+              <otmi:snippet>The side chains of all four residues are orientated towards the large central cavity of the channel ( Fig. 5 ), which is consistent with the observation that hERG channels are only blocked by these drugs after the channel has opened</otmi:snippet>
+              <otmi:snippet>The third phase of repolarization terminates the action potential and returns the membrane potential to its resting level (phase 4)</otmi:snippet>
+              <otmi:snippet>The transmembrane electrical field provides the force that drives the gating of Kv channels</otmi:snippet>
+              <otmi:snippet>The two pore helix residues (Thr 623 and Ser 624) are highly conserved in Kv channels and thus cannot easily explain the promiscuous blocking by drugs of hERG</otmi:snippet>
+              <otmi:snippet>This approach has limitations because drug-induced blockage of hERG does not always prolong the QT interval or induce TdP</otmi:snippet>
+              <otmi:snippet>This led to their withdrawal by drug regulatory agencies</otmi:snippet>
+              <otmi:snippet>This mutation hastens cardiac repolarization, shortens the QT interval and can cause ventricular fibrillation and sudden death </otmi:snippet>
+              <otmi:snippet>This raises the obvious question as to why blockage of hERG channels in particular causes drug-induced arrhythmia</otmi:snippet>
+              <otmi:snippet>This structure is involved in protein–protein interactions that mediate environmental sensing in prokaryotes and transcriptional regulation in eukaryotes </otmi:snippet>
+              <otmi:snippet>This toxicity is widespread, as indicated by analysis of a drug-monitoring database maintained by the World Health Organization </otmi:snippet>
+              <otmi:snippet>This unpredictability has frustrated conventional drug-design approaches to circumvent the arrythmia side effect </otmi:snippet>
+              <otmi:snippet>Thus, hERG inactivates by using a C-type mechanism that is much faster than that observed for Shaker or other Kv channels</otmi:snippet>
+              <otmi:snippet>Timothy syndrome is caused by point mutations in the cardiac L-type Ca 2+ -channel gene CACNA1C that disrupt channel inactivation</otmi:snippet>
+              <otmi:snippet>Together these oxygen atoms form several octahedral binding sites that coordinate dehydrated K + ions arranged in a single file and separated by a single water molecule </otmi:snippet>
+              <otmi:snippet>Truncation of the N-terminal domain eliminates rapid N-type inactivation in Shaker and unveils a much slower &apos;C-type&apos; inactivation</otmi:snippet>
+              <otmi:snippet>Two different mechanisms of Kv-channel inactivation have been identified</otmi:snippet>
+              <otmi:snippet>Voltage-dependent movement of the hERG S4 within the membrane electrical field can be detected as a small transient current or a change in the fluorescence of a fluorophore attached to an S4 domain </otmi:snippet>
+              <otmi:snippet>When the membrane is depolarized, the S4 moves outward</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Multiple ion channel currents shape the cardiac action potential.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Simulated human ventricular action potential with phases 0–4 indicated. An inward Na + current triggers a rapid depolarization of the membrane (phase 0). Repolarization proceeds rapidly at first (phase 1), followed by a slower rate of repolarization (phase 2). The third phase ends the action potential and returns the membrane potential to the resting level (phase 4). b , Ion-channel currents that underlie the action potential. The rapid upstroke of the action potential (phase 0) is mediated by activation of the inward Na + current, I Na . Activation of the transient outward K + current, I to , creates a brief and partial repolarization (phase 1). The plateau of the action potential (phase 2) is prolonged owing to a maintained inward current ( I Ca ) conducted by L-type Ca 2+ channels and because the outward K + currents are slow to activate (slow delayed rectifier K + current, I Ks ) or exhibit strong rectification (inward rectifier K + current, I K1 and rapid delayed rectifier K + current, I Kr , conducted by hERG channels). Phase 3 repolarization is mediated by the outward currents I Kr and I K1 . The resting potential between action potentials is called phase 4. Modelling courtesy of F. Sachse, University of Utah.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Conformation of a single hERG channel is voltage dependent.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Single hERG channels are either closed, open or inactivated, depending on transmembrane voltage. Channels are closed at negative voltages. Membrane depolarization slowly activates (opens) the channels, which then inactivate rapidly, especially at higher potentials. Repolarization of the membrane reverses the transitions between these channels states. C-type inactivation is thought to be caused by constriction of the selectivity filter (circled in red).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Reduced hERG current delays ventricular repolarization and can induce arrhythmia.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Normal human ventricular myocyte action potential (left) and a prolonged action potential simulated by reducing hERG current by 80%. b , Normal ECG trace for a single cardiac cycle (left) and abnormal ECG trace with prolonged QT interval (right). The QRS complex represents depolarization, and the T wave indicates repolarization of the ventricles. The QT interval represents the time between initial depolarization and final repolarization of the ventricles. c , Diagram of an ECG tracing showing a torsade de pointes (TdP) arrhythmia.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Structural features of voltage-gated K + channels.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>a , Diagram of a single hERG subunit containing six α-helical transmembrane domains, S1–S6. Several features of the hERG subunit are highlighted, including the S4 domain, which contains multiple basic (+) amino acids, and acidic Asp residues (-) in S1–S3 that can form salt bridges with specific basic residues in S4 during gating. Also indicated are the locations of the N-terminal PAS domain and the C-terminal cyclic-nucleotide-binding domain (cNBD). b , Structure of a KcsA K + channel crystallized in the closed state . Only two of the four subunits are shown. White spheres are K + ions located within the selectivity filter. The Gly (red) and Tyr (yellow) residues of the selectivity filter are also indicated. c , Structure of the pore domain of a Kv1.2 K + channel crystallized in the open state . Only two of the four subunits are shown. d , Crystal structure of a single Kv1.2 α-subunit viewed from the side. Colour coding of the helical domains is the same as in panel a . Grey spheres represent K + ions. e , f , Side view ( e ) and view from the cytoplasmic side ( f ) of the membrane of the crystal structure of the complete, tetrameric Kv1.2 channel .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Model of the hERG drug-binding site.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Homology model of the hERG-channel pore module (S5, S6 and pore helix of two subunits) based on the crystal structure of KvAP (ref. 6 ). The key residues that interact with structurally diverse drugs are highlighted, including Thr 623 (orange) and Ser 624 (white) located at the base of the pore helix, and Tyr 652 (yellow) and Phe 656 (magenta) located on the S6 domain.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1016/0092-8674(95)90358-5</otmi:refid>
+          <otmi:refid>info:doi/10.1053/euhj.2000.2249</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.280.5360.69</otmi:refid>
+          <otmi:refid>info:doi/10.1038/417515a</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01580</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1116269</otmi:refid>
+          <otmi:refid>info:doi/10.1111/j.1469-7793.1997.313bn.x</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s004240000467</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(95)90340-2</otmi:refid>
+          <otmi:refid>info:doi/10.1038/376683a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(01)00342-7</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cell.2004.09.011</otmi:refid>
+          <otmi:refid>info:doi/10.1161/01.RES.0000128561.28701.ea</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M502327200</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.93.5.2208</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.275.15.11241</otmi:refid>
+          <otmi:refid>info:doi/10.1161/01.CIR.0000109482.92774.3A</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35102009</otmi:refid>
+          <otmi:refid>info:doi/10.1038/417523a</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1116270</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.210244497</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02468</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)81635-9</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0960-9822(00)00516-9</otmi:refid>
+          <otmi:refid>info:doi/10.1242/jcs.02423</otmi:refid>
+          <otmi:refid>info:doi/10.1038/384078a0</otmi:refid>
+          <otmi:refid>info:doi/10.1038/384080a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0092-8674(00)80728-X</otmi:refid>
+          <otmi:refid>info:doi/10.1161/01.RES.0000084851.60947.B5</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yjmcc.2004.11.012</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2001.013296</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.180223197</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.96.1.195</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.1832721100</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.119.3.275</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2005.097386</otmi:refid>
+          <otmi:refid>info:doi/10.1074/jbc.M411042200</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200409119</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0896-6273(00)80056-2</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.0636603100</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.200308788</otmi:refid>
+          <otmi:refid>info:doi/10.1113/jphysiol.2005.089094</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0014-5793(04)00273-X</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature03819</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature01581</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.cell.2005.08.041</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.20028696</otmi:refid>
+          <otmi:refid>info:doi/10.1074/JBC.M200410200</otmi:refid>
+          <otmi:refid>info:doi/10.1085/jgp.107.5.611</otmi:refid>
+          <otmi:refid>info:doi/10.1038/379833a0</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0896-6273(95)90185-X</otmi:refid>
+          <otmi:refid>info:doi/10.1002/med.20019</otmi:refid>
+          <otmi:refid>info:doi/10.1021/jm0208875</otmi:refid>
+          <otmi:refid>info:doi/10.1124/jpet.301.2.427</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0960-894X(03)00196-3</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.tips.2005.01.003</otmi:refid>
+          <otmi:refid>info:doi/10.1177/1087057104272295</otmi:refid>
+          <otmi:refid>info:doi/10.1021/jm0205651</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.bmcl.2005.01.008</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.febslet.2005.04.039</otmi:refid>
+          <otmi:refid>info:doi/10.1158/0008-5472.CAN-03-2360</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng0196-17</otmi:refid>
+          <otmi:refid>info:doi/10.1038/ng1197-338</otmi:refid>
+          <otmi:refid>info:doi/10.1016/0092-8674(95)90359-3</otmi:refid>
+          <otmi:refid>info:doi/10.1038/32675</otmi:refid>
+          <otmi:refid>info:doi/10.1161/01.RES.0000162101.76263.8c</otmi:refid>
+          <otmi:refsnoid>22</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

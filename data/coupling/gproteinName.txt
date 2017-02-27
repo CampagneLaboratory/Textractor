@@ -1,0 +1,50 @@
+G alpha
+G alpha 12
+G alpha 13
+G alpha 16
+G alpha 16QL
+G alpha i
+G alpha i-YFP
+G alpha i1
+G alpha i2
+G alpha i2 C352G
+G alpha i3
+G alpha o
+G alpha oA C351G
+G alpha oA G alpha
+G alpha q
+G alpha q 11
+G alpha q Q209L
+G alpha q protein
+G alpha q proteins
+G beta
+G beta 1
+G beta 1 gamma
+G beta 1 gamma 2
+G beta 2
+G beta 5
+G beta gamma
+G beta1
+G beta5
+G beta5l
+G gamma
+G gamma 2
+G gamma2
+G protein Gs
+G protein beta
+G protein gamma7
+G protein transducin
+G s alpha
+Gi
+Gi protein
+Gi proteins
+Gi-2
+Gi-3
+Gi Go
+Go
+Golf
+Gq
+Gs protein
+Gs proteins
+PLC
+transducin

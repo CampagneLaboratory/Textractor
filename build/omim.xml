@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<project name="textractor-omim" basedir=".." default="index">
+    <description>
+        This is the Ant build file for maintaining and using the
+        OMIM corpus with Textractor.
+    </description>
+
+    <property name="build" location="build"/>
+
+    <!-- Index file location -->
+    <property name="basename" value="index/omim-index"/>
+
+    <!-- Java properties -->
+    <property name="debug" value="off"/>
+    <property name="fork" value="yes"/>
+    <property name="debug.jvm" value="-Ddummy=true"/>
+    <property name="debug.remote" value="-Ddummy=true"/>
+
+    <property name="classes" location="classes"/>
+    <property name="lib" location="lib"/>
+    <property name="config" location="config"/>
+    <property name="src" location="src"/>
+    <property name="output" location="output"/>
+
+    <property name="propertyFilename" value="textractor.properties"/>
+    <property file="${config}/${propertyFilename}"/>
+
+    <property name="cclastgoodbuildtimestamp" value="19700101000000"/>
+    <property name="max-memory" value="1600m"/>
+
+    <property name="threshold" value="5"/>
+    <property name="batch-size" value="2Mi"/>
+
+    <tstamp>
+        <format property="cctimestamp" pattern="yyyyMMddHHmmss"/>
+    </tstamp>
+
+    <taskdef resource="net/sf/antcontrib/antlib.xml" onerror="fail">
+        <classpath>
+            <pathelement location="${lib}/ant-contrib.jar"/>
+        </classpath>
+    </taskdef>
+
+    <path id="run.classpath">
+        <pathelement location="${config}"/>
+        <pathelement location="${classes}"/>
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+            <exclude name="ant-contrib.jar"/>
+        </fileset>
+    </path>
+
+    <target name="init">
+        <mkdir dir="output"/>
+    </target>
+
+    <target name="build-case-insensitive-store" depends="init" description="Build Case Insensitive Store">
+        <java dir="${basedir}" fork="true" failonerror="true"
+              classname="textractor.caseInsensitive.CaseInsensitiveBuilder"
+              maxmemory="999m">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="--basename ${basename}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="tf-idf" depends="init" description="Build TF-IDF">
+        <input message="Please enter the index filename (basename, eg: index/pubmed-index)"
+               addproperty="basename"
+               defaultvalue="trec-index/trec-index"/>
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.docstore.DocStore2TfIdf"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename} "/>
+            <arg line="-mindf 0.000624"/>
+            <arg line="-maxdf 0.5"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="didyoumean" depends="compile"
+            description="Create index and document store for files already loaded into the database">
+        <echo level="info" message="Creating did you mean index for PubMed."/>
+        <java dir="${basedir}" fork="true" failonerror="true"
+                  classname="textractor.didyoumean.DidYouMeanIndexer" maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.configuration" value="${config}/log4j.properties"/>
+            <arg line="-basename ${basename}"/>
+            <arg line="-indexParentheses"/>
+            <arg line="-skips"/>
+            <arg line="-wordReader textractor.mg4j.io.TweaseWordReader"/>
+            <arg line="-threshold ${threshold}"/>
+            <arg line="-batch-size ${batch-size}"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="clean">
+        <ant antfile="${build}/build.xml" target="clean" inheritrefs="true"/>
+    </target>
+
+    <target name="compile">
+        <ant antfile="${build}/build.xml" target="compile" inheritrefs="true"/>
+    </target>
+
+    <target name="enhance">
+        <ant antfile="${build}/build.xml" target="enhance" inheritrefs="true"/>
+    </target>
+
+    <target name="index" depends="clean, omim-index, docstore, didyoumean, build-case-insensitive-store, tf-idf"
+            description="Create index and document store using omim files"/>
+
+    <target name="omim-index" depends="compile">
+        <!-- Load and index -->
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/omim/indexer.xml'"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+
+    <target name="docstore" depends="compile" description="Load and build docstore using index">
+        <java dir="${basedir}"
+              fork="true"
+              failonerror="true"
+              classname="textractor.tools.chain.ChainExecutor"
+              maxmemory="${max-memory}">
+            <classpath refid="run.classpath"/>
+            <sysproperty key="log4j.debug" value="true"/>
+            <sysproperty key="log4j.configuration" value="file:///${config}/log4j.properties"/>
+            <arg line="-u 'file:///${config}/catalogs/omim/docstore.xml'"/>
+            <jvmarg value="${debug.jvm}"/>
+            <jvmarg value="${debug.remote}"/>
+        </java>
+    </target>
+</project>

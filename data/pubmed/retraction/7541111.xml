@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2009//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_090101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID>7541111</PMID>
+        <DateCreated>
+            <Year>1995</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-4793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>333</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Aug</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New England journal of medicine</Title>
+                <ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reconstitution of hematopoiesis after high-dose chemotherapy by autologous progenitor cells generated ex vivo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>283-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>BACKGROUND. Autologous peripheral-blood progenitor cells can restore hematopoiesis after high-dose chemotherapy in patients with solid tumors or hematologic cancers. We investigated the ability of peripheral-blood progenitor cells generated ex vivo to restore hematopoiesis in patients with cancer who have undergone high-dose chemotherapy. METHODS. Ten patients who had received high-dose chemotherapy were given transplants of autologous progenitor cells that had been generated ex vivo. We used 11 million CD34+ hematopoietic progenitor cells as the starting population for the cell growth. This number corresponds to less than 10 percent of the usual preparation of peripheral-blood CD34+ mononuclear cells used in leukapheresis. The CD34+ cells were grown in medium containing autologous plasma, recombinant human stem-cell factor, interleukin-1 beta, interleukin-3, interleukin-6, and erythropoietin. RESULTS. No toxic effects were observed with the infusion of the generated cells. The cells promoted a rapid and sustained hemopoietic recovery when transplanted after treatment with high-dose etoposide (1500 mg per square meter of body-surface area), ifosfamide (12 g per square meter), carboplatin (750 mg per square meter), and epirubicin (150 mg per square meter). The pattern of hematopoietic reconstitution was identical to that in historical controls treated with unseparated mononuclear cells or positively selected CD34+ cells. CONCLUSIONS. A small number of peripheral-blood CD34+ cells, when grown ex vivo, can supply a population of hematopoietic precursors that have the ability to restore blood formation in patients treated with high doses of chemotherapy. This method, which requires only a small volume of the patient's blood, may reduce the risk of tumor-cell contamination, circumvent the need for leukapheresis, and allow repeated cycles of high-dose chemotherapy.</AbstractText>
+            </Abstract>
+            <Affiliation>Albert-Ludwigs University Medical Center, Department of Hematology/Oncology, Freiburg, Germany.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brugger</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heimfeld</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berenson</LastName>
+                    <ForeName>R J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mertelsmann</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanz</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Clinical Trial, Phase I</PublicationType>
+                <PublicationType>Clinical Trial, Phase II</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Retracted Publication</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>N Engl J Med</MedlineTA>
+            <NlmUniqueID>0255562</NlmUniqueID>
+            <ISSNLinking>0028-4793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD34</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1995 Aug 3;333(5):315-6</RefSource>
+                <PMID>7596380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 1996 Jan 25;334(4):271-2</RefSource>
+                <PMID>8532015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="RetractionIn">
+                <RefSource>Kanz L, Brugger W. N Engl J Med. 2001 Jul 5;345(1):64</RefSource>
+                <PMID>11439953</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD34</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hematopoiesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hematopoietic Stem Cell Transplantation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hematopoietic Stem Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sarcoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transplantation, Autologous</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7541111</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

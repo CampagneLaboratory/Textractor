@@ -1,0 +1,453 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Biochemistry Gas with an ancient history</title>
+      <id>info:doi/10.1038/440426a</id>
+      <link href='http://dx.doi.org/10.1038/440426a' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>Don E. Canfield</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>426</prism:startingPage>
+      <prism:endingPage>427</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='body'>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='11'>methane</otmi:vector>
+              <otmi:vector count='8'>inclusions</otmi:vector>
+              <otmi:vector count='7'>primary</otmi:vector>
+              <otmi:vector count='7'>years</otmi:vector>
+              <otmi:vector count='7'>not</otmi:vector>
+              <otmi:vector count='7'>billion</otmi:vector>
+              <otmi:vector count='6'>probably</otmi:vector>
+              <otmi:vector count='6'>ago</otmi:vector>
+              <otmi:vector count='6'>biosphere</otmi:vector>
+              <otmi:vector count='6'>have</otmi:vector>
+              <otmi:vector count='6'>quartz</otmi:vector>
+              <otmi:vector count='5'>life</otmi:vector>
+              <otmi:vector count='5'>3.5</otmi:vector>
+              <otmi:vector count='5'>dykes</otmi:vector>
+              <otmi:vector count='5'>which</otmi:vector>
+              <otmi:vector count='5'>organisms</otmi:vector>
+              <otmi:vector count='5'>been</otmi:vector>
+              <otmi:vector count='4'>Formation</otmi:vector>
+              <otmi:vector count='4'>ancient</otmi:vector>
+              <otmi:vector count='4'>some</otmi:vector>
+              <otmi:vector count='4'>bubbles</otmi:vector>
+              <otmi:vector count='4'>microbial</otmi:vector>
+              <otmi:vector count='4'>Dresser</otmi:vector>
+              <otmi:vector count='4'>Ueno</otmi:vector>
+              <otmi:vector count='4'>composition</otmi:vector>
+              <otmi:vector count='4'>isotopic</otmi:vector>
+              <otmi:vector count='4'>rocks</otmi:vector>
+              <otmi:vector count='4'>but</otmi:vector>
+              <otmi:vector count='3'>silica</otmi:vector>
+              <otmi:vector count='3'>et</otmi:vector>
+              <otmi:vector count='3'>cyanobacteria</otmi:vector>
+              <otmi:vector count='3'>ecosystems</otmi:vector>
+              <otmi:vector count='3'>evidence</otmi:vector>
+              <otmi:vector count='3'>cannot</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>oxygen-producing</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>al</otmi:vector>
+              <otmi:vector count='3'>formed</otmi:vector>
+              <otmi:vector count='3'>secondary</otmi:vector>
+              <otmi:vector count='3'>these</otmi:vector>
+              <otmi:vector count='3'>known</otmi:vector>
+              <otmi:vector count='3'>subsurface</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>us</otmi:vector>
+              <otmi:vector count='3'>oxygen</otmi:vector>
+              <otmi:vector count='3'>Earth&apos;s</otmi:vector>
+              <otmi:vector count='3'>13</otmi:vector>
+              <otmi:vector count='3'>surface</otmi:vector>
+              <otmi:vector count='3'>carbon</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='3'>geological</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>growth</otmi:vector>
+              <otmi:vector count='2'>record</otmi:vector>
+              <otmi:vector count='2'>remains</otmi:vector>
+              <otmi:vector count='2'>more</otmi:vector>
+              <otmi:vector count='2'>can</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>But</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>strongly</otmi:vector>
+              <otmi:vector count='2'>Earth</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>page</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>samples</otmi:vector>
+              <otmi:vector count='2'>anoxygenic</otmi:vector>
+              <otmi:vector count='2'>associated</otmi:vector>
+              <otmi:vector count='2'>deep</otmi:vector>
+              <otmi:vector count='2'>origin</otmi:vector>
+              <otmi:vector count='2'>much</otmi:vector>
+              <otmi:vector count='2'>phototrophs</otmi:vector>
+              <otmi:vector count='2'>nature</otmi:vector>
+              <otmi:vector count='2'>Western</otmi:vector>
+              <otmi:vector count='2'>place</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>methanogens</otmi:vector>
+              <otmi:vector count='2'>slightly</otmi:vector>
+              <otmi:vector count='2'>has</otmi:vector>
+              <otmi:vector count='2'>crust</otmi:vector>
+              <otmi:vector count='2'>therefore</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>C-depleted</otmi:vector>
+              <otmi:vector count='2'>authors</otmi:vector>
+              <otmi:vector count='2'>consistent</otmi:vector>
+              <otmi:vector count='2'>one</otmi:vector>
+              <otmi:vector count='2'>together</otmi:vector>
+              <otmi:vector count='2'>sulphate</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>identified</otmi:vector>
+              <otmi:vector count='2'>into</otmi:vector>
+              <otmi:vector count='2'>series</otmi:vector>
+              <otmi:vector count='2'>non-biological</otmi:vector>
+              <otmi:vector count='2'>basalts</otmi:vector>
+              <otmi:vector count='2'>sedimentary</otmi:vector>
+              <otmi:vector count='2'>younger</otmi:vector>
+              <otmi:vector count='2'>viewed</otmi:vector>
+              <otmi:vector count='2'>tell</otmi:vector>
+              <otmi:vector count='2'>These</otmi:vector>
+              <otmi:vector count='2'>issue</otmi:vector>
+              <otmi:vector count='2'>Australia</otmi:vector>
+              <otmi:vector count='2'>C</otmi:vector>
+              <otmi:vector count='2'>fluid</otmi:vector>
+              <otmi:vector count='2'>production</otmi:vector>
+              <otmi:vector count='2'>early</otmi:vector>
+              <otmi:vector count='2'>today</otmi:vector>
+              <otmi:vector count='2'>organic</otmi:vector>
+              <otmi:vector count='2'>than</otmi:vector>
+              <otmi:vector count='2'>know</otmi:vector>
+              <otmi:vector count='2'>source</otmi:vector>
+              <otmi:vector count='2'>their</otmi:vector>
+              <otmi:vector count='2'>do</otmi:vector>
+              <otmi:vector count='2'>at</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>terminate</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>thermally</otmi:vector>
+              <otmi:vector count='1'>compelling</otmi:vector>
+              <otmi:vector count='1'>interpretation</otmi:vector>
+              <otmi:vector count='1'>vast</otmi:vector>
+              <otmi:vector count='1'>lavas</otmi:vector>
+              <otmi:vector count='1'>housing</otmi:vector>
+              <otmi:vector count='1'>lake</otmi:vector>
+              <otmi:vector count='1'>originated</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>incomplete</otmi:vector>
+              <otmi:vector count='1'>still</otmi:vector>
+              <otmi:vector count='1'>contained</otmi:vector>
+              <otmi:vector count='1'>combined</otmi:vector>
+              <otmi:vector count='1'>bubbly</otmi:vector>
+              <otmi:vector count='1'>produce</otmi:vector>
+              <otmi:vector count='1'>while</otmi:vector>
+              <otmi:vector count='1'>Other</otmi:vector>
+              <otmi:vector count='1'>Many</otmi:vector>
+              <otmi:vector count='1'>maybe</otmi:vector>
+              <otmi:vector count='1'>structures</otmi:vector>
+              <otmi:vector count='1'>emerging</otmi:vector>
+              <otmi:vector count='1'>compositions</otmi:vector>
+              <otmi:vector count='1'>further</otmi:vector>
+              <otmi:vector count='1'>complexity</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>introduced</otmi:vector>
+              <otmi:vector count='1'>sediment</otmi:vector>
+              <otmi:vector count='1'>sequence</otmi:vector>
+              <otmi:vector count='1'>proof</otmi:vector>
+              <otmi:vector count='1'>zoom</otmi:vector>
+              <otmi:vector count='1'>stromatolites</otmi:vector>
+              <otmi:vector count='1'>use</otmi:vector>
+              <otmi:vector count='1'>time</otmi:vector>
+              <otmi:vector count='1'>Another</otmi:vector>
+              <otmi:vector count='1'>unknown</otmi:vector>
+              <otmi:vector count='1'>now</otmi:vector>
+              <otmi:vector count='1'>gas</otmi:vector>
+              <otmi:vector count='1'>paper</otmi:vector>
+              <otmi:vector count='1'>Might</otmi:vector>
+              <otmi:vector count='1'>insights</otmi:vector>
+              <otmi:vector count='1'>516</otmi:vector>
+              <otmi:vector count='1'>presence</otmi:vector>
+              <otmi:vector count='1'>evolution</otmi:vector>
+              <otmi:vector count='1'>517</otmi:vector>
+              <otmi:vector count='1'>normal</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>history</otmi:vector>
+              <otmi:vector count='1'>population</otmi:vector>
+              <otmi:vector count='1'>kilometre</otmi:vector>
+              <otmi:vector count='1'>controversial</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>methanogenesis</otmi:vector>
+              <otmi:vector count='1'>anything</otmi:vector>
+              <otmi:vector count='1'>Between</otmi:vector>
+              <otmi:vector count='1'>fractured</otmi:vector>
+              <otmi:vector count='1'>concentrations</otmi:vector>
+              <otmi:vector count='1'>scattered</otmi:vector>
+              <otmi:vector count='1'>activities</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>adds</otmi:vector>
+              <otmi:vector count='1'>3.45</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>3.42-billion-year-old</otmi:vector>
+              <otmi:vector count='1'>stromatolite</otmi:vector>
+              <otmi:vector count='1'>reported</otmi:vector>
+              <otmi:vector count='1'>those</otmi:vector>
+              <otmi:vector count='1'>certain</otmi:vector>
+              <otmi:vector count='1'>usually</otmi:vector>
+              <otmi:vector count='1'>South</otmi:vector>
+              <otmi:vector count='1'>extracted</otmi:vector>
+              <otmi:vector count='1'>like</otmi:vector>
+              <otmi:vector count='1'>piece</otmi:vector>
+              <otmi:vector count='1'>return</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>deposition</otmi:vector>
+              <otmi:vector count='1'>during</otmi:vector>
+              <otmi:vector count='1'>crushed</otmi:vector>
+              <otmi:vector count='1'>complex</otmi:vector>
+              <otmi:vector count='1'>biological</otmi:vector>
+              <otmi:vector count='1'>Evidence</otmi:vector>
+              <otmi:vector count='1'>marine</otmi:vector>
+              <otmi:vector count='1'>accomplishes</otmi:vector>
+              <otmi:vector count='1'>oldest-known</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>whether</otmi:vector>
+              <otmi:vector count='1'>dominant</otmi:vector>
+              <otmi:vector count='1'>estimates</otmi:vector>
+              <otmi:vector count='1'>sulphate-reducing</otmi:vector>
+              <otmi:vector count='1'>distinct</otmi:vector>
+              <otmi:vector count='1'>producing</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>quite</otmi:vector>
+              <otmi:vector count='1'>existed</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>value</otmi:vector>
+              <otmi:vector count='1'>thermal</otmi:vector>
+              <otmi:vector count='1'>setting</otmi:vector>
+              <otmi:vector count='1'>So</otmi:vector>
+              <otmi:vector count='1'>involved</otmi:vector>
+              <otmi:vector count='1'>picture</otmi:vector>
+              <otmi:vector count='1'>type</otmi:vector>
+              <otmi:vector count='1'>investigations</otmi:vector>
+              <otmi:vector count='1'>interpreted</otmi:vector>
+              <otmi:vector count='1'>cyanobacterial</otmi:vector>
+              <otmi:vector count='1'>teeming</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>confident</otmi:vector>
+              <otmi:vector count='1'>possibly</otmi:vector>
+              <otmi:vector count='1'>minerals</otmi:vector>
+              <otmi:vector count='1'>face</otmi:vector>
+              <otmi:vector count='1'>randomly</otmi:vector>
+              <otmi:vector count='1'>resealed</otmi:vector>
+              <otmi:vector count='1'>coastal</otmi:vector>
+              <otmi:vector count='1'>Unfortunately</otmi:vector>
+              <otmi:vector count='1'>them</otmi:vector>
+              <otmi:vector count='1'>Apex</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>puzzle</otmi:vector>
+              <otmi:vector count='1'>argument</otmi:vector>
+              <otmi:vector count='1'>3.8</otmi:vector>
+              <otmi:vector count='1'>massive</otmi:vector>
+              <otmi:vector count='1'>note</otmi:vector>
+              <otmi:vector count='1'>numerous</otmi:vector>
+              <otmi:vector count='1'>colleagues</otmi:vector>
+              <otmi:vector count='1'>photosynthesis</otmi:vector>
+              <otmi:vector count='1'>contain</otmi:vector>
+              <otmi:vector count='1'>dioxide</otmi:vector>
+              <otmi:vector count='1'>measured</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>anaerobic</otmi:vector>
+              <otmi:vector count='1'>take</otmi:vector>
+              <otmi:vector count='1'>don&apos;t</otmi:vector>
+              <otmi:vector count='1'>aerobic</otmi:vector>
+              <otmi:vector count='1'>existence</otmi:vector>
+              <otmi:vector count='1'>stratigraphic</otmi:vector>
+              <otmi:vector count='1'>alone</otmi:vector>
+              <otmi:vector count='1'>pillow</otmi:vector>
+              <otmi:vector count='1'>very</otmi:vector>
+              <otmi:vector count='1'>identify</otmi:vector>
+              <otmi:vector count='1'>think</otmi:vector>
+              <otmi:vector count='1'>enquire</otmi:vector>
+              <otmi:vector count='1'>Carbon</otmi:vector>
+              <otmi:vector count='1'>gases</otmi:vector>
+              <otmi:vector count='1'>pieces</otmi:vector>
+              <otmi:vector count='1'>concentrated</otmi:vector>
+              <otmi:vector count='1'>2</otmi:vector>
+              <otmi:vector count='1'>reducers</otmi:vector>
+              <otmi:vector count='1'>forward</otmi:vector>
+              <otmi:vector count='1'>including</otmi:vector>
+              <otmi:vector count='1'>margins</otmi:vector>
+              <otmi:vector count='1'>water</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>point</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>explore</otmi:vector>
+              <otmi:vector count='1'>energy</otmi:vector>
+              <otmi:vector count='1'>others</otmi:vector>
+              <otmi:vector count='1'>microbes</otmi:vector>
+              <otmi:vector count='1'>sediments</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>extra</otmi:vector>
+              <otmi:vector count='1'>missing</otmi:vector>
+              <otmi:vector count='1'>commonly</otmi:vector>
+              <otmi:vector count='1'>environments</otmi:vector>
+              <otmi:vector count='1'>below</otmi:vector>
+              <otmi:vector count='1'>mats</otmi:vector>
+              <otmi:vector count='1'>let</otmi:vector>
+              <otmi:vector count='1'>mainly</otmi:vector>
+              <otmi:vector count='1'>layers</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>see</otmi:vector>
+              <otmi:vector count='1'>photosynthetic</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>evolved</otmi:vector>
+              <otmi:vector count='1'>CH</otmi:vector>
+              <otmi:vector count='1'>story</otmi:vector>
+              <otmi:vector count='1'>affiliation</otmi:vector>
+              <otmi:vector count='1'>Chert</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>data</otmi:vector>
+              <otmi:vector count='1'>earliest</otmi:vector>
+              <otmi:vector count='1'>Small</otmi:vector>
+              <otmi:vector count='1'>broadly</otmi:vector>
+              <otmi:vector count='1'>intruded</otmi:vector>
+              <otmi:vector count='1'>scarce</otmi:vector>
+              <otmi:vector count='1'>suggest</otmi:vector>
+              <otmi:vector count='1'>crucial</otmi:vector>
+              <otmi:vector count='1'>depleted</otmi:vector>
+              <otmi:vector count='1'>thermogenic</otmi:vector>
+              <otmi:vector count='1'>where</otmi:vector>
+              <otmi:vector count='1'>million</otmi:vector>
+              <otmi:vector count='1'>biologically</otmi:vector>
+              <otmi:vector count='1'>isotopes</otmi:vector>
+              <otmi:vector count='1'>Piecing</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>morphology</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>normally</otmi:vector>
+              <otmi:vector count='1'>putting</otmi:vector>
+              <otmi:vector count='1'>mat-forming</otmi:vector>
+              <otmi:vector count='1'>majority</otmi:vector>
+              <otmi:vector count='1'>exists</otmi:vector>
+              <otmi:vector count='1'>biogenic</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>decided</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>bacteria</otmi:vector>
+              <otmi:vector count='1'>produced</otmi:vector>
+              <otmi:vector count='1'>accept</otmi:vector>
+              <otmi:vector count='1'>means</otmi:vector>
+              <otmi:vector count='1'>here</otmi:vector>
+              <otmi:vector count='1'>specific</otmi:vector>
+              <otmi:vector count='1'>backdrop</otmi:vector>
+              <otmi:vector count='1'>jigsaw</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>anticipate</otmi:vector>
+              <otmi:vector count='1'>chemistry</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>intriguing</otmi:vector>
+              <otmi:vector count='1'>report</otmi:vector>
+              <otmi:vector count='1'>align</otmi:vector>
+              <otmi:vector count='1'>connect</otmi:vector>
+              <otmi:vector count='1'>aspect</otmi:vector>
+              <otmi:vector count='1'>Africa</otmi:vector>
+              <otmi:vector count='1'>Still</otmi:vector>
+              <otmi:vector count='1'>research</otmi:vector>
+              <otmi:vector count='1'>300</otmi:vector>
+              <otmi:vector count='1'>lack</otmi:vector>
+              <otmi:vector count='1'>good</otmi:vector>
+              <otmi:vector count='1'>its</otmi:vector>
+              <otmi:vector count='1'>precipitated</otmi:vector>
+              <otmi:vector count='1'>deposited</otmi:vector>
+              <otmi:vector count='1'>structure</otmi:vector>
+              <otmi:vector count='1'>represents</otmi:vector>
+              <otmi:vector count='1'>microorganisms.</otmi:vector>
+              <otmi:vector count='1'>hydrocarbons</otmi:vector>
+              <otmi:vector count='1'>Fossil</otmi:vector>
+              <otmi:vector count='1'>uncovered</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A deep subsurface biosphere exists today, and by some estimates it is as massive as the one on the Earth&apos;s surface</otmi:snippet>
+              <otmi:snippet>A few of the pieces connect, but many of them don&apos;t, and most are missing</otmi:snippet>
+              <otmi:snippet>All in all, I take the data at face value, and accept that the authors have probably uncovered the oldest-known samples of biologically produced gas</otmi:snippet>
+              <otmi:snippet>Another intriguing aspect to Ueno and colleagues&apos; research is its geological setting</otmi:snippet>
+              <otmi:snippet>Between 3.5 billion and 3.45 billion years ago, a series of lavas known as pillow basalts, and sedimentary rocks, were deposited in what is now the Dresser Formation</otmi:snippet>
+              <otmi:snippet>But the presence of life within Earth&apos;s crust, combined with good evidence for life in surface environments, suggest that by 3.5 billion years ago the Earth was teeming with microorganisms.</otmi:snippet>
+              <otmi:snippet>But we can be certain that an active biosphere was in place</otmi:snippet>
+              <otmi:snippet>By contrast, the methane from the primary inclusions was much more strongly depleted in 13 C, and is consistent with a microbial origin</otmi:snippet>
+              <otmi:snippet>Carbon isotopes of this type, however, cannot tell us which organisms were present</otmi:snippet>
+              <otmi:snippet>Evidence for the activities of sulphate-reducing bacteria, which use sulphate rather than oxygen in energy production, has been reported from the Dresser Formation </otmi:snippet>
+              <otmi:snippet>For further insights into early Earth ecosystems, we zoom forward around 300 million years to the Dresser Formation in Western Australia</otmi:snippet>
+              <otmi:snippet>Fossil structures known as stromatolites, which are probably of biological origin, have been found in slightly younger rocks from the same stratigraphic sequence </otmi:snippet>
+              <otmi:snippet>Here, a series of organic remains has been interpreted as possibly being those of cyanobacteria </otmi:snippet>
+              <otmi:snippet>However, microbial mats have been identified in 3.42-billion-year-old rocks from South Africa , and the chemistry of the rocks indicates that anoxygenic phototrophs (photosynthetic organisms that do not produce oxygen) were probably the dominant mat-forming organisms</otmi:snippet>
+              <otmi:snippet>In their investigations, Ueno et al . crushed samples of quartz ( Fig. 1 ) and measured the concentrations of the extracted gases and the isotopic composition of the methane carbon</otmi:snippet>
+              <otmi:snippet>It is from here that Ueno et al . ( page 516 of this issue) report evidence for the existence of an ancient population of methane- producing microbes, commonly known as methanogens</otmi:snippet>
+              <otmi:snippet>It was probably quite complex, including many of the components of modern anaerobic ecosystems</otmi:snippet>
+              <otmi:snippet>Many of the bubbles align along the growth margins of the quartz, and so are believed to have formed as the quartz was precipitated: they are viewed as primary inclusions</otmi:snippet>
+              <otmi:snippet>Might all of the methane have a non-biological source? The authors anticipate this argument and note that their primary fluid inclusions lack the higher (C 2+ ) hydrocarbons that are normally associated with the most strongly 13 C-depleted thermogenic methane</otmi:snippet>
+              <otmi:snippet>Of these, we can identify anoxygenic phototrophs, sulphate reducers and methanogens</otmi:snippet>
+              <otmi:snippet>Other bubbles are scattered randomly within the quartz (and are probably primary), while still others are concentrated where the quartz was fractured and resealed</otmi:snippet>
+              <otmi:snippet>Piecing together the early history of life from the geological record is like putting together an incomplete jigsaw puzzle</otmi:snippet>
+              <otmi:snippet>Small bubbles (fluid inclusions) are found within quartz minerals in the dykes, and these bubbles contain mainly carbon dioxide and water, but also some methane (CH 4 )</otmi:snippet>
+              <otmi:snippet>So whether or not cyanobacteria were present is crucial to our understanding of the nature of the biosphere 3.5 billion years ago</otmi:snippet>
+              <otmi:snippet>Still, the isotopic composition of the methane from the primary inclusions is not very different from that of the most 13 C-depleted, thermally formed methane</otmi:snippet>
+              <otmi:snippet>The basalts were intruded by numerous silica dykes, some of which terminate in the sedimentary layers (see Fig. 1 of the paper on page 517)</otmi:snippet>
+              <otmi:snippet>The evidence, found in the isotopic composition of organic carbon , is rather scarce, but it is compelling</otmi:snippet>
+              <otmi:snippet>The organisms involved in stromatolite growth are unknown</otmi:snippet>
+              <otmi:snippet>The primary and secondary inclusions contained methane with distinct isotopic compositions</otmi:snippet>
+              <otmi:snippet>The results of Ueno et al . do not tell us anything about the magnitude of the ancient subsurface biosphere</otmi:snippet>
+              <otmi:snippet>The secondary inclusions had a composition consistent with (but not proof of) a non-biological, thermal source of methane that was probably introduced some time after the silica dykes were first in place</otmi:snippet>
+              <otmi:snippet>The silica dykes housing the methane originated from deep in Earth&apos;s crust — maybe as much as 1 kilometre below the surface </otmi:snippet>
+              <otmi:snippet>The story is this</otmi:snippet>
+              <otmi:snippet>These are viewed as secondary inclusions</otmi:snippet>
+              <otmi:snippet>These results, therefore, point to an active subsurface biosphere</otmi:snippet>
+              <otmi:snippet>This is not the normal bubbly lake or coastal marine sediment usually associated with methanogenesis</otmi:snippet>
+              <otmi:snippet>This means that the dykes are ancient and were formed during the deposition of the sediments</otmi:snippet>
+              <otmi:snippet>This represents one of the earliest specific microbial processes to have been identified in the geological record: it adds an extra piece to the emerging picture of the structure and complexity of ancient microbial ecosystems</otmi:snippet>
+              <otmi:snippet>To explore this issue, we return to Western Australia and to the Apex Chert, which is slightly younger than the Dresser Formation</otmi:snippet>
+              <otmi:snippet>Unfortunately, a cyanobacterial affiliation cannot be decided by morphology alone, and the interpretation of these remains as biogenic is controversial </otmi:snippet>
+              <otmi:snippet>We cannot, therefore, be confident that oxygen-producing organisms existed 3.5 billion years ago</otmi:snippet>
+              <otmi:snippet>We know — or at least we think we know — that life evolved by 3.8 billion years ago</otmi:snippet>
+              <otmi:snippet>What about oxygen? An aerobic biosphere was not possible before the evolution of oxygen-producing cyanobacteria, and oxygen-producing photosynthesis accomplishes the vast majority of the primary production today</otmi:snippet>
+              <otmi:snippet>With this backdrop, let us enquire more broadly into the nature of life 3.5 billion years ago</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Inclusive evidence.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>This optical photomicrograph shows quartz from the Dresser Formation in cross-polarized light. The coloured crystals are coarse-grained quartz, which contain the tiny fluid inclusions analysed by Ueno et al . . (Image courtesy of Yuichiro Ueno; width is about 3 mm.)</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1126/science.283.5402.674</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature04584</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35065071</otmi:refid>
+          <otmi:refid>info:doi/10.1130/0016-7606(1999)111&lt;1256:OOGCSI&gt;2.3.CO;2</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02888</otmi:refid>
+          <otmi:refid>info:doi/10.1038/416076a</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0016-7037(03)00462-9</otmi:refid>
+          <otmi:refid>info:doi/10.1073/pnas.95.12.6578</otmi:refid>
+          <otmi:refsnoid>1</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

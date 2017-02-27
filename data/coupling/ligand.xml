@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Lei Shi (Weill Cornell Medical College) -->
+<ligands xsi:noNamespaceSchemaLocation="../../schemas/ligand.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ligand ligandID="dopamine">
+		<ligandNames>
+			<ligandName>DA</ligandName>
+			<ligandName>dopamine</ligandName>
+			<ligandName>dopaminergic</ligandName>
+		</ligandNames>
+		<pattern>^DRD.*</pattern>
+		<prefix>D</prefix>
+		<expanders>
+			<expander>0</expander>
+			<expander>1</expander>
+			<expander>2</expander>
+			<expander>3</expander>
+			<expander>4</expander>
+			<expander>5</expander>
+		</expanders>
+		<subgroups>
+			<subgroup subgroupID="d1">
+				<pattern>^DRD(1|5).?</pattern>
+				<expanders>
+					<expander>211</expander>
+					<expander>212</expander>
+					<expander>213</expander>
+				</expanders>
+			</subgroup>
+			<subgroup subgroupID="d2">
+				<pattern>^DRD(2|3|4).?</pattern>
+				<expanders>
+					<expander>221</expander>
+					<expander>222</expander>
+					<expander>223</expander>
+				</expanders>
+			</subgroup>
+		</subgroups>
+	</ligand>
+	<ligand ligandID="serotonin">
+		<ligandNames>
+			<ligandName>5-hydroxytryptamine</ligandName>
+			<ligandName>5HT</ligandName>
+			<ligandName>5-HT</ligandName>
+			<ligandName>serotonin</ligandName>
+			<ligandName>serotoninergic</ligandName>
+		</ligandNames>
+		<pattern>^5HT.*</pattern>
+		<prefix>5HT</prefix>
+		<expanders>
+			<expander>0</expander>
+			<expander>1</expander>
+			<expander>2</expander>
+			<expander>3</expander>
+			<expander>4</expander>
+			<expander>5</expander>
+		</expanders>
+	</ligand>
+	<ligand ligandID="histamine">
+		<ligandNames>
+			<ligandName>histamine</ligandName>
+			<ligandName>histaminergic</ligandName>
+		</ligandNames>
+		<pattern>^HRH.*</pattern>
+		<prefix>H</prefix>
+		<expanders>
+			<expander>0</expander>
+			<expander>1</expander>
+			<expander>2</expander>
+			<expander>3</expander>
+			<expander>4</expander>
+			<expander>5</expander>
+		</expanders>
+	</ligand>
+	<ligand ligandID="acetylcholine">
+		<ligandNames>
+			<ligandName>muscarinic</ligandName>
+			<ligandName>cholinergic</ligandName>
+			<ligandName>muscarinic acetylcholine</ligandName>
+		</ligandNames>
+		<pattern>^ACM.*</pattern>
+		<prefix>M</prefix>
+		<expanders>
+			<expander>0</expander>
+			<expander>1</expander>
+			<expander>2</expander>
+			<expander>3</expander>
+			<expander>4</expander>
+			<expander>5</expander>
+		</expanders>
+	</ligand>
+	<ligand ligandID="adrenergic">
+		<ligandNames>
+			<ligandName>adrenergic</ligandName>
+		</ligandNames>
+		<pattern>^AD[^M].*</pattern>
+	</ligand>
+</ligands>
